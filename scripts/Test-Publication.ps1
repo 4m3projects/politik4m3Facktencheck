@@ -11,7 +11,7 @@ $indexTexts = @{}
 . (Join-Path $PSScriptRoot 'Factcheck-Common.ps1')
 function Test-PublicFile([string]$RelativePath,[string]$Content,[string]$Origin) {
     $name = $RelativePath.Replace('\','/')
-    $allowed = $name -match '^(README\.md|AGENTS\.md|LICENSE|\.gitignore|\.gitattributes)$' -or
+    $allowed = $name -match '^(README\.md|AGENTS\.md|CLAUDE\.md|LICENSE|\.gitignore|\.gitattributes)$' -or
         $name -match '^(docs|faktenchecks)/[A-Za-z0-9_./-]+\.md$' -or
         $name -match '^scripts/[A-Za-z0-9_-]+\.ps1$' -or
         $name -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/strukturiert/(aussagen|statistik)\.json$'

@@ -1,0 +1,1619 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "mdo14671BPE",
+    "videoUrl": "https://www.youtube.com/watch?v=mdo14671BPE",
+    "durationSeconds": 10118,
+    "asOf": "2026-11-18",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.",
+    "coverageNote": "Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erster veröffentlichbarer Erfassungsstand: A0001–A0027, überwiegend Auftakt bis 00:11:10; weitere bereits gelesene Themen noch nicht im Aussageinventar. Keine Vollständigkeit behauptet."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Interview mit Naomi Seibt bei Ben",
+      "url": "https://www.youtube.com/watch?v=mdo14671BPE",
+      "details": "{ungeskriptet} by Ben; Metadatenabruf: veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahmezeitpunkt ungeklärt.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage."
+    },
+    {
+      "id": "S002",
+      "title": "Mauritz Münsters erfolgreichste Schule beim Regionalwettbewerb Jugend forscht",
+      "url": "https://gymnasium-st-mauritz.de/aktuelltermine/aktuelles/nachrichten-detail/mauritz-muensters-erfolgreichste-schule-beim-regionalwettbewerb-jugend-forscht",
+      "details": "Gymnasium St. Mauritz; Februar 2013.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Schulbericht geöffnet und Angaben zu Seibts regionalen Preisen gelesen; kein Nachweis des später behaupteten Landessieges."
+    },
+    {
+      "id": "S003",
+      "title": "Covered Call (Buy/Write)",
+      "url": "https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write",
+      "details": "Options Industry Council/OCC; Seitenstand nicht datiert, Abruf 2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Strategieerklärung einschließlich Verlust-/Gewinngrenzen und Risikohinweisen gelesen. Finanzmarkt-Bildungsangebot einer Brancheninstitution; kein Nachweis der Qualität des beworbenen Buches."
+    },
+    {
+      "id": "S004",
+      "title": "Teilnahmebedingungen Jugend forscht",
+      "url": "https://www.jugend-forscht.de/teilnahme/wichtige-infos/teilnahmebedingungen.html?key=1-2",
+      "details": "Stiftung Jugend forscht; aktuelle Fassung, 2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Abschnitte zu Weiterentwicklung, Wettbewerbsebenen und Präsentation gelesen. Kein verifizierter Regelstand aus Seibts Teilnahmejahr."
+    },
+    {
+      "id": "S005",
+      "title": "Schweigeminute zu Ehren Philipp Mißfelders",
+      "url": "https://www.bundestag.de/webarchiv/textarchiv/2015/kw29_missfelder_gedenkminute-383318",
+      "details": "Deutscher Bundestag; Gedenksitzung 17.07.2015; redaktionelle Datumszeile auf der Seite abweichend.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Amtlichen Gedenkbericht mit Sterbedatum und angegebener Todesursache gelesen; keine medizinischen Originalakten."
+    },
+    {
+      "id": "S006",
+      "title": "Venous Thromboembolism: Causes and Risk Factors",
+      "url": "https://www.nhlbi.nih.gov/health/venous-thromboembolism/causes",
+      "details": "NHLBI/NIH; aktualisiert 19.09.2022.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Erklärung zu Thrombose, Lungenembolie und familiären/genetischen Risiken gelesen; kein Einzelfallgutachten."
+    },
+    {
+      "id": "S007",
+      "title": "Departmental Vetting Policy and Outreach FAQs",
+      "url": "https://www.energy.gov/ehss/departmental-vetting-policy-and-outreach-faqs",
+      "details": "U.S. Department of Energy; aktueller Seitenstand ohne einheitliches Datum.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Erklärung zur Q-Zugangsberechtigung, Top-Secret-Vergleich und zusätzlichen Zugangsvoraussetzungen gelesen."
+    },
+    {
+      "id": "S008",
+      "title": "Jeffrey Epstein Charged In Manhattan Federal Court With Sex Trafficking Of Minors",
+      "url": "https://www.justice.gov/usao-sdny/pr/jeffrey-epstein-charged-manhattan-federal-court-sex-trafficking-minors",
+      "details": "U.S. Attorney SDNY; 08.07.2019, aktualisiert 09.07.2019.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Amtliche Anklagemitteilung gelesen. Belegt öffentliche Strafverfolgung und konkrete damalige Vorwürfe; Anklage ist kein Schuldspruch gegen Epstein oder andere Personen."
+    },
+    {
+      "id": "S009",
+      "title": "Hayek-Preis zu Münster 2018",
+      "url": "https://hayekclubmuenster.wordpress.com/2018/06/21/hayek-preis-zu-muenster-2018/",
+      "details": "Hayek-Club Münsterland; 21.06.2018.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Veranstalterbericht geöffnet; Schüler-Sonderpreis und Verlinkung des Essays gelesen. Veranstalter-Selbstauskunft."
+    },
+    {
+      "id": "S010",
+      "title": "A Deconstruction of Postmodern Socialism and its Motives",
+      "url": "https://naomiseibt.com/wp-content/uploads/2020/09/h2018-naomi-seibt.pdf",
+      "details": "Naomi Seibt; Titelblatt Mai 2018; Dokument endet mit Seite 70.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Originaldokument online geöffnet; Titelblatt, Gliederung und Newman-Analyse kontrolliert. Keine vollständige inhaltliche Prüfung dieses Essays und kein akademischer Abschlussnachweis."
+    },
+    {
+      "id": "S011",
+      "title": "Bill C-16, Royal Assent (42-1)",
+      "url": "https://www.parl.ca/DocumentViewer/en/42-1/bill/C-16/royal-assent",
+      "details": "Parliament of Canada; Zustimmung 19.06.2017; historische Gesetzesfassung.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Gesetzeszusammenfassung und Änderungen zum Diskriminierungs-/Hassschutz gelesen; kein individueller kanadischer Rechtsfall geprüft."
+    },
+    {
+      "id": "S012",
+      "title": "Die Forschungszulage auf einen Blick",
+      "url": "https://www.bescheinigung-forschungszulage.de/neu-hier",
+      "details": "Bescheinigungsstelle Forschungszulage; Angaben ab 01.01.2026; Abruf 2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Fördersätze, Höchstbeträge und Vierjahresfrist gelesen; allgemeine Förderung, keine individuelle Zusage an Kunden des Werbepartners."
+    },
+    {
+      "id": "S013",
+      "title": "Forschungszulagengesetz: Höhe der Zulage",
+      "url": "https://www.gesetze-im-internet.de/fzulg/__4.html",
+      "details": "Bundesrecht, geltende abrufbare Fassung am Prüfdatum.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Gesetzesnorm geöffnet; Förderquote und Erhöhung für KMU geprüft."
+    },
+    {
+      "id": "S014",
+      "title": "Detection of 2019 novel coronavirus by real-time RT-PCR",
+      "url": "https://pure.eur.nl/ws/files/97753902/eurosurv-25-3-5.pdf",
+      "details": "Corman et al.; Eurosurveillance 25(3), 23.01.2020; DOI 10.2807/1560-7917.ES.2020.25.3.2000045.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Originalpublikation im Universitätsrepositorium geöffnet; Entstehung, Sequenzveröffentlichungen und diagnostische Validierung gelesen. Verlags-HTML gab 403; Repositorium tatsächlich zugänglich. Keine eigene Laborreplikation."
+    },
+    {
+      "id": "S015",
+      "title": "A Novel Coronavirus from Patients with Pneumonia in China, 2019",
+      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2001017?download=true",
+      "details": "Zhu et al.; NEJM, online 24.01.2020, aktualisiert 29.01.2020.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Original-PDF online gelesen, insbesondere Ergebnisse zu klinischen Proben, Virusisolierung und Genomnachweis. Verlags-HTML gab 403; PDF zugänglich. Keine eigene experimentelle Kontrolle."
+    },
+    {
+      "id": "S016",
+      "title": "Community Guidelines strike basics on YouTube",
+      "url": "https://support.google.com/youtube/answer/2802032",
+      "details": "YouTube/Google; aktuelle Richtlinienhilfe, Abruf 2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Abschnitte zu ungelisteten/privaten Inhalten, Strikes und Kanalfolgen gelesen. Plattform-Selbstauskunft; kein historischer Einzelfallnachweis."
+    },
+    {
+      "id": "S017",
+      "title": "IPCC AR6 WGI: Frequently Asked Questions, Chapter 3",
+      "url": "https://www.ipcc.ch/report/ar6/wg1/downloads/faqs/IPCC_AR6_WGI_FAQ_Chapter_03.pdf",
+      "details": "IPCC; 2021; insbesondere FAQ 3.3.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Original-PDF geöffnet; Modellgüte, Beobachtungsvergleich und Grenzen gelesen. Berichts-HTML gab 403; PDF zugänglich."
+    },
+    {
+      "id": "S018",
+      "title": "Meet the influencer who has Musk’s ear on Germany’s far-right",
+      "url": "https://kfgo.com/2025/01/09/meet-the-influencer-who-has-musks-ear-on-germanys-far-right/",
+      "details": "Thomas Escritt/Reuters; 09.01.2025; verbreitet bei KFGO.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Reuters-Originalbericht in lizenzierter Veröffentlichung gelesen. Reuters prüfte öffentliche Interaktionen; private Nachrichten wurden laut Bericht nicht eingesehen."
+    },
+    {
+      "id": "S019",
+      "title": "Visa Waiver Program",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html?os=io__",
+      "details": "U.S. Department of State; aktueller Abrufstand.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Regeln zu 90 Tagen, Mexiko-/Kanada-Kurzreisen, ESTA und Einreiseentscheidung gelesen. Kein Seibt betreffender I-94-/Einreisebescheid geprüft."
+    },
+    {
+      "id": "S020",
+      "title": "8 CFR 208.8: Limitations on travel outside the United States",
+      "url": "https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-208/subpart-A/section-208.8",
+      "details": "eCFR; am Prüfdatum abrufbare Fassung; Normhistorie seit 1997/2000.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Absätze zu advance parole und Rückkehr in den behaupteten Verfolgerstaat gelesen; keine Entscheidung über Seibts konkreten Status."
+    },
+    {
+      "id": "S021",
+      "title": "8 USC 1182: Inadmissible aliens",
+      "url": "https://uscode.house.gov/us/usc/t8/s1182/",
+      "details": "Office of the Law Revision Counsel; geltender Online-Stand am Prüfdatum.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Abschnitt (a)(9)(B) einschließlich Dreijahres-/Zehnjahressperre und Asylantragsausnahme gelesen. Kein Nachweis individueller Aufenthaltszeiten oder Arbeitserlaubnisse."
+    },
+    {
+      "id": "S022",
+      "title": "8 USC 1158: Asylum",
+      "url": "https://uscode.house.gov/us/usc/t8/s1158/",
+      "details": "Office of the Law Revision Counsel; geltender Online-Stand am Prüfdatum.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Voraussetzungen, Beweislast und Zuständigkeiten gelesen. USCIS-Übersichtsabruf scheiterte mit 403; Gesetzestext tatsächlich zugänglich."
+    },
+    {
+      "id": "S023",
+      "title": "Romeike v. Holder, No. 12-3641",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca6/12-3641/12-3641-2013-05-14.html",
+      "details": "U.S. Court of Appeals, Sixth Circuit; 14.05.2013.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Entscheidungstext in Wiedergabe bei Justia gelesen, nicht nur die teils fehlerhafte redaktionelle Zusammenfassung. Frühere Bewilligung und spätere Aufhebung unterschieden."
+    },
+    {
+      "id": "S024",
+      "title": "BND-Gesetz: Aufgaben",
+      "url": "https://www.gesetze-im-internet.de/bndg/__1.html",
+      "details": "Bundesrecht; Abruffassung 17.11.2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Aufgabennorm geöffnet und gelesen. Allgemeine Aufgabenbeschreibung, kein individueller Überwachungsnachweis."
+    },
+    {
+      "id": "S025",
+      "title": "Stasi-Unterlagen zu Angela Merkel: Kein Herausgabeanspruch für ein Publikationsprojekt",
+      "url": "https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2026/pressemitteilung.1656474.php",
+      "details": "Verwaltungsgericht Berlin; Pressemitteilung 19/2026 vom 26.03.2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Gerichtliche Pressemitteilung einschließlich Begründung und Merkels Rollenzeitpunkten gelesen; nicht der vollständige Urteilsaktenbestand."
+    },
+    {
+      "id": "S026",
+      "title": "Schnur, Wolfgang",
+      "url": "https://www.chronik-der-mauer.de/material/179927/schnur-wolfgang?letter=S",
+      "details": "Chronik der Mauer (Zentrum für Zeithistorische Forschung/bpb/Deutschlandradio); undatiertes Personenlexikon.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Biografischen Eintrag mit IM-Erfassung 1965–1989 und Rücktritt am 14.03.1990 gelesen."
+    },
+    {
+      "id": "S027",
+      "title": "§ 188 StGB",
+      "url": "https://www.gesetze-im-internet.de/stgb/__188.html",
+      "details": "Bundesrecht; Abruffassung 17.11.2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Wortlaut zu Beleidigung, übler Nachrede und Verleumdung gegen politische Personen gelesen."
+    },
+    {
+      "id": "S028",
+      "title": "§ 130 StGB",
+      "url": "https://www.gesetze-im-internet.de/stgb/__130.html",
+      "details": "Bundesrecht; Abruffassung 17.11.2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Tatbestandsvoraussetzungen der Volksverhetzung gelesen; keine Prüfung eines unbenannten Einzelfalls."
+    },
+    {
+      "id": "S029",
+      "title": "§ 86a StGB",
+      "url": "https://www.gesetze-im-internet.de/stgb/__86a.html",
+      "details": "Bundesrecht; Abruffassung 17.11.2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Kennzeichenbegriff und Verweisung auf Ausnahmen des § 86 gelesen."
+    },
+    {
+      "id": "S030",
+      "title": "§ 86 StGB",
+      "url": "https://www.gesetze-im-internet.de/stgb/__86.html",
+      "details": "Bundesrecht; Abruffassung 17.11.2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Insbesondere Absatz 4 mit Ausnahmen für Aufklärung, Wissenschaft und Berichterstattung gelesen."
+    },
+    {
+      "id": "S031",
+      "title": "Bundestag streicht den Paragrafen zur Majestätsbeleidigung",
+      "url": "https://www.bundestag.de/webarchiv/textarchiv/2017/kw22-de-majestaetsbeleidigung-508476",
+      "details": "Deutscher Bundestag; 01.06.2017.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Parlamentsbericht über Aufhebung des § 103 und geplantes Inkrafttreten 01.01.2018 gelesen."
+    },
+    {
+      "id": "S032",
+      "title": "§ 162 VwGO",
+      "url": "https://www.gesetze-im-internet.de/vwgo/__162.html",
+      "details": "Bundesrecht; Abruffassung 17.11.2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Regeln über notwendige Aufwendungen und erstattungsfähige Anwaltsgebühren gelesen; keine Erstattungszusage für eine private Honorarvereinbarung."
+    },
+    {
+      "id": "S033",
+      "title": "§ 154 VwGO",
+      "url": "https://www.gesetze-im-internet.de/vwgo/__154.html",
+      "details": "Bundesrecht; Abruffassung 17.11.2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Kostenlast des unterliegenden Beteiligten gelesen."
+    },
+    {
+      "id": "S034",
+      "title": "HM Solicitor General v Yaxley-Lennon: Summary of reasons",
+      "url": "https://www.judiciary.uk/wp-content/uploads/2024/10/Yaxley-Lennon-Summary-of-reasons-contempt-of-court-sanction.pdf",
+      "details": "Mr Justice Johnson; 28.10.2024.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Richterliche Begründung zu zehn eingeräumten Verstößen gegen eine Unterlassungsanordnung und 18 Monaten Haft gelesen. Kein Nachweis sämtlicher späteren Festnahmen oder Haftbedingungen."
+    },
+    {
+      "id": "S035",
+      "title": "Art. 5 GG",
+      "url": "https://www.gesetze-im-internet.de/gg/art_5.html",
+      "details": "Bundesrecht; Abruffassung 17.11.2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Grundrechte und gesetzliche Schranken der Meinungsfreiheit gelesen."
+    },
+    {
+      "id": "S036",
+      "title": "§ 7 StGB",
+      "url": "https://www.gesetze-im-internet.de/stgb/__7.html",
+      "details": "Bundesrecht; Abruffassung 17.11.2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Anwendungsregeln für Auslandstaten geöffnet; keine abschließende Subsumtion der konkreten Veröffentlichung."
+    },
+    {
+      "id": "S037",
+      "title": "§ 9 StGB",
+      "url": "https://www.gesetze-im-internet.de/stgb/__9.html",
+      "details": "Bundesrecht; Abruffassung 17.11.2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Tatortregeln geöffnet; internetbezogene Einzelanwendung nicht durch diese Norm allein geklärt."
+    },
+    {
+      "id": "S038",
+      "title": "Volksverhetzung: Rechte Influencerin Naomi Seibt muss Strafe zahlen",
+      "url": "https://www1.wdr.de/nrw/muenster/seibt-volksverhetzung-influencerin-muenster-100.html",
+      "details": "Nicole Albers/WDR; 11.11.2026, 12:47 Uhr.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Vollständigen Nachrichtenbericht gelesen: 2400 Euro und Rücknahme des Einspruchs vor Termin am 10.11.2026. Sekundärquelle, Strafbefehl nicht selbst zugänglich; Aufnahmezeit des Interviews unbekannt."
+    },
+    {
+      "id": "S039",
+      "title": "Interviewepisode 353: öffentliche Podcast-Transkription",
+      "url": "https://podcasts.happyscribe.com/de/ungeskriptet-der-meinungsfreiheit-verpflichtet/353-ich-kenne-merkels-grosstes-geheimnis-naomi-seibt",
+      "details": "Happy Scribe, Podcastfassung; abrufbar am Prüfdatum; eigenständige, gegenüber YouTube versetzte Zeitachse.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Nur Anschlussbereich zu Verfahrensstand und Antragszeitpunkt ergänzend gelesen. Fremdtranskription mit unkontrollierten Namensetiketten; keine akustisch bestätigte Sprecherquelle und kein verifizierter Ersatz für die YouTube-Lücke."
+    },
+    {
+      "id": "S040",
+      "title": "NICE CG32: Recommendations – erfolgloser Zugriff",
+      "url": "https://www.nice.org.uk/guidance/cg32/chapter/Recommendations",
+      "details": "NICE; Leitlinie CG32; Abrufversuch 17.11.2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Erfolgloser Abrufversuch – kein Sachbeleg: HTML und PDF gaben 403. Suchausschnitte nicht zur Verifikation benutzt; Refeeding-Aussagen bleiben ohne Endbewertung."
+    },
+    {
+      "id": "S041",
+      "title": "The Heartlander, Winter 2020",
+      "url": "https://heartland.org/wp-content/uploads/documents/HeartlanderWinter20.pdf",
+      "details": "The Heartland Institute; Ausgabe Winter 2020, enthält Rückblick Dezember 2019.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Originalpublikation online geöffnet; Abschnitte zu Seibts Auftritt in Madrid und Zusammenarbeit gelesen. Interessengeleitete Selbstauskunft, keine Kontrolle aller Finanzierungsquellen."
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Naomi Seibt",
+      "videoRole": "Interviewgast; namentlicher Kandidat",
+      "identityBasis": "Gastname im Videokontext und autobiografischer Gesprächszusammenhang. Kein geprüfter Stimmabgleich; nicht als bestätigte Sprecheridentität verwendet."
+    },
+    {
+      "id": "SP02",
+      "name": "Ben",
+      "videoRole": "Interviewer und vermuteter Sprecher der Werbeeinspieler",
+      "identityBasis": "Kanal- und Moderationskontext; Wechsel zwischen Frage und Antwort textlich erschlossen. Keine Audio-/Videokontrolle, auch Werbestimme nicht bestätigt."
+    }
+  ],
+  "claims": [
+    {
+      "id": "mdo14671BPE-A0001",
+      "videoId": "mdo14671BPE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Gast ist zum Zeitpunkt des Gesprächs 26 Jahre alt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Altersangabe der Moderation; ein datierter amtlicher oder vergleichbar belastbarer Geburtsnachweis ist noch nicht geprüft.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Geburtsdatum und Aufnahmezeit unabhängig sichern."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0001",
+          "startSeconds": 104,
+          "endSeconds": 115,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0002",
+      "videoId": "mdo14671BPE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt nahm an Veranstaltungen zur Amtseinführung Donald Trumps teil.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Vereidigungszeremonie, öffentliche Begleitveranstaltungen und Ball sind zu unterscheiden. Die genaue Veranstaltung ist noch nicht unabhängig nachgewiesen.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Veranstaltung und welche Zugangskategorie sind durch zeitgenössische Belege bestätigt?"
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0002",
+          "startSeconds": 115,
+          "endSeconds": 122,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "mdo14671BPE-O0003",
+          "startSeconds": 6413,
+          "endSeconds": 6419,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0003",
+      "videoId": "mdo14671BPE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Unter den internationalen Gästen der Amtseinführung seien nur sehr wenige Personen wie Seibt gewesen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Mengenbehauptung braucht eine definierte Veranstaltung und einen belastbaren Vergleichsnenner.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Gästeliste, Veranstaltung und Bezugsgruppe feststellen."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0004",
+          "startSeconds": 115,
+          "endSeconds": 122,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0004",
+      "videoId": "mdo14671BPE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt habe das Gespräch zwischen Alice Weidel und Elon Musk organisiert.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Öffentliche Musk-Interaktionen sind dokumentiert, belegen aber nicht die konkrete Organisation des Weidel-Gesprächs.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S018",
+          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        }
+      ],
+      "openQuestions": [
+        "Zeitgenössische Bestätigung der Beteiligten oder organisatorische Nachweise finden."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0005",
+          "startSeconds": 122,
+          "endSeconds": 126,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0005",
+      "videoId": "mdo14671BPE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein reguläres Folgen des Podcasts auf YouTube oder Spotify koste kein Geld.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Gemeint ist offenbar das kostenlose Folgen, nicht Bezahlabonnements oder Datenkosten. Plattformbedingungen sind für diese konkrete Aussage noch zu prüfen.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Kostenfreie Follow-Funktionen zum Veröffentlichungszeitpunkt belegen."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0006",
+          "startSeconds": 146,
+          "endSeconds": 151,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0006",
+      "videoId": "mdo14671BPE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein laufender Asylantrag hindere Seibt daran, die USA derzeit zu verlassen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Ausreise ohne advance parole gefährdet den Antrag. Ein ausnahmsloses Ausreiseverbot folgt daraus nicht; Seibts individuelle Reiseberechtigung ist unbekannt.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S020",
+          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        }
+      ],
+      "openQuestions": [
+        "Individueller Status und mögliche zusätzliche Einreisehindernisse ungeprüft."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0007",
+          "startSeconds": 106,
+          "endSeconds": 114,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "mdo14671BPE-O0008",
+          "startSeconds": 8217,
+          "endSeconds": 8230,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0007",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine jetzige Ausreise würde für Seibt eine zehnjährige Wiedereinreisesperre auslösen.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Die gesetzliche Sperre hängt unter anderem von anrechenbarem unerlaubtem Aufenthalt ab; ein Asylantrag allein löst sie nicht aus. Die persönlichen Voraussetzungen sind nicht nachgewiesen.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S021",
+          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S020",
+          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        }
+      ],
+      "openQuestions": [
+        "Einreise-, Antrags- und Arbeitsberechtigungsdaten sowie einschlägige Entscheidung sichern. Keine individuelle Rechtsberatung aus allgemeinen Normen ableiten."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0009",
+          "startSeconds": 176,
+          "endSeconds": 179,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0008",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt habe in den USA einen Asylantrag gestellt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Im Gespräch bejaht; ein Antrag oder eine verifizierbare Bestätigung des konkreten Verfahrens liegt dieser Prüfung nicht vor.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Existenz und Zeitpunkt des Antrags datenschutzgerecht durch belastbare Bestätigung prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0010",
+          "startSeconds": 180,
+          "endSeconds": 187,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "mdo14671BPE-O0011",
+          "startSeconds": 10,
+          "endSeconds": 15,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "mdo14671BPE-O0012",
+          "startSeconds": 6492,
+          "endSeconds": 6496,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0009",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Gegen Seibt habe es wegen eines eigenen Posts ein Volksverhetzungsverfahren gegeben.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "WDR berichtet am 11.11.2026 über einen rechtskräftigen Strafbefehl nach zurückgezogenem Einspruch und 2400 Euro Geldstrafe. Der Originalbescheid fehlt; Aufnahmezeit und gemeinter Post sind nicht abschließend zugeordnet.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S038",
+          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        }
+      ],
+      "openQuestions": [
+        "Aktenzeichen, Strafbefehl und Aufnahmezeit fehlen; keine Kenntnis des späteren Verfahrensstands bei Aufnahme unterstellen."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0013",
+          "startSeconds": 191,
+          "endSeconds": 201,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0010",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein weiteres Verfahren wegen einer als NS-Geste interpretierten Abbildung habe sich erledigt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Vom Volksverhetzungspost zu trennen; keine Erledigungsentscheidung oder Aktenzuordnung gelesen.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Einstellungs-/Erledigungsentscheidung des konkret gemeinten zweiten Verfahrens finden."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0014",
+          "startSeconds": 199,
+          "endSeconds": 208,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0011",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das beanstandete Bild habe aus einem Süddeutsche-Zeitung-Artikel über Krah beziehungsweise junge AfD-Wähler gestammt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der konkrete Artikel und das betreffende Bild wurden nicht eingesehen. Aus Herkunft aus einer Zeitung folgt allein keine Rechtmäßigkeit jeder Weiterverwendung.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Artikel, Datum und beanstandete Weiterverwendung identifizieren; fremdes Bild nicht ins Repository übernehmen."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0015",
+          "startSeconds": 208,
+          "endSeconds": 227,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0012",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die umstrittene Armhaltung sei lediglich eine durch den Bildausschnitt missverstandene Begrüßung gewesen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Ohne Originalabbildung und rechtlichen Kontext ist die Einzelfalldeutung nicht verifiziert.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Bildkontext und behördliche Begründung kontrollieren, keine Gestenbeurteilung aus Untertiteln."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0016",
+          "startSeconds": 227,
+          "endSeconds": 258,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0013",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt habe ein Abitur mit einer Note im Einserbereich abgelegt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Moderationsangabe und anschließende autobiografische Einordnung; Zeugnis oder belastbarer zeitgenössischer Nachweis ungeprüft.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Schulabschluss und konkrete Note unabhängig belegen."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0017",
+          "startSeconds": 265,
+          "endSeconds": 272,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0014",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt sei als hochbegabt diagnostisch bestätigt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Zunächst als Vermutung formuliert, später als Voraussetzung verwendet. Kein Testnachweis gelesen; Schulleistungen bestätigen keinen bestimmten IQ.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Liegt eine freiwillig veröffentlichte diagnostische Bestätigung vor?"
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0018",
+          "startSeconds": 266,
+          "endSeconds": 272,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "mdo14671BPE-O0019",
+          "startSeconds": 865,
+          "endSeconds": 873,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0015",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt habe mit etwa 14 Jahren ein Bewerbungsgespräch für Jura an der Universität Cambridge geführt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Autobiografischer Bericht; Bewerbung, Einladung und genaue Programmart fehlen. Ein Gespräch ist keine Zulassung.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Datum, Alter und Art des Cambridge-Programms klären."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0020",
+          "startSeconds": 346,
+          "endSeconds": 374,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "mdo14671BPE-O0021",
+          "startSeconds": 504,
+          "endSeconds": 513,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "mdo14671BPE-O0022",
+          "startSeconds": 1114,
+          "endSeconds": 1123,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0016",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Cambridge wird der Ivy League zugerechnet.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Im Satz ist unklar, ob eine wörtliche Gruppenzugehörigkeit gemeint oder der Begriff umgangssprachlich für Eliteuniversitäten gebraucht wird. Ohne diese Klärung kein Urteil über die persönliche Bewerbung.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Originalstelle kontrollieren und institutionelle Zuordnung gesondert belegen."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0023",
+          "startSeconds": 359,
+          "endSeconds": 365,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0017",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt sei früh eingeschult worden und habe die erste Klasse nach etwa zwei Monaten übersprungen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Zwei zusammenhängende Schulbiografiedaten; beide ohne unabhängigen Schulnachweis.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Einschulungsalter und Zeitpunkt des Überspringens aus belastbarer Quelle feststellen."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0024",
+          "startSeconds": 509,
+          "endSeconds": 556,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0018",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt habe mit 16 Jahren Abitur gemacht.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Eigenbericht; kein Abschlussdokument geprüft.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Abschlussjahr und Alter belegen."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0025",
+          "startSeconds": 513,
+          "endSeconds": 520,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0019",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In Deutschland beginne die Schule üblicherweise mit sechs Jahren.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Grobe Regelbeschreibung; Landesrecht, Stichtage und tatsächliche Einschulungsstatistik sind noch zu prüfen.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "NRW-Regelung und statistische Altersverteilung unterscheiden."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0026",
+          "startSeconds": 520,
+          "endSeconds": 528,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0020",
+      "videoId": "mdo14671BPE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Libertäre Gesellschaftsordnungen seien in Deutschland beziehungsweise heterogenen Gesellschaften nicht praktikabel.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Politische Machbarkeitsbeurteilung ohne festgelegten empirischen Erfolgsmaßstab; keine überprüfte allgemeine Gesetzmäßigkeit.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0027",
+          "startSeconds": 480,
+          "endSeconds": 496,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0021",
+      "videoId": "mdo14671BPE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Covered Calls vermindern Verluste gegenüber dem Halten derselben Aktie.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die vereinnahmte Prämie puffert Kursverluste begrenzt; ein erheblicher Aktienverlust bleibt möglich. Dafür wird das Gewinnpotenzial oberhalb des Ausübungspreises begrenzt.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        }
+      ],
+      "openQuestions": [
+        "Keine Prüfung des individuellen Handelsverhaltens oder der Buchergebnisse."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0028",
+          "startSeconds": 625,
+          "endSeconds": 635,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0022",
+      "videoId": "mdo14671BPE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die beworbene Optionsstrategie lasse sich leicht lernen und zuverlässig wiederholen.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Werbeversprechen über Lernaufwand und praktische Umsetzbarkeit. Eine Strategiebeschreibung belegt keine Eignung für beliebige Anfänger.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        }
+      ],
+      "openQuestions": [
+        "Voraussetzungen, Transaktionskosten und belastbare Ergebnisse des beworbenen Lernkonzepts prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0029",
+          "startSeconds": 625,
+          "endSeconds": 633,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0023",
+      "videoId": "mdo14671BPE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das beworbene Buch begleite eine Anfängerin durch 16 Wochen mit sämtlichen Transaktionen einschließlich Verlustfällen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Konkrete Inhaltswerbung; das Buch wurde nicht eingesehen.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Buchinhalt und Vollständigkeit des Handelsprotokolls prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0030",
+          "startSeconds": 635,
+          "endSeconds": 644,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0024",
+      "videoId": "mdo14671BPE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach der Lektüre könne man die Handelsstrategie konkret umsetzen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Das Erfolgsversprechen ist ohne Prüfung des Buchs und der vorausgesetzten Kenntnisse nicht bestätigt.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Lernvoraussetzungen, Risikodarstellung und Übungen im Buch prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0031",
+          "startSeconds": 644,
+          "endSeconds": 649,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0025",
+      "videoId": "mdo14671BPE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Zum Buchangebot gehörten eine kostenlose Telegram-Community und kostenlose Livegespräche mit dem Autor.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Zwei angebotsbezogene Teilleistungen; Bedingungen und mögliche Zugangsbeschränkungen ungeprüft.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Für beide Leistungen Kosten, Zugang und zeitliche Bedingungen am Veröffentlichungsdatum sichern."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0032",
+          "startSeconds": 649,
+          "endSeconds": 654,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0026",
+      "videoId": "mdo14671BPE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Über die beworbene Adresse könne man das Buch beim Autor handsigniert oder über Amazon beziehen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Angebots- und Linkbehauptung; Shop und Signierbedingungen noch nicht geprüft.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Zielseite, Verfügbarkeit und Signierbedingungen prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0033",
+          "startSeconds": 654,
+          "endSeconds": 669,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0027",
+      "videoId": "mdo14671BPE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die deutsche Rentenversicherung verdiene kein langfristiges Vertrauen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Persönliche Einschätzung als Einstieg in einen Werbeblock; kein konkret bezifferter Rentenanspruch wird behauptet.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0034",
+          "startSeconds": 596,
+          "endSeconds": 607,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    }
+  ]
+}
