@@ -1,0 +1,437 @@
+# Kapitel 07: strukturierte Faktenprüfung
+
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0084: Auftakt bis zum zweiten Werbeblock (00:42:23), mit einzeln ausgewiesenen späteren Wiederholungen. Weitere gelesene Abschnitte noch nicht vollständig erfasst.
+
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
+
+## mdo14671BPE-A0066
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Seibt habe ungefähr sechs Monate Volkswirtschaftslehre in Mannheim studiert.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:32:20–00:32:41](https://www.youtube.com/watch?v=mdo14671BPE&t=1940s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Autobiografische Angabe; kein unabhängiger Immatrikulations- oder Studienzeitnachweis gelesen.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Studiengang und Zeitraum nur mit freiwillig zugänglichen Belegen bestätigen.
+
+## mdo14671BPE-A0067
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Seibt habe 2018 einen eigenständigen englischen Essay für den Hayek-Wettbewerb verfasst.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:32:42–00:33:45](https://www.youtube.com/watch?v=mdo14671BPE&t=1962s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Originaldokument mit Titelblatt Mai 2018 und Veranstalterbericht mit Schüler-Sonderpreis sind zugänglich. Dies belegt einen Essay, keinen Bachelorabschluss und keine wissenschaftliche Validierung aller darin vertretenen Thesen.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+
+### Zugeordnete Quellen
+
+- [Hayek-Preis zu Münster 2018](https://hayekclubmuenster.wordpress.com/2018/06/21/hayek-preis-zu-muenster-2018/) · Hayek-Club Münsterland; 21.06.2018.
+  Quellenzugriff am 2026-11-17. Veranstalterbericht geöffnet; Schüler-Sonderpreis und Verlinkung des Essays gelesen. Veranstalter-Selbstauskunft. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+
+- [A Deconstruction of Postmodern Socialism and its Motives](https://naomiseibt.com/wp-content/uploads/2020/09/h2018-naomi-seibt.pdf) · Naomi Seibt; Titelblatt Mai 2018; Dokument endet mit Seite 70.
+  Quellenzugriff am 2026-11-17. Originaldokument online geöffnet; Titelblatt, Gliederung und Newman-Analyse kontrolliert. Keine vollständige inhaltliche Prüfung dieses Essays und kein akademischer Abschlussnachweis. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mdo14671BPE-A0068
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Der Umfang des Hayek-Essays betrage ungefähr 60 Seiten.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:33:23–00:33:42](https://www.youtube.com/watch?v=mdo14671BPE&t=2003s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Das zugängliche Dokument endet bei Seite 70 und enthält Literatur und Anhang. Die ungefähre Angabe passt eher zum Haupttext als zum gesamten Dokument.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+
+### Zugeordnete Quellen
+
+- [A Deconstruction of Postmodern Socialism and its Motives](https://naomiseibt.com/wp-content/uploads/2020/09/h2018-naomi-seibt.pdf) · Naomi Seibt; Titelblatt Mai 2018; Dokument endet mit Seite 70.
+  Quellenzugriff am 2026-11-17. Originaldokument online geöffnet; Titelblatt, Gliederung und Newman-Analyse kontrolliert. Keine vollständige inhaltliche Prüfung dieses Essays und kein akademischer Abschlussnachweis. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mdo14671BPE-A0069
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Seibts Essay enthalte eine ausführliche Analyse des Gesprächs zwischen Jordan Peterson und Cathy Newman.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:37:45–00:38:11](https://www.youtube.com/watch?v=mdo14671BPE&t=2265s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der zugängliche Essay enthält einen ausgedehnten entsprechenden Analyseabschnitt. Das bestätigt dessen Existenz, nicht dessen argumentatives Ergebnis.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+
+### Zugeordnete Quellen
+
+- [A Deconstruction of Postmodern Socialism and its Motives](https://naomiseibt.com/wp-content/uploads/2020/09/h2018-naomi-seibt.pdf) · Naomi Seibt; Titelblatt Mai 2018; Dokument endet mit Seite 70.
+  Quellenzugriff am 2026-11-17. Originaldokument online geöffnet; Titelblatt, Gliederung und Newman-Analyse kontrolliert. Keine vollständige inhaltliche Prüfung dieses Essays und kein akademischer Abschlussnachweis. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mdo14671BPE-A0070
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Heutige Sozialleistungsbeziehende lebten generell besser als wohlhabende Menschen vor rund 200 Jahren.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:34:35–00:34:53](https://www.youtube.com/watch?v=mdo14671BPE&t=2075s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Lebensstandard ist mehrdimensional; medizinische Versorgung, materielle Güter, relative Stellung und Lebensrisiken können zu unterschiedlichen Vergleichen führen.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Land, Vergleichsgruppe, Jahr und messbare Lebensstandardindikatoren festlegen; pauschalen Vergleich nicht als historische Statistik behandeln.
+
+## mdo14671BPE-A0071
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Sozialismus entspringe im Kern Neid und Gleichmacherei, Kapitalismus verbessere das Leben aller.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [00:33:46–00:35:00](https://www.youtube.com/watch?v=mdo14671BPE&t=2026s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Politisch-philosophische Deutung mit pauschalem Kausalanspruch. Konkrete historische Verteilungswirkungen wären separat und operationalisiert zu prüfen.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mdo14671BPE-A0072
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Stefan Molyneux habe 2020 seinen YouTube-Kanal verloren.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:36:36–00:36:52](https://www.youtube.com/watch?v=mdo14671BPE&t=2196s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Konkretes Plattformereignis, historischer Beleg noch nicht geöffnet.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Zeitgenössische Plattformbestätigung, Datum und Löschgrund prüfen.
+
+## mdo14671BPE-A0073
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Molyneux habe Peterson, Milo Yiannopoulos und Alex Jones interviewt.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:36:56–00:37:18](https://www.youtube.com/watch?v=mdo14671BPE&t=2216s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Drei separat nachweisbare Gesprächsvorkommen; in diesem Stand noch nicht einzeln verifiziert.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Für jede der drei Personen Originalsendung und Datum belegen.
+
+## mdo14671BPE-A0074
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Peterson habe schon 2017 oder 2018 ein später als Peterson Academy bezeichnetes Hochschulkonzept besprochen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:37:14–00:37:28](https://www.youtube.com/watch?v=mdo14671BPE&t=2234s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Frühe Idee und spätere Institution sind nicht gleichzusetzen; die konkrete Sendung ist ungeprüft.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Historisches Gespräch auffinden und damaliges Konzept von späterer Anbietergründung trennen.
+
+## mdo14671BPE-A0075
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Das kanadische Gesetz C-16 schreibe pauschal die Verwendung bestimmter Pronomen vor.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:37:28–00:37:44](https://www.youtube.com/watch?v=mdo14671BPE&t=2248s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+- [00:37:37–00:37:44](https://www.youtube.com/watch?v=mdo14671BPE&t=2257s) · nicht bestaetigt; Kandidat: Ben · Ausdrückliche Zustimmung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlicher unmittelbarer Übernahmekontext; Stimme und genaue Bezugsspanne unkontrolliert.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Kurze Anschlussreaktion textlich als mögliche Übernahme; Sprecherwechsel nicht akustisch kontrolliert.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Das Gesetz von 2017 ergänzt Diskriminierungs- und Hassschutz. Es formuliert keinen allgemeinen Pronomen-Straftatbestand; konkrete Diskriminierungssituationen erfordern gesonderte rechtliche Prüfung.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+
+### Zugeordnete Quellen
+
+- [Bill C-16, Royal Assent (42-1)](https://www.parl.ca/DocumentViewer/en/42-1/bill/C-16/royal-assent) · Parliament of Canada; Zustimmung 19.06.2017; historische Gesetzesfassung.
+  Quellenzugriff am 2026-11-17. Gesetzeszusammenfassung und Änderungen zum Diskriminierungs-/Hassschutz gelesen; kein individueller kanadischer Rechtsfall geprüft. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Aussage über jeden möglichen Einzelfall oder die gesamte kanadische Rechtsprechung.
+
+[Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
