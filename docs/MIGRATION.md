@@ -56,3 +56,9 @@ Die automatischen Prüfungen umfassen Datenstruktur, Fakten- und Personenstatist
 ## Erweiterung um Kapitel 1
 
 [Redaktioneller Prüfbericht](KAPITEL01_MIGRATION.md): drei weitere Altpunkte, acht neue IDs A0011–A0018 und O0019 an der bestehenden A0007. Die folgenden Kapitel sind nicht weiter migriert. Die redaktionellen Entscheidungen zu A0011/A0012 (In Bearbeitung, ohne Endbewertung) und A0014 (Belegt, korrigierte Seitenangabe) sind akzeptiert. Dieser Stand ist zur Veröffentlichung freigegeben; die frühere Quellen- und Statusbilanz oben beschreibt den Ausgangsstand.
+
+## Erweiterung um Kapitel 2
+
+[Migration und Recherchegrenzen](KAPITEL02_MIGRATION.md): weitere 14 Altpunkte, A0019–A0076 und neue Vorkommen ab O0020. Insgesamt 20 von 99 Altpunkten übertragen, 79 verbleiben. 76 Datensätze enthalten 75 Inhalte mit eigenem Aussagebezug und eine ausschließlich erörterte These. A0001–A0018 samt O0019 bleiben erhalten; nur der Fehlerhinweis zu S019 wurde am Aussageverweis ergänzt. Die oben genannten früheren Zahlen sind historische Stände.
+
+Die Erkenntnisse aus Issue #1 sind berücksichtigt: keine künstlichen Aussagen für Wiederholungs-Altpunkte; eine minimale Herkunftserweiterung erst beim konkreten Bedarf. In Kapitel 2 hat jeder Altpunkt eigene Prüfgegenstände. Fehlgeschlagene Abrufe werden am jeweiligen Aussageverweis ausdrücklich als kein Sachbeleg markiert. Keine neue Architektur, keine weitere Migration von Kapitel 3. Vorlage als Draft Pull Request auf eigenem Branch; kein Merge ohne ausdrückliche Freigabe.

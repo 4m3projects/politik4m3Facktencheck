@@ -5,8 +5,9 @@ Ein offenes Lernprojekt für quellenbasierte deutschsprachige Faktenchecks zu ei
 ## Vorhandener Datenbestand
 
 - [Bisherige Auswertung: Horst Lüning bei Ben](faktenchecks/mlxFA9T88I0/README.md): 14 unveränderte Berichtdateien mit 99 ursprünglichen Prüfpunkten; übernommener Arbeitsstand mit offenen Teilprüfungen.
-- [Strukturierte Auswertung desselben Videos](faktenchecks/mlxFA9T88I0/strukturiert/README.md): 18 eigenständige Aussagen aus **sechs von 99** ursprünglichen Prüfpunkten. Kapitel 1 ist mit allen drei alten Punkten übertragen; 93 sind noch nicht übertragen. **Keine Statistik des vollständigen Videos.**
+- [Strukturierte Auswertung desselben Videos](faktenchecks/mlxFA9T88I0/strukturiert/README.md): **20 von 99** ursprünglichen Prüfpunkten übertragen, darunter Kapitel 1 und alle 14 Altpunkte von Kapitel 2. 76 Datensätze enthalten 75 Inhalte mit eigenem Aussagebezug und einen ausschließlich erörterten Erklärungsversuch. 79 Altpunkte bleiben offen für die Migration. **Keine Statistik des vollständigen Videos.**
 - [Redaktioneller Prüfbericht zu Kapitel 1](docs/KAPITEL01_MIGRATION.md).
+- [Migration und Recherchegrenzen von Kapitel 2](docs/KAPITEL02_MIGRATION.md).
 - [Herkunft und Migration](docs/MIGRATION.md) und [Datenmodell / Entwickleranleitung](docs/STRUKTURIERTE_DATEN.md).
 
 ## Ein Video hinzufügen und bearbeiten
@@ -66,3 +67,5 @@ Der [Publikationsprüfer](scripts/Test-Publication.ps1) kontrolliert Arbeitsbaum
 Die [MIT-Lizenz](LICENSE) gilt für eigene Beiträge im Umfang der vorhandenen Rechte. Sie lizenziert keine Drittquellen, verlinkten Videos oder Persönlichkeitsrechte um. Eine Zustimmung oder Verbindung der untersuchten Kanäle wird nicht behauptet.
 
 KI-unterstützte Auswertungen können Fehler enthalten. Jede Auswertung nennt Grundlage, Datum, Rechercheumfang und offene Punkte. Korrekturen mit konkreter Aussage-ID und Quelle sind willkommen. Die Ersterfassung wurde aus einer vorhandenen privaten Arbeitsauswertung übernommen; dabei erfolgte keine erneute vollständige Sachrecherche.
+
+Weitere Kapitel werden auf einem eigenen Branch bearbeitet und als Draft Pull Request gegen main zur unabhängigen Prüfung vorgelegt. Die Review-Diskussion erfolgt öffentlich auf GitHub. Ein Merge setzt die ausdrückliche Freigabe des Auftraggebers voraus. Kapitel 3 ist in diesem Arbeitsschritt nicht weiter migriert.
