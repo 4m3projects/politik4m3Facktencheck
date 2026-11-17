@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Nur drei von 99 ursprünglichen Prüfpunkten sind strukturiert erfasst: C03-P07, C06-P09 und C08-P03 mit zehn Teilbehauptungen. Die übrigen 96 sind nicht migriert. Keine Statistik des vollständigen Videos.
+Abdeckung: Teilbestand: sechs von 99 ursprünglichen Prüfpunkten übertragen. Kapitel 1 mit allen drei bisherigen Punkten sowie C03-P07, C06-P09 und C08-P03. 18 eigenständige Aussagen; im Auftakt neun unterschiedliche Inhalte, davon A0007 bereits vorhanden. 93 Altpunkte nicht migriert. Keine Statistik des vollständigen Videos.
 
 Herkunftscommit: bb6e666961baf719d02671a7ad2f439086f3c530
 
@@ -132,3 +132,120 @@ Bewertungsuebergang mlxFA9T88I0-A0009: Die neue Einzelbewertung wird aus der bis
 
 
 Bewertungsuebergang mlxFA9T88I0-A0010: Die neue Einzelbewertung wird aus der bisherigen Begründung abgeleitet. Die historische Sammelbewertung bleibt im Herkunftstext erhalten.
+
+
+## C01-P01
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md)
+
+Referenzhash der Kapiteldatei: 8d65abb5f521b3c368bc66bcdc212c2530371aff378cdd1715cf4f073c51e3e8
+
+Getrennt werden Arbeitsmarkttrend (A0011), Leistungsanspruch für Wohnen/Heizen (A0012) und die Anreizannahme (A0013). Keine pauschale Übernahme der alten Sammelbewertung. Die rhetorische Anschlussfrage um 00:00:14 ist keine zusätzliche eigene Tatsachenbehauptung.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 1
+
+- **Fundstelle:** [00:00:00–00:01:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=0s)
+- **Zuordnung:** Lüning (Montage)
+- **Prüfgegenstand – unsere Beschreibung:** Arbeitslosigkeit steige; Grundsicherung könne Erwerbsarbeit unattraktiv machen.
+- **Bewertung:** teilweise belegt / Kontext fehlt
+
+**Unsere Begründung und Grenzen:** Die Montage wiederholt Kapitel 04. Der Anstieg und individuelle Anreize sind getrennt zu prüfen; eine allgemeine Überlegenheit von Sozialleistungen folgt daraus nicht. Siehe 04, Nr. 7–8.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=0s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+- [Berlin/Brandenburg: Arbeitslosigkeit im September gesunken](https://www.arbeitsagentur.de/vor-ort/rd-bb/presse/2026-20-berlinbrandenburg-arbeitslosigkeit-im-september-gesunken-mehr-bewegung-auf-dem-arbeitsmarkt) · Bundesagentur für Arbeit · Stand: Berichtsmonat September 2026, erst nach Aufnahme verfügbar.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0011 | In Bearbeitung | keine Endbewertung | Arbeitsmarkttrend aus C01-P01 getrennt von Leistungsanspruch und individuellen Erwerbsanreizen geprüft. |
+| mlxFA9T88I0-A0012 | In Bearbeitung | keine Endbewertung | Die in der Anreizargumentation enthaltene Leistungsannahme separat ausgewiesen; Wohn- und Heizkosten bleiben ein zusammenhängender Prüfgegenstand. |
+| mlxFA9T88I0-A0013 | In Bearbeitung | keine Endbewertung | Die mögliche Anreizwirkung wird weder mit der Existenz von Sozialleistungen gleichgesetzt noch als pauschale Überlegenheit von Nichtarbeit bewertet. |
+
+Bewertungsuebergang mlxFA9T88I0-A0011: Nach redaktioneller Kontextprüfung von Abgeschlossen / Belegt auf In Bearbeitung / null geändert. Der nachgewiesene Augustvergleich bleibt Teilbefund; die weiter gefasste Originalbehauptung ist damit noch nicht abschließend geprüft.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0012: Nach Kontextprüfung von Abgeschlossen / Irreführend / Kontext fehlt auf In Bearbeitung / null geändert. Die gesetzliche Einordnung bleibt erhalten; die zuvor angenommene pauschale Auslegung wird nicht als gesichert behandelt.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0013: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+
+
+## C01-P02
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md)
+
+Referenzhash der Kapiteldatei: 8d65abb5f521b3c368bc66bcdc212c2530371aff378cdd1715cf4f073c51e3e8
+
+Getrennt werden die amtlich prüfbare Fortzugszahl für 2025 (A0014) und die mehrdeutige jährliche Verallgemeinerung (A0015). Fortzüge sind nicht dauerhafte Nettoverluste. Keine zusätzlichen Bildungs-, Alters- oder Kohortenbehauptungen aus anderen Kapiteln migriert.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 2
+
+- **Fundstelle:** [00:00:20–00:00:28](https://www.youtube.com/watch?v=mlxFA9T88I0&t=20s)
+- **Zuordnung:** Lüning (Montage)
+- **Prüfgegenstand – unsere Beschreibung:** 2025 verließen etwa 288.000 Deutsche das Land; das geschehe jedes Jahr.
+- **Bewertung:** teilweise belegt
+
+**Unsere Begründung und Grenzen:** 2025 sind 288.579 Fortzüge registriert. Wiederkehrende Wanderung ist nicht gleich dauerhafter Verlust derselben Größenordnung; Rückwanderung fehlt im Teaser. Details und Nettosaldo: 07, Nr. 4–6.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Drucksache 21/6244: Antworten der Bundesregierung, Wanderungsstatistik](https://dserver.bundestag.de/btd/21/062/2106244.pdf) · Deutscher Bundestag / Bundesregierung / Destatis · Stand: 2026; Daten 2024 und 2025.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0014 | Abgeschlossen | Belegt | Jahreszahl 2025 aus C01-P02 als eigener, zahlenmäßig prüfbarer Teil; kein automatisches Erben der alten Sammelbewertung. |
+| mlxFA9T88I0-A0015 | In Bearbeitung | keine Endbewertung | Jährliche Verallgemeinerung von der Jahreszahl getrennt; keine implizite Behauptung eines exakt konstanten Wertes oder einer bestimmten Auswanderungsmotivation ergänzt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0014: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0015: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+
+
+## C01-P03
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md)
+
+Referenzhash der Kapiteldatei: 8d65abb5f521b3c368bc66bcdc212c2530371aff378cdd1715cf4f073c51e3e8
+
+Die Produktivitätsstagnation ist bereits A0007 aus C06-P09 und wird nur um Vorkommen O0019 (00:00:30–00:00:36) ergänzt; keine neue Aussage-ID und keine Änderung ihrer bisherigen Bewertung. Baustellenbeobachtung (A0016), behauptete S&P-Mitteilung (A0017) und Krisenprognose (A0018) werden getrennt. Siehe bestehende Prüfung A0007 im Kapitel-06-Bericht. Ben-Fragen und Krisenmetaphern gelten nicht automatisch als Übernahme der Zehnjahresprognose. Hauptgespräch nur zum Kontext gelesen; keine Migration weiterer Altpunkte.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 3
+
+- **Fundstelle:** [00:00:30–00:00:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=30s)
+- **Zuordnung:** Lüning / Ben (Montage)
+- **Prüfgegenstand – unsere Beschreibung:** Produktivität seit 2017 schwach; Baustelle ohne Fortschritt; mögliches Ende von AAA; Krise binnen höchstens zehn Jahren.
+- **Bewertung:** gemischt / offene Prüfung
+
+**Unsere Begründung und Grenzen:** Dies sind vier getrennte Ausschnitte: Produktivität siehe 06 Nr. 9; Baustellen siehe 05 Nr. 5; Rating siehe 05 Nr. 10; Zeitprognose siehe 05 Nr. 12. Der Teaser liefert keine zusätzlichen Nachweise.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=30s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0016 | Offen | keine Endbewertung | Baustellenbeobachtung separat; Produktivitätsstagnation desselben Altprüfpunkts wird als O0019 der vorhandenen A0007 zugerechnet, nicht erneut angelegt. |
+| mlxFA9T88I0-A0017 | In Bearbeitung | keine Endbewertung | Behauptete Agenturankündigung von der folgenden eigenen Krisenprognose getrennt. Neue Recherche liefert einen Teilbefund, noch kein abschließendes Urteil. |
+| mlxFA9T88I0-A0018 | Abgeschlossen | Meinung / Prognose | Zeitprognose separat klassifiziert; diese Einordnung ist keine faktische Verifikation und keine Übernahme des gemischten Alturteils. |
+
+Bewertungsuebergang mlxFA9T88I0-A0016: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0017: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0018: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.

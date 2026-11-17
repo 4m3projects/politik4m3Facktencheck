@@ -1,0 +1,434 @@
+# Kapitel 01: strukturierte Faktenprüfung
+
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: sechs von 99 ursprünglichen Prüfpunkten übertragen. Kapitel 1 mit allen drei bisherigen Punkten sowie C03-P07, C06-P09 und C08-P03. 18 eigenständige Aussagen; im Auftakt neun unterschiedliche Inhalte, davon A0007 bereits vorhanden. 93 Altpunkte nicht migriert. Keine Statistik des vollständigen Videos.
+
+A0001–A0010 behalten ihre übernommenen Sachbewertungen, Begründungen und Recherchegrenzen unverändert; A0007 erhält nur ein weiteres Teaservorkommen. Für Kapitel 1 wurden am 17.11.2026 vorhandene automatische deutsche Originaluntertitel und tatsächlich zugängliche Webquellen geprüft. Neue Quellenzugriffe und Zugriffsfehler stehen je Aussage. Keine Audio-/Videokontrolle, keine vollständige erneute Inhaltsanalyse anderer Kapitel. Vollständig migriert bezeichnet die drei bisherigen Prüfpunkte des Auftakts, nicht sämtliche Äußerungen oder eine vollständig abgeschlossene Sachverifikation.
+
+## Übertragene Herkunftspunkte und Zuordnung
+
+### C01-P01
+
+Getrennt werden Arbeitsmarkttrend (A0011), Leistungsanspruch für Wohnen/Heizen (A0012) und die Anreizannahme (A0013). Keine pauschale Übernahme der alten Sammelbewertung. Die rhetorische Anschlussfrage um 00:00:14 ist keine zusätzliche eigene Tatsachenbehauptung.
+
+### C01-P02
+
+Getrennt werden die amtlich prüfbare Fortzugszahl für 2025 (A0014) und die mehrdeutige jährliche Verallgemeinerung (A0015). Fortzüge sind nicht dauerhafte Nettoverluste. Keine zusätzlichen Bildungs-, Alters- oder Kohortenbehauptungen aus anderen Kapiteln migriert.
+
+### C01-P03
+
+Die Produktivitätsstagnation ist bereits A0007 aus C06-P09 und wird nur um Vorkommen O0019 (00:00:30–00:00:36) ergänzt; keine neue Aussage-ID und keine Änderung ihrer bisherigen Bewertung. Baustellenbeobachtung (A0016), behauptete S&P-Mitteilung (A0017) und Krisenprognose (A0018) werden getrennt. Siehe bestehende Prüfung A0007 im Kapitel-06-Bericht. Ben-Fragen und Krisenmetaphern gelten nicht automatisch als Übernahme der Zehnjahresprognose. Hauptgespräch nur zum Kontext gelesen; keine Migration weiterer Altpunkte.
+
+Die folgenden Detailprüfungen stehen im führenden Kapitel ihrer Aussage. Wiederholungen bereits anderswo erfasster Aussagen bleiben dort als zusätzliche Vorkommen erhalten und werden oben im Herkunftspunkt benannt. Keine zusätzliche Aussage allein wegen eines neuen Kapitels.
+
+## mlxFA9T88I0-A0011
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md), Pruefpunkt 1 (C01-P01).
+
+**Eigene Beschreibung:** Die Arbeitslosenzahlen in Deutschland stiegen im beschriebenen wirtschaftlichen Abschwung.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:00:00–00:00:02](https://www.youtube.com/watch?v=mlxFA9T88I0&t=0s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Der Teaser startet mitten im Gedankengang; die Zuordnung zum Gast bleibt kontextgestützt. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.
+
+Grundlage des Aussagebezugs: Im Text als eigene Feststellung über den Arbeitsmarkt formuliert. Die Sprecheridentität und der nicht ausdrücklich genannte Vergleichszeitraum bleiben getrennte Unsicherheiten.
+
+Erhaltene Altzuordnung: Lüning (Montage). Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Herkunft C01-P01 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Der Teaser startet mitten im Gedankengang; die Zuordnung zum Gast bleibt kontextgestützt. Nachprüfung: Hauptgespräch 01:21:27–01:24:12 zum räumlichen und zeitlichen Aussagekontext gelesen; keine zusätzliche Fundstelle angelegt und kein weiterer Altprüfpunkt migriert.
+
+Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
+
+Frueherer Suchbereich: [00:00:00–00:01:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=0s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P01 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Redaktionelle Nachprüfung am 17.11.2026: Im Hauptgespräch um 01:21:27–01:23:47 werden industrielle Schwierigkeiten und Firmenschließungen erörtert, anschließend die Folgen für Beschäftigte und das Land. Deutschland ist damit der nachvollziehbare räumliche Bezug; Berlin folgt als regionales Beispiel. Ein Beginn, Endpunkt oder eindeutiger Vergleichszeitraum des behaupteten Trends wird dort nicht genannt. Der gelesene BA-Bericht zum August 2026 lag vor der Aufnahme am 23.09.2026 vor und belegt einen nationalen Monats- und Vorjahresanstieg. Er belegt jedoch nicht allein die ganze breitere Entwicklung oder den im Gespräch nahegelegten Zusammenhang mit Unternehmensschließungen. Der spätere regionale Septemberbericht ersetzt diese Prüfung ebenfalls nicht. Die bisherige Eingrenzung auf einen Augustvergleich war deshalb für ein abschließendes Belegt zu eng. Die Behauptung bleibt ohne Endbewertung; die zutreffenden BA-Zahlen werden nicht in Frage gestellt.
+
+Grundlage der Bewertung: Redaktionelle Nachprüfung der tatsächlich verfügbaren automatischen Originaluntertitel: Teaser 00:00:00–00:00:02, Kontext im Hauptgespräch 01:21:27–01:24:12. Vorhandene Quellenbelege bleiben erhalten; keine neue statistische Zeitreihenprüfung und keine Audio-/Videokontrolle.
+
+Uebernahme: Arbeitsmarkttrend aus C01-P01 getrennt von Leistungsanspruch und individuellen Erwerbsanreizen geprüft.
+
+Bewertungsuebergang: Nach redaktioneller Kontextprüfung von Abgeschlossen / Belegt auf In Bearbeitung / null geändert. Der nachgewiesene Augustvergleich bleibt Teilbefund; die weiter gefasste Originalbehauptung ist damit noch nicht abschließend geprüft.
+
+### Zugeordnete Quellen
+
+- [Arbeitsmarkt im August 2026](https://www.arbeitsagentur.de/presse/2026-31-arbeitsmarkt-im-august-2026) · Bundesagentur für Arbeit; Presseinfo 31 vom 28.08.2026. Abschnitte Arbeitslosigkeit und Unterbeschäftigung; bereits vor Aufnahme am 23.09.2026 veröffentlicht.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
+
+- [Berlin/Brandenburg: Arbeitslosigkeit im September gesunken](https://www.arbeitsagentur.de/vor-ort/rd-bb/presse/2026-20-berlinbrandenburg-arbeitslosigkeit-im-september-gesunken-mehr-bewegung-auf-dem-arbeitsmarkt) · Bundesagentur für Arbeit; 30.09.2026, Presseinfo 20. Neu gelesen: regionaler Rückgang zum Vormonat, Anstieg zum Vorjahr. Nach Aufnahme; kein damaliger bundesweiter Trendnachweis.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
+
+### Offene Fragen und Unsicherheiten
+
+- Welcher Zeitraum des beschriebenen Arbeitslosentrends ist gemeint?
+
+- Eine zeitlich passende nationale Reihe für diesen Zeitraum prüfen; Monatsvergleich, Vorjahresvergleich und mehrjährige Entwicklung getrennt halten.
+
+- Soweit eine Ursache durch Firmenschließungen behauptet wird, diese nicht allein aus gleichzeitig gestiegenen Arbeitslosenzahlen ableiten.
+
+## mlxFA9T88I0-A0012
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md), Pruefpunkt 1 (C01-P01).
+
+**Eigene Beschreibung:** Für Arbeitslose würden Unterkunfts- und Heizkosten übernommen; der gemeinte Kreis der Leistungsberechtigten ist in der Passage nicht eindeutig abgegrenzt.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:00:01–00:00:05](https://www.youtube.com/watch?v=mlxFA9T88I0&t=1s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Gleicher Erzählabschnitt wie der Arbeitsmarktauftakt; kein sicher identifizierter Sprecher. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.
+
+Grundlage des Aussagebezugs: Im Text Bestandteil der Anreizargumentation. Der Bezug auf alle Arbeitslosen oder nur auf berechtigte Personen ist nicht eindeutig; ein ausgelassenes Detail beweist keinen ausdrücklich behaupteten Automatismus. Sprecheridentität weiterhin plausibel.
+
+Erhaltene Altzuordnung: Lüning (Montage). Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Herkunft C01-P01 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Gleicher Erzählabschnitt wie der Arbeitsmarktauftakt; kein sicher identifizierter Sprecher. Nachprüfung: Kontext 01:23:20–01:24:12 gelesen; keine Hörkontrolle. Die damalige weite Auslegung wurde nicht bestätigt.
+
+Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
+
+Frueherer Suchbereich: [00:00:00–00:01:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=0s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P01 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Redaktionelle Nachprüfung am 17.11.2026: Teaser und Hauptgespräch um 01:23:20–01:24:12 stellen Arbeitsplatzverlust, Transferleistungen und steigende Kosten Erwerbstätiger gegenüber. Die Passage erläutert keine Anspruchsvoraussetzungen. Sie behauptet aber auch nicht ausdrücklich einen voraussetzungslosen Anspruch ausnahmslos aller Arbeitslosen. Eine verkürzte Bezugnahme auf bereits leistungsberechtigte Personen ist mit dem verfügbaren Text vereinbar. Die gelesenen §§ 7, 9 und 22 SGB II sowie die BA-Information belegen die rechtlichen Bedingungen und die mögliche Kostenübernahme; sie beweisen keine irreführende Äußerung des Sprechers. Ohne eindeutige Abgrenzung des gemeinten Personenkreises und ohne Hörkontrolle ist die zuvor angenommene pauschale Lesart nicht hinreichend abgesichert. Deshalb wird Irreführend / Kontext fehlt zurückgenommen und keine Endbewertung vergeben. Eine engere, auf berechtigte Personen bezogene Lesart darf nicht nachträglich als wörtlich so erklärt ausgegeben werden.
+
+Grundlage der Bewertung: Redaktionelle Textprüfung von Teaser 00:00:00–00:00:14 und Hauptgespräch 01:23:20–01:24:12. Vorhandene juristische Recherche unverändert; keine neue individuelle Leistungsrechnung, keine Hör- oder Videokontrolle.
+
+Uebernahme: Die in der Anreizargumentation enthaltene Leistungsannahme separat ausgewiesen; Wohn- und Heizkosten bleiben ein zusammenhängender Prüfgegenstand.
+
+Bewertungsuebergang: Nach Kontextprüfung von Abgeschlossen / Irreführend / Kontext fehlt auf In Bearbeitung / null geändert. Die gesetzliche Einordnung bleibt erhalten; die zuvor angenommene pauschale Auslegung wird nicht als gesichert behandelt.
+
+### Zugeordnete Quellen
+
+- [SGB II, § 22: Bedarfe für Unterkunft und Heizung](https://www.gesetze-im-internet.de/sgb_2/__22.html) · Bundesministerium der Justiz / Bundesamt für Justiz; konsolidierter Text beim Abruf 17.11.2026, insbesondere Absatz 1. Keine vollständige historische Einzelfallrechnung.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
+
+- [SGB II, § 7: Leistungsberechtigte](https://www.gesetze-im-internet.de/sgb_2/__7.html) · Bundesministerium der Justiz / Bundesamt für Justiz; konsolidierter Text beim Abruf 17.11.2026, insbesondere Absatz 1. Anspruchsvoraussetzungen statt Automatismus bei Arbeitslosigkeit.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
+
+- [SGB II, § 9: Hilfebedürftigkeit](https://www.gesetze-im-internet.de/sgb_2/__9.html) · Bundesministerium der Justiz / Bundesamt für Justiz; konsolidierter Text beim Abruf 17.11.2026, insbesondere Absätze 1 und 2.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
+
+- [Wohnen und Miete](https://www.arbeitsagentur.de/grundsicherung/wohnen) · Bundesagentur für Arbeit; laufende Informationsseite beim Abruf. Nennt Umstellung ab 01.07.2026, Leistungsbezug, Angemessenheit und Grenzen der Unterkunfts-/Heizkostenübernahme.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
+
+### Offene Fragen und Unsicherheiten
+
+- Meint die Passage Arbeitslose generell oder bereits berechtigte Grundsicherungsbeziehende? Der vorhandene Text entscheidet diese Lesart nicht eindeutig.
+
+- Falls eine gezielte Hörkontrolle verfügbar wird: Betonung und unmittelbaren Gesprächskontext prüfen; keine Sprecher- oder Bedeutungsbestätigung allein aus Untertiteln ableiten.
+
+- Anspruchsvoraussetzungen nicht als Beweis dafür verwenden, dass der Sprecher sie ausdrücklich verneint hätte.
+
+## mlxFA9T88I0-A0013
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md), Pruefpunkt 1 (C01-P01).
+
+**Eigene Beschreibung:** Für einzelne Beschäftigte könne Grundsicherungsbezug gegenüber der Weiterarbeit attraktiver werden.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:00:04–00:00:14](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Illustratives Gedankenspiel innerhalb der Montage, keine identifizierbare Fallperson. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.
+
+Grundlage des Aussagebezugs: Die Passage illustriert eine mögliche persönliche Abwägung mit einer prüfbaren wirtschaftlichen Annahme. Sie belegt keine tatsächlich erfolgte Kündigung einer identifizierten Person.
+
+Erhaltene Altzuordnung: Lüning (Montage). Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Herkunft C01-P01 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Illustratives Gedankenspiel innerhalb der Montage, keine identifizierbare Fallperson.
+
+Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
+
+Frueherer Suchbereich: [00:00:00–00:01:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=0s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P01 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Passage illustriert eine mögliche individuelle Abwägung, nennt aber weder einen überprüfbaren Haushalt noch Lohn, Miete, Fahrtkosten oder tatsächlich beobachtete Arbeitsaufgabe. Das neu gelesene IAB-Papier 2025 diskutiert anreizdämpfende Wohnkosten und Hinzuverdienstregeln, beschreibt zugleich finanzielle Anreize zur Arbeitsaufnahme. Es ist kein Nachweis einer konkreten Verhaltenswirkung unter dem Regelstand September 2026. Die neu gelesene BA-Seite zeigt außerdem, dass auch Erwerbstätige ergänzende Leistungen erhalten können. Ihr Rechenbeispiel enthält uneinheitliche Beträge und wird deshalb nicht nachgerechnet oder als Beleg übernommen. Ein positiver Lohnabstand, ein geringer Zugewinn und persönliche Motivation sind verschiedene Fragen. Die Tatsachenannahme bleibt in Bearbeitung; daraus wird weder ein pauschales Urteil über Leistungsbeziehende noch eine dokumentierte Kündigung konstruiert.
+
+Grundlage der Bewertung: Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.
+
+Uebernahme: Die mögliche Anreizwirkung wird weder mit der Existenz von Sozialleistungen gleichgesetzt noch als pauschale Überlegenheit von Nichtarbeit bewertet.
+
+Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+
+### Zugeordnete Quellen
+
+- [Einkommen mit Grundsicherungsgeld ergänzen](https://www.arbeitsagentur.de/grundsicherung/finanziell-absichern/einkommen-ergaenzen) · Bundesagentur für Arbeit; laufende Informationsseite, Hinweise zur Umstellung ab 01.07.2026. Geprüft: ergänzende Leistungen bei Erwerbstätigkeit und Einkommensanrechnung. Das Zahlenbeispiel enthält uneinheitliche Beträge und wird nicht als Vergleichsrechnung verwendet.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
+
+- [Zentrale Befunde zu aktuellen Arbeitsmarkt-Themen 2025](https://doku.iab.de/grauepap/2025/Zentrale_Befunde_zu_aktuellen_Arbeitsmarktthemen_2025.pdf) · Institut für Arbeitsmarkt- und Berufsforschung; 2025, DOI 10.48720/IAB.GP.2505.1. Gelesen: Druckseiten 14–15 / PDF-Seiten 16–17, Wohnkosten und Arbeitsanreize; nicht Rechts- oder Verhaltensstand September 2026.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche Haushalts- und Erwerbskonstellation ist gemeint?
+
+- Nettoeinkommen einschließlich ergänzender Leistungen, notwendiger Erwerbskosten und tatsächlicher Regeln im September 2026 vergleichen.
+
+- Eine behauptete tatsächliche Arbeitsaufgabe benötigt eigenständige Individual- oder Verhaltensdaten; die Montage liefert diese nicht.
+
+- Zwei einschlägige IAB-Forum-Seiten waren nach Seitenrahmenzugriff nicht im fachlichen Volltext erreichbar (Timeout); nicht als gelesene Belege verwendet.
+
+## mlxFA9T88I0-A0014
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md), Pruefpunkt 2 (C01-P02).
+
+**Eigene Beschreibung:** Im Jahr 2025 seien rund 288.000 deutsche Staatsangehörige aus Deutschland fortgezogen.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:00:20–00:00:26](https://www.youtube.com/watch?v=mlxFA9T88I0&t=20s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Der Gastbezug ist aus Metadaten und Gesprächskontext plausibel; die Montagespur ist nicht akustisch kontrolliert. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.
+
+Grundlage des Aussagebezugs: Die Jahreszahl wird im Text behauptend genannt, nicht nur als Frage oder Zurückweisung wiedergegeben. Identität der Stimme weiterhin nicht bestätigt.
+
+Erhaltene Altzuordnung: Lüning (Montage). Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Herkunft C01-P02 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Der Gastbezug ist aus Metadaten und Gesprächskontext plausibel; die Montagespur ist nicht akustisch kontrolliert.
+
+Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
+
+Frueherer Suchbereich: [00:00:20–00:00:28](https://www.youtube.com/watch?v=mlxFA9T88I0&t=20s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P02 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die erneut gelesene Antwort zu Frage 28 der Bundestagsdrucksache 21/6244 nennt auf Grundlage der Wanderungsstatistik 288.579 Fortzüge deutscher Staatsangehöriger im Jahr 2025. Die Größenordnung trifft zu; auf volle Tausend gerundet wären es 289.000. Die Abweichung beträgt 579 beziehungsweise rund 0,2 Prozent. Die Antwort erschien im Juni 2026, also vor der Aufnahme. Sie unterscheidet Fortzüge von Zuzügen und warnt davor, daraus dauerhafte Abwesenheit abzuleiten. Geprüft ist die Zahl registrierter Fortzüge, nicht der endgültige Verlust ebenso vieler unterschiedlicher Personen.
+
+Grundlage der Bewertung: Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.
+
+Uebernahme: Jahreszahl 2025 aus C01-P02 als eigener, zahlenmäßig prüfbarer Teil; kein automatisches Erben der alten Sammelbewertung.
+
+Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+
+### Zugeordnete Quellen
+
+- [Drucksache 21/6244: Schriftliche Fragen](https://dserver.bundestag.de/btd/21/062/2106244.pdf) · Deutscher Bundestag / Bundesregierung; 05.06.2026. Frage 28, Antwort vom 03.06.2026, gedruckte Seite 17 / PDF-Seite 23: Wanderungsstatistik 2024 und 2025, Fortzüge, Zuzüge, Salden und Aussagegrenzen.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Drucksache 21/6244, Frage 28, gedruckte Seite 17 / PDF-Seite 23. Die Seitenangabe wurde redaktionell korrigiert; Wert, sachliche Bewertung und ursprüngliche Zugriffsgrundlage bleiben erhalten.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mlxFA9T88I0-A0015
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md), Pruefpunkt 2 (C01-P02).
+
+**Eigene Beschreibung:** Fortzüge Deutscher in der genannten Größenordnung wiederholten sich jährlich.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:00:26–00:00:29](https://www.youtube.com/watch?v=mlxFA9T88I0&t=26s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Fortsetzung desselben Ausschnitts, aber ohne verlässliches Personenlabel. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.
+
+Grundlage des Aussagebezugs: Die zeitliche Verallgemeinerung steht als Fortsetzung der Zahlenbehauptung im Text. Ihre genaue Reichweite bleibt offen; daraus wird keine weitere Zustimmung einer anderen Person abgeleitet.
+
+Erhaltene Altzuordnung: Lüning (Montage). Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Herkunft C01-P02 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Fortsetzung desselben Ausschnitts, aber ohne verlässliches Personenlabel.
+
+Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
+
+Frueherer Suchbereich: [00:00:20–00:00:28](https://www.youtube.com/watch?v=mlxFA9T88I0&t=20s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P02 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die unmittelbar anschließende jährliche Verallgemeinerung kann wiederkehrende Fortzüge, ungefähr gleiche Größenordnungen oder einen gleichbleibenden dauerhaften Verlust meinen. Die erneut gelesene Regierungsantwort belegt relevante Fortzüge für 2024 und 2025, aber keinen konstanten jährlichen Wert und keine Dauerhaftigkeit. Eine längere amtliche Reihe wurde gesucht; die Destatis-Tabelle ließ sich wegen HTTP 403 nicht öffnen. Suchausschnitte ersetzen die Prüfung nicht. Wegen der offenen Lesart und fehlenden gelesenen Langzeitreihe bleibt die Aussage ohne Endbewertung. Die konkrete Zahl 2025 ist separat A0014.
+
+Grundlage der Bewertung: Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.
+
+Uebernahme: Jährliche Verallgemeinerung von der Jahreszahl getrennt; keine implizite Behauptung eines exakt konstanten Wertes oder einer bestimmten Auswanderungsmotivation ergänzt.
+
+Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+
+### Zugeordnete Quellen
+
+- [Drucksache 21/6244: Schriftliche Fragen](https://dserver.bundestag.de/btd/21/062/2106244.pdf) · Deutscher Bundestag / Bundesregierung; 05.06.2026. Frage 28, Antwort vom 03.06.2026, gedruckte Seite 17 / PDF-Seite 23: Wanderungsstatistik 2024 und 2025, Fortzüge, Zuzüge, Salden und Aussagegrenzen.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
+
+- [Wanderungen zwischen Deutschland und dem Ausland von 1950 bis 2025](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Wanderungen/Tabellen/wanderungen-zwischen-deutschland-und-dem-ausland-jahr-02.html) · Statistisches Bundesamt; Titel im Suchindex gefunden. Der Tabelleninhalt konnte nicht zuverlässig geöffnet werden; keine daraus übernommene Zahlenreihe.
+  Quellenzugriff am 2026-11-17. Abrufversuch am 17.11.2026 scheiterte mit HTTP 403. Suchausschnitt nicht als Sachbeleg verwendet. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
+
+### Offene Fragen und Unsicherheiten
+
+- Ist nur die jährliche Wiederkehr oder eine annähernd konstante Anzahl gemeint?
+
+- Welche Vergleichsjahre und welche Bandbreite definieren die behauptete Größenordnung? Eine zugängliche amtliche Zeitreihe lesen.
+
+- Fortzüge, Rückzüge und Nettosaldo sowie Wanderungsfälle und dauerhafte Personenverluste trennen.
+
+## mlxFA9T88I0-A0016
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md), Pruefpunkt 3 (C01-P03).
+
+**Eigene Beschreibung:** An einer Baustelle am südlichen Kölner Autobahnring sei über längere Zeit kein Baufortschritt erkennbar gewesen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:00:36–00:00:42](https://www.youtube.com/watch?v=mlxFA9T88I0&t=36s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Der persönliche Erzählabschnitt entspricht textlich dem Hauptgespräch; Identität der Stimme ohne Hörkontrolle weiterhin plausibel. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.
+
+Grundlage des Aussagebezugs: Im Text als persönliche Beobachtung einer Baustelle vorgetragen. Das prüft die behauptete Beobachtung, nicht die Tatsachen aus späteren Brückenanekdoten.
+
+Erhaltene Altzuordnung: Lüning / Ben (Montage). Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Herkunft C01-P03 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Der persönliche Erzählabschnitt entspricht textlich dem Hauptgespräch; Identität der Stimme ohne Hörkontrolle weiterhin plausibel.
+
+Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
+
+Frueherer Suchbereich: [00:00:30–00:00:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=30s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P03 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Textabgleich mit dem Hauptgespräch um 01:30:37–01:30:51 konkretisiert die private Beobachtung, identifiziert aber weder Bauprojekt noch Fahrtdatum oder beobachteten Bauabschnitt eindeutig. Bewuchs zwischen Platten beweist keinen vollständigen Baustillstand. Die bisher in einem anderen Prüfpunkt genannte Fleher Brücke darf nicht ersatzweise dieser Kölner Baustelle zugeordnet werden. Eine projektspezifische externe Prüfung ist ohne eindeutige Zuordnung noch nicht durchgeführt; deshalb Offen, nicht Nicht ausreichend belegbar. Keine weiteren Brücken-, Zahlungs- oder Fertigstellungsbehauptungen aus Kapitel 5 migriert.
+
+Grundlage der Bewertung: Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.
+
+Uebernahme: Baustellenbeobachtung separat; Produktivitätsstagnation desselben Altprüfpunkts wird als O0019 der vorhandenen A0007 zugerechnet, nicht erneut angelegt.
+
+Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche Baustelle, welcher Abschnitt und welches Beobachtungsdatum sind gemeint?
+
+- Danach Baufortschritt, Bauphasen und mögliche Sperrpausen anhand zuständiger Projektunterlagen prüfen.
+
+## mlxFA9T88I0-A0017
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md), Pruefpunkt 3 (C01-P03).
+
+**Eigene Beschreibung:** S&P habe einen möglichen Verlust der deutschen AAA-Bewertung noch im Jahr 2026 angekündigt.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:00:42–00:00:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=42s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Textgleicher Argumentationskern im Hauptgespräch; keine akustisch bestätigte Sprecheridentität. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.
+
+Grundlage des Aussagebezugs: Prüfgegenstand ist die eigene Tatsachenbehauptung über das Vorliegen einer S&P-Mitteilung. Die referierte Agenturprognose wird dem Sprecher nicht automatisch als eigene Zukunftsvorhersage zugerechnet.
+
+Erhaltene Altzuordnung: Lüning / Ben (Montage). Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Herkunft C01-P03 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Textgleicher Argumentationskern im Hauptgespräch; keine akustisch bestätigte Sprecheridentität.
+
+Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
+
+Frueherer Suchbereich: [00:00:30–00:00:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=30s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P03 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Neu gelesen wurde der S&P-Originalbericht vom 24.04.2026. Er bestätigt AAA mit stabilem Ausblick und beschreibt eine mögliche Herabstufung bei deutlich schlechterer wirtschaftlicher Entwicklung. Das stützt ein bedingtes Risikoszenario, aber die gelesene Passage nennt keinen konkreten Verlusttermin noch 2026. Der Textabgleich mit 01:44:51–01:45:04 bestätigt, dass die Montage gerade diese zeitliche Zuspitzung aus dem Gespräch übernimmt. Die im November gelesene Finanzagenturübersicht nennt S&P AAA/stabil vom 26.10.2026; das ist später als die Aufnahme und widerlegt nicht jede denkbare frühere Warnung. Ob eine weitere konkrete Agenturmitteilung die Jahresangabe trägt, ist offen. Geprüft wird die Tatsachenbehauptung über eine S&P-Mitteilung, nicht die eigene Übernahme sämtlicher S&P-Prognosen durch einen Gesprächsteilnehmer.
+
+Grundlage der Bewertung: Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.
+
+Uebernahme: Behauptete Agenturankündigung von der folgenden eigenen Krisenprognose getrennt. Neue Recherche liefert einen Teilbefund, noch kein abschließendes Urteil.
+
+Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+
+### Zugeordnete Quellen
+
+- [Germany AAA/A-1+ Ratings Affirmed; Outlook Stable](https://www.deutsche-finanzagentur.de/fileadmin/user_upload/Finanzagentur/pdf/ratingberichte/20260424_S_P_Ratings_Research_Update.pdf) · S&P Global Ratings; Research Update 24.04.2026, Originalbericht auf der Website der Finanzagentur. Gelesen: PDF-Seite 1, Overview, Outlook und Downside scenario. Vor Aufnahme verfügbar.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
+
+- [Ratings der Bundesrepublik Deutschland](https://www.deutsche-finanzagentur.de/finanzierung-des-bundes/der-bund-als-emittent/ratings) · Deutsche Finanzagentur; laufende Ratingübersicht, beim Abruf S&P AAA/stabil vom 26.10.2026. Später als die Aufnahme; keine Widerlegung jeder möglichen früheren Warnung.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche konkrete S&P-Mitteilung vor dem 23.09.2026 nennt ausdrücklich einen möglichen Verlust noch 2026?
+
+- Allgemeines Downside-Szenario und zeitlich bestimmte Warnung auseinanderhalten; spätere Bestätigung nicht rückwirkend als Widerlegung verwenden.
+
+## mlxFA9T88I0-A0018
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md), Pruefpunkt 3 (C01-P03).
+
+**Eigene Beschreibung:** Der beschriebene finanz- und wirtschaftspolitische Kurs werde bereits innerhalb von weniger als zehn weiteren Jahren an seine Grenzen stoßen.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Prognose
+
+### Fundstellen und Zuordnung
+
+- [00:00:50–00:00:56](https://www.youtube.com/watch?v=mlxFA9T88I0&t=50s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Zukunftswarnung im Gastkontext; Montagewechsel zum Moderator um 00:00:55 bleibt eine getrennte Passage. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.
+
+Grundlage des Aussagebezugs: Im Text als eigene Zukunftserwartung lesbar. Die späteren Fragen und Krisenmetaphern des Moderators sind keine eindeutige Übernahme der konkreten Frist.
+
+Erhaltene Altzuordnung: Lüning / Ben (Montage). Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Herkunft C01-P03 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Zukunftswarnung im Gastkontext; Montagewechsel zum Moderator um 00:00:55 bleibt eine getrennte Passage.
+
+Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
+
+Frueherer Suchbereich: [00:00:30–00:00:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=30s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P03 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Teaser formuliert einen Zukunftshorizont, kein bereits eingetretenes Ereignis. Der ergänzende Textabgleich mit 01:46:50–01:47:00 ordnet die Passage einer persönlichen Krisenerwartung im finanzpolitischen Gespräch zu. Es fehlen ein eindeutig definiertes Ereignis, ein belastbares Modell und eine falsifizierbare Eintrittsschwelle. Die Kategorie kennzeichnet deshalb die Aussageart und bestätigt weder einen bevorstehenden Staatsbankrott noch ein bestimmtes Eintrittsdatum. Die rhetorischen Anschlussfragen und Krisenmetaphern des Moderators werden nicht automatisch als dessen eigene Übernahme dieser Zeitprognose gezählt. Weitere Tatsachenannahmen aus dem Hauptgespräch sind nicht mitmigriert.
+
+Grundlage der Bewertung: Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.
+
+Uebernahme: Zeitprognose separat klassifiziert; diese Einordnung ist keine faktische Verifikation und keine Übernahme des gemischten Alturteils.
+
+Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Was genau soll innerhalb der Frist eintreten? Bei einer späteren Sachprüfung Ereignis und Ausgangszeitpunkt definieren.
+
+- Die Montage erlaubt keine sichere Zuordnung jeder Anschlussformulierung; keine gemeinsame Zustimmung aus Ben-Fragen ableiten.
+
+[Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

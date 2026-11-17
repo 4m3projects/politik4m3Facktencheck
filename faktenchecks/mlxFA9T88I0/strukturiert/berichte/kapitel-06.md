@@ -1,8 +1,8 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Nur drei von 99 ursprünglichen Prüfpunkten sind strukturiert erfasst: C03-P07, C06-P09 und C08-P03 mit zehn Teilbehauptungen. Die übrigen 96 sind nicht migriert. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: sechs von 99 ursprünglichen Prüfpunkten übertragen. Kapitel 1 mit allen drei bisherigen Punkten sowie C03-P07, C06-P09 und C08-P03. 18 eigenständige Aussagen; im Auftakt neun unterschiedliche Inhalte, davon A0007 bereits vorhanden. 93 Altpunkte nicht migriert. Keine Statistik des vollständigen Videos.
 
-Strukturelle Migration aus dem veröffentlichten Erststand. Keine erneute Webrecherche und keine erneute Kontrolle der Zeitmarken am Audio/Video. Abgeschlossen bezeichnet hier einen übernommenen, ausdrücklich ausgewiesenen Teilbefund; keine neue Gesamtverifikation.
+A0001–A0010 behalten ihre übernommenen Sachbewertungen, Begründungen und Recherchegrenzen unverändert; A0007 erhält nur ein weiteres Teaservorkommen. Für Kapitel 1 wurden am 17.11.2026 vorhandene automatische deutsche Originaluntertitel und tatsächlich zugängliche Webquellen geprüft. Neue Quellenzugriffe und Zugriffsfehler stehen je Aussage. Keine Audio-/Videokontrolle, keine vollständige erneute Inhaltsanalyse anderer Kapitel. Vollständig migriert bezeichnet die drei bisherigen Prüfpunkte des Auftakts, nicht sämtliche Äußerungen oder eine vollständig abgeschlossene Sachverifikation.
 
 ## mlxFA9T88I0-A0005
 
@@ -44,7 +44,7 @@ Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherig
 ### Zugeordnete Quellen
 
 - [MSCI World Index (USD), Gross Returns](https://www.msci.com/documents/10199/255599/msci-world-index.pdf) · MSCI · Stand: Factsheet März 2026; 5-Jahresrendite bis 31.03.2026.
-  Abruf des Erststands: 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Bisheriger Vergleich: 10,77 Prozent p.a. in USD brutto bis März 2026 und Verlustjahr 2022. Das beantwortet nicht alle Modalitäten der Sammelaussage.
+  Quellenzugriff am 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Bisheriger Vergleich: 10,77 Prozent p.a. in USD brutto bis März 2026 und Verlustjahr 2022. Das beantwortet nicht alle Modalitäten der Sammelaussage.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -94,7 +94,7 @@ Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherig
 ### Zugeordnete Quellen
 
 - [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7249s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
-  Abruf des Erststands: 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Fundstellennachweis aus dem Erststand, keine unabhängige Bestätigung.
+  Quellenzugriff am 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Fundstellennachweis aus dem Erststand, keine unabhängige Bestätigung.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -129,6 +129,23 @@ Zeitgrundlage: Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer d
 
 Frueherer Suchbereich: [02:00:49–02:03:25](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7249s), Ungefähr. Übernommener Suchbereich des bisherigen Prüfpunkts, keine sekundengenaue Lokalisierung der einzelnen Teilbehauptung.
 
+- [00:00:30–00:00:36](https://www.youtube.com/watch?v=mlxFA9T88I0&t=30s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Textabgleich: Der Teaser wiederholt die bereits unter A0007 erfasste Stagnationsaussage ab 2017. Zugeordnet wird nur dieses zusätzliche Vorkommen aus C01-P03; die bisherige Aussage einschließlich Bewertung, Quellen und Hauptfundstelle bleibt unverändert. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.
+
+Grundlage des Aussagebezugs: Die Teaserpassage behauptet textlich dieselbe Produktivitätsstagnation wie A0007. Sie ist kein neues Sachurteil und keine dokumentierte Selbstkorrektur. Sprecheridentität weiterhin nur plausibel.
+
+Erhaltene Altzuordnung: Lüning / Ben (Montage). Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Herkunft C01-P03 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Textabgleich: Der Teaser wiederholt die bereits unter A0007 erfasste Stagnationsaussage ab 2017. Zugeordnet wird nur dieses zusätzliche Vorkommen aus C01-P03; die bisherige Aussage einschließlich Bewertung, Quellen und Hauptfundstelle bleibt unverändert.
+
+Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
+
+Frueherer Suchbereich: [00:00:30–00:00:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=30s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P03 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
 ### Eigene Begruendung und Migrationsentscheidung
 
 Der übernommene Destatis-Einzelquartalsbefund ersetzt keine vollständige Produktivitätsreihe seit 2017. Definition, Abgrenzung und Zeitraum der Stagnationsbehauptung sind noch redaktionell und inhaltlich zu klären.
@@ -142,7 +159,7 @@ Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherig
 ### Zugeordnete Quellen
 
 - [Bruttoinlandsprodukt: Ausführliche Ergebnisse im 2. Quartal 2026](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_303_811.html) · Statistisches Bundesamt · Stand: August 2026; vorläufige Daten.
-  Abruf des Erststands: 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Übernommener Kontext: Stundenproduktivität Q2 2026, kein vollständiger Nachweis der Reihe seit 2017.
+  Quellenzugriff am 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Übernommener Kontext: Stundenproduktivität Q2 2026, kein vollständiger Nachweis der Reihe seit 2017.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -190,7 +207,7 @@ Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherig
 ### Zugeordnete Quellen
 
 - [Bruttoinlandsprodukt: Ausführliche Ergebnisse im 2. Quartal 2026](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_303_811.html) · Statistisches Bundesamt · Stand: August 2026; vorläufige Daten.
-  Abruf des Erststands: 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Bisheriger Einzelbefund +1,5 Prozent im Vorjahresvergleich von Q2 2026; zeitlich begrenzter Kontext.
+  Quellenzugriff am 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Bisheriger Einzelbefund +1,5 Prozent im Vorjahresvergleich von Q2 2026; zeitlich begrenzter Kontext.
 
 ### Offene Fragen und Unsicherheiten
 

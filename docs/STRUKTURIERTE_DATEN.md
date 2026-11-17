@@ -21,7 +21,7 @@ Ein neues Video benötigt nur einen Datensatz mit eigener elfstelliger YouTube-I
 
 IDs nicht neu nummerieren oder für andere Bedeutungen verwenden. Gleichbedeutende Wiederholungen gehören in die Vorkommensliste derselben Aussage. Inhaltlich unabhängig bewertbare Teilbehauptungen trennen und die Entscheidung begründen. Der Validator erkennt exakte Textdubletten; semantische Gleichheit bleibt redaktionell zu prüfen.
 
-Teilbestand bedeutet ausdrücklich keine Gesamtvideostatistik. Vollbestand darf nur nach tatsächlicher vollständiger Erfassung verwendet werden und ist bei noch unmigrierten Altpunkten verboten. Der Validator kann eine inhaltlich unzutreffende Vollständigkeitsangabe nicht selbst erkennen. Die Anzahl strukturierter Aussagen ist nicht die Anzahl migrierter Altpunkte: aktuell zehn Aussagen aus drei von 99 Punkten.
+Teilbestand bedeutet ausdrücklich keine Gesamtvideostatistik. Vollbestand darf nur nach tatsächlicher vollständiger Erfassung verwendet werden und ist bei noch unmigrierten Altpunkten verboten. Der Validator kann eine inhaltlich unzutreffende Vollständigkeitsangabe nicht selbst erkennen. Die Anzahl strukturierter Aussagen ist nicht die Anzahl migrierter Altpunkte: aktuell 18 Aussagen aus sechs von 99 Punkten. Kapitel 1 trägt acht neue Aussagen und ein zusätzliches Vorkommen der vorhandenen A0007 bei.
 
 ## Fundstellen und ihre Herkunft
 
@@ -123,3 +123,5 @@ Das folgende Beispiel ist rein synthetisch und kein Faktencheck eines tatsächli
 Aus dem Repositoryhauptverzeichnis Build-Factcheck.ps1 mit -VideoId und danach -Check ausführen. Test-Factcheck.ps1 führt die Bibliothekstests und die Prüfung aller gespeicherten Datensätze aus; Test-Publication.ps1 prüft Arbeitsbaum und Index getrennt einschließlich Herkunftshashes und generierter Artefakte. Für neue Videos muss der Generator jeweils laufen, bevor der Gesamtcheck bestehen kann. Die Dokumentationsbeispiele und ein synthetisches weiteres Video werden ebenfalls getestet.
 
 Unbekannte Dateitypen, fremde JSON-Felder, Rohdaten-/Medienmuster und zusätzliche strukturierte Artefakte sind verboten. Alle öffentlichen Texte bleiben eigenständig formuliert; keine Originalzitate oder privaten Quellenpfade. Die Technik erkennt weder beliebige Rechteverletzungen noch erfundene Nachweise zuverlässig. Vor Veröffentlichung ist eine manuelle Inhaltskontrolle erforderlich. Keine Datenbank, kein Server, keine zusätzlichen Programmbibliotheken. Skripte sind UTF-8 mit BOM für Windows PowerShell 5.1, JSON und Markdown UTF-8 ohne BOM.
+
+Die bestehenden Bibliothekstests nutzen einen stabilen Referenzdatensatz aus der Git-Historie; die benötigten Ausgangscommits müssen verfügbar sein. Der aktuelle Arbeitsbaum wird zusätzlich vollständig geprüft. Der reale Fall der kapitelübergreifenden Wiederholung ist im [Prüfbericht zu Kapitel 1](KAPITEL01_MIGRATION.md) dokumentiert.

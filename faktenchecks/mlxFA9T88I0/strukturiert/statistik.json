@@ -1,39 +1,39 @@
 {
     "schemaVersion":  2,
     "scope":  "Teilbestand",
-    "coverageNote":  "Nur drei von 99 ursprünglichen Prüfpunkten sind strukturiert erfasst: C03-P07, C06-P09 und C08-P03 mit zehn Teilbehauptungen. Die übrigen 96 sind nicht migriert. Keine Statistik des vollständigen Videos.",
+    "coverageNote":  "Teilbestand: sechs von 99 ursprünglichen Prüfpunkten übertragen. Kapitel 1 mit allen drei bisherigen Punkten sowie C03-P07, C06-P09 und C08-P03. 18 eigenständige Aussagen; im Auftakt neun unterschiedliche Inhalte, davon A0007 bereits vorhanden. 93 Altpunkte nicht migriert. Keine Statistik des vollständigen Videos.",
     "videoId":  "mlxFA9T88I0",
-    "selectedLegacyPoints":  3,
+    "selectedLegacyPoints":  6,
     "totalLegacyPoints":  99,
-    "statementRecords":  10,
-    "uniqueStatements":  10,
+    "statementRecords":  18,
+    "uniqueStatements":  18,
     "referenceOnlyStatements":  0,
     "unresolvedRoleOnlyStatements":  0,
-    "assertionOccurrences":  10,
-    "additionalAssertionOccurrences":  0,
+    "assertionOccurrences":  19,
+    "additionalAssertionOccurrences":  1,
     "sameSpeakerRepeatedAssertionOccurrences":  0,
     "referenceOccurrences":  0,
     "unresolvedRoleOccurrences":  0,
     "statusCounts":  {
-                         "Offen":  5,
-                         "In Bearbeitung":  2,
-                         "Abgeschlossen":  3
+                         "Offen":  6,
+                         "In Bearbeitung":  7,
+                         "Abgeschlossen":  5
                      },
     "kindCounts":  {
-                       "Tatsachenbehauptung":  10,
+                       "Tatsachenbehauptung":  17,
                        "Meinung":  0,
-                       "Prognose":  0
+                       "Prognose":  1
                    },
-    "completedFacts":  3,
-    "openFacts":  5,
-    "inProgressFacts":  2,
-    "percentageDenominator":  3,
+    "completedFacts":  4,
+    "openFacts":  6,
+    "inProgressFacts":  7,
+    "percentageDenominator":  4,
     "percentageDenominatorDefinition":  "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
     "categories":  [
                        {
                            "category":  "Belegt",
-                           "completedCount":  2,
-                           "completedFactPercent":  66.7
+                           "completedCount":  3,
+                           "completedFactPercent":  75
                        },
                        {
                            "category":  "Teilweise belegt",
@@ -43,7 +43,7 @@
                        {
                            "category":  "Irreführend / Kontext fehlt",
                            "completedCount":  1,
-                           "completedFactPercent":  33.3
+                           "completedFactPercent":  25
                        },
                        {
                            "category":  "Widerlegt",
@@ -57,7 +57,7 @@
                        },
                        {
                            "category":  "Meinung / Prognose",
-                           "completedCount":  0,
+                           "completedCount":  1,
                            "completedFactPercent":  null
                        }
                    ],
@@ -147,19 +147,19 @@
                                                                  ]
                                               }
                                           ],
-                              "eligibleFacts":  10,
+                              "eligibleFacts":  17,
                               "reliablyAssignedFacts":  0,
-                              "factsWithoutReliablePerson":  10,
-                              "factsWithUncertainAttribution":  10,
-                              "factsWithUncertainOwnRole":  10,
+                              "factsWithoutReliablePerson":  17,
+                              "factsWithUncertainAttribution":  17,
+                              "factsWithUncertainOwnRole":  17,
                               "occurrenceAttributionCounts":  {
                                                                   "Bestätigt":  0,
-                                                                  "Plausibel":  10,
+                                                                  "Plausibel":  19,
                                                                   "Ungeklärt":  0
                                                               },
                               "occurrenceRoleStatusCounts":  {
                                                                  "Bestätigt":  0,
-                                                                 "Plausibel":  10,
+                                                                 "Plausibel":  19,
                                                                  "Ungeklärt":  0
                                                              }
                           }

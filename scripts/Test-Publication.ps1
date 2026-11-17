@@ -83,7 +83,11 @@ foreach ($entry in $indexed) {
     $indexTexts[$path] = ($stored -join [Environment]::NewLine)
 }
 try { Assert-FactcheckCollection $workTexts } catch { $problems.Add('Arbeitsbaum-Strukturdaten: ' + $_.Exception.Message) }
-try { Assert-FactcheckCollection $indexTexts } catch { $problems.Add('Index-Strukturdaten: ' + $_.Exception.Message) }
+# Der unveraenderte Index kann noch den Renderer mit der alten Quellenbeschriftung enthalten.
+# Nur dann darf exakt diese Beschriftung abweichen; alle Daten und anderen Inhalte bleiben strikt.
+$legacyIndexSourceLabel = $indexTexts.ContainsKey('scripts/Factcheck-Common.ps1') -and
+    $indexTexts['scripts/Factcheck-Common.ps1'].Contains("`$report.Add('  Abruf des Erststands: '")
+try { Assert-FactcheckCollection $indexTexts -AllowLegacySourceLabel:$legacyIndexSourceLabel } catch { $problems.Add('Index-Strukturdaten: ' + $_.Exception.Message) }
 if ($problems.Count -gt 0) {
     $problems | ForEach-Object { Write-Host ('FEHLER: ' + $_) }
     throw ('Publikationspruefung fehlgeschlagen: ' + $problems.Count + ' Befunde.')

@@ -1,8 +1,8 @@
 # Kapitel 08: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Nur drei von 99 ursprünglichen Prüfpunkten sind strukturiert erfasst: C03-P07, C06-P09 und C08-P03 mit zehn Teilbehauptungen. Die übrigen 96 sind nicht migriert. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: sechs von 99 ursprünglichen Prüfpunkten übertragen. Kapitel 1 mit allen drei bisherigen Punkten sowie C03-P07, C06-P09 und C08-P03. 18 eigenständige Aussagen; im Auftakt neun unterschiedliche Inhalte, davon A0007 bereits vorhanden. 93 Altpunkte nicht migriert. Keine Statistik des vollständigen Videos.
 
-Strukturelle Migration aus dem veröffentlichten Erststand. Keine erneute Webrecherche und keine erneute Kontrolle der Zeitmarken am Audio/Video. Abgeschlossen bezeichnet hier einen übernommenen, ausdrücklich ausgewiesenen Teilbefund; keine neue Gesamtverifikation.
+A0001–A0010 behalten ihre übernommenen Sachbewertungen, Begründungen und Recherchegrenzen unverändert; A0007 erhält nur ein weiteres Teaservorkommen. Für Kapitel 1 wurden am 17.11.2026 vorhandene automatische deutsche Originaluntertitel und tatsächlich zugängliche Webquellen geprüft. Neue Quellenzugriffe und Zugriffsfehler stehen je Aussage. Keine Audio-/Videokontrolle, keine vollständige erneute Inhaltsanalyse anderer Kapitel. Vollständig migriert bezeichnet die drei bisherigen Prüfpunkte des Auftakts, nicht sämtliche Äußerungen oder eine vollständig abgeschlossene Sachverifikation.
 
 ## mlxFA9T88I0-A0009
 
@@ -44,7 +44,7 @@ Bewertungsuebergang: Die neue Einzelbewertung wird aus der bisherigen Begründun
 ### Zugeordnete Quellen
 
 - [Grundgesetz, Artikel 20](https://www.gesetze-im-internet.de/gg/art_20.html) · Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.
-  Abruf des Erststands: 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Im Erststand gelesene Norm zur Nennung von Wahlen und Abstimmungen.
+  Quellenzugriff am 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Im Erststand gelesene Norm zur Nennung von Wahlen und Abstimmungen.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -90,13 +90,13 @@ Bewertungsuebergang: Die neue Einzelbewertung wird aus der bisherigen Begründun
 ### Zugeordnete Quellen
 
 - [Bürgerinitiativen und Volksentscheide auf Bundesebene](https://www.bundestag.de/resource/blob/595138/WD-3-432-18-pdf.pdf) · Wissenschaftliche Dienste des Deutschen Bundestages, WD 3-432/18 · Stand: 2018; verfassungsrechtliche Einordnung.
-  Abruf des Erststands: 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Im Erststand verwendete Einordnung zu Bundesreferenden.
+  Quellenzugriff am 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Im Erststand verwendete Einordnung zu Bundesreferenden.
 
 - [Grundgesetz, Artikel 79](https://www.gesetze-im-internet.de/gg/art_79.html) · Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.
-  Abruf des Erststands: 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Im Erststand verwendete Voraussetzungen einer Verfassungsänderung.
+  Quellenzugriff am 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Im Erststand verwendete Voraussetzungen einer Verfassungsänderung.
 
 - [Grundgesetz, Artikel 20](https://www.gesetze-im-internet.de/gg/art_20.html) · Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.
-  Abruf des Erststands: 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Kontext der aus Artikel 20 abgeleiteten Schlussfolgerung.
+  Quellenzugriff am 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Kontext der aus Artikel 20 abgeleiteten Schlussfolgerung.
 
 ### Offene Fragen und Unsicherheiten
 

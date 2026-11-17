@@ -3,7 +3,12 @@ param()
 $ErrorActionPreference = 'Stop'
 $root = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '..')).TrimEnd('\','/')
 . (Join-Path $PSScriptRoot 'Factcheck-Common.ps1')
-$script:baseline = ConvertFrom-FactcheckJson (Get-Content -LiteralPath (Join-Path $root 'faktenchecks/mlxFA9T88I0/strukturiert/aussagen.json') -Raw -Encoding UTF8)
+# Stabile Referenz fuer die 78 bestehenden Bibliothekstests; aktuelle Daten separat pruefen.
+$referenceCommit='1f2c3703bf3ca5e43ce1e7ed6c10bda807a265c9'
+$referenceLines=@(& git -c ('safe.directory='+$root.Replace('\','/')) -C $root show ($referenceCommit+':faktenchecks/mlxFA9T88I0/strukturiert/aussagen.json'))
+if ($LASTEXITCODE -ne 0) { throw 'Referenzstand fehlt; Repository mit benoetigter Git-Historie bereitstellen.' }
+$script:baseline=ConvertFrom-FactcheckJson ($referenceLines -join [char]10)
+$script:current=ConvertFrom-FactcheckJson (Get-Content -LiteralPath (Join-Path $root 'faktenchecks/mlxFA9T88I0/strukturiert/aussagen.json') -Raw -Encoding UTF8)
 $results = [Collections.Generic.List[string]]::new()
 function Copy-Case { ConvertFrom-FactcheckJson (ConvertTo-FactcheckJson $script:baseline) }
 function Check-True([bool]$Value,[string]$Message) { if (-not $Value) { throw $Message } }
@@ -373,6 +378,58 @@ Case 'Alte Sonderstruktur und alte Skriptnamen sind entfernt' {
     foreach($f in Get-ChildItem -LiteralPath $root -File -Recurse) {
         Check-True (-not ((Get-Content -LiteralPath $f.FullName -Raw -Encoding UTF8) -imatch 'pi[l]ot')) 'Veralteter Verweis in oeffentlicher Datei.'
     }
+}
+Case 'Kapitel 1 vollstaendig migriert und die zehn Ausgangsaussagen erhalten' {
+    $d=$script:current;Assert-FactcheckData $d
+    $chapter=Get-Content -LiteralPath (Join-Path $root 'faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md') -Raw -Encoding UTF8
+    $numbers=@([regex]::Matches($chapter,'(?m)^## Prüfpunkt (\d+)') | ForEach-Object {[int]$_.Groups[1].Value})
+    Check-True ($numbers.Count -eq 3) 'Unerwarteter Kapitel-1-Umfang.'
+    foreach($n in $numbers){$id='C01-P{0:00}' -f $n;Check-True (@($d.legacyPoints | Where-Object id -CEQ $id).Count -eq 1 -and $d.scope.selectedLegacyIds -ccontains $id) 'Altpruefpunkt fehlt oder doppelt.'}
+    Check-True ($d.claims.Count -eq 18 -and @($d.claims | Where-Object chapter -EQ 1).Count -eq 8 -and $d.scope.unmigratedLegacyPoints -eq 93 -and $d.scope.totalLegacyPoints -eq 99) 'Migrationszaehlung falsch.'
+    foreach($old in $script:baseline.claims){
+        $now=@($d.claims | Where-Object id -CEQ $old.id)[0]
+        foreach($key in $old.PSObject.Properties.Name){
+            if($key -eq 'occurrences'){
+                Check-True ($now.occurrences.Count -ge $old.occurrences.Count) 'Alte Fundstellen verloren.'
+                for($i=0;$i -lt $old.occurrences.Count;$i++){Check-True (Test-FactcheckEqual $now.occurrences[$i] $old.occurrences[$i]) 'Alte Fundstelle oder Sprecherangabe veraendert.'}
+            } else {Check-True (Test-FactcheckEqual $now.$key $old.$key) ('Ausgangsaussage veraendert: '+$old.id+' '+$key)}
+        }
+    }
+    for($i=0;$i -lt $script:baseline.sources.Count;$i++){Check-True (Test-FactcheckEqual $d.sources[$i] $script:baseline.sources[$i]) 'Alte Sachquelle veraendert.'}
+    Check-True (Test-FactcheckEqual $d.speakers $script:baseline.speakers) 'Sprecherverzeichnis ungewollt veraendert.'
+}
+Case 'Kapiteluebergreifender Teaser ist ein Vorkommen und keine neue Aussage' {
+    $d=$script:current;$c=@($d.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0007')[0];$s=Get-FactcheckStatistics $d;$a=Get-FactcheckArtifacts $d
+    Check-True ($c.occurrences.Count -eq 2 -and $c.occurrences[1].id -ceq 'mlxFA9T88I0-O0019' -and $c.occurrences[1].startSeconds -eq 30 -and $c.occurrences[1].note.Contains('C01-P03')) 'Herkunft der Wiederholung fehlt.'
+    Check-True ($s.uniqueStatements -eq 18 -and $s.assertionOccurrences -eq 19 -and $s.additionalAssertionOccurrences -eq 1 -and $s.sameSpeakerRepeatedAssertionOccurrences -eq 0 -and $s.speakerStatistics.reliablyAssignedFacts -eq 0) 'Doppelzaehlung oder unsichere Person als sicher behandelt.'
+    foreach($id in @('C01-P01','C01-P02','C01-P03','A0007','O0019')){Check-True ($a['berichte/kapitel-01.md'].Contains($id)) 'Kapitelbericht verschweigt Herkunft oder vorhandene Aussage.'}
+    Check-True ($s.statusCounts.Abgeschlossen -eq 5 -and $s.statusCounts.Offen -eq 6 -and $s.statusCounts.'In Bearbeitung' -eq 7 -and $s.completedFacts -eq 4 -and $s.kindCounts.Prognose -eq 1) 'Neue Statistik falsch.'
+}
+Case 'Redaktionelle Auslegungsunsicherheit erhaelt keine Endbewertung' {
+    foreach($id in @('mlxFA9T88I0-A0011','mlxFA9T88I0-A0012')){
+        $c=@($script:current.claims | Where-Object id -CEQ $id)[0]
+        Check-True ($c.status -ceq 'In Bearbeitung' -and $null -eq $c.verdict -and $c.openQuestions.Count -gt 0) 'Unsichere Auslegung abschliessend bewertet.'
+    }
+    $c=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0014')[0]
+    $src=@($script:current.sources | Where-Object id -CEQ 'S009')[0]
+    Check-True ($c.verdict -ceq 'Belegt' -and $src.details.Contains('gedruckte Seite 17 / PDF-Seite 23')) 'Sachbewertung oder korrigierte Seitenangabe verloren.'
+}
+Case 'Neutrale Quellenbeschriftung erhaelt uebernommene und neue Zugriffsgrundlagen' {
+    $a=Get-FactcheckArtifacts $script:current
+    foreach($pair in @(@('berichte/kapitel-03.md','S001'),@('berichte/kapitel-01.md','S008'))){
+        $src=@($script:current.sources | Where-Object id -CEQ $pair[1])[0];$body=$a[$pair[0]]
+        Check-True ($body.Contains('Quellenzugriff am '+$src.accessedOn) -and $body.Contains($src.accessBasis)) 'Quellenzugriffsgrundlage verloren.'
+        Check-True (-not $body.Contains('  Abruf des Erststands: ')) 'Alte pauschale Beschriftung im aktuellen Bericht.'
+    }
+}
+Case 'Historische Indexbeschriftung bleibt eng begrenzt und Arbeitsbaum strikt' {
+    $expected="Quelle"+[char]10+'  Quellenzugriff am 2026-11-17. Unveraenderte Grundlage.'+[char]10
+    $old=$expected.Replace('  Quellenzugriff am ','  Abruf des Erststands: ')
+    Check-True (-not (Test-FactcheckArtifactEqual 'berichte/kapitel-03.md' $old $expected)) 'Veraltete Arbeitsbaumbeschriftung akzeptiert.'
+    Check-True (Test-FactcheckArtifactEqual 'berichte/kapitel-03.md' $old $expected -AllowLegacySourceLabel) 'Historischer Index nicht lesbar.'
+    Check-True (-not (Test-FactcheckArtifactEqual 'berichte/kapitel-03.md' ($old+'Manipulation') $expected -AllowLegacySourceLabel)) 'Indexkompatibilitaet laesst andere Aenderungen durch.'
+    Check-True (-not (Test-FactcheckArtifactEqual 'migration.md' $old $expected -AllowLegacySourceLabel)) 'Kompatibilitaet ausserhalb der erzeugten Kapitelberichte.'
+    Check-True ($legacyIndexSourceLabel -eq $indexTexts['scripts/Factcheck-Common.ps1'].Contains("`$report.Add('  Abruf des Erststands: '")) 'Indexkompatibilitaet unabhaengig vom dortigen Renderer eingeschaltet.'
 }
 Case 'JSON, Statistik und Markdown stimmen ueberein' { Assert-FactcheckCollection $workTexts }
 Case 'Veraltete Statistik wird zurueckgewiesen' {

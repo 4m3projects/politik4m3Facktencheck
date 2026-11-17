@@ -305,9 +305,14 @@ function Test-FactcheckEqual($Left,$Right) {
     if ($Left -is [bool] -or $Right -is [bool]) { return ($Left -is [bool] -and $Right -is [bool] -and $Left -eq $Right) }
     return ($Left -eq $Right)
 }
-function Test-FactcheckArtifactEqual([string]$Name,[string]$Actual,[string]$Expected) {
+function Test-FactcheckArtifactEqual([string]$Name,[string]$Actual,[string]$Expected,[switch]$AllowLegacySourceLabel) {
     if ($Name -ceq 'statistik.json') {
         return Test-FactcheckEqual (ConvertFrom-FactcheckJson $Actual) (ConvertFrom-FactcheckJson $Expected)
+    }
+    # Nur fuer einen separat geprueften Index mit dem frueheren Renderer.
+    # Arbeitsbaum und Build -Check bleiben strikt auf der aktuellen Beschriftung.
+    if ($AllowLegacySourceLabel -and $Name -clike 'berichte/*.md') {
+        $Actual = (Normalize-FactcheckText $Actual).Replace(([string][char]10 + '  Abruf des Erststands: '),([string][char]10 + '  Quellenzugriff am '))
     }
     return ((Normalize-FactcheckText $Actual) -ceq (Normalize-FactcheckText $Expected))
 }
@@ -440,6 +445,16 @@ function Get-FactcheckArtifacts($Data) {
         $report.Add(('# Kapitel {0:00}: strukturierte Faktenprüfung' -f $chapter))
         $report.Add(''); $report.Add('Automatisch aus aussagen.json erzeugt. Abdeckung: ' + $Data.scope.kind + '. ' + $Data.scope.coverageNote)
         $report.Add(''); $report.Add($Data.scope.researchNote)
+        # Bei mehreren Altpunkten macht die Einleitung auch anderweitig gefuehrte Wiederholungen sichtbar.
+        $origins = @($Data.legacyPoints | Where-Object chapter -EQ $chapter)
+        if ($origins.Count -gt 1) {
+            $report.Add(''); $report.Add('## Übertragene Herkunftspunkte und Zuordnung')
+            foreach ($origin in $origins) {
+                $report.Add(''); $report.Add('### ' + $origin.id)
+                $report.Add(''); $report.Add($origin.migrationNote)
+            }
+            $report.Add(''); $report.Add('Die folgenden Detailprüfungen stehen im führenden Kapitel ihrer Aussage. Wiederholungen bereits anderswo erfasster Aussagen bleiben dort als zusätzliche Vorkommen erhalten und werden oben im Herkunftspunkt benannt. Keine zusätzliche Aussage allein wegen eines neuen Kapitels.')
+        }
         foreach ($c in @($Data.claims | Where-Object chapter -EQ $chapter)) {
             $report.Add(''); $report.Add('## ' + $c.id)
             if ($null -ne $c.legacyId) {
@@ -487,7 +502,7 @@ function Get-FactcheckArtifacts($Data) {
             foreach ($ref in $c.sourceRefs) {
                 $src = @($Data.sources | Where-Object id -CEQ $ref.sourceId)[0]
                 $report.Add(''); $report.Add('- [' + $src.title + '](' + $src.url + ') · ' + $src.details)
-                $report.Add('  Abruf des Erststands: ' + $src.accessedOn + '. ' + $src.accessBasis + ' ' + $ref.note)
+                $report.Add('  Quellenzugriff am ' + $src.accessedOn + '. ' + $src.accessBasis + ' ' + $ref.note)
             }
             $report.Add(''); $report.Add('### Offene Fragen und Unsicherheiten')
             if ($c.openQuestions.Count -eq 0) { $report.Add(''); $report.Add('Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.') }
@@ -502,7 +517,7 @@ function Get-FactcheckArtifacts($Data) {
     }
     return ,$artifacts
 }
-function Assert-FactcheckCollection($Texts) {
+function Assert-FactcheckCollection($Texts,[switch]$AllowLegacySourceLabel) {
     $dataPaths = @($Texts.Keys | Where-Object { $_ -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/strukturiert/aussagen\.json$' })
     $videoDirs = @($Texts.Keys | Where-Object { $_ -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/strukturiert/' } | ForEach-Object { ($_ -split '/')[1] } | Select-Object -Unique)
     foreach ($video in $videoDirs) { if ($dataPaths -cnotcontains ('faktenchecks/' + $video + '/strukturiert/aussagen.json')) { throw 'Factcheckartefakte ohne zentrale Daten.' } }
@@ -521,7 +536,7 @@ function Assert-FactcheckCollection($Texts) {
         $expected = Get-FactcheckArtifacts $d
         foreach ($name in $expected.Keys) {
             $target = $prefix + $name
-            if (-not $Texts.ContainsKey($target) -or -not (Test-FactcheckArtifactEqual $name $Texts[$target] $expected[$name])) { throw ('Veraltetes/fehlendes Factcheckartefakt: ' + $target) }
+            if (-not $Texts.ContainsKey($target) -or -not (Test-FactcheckArtifactEqual $name $Texts[$target] $expected[$name] -AllowLegacySourceLabel:$AllowLegacySourceLabel)) { throw ('Veraltetes/fehlendes Factcheckartefakt: ' + $target) }
         }
         foreach ($actual in @($Texts.Keys | Where-Object { $_.StartsWith($prefix,[StringComparison]::Ordinal) })) {
             $tail = $actual.Substring($prefix.Length)

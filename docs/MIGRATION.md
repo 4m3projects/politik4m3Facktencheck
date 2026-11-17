@@ -1,10 +1,10 @@
 # Migration der ersten strukturierten Faktenchecks
 
-Stand: 17.11.2026. Die reguläre JSON-Struktur und Berichtserzeugung sind für weitere Videos verwendbar. Es wurde ausschließlich die erste Auswahl von drei alten Prüfpunkten integriert; keine automatische Gesamtumstellung.
+Stand: 17.11.2026. Die reguläre JSON-Struktur und Berichtserzeugung sind für weitere Videos verwendbar. Die nachstehenden Abschnitte dokumentieren den veröffentlichten Erststand mit drei Altpunkten. Zusätzlich ist nun Kapitel 1 mit drei weiteren Altpunkten übertragen; keine automatische Gesamtumstellung.
 
 ## Erhaltener Bestand
 
-Die 14 bisherigen Berichte und die MIT-Lizenz bleiben gegenüber dem Herkunftscommit bb6e666961baf719d02671a7ad2f439086f3c530 unverändert. Die zehn strukturierten Aussagen befinden sich in [aussagen.json](../faktenchecks/mlxFA9T88I0/strukturiert/aussagen.json). [Übersicht](../faktenchecks/mlxFA9T88I0/strukturiert/README.md), [Herkunftsvergleich](../faktenchecks/mlxFA9T88I0/strukturiert/migration.md) und [Statistik](../faktenchecks/mlxFA9T88I0/strukturiert/statistik.json) werden daraus erzeugt.
+Die 14 bisherigen Berichte und die MIT-Lizenz bleiben gegenüber dem Herkunftscommit bb6e666961baf719d02671a7ad2f439086f3c530 unverändert. Die ursprünglichen zehn strukturierten Aussagen bleiben erhalten; der erweiterte aktuelle Datensatz befindet sich in [aussagen.json](../faktenchecks/mlxFA9T88I0/strukturiert/aussagen.json). [Übersicht](../faktenchecks/mlxFA9T88I0/strukturiert/README.md), [Herkunftsvergleich](../faktenchecks/mlxFA9T88I0/strukturiert/migration.md) und [Statistik](../faktenchecks/mlxFA9T88I0/strukturiert/statistik.json) werden daraus erzeugt.
 
 | Herkunft | Aussage-IDs mit Videopräfix | Inhalt |
 | --- | --- | --- |
@@ -14,7 +14,7 @@ Die 14 bisherigen Berichte und die MIT-Lizenz bleiben gegenüber dem Herkunftsco
 
 Bewertungen, Begründungen, Quellenzuordnungen, Sprecherkandidaten und deren Sicherheit, Herkunftstexte, IDs und Migrationsentscheidungen bleiben erhalten. Frühere Bezeichnungen des Strukturversuchs in Recherchehinweisen wurden redaktionell in Strukturübernahme geändert; daraus wird keine neue Quellenprüfung. Die eigene frühere Darstellung ist mit Kapitelhash und vollständigem Prüfpunkttext dokumentiert. Kein Transkript oder fremder Originalwortlaut wurde übernommen.
 
-Zehn Einzelaussagen sind nicht zehn migrierte Altpunkte. Es sind weiterhin **drei von 99**; **96 bleiben offen für die Migration**. Die Statistik beschreibt ausschließlich diese strukturierte Auswahl.
+Zehn Einzelaussagen sind nicht zehn migrierte Altpunkte. Im veröffentlichten Ausgangsstand waren es **drei von 99** mit **96 noch nicht migrierten Punkten**. Nach Kapitel 1 sind es **sechs von 99** und **93 noch nicht migrierte Punkte**. Die Statistik beschreibt ausschließlich diese strukturierte Auswahl.
 
 ## Präzisierte ungefähre Fundstellen
 
@@ -47,8 +47,12 @@ Die Sonderablage und ihre alten Test-/Abschlussberichte wurden aus dem Projekt e
 
 ## Nächste Migrationen
 
-Die übrigen 96 Altpunkte müssen einzeln redaktionell geprüft, in eigenständig bewertbare Aussagen zerlegt, mit Herkunft und gelesenen Quellen verknüpft sowie auf Wiederholungen untersucht werden. Bestehende Sammelurteile und Namen nicht automatisch bestätigen. Den Umfang nach jeder Übernahme aktualisieren und Berichte neu erzeugen. Zusätzliche reale Fälle von Wiederholung, Zustimmung und Selbstkorrektur verdienen eine manuelle Gegenkontrolle. Die bisherigen Originalberichte werden auch bei weiteren Übernahmen nicht stillschweigend überschrieben.
+Im veröffentlichten Ausgangsstand waren 96 Altpunkte offen. Davon sind drei aus Kapitel 1 übertragen; die noch übrigen 93 Altpunkte müssen einzeln redaktionell geprüft, in eigenständig bewertbare Aussagen zerlegt, mit Herkunft und gelesenen Quellen verknüpft sowie auf Wiederholungen untersucht werden. Bestehende Sammelurteile und Namen nicht automatisch bestätigen. Den Umfang nach jeder Übernahme aktualisieren und Berichte neu erzeugen. Zusätzliche reale Fälle von Wiederholung, Zustimmung und Selbstkorrektur verdienen eine manuelle Gegenkontrolle. Die bisherigen Originalberichte werden auch bei weiteren Übernahmen nicht stillschweigend überschrieben.
 
 ## Überprüfung
 
 Die automatischen Prüfungen umfassen Datenstruktur, Fakten- und Personenstatistik, Sprecher- und Rollenstatus, Wiederholungen, gemeinsame Zustimmung, Selbstkorrekturen, Zeithistorie, neue Videos ohne Altbestand, Herkunftshashes, Quellenverweise, unveränderte bisherige Berichte, deterministische Artefakte, sämtliche relativen Markdown-Links und Veröffentlichungsschutz für Arbeitsbaum und Index. Zusätzlich werden die synthetischen Beispiele der Entwicklerdokumentation validiert. 78 Testfälle bestanden unter Windows PowerShell 5.1 und PowerShell 7. Auch Generator -Check unter beiden Versionen und die Publikationsprüfung bestanden. Vor jeder weiteren Veröffentlichung erneut prüfen.
+
+## Erweiterung um Kapitel 1
+
+[Redaktioneller Prüfbericht](KAPITEL01_MIGRATION.md): drei weitere Altpunkte, acht neue IDs A0011–A0018 und O0019 an der bestehenden A0007. Die folgenden Kapitel sind nicht weiter migriert. Die redaktionellen Entscheidungen zu A0011/A0012 (In Bearbeitung, ohne Endbewertung) und A0014 (Belegt, korrigierte Seitenangabe) sind akzeptiert. Dieser Stand ist zur Veröffentlichung freigegeben; die frühere Quellen- und Statusbilanz oben beschreibt den Ausgangsstand.

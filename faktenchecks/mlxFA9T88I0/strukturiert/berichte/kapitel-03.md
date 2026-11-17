@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Nur drei von 99 ursprünglichen Prüfpunkten sind strukturiert erfasst: C03-P07, C06-P09 und C08-P03 mit zehn Teilbehauptungen. Die übrigen 96 sind nicht migriert. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: sechs von 99 ursprünglichen Prüfpunkten übertragen. Kapitel 1 mit allen drei bisherigen Punkten sowie C03-P07, C06-P09 und C08-P03. 18 eigenständige Aussagen; im Auftakt neun unterschiedliche Inhalte, davon A0007 bereits vorhanden. 93 Altpunkte nicht migriert. Keine Statistik des vollständigen Videos.
 
-Strukturelle Migration aus dem veröffentlichten Erststand. Keine erneute Webrecherche und keine erneute Kontrolle der Zeitmarken am Audio/Video. Abgeschlossen bezeichnet hier einen übernommenen, ausdrücklich ausgewiesenen Teilbefund; keine neue Gesamtverifikation.
+A0001–A0010 behalten ihre übernommenen Sachbewertungen, Begründungen und Recherchegrenzen unverändert; A0007 erhält nur ein weiteres Teaservorkommen. Für Kapitel 1 wurden am 17.11.2026 vorhandene automatische deutsche Originaluntertitel und tatsächlich zugängliche Webquellen geprüft. Neue Quellenzugriffe und Zugriffsfehler stehen je Aussage. Keine Audio-/Videokontrolle, keine vollständige erneute Inhaltsanalyse anderer Kapitel. Vollständig migriert bezeichnet die drei bisherigen Prüfpunkte des Auftakts, nicht sämtliche Äußerungen oder eine vollständig abgeschlossene Sachverifikation.
 
 ## mlxFA9T88I0-A0001
 
@@ -134,7 +134,7 @@ Bewertungsuebergang: Die neue Einzelbewertung wird aus der bisherigen Begründun
 ### Zugeordnete Quellen
 
 - [Whisky.de buys Whisky.com for $ 3.1 million](https://www.whisky.com/presse/pressemeldungen/whiskyde-buys-whiskycom-for-31-million.html) · Whisky.de / Whisky.com · Stand: 03.03.2014; Unternehmensmitteilung.
-  Abruf des Erststands: 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Im Erststand als Beleg für Erwerb und Preis verwendet; keine neue Quellenkontrolle bei der Strukturübernahme.
+  Quellenzugriff am 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Im Erststand als Beleg für Erwerb und Preis verwendet; keine neue Quellenkontrolle bei der Strukturübernahme.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -180,7 +180,7 @@ Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherig
 ### Zugeordnete Quellen
 
 - [Whisky.de buys Whisky.com for $ 3.1 million](https://www.whisky.com/presse/pressemeldungen/whiskyde-buys-whiskycom-for-31-million.html) · Whisky.de / Whisky.com · Stand: 03.03.2014; Unternehmensmitteilung.
-  Abruf des Erststands: 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Nur Kontext zum Kaufpreis; kein bei der Strukturübernahme bestätigter Rangnachweis.
+  Quellenzugriff am 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Nur Kontext zum Kaufpreis; kein bei der Strukturübernahme bestätigter Rangnachweis.
 
 ### Offene Fragen und Unsicherheiten
 

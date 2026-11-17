@@ -10,12 +10,15 @@
     "selectedLegacyIds": [
       "C03-P07",
       "C06-P09",
-      "C08-P03"
+      "C08-P03",
+      "C01-P01",
+      "C01-P02",
+      "C01-P03"
     ],
     "totalLegacyPoints": 99,
-    "unmigratedLegacyPoints": 96,
-    "researchNote": "Strukturelle Migration aus dem veröffentlichten Erststand. Keine erneute Webrecherche und keine erneute Kontrolle der Zeitmarken am Audio/Video. Abgeschlossen bezeichnet hier einen übernommenen, ausdrücklich ausgewiesenen Teilbefund; keine neue Gesamtverifikation.",
-    "coverageNote": "Nur drei von 99 ursprünglichen Prüfpunkten sind strukturiert erfasst: C03-P07, C06-P09 und C08-P03 mit zehn Teilbehauptungen. Die übrigen 96 sind nicht migriert. Keine Statistik des vollständigen Videos."
+    "unmigratedLegacyPoints": 93,
+    "researchNote": "A0001–A0010 behalten ihre übernommenen Sachbewertungen, Begründungen und Recherchegrenzen unverändert; A0007 erhält nur ein weiteres Teaservorkommen. Für Kapitel 1 wurden am 17.11.2026 vorhandene automatische deutsche Originaluntertitel und tatsächlich zugängliche Webquellen geprüft. Neue Quellenzugriffe und Zugriffsfehler stehen je Aussage. Keine Audio-/Videokontrolle, keine vollständige erneute Inhaltsanalyse anderer Kapitel. Vollständig migriert bezeichnet die drei bisherigen Prüfpunkte des Auftakts, nicht sämtliche Äußerungen oder eine vollständig abgeschlossene Sachverifikation.",
+    "coverageNote": "Teilbestand: sechs von 99 ursprünglichen Prüfpunkten übertragen. Kapitel 1 mit allen drei bisherigen Punkten sowie C03-P07, C06-P09 und C08-P03. 18 eigenständige Aussagen; im Auftakt neun unterschiedliche Inhalte, davon A0007 bereits vorhanden. 93 Altpunkte nicht migriert. Keine Statistik des vollständigen Videos."
   },
   "legacyPoints": [
     {
@@ -44,6 +47,33 @@
       "fileSha256": "af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9",
       "section": "## Prüfpunkt 3\n\n- **Fundstelle:** [02:19:10–02:20:20](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8350s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Artikel 20 garantiere Abstimmungen; ein einfaches Durchführungsgesetz genüge für allgemeine verbindliche Volksabstimmungen im Bund.\n- **Bewertung:** erster Teil belegt / Rechtsfolgerung irreführend\n\n**Unsere Begründung und Grenzen:** Art. 20 nennt Wahlen und Abstimmungen. Nach der gelesenen WD-Einordnung bestehen spezielle Bundesreferenden vor allem für Länderneugliederung und eine neue Verfassung. Daraus folgt keine allgemeine Volksgesetzgebung durch bloßes Ausführungsgesetz. Für eine entsprechende Verfassungsänderung gilt Art. 79 Abs. 2 mit Zweidrittelmehrheiten. Die im Video vorgestellte einfache Lösung ist nicht als geltendes Recht abgesichert.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Grundgesetz, Artikel 20](https://www.gesetze-im-internet.de/gg/art_20.html) · Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.\n- [Bürgerinitiativen und Volksentscheide auf Bundesebene](https://www.bundestag.de/resource/blob/595138/WD-3-432-18-pdf.pdf) · Wissenschaftliche Dienste des Deutschen Bundestages, WD 3-432/18 · Stand: 2018; verfassungsrechtliche Einordnung.\n- [Grundgesetz, Artikel 79](https://www.gesetze-im-internet.de/gg/art_79.html) · Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.",
       "migrationNote": "Zwei Aussagen: Die im Erststand belegte Nennung von Abstimmungen wird präzise auf den Wortlautbezug begrenzt. Die weitergehende Behauptung allgemeiner Bundesvolksgesetzgebung durch ein einfaches Gesetz wird gesondert behandelt. Die bisherigen Teilbefunde werden explizit extrahiert, nicht neu recherchiert."
+    },
+    {
+      "id": "C01-P01",
+      "chapter": 1,
+      "point": 1,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md",
+      "fileSha256": "8d65abb5f521b3c368bc66bcdc212c2530371aff378cdd1715cf4f073c51e3e8",
+      "section": "## Prüfpunkt 1\n\n- **Fundstelle:** [00:00:00–00:01:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=0s)\n- **Zuordnung:** Lüning (Montage)\n- **Prüfgegenstand – unsere Beschreibung:** Arbeitslosigkeit steige; Grundsicherung könne Erwerbsarbeit unattraktiv machen.\n- **Bewertung:** teilweise belegt / Kontext fehlt\n\n**Unsere Begründung und Grenzen:** Die Montage wiederholt Kapitel 04. Der Anstieg und individuelle Anreize sind getrennt zu prüfen; eine allgemeine Überlegenheit von Sozialleistungen folgt daraus nicht. Siehe 04, Nr. 7–8.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=0s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.\n- [Berlin/Brandenburg: Arbeitslosigkeit im September gesunken](https://www.arbeitsagentur.de/vor-ort/rd-bb/presse/2026-20-berlinbrandenburg-arbeitslosigkeit-im-september-gesunken-mehr-bewegung-auf-dem-arbeitsmarkt) · Bundesagentur für Arbeit · Stand: Berichtsmonat September 2026, erst nach Aufnahme verfügbar.",
+      "migrationNote": "Getrennt werden Arbeitsmarkttrend (A0011), Leistungsanspruch für Wohnen/Heizen (A0012) und die Anreizannahme (A0013). Keine pauschale Übernahme der alten Sammelbewertung. Die rhetorische Anschlussfrage um 00:00:14 ist keine zusätzliche eigene Tatsachenbehauptung."
+    },
+    {
+      "id": "C01-P02",
+      "chapter": 1,
+      "point": 2,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md",
+      "fileSha256": "8d65abb5f521b3c368bc66bcdc212c2530371aff378cdd1715cf4f073c51e3e8",
+      "section": "## Prüfpunkt 2\n\n- **Fundstelle:** [00:00:20–00:00:28](https://www.youtube.com/watch?v=mlxFA9T88I0&t=20s)\n- **Zuordnung:** Lüning (Montage)\n- **Prüfgegenstand – unsere Beschreibung:** 2025 verließen etwa 288.000 Deutsche das Land; das geschehe jedes Jahr.\n- **Bewertung:** teilweise belegt\n\n**Unsere Begründung und Grenzen:** 2025 sind 288.579 Fortzüge registriert. Wiederkehrende Wanderung ist nicht gleich dauerhafter Verlust derselben Größenordnung; Rückwanderung fehlt im Teaser. Details und Nettosaldo: 07, Nr. 4–6.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Drucksache 21/6244: Antworten der Bundesregierung, Wanderungsstatistik](https://dserver.bundestag.de/btd/21/062/2106244.pdf) · Deutscher Bundestag / Bundesregierung / Destatis · Stand: 2026; Daten 2024 und 2025.",
+      "migrationNote": "Getrennt werden die amtlich prüfbare Fortzugszahl für 2025 (A0014) und die mehrdeutige jährliche Verallgemeinerung (A0015). Fortzüge sind nicht dauerhafte Nettoverluste. Keine zusätzlichen Bildungs-, Alters- oder Kohortenbehauptungen aus anderen Kapiteln migriert."
+    },
+    {
+      "id": "C01-P03",
+      "chapter": 1,
+      "point": 3,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/01_auftakt.md",
+      "fileSha256": "8d65abb5f521b3c368bc66bcdc212c2530371aff378cdd1715cf4f073c51e3e8",
+      "section": "## Prüfpunkt 3\n\n- **Fundstelle:** [00:00:30–00:00:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=30s)\n- **Zuordnung:** Lüning / Ben (Montage)\n- **Prüfgegenstand – unsere Beschreibung:** Produktivität seit 2017 schwach; Baustelle ohne Fortschritt; mögliches Ende von AAA; Krise binnen höchstens zehn Jahren.\n- **Bewertung:** gemischt / offene Prüfung\n\n**Unsere Begründung und Grenzen:** Dies sind vier getrennte Ausschnitte: Produktivität siehe 06 Nr. 9; Baustellen siehe 05 Nr. 5; Rating siehe 05 Nr. 10; Zeitprognose siehe 05 Nr. 12. Der Teaser liefert keine zusätzlichen Nachweise.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=30s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Die Produktivitätsstagnation ist bereits A0007 aus C06-P09 und wird nur um Vorkommen O0019 (00:00:30–00:00:36) ergänzt; keine neue Aussage-ID und keine Änderung ihrer bisherigen Bewertung. Baustellenbeobachtung (A0016), behauptete S&P-Mitteilung (A0017) und Krisenprognose (A0018) werden getrennt. Siehe bestehende Prüfung A0007 im Kapitel-06-Bericht. Ben-Fragen und Krisenmetaphern gelten nicht automatisch als Übernahme der Zehnjahresprognose. Hauptgespräch nur zum Kontext gelesen; keine Migration weiterer Altpunkte."
     }
   ],
   "sources": [
@@ -102,6 +132,102 @@
       "details": "Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.",
       "accessedOn": "2026-11-17",
       "accessBasis": "Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen."
+    },
+    {
+      "id": "S008",
+      "title": "Arbeitsmarkt im August 2026",
+      "url": "https://www.arbeitsagentur.de/presse/2026-31-arbeitsmarkt-im-august-2026",
+      "details": "Bundesagentur für Arbeit; Presseinfo 31 vom 28.08.2026. Abschnitte Arbeitslosigkeit und Unterbeschäftigung; bereits vor Aufnahme am 23.09.2026 veröffentlicht.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository."
+    },
+    {
+      "id": "S009",
+      "title": "Drucksache 21/6244: Schriftliche Fragen",
+      "url": "https://dserver.bundestag.de/btd/21/062/2106244.pdf",
+      "details": "Deutscher Bundestag / Bundesregierung; 05.06.2026. Frage 28, Antwort vom 03.06.2026, gedruckte Seite 17 / PDF-Seite 23: Wanderungsstatistik 2024 und 2025, Fortzüge, Zuzüge, Salden und Aussagegrenzen.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository."
+    },
+    {
+      "id": "S010",
+      "title": "SGB II, § 22: Bedarfe für Unterkunft und Heizung",
+      "url": "https://www.gesetze-im-internet.de/sgb_2/__22.html",
+      "details": "Bundesministerium der Justiz / Bundesamt für Justiz; konsolidierter Text beim Abruf 17.11.2026, insbesondere Absatz 1. Keine vollständige historische Einzelfallrechnung.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository."
+    },
+    {
+      "id": "S011",
+      "title": "SGB II, § 7: Leistungsberechtigte",
+      "url": "https://www.gesetze-im-internet.de/sgb_2/__7.html",
+      "details": "Bundesministerium der Justiz / Bundesamt für Justiz; konsolidierter Text beim Abruf 17.11.2026, insbesondere Absatz 1. Anspruchsvoraussetzungen statt Automatismus bei Arbeitslosigkeit.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository."
+    },
+    {
+      "id": "S012",
+      "title": "SGB II, § 9: Hilfebedürftigkeit",
+      "url": "https://www.gesetze-im-internet.de/sgb_2/__9.html",
+      "details": "Bundesministerium der Justiz / Bundesamt für Justiz; konsolidierter Text beim Abruf 17.11.2026, insbesondere Absätze 1 und 2.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository."
+    },
+    {
+      "id": "S013",
+      "title": "Wohnen und Miete",
+      "url": "https://www.arbeitsagentur.de/grundsicherung/wohnen",
+      "details": "Bundesagentur für Arbeit; laufende Informationsseite beim Abruf. Nennt Umstellung ab 01.07.2026, Leistungsbezug, Angemessenheit und Grenzen der Unterkunfts-/Heizkostenübernahme.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository."
+    },
+    {
+      "id": "S014",
+      "title": "Einkommen mit Grundsicherungsgeld ergänzen",
+      "url": "https://www.arbeitsagentur.de/grundsicherung/finanziell-absichern/einkommen-ergaenzen",
+      "details": "Bundesagentur für Arbeit; laufende Informationsseite, Hinweise zur Umstellung ab 01.07.2026. Geprüft: ergänzende Leistungen bei Erwerbstätigkeit und Einkommensanrechnung. Das Zahlenbeispiel enthält uneinheitliche Beträge und wird nicht als Vergleichsrechnung verwendet.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository."
+    },
+    {
+      "id": "S015",
+      "title": "Zentrale Befunde zu aktuellen Arbeitsmarkt-Themen 2025",
+      "url": "https://doku.iab.de/grauepap/2025/Zentrale_Befunde_zu_aktuellen_Arbeitsmarktthemen_2025.pdf",
+      "details": "Institut für Arbeitsmarkt- und Berufsforschung; 2025, DOI 10.48720/IAB.GP.2505.1. Gelesen: Druckseiten 14–15 / PDF-Seiten 16–17, Wohnkosten und Arbeitsanreize; nicht Rechts- oder Verhaltensstand September 2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository."
+    },
+    {
+      "id": "S016",
+      "title": "Germany AAA/A-1+ Ratings Affirmed; Outlook Stable",
+      "url": "https://www.deutsche-finanzagentur.de/fileadmin/user_upload/Finanzagentur/pdf/ratingberichte/20260424_S_P_Ratings_Research_Update.pdf",
+      "details": "S&P Global Ratings; Research Update 24.04.2026, Originalbericht auf der Website der Finanzagentur. Gelesen: PDF-Seite 1, Overview, Outlook und Downside scenario. Vor Aufnahme verfügbar.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository."
+    },
+    {
+      "id": "S017",
+      "title": "Ratings der Bundesrepublik Deutschland",
+      "url": "https://www.deutsche-finanzagentur.de/finanzierung-des-bundes/der-bund-als-emittent/ratings",
+      "details": "Deutsche Finanzagentur; laufende Ratingübersicht, beim Abruf S&P AAA/stabil vom 26.10.2026. Später als die Aufnahme; keine Widerlegung jeder möglichen früheren Warnung.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository."
+    },
+    {
+      "id": "S018",
+      "title": "Berlin/Brandenburg: Arbeitslosigkeit im September gesunken",
+      "url": "https://www.arbeitsagentur.de/vor-ort/rd-bb/presse/2026-20-berlinbrandenburg-arbeitslosigkeit-im-september-gesunken-mehr-bewegung-auf-dem-arbeitsmarkt",
+      "details": "Bundesagentur für Arbeit; 30.09.2026, Presseinfo 20. Neu gelesen: regionaler Rückgang zum Vormonat, Anstieg zum Vorjahr. Nach Aufnahme; kein damaliger bundesweiter Trendnachweis.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository."
+    },
+    {
+      "id": "S019",
+      "title": "Wanderungen zwischen Deutschland und dem Ausland von 1950 bis 2025",
+      "url": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Wanderungen/Tabellen/wanderungen-zwischen-deutschland-und-dem-ausland-jahr-02.html",
+      "details": "Statistisches Bundesamt; Titel im Suchindex gefunden. Der Tabelleninhalt konnte nicht zuverlässig geöffnet werden; keine daraus übernommene Zahlenreihe.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Abrufversuch am 17.11.2026 scheiterte mit HTTP 403. Suchausschnitt nicht als Sachbeleg verwendet."
     }
   ],
   "claims": [
@@ -464,6 +590,30 @@
             }
           ],
           "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
+        },
+        {
+          "id": "mlxFA9T88I0-O0019",
+          "startSeconds": 30,
+          "endSeconds": 36,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Herkunft C01-P03 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Textabgleich: Der Teaser wiederholt die bereits unter A0007 erfasste Stagnationsaussage ab 2017. Zugeordnet wird nur dieses zusätzliche Vorkommen aus C01-P03; die bisherige Aussage einschließlich Bewertung, Quellen und Hauptfundstelle bleibt unverändert.",
+          "legacySpeaker": "Lüning / Ben (Montage)",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Textabgleich: Der Teaser wiederholt die bereits unter A0007 erfasste Stagnationsaussage ab 2017. Zugeordnet wird nur dieses zusätzliche Vorkommen aus C01-P03; die bisherige Aussage einschließlich Bewertung, Quellen und Hauptfundstelle bleibt unverändert. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die Teaserpassage behauptet textlich dieselbe Produktivitätsstagnation wie A0007. Sie ist kein neues Sachurteil und keine dokumentierte Selbstkorrektur. Sprecheridentität weiterhin nur plausibel.",
+          "timeHistory": [
+            {
+              "startSeconds": 30,
+              "endSeconds": 59,
+              "precision": "Ungefähr",
+              "basis": "Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P03 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
         }
       ],
       "relations": []
@@ -628,6 +778,458 @@
             }
           ],
           "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0011",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 1,
+      "legacyId": "C01-P01",
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Arbeitslosenzahlen in Deutschland stiegen im beschriebenen wirtschaftlichen Abschwung.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Redaktionelle Nachprüfung am 17.11.2026: Im Hauptgespräch um 01:21:27–01:23:47 werden industrielle Schwierigkeiten und Firmenschließungen erörtert, anschließend die Folgen für Beschäftigte und das Land. Deutschland ist damit der nachvollziehbare räumliche Bezug; Berlin folgt als regionales Beispiel. Ein Beginn, Endpunkt oder eindeutiger Vergleichszeitraum des behaupteten Trends wird dort nicht genannt. Der gelesene BA-Bericht zum August 2026 lag vor der Aufnahme am 23.09.2026 vor und belegt einen nationalen Monats- und Vorjahresanstieg. Er belegt jedoch nicht allein die ganze breitere Entwicklung oder den im Gespräch nahegelegten Zusammenhang mit Unternehmensschließungen. Der spätere regionale Septemberbericht ersetzt diese Prüfung ebenfalls nicht. Die bisherige Eingrenzung auf einen Augustvergleich war deshalb für ein abschließendes Belegt zu eng. Die Behauptung bleibt ohne Endbewertung; die zutreffenden BA-Zahlen werden nicht in Frage gestellt.",
+      "assessmentBasis": "Redaktionelle Nachprüfung der tatsächlich verfügbaren automatischen Originaluntertitel: Teaser 00:00:00–00:00:02, Kontext im Hauptgespräch 01:21:27–01:24:12. Vorhandene Quellenbelege bleiben erhalten; keine neue statistische Zeitreihenprüfung und keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Kapitel 1 einzeln migriert",
+        "mapping": "Arbeitsmarkttrend aus C01-P01 getrennt von Leistungsanspruch und individuellen Erwerbsanreizen geprüft.",
+        "assessmentChange": "Nach redaktioneller Kontextprüfung von Abgeschlossen / Belegt auf In Bearbeitung / null geändert. Der nachgewiesene Augustvergleich bleibt Teilbefund; die weiter gefasste Originalbehauptung ist damit noch nicht abschließend geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen."
+        },
+        {
+          "sourceId": "S018",
+          "note": "Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen."
+        }
+      ],
+      "openQuestions": [
+        "Welcher Zeitraum des beschriebenen Arbeitslosentrends ist gemeint?",
+        "Eine zeitlich passende nationale Reihe für diesen Zeitraum prüfen; Monatsvergleich, Vorjahresvergleich und mehrjährige Entwicklung getrennt halten.",
+        "Soweit eine Ursache durch Firmenschließungen behauptet wird, diese nicht allein aus gleichzeitig gestiegenen Arbeitslosenzahlen ableiten."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0011",
+          "startSeconds": 0,
+          "endSeconds": 2,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Herkunft C01-P01 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Der Teaser startet mitten im Gedankengang; die Zuordnung zum Gast bleibt kontextgestützt. Nachprüfung: Hauptgespräch 01:21:27–01:24:12 zum räumlichen und zeitlichen Aussagekontext gelesen; keine zusätzliche Fundstelle angelegt und kein weiterer Altprüfpunkt migriert.",
+          "legacySpeaker": "Lüning (Montage)",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Der Teaser startet mitten im Gedankengang; die Zuordnung zum Gast bleibt kontextgestützt. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Feststellung über den Arbeitsmarkt formuliert. Die Sprecheridentität und der nicht ausdrücklich genannte Vergleichszeitraum bleiben getrennte Unsicherheiten.",
+          "timeHistory": [
+            {
+              "startSeconds": 0,
+              "endSeconds": 60,
+              "precision": "Ungefähr",
+              "basis": "Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P01 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0012",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 1,
+      "legacyId": "C01-P01",
+      "kind": "Tatsachenbehauptung",
+      "description": "Für Arbeitslose würden Unterkunfts- und Heizkosten übernommen; der gemeinte Kreis der Leistungsberechtigten ist in der Passage nicht eindeutig abgegrenzt.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Redaktionelle Nachprüfung am 17.11.2026: Teaser und Hauptgespräch um 01:23:20–01:24:12 stellen Arbeitsplatzverlust, Transferleistungen und steigende Kosten Erwerbstätiger gegenüber. Die Passage erläutert keine Anspruchsvoraussetzungen. Sie behauptet aber auch nicht ausdrücklich einen voraussetzungslosen Anspruch ausnahmslos aller Arbeitslosen. Eine verkürzte Bezugnahme auf bereits leistungsberechtigte Personen ist mit dem verfügbaren Text vereinbar. Die gelesenen §§ 7, 9 und 22 SGB II sowie die BA-Information belegen die rechtlichen Bedingungen und die mögliche Kostenübernahme; sie beweisen keine irreführende Äußerung des Sprechers. Ohne eindeutige Abgrenzung des gemeinten Personenkreises und ohne Hörkontrolle ist die zuvor angenommene pauschale Lesart nicht hinreichend abgesichert. Deshalb wird Irreführend / Kontext fehlt zurückgenommen und keine Endbewertung vergeben. Eine engere, auf berechtigte Personen bezogene Lesart darf nicht nachträglich als wörtlich so erklärt ausgegeben werden.",
+      "assessmentBasis": "Redaktionelle Textprüfung von Teaser 00:00:00–00:00:14 und Hauptgespräch 01:23:20–01:24:12. Vorhandene juristische Recherche unverändert; keine neue individuelle Leistungsrechnung, keine Hör- oder Videokontrolle.",
+      "migration": {
+        "changeType": "Kapitel 1 einzeln migriert",
+        "mapping": "Die in der Anreizargumentation enthaltene Leistungsannahme separat ausgewiesen; Wohn- und Heizkosten bleiben ein zusammenhängender Prüfgegenstand.",
+        "assessmentChange": "Nach Kontextprüfung von Abgeschlossen / Irreführend / Kontext fehlt auf In Bearbeitung / null geändert. Die gesetzliche Einordnung bleibt erhalten; die zuvor angenommene pauschale Auslegung wird nicht als gesichert behandelt."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen."
+        },
+        {
+          "sourceId": "S013",
+          "note": "Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen."
+        }
+      ],
+      "openQuestions": [
+        "Meint die Passage Arbeitslose generell oder bereits berechtigte Grundsicherungsbeziehende? Der vorhandene Text entscheidet diese Lesart nicht eindeutig.",
+        "Falls eine gezielte Hörkontrolle verfügbar wird: Betonung und unmittelbaren Gesprächskontext prüfen; keine Sprecher- oder Bedeutungsbestätigung allein aus Untertiteln ableiten.",
+        "Anspruchsvoraussetzungen nicht als Beweis dafür verwenden, dass der Sprecher sie ausdrücklich verneint hätte."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0012",
+          "startSeconds": 1,
+          "endSeconds": 5,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Herkunft C01-P01 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Gleicher Erzählabschnitt wie der Arbeitsmarktauftakt; kein sicher identifizierter Sprecher. Nachprüfung: Kontext 01:23:20–01:24:12 gelesen; keine Hörkontrolle. Die damalige weite Auslegung wurde nicht bestätigt.",
+          "legacySpeaker": "Lüning (Montage)",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Gleicher Erzählabschnitt wie der Arbeitsmarktauftakt; kein sicher identifizierter Sprecher. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text Bestandteil der Anreizargumentation. Der Bezug auf alle Arbeitslosen oder nur auf berechtigte Personen ist nicht eindeutig; ein ausgelassenes Detail beweist keinen ausdrücklich behaupteten Automatismus. Sprecheridentität weiterhin plausibel.",
+          "timeHistory": [
+            {
+              "startSeconds": 0,
+              "endSeconds": 60,
+              "precision": "Ungefähr",
+              "basis": "Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P01 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0013",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 1,
+      "legacyId": "C01-P01",
+      "kind": "Tatsachenbehauptung",
+      "description": "Für einzelne Beschäftigte könne Grundsicherungsbezug gegenüber der Weiterarbeit attraktiver werden.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Die Passage illustriert eine mögliche individuelle Abwägung, nennt aber weder einen überprüfbaren Haushalt noch Lohn, Miete, Fahrtkosten oder tatsächlich beobachtete Arbeitsaufgabe. Das neu gelesene IAB-Papier 2025 diskutiert anreizdämpfende Wohnkosten und Hinzuverdienstregeln, beschreibt zugleich finanzielle Anreize zur Arbeitsaufnahme. Es ist kein Nachweis einer konkreten Verhaltenswirkung unter dem Regelstand September 2026. Die neu gelesene BA-Seite zeigt außerdem, dass auch Erwerbstätige ergänzende Leistungen erhalten können. Ihr Rechenbeispiel enthält uneinheitliche Beträge und wird deshalb nicht nachgerechnet oder als Beleg übernommen. Ein positiver Lohnabstand, ein geringer Zugewinn und persönliche Motivation sind verschiedene Fragen. Die Tatsachenannahme bleibt in Bearbeitung; daraus wird weder ein pauschales Urteil über Leistungsbeziehende noch eine dokumentierte Kündigung konstruiert.",
+      "assessmentBasis": "Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.",
+      "migration": {
+        "changeType": "Kapitel 1 einzeln migriert",
+        "mapping": "Die mögliche Anreizwirkung wird weder mit der Existenz von Sozialleistungen gleichgesetzt noch als pauschale Überlegenheit von Nichtarbeit bewertet.",
+        "assessmentChange": "Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S014",
+          "note": "Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen."
+        }
+      ],
+      "openQuestions": [
+        "Welche Haushalts- und Erwerbskonstellation ist gemeint?",
+        "Nettoeinkommen einschließlich ergänzender Leistungen, notwendiger Erwerbskosten und tatsächlicher Regeln im September 2026 vergleichen.",
+        "Eine behauptete tatsächliche Arbeitsaufgabe benötigt eigenständige Individual- oder Verhaltensdaten; die Montage liefert diese nicht.",
+        "Zwei einschlägige IAB-Forum-Seiten waren nach Seitenrahmenzugriff nicht im fachlichen Volltext erreichbar (Timeout); nicht als gelesene Belege verwendet."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0013",
+          "startSeconds": 4,
+          "endSeconds": 14,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Herkunft C01-P01 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Illustratives Gedankenspiel innerhalb der Montage, keine identifizierbare Fallperson.",
+          "legacySpeaker": "Lüning (Montage)",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Illustratives Gedankenspiel innerhalb der Montage, keine identifizierbare Fallperson. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die Passage illustriert eine mögliche persönliche Abwägung mit einer prüfbaren wirtschaftlichen Annahme. Sie belegt keine tatsächlich erfolgte Kündigung einer identifizierten Person.",
+          "timeHistory": [
+            {
+              "startSeconds": 0,
+              "endSeconds": 60,
+              "precision": "Ungefähr",
+              "basis": "Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P01 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0014",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 1,
+      "legacyId": "C01-P02",
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Jahr 2025 seien rund 288.000 deutsche Staatsangehörige aus Deutschland fortgezogen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die erneut gelesene Antwort zu Frage 28 der Bundestagsdrucksache 21/6244 nennt auf Grundlage der Wanderungsstatistik 288.579 Fortzüge deutscher Staatsangehöriger im Jahr 2025. Die Größenordnung trifft zu; auf volle Tausend gerundet wären es 289.000. Die Abweichung beträgt 579 beziehungsweise rund 0,2 Prozent. Die Antwort erschien im Juni 2026, also vor der Aufnahme. Sie unterscheidet Fortzüge von Zuzügen und warnt davor, daraus dauerhafte Abwesenheit abzuleiten. Geprüft ist die Zahl registrierter Fortzüge, nicht der endgültige Verlust ebenso vieler unterschiedlicher Personen.",
+      "assessmentBasis": "Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.",
+      "migration": {
+        "changeType": "Kapitel 1 einzeln migriert",
+        "mapping": "Jahreszahl 2025 aus C01-P02 als eigener, zahlenmäßig prüfbarer Teil; kein automatisches Erben der alten Sammelbewertung.",
+        "assessmentChange": "Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Drucksache 21/6244, Frage 28, gedruckte Seite 17 / PDF-Seite 23. Die Seitenangabe wurde redaktionell korrigiert; Wert, sachliche Bewertung und ursprüngliche Zugriffsgrundlage bleiben erhalten."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0014",
+          "startSeconds": 20,
+          "endSeconds": 26,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Herkunft C01-P02 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Der Gastbezug ist aus Metadaten und Gesprächskontext plausibel; die Montagespur ist nicht akustisch kontrolliert.",
+          "legacySpeaker": "Lüning (Montage)",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Der Gastbezug ist aus Metadaten und Gesprächskontext plausibel; die Montagespur ist nicht akustisch kontrolliert. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die Jahreszahl wird im Text behauptend genannt, nicht nur als Frage oder Zurückweisung wiedergegeben. Identität der Stimme weiterhin nicht bestätigt.",
+          "timeHistory": [
+            {
+              "startSeconds": 20,
+              "endSeconds": 28,
+              "precision": "Ungefähr",
+              "basis": "Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P02 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0015",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 1,
+      "legacyId": "C01-P02",
+      "kind": "Tatsachenbehauptung",
+      "description": "Fortzüge Deutscher in der genannten Größenordnung wiederholten sich jährlich.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Die unmittelbar anschließende jährliche Verallgemeinerung kann wiederkehrende Fortzüge, ungefähr gleiche Größenordnungen oder einen gleichbleibenden dauerhaften Verlust meinen. Die erneut gelesene Regierungsantwort belegt relevante Fortzüge für 2024 und 2025, aber keinen konstanten jährlichen Wert und keine Dauerhaftigkeit. Eine längere amtliche Reihe wurde gesucht; die Destatis-Tabelle ließ sich wegen HTTP 403 nicht öffnen. Suchausschnitte ersetzen die Prüfung nicht. Wegen der offenen Lesart und fehlenden gelesenen Langzeitreihe bleibt die Aussage ohne Endbewertung. Die konkrete Zahl 2025 ist separat A0014.",
+      "assessmentBasis": "Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.",
+      "migration": {
+        "changeType": "Kapitel 1 einzeln migriert",
+        "mapping": "Jährliche Verallgemeinerung von der Jahreszahl getrennt; keine implizite Behauptung eines exakt konstanten Wertes oder einer bestimmten Auswanderungsmotivation ergänzt.",
+        "assessmentChange": "Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen."
+        },
+        {
+          "sourceId": "S019",
+          "note": "Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen."
+        }
+      ],
+      "openQuestions": [
+        "Ist nur die jährliche Wiederkehr oder eine annähernd konstante Anzahl gemeint?",
+        "Welche Vergleichsjahre und welche Bandbreite definieren die behauptete Größenordnung? Eine zugängliche amtliche Zeitreihe lesen.",
+        "Fortzüge, Rückzüge und Nettosaldo sowie Wanderungsfälle und dauerhafte Personenverluste trennen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0015",
+          "startSeconds": 26,
+          "endSeconds": 29,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Herkunft C01-P02 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Fortsetzung desselben Ausschnitts, aber ohne verlässliches Personenlabel.",
+          "legacySpeaker": "Lüning (Montage)",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Fortsetzung desselben Ausschnitts, aber ohne verlässliches Personenlabel. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die zeitliche Verallgemeinerung steht als Fortsetzung der Zahlenbehauptung im Text. Ihre genaue Reichweite bleibt offen; daraus wird keine weitere Zustimmung einer anderen Person abgeleitet.",
+          "timeHistory": [
+            {
+              "startSeconds": 20,
+              "endSeconds": 28,
+              "precision": "Ungefähr",
+              "basis": "Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P02 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0016",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 1,
+      "legacyId": "C01-P03",
+      "kind": "Tatsachenbehauptung",
+      "description": "An einer Baustelle am südlichen Kölner Autobahnring sei über längere Zeit kein Baufortschritt erkennbar gewesen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Textabgleich mit dem Hauptgespräch um 01:30:37–01:30:51 konkretisiert die private Beobachtung, identifiziert aber weder Bauprojekt noch Fahrtdatum oder beobachteten Bauabschnitt eindeutig. Bewuchs zwischen Platten beweist keinen vollständigen Baustillstand. Die bisher in einem anderen Prüfpunkt genannte Fleher Brücke darf nicht ersatzweise dieser Kölner Baustelle zugeordnet werden. Eine projektspezifische externe Prüfung ist ohne eindeutige Zuordnung noch nicht durchgeführt; deshalb Offen, nicht Nicht ausreichend belegbar. Keine weiteren Brücken-, Zahlungs- oder Fertigstellungsbehauptungen aus Kapitel 5 migriert.",
+      "assessmentBasis": "Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.",
+      "migration": {
+        "changeType": "Kapitel 1 einzeln migriert",
+        "mapping": "Baustellenbeobachtung separat; Produktivitätsstagnation desselben Altprüfpunkts wird als O0019 der vorhandenen A0007 zugerechnet, nicht erneut angelegt.",
+        "assessmentChange": "Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Baustelle, welcher Abschnitt und welches Beobachtungsdatum sind gemeint?",
+        "Danach Baufortschritt, Bauphasen und mögliche Sperrpausen anhand zuständiger Projektunterlagen prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0016",
+          "startSeconds": 36,
+          "endSeconds": 42,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Herkunft C01-P03 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Der persönliche Erzählabschnitt entspricht textlich dem Hauptgespräch; Identität der Stimme ohne Hörkontrolle weiterhin plausibel.",
+          "legacySpeaker": "Lüning / Ben (Montage)",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Der persönliche Erzählabschnitt entspricht textlich dem Hauptgespräch; Identität der Stimme ohne Hörkontrolle weiterhin plausibel. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als persönliche Beobachtung einer Baustelle vorgetragen. Das prüft die behauptete Beobachtung, nicht die Tatsachen aus späteren Brückenanekdoten.",
+          "timeHistory": [
+            {
+              "startSeconds": 30,
+              "endSeconds": 59,
+              "precision": "Ungefähr",
+              "basis": "Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P03 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0017",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 1,
+      "legacyId": "C01-P03",
+      "kind": "Tatsachenbehauptung",
+      "description": "S&P habe einen möglichen Verlust der deutschen AAA-Bewertung noch im Jahr 2026 angekündigt.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Neu gelesen wurde der S&P-Originalbericht vom 24.04.2026. Er bestätigt AAA mit stabilem Ausblick und beschreibt eine mögliche Herabstufung bei deutlich schlechterer wirtschaftlicher Entwicklung. Das stützt ein bedingtes Risikoszenario, aber die gelesene Passage nennt keinen konkreten Verlusttermin noch 2026. Der Textabgleich mit 01:44:51–01:45:04 bestätigt, dass die Montage gerade diese zeitliche Zuspitzung aus dem Gespräch übernimmt. Die im November gelesene Finanzagenturübersicht nennt S&P AAA/stabil vom 26.10.2026; das ist später als die Aufnahme und widerlegt nicht jede denkbare frühere Warnung. Ob eine weitere konkrete Agenturmitteilung die Jahresangabe trägt, ist offen. Geprüft wird die Tatsachenbehauptung über eine S&P-Mitteilung, nicht die eigene Übernahme sämtlicher S&P-Prognosen durch einen Gesprächsteilnehmer.",
+      "assessmentBasis": "Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.",
+      "migration": {
+        "changeType": "Kapitel 1 einzeln migriert",
+        "mapping": "Behauptete Agenturankündigung von der folgenden eigenen Krisenprognose getrennt. Neue Recherche liefert einen Teilbefund, noch kein abschließendes Urteil.",
+        "assessmentChange": "Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen."
+        }
+      ],
+      "openQuestions": [
+        "Welche konkrete S&P-Mitteilung vor dem 23.09.2026 nennt ausdrücklich einen möglichen Verlust noch 2026?",
+        "Allgemeines Downside-Szenario und zeitlich bestimmte Warnung auseinanderhalten; spätere Bestätigung nicht rückwirkend als Widerlegung verwenden."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0017",
+          "startSeconds": 42,
+          "endSeconds": 50,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Herkunft C01-P03 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Textgleicher Argumentationskern im Hauptgespräch; keine akustisch bestätigte Sprecheridentität.",
+          "legacySpeaker": "Lüning / Ben (Montage)",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Textgleicher Argumentationskern im Hauptgespräch; keine akustisch bestätigte Sprecheridentität. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Prüfgegenstand ist die eigene Tatsachenbehauptung über das Vorliegen einer S&P-Mitteilung. Die referierte Agenturprognose wird dem Sprecher nicht automatisch als eigene Zukunftsvorhersage zugerechnet.",
+          "timeHistory": [
+            {
+              "startSeconds": 30,
+              "endSeconds": 59,
+              "precision": "Ungefähr",
+              "basis": "Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P03 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0018",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 1,
+      "legacyId": "C01-P03",
+      "kind": "Prognose",
+      "description": "Der beschriebene finanz- und wirtschaftspolitische Kurs werde bereits innerhalb von weniger als zehn weiteren Jahren an seine Grenzen stoßen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Der Teaser formuliert einen Zukunftshorizont, kein bereits eingetretenes Ereignis. Der ergänzende Textabgleich mit 01:46:50–01:47:00 ordnet die Passage einer persönlichen Krisenerwartung im finanzpolitischen Gespräch zu. Es fehlen ein eindeutig definiertes Ereignis, ein belastbares Modell und eine falsifizierbare Eintrittsschwelle. Die Kategorie kennzeichnet deshalb die Aussageart und bestätigt weder einen bevorstehenden Staatsbankrott noch ein bestimmtes Eintrittsdatum. Die rhetorischen Anschlussfragen und Krisenmetaphern des Moderators werden nicht automatisch als dessen eigene Übernahme dieser Zeitprognose gezählt. Weitere Tatsachenannahmen aus dem Hauptgespräch sind nicht mitmigriert.",
+      "assessmentBasis": "Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.",
+      "migration": {
+        "changeType": "Kapitel 1 einzeln migriert",
+        "mapping": "Zeitprognose separat klassifiziert; diese Einordnung ist keine faktische Verifikation und keine Übernahme des gemischten Alturteils.",
+        "assessmentChange": "Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Was genau soll innerhalb der Frist eintreten? Bei einer späteren Sachprüfung Ereignis und Ausgangszeitpunkt definieren.",
+        "Die Montage erlaubt keine sichere Zuordnung jeder Anschlussformulierung; keine gemeinsame Zustimmung aus Ben-Fragen ableiten."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0018",
+          "startSeconds": 50,
+          "endSeconds": 56,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Herkunft C01-P03 (Kapitel 1, Montage). Enger Textbereich der beschriebenen Teilbehauptung. Zukunftswarnung im Gastkontext; Montagewechsel zum Moderator um 00:00:55 bleibt eine getrennte Passage.",
+          "legacySpeaker": "Lüning / Ben (Montage)",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Am 17.11.2026 automatische deutsche Originaluntertitel mit Zeitstempeln, JSON3-Wechselhinweise und vorhandene Videometadaten geprüft. Zukunftswarnung im Gastkontext; Montagewechsel zum Moderator um 00:00:55 bleibt eine getrennte Passage. Die bisherige Namensangabe ist kein unabhängiger Nachweis. Keine namentlichen Untertitellabels und keine Audio-/Videokontrolle; Schnittmontage verhindert eine sichere Zuordnung durch bloßes Fortschreiben von Sprecherwechseln.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Zukunftserwartung lesbar. Die späteren Fragen und Krisenmetaphern des Moderators sind keine eindeutige Übernahme der konkreten Frist.",
+          "timeHistory": [
+            {
+              "startSeconds": 30,
+              "endSeconds": 59,
+              "precision": "Ungefähr",
+              "basis": "Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P03 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
         }
       ],
       "relations": []
