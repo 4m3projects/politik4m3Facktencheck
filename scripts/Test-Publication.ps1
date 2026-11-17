@@ -1,4 +1,4 @@
-[CmdletBinding()]
+﻿[CmdletBinding()]
 param([string]$Root)
 $ErrorActionPreference = 'Stop'
 if (-not $Root) { $Root = Join-Path $PSScriptRoot '..' }
@@ -6,16 +6,20 @@ $repoRoot = (Resolve-Path -LiteralPath $Root).Path.TrimEnd('\','/')
 $problems = [Collections.Generic.List[string]]::new()
 $utf = [Text.UTF8Encoding]::new($false,$true)
 $checkedCount = 0
+$workTexts = @{}
+$indexTexts = @{}
+. (Join-Path $PSScriptRoot 'Factcheck-Common.ps1')
 function Test-PublicFile([string]$RelativePath,[string]$Content,[string]$Origin) {
     $name = $RelativePath.Replace('\','/')
     $allowed = $name -match '^(README\.md|AGENTS\.md|LICENSE|\.gitignore|\.gitattributes)$' -or
         $name -match '^(docs|faktenchecks)/[A-Za-z0-9_./-]+\.md$' -or
-        $name -match '^scripts/[A-Za-z0-9_-]+\.ps1$'
+        $name -match '^scripts/[A-Za-z0-9_-]+\.ps1$' -or
+        $name -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/strukturiert/(aussagen|statistik)\.json$'
     if (-not $allowed -or $name -match '(^|/)\.\.(/|$)') {
         $problems.Add($Origin + ': nicht zugelassener Pfad ' + $name)
         return
     }
-    if ($name -like 'faktenchecks/*' -and $name -match '(^|/)(media|source)[.]|transcript|transkript|subtitle|untertitel|cookies|credentials|(^|/)\.env') {
+    if (($name -like 'faktenchecks/*') -and $name -match '(^|/)(media|source)[.]|transcript|transkript|subtitle|untertitel|cookies|credentials|(^|/)\.env') {
         $problems.Add($Origin + ': verdaechtiger Dateiname ' + $name)
     }
     if ($name -like 'faktenchecks/*') {
@@ -55,6 +59,7 @@ while ($stack.Count -gt 0) {
         try { $body = $utf.GetString([IO.File]::ReadAllBytes($item.FullName)) }
         catch { $problems.Add('Arbeitsbaum: kein valider UTF-8-Text ' + $rel); continue }
         Test-PublicFile $rel $body 'Arbeitsbaum'
+        $workTexts[$rel.Replace('\','/')] = $body
         $checkedCount++
     }
 }
@@ -75,7 +80,10 @@ foreach ($entry in $indexed) {
     $stored = & git @gitArgs show (':' + $path)
     if ($LASTEXITCODE -ne 0) { throw ('Indexdatei nicht lesbar: ' + $path) }
     Test-PublicFile $path ($stored -join [Environment]::NewLine) 'Index'
+    $indexTexts[$path] = ($stored -join [Environment]::NewLine)
 }
+try { Assert-FactcheckCollection $workTexts } catch { $problems.Add('Arbeitsbaum-Strukturdaten: ' + $_.Exception.Message) }
+try { Assert-FactcheckCollection $indexTexts } catch { $problems.Add('Index-Strukturdaten: ' + $_.Exception.Message) }
 if ($problems.Count -gt 0) {
     $problems | ForEach-Object { Write-Host ('FEHLER: ' + $_) }
     throw ('Publikationspruefung fehlgeschlagen: ' + $problems.Count + ' Befunde.')

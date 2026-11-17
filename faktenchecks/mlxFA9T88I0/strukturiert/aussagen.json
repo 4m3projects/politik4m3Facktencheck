@@ -1,0 +1,650 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "mlxFA9T88I0",
+    "videoUrl": "https://www.youtube.com/watch?v=mlxFA9T88I0",
+    "durationSeconds": 11166,
+    "asOf": "2026-11-17",
+    "baselineCommit": "bb6e666961baf719d02671a7ad2f439086f3c530",
+    "selectedLegacyIds": [
+      "C03-P07",
+      "C06-P09",
+      "C08-P03"
+    ],
+    "totalLegacyPoints": 99,
+    "unmigratedLegacyPoints": 96,
+    "researchNote": "Strukturelle Migration aus dem veröffentlichten Erststand. Keine erneute Webrecherche und keine erneute Kontrolle der Zeitmarken am Audio/Video. Abgeschlossen bezeichnet hier einen übernommenen, ausdrücklich ausgewiesenen Teilbefund; keine neue Gesamtverifikation.",
+    "coverageNote": "Nur drei von 99 ursprünglichen Prüfpunkten sind strukturiert erfasst: C03-P07, C06-P09 und C08-P03 mit zehn Teilbehauptungen. Die übrigen 96 sind nicht migriert. Keine Statistik des vollständigen Videos."
+  },
+  "legacyPoints": [
+    {
+      "id": "C03-P07",
+      "chapter": 3,
+      "point": 7,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md",
+      "fileSha256": "45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31",
+      "section": "## Prüfpunkt 7\n\n- **Fundstelle:** [00:56:20–00:58:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=3380s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Whisky.de sei acht Wochen zu spät registriert und später gekauft worden; whisky.com habe 3,1 Millionen US-Dollar gekostet und ungefähr Rang 18 der teuersten Domains erreicht.\n- **Bewertung:** teilweise belegt\n\n**Unsere Begründung und Grenzen:** Die Firmenmitteilung vom 03.03.2014 bestätigt Erwerb und Preis von whisky.com. Exakter Rang hängt von öffentlich bekannten Verkäufen und Stichtag ab und bleibt offen. Preis von whisky.de und Acht-Wochen-Abstand sind nicht unabhängig belegt.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Whisky.de buys Whisky.com for $ 3.1 million](https://www.whisky.com/presse/pressemeldungen/whiskyde-buys-whiskycom-for-31-million.html) · Whisky.de / Whisky.com · Stand: 03.03.2014; Unternehmensmitteilung.",
+      "migrationNote": "Vier Aussagen: Registrierungsabstand und späterer Erwerb von whisky.de sind getrennte historische Vorgänge. Erwerb von whisky.com samt Preis bleibt ein Ereignis mit Attributen; die behauptete Rangposition braucht eine gesonderte Vergleichsgrundlage. Die alte Sammelbewertung wird nicht vervielfältigt."
+    },
+    {
+      "id": "C06-P09",
+      "chapter": 6,
+      "point": 9,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md",
+      "fileSha256": "4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3",
+      "section": "## Prüfpunkt 9\n\n- **Fundstelle:** [02:00:49–02:03:25](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7249s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** An Finanzmärkten seien in den letzten fünf Jahren 20–40 Prozent jährlich möglich gewesen; MSCI World, Nasdaq, S&P, Gold und Bitcoin als Beispiele; seit 2017 keine Maschineninvestitionen und stagnierende, später fallende Produktivität.\n- **Bewertung:** teilweise belegt / Renditeverallgemeinerung irreführend / Produktivitätsprüfung offen\n\n**Unsere Begründung und Grenzen:** Das MSCI-Factsheet bis März 2026 weist für den World fünfjährig 10,77 Prozent p.a. in USD brutto und 2022 minus 17,73 Prozent aus. Das widerlegt nicht jede erfolgreiche Einzelanlage, trägt aber keine pauschale jährliche 20–40-Prozent-Erzählung für die genannten Märkte. Exaktes Fünfjahresfenster zur Aufnahme, EUR-Renditen und übrige Anlagen sind nicht vollständig nachgerechnet. Die konkrete deutsche Produktivitäts-/Investitionsreihe wurde wegen Quellenzugangsgrenzen nicht abgeschlossen; völliges Ausbleiben von Maschineninvestitionen ist hier nicht nachgewiesen. Die gelesene Destatis-Mitteilung zu Q2 2026 nennt +1,5 Prozent Stundenproduktivität zum Vorjahresquartal. Das widerspricht einem ausnahmslos fortlaufenden Rückgang, beantwortet aber nicht die vollständige Reihe seit 2017. Die Quelle wurde später korrigiert; der genaue Revisionsstand gegenüber dem Aufnahmetag ist offen.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [MSCI World Index (USD), Gross Returns](https://www.msci.com/documents/10199/255599/msci-world-index.pdf) · MSCI · Stand: Factsheet März 2026; 5-Jahresrendite bis 31.03.2026.\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7249s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.\n- [Bruttoinlandsprodukt: Ausführliche Ergebnisse im 2. Quartal 2026](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_303_811.html) · Statistisches Bundesamt · Stand: August 2026; vorläufige Daten.",
+      "migrationNote": "Vier Aussagen: Die historische Renditebehauptung bleibt als eine modal formulierte Sammelaussage bestehen. Aus der Nennung mehrerer Anlagebeispiele werden keine fünf eigenständigen Renditeversprechen erfunden. Maschineninvestitionen, Stagnation und späterer Rückgang der Produktivität sind getrennt prüfbar. Der Einzelquartalsbefund widerlegt keinen nicht eindeutig definierten gesamten Zeitverlauf."
+    },
+    {
+      "id": "C08-P03",
+      "chapter": 8,
+      "point": 3,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md",
+      "fileSha256": "af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9",
+      "section": "## Prüfpunkt 3\n\n- **Fundstelle:** [02:19:10–02:20:20](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8350s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Artikel 20 garantiere Abstimmungen; ein einfaches Durchführungsgesetz genüge für allgemeine verbindliche Volksabstimmungen im Bund.\n- **Bewertung:** erster Teil belegt / Rechtsfolgerung irreführend\n\n**Unsere Begründung und Grenzen:** Art. 20 nennt Wahlen und Abstimmungen. Nach der gelesenen WD-Einordnung bestehen spezielle Bundesreferenden vor allem für Länderneugliederung und eine neue Verfassung. Daraus folgt keine allgemeine Volksgesetzgebung durch bloßes Ausführungsgesetz. Für eine entsprechende Verfassungsänderung gilt Art. 79 Abs. 2 mit Zweidrittelmehrheiten. Die im Video vorgestellte einfache Lösung ist nicht als geltendes Recht abgesichert.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Grundgesetz, Artikel 20](https://www.gesetze-im-internet.de/gg/art_20.html) · Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.\n- [Bürgerinitiativen und Volksentscheide auf Bundesebene](https://www.bundestag.de/resource/blob/595138/WD-3-432-18-pdf.pdf) · Wissenschaftliche Dienste des Deutschen Bundestages, WD 3-432/18 · Stand: 2018; verfassungsrechtliche Einordnung.\n- [Grundgesetz, Artikel 79](https://www.gesetze-im-internet.de/gg/art_79.html) · Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.",
+      "migrationNote": "Zwei Aussagen: Die im Erststand belegte Nennung von Abstimmungen wird präzise auf den Wortlautbezug begrenzt. Die weitergehende Behauptung allgemeiner Bundesvolksgesetzgebung durch ein einfaches Gesetz wird gesondert behandelt. Die bisherigen Teilbefunde werden explizit extrahiert, nicht neu recherchiert."
+    }
+  ],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Whisky.de buys Whisky.com for $ 3.1 million",
+      "url": "https://www.whisky.com/presse/pressemeldungen/whiskyde-buys-whiskycom-for-31-million.html",
+      "details": "Whisky.de / Whisky.com · Stand: 03.03.2014; Unternehmensmitteilung.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen."
+    },
+    {
+      "id": "S002",
+      "title": "MSCI World Index (USD), Gross Returns",
+      "url": "https://www.msci.com/documents/10199/255599/msci-world-index.pdf",
+      "details": "MSCI · Stand: Factsheet März 2026; 5-Jahresrendite bis 31.03.2026.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen."
+    },
+    {
+      "id": "S003",
+      "title": "Originalvideo und zugehörige Zeitmarke",
+      "url": "https://www.youtube.com/watch?v=mlxFA9T88I0&t=7249s",
+      "details": "{ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen."
+    },
+    {
+      "id": "S004",
+      "title": "Bruttoinlandsprodukt: Ausführliche Ergebnisse im 2. Quartal 2026",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_303_811.html",
+      "details": "Statistisches Bundesamt · Stand: August 2026; vorläufige Daten.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen."
+    },
+    {
+      "id": "S005",
+      "title": "Grundgesetz, Artikel 20",
+      "url": "https://www.gesetze-im-internet.de/gg/art_20.html",
+      "details": "Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen."
+    },
+    {
+      "id": "S006",
+      "title": "Bürgerinitiativen und Volksentscheide auf Bundesebene",
+      "url": "https://www.bundestag.de/resource/blob/595138/WD-3-432-18-pdf.pdf",
+      "details": "Wissenschaftliche Dienste des Deutschen Bundestages, WD 3-432/18 · Stand: 2018; verfassungsrechtliche Einordnung.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen."
+    },
+    {
+      "id": "S007",
+      "title": "Grundgesetz, Artikel 79",
+      "url": "https://www.gesetze-im-internet.de/gg/art_79.html",
+      "details": "Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.",
+      "accessedOn": "2026-11-17",
+      "accessBasis": "Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen."
+    }
+  ],
+  "claims": [
+    {
+      "id": "mlxFA9T88I0-A0001",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 3,
+      "legacyId": "C03-P07",
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein anderer Anbieter habe whisky.de etwa acht Wochen vor dem eigenen Registrierungsversuch angemeldet.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Erststand nennt für diesen Abstand keinen unabhängig geprüften Nachweis. Das Fehlen einer abgeschlossenen Recherche wird als Bearbeitungsstatus und nicht als Urteil über den Wahrheitsgehalt erfasst.",
+      "assessmentBasis": "Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.",
+      "migration": {
+        "changeType": "Offenen Teil separat ausgewiesen",
+        "mapping": "Übernommen: die Acht-Wochen-Angabe; zugeordnet: der bisher ausdrücklich nicht belegte Registrierungsabstand.",
+        "assessmentChange": "Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Historische Registrierungsdaten und Zeitpunkt des eigenen Versuchs klären."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0001",
+          "startSeconds": 3413,
+          "endSeconds": 3421,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Engerer Text-Suchbereich der Teilbehauptung; Grenzen sind ungefähr. Frühere Fundstelle siehe timeHistory.",
+          "legacySpeaker": "Lüning",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung am 17.11.2026: vorhandene automatische deutsche Originaluntertitel, ergänzend Videometadaten und JSON3-Wechselhinweise. Relevanter Textbereich ungefähr 00:56:53–00:57:01. Geschäftliche Ich-/Wir-Erzählung und Frage-Antwort-Kontext passen zum benannten Gast. Die bisherige Angabe Lüning ist übernommen, nicht unabhängig bestätigt. Keine verlässlichen Personenlabels oder eindeutige Selbstidentifizierung der Passage; keine Audio-/Videokontrolle. Wechselhinweise enthalten keine Personenidentität.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die Passage wirkt im Text wie eine eigene Behauptung; mögliche Sprecherwechsel und Einwürfe wurden nicht akustisch kontrolliert.",
+          "timeHistory": [
+            {
+              "startSeconds": 3380,
+              "endSeconds": 3539,
+              "precision": "Ungefähr",
+              "basis": "Übernommener Suchbereich des bisherigen Prüfpunkts, keine sekundengenaue Lokalisierung der einzelnen Teilbehauptung."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0002",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 3,
+      "legacyId": "C03-P07",
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Domain whisky.de sei später vom bisherigen Inhaber erworben worden.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die vorhandene Quelle betrifft whisky.com. Ein gesonderter Beleg für den Erwerb von whisky.de wurde im Erststand nicht ausgewiesen. Aus der belegten anderen Transaktion folgt keine automatische Bestätigung.",
+      "assessmentBasis": "Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.",
+      "migration": {
+        "changeType": "Offenen Teil separat ausgewiesen",
+        "mapping": "Übernommen: der spätere Erwerb; erhalten bleibt auch die alte Anmerkung zum ungeprüften Preis von whisky.de im Herkunftstext.",
+        "assessmentChange": "Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Erwerbsdatum und eine geeignete Dokumentation zu whisky.de ermitteln; der nicht bekannte Kaufpreis bleibt Kontext, keine erfundene zusätzliche Behauptung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0002",
+          "startSeconds": 3388,
+          "endSeconds": 3413,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Engerer Text-Suchbereich der Teilbehauptung; Grenzen sind ungefähr. Frühere Fundstelle siehe timeHistory.",
+          "legacySpeaker": "Lüning",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung am 17.11.2026: vorhandene automatische deutsche Originaluntertitel, ergänzend Videometadaten und JSON3-Wechselhinweise. Relevanter Textbereich ungefähr 00:56:28–00:56:52. Geschäftliche Ich-/Wir-Erzählung und Frage-Antwort-Kontext passen zum benannten Gast. Die bisherige Angabe Lüning ist übernommen, nicht unabhängig bestätigt. Keine verlässlichen Personenlabels oder eindeutige Selbstidentifizierung der Passage; keine Audio-/Videokontrolle. Wechselhinweise enthalten keine Personenidentität.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die Passage wirkt im Text wie eine eigene Behauptung; mögliche Sprecherwechsel und Einwürfe wurden nicht akustisch kontrolliert.",
+          "timeHistory": [
+            {
+              "startSeconds": 3380,
+              "endSeconds": 3539,
+              "precision": "Ungefähr",
+              "basis": "Übernommener Suchbereich des bisherigen Prüfpunkts, keine sekundengenaue Lokalisierung der einzelnen Teilbehauptung."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0003",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 3,
+      "legacyId": "C03-P07",
+      "kind": "Tatsachenbehauptung",
+      "description": "whisky.com sei für 3,1 Millionen US-Dollar erworben worden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die bisherige Begründung weist Erwerb und Preis durch die Unternehmensmitteilung vom 03.03.2014 als bestätigt aus. Dieser konkrete Teilbefund wird übernommen. Die Quelle ist eine Unternehmensmitteilung, kein unabhängiges Audit.",
+      "assessmentBasis": "Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.",
+      "migration": {
+        "changeType": "Expliziter Teilbefund extrahiert",
+        "mapping": "Übernommen: Erwerb und Kaufpreis von whisky.com sowie die dazugehörige Firmenmitteilung. Die alte Sammelbewertung teilweise belegt wird ausdrücklich zu einem engeren Einzelbefund differenziert.",
+        "assessmentChange": "Die neue Einzelbewertung wird aus der bisherigen Begründung abgeleitet. Die historische Sammelbewertung bleibt im Herkunftstext erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Im Erststand als Beleg für Erwerb und Preis verwendet; keine neue Quellenkontrolle bei der Strukturübernahme."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0003",
+          "startSeconds": 3474,
+          "endSeconds": 3488,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Engerer Text-Suchbereich der Teilbehauptung; Grenzen sind ungefähr. Frühere Fundstelle siehe timeHistory.",
+          "legacySpeaker": "Lüning",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung am 17.11.2026: vorhandene automatische deutsche Originaluntertitel, ergänzend Videometadaten und JSON3-Wechselhinweise. Relevanter Textbereich ungefähr 00:57:54–00:58:08. Geschäftliche Ich-/Wir-Erzählung und Frage-Antwort-Kontext passen zum benannten Gast. Die bisherige Angabe Lüning ist übernommen, nicht unabhängig bestätigt. Keine verlässlichen Personenlabels oder eindeutige Selbstidentifizierung der Passage; keine Audio-/Videokontrolle. Wechselhinweise enthalten keine Personenidentität.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die Passage wirkt im Text wie eine eigene Behauptung; mögliche Sprecherwechsel und Einwürfe wurden nicht akustisch kontrolliert.",
+          "timeHistory": [
+            {
+              "startSeconds": 3380,
+              "endSeconds": 3539,
+              "precision": "Ungefähr",
+              "basis": "Übernommener Suchbereich des bisherigen Prüfpunkts, keine sekundengenaue Lokalisierung der einzelnen Teilbehauptung."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0004",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 3,
+      "legacyId": "C03-P07",
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Kauf von whisky.com habe ungefähr Rang 18 unter den teuersten Domainverkäufen erreicht.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Erststand lässt die Rangposition offen und nennt keinen abgegrenzten historischen Vergleichsdatensatz. Die bestätigte Preishöhe allein bestimmt keinen weltweiten Rang.",
+      "assessmentBasis": "Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.",
+      "migration": {
+        "changeType": "Offenen Teil separat ausgewiesen",
+        "mapping": "Übernommen: die ungefähre Rangposition; zugeordnet: die bisherigen Einschränkungen zu Rangdefinition und Stichtag.",
+        "assessmentChange": "Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Kontext zum Kaufpreis; kein bei der Strukturübernahme bestätigter Rangnachweis."
+        }
+      ],
+      "openQuestions": [
+        "Stichtag, Rangmaß, bekannte gegenüber sämtlichen Verkäufen und unabhängige Rangliste bestimmen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0004",
+          "startSeconds": 3488,
+          "endSeconds": 3493,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Engerer Text-Suchbereich der Teilbehauptung; Grenzen sind ungefähr. Frühere Fundstelle siehe timeHistory.",
+          "legacySpeaker": "Lüning",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung am 17.11.2026: vorhandene automatische deutsche Originaluntertitel, ergänzend Videometadaten und JSON3-Wechselhinweise. Relevanter Textbereich ungefähr 00:58:08–00:58:13. Geschäftliche Ich-/Wir-Erzählung und Frage-Antwort-Kontext passen zum benannten Gast. Die bisherige Angabe Lüning ist übernommen, nicht unabhängig bestätigt. Keine verlässlichen Personenlabels oder eindeutige Selbstidentifizierung der Passage; keine Audio-/Videokontrolle. Wechselhinweise enthalten keine Personenidentität.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die Passage wirkt im Text wie eine eigene Behauptung; mögliche Sprecherwechsel und Einwürfe wurden nicht akustisch kontrolliert.",
+          "timeHistory": [
+            {
+              "startSeconds": 3380,
+              "endSeconds": 3539,
+              "precision": "Ungefähr",
+              "basis": "Übernommener Suchbereich des bisherigen Prüfpunkts, keine sekundengenaue Lokalisierung der einzelnen Teilbehauptung."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0005",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P09",
+      "kind": "Tatsachenbehauptung",
+      "description": "An den genannten Finanzmärkten seien in den vergangenen fünf Jahren Renditen von 20 bis 40 Prozent jährlich möglich gewesen.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Der Erststand nennt einen MSCI-World-Vergleich, aber keinen einheitlichen Nachweis für das tatsächliche Fünfjahresfenster und die übrigen Anlagebeispiele. Die Modalität möglich wird erhalten; daraus wird weder ein allgemeines Renditeversprechen noch eine Behauptung gleicher Renditen aller Märkte gemacht.",
+      "assessmentBasis": "Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.",
+      "migration": {
+        "changeType": "Offenen Teil separat ausgewiesen",
+        "mapping": "Übernommen: Renditespanne, fünfjährige Rückschau und die Anlagebeispiele als Kontext; erhalten: sämtliche bisherigen MSCI-Zahlen und Einschränkungen im Herkunftstext. Eine pauschale Irreführend-Bewertung wird nicht auf die unpräzise Modalbehauptung übertragen.",
+        "assessmentChange": "Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Bisheriger Vergleich: 10,77 Prozent p.a. in USD brutto bis März 2026 und Verlustjahr 2022. Das beantwortet nicht alle Modalitäten der Sammelaussage."
+        }
+      ],
+      "openQuestions": [
+        "Exakten Bezugszeitraum und Währung klären.",
+        "Einzeljahresrendite, durchschnittliche Jahresrendite und Möglichkeit einer ausgewählten Strategie unterscheiden.",
+        "Nasdaq, S&P, Gold und Bitcoin nur im tatsächlich behaupteten Umfang prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0005",
+          "startSeconds": 7235,
+          "endSeconds": 7272,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Engerer Text-Suchbereich der Teilbehauptung; Grenzen sind ungefähr. Frühere Fundstelle siehe timeHistory.",
+          "legacySpeaker": "Lüning",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung am 17.11.2026: vorhandene automatische deutsche Originaluntertitel, ergänzend Videometadaten und JSON3-Wechselhinweise. Relevanter Textbereich ungefähr 02:00:35–02:01:12. Fortlaufende Argumentation passt zur bisherigen Gastzuordnung. Die bisherige Angabe Lüning ist übernommen, nicht unabhängig bestätigt. Keine verlässlichen Personenlabels oder eindeutige Selbstidentifizierung der Passage; keine Audio-/Videokontrolle. Wechselhinweise enthalten keine Personenidentität.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die Passage wirkt im Text wie eine eigene Behauptung; mögliche Sprecherwechsel und Einwürfe wurden nicht akustisch kontrolliert.",
+          "timeHistory": [
+            {
+              "startSeconds": 7249,
+              "endSeconds": 7405,
+              "precision": "Ungefähr",
+              "basis": "Übernommener Suchbereich des bisherigen Prüfpunkts, keine sekundengenaue Lokalisierung der einzelnen Teilbehauptung."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0006",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P09",
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutsche Unternehmen hätten seit 2017 nicht mehr in Maschinen investiert.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Erststand enthält keine abgeschlossene Investitionszeitreihe. Eine eigenständige Recherche muss Umfang und gemeinte Definition der Aussage klären, bevor eine abschließende Bewertung möglich ist.",
+      "assessmentBasis": "Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.",
+      "migration": {
+        "changeType": "Offenen Teil separat ausgewiesen",
+        "mapping": "Übernommen: die Maschineninvestitionsbehauptung; zugeordnet: die bisher ausdrücklich nicht abgeschlossene Investitionsprüfung.",
+        "assessmentChange": "Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Fundstellennachweis aus dem Erststand, keine unabhängige Bestätigung."
+        }
+      ],
+      "openQuestions": [
+        "Klären, ob eine absolute Investitionspause oder ausbleibende zusätzliche Investitionen gemeint ist.",
+        "Passende Investitionsreihe mit Definition und Revisionsstand prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0006",
+          "startSeconds": 7397,
+          "endSeconds": 7404,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Engerer Text-Suchbereich der Teilbehauptung; Grenzen sind ungefähr. Frühere Fundstelle siehe timeHistory.",
+          "legacySpeaker": "Lüning",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung am 17.11.2026: vorhandene automatische deutsche Originaluntertitel, ergänzend Videometadaten und JSON3-Wechselhinweise. Relevanter Textbereich ungefähr 02:03:17–02:03:24. Fortlaufende Argumentation passt zur bisherigen Gastzuordnung. Die bisherige Angabe Lüning ist übernommen, nicht unabhängig bestätigt. Keine verlässlichen Personenlabels oder eindeutige Selbstidentifizierung der Passage; keine Audio-/Videokontrolle. Wechselhinweise enthalten keine Personenidentität.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die Passage wirkt im Text wie eine eigene Behauptung; mögliche Sprecherwechsel und Einwürfe wurden nicht akustisch kontrolliert.",
+          "timeHistory": [
+            {
+              "startSeconds": 7249,
+              "endSeconds": 7405,
+              "precision": "Ungefähr",
+              "basis": "Übernommener Suchbereich des bisherigen Prüfpunkts, keine sekundengenaue Lokalisierung der einzelnen Teilbehauptung."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0007",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P09",
+      "kind": "Tatsachenbehauptung",
+      "description": "Die deutsche Arbeitsproduktivität habe ab etwa 2017 stagniert.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Der übernommene Destatis-Einzelquartalsbefund ersetzt keine vollständige Produktivitätsreihe seit 2017. Definition, Abgrenzung und Zeitraum der Stagnationsbehauptung sind noch redaktionell und inhaltlich zu klären.",
+      "assessmentBasis": "Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.",
+      "migration": {
+        "changeType": "Offenen Teil separat ausgewiesen",
+        "mapping": "Übernommen: Beginn und Stagnationsbehauptung; zugeordnet: die bisher offene längerfristige Produktivitätsprüfung.",
+        "assessmentChange": "Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Übernommener Kontext: Stundenproduktivität Q2 2026, kein vollständiger Nachweis der Reihe seit 2017."
+        }
+      ],
+      "openQuestions": [
+        "Stunden- gegenüber Kopfproduktivität sowie nominale gegenüber realer Messung abgrenzen.",
+        "Vollständige Reihe und damaligen Revisionsstand prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0007",
+          "startSeconds": 7385,
+          "endSeconds": 7397,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Engerer Text-Suchbereich der Teilbehauptung; Grenzen sind ungefähr. Frühere Fundstelle siehe timeHistory.",
+          "legacySpeaker": "Lüning",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung am 17.11.2026: vorhandene automatische deutsche Originaluntertitel, ergänzend Videometadaten und JSON3-Wechselhinweise. Relevanter Textbereich ungefähr 02:03:05–02:03:17. Fortlaufende Argumentation passt zur bisherigen Gastzuordnung. Die bisherige Angabe Lüning ist übernommen, nicht unabhängig bestätigt. Keine verlässlichen Personenlabels oder eindeutige Selbstidentifizierung der Passage; keine Audio-/Videokontrolle. Wechselhinweise enthalten keine Personenidentität.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die Passage wirkt im Text wie eine eigene Behauptung; mögliche Sprecherwechsel und Einwürfe wurden nicht akustisch kontrolliert.",
+          "timeHistory": [
+            {
+              "startSeconds": 7249,
+              "endSeconds": 7405,
+              "precision": "Ungefähr",
+              "basis": "Übernommener Suchbereich des bisherigen Prüfpunkts, keine sekundengenaue Lokalisierung der einzelnen Teilbehauptung."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0008",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P09",
+      "kind": "Tatsachenbehauptung",
+      "description": "In späteren Jahren sei die deutsche Arbeitsproduktivität gesunken.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die bisherige Begründung nennt ein Quartal mit Wachstum, lässt aber den gesamten Zeitraum und dessen Revisionen offen. Ein einzelnes positives Quartal widerlegt nicht, dass es in anderen Jahren Rückgänge gab. Es wird keine Behauptung eines ausnahmslos fortlaufenden Rückgangs hinzuerfunden.",
+      "assessmentBasis": "Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.",
+      "migration": {
+        "changeType": "Offenen Teil separat ausgewiesen",
+        "mapping": "Übernommen: die spätere Rückgangsbehauptung; erhalten: Destatis-Zahl, deren begrenzte Aussagekraft und Revisionsvorbehalt im Herkunftstext. Die überstarke Gegenüberstellung mit einem durchgehenden Rückgang wird nicht als Einzelurteil übernommen.",
+        "assessmentChange": "Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Bisheriger Einzelbefund +1,5 Prozent im Vorjahresvergleich von Q2 2026; zeitlich begrenzter Kontext."
+        }
+      ],
+      "openQuestions": [
+        "Gemeinte Jahre und Bezugsmaß bestimmen.",
+        "Rückgänge in Teilperioden von einem durchgehenden Abwärtstrend unterscheiden."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0008",
+          "startSeconds": 7405,
+          "endSeconds": 7415,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Engerer Text-Suchbereich der Teilbehauptung; Grenzen sind ungefähr. Frühere Fundstelle siehe timeHistory. Das frühere Ende 02:03:25 erfasste den Anschluss nicht; das jetzige Ende 02:03:35 schließt ihn ein.",
+          "legacySpeaker": "Lüning",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung am 17.11.2026: vorhandene automatische deutsche Originaluntertitel, ergänzend Videometadaten und JSON3-Wechselhinweise. Relevanter Textbereich ungefähr 02:03:25–02:03:35. Fortlaufende Argumentation passt zur bisherigen Gastzuordnung. Die bisherige Angabe Lüning ist übernommen, nicht unabhängig bestätigt. Keine verlässlichen Personenlabels oder eindeutige Selbstidentifizierung der Passage; keine Audio-/Videokontrolle. Wechselhinweise enthalten keine Personenidentität.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die Passage wirkt im Text wie eine eigene Behauptung; mögliche Sprecherwechsel und Einwürfe wurden nicht akustisch kontrolliert.",
+          "timeHistory": [
+            {
+              "startSeconds": 7249,
+              "endSeconds": 7405,
+              "precision": "Ungefähr",
+              "basis": "Übernommener Suchbereich des bisherigen Prüfpunkts, keine sekundengenaue Lokalisierung der einzelnen Teilbehauptung. Ergänzende Textprüfung: Der spätere Produktivitätsrückgang reicht ungefähr bis 02:03:35; der erhaltene alte Suchbereich endet zu früh. Die Prüfung der Sprecherzuordnung berücksichtigt diesen Anschluss."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0009",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 8,
+      "legacyId": "C08-P03",
+      "kind": "Tatsachenbehauptung",
+      "description": "Artikel 20 des Grundgesetzes nennt Wahlen und Abstimmungen als Formen der Ausübung der Staatsgewalt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Erststand bezeichnet diese Nennung ausdrücklich als belegt. Die Einzelbeschreibung wird auf diesen Wortlautbezug begrenzt und behauptet kein zusätzliches allgemeines Abstimmungsrecht außerhalb des verfassungsrechtlichen Zusammenhangs.",
+      "assessmentBasis": "Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.",
+      "migration": {
+        "changeType": "Expliziter Teilbefund extrahiert",
+        "mapping": "Übernommen: der bisher ausdrücklich belegte erste Teil. Redaktionelle Präzisierung: Nennung statt unbestimmter Garantie; die weitergehende Rechtsfolgerung verbleibt in A0010.",
+        "assessmentChange": "Die neue Einzelbewertung wird aus der bisherigen Begründung abgeleitet. Die historische Sammelbewertung bleibt im Herkunftstext erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S005",
+          "note": "Im Erststand gelesene Norm zur Nennung von Wahlen und Abstimmungen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0009",
+          "startSeconds": 8374,
+          "endSeconds": 8386,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Engerer Text-Suchbereich der Teilbehauptung; Grenzen sind ungefähr. Frühere Fundstelle siehe timeHistory.",
+          "legacySpeaker": "Lüning",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung am 17.11.2026: vorhandene automatische deutsche Originaluntertitel, ergänzend Videometadaten und JSON3-Wechselhinweise. Relevanter Textbereich ungefähr 02:19:34–02:19:46. Fortlaufende Argumentation passt zur bisherigen Gastzuordnung. Die bisherige Angabe Lüning ist übernommen, nicht unabhängig bestätigt. Keine verlässlichen Personenlabels oder eindeutige Selbstidentifizierung der Passage; keine Audio-/Videokontrolle. Wechselhinweise enthalten keine Personenidentität.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die Passage wirkt im Text wie eine eigene Behauptung; mögliche Sprecherwechsel und Einwürfe wurden nicht akustisch kontrolliert.",
+          "timeHistory": [
+            {
+              "startSeconds": 8350,
+              "endSeconds": 8420,
+              "precision": "Ungefähr",
+              "basis": "Übernommener Suchbereich des bisherigen Prüfpunkts, keine sekundengenaue Lokalisierung der einzelnen Teilbehauptung."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0010",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 8,
+      "legacyId": "C08-P03",
+      "kind": "Tatsachenbehauptung",
+      "description": "Allgemeine verbindliche Volksabstimmungen im Bund könnten auf Grundlage von Artikel 20 allein durch ein einfaches Durchführungsgesetz eingeführt werden.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Erststand bewertet diese Rechtsfolgerung ausdrücklich als irreführend. Er verweist auf die verfassungsrechtlich begrenzten Fälle von Bundesreferenden und das Erfordernis einer entsprechenden Verfassungsänderung für die dort beschriebene allgemeine Volksgesetzgebung. Dieser eng abgegrenzte Teilbefund wird übernommen, ohne eine neue Rechtsprüfung zu behaupten.",
+      "assessmentBasis": "Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.",
+      "migration": {
+        "changeType": "Expliziter Teilbefund extrahiert",
+        "mapping": "Übernommen: die bislang ausdrücklich irreführend bewertete Rechtsfolgerung samt Begründung und Quellen. Keine Verschärfung zur Kategorie Widerlegt.",
+        "assessmentChange": "Die neue Einzelbewertung wird aus der bisherigen Begründung abgeleitet. Die historische Sammelbewertung bleibt im Herkunftstext erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Im Erststand verwendete Einordnung zu Bundesreferenden."
+        },
+        {
+          "sourceId": "S007",
+          "note": "Im Erststand verwendete Voraussetzungen einer Verfassungsänderung."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Kontext der aus Artikel 20 abgeleiteten Schlussfolgerung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0010",
+          "startSeconds": 8386,
+          "endSeconds": 8394,
+          "precision": "Ungefähr",
+          "role": "Behauptung",
+          "note": "Engerer Text-Suchbereich der Teilbehauptung; Grenzen sind ungefähr. Frühere Fundstelle siehe timeHistory.",
+          "legacySpeaker": "Lüning",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung am 17.11.2026: vorhandene automatische deutsche Originaluntertitel, ergänzend Videometadaten und JSON3-Wechselhinweise. Relevanter Textbereich ungefähr 02:19:46–02:19:54. Fortlaufende Argumentation passt zur bisherigen Gastzuordnung. Die bisherige Angabe Lüning ist übernommen, nicht unabhängig bestätigt. Keine verlässlichen Personenlabels oder eindeutige Selbstidentifizierung der Passage; keine Audio-/Videokontrolle. Wechselhinweise enthalten keine Personenidentität.",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Die Passage wirkt im Text wie eine eigene Behauptung; mögliche Sprecherwechsel und Einwürfe wurden nicht akustisch kontrolliert.",
+          "timeHistory": [
+            {
+              "startSeconds": 8350,
+              "endSeconds": 8420,
+              "precision": "Ungefähr",
+              "basis": "Übernommener Suchbereich des bisherigen Prüfpunkts, keine sekundengenaue Lokalisierung der einzelnen Teilbehauptung."
+            }
+          ],
+          "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Ben",
+      "videoRole": "Moderator",
+      "identityBasis": "Kanalangabe und Ben-Verweise in den vorhandenen Videometadaten; https://www.youtube.com/watch?v=mlxFA9T88I0 . Belegt keine konkrete Sprechpassage."
+    },
+    {
+      "id": "SP02",
+      "name": "Horst Lüning",
+      "videoRole": "Gast",
+      "identityBasis": "In den vorhandenen Videometadaten als Gast benannt; https://www.youtube.com/watch?v=mlxFA9T88I0 . Belegt keine konkrete Sprechpassage."
+    }
+  ]
+}

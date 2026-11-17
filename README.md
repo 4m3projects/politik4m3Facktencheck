@@ -1,50 +1,67 @@
 # Politik 4M3 Faktencheck
 
-Ein offenes Lernprojekt für quellenbasierte, deutschsprachige Faktenchecks zu einzelnen YouTube-Videos. Veröffentlicht werden unsere eigenen Beschreibungen, Interpretationen und begründeten Bewertungen mit Zeitstempeln und Quellenlinks.
+Ein offenes Lernprojekt für quellenbasierte deutschsprachige Faktenchecks zu einzelnen YouTube-Videos. Wir veröffentlichen eigene Beschreibungen, Interpretationen und begründete Bewertungen mit Zeitstempeln und Quellenlinks.
 
-## Vorhandene Auswertung
+## Vorhandener Datenbestand
 
-- [Horst Lüning bei Ben – Wirtschafts- und Staatsfinanzthesen](faktenchecks/mlxFA9T88I0/README.md)
-  Zehn Kapitel, 99 Prüfpunkte. Übernommener Arbeitsstand vom 17.11.2026 mit offenen Teilprüfungen; keine vollständige unabhängige Verifikation aller Einzelheiten.
+- [Bisherige Auswertung: Horst Lüning bei Ben](faktenchecks/mlxFA9T88I0/README.md): 14 unveränderte Berichtdateien mit 99 ursprünglichen Prüfpunkten; übernommener Arbeitsstand mit offenen Teilprüfungen.
+- [Strukturierte Auswertung desselben Videos](faktenchecks/mlxFA9T88I0/strukturiert/README.md): zehn Teilbehauptungen aus **drei von 99** ursprünglichen Prüfpunkten. Die übrigen 96 sind noch nicht übertragen. **Keine Statistik des vollständigen Videos.**
+- [Herkunft und Migration](docs/MIGRATION.md) und [Datenmodell / Entwickleranleitung](docs/STRUKTURIERTE_DATEN.md).
 
-## Ein neues Video prüfen
+## Ein Video hinzufügen und bearbeiten
 
-Dieses Verzeichnis als Projekt öffnen und eine einzelne YouTube-URL an den Agenten senden. Der Agent arbeitet nach [AGENTS.md](AGENTS.md), liest die verfügbare Grundlage vollständig, recherchiert die Behauptungen und schreibt die öffentlichen Markdown-Berichte.
-
-[Beispielauftrag für einen unabhängigen neuen Durchlauf](docs/BEISPIELAUFTRAG.md)
-
-Private Beschaffung unter Windows, mit bereits vorhandenen Tools:
+1. Eine einzelne YouTube-URL im Projekt öffnen und nach [AGENTS.md](AGENTS.md) analysieren. Private Quellen mit dem Importskript außerhalb des Repositorys erfassen.
+2. Die gesamte verfügbare Grundlage lesen. Prüffähige Aussagen in eigenen Worten unter `faktenchecks/<Video-ID>/strukturiert/aussagen.json` erfassen. Die Entwickleranleitung enthält ein vollständiges Beispiel für neue Videos ohne Altpunkte.
+3. Sprecher und Aussagebezug getrennt prüfen. Unsichere Kandidaten bleiben plausibel oder ungeklärt. Für jede Tatsachenbewertung tatsächliche Belege lesen, zuordnen und den Bearbeitungsstatus ehrlich führen.
+4. Übersicht, Kapitelberichte und Statistik aus JSON erzeugen; die generierten Dateien nicht unabhängig bearbeiten.
+5. Tests und Veröffentlichungsschutz prüfen. Commit und Push nur im Rahmen eines entsprechenden Auftrags.
 
 ```powershell
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Import-YouTubeTranscript.ps1 -Url "https://www.youtube.com/watch?v=VIDEO_ID"
-```
-
-Das Skript nutzt externe portable yt-dlp-/Deno-Dateien aus dem benachbarten Downloadprojekt, einen angegebenen Toolpfad oder installierte Programme. Bezugsquellen: [yt-dlp](https://github.com/yt-dlp/yt-dlp), [Deno](https://github.com/denoland/deno). Werkzeuge werden nicht mit diesem Repository verteilt. Metadaten und Untertitel landen ausschließlich außerhalb des Git-Arbeitsbaums; keine Video-, Audio- oder Bilddateien werden angefordert. Der Agent erstellt anschließend die Recherchetexte – das Importskript erledigt keinen Faktencheck.
-
-## Öffentlich und privat strikt trennen
-
-**Öffentlich:** unsere eigenständig verfassten Analyse- und Methodiktexte, eigener Code, minimale Quellenangaben, Zeitmarken und externe Links.
-
-**Privat, außerhalb dieses Repositorys:** sämtliche Transkripte und Untertitel, rohe Metadaten, Originalbeschreibungen und andere heruntergeladene Quellen. Sie werden weder kopiert noch angehängt, eingebettet oder in der Git-Historie abgelegt. Auch Thumbnails und Screenshots gehören nicht zur Veröffentlichung.
-
-Öffentliche Prüfpunkte enthalten unsere kurze Beschreibung der zu prüfenden These. Die Zeitmarke verweist auf das Original. Keine wörtlichen Passagen aus Videos oder Recherchequellen. Eigene Formulierungen werden auf ausreichenden Abstand zum Original geprüft.
-
-[Veröffentlichungsregeln und Grenzen der automatischen Prüfung](docs/VEROEFFENTLICHUNG.md)
-
-## Vor einem Commit prüfen
-
-```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Build-Factcheck.ps1 -VideoId mlxFA9T88I0
+powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Build-Factcheck.ps1 -VideoId mlxFA9T88I0 -Check
+powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Test-Factcheck.ps1
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Test-Publication.ps1
 ```
 
-Der Prüfer kontrolliert den Arbeitsbaum und Git-Index auf zulässige Dateipfade, Rohdatenmuster und typische Transkriptzeilen. Er ist ein technisches Hilfsmittel; eine Rechtefreigabe oder vollständige inhaltliche Prüfung kann er nicht leisten.
+Der Import nutzt externes [yt-dlp](https://github.com/yt-dlp/yt-dlp) und [Deno](https://github.com/denoland/deno), beispielsweise aus dem benachbarten Downloadprojekt. Andere Installationen lassen sich mit -YtDlpPath und -DenoPath angeben; Werkzeuge werden nicht mitgeliefert. Er lädt nur Untertitel und Arbeitsmetadaten in eine externe private Ablage. Keine Video-, Audio- oder Bilddateien. Keine globalen PATH- oder ExecutionPolicy-Änderungen. Generator und Tests benötigen lediglich PowerShell und Git, keine Datenbank, keinen Server und keine zusätzlichen Pakete. Windows PowerShell 5.1 und PowerShell 7 werden unterstützt.
 
-## Lizenz und Verantwortung
+[Beispielauftrag für eine unabhängige Analyse](docs/BEISPIELAUFTRAG.md)
 
-Die bestehenden [MIT-Lizenzbedingungen](LICENSE) gelten für unsere eigenen Projektbeiträge im Umfang der daran vorhandenen Rechte. Verlinkte Videos und Drittquellen behalten ihre jeweiligen Rechte; sie werden nicht unter MIT gestellt. Keine Verbindung oder Zustimmung der untersuchten Kanäle wird behauptet.
+## Projektstruktur
 
-KI-unterstützte Auswertungen können Fehler enthalten. Jede Auswertung nennt Grundlage, Datum, Reichweite der Recherche und offene Punkte. Begründete Korrekturen mit konkretem Prüfpunkt und Quelle sind willkommen.
+```text
+AGENTS.md
+README.md
+LICENSE
+docs/
+  STRUKTURIERTE_DATEN.md
+  MIGRATION.md
+  VEROEFFENTLICHUNG.md
+scripts/
+  Import-YouTubeTranscript.ps1
+  Factcheck-Common.ps1
+  Build-Factcheck.ps1
+  Test-Factcheck.ps1
+  Test-Publication.ps1
+faktenchecks/<Video-ID>/
+  ... vorhandene Berichte bleiben erhalten ...
+  strukturiert/
+    aussagen.json
+    README.md
+    statistik.json
+    migration.md
+    berichte/kapitel-<Nummer>.md
+```
 
-## Herkunft der Erstfassung
+## Veröffentlichung und Rechte
 
-Die Erstübernahme wurde aus einer vorhandenen privaten Arbeitsauswertung erstellt und für dieses Repository redaktionell aufbereitet. Ihre Recherche wurde bei dieser Übernahme nicht erneut vollständig durchgeführt. Der Stand bleibt ausdrücklich eine Teilprüfung.
+Öffentlich sind eigene Projekttexte, eigener Code, knappe bibliografische Angaben, Zeitmarken und externe Links. Private Transkripte, Untertitel, Rohmetadaten, Originalbeschreibungen, Artikel, Audio/Video, Bilder und PDFs bleiben außerhalb des Git-Arbeitsbaums. Auch wörtliche kurze Quellpassagen gehören nicht in öffentliche Berichte oder JSON. Keine versteckten Anhänge oder Rohdaten in der Git-Historie.
+
+Der [Publikationsprüfer](scripts/Test-Publication.ps1) kontrolliert Arbeitsbaum und Git-Index getrennt. Nur die beiden ausdrücklich vorgesehenen JSON-Dateien pro strukturiertem Video sind erlaubt. Der Prüfer ersetzt keine inhaltliche Quellen- und Rechteprüfung. [Details zu Veröffentlichung und Grenzen](docs/VEROEFFENTLICHUNG.md).
+
+## Lizenz und Mitarbeit
+
+Die [MIT-Lizenz](LICENSE) gilt für eigene Beiträge im Umfang der vorhandenen Rechte. Sie lizenziert keine Drittquellen, verlinkten Videos oder Persönlichkeitsrechte um. Eine Zustimmung oder Verbindung der untersuchten Kanäle wird nicht behauptet.
+
+KI-unterstützte Auswertungen können Fehler enthalten. Jede Auswertung nennt Grundlage, Datum, Rechercheumfang und offene Punkte. Korrekturen mit konkreter Aussage-ID und Quelle sind willkommen. Die Ersterfassung wurde aus einer vorhandenen privaten Arbeitsauswertung übernommen; dabei erfolgte keine erneute vollständige Sachrecherche.

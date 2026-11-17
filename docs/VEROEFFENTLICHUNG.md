@@ -22,7 +22,7 @@ Wenn Rechte oder Herkunft unklar bleiben, wird der betroffene Inhalt weggelassen
 
 ## Technischer Prüfer
 
-Die erlaubte Dateimenge ist bewusst eng: Root-Dokumente und Git-Konfigurationstexte, Markdown unter docs/ und faktenchecks/ sowie PowerShell-Skripte unter scripts/. Andere Dateitypen und verdächtige Namen werden zurückgewiesen. Zusätzlich werden typische Untertitel-, Rohmetadaten- und private Pfadmuster erkannt. Getrackte, ungetrackte und ignorierte Dateien im Arbeitsbaum werden erfasst; der Git-Index wird ebenfalls geprüft.
+Die erlaubte Dateimenge ist bewusst eng: Root-Dokumente und Git-Konfigurationstexte, Markdown unter docs/ und faktenchecks/ sowie PowerShell-Skripte unter scripts/. Zusätzlich sind ausschließlich aussagen.json und die daraus erzeugte statistik.json unter faktenchecks/<Video-ID>/strukturiert/ erlaubt. Unbekannte JSON-Felder, fehlende Herkunft, veraltete Artefakte und weitere Dateien in diesem strukturierten Bereich werden zurückgewiesen. Andere Dateitypen und verdächtige Namen werden zurückgewiesen. Zusätzlich werden typische Untertitel-, Rohmetadaten- und private Pfadmuster erkannt. Getrackte, ungetrackte und ignorierte Dateien im Arbeitsbaum werden erfasst; der Git-Index wird ebenfalls geprüft.
 
 Ein Bestehen ist KEINE Garantie gegen Rechteverletzungen. Kurze Zitate in Prosa, zu enge Paraphrasen, falsche Quellenzuordnungen oder externe Veröffentlichung außerhalb dieses Arbeitsbaums lassen sich damit nicht zuverlässig ausschließen. Die inhaltliche Prüfung bleibt erforderlich.
 
