@@ -139,7 +139,8 @@ async function step(name, fn) {
     assert.equal(await page.locator('iframe').count(), 0);
     assert.equal(await page.locator('#vc-consent').isVisible(), true);
     assert.ok(await page.locator('.vc-item', { hasText: 'Vorkommen 2 von 2' }).count() >= 1, 'Wiederholung gekennzeichnet');
-    assert.ok(await page.locator('.vc-item .badge.plain', { hasText: 'noch ohne Bewertung' }).count() > 0, 'offene Prüfungen gekennzeichnet');
+    assert.ok(await page.locator('.vc-item .badge', { hasText: 'Nicht überprüfbar' }).count() > 0, 'nicht überprüfbare Aussagen gekennzeichnet');
+    assert.equal(await page.locator('.vc-item .badge', { hasText: 'noch ohne Bewertung' }).count(), 0, 'keine Aussage wirkt unbearbeitet');
     await page.waitForTimeout(300);
     assert.deepEqual(external, [], 'externe Anfragen vor dem Klick: ' + external.join(', '));
     if (shots) await page.screenshot({ path: path.join(shots, 'vor-dem-laden.png') });

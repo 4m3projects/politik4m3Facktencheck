@@ -1,8 +1,8 @@
 # Kapitel 08: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 99 von 99 ursprünglichen Prüfpunkten übertragen, 0 nicht migriert. Kapitel 1 bis 10 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
-A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde.
+A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten.
 
 ## Übertragene Herkunftspunkte und Zuordnung
 
@@ -289,13 +289,13 @@ Frueherer Suchbereich: [02:18:40–02:19:39](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Prüfbar etwa am Bürokratiekostenindex oder Erfüllungsaufwand; keine Quelle gelesen. Der Gast spricht ausdrücklich von seiner Wahrnehmung. Keine Bewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Prüfbar etwa am Bürokratiekostenindex oder Erfüllungsaufwand; keine Quelle gelesen. Der Gast spricht ausdrücklich von seiner Wahrnehmung.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Allgemeine Bürokratieaussage als prüfbare Tatsachenbehauptung offen gehalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -311,7 +311,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Schweizer hätten das Bargeld per Volksabstimmung in der Verfassung gesichert.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -334,22 +334,25 @@ Frueherer Suchbereich: [02:20:00–02:20:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Am 8. März 2026 wurde in der Schweiz über eine Bargeld-Volksinitiative und einen direkten Gegenentwurf abgestimmt; beide betreffen die Verfassung. Das Ergebnis konnte nicht gelesen werden (Resultatseite ohne Zahlen). Der Gast äußert die Angabe mit Vorbehalt. Keine Endbewertung.
+Am 8. März 2026 nahmen Volk und Stände den direkten Gegenentwurf zur Bargeld-Initiative mit rund 73 Prozent an. Er verankert den Franken als Währung und die Versorgung mit Bargeld in der Bundesverfassung; die Initiative selbst wurde abgelehnt. Die gelesenen Zahlen stammen vom Abstimmungstag.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrolle getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 ### Zugeordnete Quellen
 
+- [Abstimmungen vom 8. März: Ja zum Gegenentwurf der Bargeld-Initiative](https://www.srf.ch/news/schweiz/abstimmungen-8-3-2026/abstimmungen-vom-8-maerz-ja-zum-gegenentwurf-der-bargeld-initiative) · SRF · 08.03.2026, Stand Abstimmungstag; Gegenentwurf rund 73 % Ja, Initiative abgelehnt; Franken und Bargeldversorgung in der Bundesverfassung.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Ergebnis und Inhalt.
+
 - [Initiative «Bargeld ist Freiheit» und direkter Gegenentwurf](https://www.admin.ch/de/bargeld-initiative) · Schweizerische Bundeskanzlei / admin.ch · Abstimmung vom 08.03.2026 über Volksinitiative und direkten Gegenentwurf (Bundesbeschluss über die schweizerische Währung und die Bargeldversorgung), beides Verfassungsvorlagen. Resultatseite lieferte im Werkzeug und im Browser keine Zahlen.
-  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Abstimmungsgegenstände und Datum.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Abstimmungsvorlagen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Amtliches Ergebnis der Abstimmung vom 08.03.2026 lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0329
 
@@ -538,7 +541,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Um 1870 seien Briten mit Zehn-Pfund-Schiffen nach Australien ausgewandert, ohne je zurückkehren zu können; ähnlich bei Auswanderern in die USA.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -561,21 +564,22 @@ Frueherer Suchbereich: [02:21:00–02:23:39](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das als Ten Pound Poms bekannte Programm wird häufig mit der Nachkriegszeit verbunden; die Seite des Nationalmuseums Australiens war nicht abrufbar (HTTP 403). Ohne gelesene Quelle keine Bewertung der Jahresangabe.
+Das als Ten Pound Poms bekannte australische Programm begann 1945, nicht um 1870. Teilnehmende mussten zwei Jahre bleiben oder die Überfahrt zurückzahlen; eine Rückreise kostete ein Vielfaches. Unmöglich war die Rückkehr also nicht, und die Jahresangabe stimmt nicht.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Widerlegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Ten Pound Poms](https://en.wikipedia.org/wiki/Ten_Pound_Poms) · Wikipedia (englisch) · Stand Abruf 18.11.2026; australisches Assisted-Passage-Programm ab 1945, Mindestaufenthalt zwei Jahre oder Rückzahlung.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Zeitraum und Bedingungen des Programms.
 
 ### Offene Fragen und Unsicherheiten
 
-- Zeitraum und Preis des Zehn-Pfund-Programms anhand einer australischen Archivquelle lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0334
 
@@ -781,7 +785,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Was man von Hand schreibt, merkt man sich besser.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -804,21 +808,22 @@ Frueherer Suchbereich: [02:25:30–02:30:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zu Handschrift und Gedächtnis gibt es Studien mit gemischten Ergebnissen; keine Quelle gelesen. Keine Bewertung.
+Eine direkte Replikation der bekanntesten Studie mit kleiner Metaanalyse fand keinen Vorteil handschriftlicher Mitschriften für das unmittelbare Lernen. Eine allgemeine Gedächtnisregel lässt sich damit nicht belegen; andere Lernsituationen sind nicht geprüft.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Nicht ausreichend belegbar).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Don't Ditch the Laptop Just Yet](https://www.psychologicalscience.org/journals/psychological-science/0956797620965541/) · Psychological Science, direkte Replikation von Mueller und Oppenheimer (2014) mit Mini-Metaanalysen, nur Zusammenfassung gelesen; kein Vorteil handschriftlicher Mitschrift beim unmittelbaren Lernen.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Replikation und Metaanalyse.
 
 ### Offene Fragen und Unsicherheiten
 
-- Übersichtsarbeit zu Handschrift und Behalten lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0339
 
@@ -826,7 +831,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Arnold Schwarzenegger habe eine Liste mit fünf Zielen geführt und es so als Sohn eines Dorfpolizisten bis zum Gouverneur Kaliforniens geschafft.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -849,21 +854,22 @@ Frueherer Suchbereich: [02:25:30–02:30:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Gouverneursamt und Herkunft sind öffentlich dokumentiert, wurden hier aber nicht gelesen (Lexikonseite nicht abrufbar). Die Listenpraxis ist eine Erzählung ohne geprüfte Quelle. Keine Bewertung.
+Schwarzeneggers Vater war örtlicher Polizeichef, und Schwarzenegger war von 2003 bis 2011 Gouverneur Kaliforniens. Die Liste mit fünf Zielen fand sich im gelesenen Teil der Quelle nicht.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Arnold Schwarzenegger](https://en.wikipedia.org/wiki/Arnold_Schwarzenegger) · Wikipedia (englisch) · Stand Abruf 18.11.2026, nur teilweise gelesen; Vater örtlicher Polizeichef, Gouverneur Kaliforniens 2003–2011.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Herkunft und Amt.
 
 ### Offene Fragen und Unsicherheiten
 
-- Biografische Quelle zu Herkunft und Amt sowie eigene Aussagen Schwarzeneggers zu Zielen lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0340
 
@@ -894,13 +900,13 @@ Frueherer Suchbereich: [02:25:30–02:30:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ohne genannte Auswertung nicht prüfbar; keine Quelle gelesen. Keine Bewertung.
+Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Ohne genannte Auswertung nicht prüfbar; keine Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1143,13 +1149,13 @@ Frueherer Suchbereich: [02:31:13–02:33:40](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Biografische Angabe, an einer öffentlichen Biografie prüfbar; keine Quelle gelesen.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Biografische Angabe, an einer öffentlichen Biografie prüfbar; keine Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Persönliche Angaben und externe Raumfahrtereignisse getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1165,7 +1171,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Eine New-Shepard-Rakete von Blue Origin hatte einen Fehlschlag, bei dem niemand ums Leben kam.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1188,21 +1194,22 @@ Frueherer Suchbereich: [02:31:13–02:33:40](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Herstellerseite war nicht abrufbar (HTTP 429); keine Quelle gelesen. Keine Bewertung.
+Beim unbemannten Flug NS-23 im September 2022 versagte der New-Shepard-Booster; die Kapsel landete per Rettungssystem sicher. Verletzte gab es nicht.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Persönliche Angaben und externe Raumfahrtereignisse getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Blue Origin NS-23 launch](https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/) · Spaceflight Now · 12.09.2022; unbemannter Flug, Boosterversagen, Kapsel per Rettungssystem sicher gelandet, keine Verletzten.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Ablauf des Fehlschlags.
 
 ### Offene Fragen und Unsicherheiten
 
-- Herstellerangabe oder Behördenbericht zur Mission NS-23 lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0347
 
@@ -1210,7 +1217,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** SpaceShipTwo von Richard Branson ist in der Luft auseinandergebrochen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1233,21 +1240,22 @@ Frueherer Suchbereich: [02:31:13–02:33:40](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Unfallbericht der NTSB konnte nicht geöffnet werden. Keine Bewertung.
+SpaceShipTwo zerbrach am 31. Oktober 2014 bei einem Testflug in der Luft; einer der beiden Flugzeugführer kam ums Leben, der andere wurde schwer verletzt. Das NTSB nennt als Ursache ein zu frühes Entriegeln der Bremsklappen ohne Schutz gegen diesen Bedienfehler.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Persönliche Angaben und externe Raumfahrtereignisse getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [NTSB-Untersuchung DCA15MA019 (SpaceShipTwo)](https://www.ntsb.gov/investigations/Pages/DCA15MA019.aspx) · National Transportation Safety Board · Unfall vom 31.10.2014; Zerfall im Flug, ein Flugzeugführer tödlich, einer schwer verletzt.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Unfalluntersuchung.
 
 ### Offene Fragen und Unsicherheiten
 
-- NTSB-Unfallbericht zum Absturz 2014 lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0348
 
@@ -1255,7 +1263,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein privater Orbitalflug bei SpaceX koste etwa 40 Millionen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1278,21 +1286,22 @@ Frueherer Suchbereich: [02:31:13–02:33:40](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Preisangabe mit Vorbehalt; Preise privater Missionen sind meist nicht amtlich veröffentlicht. Keine Quelle gelesen.
+Für die erste private Axiom-Mission mit SpaceX zur ISS zahlten die Teilnehmenden 2021 rund 55 Millionen US-Dollar pro Person. Die genannte Größenordnung von etwa 40 Millionen liegt darunter; aktuelle Preise sind nicht veröffentlicht.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Persönliche Angaben und externe Raumfahrtereignisse getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Axiom first private space crew pays $55 million each](https://interestingengineering.com/culture/axiom-first-private-space-crew-55-million-iss) · Interesting Engineering · 26.01.2021; 55 Mio. US-Dollar pro Person für Ax-1 mit SpaceX Crew Dragon zur ISS.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Preis pro Platz 2021.
 
 ### Offene Fragen und Unsicherheiten
 
-- Veröffentlichte Preisangaben zu privaten Orbitalmissionen lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0349
 
@@ -1300,7 +1309,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Untersuchungen zeigten, dass Gedanken im Gehirn entstehen, bevor sie bewusst werden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1323,21 +1332,22 @@ Frueherer Suchbereich: [02:33:40–02:36:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Gemeint sind vermutlich Experimente zur Entscheidungsvorbereitung. Ihre Deutung ist wissenschaftlich umstritten; keine Fachquelle gelesen. Keine Bewertung.
+Gemeint sind Experimente nach Libet. Eine Übersichtsarbeit von 2021 hält das Bereitschaftspotenzial möglicherweise für ein Artefakt der Mittelung und Libets Methodik für fehlerhaft. Dass Gedanken nachweislich vor dem Bewusstsein entstehen, ist deshalb keine gesicherte Erkenntnis.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Irreführend / Kontext fehlt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Conscious intention and human action: Review of the rise and fall of the readiness potential and Libet's clock](https://pubmed.ncbi.nlm.nih.gov/34325185/) · Consciousness and Cognition 2021, nur Abstract gelesen; Bereitschaftspotenzial möglicherweise Mittelungsartefakt, Libets Methodik als fehlerhaft bewertet.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Kritische Übersicht.
 
 ### Offene Fragen und Unsicherheiten
 
-- Übersichtsarbeit zu Libet-artigen Experimenten und deren Grenzen lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0350
 
@@ -1368,13 +1378,13 @@ Frueherer Suchbereich: [02:33:40–02:36:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Gedächtnisverarbeitung im Schlaf ist Forschungsgegenstand; die konkrete Darstellung wurde nicht anhand einer Fachquelle geprüft.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Gedächtnisverarbeitung im Schlaf ist Forschungsgegenstand; die konkrete Darstellung wurde nicht anhand einer Fachquelle geprüft.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1655,13 +1665,13 @@ Frueherer Suchbereich: [02:40:59–02:43:30](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Verkürzte Gleichsetzung des Moderators; Anleihen tragen Zins- und Kursrisiko und sind kein Zahlungsmittel. Ohne gelesene Quelle keine Endbewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Verkürzte Gleichsetzung des Moderators; Anleihen tragen Zins- und Kursrisiko und sind kein Zahlungsmittel. Ohne gelesene Quelle keine Endbewertung.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1745,13 +1755,13 @@ Frueherer Suchbereich: [02:40:59–02:43:30](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Rechtsgrundlagen für ein solches Einfrieren wurden nicht geprüft. Keine Bewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Rechtsgrundlagen für ein solches Einfrieren wurden nicht geprüft.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1836,13 +1846,13 @@ Frueherer Suchbereich: [02:40:59–02:43:30](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Gemeinte Fälle sind nicht genannt (etwa historische Sonderabgaben). Keine Quelle gelesen.
+Nicht überprüfbar – zu unbestimmt. Gemeinte Fälle sind nicht genannt (etwa historische Sonderabgaben). Keine Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1971,13 +1981,13 @@ Frueherer Suchbereich: [02:43:30–02:47:30](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Historische Aussage zur Verfolgung im Nationalsozialismus; die Zeitangabe vor hundert Jahren ist ungenau. Keine historische Fachquelle gelesen. Keine Bewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Historische Aussage zur Verfolgung im Nationalsozialismus; die Zeitangabe vor hundert Jahren ist ungenau. Keine historische Fachquelle gelesen.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2128,7 +2138,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Kanzler habe in seiner letzten Regierungserklärung gesagt, Suppenküchen und Tafeln machten Deutschland aus.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2151,21 +2161,25 @@ Frueherer Suchbereich: [02:49:00–02:50:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Behauptetes Zitat; der Moderator fragt ausdrücklich nach. Die Rede wurde nicht gelesen. Keine Bewertung.
+Die Zusammenfassung der Regierungserklärung vom 9. Juli 2026 und ein Bericht darüber erwähnen Tafeln oder Suppenküchen nicht. Das Plenarprotokoll im Wortlaut wurde nicht gelesen; das behauptete Zitat lässt sich damit nicht belegen.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Behauptetes Kanzlerzitat zu Tafeln getrennt erfasst.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Nicht ausreichend belegbar).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Regierungserklärung zur aktuellen politischen Lage](https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-regierungserklaerung-1193984) · Deutscher Bundestag, Textarchiv · 09.07.2026; Zusammenfassung der Regierungserklärung des Bundeskanzlers, kein Volltextprotokoll.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Bundestagszusammenfassung.
+
+- [Merz erklärt sich im Bundestag – die wichtigsten Erkenntnisse](https://www.zdfheute.de/politik/regierungserklaerung-kanzler-merz-bundestag-reformen-100.html) · ZDFheute · 09.07.2026; Bericht über dieselbe Regierungserklärung.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Bericht über die Rede.
 
 ### Offene Fragen und Unsicherheiten
 
-- Plenarprotokoll der betreffenden Regierungserklärung lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0368
 

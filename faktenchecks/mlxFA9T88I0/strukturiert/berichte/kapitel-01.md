@@ -1,8 +1,8 @@
 # Kapitel 01: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 99 von 99 ursprünglichen Prüfpunkten übertragen, 0 nicht migriert. Kapitel 1 bis 10 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
-A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde.
+A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten.
 
 ## Übertragene Herkunftspunkte und Zuordnung
 
@@ -26,7 +26,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Arbeitslosenzahlen in Deutschland stiegen im beschriebenen wirtschaftlichen Abschwung.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -66,15 +66,18 @@ Frueherer Suchbereich: [01:23:09–01:23:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Redaktionelle Nachprüfung am 17.11.2026: Im Hauptgespräch um 01:21:27–01:23:47 werden industrielle Schwierigkeiten und Firmenschließungen erörtert, anschließend die Folgen für Beschäftigte und das Land. Deutschland ist damit der nachvollziehbare räumliche Bezug; Berlin folgt als regionales Beispiel. Ein Beginn, Endpunkt oder eindeutiger Vergleichszeitraum des behaupteten Trends wird dort nicht genannt. Der gelesene BA-Bericht zum August 2026 lag vor der Aufnahme am 23.09.2026 vor und belegt einen nationalen Monats- und Vorjahresanstieg. Er belegt jedoch nicht allein die ganze breitere Entwicklung oder den im Gespräch nahegelegten Zusammenhang mit Unternehmensschließungen. Der spätere regionale Septemberbericht ersetzt diese Prüfung ebenfalls nicht. Die bisherige Eingrenzung auf einen Augustvergleich war deshalb für ein abschließendes Belegt zu eng. Die Behauptung bleibt ohne Endbewertung; die zutreffenden BA-Zahlen werden nicht in Frage gestellt.
+Zum Aufnahmezeitpunkt im September 2026 meldete die Bundesagentur 2,994 Millionen Arbeitslose, 40.000 mehr als ein Jahr zuvor; die Quote stieg um 0,1 Punkte auf 6,4 Prozent. Der Anstieg im Vorjahresvergleich ist damit belegt. Eine Ursache durch Firmenschließungen ist damit nicht gesondert geprüft.
 
 Grundlage der Bewertung: Redaktionelle Nachprüfung der tatsächlich verfügbaren automatischen Originaluntertitel: Teaser 00:00:00–00:00:02, Kontext im Hauptgespräch 01:21:27–01:24:12. Vorhandene Quellenbelege bleiben erhalten; keine neue statistische Zeitreihenprüfung und keine Audio-/Videokontrolle.
 
 Uebernahme: Arbeitsmarkttrend aus C01-P01 getrennt von Leistungsanspruch und individuellen Erwerbsanreizen geprüft.
 
-Bewertungsuebergang: Nach redaktioneller Kontextprüfung von Abgeschlossen / Belegt auf In Bearbeitung / null geändert. Der nachgewiesene Augustvergleich bleibt Teilbefund; die weiter gefasste Originalbehauptung ist damit noch nicht abschließend geprüft.
+Bewertungsuebergang: Nach redaktioneller Kontextprüfung von Abgeschlossen / Belegt auf In Bearbeitung / null geändert. Der nachgewiesene Augustvergleich bleibt Teilbefund; die weiter gefasste Originalbehauptung ist damit noch nicht abschließend geprüft. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 ### Zugeordnete Quellen
+
+- [Der Arbeitsmarkt im September 2026](https://www.arbeitsagentur.de/presse/2026-37-the-labour-market-in-september-2026-the-autumn-upturn-begins-without-momentum) · Bundesagentur für Arbeit · 30.09.2026; 2,994 Mio. Arbeitslose, 40.000 mehr als im September 2025, Quote 6,4 %.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Arbeitslosenzahl und Vorjahresvergleich September 2026.
 
 - [Arbeitsmarkt im August 2026](https://www.arbeitsagentur.de/presse/2026-31-arbeitsmarkt-im-august-2026) · Bundesagentur für Arbeit; Presseinfo 31 vom 28.08.2026. Abschnitte Arbeitslosigkeit und Unterbeschäftigung; bereits vor Aufnahme am 23.09.2026 veröffentlicht.
   Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
@@ -84,11 +87,7 @@ Bewertungsuebergang: Nach redaktioneller Kontextprüfung von Abgeschlossen / Bel
 
 ### Offene Fragen und Unsicherheiten
 
-- Welcher Zeitraum des beschriebenen Arbeitslosentrends ist gemeint?
-
-- Eine zeitlich passende nationale Reihe für diesen Zeitraum prüfen; Monatsvergleich, Vorjahresvergleich und mehrjährige Entwicklung getrennt halten.
-
-- Soweit eine Ursache durch Firmenschließungen behauptet wird, diese nicht allein aus gleichzeitig gestiegenen Arbeitslosenzahlen ableiten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0012
 
@@ -96,7 +95,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Für Arbeitslose würden Unterkunfts- und Heizkosten übernommen; der gemeinte Kreis der Leistungsberechtigten ist in der Passage nicht eindeutig abgegrenzt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -136,13 +135,13 @@ Frueherer Suchbereich: [01:23:20–01:24:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Redaktionelle Nachprüfung am 17.11.2026: Teaser und Hauptgespräch um 01:23:20–01:24:12 stellen Arbeitsplatzverlust, Transferleistungen und steigende Kosten Erwerbstätiger gegenüber. Die Passage erläutert keine Anspruchsvoraussetzungen. Sie behauptet aber auch nicht ausdrücklich einen voraussetzungslosen Anspruch ausnahmslos aller Arbeitslosen. Eine verkürzte Bezugnahme auf bereits leistungsberechtigte Personen ist mit dem verfügbaren Text vereinbar. Die gelesenen §§ 7, 9 und 22 SGB II sowie die BA-Information belegen die rechtlichen Bedingungen und die mögliche Kostenübernahme; sie beweisen keine irreführende Äußerung des Sprechers. Ohne eindeutige Abgrenzung des gemeinten Personenkreises und ohne Hörkontrolle ist die zuvor angenommene pauschale Lesart nicht hinreichend abgesichert. Deshalb wird Irreführend / Kontext fehlt zurückgenommen und keine Endbewertung vergeben. Eine engere, auf berechtigte Personen bezogene Lesart darf nicht nachträglich als wörtlich so erklärt ausgegeben werden.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Redaktionelle Nachprüfung am 17.11.2026: Teaser und Hauptgespräch um 01:23:20–01:24:12 stellen Arbeitsplatzverlust, Transferleistungen und steigende Kosten Erwerbstätiger gegenüber. Die Passage erläutert keine Anspruchsvoraussetzungen. Sie behauptet aber auch nicht ausdrücklich einen voraussetzungslosen Anspruch ausnahmslos aller Arbeitslosen. Eine verkürzte Bezugnahme auf bereits leistungsberechtigte Personen ist mit dem verfügbaren Text vereinbar. Die gelesenen §§ 7, 9 und 22 SGB II sowie die BA-Information belegen die rechtlichen Bedingungen und die mögliche Kostenübernahme; sie beweisen keine irreführende Äußerung des Sprechers. Ohne eindeutige Abgrenzung des gemeinten Personenkreises und ohne Hörkontrolle ist die zuvor angenommene pauschale Lesart nicht hinreichend abgesichert. Deshalb wird Irreführend / Kontext fehlt zurückgenommen und keine Endbewertung vergeben. Eine engere, auf berechtigte Personen bezogene Lesart darf nicht nachträglich als wörtlich so erklärt ausgegeben werden.
 
 Grundlage der Bewertung: Redaktionelle Textprüfung von Teaser 00:00:00–00:00:14 und Hauptgespräch 01:23:20–01:24:12. Vorhandene juristische Recherche unverändert; keine neue individuelle Leistungsrechnung, keine Hör- oder Videokontrolle.
 
 Uebernahme: Die in der Anreizargumentation enthaltene Leistungsannahme separat ausgewiesen; Wohn- und Heizkosten bleiben ein zusammenhängender Prüfgegenstand.
 
-Bewertungsuebergang: Nach Kontextprüfung von Abgeschlossen / Irreführend / Kontext fehlt auf In Bearbeitung / null geändert. Die gesetzliche Einordnung bleibt erhalten; die zuvor angenommene pauschale Auslegung wird nicht als gesichert behandelt.
+Bewertungsuebergang: Nach Kontextprüfung von Abgeschlossen / Irreführend / Kontext fehlt auf In Bearbeitung / null geändert. Die gesetzliche Einordnung bleibt erhalten; die zuvor angenommene pauschale Auslegung wird nicht als gesichert behandelt. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -172,7 +171,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Für einzelne Beschäftigte könne Grundsicherungsbezug gegenüber der Weiterarbeit attraktiver werden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -212,13 +211,13 @@ Frueherer Suchbereich: [01:23:20–01:24:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Passage illustriert eine mögliche individuelle Abwägung, nennt aber weder einen überprüfbaren Haushalt noch Lohn, Miete, Fahrtkosten oder tatsächlich beobachtete Arbeitsaufgabe. Das neu gelesene IAB-Papier 2025 diskutiert anreizdämpfende Wohnkosten und Hinzuverdienstregeln, beschreibt zugleich finanzielle Anreize zur Arbeitsaufnahme. Es ist kein Nachweis einer konkreten Verhaltenswirkung unter dem Regelstand September 2026. Die neu gelesene BA-Seite zeigt außerdem, dass auch Erwerbstätige ergänzende Leistungen erhalten können. Ihr Rechenbeispiel enthält uneinheitliche Beträge und wird deshalb nicht nachgerechnet oder als Beleg übernommen. Ein positiver Lohnabstand, ein geringer Zugewinn und persönliche Motivation sind verschiedene Fragen. Die Tatsachenannahme bleibt in Bearbeitung; daraus wird weder ein pauschales Urteil über Leistungsbeziehende noch eine dokumentierte Kündigung konstruiert.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Die Passage illustriert eine mögliche individuelle Abwägung, nennt aber weder einen überprüfbaren Haushalt noch Lohn, Miete, Fahrtkosten oder tatsächlich beobachtete Arbeitsaufgabe. Das neu gelesene IAB-Papier 2025 diskutiert anreizdämpfende Wohnkosten und Hinzuverdienstregeln, beschreibt zugleich finanzielle Anreize zur Arbeitsaufnahme. Es ist kein Nachweis einer konkreten Verhaltenswirkung unter dem Regelstand September 2026. Die neu gelesene BA-Seite zeigt außerdem, dass auch Erwerbstätige ergänzende Leistungen erhalten können. Ihr Rechenbeispiel enthält uneinheitliche Beträge und wird deshalb nicht nachgerechnet oder als Beleg übernommen. Ein positiver Lohnabstand, ein geringer Zugewinn und persönliche Motivation sind verschiedene Fragen. Die Tatsachenannahme bleibt in Bearbeitung; daraus wird weder ein pauschales Urteil über Leistungsbeziehende noch eine dokumentierte Kündigung konstruiert.
 
 Grundlage der Bewertung: Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.
 
 Uebernahme: Die mögliche Anreizwirkung wird weder mit der Existenz von Sozialleistungen gleichgesetzt noch als pauschale Überlegenheit von Nichtarbeit bewertet.
 
-Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -324,7 +323,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Fortzüge Deutscher in der genannten Größenordnung wiederholten sich jährlich.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -364,13 +363,13 @@ Frueherer Suchbereich: [02:09:35–02:10:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die unmittelbar anschließende jährliche Verallgemeinerung kann wiederkehrende Fortzüge, ungefähr gleiche Größenordnungen oder einen gleichbleibenden dauerhaften Verlust meinen. Die erneut gelesene Regierungsantwort belegt relevante Fortzüge für 2024 und 2025, aber keinen konstanten jährlichen Wert und keine Dauerhaftigkeit. Eine längere amtliche Reihe wurde gesucht; die Destatis-Tabelle ließ sich wegen HTTP 403 nicht öffnen. Suchausschnitte ersetzen die Prüfung nicht. Wegen der offenen Lesart und fehlenden gelesenen Langzeitreihe bleibt die Aussage ohne Endbewertung. Die konkrete Zahl 2025 ist separat A0014.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Die unmittelbar anschließende jährliche Verallgemeinerung kann wiederkehrende Fortzüge, ungefähr gleiche Größenordnungen oder einen gleichbleibenden dauerhaften Verlust meinen. Die erneut gelesene Regierungsantwort belegt relevante Fortzüge für 2024 und 2025, aber keinen konstanten jährlichen Wert und keine Dauerhaftigkeit. Eine längere amtliche Reihe wurde gesucht; die Destatis-Tabelle ließ sich wegen HTTP 403 nicht öffnen. Suchausschnitte ersetzen die Prüfung nicht. Wegen der offenen Lesart und fehlenden gelesenen Langzeitreihe bleibt die Aussage ohne Endbewertung. Die konkrete Zahl 2025 ist separat A0014.
 
 Grundlage der Bewertung: Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.
 
 Uebernahme: Jährliche Verallgemeinerung von der Jahreszahl getrennt; keine implizite Behauptung eines exakt konstanten Wertes oder einer bestimmten Auswanderungsmotivation ergänzt.
 
-Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -434,13 +433,13 @@ Frueherer Suchbereich: [01:30:50–01:33:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Textabgleich mit dem Hauptgespräch um 01:30:37–01:30:51 konkretisiert die private Beobachtung, identifiziert aber weder Bauprojekt noch Fahrtdatum oder beobachteten Bauabschnitt eindeutig. Bewuchs zwischen Platten beweist keinen vollständigen Baustillstand. Die bisher in einem anderen Prüfpunkt genannte Fleher Brücke darf nicht ersatzweise dieser Kölner Baustelle zugeordnet werden. Eine projektspezifische externe Prüfung ist ohne eindeutige Zuordnung noch nicht durchgeführt; deshalb Offen, nicht Nicht ausreichend belegbar. Keine weiteren Brücken-, Zahlungs- oder Fertigstellungsbehauptungen aus Kapitel 5 migriert.
+Nicht überprüfbar – zu unbestimmt. Der Textabgleich mit dem Hauptgespräch um 01:30:37–01:30:51 konkretisiert die private Beobachtung, identifiziert aber weder Bauprojekt noch Fahrtdatum oder beobachteten Bauabschnitt eindeutig. Bewuchs zwischen Platten beweist keinen vollständigen Baustillstand. Die bisher in einem anderen Prüfpunkt genannte Fleher Brücke darf nicht ersatzweise dieser Kölner Baustelle zugeordnet werden. Eine projektspezifische externe Prüfung ist ohne eindeutige Zuordnung noch nicht durchgeführt; deshalb Offen, nicht Nicht ausreichend belegbar. Keine weiteren Brücken-, Zahlungs- oder Fertigstellungsbehauptungen aus Kapitel 5 migriert.
 
 Grundlage der Bewertung: Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.
 
 Uebernahme: Baustellenbeobachtung separat; Produktivitätsstagnation desselben Altprüfpunkts wird als O0019 der vorhandenen A0007 zugerechnet, nicht erneut angelegt.
 
-Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -458,7 +457,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** S&P habe einen möglichen Verlust der deutschen AAA-Bewertung noch im Jahr 2026 angekündigt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -498,27 +497,31 @@ Frueherer Suchbereich: [01:41:00–01:42:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Neu gelesen wurde der S&P-Originalbericht vom 24.04.2026. Er bestätigt AAA mit stabilem Ausblick und beschreibt eine mögliche Herabstufung bei deutlich schlechterer wirtschaftlicher Entwicklung. Das stützt ein bedingtes Risikoszenario, aber die gelesene Passage nennt keinen konkreten Verlusttermin noch 2026. Der Textabgleich mit 01:44:51–01:45:04 bestätigt, dass die Montage gerade diese zeitliche Zuspitzung aus dem Gespräch übernimmt. Die im November gelesene Finanzagenturübersicht nennt S&P AAA/stabil vom 26.10.2026; das ist später als die Aufnahme und widerlegt nicht jede denkbare frühere Warnung. Ob eine weitere konkrete Agenturmitteilung die Jahresangabe trägt, ist offen. Geprüft wird die Tatsachenbehauptung über eine S&P-Mitteilung, nicht die eigene Übernahme sämtlicher S&P-Prognosen durch einen Gesprächsteilnehmer.
+S&P beschrieb im April 2026 nur ein bedingtes Abwärtsszenario bei deutlich schwächerer Wirtschaftsentwicklung, keinen angekündigten Verlust noch 2026. Eine Analyse der LBBW vom 18.09.2026 erwartete 2026 nicht einmal einen negativen Ausblick; S&P bestätigte im Oktober 2026 AAA mit stabilem Ausblick. Ein Risiko bestand, eine Ankündigung mit Termin nicht.
 
 Grundlage der Bewertung: Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.
 
 Uebernahme: Behauptete Agenturankündigung von der folgenden eigenen Krisenprognose getrennt. Neue Recherche liefert einen Teilbefund, noch kein abschließendes Urteil.
 
-Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Irreführend / Kontext fehlt).
 
 ### Zugeordnete Quellen
 
 - [Germany AAA/A-1+ Ratings Affirmed; Outlook Stable](https://www.deutsche-finanzagentur.de/fileadmin/user_upload/Finanzagentur/pdf/ratingberichte/20260424_S_P_Ratings_Research_Update.pdf) · S&P Global Ratings; Research Update 24.04.2026, Originalbericht auf der Website der Finanzagentur. Gelesen: PDF-Seite 1, Overview, Outlook und Downside scenario. Vor Aufnahme verfügbar.
-  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Bericht vom 24.04.2026: bedingtes Abwärtsszenario.
+
+- [Germany's AAA: for how much longer?](https://www.lbbw.de/article/to-the-point/germanys-aaa_angba12zz6_e.html) · LBBW Research · 18.09.2026; Kommentar, keine Agenturmitteilung; nächster S&P-Termin 23.10.2026, keine Herabstufung 2026 erwartet.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Einordnung im September 2026.
+
+- [S&P Global Ratings: Germany (26.10.2026)](https://www.deutsche-finanzagentur.de/fileadmin/user_upload/Finanzagentur/pdf/ratingberichte/20261026_S_P_Global_Ratings.pdf) · S&P Global Ratings über Finanzagentur · 26.10.2026; AAA/stabil, Abwärtsszenario nur bei deutlich schwächerer Wirtschaftsentwicklung.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Bestätigung AAA/stabil im Oktober 2026.
 
 - [Ratings der Bundesrepublik Deutschland](https://www.deutsche-finanzagentur.de/finanzierung-des-bundes/der-bund-als-emittent/ratings) · Deutsche Finanzagentur; laufende Ratingübersicht, beim Abruf S&P AAA/stabil vom 26.10.2026. Später als die Aufnahme; keine Widerlegung jeder möglichen früheren Warnung.
   Quellenzugriff am 2026-11-17. Am 17.11.2026 relevante Originalstellen im Web geöffnet und gelesen; keine Dokumentkopie im Repository. Relevanz, geprüfter Zeitraum und Einschränkungen stehen in der Einzelbegründung und im Quellenstand. Keine allgemeine Bestätigung weiterer Kapitelbehauptungen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche konkrete S&P-Mitteilung vor dem 23.09.2026 nennt ausdrücklich einen möglichen Verlust noch 2026?
-
-- Allgemeines Downside-Szenario und zeitlich bestimmte Warnung auseinanderhalten; spätere Bestätigung nicht rückwirkend als Widerlegung verwenden.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0018
 

@@ -1,8 +1,8 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 99 von 99 ursprünglichen Prüfpunkten übertragen, 0 nicht migriert. Kapitel 1 bis 10 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
-A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde.
+A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten.
 
 ## Übertragene Herkunftspunkte und Zuordnung
 
@@ -185,13 +185,13 @@ Frueherer Suchbereich: [00:02:18–00:04:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Chronik belegt keinen regelmäßigen Neustart 2010. Erster Videodreh und späterer Veröffentlichungsrhythmus sind verschiedene Ereignisse.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Die Chronik belegt keinen regelmäßigen Neustart 2010. Erster Videodreh und späterer Veröffentlichungsrhythmus sind verschiedene Ereignisse.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Gründungsjahr der Plattform, eigener Videostart, regelmäßiger Betrieb und frühere Vortragspraxis getrennt. Unternehmenschronik bleibt Selbstauskunft.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -248,13 +248,13 @@ Frueherer Suchbereich: [00:02:18–00:04:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eine persönliche Erfahrungsangabe. Konkrete Veranstaltungen, Teilnehmerlisten oder unabhängige Veranstalterbelege liegen nicht vor; die Größenordnung wird nicht als falsch eingestuft.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Eine persönliche Erfahrungsangabe. Konkrete Veranstaltungen, Teilnehmerlisten oder unabhängige Veranstalterbelege liegen nicht vor; die Größenordnung wird nicht als falsch eingestuft.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Gründungsjahr der Plattform, eigener Videostart, regelmäßiger Betrieb und frühere Vortragspraxis getrennt. Unternehmenschronik bleibt Selbstauskunft.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -316,7 +316,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Sehr häufige Wiederholung einer Tätigkeit mache eine Verschlechterung praktisch unmöglich.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -356,13 +356,13 @@ Frueherer Suchbereich: [00:04:48–00:05:36](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Moderator formuliert eine motivierende Verallgemeinerung nach einem fremden Beispiel. Bloße Wiederholung ist nicht mit strukturiertem, rückmeldungsbasiertem Üben gleichzusetzen. Die Metaanalyse liefert keine Garantie monotoner Verbesserung. Da Tätigkeit, Zeitraum und Randbedingungen fehlen, ist eine empirische Endbewertung dieser konkreten Formulierung noch offen.
+Motivierende Verallgemeinerung ohne bestimmte Tätigkeit oder Messgröße; als Meinung eingeordnet. Studien zum Üben geben keine Garantie stetiger Verbesserung.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Übungsdauer und behauptete Wirkung bloßer Wiederholung getrennt; die Einschränkung durch Begabung und die motivierende Gesprächsfunktion bleiben berücksichtigt.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): von Tatsachenbehauptung zu Meinung umgestuft.
 
 ### Zugeordnete Quellen
 
@@ -371,7 +371,7 @@ Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebene
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Tätigkeit und welche Definition von schlechter beziehungsweise besser sind gemeint?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0025
 
@@ -404,13 +404,13 @@ Frueherer Suchbereich: [00:15:49–00:17:46](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Biografische Selbstauskunft; die konkrete Lehrveranstaltung und der Studiennachweis wurden nicht unabhängig belegt. Eine Namensrekonstruktion aus fehleranfälligen Untertiteln wird nicht als gesicherter Nachweis verwendet.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Biografische Selbstauskunft; die konkrete Lehrveranstaltung und der Studiennachweis wurden nicht unabhängig belegt. Eine Namensrekonstruktion aus fehleranfälligen Untertiteln wird nicht als gesicherter Nachweis verwendet.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -451,13 +451,13 @@ Frueherer Suchbereich: [00:15:49–00:17:46](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Teilnehmerzahl und Nachrichtenvolumen sind nicht anhand archivierter Verwaltungsdaten geprüft. Der Untertiteltext ist beim genauen Versandvolumen unsicher; deshalb wird keine zusätzliche konkrete Nachrichtenmenge erfunden.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Teilnehmerzahl und Nachrichtenvolumen sind nicht anhand archivierter Verwaltungsdaten geprüft. Der Untertiteltext ist beim genauen Versandvolumen unsicher; deshalb wird keine zusätzliche konkrete Nachrichtenmenge erfunden.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -473,7 +473,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Politische Diskussionen wurden aus dem geschäftlichen Whisky-Umfeld in ein getrenntes Forum beziehungsweise Angebot ausgelagert.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -517,13 +517,13 @@ Frueherer Suchbereich: [00:15:49–00:17:46](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Vorgang wird im Kapitel wiederholt erzählt. Ohne verlässlich gelesenes historisches Forumsarchiv bleibt die organisatorische Entwicklung eine Selbstauskunft. Die Wiederholung erhöht die Zahl der Aussagen nicht.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Der Vorgang wird im Kapitel wiederholt erzählt. Ohne verlässlich gelesenes historisches Forumsarchiv bleibt die organisatorische Entwicklung eine Selbstauskunft. Die Wiederholung erhöht die Zahl der Aussagen nicht.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -540,7 +540,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der eigenständige UnterBlog begann nach der Erinnerung des Gasts im Oktober 2012.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -565,13 +565,13 @@ Frueherer Suchbereich: [00:15:49–00:17:46](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Erinnerung unterscheidet sich möglicherweise von der technischen Kanalerstellung. Der gezielt gesuchte historische Forumshinweis war nicht zugänglich; Suchtreffer zu einem anderen Erstellungsmonat ersetzen keinen gelesenen Primärbeleg und widerlegen den Beginn regelmäßiger Inhalte nicht.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die Erinnerung unterscheidet sich möglicherweise von der technischen Kanalerstellung. Der gezielt gesuchte historische Forumshinweis war nicht zugänglich; Suchtreffer zu einem anderen Erstellungsmonat ersetzen keinen gelesenen Primärbeleg und widerlegen den Beginn regelmäßiger Inhalte nicht.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -613,13 +613,13 @@ Frueherer Suchbereich: [00:15:49–00:17:46](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Es handelt sich um überprüfbare Reiseereignisse. Reiseaufzeichnungen und zeitgenössische Originalveröffentlichungen sind in dieser Migration nicht unabhängig abgeglichen worden.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Es handelt sich um überprüfbare Reiseereignisse. Reiseaufzeichnungen und zeitgenössische Originalveröffentlichungen sind in dieser Migration nicht unabhängig abgeglichen worden.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -660,13 +660,13 @@ Frueherer Suchbereich: [00:15:49–00:17:46](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eine zeitliche Verbindung allein belegt keinen Werbeeffekt. Ohne historische Analytics und Vergleichszeitraum sind Höhe und Ursache nicht prüfbar. Die Reiseexistenz wird getrennt geführt.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Eine zeitliche Verbindung allein belegt keinen Werbeeffekt. Ohne historische Analytics und Vergleichszeitraum sind Höhe und Ursache nicht prüfbar. Die Reiseexistenz wird getrennt geführt.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -705,13 +705,13 @@ Frueherer Suchbereich: [00:07:21–00:07:36](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Aussage beschreibt die eigene redaktionelle Auswahl, keine garantierte objektive Produktqualität. Ein vollständiger Abgleich von Verkostungen und Veröffentlichungen fehlt. Die Auswahl lässt sich aus den sichtbaren guten Bewertungen allein weder beweisen noch widerlegen.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Die Aussage beschreibt die eigene redaktionelle Auswahl, keine garantierte objektive Produktqualität. Ein vollständiger Abgleich von Verkostungen und Veröffentlichungen fehlt. Die Auswahl lässt sich aus den sichtbaren guten Bewertungen allein weder beweisen noch widerlegen.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Die selbst berichtete Auswahlpraxis ist kein objektiver Qualitätsbeweis und keine unabhängig geprüfte vollständige Archivbeschreibung.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -727,7 +727,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der eigene YouTube-Kanal war ungefähr dreieinhalb Tage gesperrt und wurde anschließend wieder freigeschaltet.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -790,13 +790,13 @@ Frueherer Suchbereich: [00:20:03–00:21:08](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die eigene Fallgeschichte wird mehrfach erzählt. Öffentlich gelesene Regeln belegen weder Dauer noch Aufhebung dieses konkreten Falls. Interne Bescheide oder datierte Statusnachweise fehlen.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die eigene Fallgeschichte wird mehrfach erzählt. Öffentlich gelesene Regeln belegen weder Dauer noch Aufhebung dieses konkreten Falls. Interne Bescheide oder datierte Statusnachweise fehlen.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -813,7 +813,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Drei Sanktionsmitteilungen gingen in kurzen Abständen von ungefähr drei Minuten ein und führten zur Sperre.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -838,13 +838,13 @@ Frueherer Suchbereich: [00:20:03–00:21:08](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Taktung, Gründe und Zusammenwirken der Einzelentscheidungen sind ohne Originalbescheide nicht unabhängig prüfbar. Die heutige Drei-Strikes-Regel bestätigt diese besondere Ereignisfolge nicht rückwirkend.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Taktung, Gründe und Zusammenwirken der Einzelentscheidungen sind ohne Originalbescheide nicht unabhängig prüfbar. Die heutige Drei-Strikes-Regel bestätigt diese besondere Ereignisfolge nicht rückwirkend.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -886,13 +886,13 @@ Frueherer Suchbereich: [00:20:03–00:21:08](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Zahl ist eine persönliche Kontohistorie. Bereits abgelaufene Sanktionen sind von gleichzeitig aktiven Strikes zu unterscheiden; eine Gesamtsumme darf nicht als sechs zeitgleich aktive Strikes ausgelegt werden.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die Zahl ist eine persönliche Kontohistorie. Bereits abgelaufene Sanktionen sind von gleichzeitig aktiven Strikes zu unterscheiden; eine Gesamtsumme darf nicht als sechs zeitgleich aktive Strikes ausgelegt werden.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -933,13 +933,13 @@ Frueherer Suchbereich: [00:20:03–00:21:08](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ohne Vorher-Nachher-Inventar lässt sich die Zahl nicht bestätigen. Eigene Entfernung und Löschung durch die Plattform sind verschiedene Vorgänge und werden nicht gleichgesetzt.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Ohne Vorher-Nachher-Inventar lässt sich die Zahl nicht bestätigen. Eigene Entfernung und Löschung durch die Plattform sind verschiedene Vorgänge und werden nicht gleichgesetzt.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -999,13 +999,13 @@ Frueherer Suchbereich: [00:20:03–00:21:08](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Moderator fragt nach der Herkunft der Nachricht; eine echte Mitteilung des Plattformbetreibers wird dadurch nicht nachgewiesen. Die private E-Mail wurde nicht eingesehen und wird nicht angefordert oder veröffentlicht.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Der Moderator fragt nach der Herkunft der Nachricht; eine echte Mitteilung des Plattformbetreibers wird dadurch nicht nachgewiesen. Die private E-Mail wurde nicht eingesehen und wird nicht angefordert oder veröffentlicht.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1046,13 +1046,13 @@ Frueherer Suchbereich: [00:20:03–00:21:08](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ein vollständiges, zum damaligen Stichtag abgeglichenes Zweitarchiv wurde nicht geprüft. Sichtbare Einzeltitel würden weder die Gesamtzahl noch die Vollständigkeit der Sicherung belegen.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Ein vollständiges, zum damaligen Stichtag abgeglichenes Zweitarchiv wurde nicht geprüft. Sichtbare Einzeltitel würden weder die Gesamtzahl noch die Vollständigkeit der Sicherung belegen.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1068,7 +1068,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Öffentlicher Druck anderer Kanäle verursachte die schnelle Wiederfreischaltung.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1112,13 +1112,13 @@ Frueherer Suchbereich: [00:20:03–00:21:08](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Moderator bringt diese mögliche Ursache im Rückblick zur Sprache; der Gast erklärt die Ursache unmittelbar danach für ungewiss. Deshalb wird keine gemeinsam bestätigte Kausalbehauptung daraus. Ohne interne Entscheidung bleibt die Hypothese ungesichert.
+Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Der Moderator bringt diese mögliche Ursache im Rückblick zur Sprache; der Gast erklärt die Ursache unmittelbar danach für ungewiss. Deshalb wird keine gemeinsam bestätigte Kausalbehauptung daraus. Ohne interne Entscheidung bleibt die Hypothese ungesichert.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1223,7 +1223,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** YouTube könne sichtbare Whisky-Bezüge auch außerhalb direkter Verkaufswerbung als unzulässige Alkoholwerbung behandeln.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1286,13 +1286,13 @@ Frueherer Suchbereich: [00:17:59–00:19:48](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das Gespräch beschreibt eine mögliche weite Auslegung mit hypothetischen Beispielen; es behauptet nicht eindeutig ein ausnahmsloses Verbot jedes Flaschenbilds. Die gelesene heutige Regel betrifft Verkauf beziehungsweise Zugangsvermittlung. Ob ein bestimmtes historisches Video darunter fiel, lässt sich ohne damalige Entscheidung nicht klären.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Das Gespräch beschreibt eine mögliche weite Auslegung mit hypothetischen Beispielen; es behauptet nicht eindeutig ein ausnahmsloses Verbot jedes Flaschenbilds. Die gelesene heutige Regel betrifft Verkauf beziehungsweise Zugangsvermittlung. Ob ein bestimmtes historisches Video darunter fiel, lässt sich ohne damalige Entscheidung nicht klären.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Allgemeine Community-Strikes getrennt vom persönlichen Fall und von der Auslegung der Alkoholregeln. Das Urheberrechtsbeispiel ist eine Rückfrage, keine gesicherte Behauptung gleicher Verfahren.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1334,13 +1334,13 @@ Frueherer Suchbereich: [00:21:18–00:24:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Studien und Beiträge sind nicht eindeutig identifiziert. Ob ein wissenschaftlicher Inhalt, dessen Darstellung oder ein anderer Regelverstoß entscheidend war, lässt sich nicht aus der Selbstbeschreibung erschließen. Eine fremde zugespitzte Rückfrage wird nicht als zusätzliche medizinische Tatsachenbehauptung behandelt.
+Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Die Studien und Beiträge sind nicht eindeutig identifiziert. Ob ein wissenschaftlicher Inhalt, dessen Darstellung oder ein anderer Regelverstoß entscheidend war, lässt sich nicht aus der Selbstbeschreibung erschließen. Eine fremde zugespitzte Rückfrage wird nicht als zusätzliche medizinische Tatsachenbehauptung behandelt.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Nicht näher bezeichnete Studienfälle, vermutete automatische Sanktionierung und vermutete Wortfilter getrennt. Ein zugespitztes Rückfragebeispiel des Moderators wird nicht als eigene medizinische Behauptung erfasst.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1356,7 +1356,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Eine damals noch wenig zuverlässige automatisierte Moderation verursachte die schnellen Strikes.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1381,13 +1381,13 @@ Frueherer Suchbereich: [00:21:18–00:24:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der geschilderte Ablauf allein identifiziert weder das eingesetzte System noch die menschliche Beteiligung. Allgemeine Fehlermöglichkeiten beweisen keinen bestimmten technischen Verursacher.
+Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Der geschilderte Ablauf allein identifiziert weder das eingesetzte System noch die menschliche Beteiligung. Allgemeine Fehlermöglichkeiten beweisen keinen bestimmten technischen Verursacher.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Nicht näher bezeichnete Studienfälle, vermutete automatische Sanktionierung und vermutete Wortfilter getrennt. Ein zugespitztes Rückfragebeispiel des Moderators wird nicht als eigene medizinische Behauptung erfasst.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1448,13 +1448,13 @@ Frueherer Suchbereich: [00:21:18–00:24:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Moderator berichtet eine wahrgenommene Regelmäßigkeit. Ohne vergleichbare Videos, Zeitfenster und Moderationsbescheide lässt sich ein kausaler Wortfilter nicht nachweisen. Der Gast verweist anschließend auf ein fremdes Beispiel; das ist keine unabhängige Kontrollgruppe.
+Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Der Moderator berichtet eine wahrgenommene Regelmäßigkeit. Ohne vergleichbare Videos, Zeitfenster und Moderationsbescheide lässt sich ein kausaler Wortfilter nicht nachweisen. Der Gast verweist anschließend auf ein fremdes Beispiel; das ist keine unabhängige Kontrollgruppe.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Nicht näher bezeichnete Studienfälle, vermutete automatische Sanktionierung und vermutete Wortfilter getrennt. Ein zugespitztes Rückfragebeispiel des Moderators wird nicht als eigene medizinische Behauptung erfasst.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1470,7 +1470,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Zuckerberg berichtete bei Joe Rogan über politischen beziehungsweise staatlichen Druck auf die Moderation.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1493,22 +1493,25 @@ Frueherer Suchbereich: [00:21:50–00:26:47](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Metas eigene Erklärung vom Januar 2025 bestätigt allgemein politischen und gesellschaftlichen Moderationsdruck sowie Fehler. Sie ersetzt keine Prüfung der konkreten Rogan-Passage, der beteiligten Stellen und der genauen Reichweite der Behauptung. Dieser spezifische Nachweis bleibt offen.
+Zuckerberg schilderte im Januar 2025 im Joe-Rogan-Podcast, die Biden-Regierung habe Meta stark gedrängt, Inhalte zu Covid-Impfungen zu entfernen, darunter nach seiner Darstellung auch zutreffende; Mitarbeiter seien angeschrien worden. Das gelesene Material ist ein Pressebericht über das Gespräch.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 ### Zugeordnete Quellen
+
+- [Zuckerberg reveals US govt made Facebook censor content on Covid vaccine](https://www.business-standard.com/world-news/zuckerberg-reveals-us-govt-made-facebook-censor-content-on-covid-vaccine-125011100117_1.html) · Business Standard (ANI) · 11.01.2025; Bericht über Zuckerbergs Aussagen im Joe-Rogan-Podcast.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Bericht über die Rogan-Folge.
 
 - [More Speech and Fewer Mistakes](https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/) · Meta · ursprünglich 07.01.2025, nachträglich aktualisiert; gelesene Ausgangserklärung und Update klar getrennt. Unternehmensselbstauskunft.
   Quellenzugriff am 2026-11-17. Am 17.11.2026 die bezeichneten relevanten Webseitenstellen tatsächlich gelesen; kein vollständiger Archiv- oder Praxistest. Belegt nur Metas allgemeine Selbstdarstellung zu Druck und Fehlern, nicht den konkreten Interviewinhalt.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche genaue Rogan-Passage und welche staatlichen Forderungen sind gemeint?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0045
 
@@ -1516,7 +1519,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Instagram bestritt gegenüber Kreativen verdeckte Reichweitenbeschränkungen, obwohl solche Einschränkungen eingesetzt wurden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1539,13 +1542,13 @@ Frueherer Suchbereich: [00:21:50–00:26:47](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die erzählte Instagram-Szene ist nicht eindeutig identifiziert. Metas spätere Erklärung zu verringerter Verbreitung zeigt allgemeine Mechanismen, aber weder den Wortlaut einer früheren Auskunft noch ihre mögliche Täuschungsabsicht. Keine automatische Übertragung auf jeden als Shadowban bezeichneten Fall.
+Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Die erzählte Instagram-Szene ist nicht eindeutig identifiziert. Metas spätere Erklärung zu verringerter Verbreitung zeigt allgemeine Mechanismen, aber weder den Wortlaut einer früheren Auskunft noch ihre mögliche Täuschungsabsicht. Keine automatische Übertragung auf jeden als Shadowban bezeichneten Fall.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1585,13 +1588,13 @@ Frueherer Suchbereich: [00:21:50–00:26:47](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Es fehlen kontobezogene historische Analytics und ein festes Vergleichsfenster. Der Erfahrungsbericht wird von seiner vermuteten Ursache getrennt.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Es fehlen kontobezogene historische Analytics und ein festes Vergleichsfenster. Der Erfahrungsbericht wird von seiner vermuteten Ursache getrennt.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1607,7 +1610,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die persönliche Instagram-Reichweitenabnahme wurde durch eine verdeckte Moderationsmaßnahme verursacht.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1630,13 +1633,13 @@ Frueherer Suchbereich: [00:21:50–00:26:47](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ein abrupter Reichweitenrückgang ist ohne Kontohinweise oder andere Belege nicht eindeutig einer Moderationsmaßnahme zuzuordnen. Allgemeine Meta-Selbstauskünfte klären diesen Einzelfall nicht.
+Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Ein abrupter Reichweitenrückgang ist ohne Kontohinweise oder andere Belege nicht eindeutig einer Moderationsmaßnahme zuzuordnen. Allgemeine Meta-Selbstauskünfte klären diesen Einzelfall nicht.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1699,7 +1702,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die angesprochenen Plattformbeschränkungen werden konkret durch ein Zusammenwirken von EU-Vorgaben und US-Unternehmen gesteuert.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1722,13 +1725,13 @@ Frueherer Suchbereich: [00:24:25–00:24:38](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eine allgemeine Rechtsgrundlage und die Existenz privater Moderation belegen noch keinen einheitlich gesteuerten Apparat. Für die behauptete konkrete Verbindung fehlen benannte Anordnungen, Akteure und betroffene Inhalte. Auch die genaue Reichweite der politischen Kurzform bleibt auslegungsbedürftig.
+Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Eine allgemeine Rechtsgrundlage und die Existenz privater Moderation belegen noch keinen einheitlich gesteuerten Apparat. Für die behauptete konkrete Verbindung fehlen benannte Anordnungen, Akteure und betroffene Inhalte. Auch die genaue Reichweite der politischen Kurzform bleibt auslegungsbedürftig.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Politische Bezeichnung als Meinung getrennt von der überprüfbaren Annahme einer konkreten gemeinsamen Steuerung durch EU und Unternehmen.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1791,7 +1794,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Nach der Übernahme sank Twitters Beschäftigtenzahl um ungefähr 70 bis 80 Prozent.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1814,25 +1817,25 @@ Frueherer Suchbereich: [00:26:59–00:27:48](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Gesamtbelegschaft ist von Moderations- oder Sicherheitsgruppen zu unterscheiden. Der gelesene Behördenbericht liefert verschiedene Teilgruppenwerte, keine vollständige Gesamtquote. Der gezielte Abruf des BBC-Interviewberichts scheiterte. Deshalb bleibt die Gesamtzahl ohne Endurteil; Medienausschnitte ersetzen die fehlende Inhaltsprüfung nicht.
+Musk gab im BBC-Interview im April 2023 an, Twitter habe vor der Übernahme knapp 8.000 und danach rund 1.500 Beschäftigte gehabt. Das entspricht einem Abbau um gut 80 Prozent und damit der genannten Größenordnung. Die Zahlen sind Musks eigene Angaben; Auftragnehmer sind nicht unterschieden.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 ### Zugeordnete Quellen
+
+- [Musk says Twitter is roughly breaking even, has 1500 employees](https://www.rnz.co.nz/news/world/487821/musk-says-twitter-is-roughly-breaking-even-has-1500-employees) · RNZ (Reuters) · 12.04.2023; Musks eigene Angabe im BBC-Interview: knapp 8.000 vor, rund 1.500 nach der Übernahme.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Eigene Angabe Musks laut Reuters.
 
 - [Report reveals the extent of deep cuts to safety staff and gaps in Twitter/Xs measures to tackle online hate](https://www.esafety.gov.au/newsroom/media-releases/report-reveals-the-extent-of-deep-cuts-to-safety-staff-and-gaps-in-twitter/xs-measures-to-tackle-online-hate) · Australian eSafety Commissioner · Januar 2024, Unternehmensantworten für die Zeit bis Mai 2023; unterschiedliche Beschäftigtengruppen und Nenner.
   Quellenzugriff am 2026-11-17. Am 17.11.2026 die bezeichneten relevanten Webseitenstellen tatsächlich gelesen; kein vollständiger Archiv- oder Praxistest. Teilgruppen mit unterschiedlichen Nennern; kein Nachweis einer Gesamtquote.
 
-- [BBC-Bericht zum Musk-Interview vom April 2023 – nicht zugänglich](https://www.bbc.com/news/business-65248196) · BBC · gesuchter Interviewbericht zum Personalabbau; keine Inhaltsprüfung möglich.
-  Quellenzugriff am 2026-11-17. Erfolgloser Abrufversuch – kein Sachbeleg. Am 17.11.2026 verweigerte das Recherchewerkzeug den Zugriff wegen robots.txt. Suchausschnitte nicht als Verifikation verwendet. Erfolgloser Abrufversuch – kein Sachbeleg. BBC-Inhalt wegen Zugriffssperre nicht gelesen.
-
 ### Offene Fragen und Unsicherheiten
 
-- Welcher Ausgangsbestand, Endstichtag und Umfang einschließlich Auftragnehmern liegt der Quote zugrunde?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0052
 
@@ -1889,7 +1892,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Automatisierung ersetzte nach der Übernahme einen erheblichen Teil der bisherigen Twitter-Arbeit.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1912,13 +1915,13 @@ Frueherer Suchbereich: [00:26:59–00:27:48](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Umfang, Aufgaben und Vergleichsmaß sind nicht definiert. Personalabbau allein ist kein Nachweis einer entsprechenden automatisierten Ersatzleistung.
+Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Umfang, Aufgaben und Vergleichsmaß sind nicht definiert. Personalabbau allein ist kein Nachweis einer entsprechenden automatisierten Ersatzleistung.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1958,13 +1961,13 @@ Frueherer Suchbereich: [00:26:59–00:27:48](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das Wachstumsmaß ist offen: Nutzung, Umsatz und Reichweite sind verschiedene Größen. Ohne Zeitraum und Kennzahl wäre eine Endbewertung beliebig.
+Nicht überprüfbar – zu unbestimmt. Das Wachstumsmaß ist offen: Nutzung, Umsatz und Reichweite sind verschiedene Größen. Ohne Zeitraum und Kennzahl wäre eine Endbewertung beliebig.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2099,13 +2102,13 @@ Frueherer Suchbereich: [00:27:50–00:31:35](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Produktionsaufwand und tatsächliche Aufgabenverteilung sind Selbstauskünfte. Hohe Aufrufzahlen wären zudem keine unmittelbar gleiche Zahl verschiedener Zuschauer.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Produktionsaufwand und tatsächliche Aufgabenverteilung sind Selbstauskünfte. Hohe Aufrufzahlen wären zudem keine unmittelbar gleiche Zahl verschiedener Zuschauer.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2161,13 +2164,13 @@ Frueherer Suchbereich: [00:27:50–00:31:35](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Teamgröße, Kameraeinsatz und Reichweite sind unterschiedliche Messgrößen. Der Text enthält eine Rückfrage und Korrektur zur Kamerazahl; deshalb wird die Zahl nicht aus dem alten Sammelpunkt festgeschrieben. Keine visuelle Studioinspektion erfolgt.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Teamgröße, Kameraeinsatz und Reichweite sind unterschiedliche Messgrößen. Der Text enthält eine Rückfrage und Korrektur zur Kamerazahl; deshalb wird die Zahl nicht aus dem alten Sammelpunkt festgeschrieben. Keine visuelle Studioinspektion erfolgt.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2228,7 +2231,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Tabletverkäufe stagnieren als Hinweis auf einen gesättigten Bildschirmmarkt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2251,13 +2254,13 @@ Frueherer Suchbereich: [00:27:50–00:31:35](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-IDC weist für weltweite Auslieferungen 2025 Wachstum aus. Das trägt keine pauschale Stagnation in diesem Jahresvergleich, beantwortet aber weder einen langfristigen Verlauf noch deutsche Endkundenverkäufe oder Gerätebestand. Weil Bezugsraum, Zeitraum und Messgröße der ursprünglichen Kurzform offen sind, bleibt die Prüfung ohne Endbewertung.
+Nicht überprüfbar – zu unbestimmt. IDC weist für weltweite Auslieferungen 2025 Wachstum aus. Das trägt keine pauschale Stagnation in diesem Jahresvergleich, beantwortet aber weder einen langfristigen Verlauf noch deutsche Endkundenverkäufe oder Gerätebestand. Weil Bezugsraum, Zeitraum und Messgröße der ursprünglichen Kurzform offen sind, bleibt die Prüfung ohne Endbewertung.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2297,13 +2300,13 @@ Frueherer Suchbereich: [00:27:50–00:31:35](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eine allgemeine Benchmark benötigt eine definierte Stichprobe, Videolänge und Kennzahl. Eigene Analytics oder ein typischer Kurvenverlauf liefern keine repräsentative Plattformstatistik.
+Nicht überprüfbar – zu unbestimmt. Eine allgemeine Benchmark benötigt eine definierte Stichprobe, Videolänge und Kennzahl. Eigene Analytics oder ein typischer Kurvenverlauf liefern keine repräsentative Plattformstatistik.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2319,7 +2322,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Für YouTube-Aufrufe habe bis vor Kurzem allgemein eine Mindestwiedergabe von 30 Sekunden gegolten.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2342,13 +2345,13 @@ Frueherer Suchbereich: [00:27:50–00:31:35](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Kontext enthält ausdrücklich einen historischen Vorbehalt, keine klare Behauptung zur heutigen Regel. Der gelesene Hilfetext ordnet 30 Sekunden bestimmten Werbeformaten zu und unterscheidet diese von öffentlichen Aufrufen. Eine solche Werberegel belegt keine frühere universelle Grenze für organische Langvideos. Ohne präzisen früheren Stichtag bleibt die historische Behauptung offen.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Der Kontext enthält ausdrücklich einen historischen Vorbehalt, keine klare Behauptung zur heutigen Regel. Der gelesene Hilfetext ordnet 30 Sekunden bestimmten Werbeformaten zu und unterscheidet diese von öffentlichen Aufrufen. Eine solche Werberegel belegt keine frühere universelle Grenze für organische Langvideos. Ohne präzisen früheren Stichtag bleibt die historische Behauptung offen.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2388,13 +2391,13 @@ Frueherer Suchbereich: [00:31:35–00:36:58](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die privaten Analytics wurden nicht eingesehen. Mittelwert über Videos, über Aufrufe und Auswahl einzelner Beiträge sind verschiedene Größen; eine vollständige Zuschauerquote folgt daraus nicht.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die privaten Analytics wurden nicht eingesehen. Mittelwert über Videos, über Aufrufe und Auswahl einzelner Beiträge sind verschiedene Größen; eine vollständige Zuschauerquote folgt daraus nicht.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2410,7 +2413,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein deutschsprachiges Interview erreichte im damaligen Vergleich ungefähr ein Drittel der Aufrufe großer internationaler Putin- und Trump-Interviews.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2433,13 +2436,13 @@ Frueherer Suchbereich: [00:31:35–00:36:58](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Vergleich beruht auf gerundeten, dynamischen Videozählern. Konkrete Uploads, Plattformen und gemeinsamer historischer Stichtag sind nicht ausreichend gesichert. Die Stelle unterscheidet selbst teilweise Aufrufe von Personen; diese Einschränkung wird erhalten.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Der Vergleich beruht auf gerundeten, dynamischen Videozählern. Konkrete Uploads, Plattformen und gemeinsamer historischer Stichtag sind nicht ausreichend gesichert. Die Stelle unterscheidet selbst teilweise Aufrufe von Personen; diese Einschränkung wird erhalten.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2496,13 +2499,13 @@ Frueherer Suchbereich: [00:31:35–00:36:58](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Es fehlt ein archivierter gleicher Stichtag und eine eindeutige Zuordnung der verglichenen Kanäle. Heutige Abonnentenzahlen werden nicht als historische Bestätigung eingesetzt.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Es fehlt ein archivierter gleicher Stichtag und eine eindeutige Zuordnung der verglichenen Kanäle. Heutige Abonnentenzahlen werden nicht als historische Bestätigung eingesetzt.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2541,13 +2544,13 @@ Frueherer Suchbereich: [00:31:35–00:36:58](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Muttersprachler, Zweitsprachler und potenziell erreichbare Plattformnutzer sind nicht dieselbe Grundgesamtheit. Ohne gemeinsame Sprachdefinition lassen sich die Zahlen nicht als präziser Marktgrößenvergleich bewerten.
+Nicht überprüfbar – zu unbestimmt. Muttersprachler, Zweitsprachler und potenziell erreichbare Plattformnutzer sind nicht dieselbe Grundgesamtheit. Ohne gemeinsame Sprachdefinition lassen sich die Zahlen nicht als präziser Marktgrößenvergleich bewerten.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2665,13 +2668,13 @@ Frueherer Suchbereich: [00:31:35–00:36:58](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Individuelle Begegnungen sind Erfahrungsberichte ohne vollständiges Ereignisregister. Sie zeigen weder eine repräsentative politische Stimmung noch die Zahl verschiedener Zuschauer.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Individuelle Begegnungen sind Erfahrungsberichte ohne vollständiges Ereignisregister. Sie zeigen weder eine repräsentative politische Stimmung noch die Zahl verschiedener Zuschauer.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2710,13 +2713,13 @@ Frueherer Suchbereich: [00:31:35–00:36:58](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Persönlicher Medienkonsum ist von Rundfunkbeitragszahlung zu unterscheiden. Im Anschluss wird die Zahlung gerade nicht als beendet dargestellt. Es wird deshalb keine zusätzliche Behauptung einer Beitragsverweigerung erfunden.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Persönlicher Medienkonsum ist von Rundfunkbeitragszahlung zu unterscheiden. Im Anschluss wird die Zahlung gerade nicht als beendet dargestellt. Es wird deshalb keine zusätzliche Behauptung einer Beitragsverweigerung erfunden.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2778,7 +2781,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Werbedarstellung lässt nach dem Beenden einer Aufnahme eine bereits fertige Transkription erwarten.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2801,13 +2804,13 @@ Frueherer Suchbereich: [00:09:34–00:11:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ob sofortige Fertigstellung zugesagt oder nur ein verkürzter Arbeitsablauf gezeigt wird, ist ohne Hör- und Bildkontrolle nicht sicher. Aufzeichnung, Übertragung und Verarbeitung werden nicht als identischer technischer Schritt behandelt.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Ob sofortige Fertigstellung zugesagt oder nur ein verkürzter Arbeitsablauf gezeigt wird, ist ohne Hör- und Bildkontrolle nicht sicher. Aufzeichnung, Übertragung und Verarbeitung werden nicht als identischer technischer Schritt behandelt.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2962,7 +2965,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Das beworbene Plaud-Angebot sei datenschutzrechtlich DSGVO-konform.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2985,13 +2988,13 @@ Frueherer Suchbereich: [00:10:33–00:11:08](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Anbieter erklärt Konformität. Daraus folgt keine pauschale Erlaubnis jeder Aufnahme oder jeder Verarbeitung. Rechtsgrundlage, Zweck, Aufbewahrung und mögliche Drittlandübermittlung hängen von Nutzung und tatsächlichen Prozessen ab. Der Werbekontext ist hinsichtlich der Reichweite der Zusage unklar; ohne Prozessprüfung keine abschließende Bewertung und keine Unterstellung eines festgestellten Rechtsverstoßes.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Der Anbieter erklärt Konformität. Daraus folgt keine pauschale Erlaubnis jeder Aufnahme oder jeder Verarbeitung. Rechtsgrundlage, Zweck, Aufbewahrung und mögliche Drittlandübermittlung hängen von Nutzung und tatsächlichen Prozessen ab. Der Werbekontext ist hinsichtlich der Reichweite der Zusage unklar; ohne Prozessprüfung keine abschließende Bewertung und keine Unterstellung eines festgestellten Rechtsverstoßes.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Datenschutzbehauptung und Rabattaktion getrennt. Weder universelle Rechtmäßigkeit noch tatsächlicher Checkout-Rabatt werden aus Werbung abgeleitet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3051,13 +3054,13 @@ Frueherer Suchbereich: [00:10:33–00:11:08](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Werbung nennt den Code und den Zeitraum 14.–30. November. Ein tatsächlicher Warenkorb, Bezugsprodukt, Region und Preisbasis wurden nicht geprüft. Coupon-Suchtreffer sind keine verifizierten Anbieterbedingungen. Die Werbeaufnahme kann zeitlich vom Hauptgespräch abweichen; kein Rückdatieren der Aktion auf den Aufnahmetag.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Die Werbung nennt den Code und den Zeitraum 14.–30. November. Ein tatsächlicher Warenkorb, Bezugsprodukt, Region und Preisbasis wurden nicht geprüft. Coupon-Suchtreffer sind keine verifizierten Anbieterbedingungen. Die Werbeaufnahme kann zeitlich vom Hauptgespräch abweichen; kein Rückdatieren der Aktion auf den Aufnahmetag.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Datenschutzbehauptung und Rabattaktion getrennt. Weder universelle Rechtmäßigkeit noch tatsächlicher Checkout-Rabatt werden aus Werbung abgeleitet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 

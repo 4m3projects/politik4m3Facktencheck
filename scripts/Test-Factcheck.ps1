@@ -17,6 +17,8 @@ $script:chapterTwo=ConvertFrom-FactcheckJson ($chapterTwoLines -join [char]10)
 $chapterThreeLines=@(& git -c ('safe.directory='+$root.Replace('\','/')) -C $root show '118400fdb012c0b33bd3799429fe84b5156fd948:faktenchecks/mlxFA9T88I0/strukturiert/aussagen.json')
 if ($LASTEXITCODE -ne 0) { throw 'Kapitel-3-Referenz fehlt.' }
 $script:chapterThree=ConvertFrom-FactcheckJson ($chapterThreeLines -join [char]10)
+$script:finalReview='Abschlussprüfung 18.11.2026 (Claude): '
+$script:finalReviewKeys=@('kind','status','verdict','reason','sourceRefs','openQuestions','migration')
 function Get-ChapterOneView {
     $d=ConvertFrom-FactcheckJson (ConvertTo-FactcheckJson $script:chapterTwo)
     $d.claims=@($d.claims | Where-Object chapter -NE 2)
@@ -422,10 +424,10 @@ Case 'Kapiteluebergreifender Teaser ist ein Vorkommen und keine neue Aussage' {
     Check-True ($s.statusCounts.Abgeschlossen -eq 5 -and $s.statusCounts.Offen -eq 6 -and $s.statusCounts.'In Bearbeitung' -eq 7 -and $s.completedFacts -eq 4 -and $s.kindCounts.Prognose -eq 1) 'Neue Statistik falsch.'
 }
 Case 'Redaktionelle Auslegungsunsicherheit erhaelt keine Endbewertung' {
-    foreach($id in @('mlxFA9T88I0-A0011','mlxFA9T88I0-A0012')){
-        $c=@($script:current.claims | Where-Object id -CEQ $id)[0]
-        Check-True ($c.status -ceq 'In Bearbeitung' -and $null -eq $c.verdict -and $c.openQuestions.Count -gt 0) 'Unsichere Auslegung abschliessend bewertet.'
-    }
+    $c=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0012')[0]
+    Check-True ($c.status -ceq 'Offen' -and $null -eq $c.verdict -and $c.openQuestions.Count -gt 0 -and $c.reason.StartsWith('Nicht überprüfbar – ')) 'Unsichere Auslegung abschliessend bewertet.'
+    $c=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0011')[0]
+    Check-True ($c.verdict -ceq 'Belegt' -and $c.migration.assessmentChange.Contains($script:finalReview) -and $c.reason.Contains('September 2026')) 'Abschlussbewertung ohne Zeitbezug oder Dokumentation.'
     $c=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0014')[0]
     $src=@($script:current.sources | Where-Object id -CEQ 'S009')[0]
     Check-True ($c.verdict -ceq 'Belegt' -and $src.details.Contains('gedruckte Seite 17 / PDF-Seite 23')) 'Sachbewertung oder korrigierte Seitenangabe verloren.'
@@ -558,7 +560,7 @@ Case 'Erneut gescheiterte Kaufquelle wird nicht als neue Verifikation dargestell
 }
 Case 'Unsichere Rechtslesart Internetkurzform und historisches Baudatum bleiben ohne Endurteil' {
     foreach($id in @('mlxFA9T88I0-A0094','mlxFA9T88I0-A0105','mlxFA9T88I0-A0162')){
-        $c=@($script:current.claims | Where-Object id -CEQ $id)[0];Check-True ($null -eq $c.verdict -and $c.status -ceq 'In Bearbeitung' -and $c.openQuestions.Count -gt 0) 'Mehrdeutigkeit als abgeschlossen ausgegeben.'
+        $c=@($script:current.claims | Where-Object id -CEQ $id)[0];Check-True ($null -eq $c.verdict -and $c.status -ceq 'Offen' -and $c.openQuestions.Count -gt 0 -and $c.reason.StartsWith('Nicht überprüfbar – ')) 'Mehrdeutigkeit als abgeschlossen ausgegeben.'
     }
     $c=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0143')[0]
     Check-True ($c.occurrences[0].role -ceq 'Rückfrage' -and -not (Test-FactcheckOwnRole $c.occurrences[0])) 'Frage zur EU-Herkunft als eigene Tatsachenbehauptung gezaehlt.'
@@ -611,6 +613,10 @@ Case 'Kapitel-3-Bestand bleibt bis auf dokumentierte Hauptgespraechsvorkommen er
             foreach($o in $added){Check-True ($o.timeHistory[0].basis -match 'Altpunkt C(0[4-9]|10)-P' -and $o.note.Contains('Bewertung von')) ('Zusatzvorkommen ohne Herkunft: '+$o.id)}
             $now.occurrences=@($now.occurrences | Where-Object {$_.id -cin $old.occurrences.id})
         }
+        if($now.migration.assessmentChange.Contains($script:finalReview)){
+            Check-True ($now.migration.assessmentChange.StartsWith($old.migration.assessmentChange.Trim())) ('Abschlusspruefung ueberschreibt Migrationsgeschichte: '+$old.id)
+            foreach($key in $script:finalReviewKeys){$now.$key=$old.$key}
+        }
         Check-True (Test-FactcheckEqual $now $old) ('Undokumentierte Altbestandsaenderung: '+$old.id)
     }
     foreach($old in $script:chapterThree.sources){$now=@($script:current.sources | Where-Object id -CEQ $old.id);Check-True ($now.Count -eq 1 -and (Test-FactcheckEqual $now[0] $old)) 'Alte Quellengrundlage veraendert.'}
@@ -621,6 +627,8 @@ Case 'Nicht Ueberpruefbares bleibt offen und ohne Endurteil' {
     $marked=@($new | Where-Object {$_.reason.StartsWith('Nicht überprüfbar – ')})
     Check-True ($marked.Count -ge 10) 'Kennzeichnung fehlt.'
     foreach($c in $marked){Check-True ($c.status -ceq 'Offen' -and $null -eq $c.verdict -and $c.openQuestions.Count -gt 0) ('Nicht Ueberpruefbares abgeschlossen: '+$c.id)}
+    foreach($c in @($script:current.claims | Where-Object status -CNE 'Abgeschlossen')){Check-True ($c.reason.StartsWith('Nicht überprüfbar – ')) ('Offene Aussage ohne abschliessende Kennzeichnung: '+$c.id)}
+    Check-True ($script:current.scope.coverageNote.StartsWith('Recherche abgeschlossen') -and $script:current.scope.coverageNote.Contains('Keine Statistik des vollständigen Videos')) 'Abschlussvermerk oder Teilbestandsgrenze fehlt.'
 }
 Case 'Berliner Quote nach Zeitstand und Laendervergleich getrennt' {
     $q=@($script:current.claims | Where-Object {$_.legacyId -ceq 'C04-P07'})
@@ -639,8 +647,8 @@ Case 'Zinsreihe und Restlaufzeit an amtlichen Daten statt Erinnerung bewertet' {
 Case 'Aktueller Endstand trennt Migration Forschung und Referenzfragen' {
     $s=Get-FactcheckStatistics $script:current
     Check-True ($s.statementRecords -eq 395 -and $s.uniqueStatements -eq 392 -and $s.referenceOnlyStatements -eq 3 -and $s.assertionOccurrences -eq 436 -and $s.referenceOccurrences -eq 11 -and $s.additionalAssertionOccurrences -eq 44) 'Aktuelle Vorkommenszaehlung falsch.'
-    Check-True ($s.statusCounts.Abgeschlossen -eq 164 -and $s.statusCounts.Offen -eq 156 -and $s.statusCounts.'In Bearbeitung' -eq 72 -and $s.completedFacts -eq 89) 'Aktueller Forschungsstand falsch.'
-    Check-True ((($s.categories | ForEach-Object {$_.completedCount}) -join ',') -ceq '20,51,14,4,0,75') 'Aktuelle Kategorien falsch.'
+    Check-True ($s.statusCounts.Abgeschlossen -eq 197 -and $s.statusCounts.Offen -eq 195 -and $s.statusCounts.'In Bearbeitung' -eq 0 -and $s.completedFacts -eq 117) 'Aktueller Forschungsstand falsch.'
+    Check-True ((($s.categories | ForEach-Object {$_.completedCount}) -join ',') -ceq '32,58,18,7,2,80') 'Aktuelle Kategorien falsch.'
     Check-True ($script:current.scope.unmigratedLegacyPoints -eq 0 -and $script:current.scope.kind -ceq 'Teilbestand') 'Vollstaendige Migration darf ohne Vollpruefung kein Vollbestand sein.'
     $w=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0207')[0]
     Check-True ($w.verdict -ceq 'Belegt' -and ($w.sourceRefs.sourceId -join ',') -ceq 'S100' -and $w.migration.assessmentChange.Contains('Kapitel-7-Prüfung')) 'Fortschreibung A0207 nicht dokumentiert.'

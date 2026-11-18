@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Teilbestand: 99 von 99 ursprünglichen Prüfpunkten übertragen, 0 nicht migriert. Kapitel 1 bis 10 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.",
+  "coverageNote": "Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.",
   "videoId": "mlxFA9T88I0",
   "selectedLegacyPoints": 99,
   "totalLegacyPoints": 99,
@@ -15,49 +15,49 @@
   "referenceOccurrences": 11,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 156,
-    "In Bearbeitung": 72,
-    "Abgeschlossen": 164
+    "Offen": 195,
+    "In Bearbeitung": 0,
+    "Abgeschlossen": 197
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 317,
-    "Meinung": 58,
+    "Tatsachenbehauptung": 312,
+    "Meinung": 63,
     "Prognose": 17
   },
-  "completedFacts": 89,
-  "openFacts": 156,
-  "inProgressFacts": 72,
-  "percentageDenominator": 89,
+  "completedFacts": 117,
+  "openFacts": 195,
+  "inProgressFacts": 0,
+  "percentageDenominator": 117,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 20,
-      "completedFactPercent": 22.5
+      "completedCount": 32,
+      "completedFactPercent": 27.4
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 51,
-      "completedFactPercent": 57.3
+      "completedCount": 58,
+      "completedFactPercent": 49.6
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 14,
-      "completedFactPercent": 15.7
+      "completedCount": 18,
+      "completedFactPercent": 15.4
     },
     {
       "category": "Widerlegt",
-      "completedCount": 4,
-      "completedFactPercent": 4.5
+      "completedCount": 7,
+      "completedFactPercent": 6.0
     },
     {
       "category": "Nicht ausreichend belegbar",
-      "completedCount": 0,
-      "completedFactPercent": 0.0
+      "completedCount": 2,
+      "completedFactPercent": 1.7
     },
     {
       "category": "Meinung / Prognose",
-      "completedCount": 75,
+      "completedCount": 80,
       "completedFactPercent": null
     }
   ],
@@ -147,11 +147,11 @@
         ]
       }
     ],
-    "eligibleFacts": 317,
+    "eligibleFacts": 312,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 317,
-    "factsWithUncertainAttribution": 317,
-    "factsWithUncertainOwnRole": 317,
+    "factsWithoutReliablePerson": 312,
+    "factsWithUncertainAttribution": 312,
+    "factsWithUncertainOwnRole": 312,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
       "Plausibel": 447,
