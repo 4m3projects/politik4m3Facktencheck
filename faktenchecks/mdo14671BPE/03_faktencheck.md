@@ -4,7 +4,7 @@ Aktualisierung: 18.11.2026. Eigenständige Neuerfassung für [Issue #3](https://
 
 ## Ergebnis des bisher abgeschlossenen Teils
 
-57 einmalig gezählte Tatsachenbehauptungen sind sachlich abschließend bewertet. Die Begründungen und direkt zugeordneten Quellen stehen bei den jeweiligen Aussage-IDs. Beispiele für unterschiedliche Ergebnisse:
+59 einmalig gezählte Tatsachenbehauptungen sind sachlich abschließend bewertet. Die Begründungen und direkt zugeordneten Quellen stehen bei den jeweiligen Aussage-IDs. Beispiele für unterschiedliche Ergebnisse:
 
 - Die Schulveröffentlichungen bestätigen einzelne Wettbewerbserfolge; daraus folgt keine Bestätigung sämtlicher biografischer Leistungsangaben.
 - Die Erweiterung von § 188 im Jahr 2021 ist belegt. Die Erklärung über eine Umwandlung des früheren § 103 vermischt dagegen unterschiedliche Normen und Entwicklungen.
@@ -19,17 +19,17 @@ Dies sind eigene Zusammenfassungen der unten verlinkten Einzelprüfungen, keine 
 
 ## Vorläufige Statistik des erfassten Teilbestands
 
-Verbindliche Berechnung: [generierte Statistik](strukturiert/statistik.json) und [Erläuterung](strukturiert/README.md). Die folgenden Zahlen geben diesen Datenstand wieder. Der Prozentnenner umfasst ausschließlich die 57 abgeschlossenen Tatsachenbehauptungen mit mindestens einem eigenen, bestätigten oder plausiblen Aussagebezug. Offene Aussagen, Meinungen, Prognosen und reine Fremdbezüge sind ausgeschlossen. Die Sprecheridentität ist davon unabhängig noch unbestätigt.
+Verbindliche Berechnung: [generierte Statistik](strukturiert/statistik.json) und [Erläuterung](strukturiert/README.md). Die folgenden Zahlen geben diesen Datenstand wieder. Der Prozentnenner umfasst ausschließlich die 59 abgeschlossenen Tatsachenbehauptungen mit mindestens einem eigenen, bestätigten oder plausiblen Aussagebezug. Offene Aussagen, Meinungen, Prognosen und reine Fremdbezüge sind ausgeschlossen. Die Sprecheridentität ist davon unabhängig noch unbestätigt.
 
-| Sachbewertung | Anzahl | Anteil an 57 abgeschlossenen Tatsachen |
+| Sachbewertung | Anzahl | Anteil an 59 abgeschlossenen Tatsachen |
 |---|---:|---:|
-| Belegt | 21 | 36,8 % |
-| Teilweise belegt | 10 | 17,5 % |
-| Irreführend / Kontext fehlt | 14 | 24,6 % |
-| Widerlegt | 12 | 21,1 % |
+| Belegt | 22 | 37,3 % |
+| Teilweise belegt | 11 | 18,6 % |
+| Irreführend / Kontext fehlt | 14 | 23,7 % |
+| Widerlegt | 12 | 20,3 % |
 | Nicht ausreichend belegbar | 0 | 0,0 % |
 
-Diese Verteilung beschreibt weder alle Tatsachenbehauptungen noch das ganze Interview. Von 222 eigenbezogenen Tatsachenbehauptungen sind 123 offen und 42 in Bearbeitung. Weitere 24 Einträge sind Meinungen oder Prognosen. Zwei der 248 Datensätze enthalten ausschließlich fremdbezogene Inhalte und zählen nicht zu den 246 eigenbezogenen Aussagen.
+Diese Verteilung beschreibt weder alle Tatsachenbehauptungen noch das ganze Interview. Von 222 eigenbezogenen Tatsachenbehauptungen sind 120 offen und 43 in Bearbeitung. Weitere 24 Einträge sind Meinungen oder Prognosen. Zwei der 248 Datensätze enthalten ausschließlich fremdbezogene Inhalte und zählen nicht zu den 246 eigenbezogenen Aussagen.
 
 276 eigene Aussagevorkommen gehören zu diesen 246 Aussagen; 30 zusätzliche Vorkommen sind daher keine neuen Aussagen. Hinzu kommen vier referierende Vorkommen und ein Vorkommen mit ungeklärtem Aussagebezug. Zusätzliche Vorkommen können Übernahmen oder Wiederaufnahmen sein. Sie sind bei unbestätigter Identität nicht automatisch bestätigte Wiederholungen derselben Person.
 
@@ -85,6 +85,6 @@ Get-FactcheckStatistics $d | ConvertTo-Json -Depth 15
 
 Die originale Untertitelgrundlage fehlt von 02:10:47,880 bis 02:12:43,970; die letzten vier Sekunden bleiben ebenfalls ohne Inhaltsnachweis. Zwei Einträge im Lückenfenster beruhen nur auf einer zusätzlichen öffentlichen Podcast-Transkription mit abweichender Zeitachse. Sie schließen die Lücke nicht verlässlich. Eine Audio-/Videokontrolle und bestätigte Sprecheridentifizierung haben nicht stattgefunden.
 
-Notwendig bleiben die vollständige Erfassung weiterer Teilbehauptungen, Quellen für die 165 offenen oder laufenden Tatsachenprüfungen und eine Kontrolle der Fundstellen am Original. Besondere Nachweislücken betreffen private Vorgänge, konkrete Straf- und Medienaufsichtsakten, Visum- und Asylstatus, Vergütungs- und Kostenunterlagen sowie beworbene Zusatzleistungen. Erfolglose Abrufe sind im Datenbestand ausdrücklich als solche vermerkt und keine Sachbelege. Allgemeines Recht und heutige Unternehmensseiten beweisen keinen individuellen oder historischen Zustand.
+Notwendig bleiben die vollständige Erfassung weiterer Teilbehauptungen, Quellen für die 163 offenen oder laufenden Tatsachenprüfungen und eine Kontrolle der Fundstellen am Original. Besondere Nachweislücken betreffen private Vorgänge, konkrete Straf- und Medienaufsichtsakten, Visum- und Asylstatus, Vergütungs- und Kostenunterlagen sowie beworbene Zusatzleistungen. Erfolglose Abrufe sind im Datenbestand ausdrücklich als solche vermerkt und keine Sachbelege. Allgemeines Recht und heutige Unternehmensseiten beweisen keinen individuellen oder historischen Zustand.
 
-Die ältere private KI-Auswertung liegt dieser Prüfung nicht vor; ein Einzelvergleich ist erst nach unabhängiger Erfassung und Zugang zu ihren Prüfgegenständen möglich. [Draft PR #5](https://github.com/4m3projects/politik4m3Facktencheck/pull/5) bleibt ein prüfbarer Arbeitsstand. Das Issue wird durch diese Teilprüfung nicht abgeschlossen; Veröffentlichung ist seit dem 18.11.2026 autorisiert, die fachliche Fertigstellung steht weiter aus.
+Die ältere private KI-Auswertung liegt dieser Prüfung nicht vor; ein Einzelvergleich ist erst nach unabhängiger Erfassung und Zugang zu ihren Prüfgegenständen möglich. Die erste Teilveröffentlichung über [PR #5](https://github.com/4m3projects/politik4m3Facktencheck/pull/5) brachte am 18.11.2026 den Stand mit 57 abgeschlossenen Tatsachenprüfungen in die Website und den Player. Die weitere Recherche wird auf einem eigenen Folgebranch fortgesetzt. Das Issue wird durch diese Teilprüfung nicht abgeschlossen; Veröffentlichung ist seit dem 18.11.2026 autorisiert, die fachliche Fertigstellung steht weiter aus.

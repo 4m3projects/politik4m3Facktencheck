@@ -582,6 +582,54 @@
       "details": "NHLBI/NIH; Stand 19.09.2022.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Symptomdarstellung einschließlich möglicher fehlender Beschwerden bis zu schweren Komplikationen gelesen. Allgemeiner medizinischer Kontext, keine Patientenakte oder individuelle Todesursachenbegutachtung."
+    },
+    {
+      "id": "S072",
+      "title": "German YouTube Personality Naomi Seibt Joins The Heartland Institute",
+      "url": "https://heartland.org/opinion/press-release-german-youtube-personality-naomi-seibt-joins-the-heartland-institute/",
+      "details": "Jim Lakely, The Heartland Institute; Pressemitteilung 14.02.2020.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Originale Personalmitteilung einschließlich damaliger Altersangabe und beschriebener Zusammenarbeit gelesen. Institutionelle Selbstauskunft, keine unabhängige Bewertung der wissenschaftlichen Aussagen oder vollständiger Zahlungsnachweis."
+    },
+    {
+      "id": "S073",
+      "title": "Bloomberg-Bericht über YouTube-Kanallöschungen – erfolgloser Abruf der Yahoo-Fassung",
+      "url": "https://finance.yahoo.com/news/youtube-bans-more-white-supremacist-212014701.html",
+      "details": "Lucas Shaw/Bloomberg; 29.06.2020; Abrufversuch 18.11.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Erfolgloser Abrufversuch – kein Sachbeleg: HTTP 429. Suchausschnitt nicht als Verifikation verwendet. Tatsächlich gelesene Ersatzquelle: zeitgenössischer Bericht von Julia Alexander bei The Verge, S075."
+    },
+    {
+      "id": "S074",
+      "title": "Piers Morgan apologizes after blasting teenage anti-Greta on his show",
+      "url": "https://www.wnd.com/2020/03/piers-morgan-apologizes-blasting-teenage-anti-greta-show-quite-right/",
+      "details": "Erin Coates/The Western Journal, übernommen von WorldNetDaily; 07.03.2020.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Bericht zur Moderationskorrektur gelesen und dessen frühere Express-Quelle S076 geöffnet. Kein unabhängiger zweiter Augenzeugenbeleg; erkennbare Übernahmekette. Politische und wissenschaftliche Wertungen des Mediums nicht übernommen."
+    },
+    {
+      "id": "S075",
+      "title": "YouTube bans Stefan Molyneux, David Duke, Richard Spencer, and more for hate speech",
+      "url": "https://www.theverge.com/2020/6/29/21307303/youtube-bans-molyneux-duke-richard-spencer-conduct-hate-speech",
+      "details": "Julia Alexander, The Verge; 29.06.2020.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Bericht mit direkter YouTube-Auskunft und Molyneux-Reaktion gelesen; keine internen Moderationsakten geprüft."
+    },
+    {
+      "id": "S076",
+      "title": "Piers Morgan forced to correct himself after viewers slam climate debate",
+      "url": "https://www.express.co.uk/showbiz/tv-radio/1250665/Piers-morgan-good-morning-britain-correction-mistake-naomi-seibt-amy-bray-itv-video",
+      "details": "Emily Hennings, Daily Express; 05.03.2020, aktualisiert 09:26 Uhr.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Zeitgenössischen Sendungsbericht mit der konkret beschriebenen Korrektur der Fragestellung gelesen. Originalsendung und eingebettetes Video nicht selbst angehört; die spätere WND-Fassung beruht auf diesem Bericht."
+    },
+    {
+      "id": "S077",
+      "title": "Weiterer Express-Beitrag zur Klimadebatte – erfolgloser Abruf",
+      "url": "https://www.express.co.uk/showbiz/tv-radio/1250649/greta-thunberg-news-naomi-seibt-ITV-GMB-piers-morgan-climate-change-latest-study",
+      "details": "Daily Express; historischer Link aus WND, Abrufversuch 18.11.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Erfolgloser Abrufversuch – kein Sachbeleg: Recherchewerkzeug verweigerte die Adresse. Tatsächlich gelesene Ersatzgrundlage zur Moderationskorrektur ist der gesonderte Express-Beitrag S076."
     }
   ],
   "speakers": [
@@ -3827,19 +3875,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Stefan Molyneux habe 2020 seinen YouTube-Kanal verloren.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Konkretes Plattformereignis, historischer Beleg noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der zeitgenössische Bericht vom 29. Juni 2020 dokumentiert die Entfernung des Kanals und enthält eine direkte Stellungnahme YouTubes sowie Molyneuxs öffentliche Reaktion. Belegt ist die damalige Sperre; damit wird weder jeder Löschgrund einzeln verifiziert noch eine rechtliche Billigung ausgesprochen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Zeitgenössische Plattformbestätigung, Datum und Löschgrund prüfen."
+      "sourceRefs": [
+        {
+          "sourceId": "S075",
+          "note": "Zeitgenössischer Bericht mit eigener Anfrage bei YouTube."
+        },
+        {
+          "sourceId": "S073",
+          "note": "Erfolgloser Abrufversuch – kein Sachbeleg; Ersatzquelle S075 tatsächlich gelesen."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0083",
@@ -4958,6 +5013,10 @@
         {
           "sourceId": "S018",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S072",
+          "note": "Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen."
         }
       ],
       "openQuestions": [
@@ -5045,6 +5104,10 @@
         {
           "sourceId": "S041",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S072",
+          "note": "Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen."
         }
       ],
       "openQuestions": [
@@ -5206,7 +5269,7 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibt habe bei CPAC 2020 sowie in Sendungen von Fox News und Piers Morgan Auftritte gehabt.",
-      "status": "Offen",
+      "status": "In Bearbeitung",
       "verdict": null,
       "reason": "Drei öffentliche Auftrittsbehauptungen; hier noch nicht jeweils mit Originalsendung oder Veranstalterprogramm belegt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
@@ -5215,7 +5278,12 @@
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S072",
+          "note": "Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen."
+        }
+      ],
       "openQuestions": [
         "Datum und Format jedes Auftritts getrennt bestätigen."
       ],
@@ -5247,18 +5315,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Piers Morgan habe sich nach einer unzutreffenden Wiedergabe ihrer Position öffentlich entschuldigt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Einzelfall im Gespräch; Originalsendung und tatsächlicher Anlass einer Entschuldigung ungeprüft.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der zeitgenössische Express-Bericht beschreibt eine nach der Werbepause erfolgte Korrektur: Morgan hatte seine eigene Fragestellung unzutreffend wiedergegeben. Die konkrete Richtigstellung ist damit journalistisch gestützt. Das war kein Widerruf der Klimaforschung oder eine Bestätigung aller Positionen Seibts; die Originalsendung wurde hier nicht angehört.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S076",
+          "note": "Frühere tatsächlich gelesene Berichtsquelle; Originalsendung nicht selbst kontrolliert."
+        },
+        {
+          "sourceId": "S074",
+          "note": "Spätere Übernahme desselben Vorgangs, kein unabhängiger zweiter Beleg."
+        },
+        {
+          "sourceId": "S077",
+          "note": "Erfolgloser Abrufversuch – kein Sachbeleg; Ersatz S076."
+        }
+      ],
       "openQuestions": [
-        "Ungekürzte betreffende Gesprächsstelle und Entschuldigung lesen beziehungsweise kontrollieren."
+        "Originalsendung für genauen Umfang und Wortlaut der Korrektur kontrollieren; keine wörtliche Passage veröffentlichen."
       ],
       "occurrences": [
         {
@@ -11271,6 +11352,10 @@
         {
           "sourceId": "S041",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S072",
+          "note": "Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen."
         }
       ],
       "openQuestions": [
@@ -11450,6 +11535,10 @@
         {
           "sourceId": "S041",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S072",
+          "note": "Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen."
         }
       ],
       "openQuestions": [

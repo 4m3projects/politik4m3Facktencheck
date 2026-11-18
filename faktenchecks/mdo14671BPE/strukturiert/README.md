@@ -13,9 +13,9 @@ Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete P
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 246
-- Abgeschlossen: 81
-- Offen: 123
-- In Bearbeitung: 42
+- Abgeschlossen: 83
+- Offen: 120
+- In Bearbeitung: 43
 - Erfasste Behauptungsvorkommen: 276
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 30
 - Davon bestaetigte Wiederholungen derselben Person: 0
@@ -29,16 +29,16 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 57 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 59 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 21 | 36.8 % |
-| Teilweise belegt | 10 | 17.5 % |
-| Irreführend / Kontext fehlt | 14 | 24.6 % |
-| Widerlegt | 12 | 21.1 % |
+| Belegt | 22 | 37.3 % |
+| Teilweise belegt | 11 | 18.6 % |
+| Irreführend / Kontext fehlt | 14 | 23.7 % |
+| Widerlegt | 12 | 20.3 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 24 | nicht anwendbar |
 

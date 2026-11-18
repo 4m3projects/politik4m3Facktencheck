@@ -171,6 +171,9 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 - [The Heartlander, Winter 2020](https://heartland.org/wp-content/uploads/documents/HeartlanderWinter20.pdf) · The Heartland Institute; Ausgabe Winter 2020, enthält Rückblick Dezember 2019.
   Quellenzugriff am 2026-11-17. Originalpublikation online geöffnet; Abschnitte zu Seibts Auftritt in Madrid und Zusammenarbeit gelesen. Interessengeleitete Selbstauskunft, keine Kontrolle aller Finanzierungsquellen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
+- [German YouTube Personality Naomi Seibt Joins The Heartland Institute](https://heartland.org/opinion/press-release-german-youtube-personality-naomi-seibt-joins-the-heartland-institute/) · Jim Lakely, The Heartland Institute; Pressemitteilung 14.02.2020.
+  Quellenzugriff am 2026-11-18. Originale Personalmitteilung einschließlich damaliger Altersangabe und beschriebener Zusammenarbeit gelesen. Institutionelle Selbstauskunft, keine unabhängige Bewertung der wissenschaftlichen Aussagen oder vollständiger Zahlungsnachweis. Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen.
+
 ### Offene Fragen und Unsicherheiten
 
 - Freiwillig zugängliche Verträge, Tätigkeitsumfang und Zahlungsbezug zu konkreten Produktionen prüfen.
@@ -337,6 +340,9 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 - [The Heartlander, Winter 2020](https://heartland.org/wp-content/uploads/documents/HeartlanderWinter20.pdf) · The Heartland Institute; Ausgabe Winter 2020, enthält Rückblick Dezember 2019.
   Quellenzugriff am 2026-11-17. Originalpublikation online geöffnet; Abschnitte zu Seibts Auftritt in Madrid und Zusammenarbeit gelesen. Interessengeleitete Selbstauskunft, keine Kontrolle aller Finanzierungsquellen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+
+- [German YouTube Personality Naomi Seibt Joins The Heartland Institute](https://heartland.org/opinion/press-release-german-youtube-personality-naomi-seibt-joins-the-heartland-institute/) · Jim Lakely, The Heartland Institute; Pressemitteilung 14.02.2020.
+  Quellenzugriff am 2026-11-18. Originale Personalmitteilung einschließlich damaliger Altersangabe und beschriebener Zusammenarbeit gelesen. Institutionelle Selbstauskunft, keine unabhängige Bewertung der wissenschaftlichen Aussagen oder vollständiger Zahlungsnachweis. Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen.
 
 ### Offene Fragen und Unsicherheiten
 
