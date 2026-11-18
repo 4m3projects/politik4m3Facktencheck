@@ -197,6 +197,8 @@ async function step(name, fn) {
   await step('Methodik erklärt die zweite Ebene', async () => {
     const t = await open(W, '#/methodik');
     assert.match(t, /Zweite Ebene: Wie etwas gesagt wird/);
+    assert.match(t, /zwei getrennte Maßstäbe/);
+    for (const f of Object.values(R.FEATURES)) assert.ok(t.includes(f.name + ':'), 'Merkmal fehlt in der Methodik: ' + f.name);
     assert.match(t, /Keine Fehlerpunkte/);
   });
 
