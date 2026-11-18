@@ -2,6 +2,10 @@
 
 Dieses Lernprojekt veröffentlicht eigenständig formulierte deutschsprachige Analysen und recherchierte Faktenchecks zu einzelnen YouTube-Videos. Arbeite selbstständig bis zu einem nachvollziehbaren Ergebnis. Eine einzelne Video-URL ist ein Auftrag zur Analyse, nicht zum Herunterladen von Video oder Audio.
 
+## Faktenampel
+
+Die Gesamteinschätzung je Video (Ampel) wird **ausschließlich berechnet**, zentral in `site/ampel.js`, aus den vorhandenen Einzelbewertungen. Agenten setzen, speichern oder überschreiben keine Ampel und ändern keine Einzelbewertung, um eine Ampelfarbe zu erreichen. Änderungen an Schwellen oder Regel nur in `site/ampel.js` mit Tests und Dokumentation in [docs/AMPEL.md](docs/AMPEL.md) sowie in der Methodik der Webseite. Darstellungshinweise fließen nie ein; vorläufige Prüfungen bleiben „Noch in Prüfung“.
+
 ## Zusammenarbeit mehrerer KI-Agenten (verbindlicher GitHub-Workflow)
 
 Diese Regeln gelten für Codex, ChatGPT, Claude und weitere KI-Agenten. **GitHub-Issues und Pull-Request-Diskussionen sind die zentrale, öffentliche Aufgaben- und Review-Kommunikation**; es ist kein zusätzliches Verzeichnis für Nachrichten erforderlich. Die folgenden Rechte-, Recherche- und Datenschutzregeln gelten unverändert auch für Issues und Kommentare.

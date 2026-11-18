@@ -15,7 +15,7 @@ const { chromium } = require('playwright');
 const FX = require('./rhetoric-fixtures.js');
 
 const ROOT = path.join(__dirname, '..');
-const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js'];
+const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'ampel.js'];
 const V = 'mlxFA9T88I0';
 const FACTS = JSON.parse(fs.readFileSync(path.join(ROOT, 'faktenchecks', V, 'strukturiert', 'aussagen.json'), 'utf8'));
 const RHET = FX.build(FACTS);
