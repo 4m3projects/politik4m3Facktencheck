@@ -1,6 +1,6 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0121: Themen bis zur PCR-Präsentation und Moderationsdebatte (01:18:04), mit einzeln ausgewiesenen späteren Wiederholungen. Weitere gelesene Abschnitte noch nicht vollständig erfasst.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0149: Themen bis zu den Musk-Kontakten und historischen Parteideutungen (01:33:20), mit einzelnen späteren Wiederholungen. Weitere gelesene Abschnitte noch nicht vollständig erfasst.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -94,7 +94,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das beworbene Buch begleite eine Anfängerin durch 16 Wochen mit sämtlichen Transaktionen einschließlich Verlustfällen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -123,7 +123,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Beworbene Buchseite – erfolgloser Zugriff](https://arcticbear.de/ben) · Arctic Bear; Abrufversuche 18.11.2026.
+  Quellenzugriff am 2026-11-18. Erfolgloser Abrufversuch – kein Sachbeleg: beworbene Adresse und Anbieterhauptseite waren mit dem Recherchewerkzeug nicht zugänglich. Keine tatsächlich gelesene Ersatzquelle für Buchinhalt oder kostenlose Zusatzleistungen. Erfolgloser Abrufversuch – kein Sachbeleg. Keine gelesene Ersatzquelle für konkrete Buch- oder Zusatzleistungswerbung.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -135,7 +136,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nach der Lektüre könne man die Handelsstrategie konkret umsetzen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -164,7 +165,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Beworbene Buchseite – erfolgloser Zugriff](https://arcticbear.de/ben) · Arctic Bear; Abrufversuche 18.11.2026.
+  Quellenzugriff am 2026-11-18. Erfolgloser Abrufversuch – kein Sachbeleg: beworbene Adresse und Anbieterhauptseite waren mit dem Recherchewerkzeug nicht zugänglich. Keine tatsächlich gelesene Ersatzquelle für Buchinhalt oder kostenlose Zusatzleistungen. Erfolgloser Abrufversuch – kein Sachbeleg. Keine gelesene Ersatzquelle für konkrete Buch- oder Zusatzleistungswerbung.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -176,7 +178,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Zum Buchangebot gehörten eine kostenlose Telegram-Community und kostenlose Livegespräche mit dem Autor.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -205,7 +207,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Beworbene Buchseite – erfolgloser Zugriff](https://arcticbear.de/ben) · Arctic Bear; Abrufversuche 18.11.2026.
+  Quellenzugriff am 2026-11-18. Erfolgloser Abrufversuch – kein Sachbeleg: beworbene Adresse und Anbieterhauptseite waren mit dem Recherchewerkzeug nicht zugänglich. Keine tatsächlich gelesene Ersatzquelle für Buchinhalt oder kostenlose Zusatzleistungen. Erfolgloser Abrufversuch – kein Sachbeleg. Keine gelesene Ersatzquelle für konkrete Buch- oder Zusatzleistungswerbung.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -217,7 +220,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Über die beworbene Adresse könne man das Buch beim Autor handsigniert oder über Amazon beziehen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -246,7 +249,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Beworbene Buchseite – erfolgloser Zugriff](https://arcticbear.de/ben) · Arctic Bear; Abrufversuche 18.11.2026.
+  Quellenzugriff am 2026-11-18. Erfolgloser Abrufversuch – kein Sachbeleg: beworbene Adresse und Anbieterhauptseite waren mit dem Recherchewerkzeug nicht zugänglich. Keine tatsächlich gelesene Ersatzquelle für Buchinhalt oder kostenlose Zusatzleistungen. Erfolgloser Abrufversuch – kein Sachbeleg. Keine gelesene Ersatzquelle für konkrete Buch- oder Zusatzleistungswerbung.
 
 ### Offene Fragen und Unsicherheiten
 

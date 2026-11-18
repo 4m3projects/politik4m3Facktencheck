@@ -6,7 +6,7 @@ Original: [YouTube, Video-ID mdo14671BPE](https://www.youtube.com/watch?v=mdo146
 
 Die automatisch erzeugten deutschen Originaluntertitel wurden bis zum Ende gelesen. Das ist keine Hör- oder Sichtkontrolle. Die Textgrundlage reicht von 00:00:00 bis 02:48:34. Von 02:10:47,880 bis 02:12:43,970 fehlt Text; die letzten vier Sekunden sind ebenfalls nicht inhaltlich gesichert. Eine öffentliche Podcast-Transkription enthält Anschlussmaterial mit anderer Zeitachse; sie ersetzt keine geprüfte Synchronisierung.
 
-Aktualisierung 18.11.2026: Der Datenstand enthält 121 Prüfgegenstände bis zur Moderationsdebatte nach der PCR-Präsentation (01:18:04), einschließlich beider Werbeblöcke. Der Landessieg von 2014 ist nun durch einen direkten Schulbericht belegt. Spätere Wiederholungen sind teilweise zugeordnet; der restliche gelesene Text ist noch nicht vollständig erfasst.
+Aktualisierung 18.11.2026: Der Datenstand enthält 149 Prüfgegenstände bis zu den Musk-Kontakten und historischen Parteideutungen (01:33:20), einschließlich beider Werbeblöcke. Landessieg, PCR und aktuelle Anbieterbedingungen der Förderberatung wurden mit direkten Quellen geprüft. Spätere Wiederholungen sind teilweise zugeordnet; der restliche gelesene Text ist noch nicht vollständig erfasst.
 
 Namentliche Sprecherzuordnungen sind ausschließlich **plausibel**. Null bestätigte Personenzurechnungen bedeuten fehlende Bestätigung, nicht fehlende Aussagen. Fragen, hypothetische Beispiele, ausdrückliche Übernahmen und Wiederholungen müssen getrennt bleiben. Werbeblöcke: 00:09:45–00:11:11 und 00:41:06–00:42:23.
 

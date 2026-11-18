@@ -1,6 +1,6 @@
 # Kapitel 09: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0121: Themen bis zur PCR-Präsentation und Moderationsdebatte (01:18:04), mit einzeln ausgewiesenen späteren Wiederholungen. Weitere gelesene Abschnitte noch nicht vollständig erfasst.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0149: Themen bis zu den Musk-Kontakten und historischen Parteideutungen (01:33:20), mit einzelnen späteren Wiederholungen. Weitere gelesene Abschnitte noch nicht vollständig erfasst.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -97,7 +97,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Fundloop übernehme die gesamte Bürokratie, während das Unternehmen die Förderung erhalte.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -116,7 +116,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Anbieterbezogenes Leistungsversprechen. Öffentliche Förderregeln beweisen weder Umfang der Dienstleistung noch Vertragskosten oder verbleibende Mitwirkungspflichten.
+Der Anbieter beschreibt Unterstützung bei BSFZ-Unterlagen, belässt steuerliche Prüfung und Einreichung aber beim Steuerberater. Kundenseitige Prüfung und Kosten bleiben. Vollständige Abnahme jeder Bürokratie ist zu weit; der heutige Anbieterstand beweist nicht jeden früheren Vertragsinhalt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -126,11 +126,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [fundloop: Häufige Fragen und Leistungsabgrenzung](https://fundloop.de/de/faq) · ENTWURFREICH GmbH/fundloop; aktueller Anbieterstand am 18.11.2026, keine historische Archivfassung.
+  Quellenzugriff am 2026-11-18. Anbieter-FAQ vollständig gelesen: eigene Leistungen bei BSFZ, eigenverantwortliche steuerliche Einreichung durch Steuerberatung, keine Fördergarantie. Interessengeleitete Selbstauskunft, keine unabhängige Leistungsprüfung. Heutige Anbieter-Selbstauskunft; keine unabhängige Leistungsprüfung oder historische Vertragsbestätigung.
+
+- [fundloop: Preise](https://fundloop.de/de/preise) · ENTWURFREICH GmbH/fundloop; aktueller Anbieterstand am 18.11.2026.
+  Quellenzugriff am 2026-11-18. Preisseite gelesen, insbesondere kostenlose Ersteinschätzung, erfolgsbezogene Vergütung, monatliche Beiträge und gesonderte Steuerberatungskosten. Keine Bestätigung jedes individuellen Vertrags und keine historische Preisrekonstruktion. Heutige Anbieterpreise zeigen Vergütung und zusätzliche Steuerberatungskosten; individuelle Konditionen offen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Vertrag, Vergütung, Zuständigkeiten und notwendige Kundenmitwirkung aus Anbieterunterlagen prüfen.
+- Individuellen Vertrag und historischen Angebotsstand bei Veröffentlichung nicht als geprüft ansehen.
 
 ## mdo14671BPE-A0084
 
@@ -138,7 +142,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein unverbindlicher Erstcheck könne die Chance auf Forschungsförderung ermitteln.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -157,7 +161,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Werbeaussage zur Beratungsleistung; ein Vorabcheck ist keine amtliche Förderzusage.
+Der Anbieter bietet aktuell eine kostenlose unverbindliche Ersteinschätzung an. Ihre fachliche Güte wurde nicht unabhängig getestet; eine Förderzusage kann sie nicht ersetzen. Historischer Stand bei Aufnahme unbekannt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -167,10 +171,14 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [fundloop: Häufige Fragen und Leistungsabgrenzung](https://fundloop.de/de/faq) · ENTWURFREICH GmbH/fundloop; aktueller Anbieterstand am 18.11.2026, keine historische Archivfassung.
+  Quellenzugriff am 2026-11-18. Anbieter-FAQ vollständig gelesen: eigene Leistungen bei BSFZ, eigenverantwortliche steuerliche Einreichung durch Steuerberatung, keine Fördergarantie. Interessengeleitete Selbstauskunft, keine unabhängige Leistungsprüfung. Selbstauskunft über Einschätzung und fehlende Fördergarantie.
+
+- [fundloop: Preise](https://fundloop.de/de/preise) · ENTWURFREICH GmbH/fundloop; aktueller Anbieterstand am 18.11.2026.
+  Quellenzugriff am 2026-11-18. Preisseite gelesen, insbesondere kostenlose Ersteinschätzung, erfolgsbezogene Vergütung, monatliche Beiträge und gesonderte Steuerberatungskosten. Keine Bestätigung jedes individuellen Vertrags und keine historische Preisrekonstruktion. Anbieterangabe zur Kostenfreiheit der ersten Einschätzung am Abrufdatum.
 
 ### Offene Fragen und Unsicherheiten
 
-- Erstcheck-Bedingungen und Grenzen des Prüfungsergebnisses kontrollieren.
+- Keine praktische Prüfung der Beratungsqualität oder aller historischen Bedingungen.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

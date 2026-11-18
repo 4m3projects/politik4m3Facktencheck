@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0121: Themen bis zur PCR-Präsentation und Moderationsdebatte (01:18:04), mit einzeln ausgewiesenen späteren Wiederholungen. Weitere gelesene Abschnitte noch nicht vollständig erfasst.
+**Abdeckung: Teilbestand.** Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0149: Themen bis zu den Musk-Kontakten und historischen Parteideutungen (01:33:20), mit einzelnen späteren Wiederholungen. Weitere gelesene Abschnitte noch nicht vollständig erfasst.
 
 Stand: 2026-11-18 · Video: mdo14671BPE
 
@@ -12,35 +12,35 @@ Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete P
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 121
-- Abgeschlossen: 32
-- Offen: 75
-- In Bearbeitung: 14
-- Erfasste Behauptungsvorkommen: 137
-- Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 16
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 148
+- Abgeschlossen: 39
+- Offen: 89
+- In Bearbeitung: 20
+- Erfasste Behauptungsvorkommen: 169
+- Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 21
 - Davon bestaetigte Wiederholungen derselben Person: 0
-- Rueckfragen/Fremdbezuege/Zurueckweisungen: 1
+- Rueckfragen/Fremdbezuege/Zurueckweisungen: 2
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 1
 - Aussagen ausschliesslich mit ungeklaertem eigenem Bezug: 0
-- Nur referenzierte Aussagen ohne eigene Behauptung: 0
-- Meinungen: 6; Prognosen: 0
+- Nur referenzierte Aussagen ohne eigene Behauptung: 1
+- Meinungen: 8; Prognosen: 0
 
 Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen. Nur erneut derselben Person mit bestaetigter Zuordnung und bestaetigtem eigenem Bezug zugerechnete Vorkommen zaehlen als bestaetigte Personenwiederholung. Null bedeutet nur: im dokumentierten Datenbestand keine solchen Faelle erfasst.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 26 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 31 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 7 | 26.9 % |
-| Teilweise belegt | 6 | 23.1 % |
-| Irreführend / Kontext fehlt | 8 | 30.8 % |
-| Widerlegt | 5 | 19.2 % |
+| Belegt | 9 | 29.0 % |
+| Teilweise belegt | 8 | 25.8 % |
+| Irreführend / Kontext fehlt | 9 | 29.0 % |
+| Widerlegt | 5 | 16.1 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
-| Meinung / Prognose | 6 | nicht anwendbar |
+| Meinung / Prognose | 8 | nicht anwendbar |
 
 Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
 
@@ -51,12 +51,12 @@ Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachen
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 115. Ohne verlaessliche Personenzuordnung: 115.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 140. Ohne verlaessliche Personenzuordnung: 140.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 115; mit unsicherem eigenem Aussagebezug: 115. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 140; mit unsicherem eigenem Aussagebezug: 140. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 139, Aussagebezug 138 Vorkommen.
+- Plausibel: Sprecherzuordnung 172, Aussagebezug 171 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 1 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Prozentnenner |
@@ -81,5 +81,7 @@ Null zugeordnete Tatsachen bedeutet keine bestaetigte Zurechnung in dieser Auswa
 - [Kapitel 11](berichte/kapitel-11.md)
 - [Kapitel 12](berichte/kapitel-12.md)
 - [Kapitel 13](berichte/kapitel-13.md)
+- [Kapitel 14](berichte/kapitel-14.md)
+- [Kapitel 15](berichte/kapitel-15.md)
 - [Vorher/Nachher und vollstaendige eigene Alttexte](migration.md)
 - [Zentrale JSON-Daten](aussagen.json) · [Maschinenlesbare Statistik](statistik.json)

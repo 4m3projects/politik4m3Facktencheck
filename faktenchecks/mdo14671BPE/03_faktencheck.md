@@ -2,7 +2,7 @@
 
 Stand: 18.11.2026. Eigenständige Neuerfassung für Issue #3. Die früher im Issue genannten KI-Zahlen sind keine Grundlage unserer Bewertungen und kein Sollwert.
 
-Aktualisierung 18.11.2026: 121 Prüfgegenstände; Erfassung bis zur Moderationsdebatte nach der PCR-Präsentation bei 01:18:04. Der Landessieg 2014 und der Sonderpreis sind nun direkt belegt; medizinische und diagnostische Aussagen sind unabhängig anhand gelesener Originalpublikationen geprüft.
+Aktualisierung 18.11.2026: 149 Prüfgegenstände; Erfassung bis zu den Musk-Kontakten bei 01:33:20. Refeeding-Risiko wird anhand gelesener Fachgesellschafts-/Klinikquellen von ungesicherten individuellen Behandlungsfehlern getrennt. Die Recherche zu Förderwerbung und Twitter-Übernahme ist ergänzt.
 
 - [01 · Auftakt](strukturiert/berichte/kapitel-01.md)
 - [02 · Einreise und Schulbiografie](strukturiert/berichte/kapitel-02.md)
@@ -19,6 +19,9 @@ Aktualisierung 18.11.2026: 121 Prüfgegenstände; Erfassung bis zur Moderationsd
 - [11 · Schülerforschung](strukturiert/berichte/kapitel-11.md)
 - [12 · Medienauftritte](strukturiert/berichte/kapitel-12.md)
 - [13 · Corona-Diagnostik](strukturiert/berichte/kapitel-13.md)
+
+- [14 · Krankheit und Überwachungsvorwürfe](strukturiert/berichte/kapitel-14.md)
+- [15 · Musk-Kontakte](strukturiert/berichte/kapitel-15.md)
 
 Die eingeschränkte Verlustpufferung durch Optionsprämien ist von umfassender Sicherheit zu unterscheiden. Bei US-Reiseregeln sind allgemeine Verfahrensrisiken und individuelle Einreisesperren getrennte Fragen. Der aktuelle WDR-Bericht über einen Strafbefehl wird als Sekundärquelle ausgewiesen; ohne Originalbescheid und Aufnahmezeit darf er nicht beliebig mit der im Interview beschriebenen Verfahrenslage gleichgesetzt werden.
 

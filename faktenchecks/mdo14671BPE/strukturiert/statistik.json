@@ -1,54 +1,54 @@
 {
     "schemaVersion":  2,
     "scope":  "Teilbestand",
-    "coverageNote":  "Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0121: Themen bis zur PCR-Präsentation und Moderationsdebatte (01:18:04), mit einzeln ausgewiesenen späteren Wiederholungen. Weitere gelesene Abschnitte noch nicht vollständig erfasst.",
+    "coverageNote":  "Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0149: Themen bis zu den Musk-Kontakten und historischen Parteideutungen (01:33:20), mit einzelnen späteren Wiederholungen. Weitere gelesene Abschnitte noch nicht vollständig erfasst.",
     "videoId":  "mdo14671BPE",
     "selectedLegacyPoints":  0,
     "totalLegacyPoints":  0,
-    "statementRecords":  121,
-    "uniqueStatements":  121,
-    "referenceOnlyStatements":  0,
+    "statementRecords":  149,
+    "uniqueStatements":  148,
+    "referenceOnlyStatements":  1,
     "unresolvedRoleOnlyStatements":  0,
-    "assertionOccurrences":  137,
-    "additionalAssertionOccurrences":  16,
+    "assertionOccurrences":  169,
+    "additionalAssertionOccurrences":  21,
     "sameSpeakerRepeatedAssertionOccurrences":  0,
-    "referenceOccurrences":  1,
+    "referenceOccurrences":  2,
     "unresolvedRoleOccurrences":  1,
     "statusCounts":  {
-                         "Offen":  75,
-                         "In Bearbeitung":  14,
-                         "Abgeschlossen":  32
+                         "Offen":  89,
+                         "In Bearbeitung":  20,
+                         "Abgeschlossen":  39
                      },
     "kindCounts":  {
-                       "Tatsachenbehauptung":  115,
-                       "Meinung":  6,
+                       "Tatsachenbehauptung":  140,
+                       "Meinung":  8,
                        "Prognose":  0
                    },
-    "completedFacts":  26,
-    "openFacts":  75,
-    "inProgressFacts":  14,
-    "percentageDenominator":  26,
+    "completedFacts":  31,
+    "openFacts":  89,
+    "inProgressFacts":  20,
+    "percentageDenominator":  31,
     "percentageDenominatorDefinition":  "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
     "categories":  [
                        {
                            "category":  "Belegt",
-                           "completedCount":  7,
-                           "completedFactPercent":  26.9
+                           "completedCount":  9,
+                           "completedFactPercent":  29
                        },
                        {
                            "category":  "Teilweise belegt",
-                           "completedCount":  6,
-                           "completedFactPercent":  23.1
+                           "completedCount":  8,
+                           "completedFactPercent":  25.8
                        },
                        {
                            "category":  "Irreführend / Kontext fehlt",
-                           "completedCount":  8,
-                           "completedFactPercent":  30.8
+                           "completedCount":  9,
+                           "completedFactPercent":  29
                        },
                        {
                            "category":  "Widerlegt",
                            "completedCount":  5,
-                           "completedFactPercent":  19.2
+                           "completedFactPercent":  16.1
                        },
                        {
                            "category":  "Nicht ausreichend belegbar",
@@ -57,7 +57,7 @@
                        },
                        {
                            "category":  "Meinung / Prognose",
-                           "completedCount":  6,
+                           "completedCount":  8,
                            "completedFactPercent":  null
                        }
                    ],
@@ -147,19 +147,19 @@
                                                                  ]
                                               }
                                           ],
-                              "eligibleFacts":  115,
+                              "eligibleFacts":  140,
                               "reliablyAssignedFacts":  0,
-                              "factsWithoutReliablePerson":  115,
-                              "factsWithUncertainAttribution":  115,
-                              "factsWithUncertainOwnRole":  115,
+                              "factsWithoutReliablePerson":  140,
+                              "factsWithUncertainAttribution":  140,
+                              "factsWithUncertainOwnRole":  140,
                               "occurrenceAttributionCounts":  {
                                                                   "Bestätigt":  0,
-                                                                  "Plausibel":  139,
+                                                                  "Plausibel":  172,
                                                                   "Ungeklärt":  0
                                                               },
                               "occurrenceRoleStatusCounts":  {
                                                                  "Bestätigt":  0,
-                                                                 "Plausibel":  138,
+                                                                 "Plausibel":  171,
                                                                  "Ungeklärt":  1
                                                              }
                           }
