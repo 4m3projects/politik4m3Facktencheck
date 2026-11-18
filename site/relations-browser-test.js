@@ -121,6 +121,10 @@ async function step(name, fn) {
     assert.ok(await page.$('#mdo14671BPE-A0001'));
     assert.match(await open(urlOf(real), '#/video/mlxFA9T88I0/video'), /Video laden/);
     assert.match(await open(urlOf(real), '#/methodik'), /So prüfen wir/);
+    assert.match(await open(urlOf(real), '#/jens'), /Jens der Christ/);
+    const home = await open(urlOf(real), '#/');
+    assert.match(home, /Menschen hinter dem Projekt/);
+    assert.equal(await page.$$eval('#inhalt .roles .role', r => r.length), 1, 'nur Menschen als Karten, keine KI-Karten');
   });
 
   const B = urlOf(fix);
