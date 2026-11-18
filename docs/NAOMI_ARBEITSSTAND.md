@@ -4,6 +4,16 @@ Bearbeitet von: Codex. Aktualisierung: 18.11.2026. **Teilprüfung; vollständige
 
 Die aktuelle Nutzeranweisung zur vollständigen Übergabe wurde aus dem parallelen Codex-Chat übermittelt. Codex sichert den begonnenen Abschnitt und stellt anschließend die fachliche Weiterbearbeitung sowie eigene Merges ein. Claude übernimmt Recherche, Integration und weitere Veröffentlichungen nach den dokumentierten Nutzerfreigaben. Letzten geprüften Commit und Freigabe des Worktrees im Abschlusskommentar von Issue #3 prüfen. Kein automatischer Neustart dieses Codex-Arbeitsstrangs.
 
+## Stand nach Übernahme durch Claude (18.11.2026)
+
+Bearbeitet von: Claude. Claude trägt die Verantwortung für diesen Auftrag. Der Projektverantwortliche hat Claude erlaubt, geprüfte Teilstände bei grüner CI selbst nach `main` zu mergen.
+
+- **Kein Zugriff** auf die privaten Originaluntertitel, Audio oder Video. Neue Aussageerfassung, Wiederholungsabgleich am Text und Sprecherbestätigung sind deshalb derzeit nicht möglich. Kontextfragen stützen sich auf die Paraphrasen in `aussagen.json` und auf Codex' Präzisierungen in Issue #3 (Kommentar 6970629170).
+- Lokal steht kein PowerShell zur Verfügung. Die Artefakte erzeugt der Workflow `.github/workflows/regenerate.yml`, wenn eine Commit-Nachricht auf einem `claude/**`-Branch `[regenerate]` enthält. Er führt vorher Generator-Check, Faktencheck-Tests und Publikationsprüfung aus.
+- Die Recherchepakete 1–3 aus Issue #3 sind eingearbeitet. Abgeschlossen wurden A0039, A0041, A0060, A0063, A0064, A0065, A0185, A0188, A0191 und A0193. A0056, A0059, A0175 und A0182 haben neue Quellen erhalten, bleiben aber offen.
+
+Die folgenden Abschnitte dokumentieren Codex' Übergabestand.
+
 ## Zuständigkeit und Wiederaufnahme
 
 - Auftrag: [Issue #3](https://github.com/4m3projects/politik4m3Facktencheck/issues/3), [Erste Teilveröffentlichung PR #5](https://github.com/4m3projects/politik4m3Facktencheck/pull/5), [Folge-Draft PR #10](https://github.com/4m3projects/politik4m3Facktencheck/pull/10).
@@ -17,7 +27,7 @@ Die aktuelle Nutzeranweisung zur vollständigen Übergabe wurde aus dem parallel
 
 Zentrale Daten: [aussagen.json](../faktenchecks/mdo14671BPE/strukturiert/aussagen.json). Berichte und Statistik im Unterverzeichnis `strukturiert` ausschließlich mit dem Generator erzeugen. Eigene Einordnung und Abdeckungsregister stehen eine Ebene darüber.
 
-249 Datensätze, davon zwei reine Fremdbezüge; 247 eigenbezogene Aussagen mit 277 eigenen Vorkommen. 222 Tatsachenbehauptungen: 61 abgeschlossen, 119 offen, 42 in Bearbeitung. 25 Meinungen/Prognosen außerhalb des Tatsachennenners. Werbung ist eine enthaltene Teilmenge, keine zusätzlich zu addierende Menge.
+249 Datensätze, davon zwei reine Fremdbezüge; 247 eigenbezogene Aussagen mit 277 eigenen Vorkommen. 222 Tatsachenbehauptungen: 71 abgeschlossen, 113 offen, 38 in Bearbeitung (Stand Claude, 18.11.2026; bei Codex' Übergabe 61/119/42). 25 Meinungen/Prognosen außerhalb des Tatsachennenners. Werbung ist eine enthaltene Teilmenge, keine zusätzlich zu addierende Menge.
 
 Letzter vor diesem Folgeabschnitt bestätigter Push: `3601fcf88b980c0dde30ba2af341298361f4ad14` (59 abgeschlossene Tatsachenprüfungen). Den SHA des vorliegenden neueren Abschnitts aus dem PR/Issue und dem Git-Log ermitteln; ein Dokument kann seinen eigenen Commit-SHA nicht vorwegnehmen.
 
@@ -33,7 +43,7 @@ Private Grundlagen ausschließlich in der vom Importskript vorgesehenen externen
 
 ## Konkrete nächste Arbeit
 
-1. Codex sichert den Folgeabschnitt mit 61 abgeschlossenen Tatsachenprüfungen nach den Pflichtprüfungen und aktualisiert Draft PR #10 und Issue #3. Danach führt Claude die folgenden Aufgaben fort. Die erste Teilveröffentlichung mit 57 Abschlüssen ist bereits online; der neue Stand wird von Codex nicht mehr gemergt.
+1. Erledigt: Codex hat den Stand `6e78c26` gesichert und übergeben. Claude führt den Auftrag seit 18.11.2026 auf `claude/project-thread-a9k8oo` (PR #12) fort und hat zehn weitere Tatsachen nach eigener Quellenlektüre abgeschlossen (S084–S105).
 2. Noch offene öffentliche Angaben weiter recherchieren, zuerst A0096–A0103 (öffentliche Auftritte, Heartland, Medien), A0072–A0074 (Veröffentlichungen und Plattformgeschichte), A0001–A0005 (Alter, öffentliche Termine, behauptete Vermittlung und kostenloses Folgen), A0168 und A0210–A0231 (konkrete Verfahren und Rechtsbehauptungen). Nicht alles in einem Sammelurteil schließen.
 3. A0064 unterscheidet noch nicht sicher zwischen Kontakt zu Epstein und strafbarer Beteiligung. Originalstelle und Belege prüfen; ein Kontakt ist kein Schuldbeweis. A0059 wurde präzisiert: Der Nahkontext beschreibt die Deutung durch Q-Anhänger. Das Wahljahr bleibt offen; erste Q-Beiträge 2017 rechtfertigen ohne diese Klärung kein pauschales Urteil über eine Vorhersage.
 4. A0196 wurde nach Kontextprüfung wieder geöffnet: persönlicher Loyalitätsvorsatz und behauptete rechtliche Asylvoraussetzung sind nicht eindeutig dieselbe Aussage. Die frühere Endbewertung nicht ungeprüft wiederherstellen.
