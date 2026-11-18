@@ -4,7 +4,7 @@ Aktualisierung: 18.11.2026. Eigenständige Neuerfassung für [Issue #3](https://
 
 ## Ergebnis des bisher abgeschlossenen Teils
 
-73 einmalig gezählte Tatsachenbehauptungen sind sachlich abschließend bewertet. Die Begründungen und direkt zugeordneten Quellen stehen bei den jeweiligen Aussage-IDs. Beispiele für unterschiedliche Ergebnisse:
+81 einmalig gezählte Tatsachenbehauptungen sind sachlich abschließend bewertet. Die Begründungen und direkt zugeordneten Quellen stehen bei den jeweiligen Aussage-IDs. Beispiele für unterschiedliche Ergebnisse:
 
 - Die Schulveröffentlichungen bestätigen einzelne Wettbewerbserfolge; daraus folgt keine Bestätigung sämtlicher biografischer Leistungsangaben.
 - Die Erweiterung von § 188 im Jahr 2021 ist belegt. Die Erklärung über eine Umwandlung des früheren § 103 vermischt dagegen unterschiedliche Normen und Entwicklungen.
@@ -14,27 +14,43 @@ Aktualisierung: 18.11.2026. Eigenständige Neuerfassung für [Issue #3](https://
 - Historische Tabakspenden an Heartland sind dokumentiert. Persönliche Zahlungen an Seibt und ihr damaliger Kenntnisstand folgen daraus nicht.
 - Eine soziale Bekanntschaft Trumps mit Epstein ist vielfach dokumentiert; die Verneinung jeder Verbindung ist deshalb widerlegt. Ein Kontakt ist kein Schuldnachweis, und gegen Trump besteht in diesem Komplex kein Strafvorwurf.
 - Die AfD trat 2014 vorrangig euro- und EU-kritisch auf, ihr Europawahlprogramm enthielt aber bereits einen Abschnitt zu Einwanderung und Asyl.
+- Die Union hat seit der Bundestagswahl 2025 in Umfragen rund ein Drittel verloren, nicht die Hälfte.
 - Trusted Flagger nach dem EU-Gesetz über digitale Dienste und die Beobachtung der AfD durch den Verfassungsschutz sind belegt; die Darstellung lässt aber die EU-Rechtsgrundlage, die Entscheidung durch Plattformen und die gerichtliche Kontrolle weg.
 
-Nach erneuter Kontextprüfung bleibt A0196 zum Loyalitätsbekenntnis in Bearbeitung: Ein persönlicher Vorsatz darf nicht ohne sichere Auslegung als behauptete gesetzliche Pflicht bewertet werden.
+A0196 zum Loyalitätsbekenntnis bleibt offen: Ein persönlicher Vorsatz darf nicht ohne Kontrolle der Originalstelle als behauptete gesetzliche Pflicht bewertet werden.
 
-Zwölf dieser Abschlüsse (A0039, A0041, A0060, A0063–A0065, A0109, A0185, A0188, A0191, A0193, A0231) hat Claude nach Übernahme des Auftrags am 18.11.2026 auf Grundlage eigener Quellenlektüre ergänzt. Claude hatte dabei keinen Zugriff auf die Originaluntertitel; maßgeblich waren die vorhandenen Paraphrasen und Codex' Kontextpräzisierungen in Issue #3.
+Zwanzig dieser Abschlüsse (A0001, A0039, A0041, A0060, A0063–A0065, A0074, A0109, A0175, A0178, A0182, A0185, A0188, A0191, A0193, A0198, A0223, A0231, A0246) hat Claude nach Übernahme des Auftrags am 18.11.2026 auf Grundlage eigener Quellenlektüre ergänzt. Claude hatte dabei keinen Zugriff auf die Originaluntertitel; maßgeblich waren die vorhandenen Paraphrasen und Codex' Kontextpräzisierungen in Issue #3.
 
 Dies sind eigene Zusammenfassungen der unten verlinkten Einzelprüfungen, keine Gesamtbewertung einer Person. Private Behandlungs-, Aufenthalts- und Kostenberichte bleiben ohne passende Einzelfallunterlagen offen; fehlende Bestätigung bedeutet nicht falsch.
 
+## Nicht überprüfbare Aussagen
+
+Nach Abschluss der öffentlichen Recherche am 18.11.2026 bleiben 129 eigenbezogene Tatsachenbehauptungen offen. Sie sind nicht bewertet, weil sie sich nicht überprüfen lassen; es wird nichts geraten. Jeder Datensatz nennt in seiner Begründung den konkreten Grund:
+
+| Grund | Anzahl |
+|---|---:|
+| Persönliche Darstellung (Biografie, Familie, Gesundheit, Ausbildung) | 46 |
+| Nicht öffentlicher Vorgang (Verfahren, Behörden, Verträge, private Nachrichten) | 37 |
+| Grundsätzlich prüfbar, aber keine zugängliche Quelle gefunden | 20 |
+| Behauptung über Dritte ohne Beleg | 12 |
+| Zu unbestimmt für eine Sachprüfung | 11 |
+| Originalstelle ohne Untertitel- oder Audiokontrolle nicht sicher bestimmbar | 3 |
+
+Zwei weitere nicht überprüfbare Einträge sind reine Fremdbezüge und zählen nicht zu den eigenbezogenen Aussagen. „Nicht überprüfbar“ heißt nicht falsch. Zwölf Aussagen, die bei genauer Betrachtung Wertungen, Deutungen oder Motivunterstellungen sind, wurden als Meinung eingeordnet und fließen nicht in die Tatsachenstatistik ein.
+
 ## Vorläufige Statistik des erfassten Teilbestands
 
-Verbindliche Berechnung: [generierte Statistik](strukturiert/statistik.json) und [Erläuterung](strukturiert/README.md). Die folgenden Zahlen geben diesen Datenstand wieder. Der Prozentnenner umfasst ausschließlich die 73 abgeschlossenen Tatsachenbehauptungen mit mindestens einem eigenen, bestätigten oder plausiblen Aussagebezug. Offene Aussagen, Meinungen, Prognosen und reine Fremdbezüge sind ausgeschlossen. Die Sprecheridentität ist davon unabhängig noch unbestätigt.
+Verbindliche Berechnung: [generierte Statistik](strukturiert/statistik.json) und [Erläuterung](strukturiert/README.md). Die folgenden Zahlen geben diesen Datenstand wieder. Der Prozentnenner umfasst ausschließlich die 81 abgeschlossenen Tatsachenbehauptungen mit mindestens einem eigenen, bestätigten oder plausiblen Aussagebezug. Offene Aussagen, Meinungen, Prognosen und reine Fremdbezüge sind ausgeschlossen. Die Sprecheridentität ist davon unabhängig noch unbestätigt.
 
-| Sachbewertung | Anzahl | Anteil an 73 abgeschlossenen Tatsachen |
+| Sachbewertung | Anzahl | Anteil an 81 abgeschlossenen Tatsachen |
 |---|---:|---:|
-| Belegt | 23 | 31,5 % |
-| Teilweise belegt | 17 | 23,3 % |
-| Irreführend / Kontext fehlt | 18 | 24,7 % |
-| Widerlegt | 13 | 17,8 % |
-| Nicht ausreichend belegbar | 2 | 2,7 % |
+| Belegt | 26 | 32,1 % |
+| Teilweise belegt | 20 | 24,7 % |
+| Irreführend / Kontext fehlt | 18 | 22,2 % |
+| Widerlegt | 13 | 16,0 % |
+| Nicht ausreichend belegbar | 4 | 4,9 % |
 
-Diese Verteilung beschreibt weder alle Tatsachenbehauptungen noch das ganze Interview. Von 222 eigenbezogenen Tatsachenbehauptungen sind 109 offen und 40 in Bearbeitung. Weitere 25 Einträge sind Meinungen oder Prognosen. Zwei der 249 Datensätze enthalten ausschließlich fremdbezogene Inhalte und zählen nicht zu den 247 eigenbezogenen Aussagen.
+Diese Verteilung beschreibt weder alle Tatsachenbehauptungen noch das ganze Interview. Von 210 eigenbezogenen Tatsachenbehauptungen sind 129 als nicht überprüfbar offen, keine ist mehr in Bearbeitung. Weitere 37 Einträge sind Meinungen oder Prognosen. Zwei der 249 Datensätze enthalten ausschließlich fremdbezogene Inhalte und zählen nicht zu den 247 eigenbezogenen Aussagen.
 
 277 eigene Aussagevorkommen gehören zu diesen 247 Aussagen; 30 zusätzliche Vorkommen sind daher keine neuen Aussagen. Hinzu kommen vier referierende Vorkommen und ein Vorkommen mit ungeklärtem Aussagebezug. Zusätzliche Vorkommen können Übernahmen oder Wiederaufnahmen sein. Sie sind bei unbestätigter Identität nicht automatisch bestätigte Wiederholungen derselben Person.
 

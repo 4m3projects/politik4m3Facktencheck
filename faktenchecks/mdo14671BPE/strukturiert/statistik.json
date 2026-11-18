@@ -15,49 +15,49 @@
   "referenceOccurrences": 4,
   "unresolvedRoleOccurrences": 1,
   "statusCounts": {
-    "Offen": 109,
-    "In Bearbeitung": 40,
-    "Abgeschlossen": 98
+    "Offen": 129,
+    "In Bearbeitung": 0,
+    "Abgeschlossen": 118
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 222,
-    "Meinung": 14,
+    "Tatsachenbehauptung": 210,
+    "Meinung": 26,
     "Prognose": 11
   },
-  "completedFacts": 73,
-  "openFacts": 109,
-  "inProgressFacts": 40,
-  "percentageDenominator": 73,
+  "completedFacts": 81,
+  "openFacts": 129,
+  "inProgressFacts": 0,
+  "percentageDenominator": 81,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 23,
-      "completedFactPercent": 31.5
+      "completedCount": 26,
+      "completedFactPercent": 32.1
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 17,
-      "completedFactPercent": 23.3
+      "completedCount": 20,
+      "completedFactPercent": 24.7
     },
     {
       "category": "Irreführend / Kontext fehlt",
       "completedCount": 18,
-      "completedFactPercent": 24.7
+      "completedFactPercent": 22.2
     },
     {
       "category": "Widerlegt",
       "completedCount": 13,
-      "completedFactPercent": 17.8
+      "completedFactPercent": 16.0
     },
     {
       "category": "Nicht ausreichend belegbar",
-      "completedCount": 2,
-      "completedFactPercent": 2.7
+      "completedCount": 4,
+      "completedFactPercent": 4.9
     },
     {
       "category": "Meinung / Prognose",
-      "completedCount": 25,
+      "completedCount": 37,
       "completedFactPercent": null
     }
   ],
@@ -147,11 +147,11 @@
         ]
       }
     ],
-    "eligibleFacts": 222,
+    "eligibleFacts": 210,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 222,
-    "factsWithUncertainAttribution": 222,
-    "factsWithUncertainOwnRole": 222,
+    "factsWithoutReliablePerson": 210,
+    "factsWithUncertainAttribution": 210,
+    "factsWithUncertainOwnRole": 210,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
       "Plausibel": 282,

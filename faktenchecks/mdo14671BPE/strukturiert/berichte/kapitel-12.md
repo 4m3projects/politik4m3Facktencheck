@@ -29,13 +29,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Einzelfallbericht ohne geprüfte Moderationsmitteilung; heutige allgemeine Einspruchsregeln bestätigen den damaligen Vorgang nicht.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Einzelfallbericht ohne geprüfte Moderationsmitteilung; heutige allgemeine Einspruchsregeln bestätigen den damaligen Vorgang nicht.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -45,13 +45,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Entfernungsdatum, Grund und Wiederherstellung anhand zeitgenössischer Unterlagen bestätigen.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0098
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe im November 2019 bei einer EIKE-Veranstaltung gesprochen und sei dort mit Heartland in Kontakt gekommen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -70,13 +72,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Heartland bestätigt einen späteren Auftritt in Madrid und die Zusammenarbeit. Der konkrete erste Kontakt, Monat, Ort und Vermittlungsweg sind damit nicht vollständig verifiziert.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Heartland bestätigt einen späteren Auftritt in Madrid und die Zusammenarbeit. Der konkrete erste Kontakt, Monat, Ort und Vermittlungsweg sind damit nicht vollständig verifiziert.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -89,6 +91,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Originalprogramm der Novemberveranstaltung und unabhängige Bestätigung des Kontaktwegs finden.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0099
 
@@ -115,13 +119,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Negativbehauptung über fremde Vergütung; keine Vertrags- oder Zahlungsgrundlage gelesen.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Negativbehauptung über fremde Vergütung; keine Vertrags- oder Zahlungsgrundlage gelesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -131,13 +135,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Keine Unentgeltlichkeit aus fehlenden öffentlichen Zahlungsbelegen ableiten.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0100
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Bezeichnung als Gegenfigur zu Greta Thunberg sei von Medien und nicht von Seibt selbst eingeführt worden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -156,13 +162,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Erstverwendung und spätere institutionelle Vermarktung sind verschiedene Fragen; keine vollständige historische Erstrecherche erfolgt.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Erstverwendung und spätere institutionelle Vermarktung sind verschiedene Fragen; keine vollständige historische Erstrecherche erfolgt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -173,13 +179,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 - Frühesten datierten Mediengebrauch und damalige Selbst-/Heartland-Darstellung vergleichen.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0101
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Washington Post habe Seibt mit einem zunächst fairen Porträt groß herausgestellt und später aus redaktioneller Panik negativ berichtet.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -198,17 +206,18 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Porträt, Platzierung und spätere Beiträge sind prüfbar; behauptete innere Motive der Redaktion benötigen eigene Belege.
+Belegt ist, dass die Washington Post Seibt im Februar 2020 porträtierte und dafür kritisiert wurde, ihr eine Plattform zu geben. Ob das Porträt fair war und ob spätere Berichte aus redaktioneller Panik entstanden, ist eine Bewertung bzw. eine Motivunterstellung und nicht prüfbar. Von Claude am 18.11.2026 als Meinung bzw. Deutung eingeordnet.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Washington Post Amplifies Climate Change Denialism From Noted Propaganda Factory](https://www.vice.com/en/article/n7j4dm/washington-post-amplifies-climate-change-denialism-from-noted-propaganda-factory) · VICE, Karl Bode · 24.02.2020; kritischer Kommentar zu einem Washington-Post-Porträt Seibts vom 23.02.2020.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; den Post-Artikel selbst nicht gelesen. Keine Quellenkopie veröffentlicht. Post-Porträt vom 23.02.2020 und Kritik daran; keine Aussage zu späteren Post-Berichten.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -338,13 +347,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Privater medizinischer Bericht; keine Diagnose oder Behandlungsakte gelesen. Keine Bewertung des Wahrheitsgehalts aus dem Aussehen in Medienbildern.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Privater medizinischer Bericht; keine Diagnose oder Behandlungsakte gelesen. Keine Bewertung des Wahrheitsgehalts aus dem Aussehen in Medienbildern.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -353,6 +362,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Öffentliche Einzelfallverifikation bleibt ohne freiwillig zugängliche Unterlagen begrenzt.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0105
 
@@ -379,13 +390,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Verlauf und kausale Erklärung sind getrennt; zeitliche Folge beweist keine medizinische Ursache.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Verlauf und kausale Erklärung sind getrennt; zeitliche Folge beweist keine medizinische Ursache.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -395,13 +406,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Diagnostische Grundlage und fachliche Kausalitätsbewertung fehlen.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0106
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibts YouTube-Kanal sei 2020 wegen impfkritischer Inhalte dauerhaft abgeschaltet worden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -420,13 +433,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eine Kanallöschung wegen COVID-19-Inhalten ist berichtet, nach dem gelesenen Bericht aber Anfang Mai 2021 und nicht 2020. Ob die beanstandeten Videos impfkritisch waren und ob die Abschaltung dauerhaft blieb, sagt die Quelle nicht; A0142 behauptet eine Wiederherstellung 2024.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Eine Kanallöschung wegen COVID-19-Inhalten ist berichtet, nach dem gelesenen Bericht aber Anfang Mai 2021 und nicht 2020. Ob die beanstandeten Videos impfkritisch waren und ob die Abschaltung dauerhaft blieb, sagt die Quelle nicht; A0142 behauptet eine Wiederherstellung 2024.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -436,5 +449,7 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Zeitpunkt (2020 oder 2021), Inhalt der beanstandeten Videos und Dauer der Sperre mit einer zweiten, möglichst neutralen Quelle klären; Zusammenhang mit A0142.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

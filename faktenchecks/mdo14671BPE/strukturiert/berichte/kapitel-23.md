@@ -148,7 +148,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das Wiedergeben von Kriminalitätsstatistiken könne in Deutschland bereits als solches nicht erlaubt sein.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -167,13 +167,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der benannte Einzelfall ist nicht identifiziert. § 130 knüpft an Tatbestandsvoraussetzungen und Kontext an, nicht an ein abstraktes Verbot jeder Statistik.
+Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Der benannte Einzelfall ist nicht identifiziert. § 130 knüpft an Tatbestandsvoraussetzungen und Kontext an, nicht an ein abstraktes Verbot jeder Statistik.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -183,6 +183,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Konkreten Fall, vollständige Darstellung, Kontext und Gerichtsentscheidung identifizieren.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – zu unbestimmt gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0229
 
@@ -235,7 +237,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine Äußerung aus den USA falle grundsätzlich erst durch Bens deutschen Upload in den Anwendungsbereich deutschen Strafrechts.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -254,13 +256,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Auslandsäußerung, Staatsangehörigkeit, Tatort und Weiterverbreitung haben jeweils eigene Anknüpfungen. Die gelesenen Normen rechtfertigen kein abschließendes Urteil über die konkrete Aufnahme.
+Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Auslandsäußerung, Staatsangehörigkeit, Tatort und Weiterverbreitung haben jeweils eigene Anknüpfungen. Die gelesenen Normen rechtfertigen kein abschließendes Urteil über die konkrete Aufnahme.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -273,6 +275,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Weitere Anwendungsnormen und Rechtsprechung zum konkreten Delikt prüfen; keine pauschale US-Immunität oder automatische Upload-Strafbarkeit annehmen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – zu unbestimmt gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0231
 
@@ -305,7 +309,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 

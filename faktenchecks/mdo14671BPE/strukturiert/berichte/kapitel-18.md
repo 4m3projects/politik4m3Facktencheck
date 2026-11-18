@@ -96,7 +96,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Oliver Janich sei nach Jahren auf den Philippinen auf deutsches Betreiben inhaftiert und später freigelassen worden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -128,13 +128,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der zeitgenössische Lokalbericht nennt eine philippinische Festnahme am 17.08.2022, einen Münchner Haftbefehl und Kooperation mit der deutschen Botschaft. Ein Verteidigungsschriftsatz beschreibt deutsche Mitwirkung. Damit ist ein deutscher Strafverfolgungsbezug gestützt; persönliche Regierungssteuerung und späterer Gesamtverlauf sind nicht abschließend geprüft.
+Belegt ist die Festnahme am 17.08.2022 auf den Philippinen auf Grundlage eines Münchner Haftbefehls und in Abstimmung mit der deutschen Botschaft; eine Verurteilung in Deutschland 2022 nennt die Tertiärquelle. Die Freilassung am 20.01.2023 nach 174 Tagen Abschiebehaft stützt sich nur auf eine Pressemitteilung der Verteidigung, die ein meinungsbetonter Blog wiedergibt. Wie viele Jahre Janich vorher auf den Philippinen lebte, ist nicht belegt. Eine persönliche Steuerung durch die Bundesregierung ist nicht belegt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -150,9 +150,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 - [Germany's 'Biggest QAnon Mouthpiece' Arrested in the Philippines](https://vice.com/en/article/oliver-janich-germany-philippines) · VICE, T. Hume, JC Gotinga · 18.08.2022; Festnahme in Abstimmung mit der deutschen Botschaft.
   Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Festnahme in Abstimmung mit der deutschen Botschaft; nichts zur Freilassung.
 
+- [Oliver Janich](https://en.wikipedia.org/wiki/Oliver_Janich) · Wikipedia (englisch), ohne Datum; Tertiärquelle: Festnahme August 2022 in Romblon, Verurteilung in Deutschland 2022.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; nichts zur Freilassung. Keine Quellenkopie veröffentlicht. Festnahme August 2022, Verurteilung in Deutschland 2022; nichts zur Freilassung.
+
+- [Deutscher Journalist und Aktivist Oliver Janich auf Philippinen freigelassen](https://tkp.at/2023/01/23/deutscher-journalist-und-aktivist-oliver-janich-auf-philippinen-freigelassen/) · tkp.at, Andrea Drescher · 23.01.2023; meinungsbetonter Blog, gibt eine Pressemitteilung der Verteidigungskanzlei wieder.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; nur für die von der Verteidigung mitgeteilte Freilassung verwendet. Keine Quellenkopie veröffentlicht. Freilassung 20.01.2023 laut Pressemitteilung der Verteidigung; parteiische Quelle.
+
 ### Offene Fragen und Unsicherheiten
 
-- Deutschen Haftbefehl, philippinische Originalentscheidungen, Freilassung und behauptete Regierungssteuerung gesondert verifizieren.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0176
 
@@ -242,7 +248,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Merz habe die Größe oder Unterstützung seiner Partei halbiert.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -261,20 +267,24 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Unklar, ob Umfragewerte, Mitglieder, Wählerschaft oder politische Handlungsfähigkeit gemeint sind. Kein Ausgangsdatum oder Nenner genannt.
+Die Union hat seit der Bundestagswahl im Februar 2025 (laut Bericht 28,5 %) in Umfragen deutlich verloren: 25 % im Februar 2026, 18 % im Oktober 2026. Das ist ein Verlust von rund einem Drittel, keine Halbierung. Umfragen sind keine Wahlergebnisse, und der Aufnahmetermin ist unbekannt. Belegt ist ein starker Rückgang, nicht die Halbierung; die Zurechnung allein zu Merz ist eine Wertung.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [YouGov Sonntagsfrage Februar 2026](https://yougov.com/de-de/artikel/54069-yougov-sonntagsfrage-februar-2026-zustimmung-zur-union-bleibt-unter-bundestagswahl-ergebnis-zufriedenheit-mit-bundesregierung-auf-tiefstand) · YouGov, Frieder Schmid · 10.02.2026; Union 25 %, mehr als drei Punkte unter dem Wahlergebnis 2025.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen. Keine Quellenkopie veröffentlicht. Union 25 % im Februar 2026, mehr als drei Punkte unter der Wahl.
+
+- [CDU hits new low in polls as Bavarian voters question Merz's leadership](https://brusselssignal.eu/2026/10/cdu-hits-new-low-in-polls-as-bavarian-voters-question-merzs-leadership/) · Brussels Signal, Carl Deconinck · 21.10.2026; Union 18 % (Pollytix und YouGov), Wahlergebnis 2025 laut Bericht 28,5 %.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; Umfrage- und Wahlzahlen nicht gegen die Originale geprüft. Keine Quellenkopie veröffentlicht. Union 18 % im Oktober 2026; Wahlergebnis 2025 laut Bericht 28,5 %.
 
 ### Offene Fragen und Unsicherheiten
 
-- Bezugsgröße, Zeitraum und Originaldaten bestimmen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

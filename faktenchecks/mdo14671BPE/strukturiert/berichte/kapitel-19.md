@@ -29,13 +29,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Numerischer Programmvergleich ohne benannten Korpus, Zählmethode und Datum. Themenähnlichkeit belegt keinen quantifizierten Anteil oder eine Kopierhandlung.
+Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Numerischer Programmvergleich ohne benannten Korpus, Zählmethode und Datum. Themenähnlichkeit belegt keinen quantifizierten Anteil oder eine Kopierhandlung.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -45,13 +45,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Programme und transparente Codierung mit eigenständigen Vergleichseinheiten prüfen.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – zu unbestimmt gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0180
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** CDU-Wähler wollten im Wesentlichen AfD-Politik, vermieden aber aus Angst vor Stigmatisierung die AfD.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -70,13 +72,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Pauschale Wählermotivbehauptung. Individuelle Wahlmotive und gesellschaftliche Wahrnehmung benötigen repräsentative Daten; kein Wahlpsychologie-Nachweis gelesen.
+Deutung von Wählermotiven. Umfragen können einzelne Positionen messen; dass Angst vor Stigmatisierung der Hauptgrund ist, ist eine Interpretation ohne gelesene Datengrundlage. Von Claude am 18.11.2026 als Meinung bzw. Deutung eingeordnet.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -134,7 +136,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Merkels Vater sei aus sozialistischer Überzeugung und wegen erwarteter Privilegien in die DDR gezogen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -153,13 +155,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Beruflicher Wechsel, politische Orientierung und konkrete Umzugsmotive sind eigenständig. Die gelesene offizielle Tochterbiografie erklärt diese Motive nicht.
+Nach der Tertiärquelle zog Kasner 1954 auf Wunsch des Hamburger Jugendpfarrers Hans-Otto Wölber in die DDR, weil dort Pfarrer fehlten; eine kirchliche Vermittlung solcher Wechsel beschreibt auch der Fachbeitrag. Später hatte er Privilegien wie Westreisen. Für eine sozialistische Überzeugung als Umzugsmotiv oder für schon damals erwartete Privilegien hat Claude keinen Beleg gefunden; die dokumentierten Umstände sprechen für einen kirchlichen Anlass.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -169,9 +171,12 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 - [Gegen den Strom. Warum Theologen in den fünfziger Jahren in die DDR gingen](https://www.evangelisch.de/inhalte/132027/29-02-2016/warum-theologen-den-fuenfziger-jahren-von-der-bundesrepublik-die-ddr-gingen) · evangelisch.de, Claudia Lepp · 29.02.2016; kirchliche Vermittlung und Motive übergesiedelter Theologen allgemein, Kasner nur namentlich.
   Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Kirchliche Vermittlung; Theologen nannten meist kirchliche Motive. Kasner nur namentlich, kein individueller Motivbeleg.
 
+- [Horst Kasner](https://en.wikipedia.org/wiki/Horst_Kasner) · Wikipedia (englisch), ohne Datum; Tertiärquelle: Umzug 1954 auf Wunsch von Hans-Otto Wölber wegen Pfarrermangels (ohne Fußnote), spätere Privilegien (Fußnote Guardian 2005).
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen. Keine Quellenkopie veröffentlicht. Umzug auf Wunsch Wölbers wegen Pfarrermangels (ohne Fußnote); spätere Privilegien.
+
 ### Offene Fragen und Unsicherheiten
 
-- Zeitgenössische Quellen zu Horst Kasners Tätigkeit und dokumentierten Motiven prüfen; nicht von Wohnort auf Stasi-Nähe schließen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0183
 
@@ -179,7 +184,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein grenznaher Wohnort Merkels zeige eine für Stasi-Personal typische privilegierte Stellung.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -198,13 +203,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Wohnort, tatsächliche Grenznähe, historische Wohnregeln und Schlussfolgerung sind getrennte Prüfgegenstände. Kein konkreter Register- oder Privilegiennachweis gelesen.
+Schlussfolgerung von einem nicht näher bestimmten Wohnort auf eine für Stasi-Personal typische Privilegierung; eine Deutung ohne Beleg. Von Claude am 18.11.2026 als Meinung bzw. Deutung eingeordnet.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -252,13 +257,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Identität, Nähe zu Vance, eigene historische Kenntnis und mitgeteilte Einschätzung sind nicht unabhängig bestätigt. Eine Fremdvermutung ist kein Sachbeweis für Merkels Tätigkeit.
+Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Die Identität, Nähe zu Vance, eigene historische Kenntnis und mitgeteilte Einschätzung sind nicht unabhängig bestätigt. Eine Fremdvermutung ist kein Sachbeweis für Merkels Tätigkeit.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -267,6 +272,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Überprüfbare Herkunft und eigenständige Belege der These fehlen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0185
 
@@ -482,13 +489,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Unbenannte Personen- und Funktionsbehauptung mit erheblichem Vorwurfsgehalt. Keine Person, Entscheidung oder heutige Tätigkeit eindeutig identifiziert.
+Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Unbenannte Personen- und Funktionsbehauptung mit erheblichem Vorwurfsgehalt. Keine Person, Entscheidung oder heutige Tätigkeit eindeutig identifiziert.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -497,6 +504,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Gemeinte Person, damalige Befehlsverantwortung und gegenwärtiges Amt jeweils aus Originalquellen feststellen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0190
 
@@ -523,21 +532,24 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Buchpassage und Kontext wurden nicht gelesen. Eine Aussage über individuelles Glück wäre kein Beweis der Zustimmung zu Diktatur oder Geheimdiensttätigkeit.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Buchpassage und Kontext wurden nicht gelesen. Eine Aussage über individuelles Glück wäre kein Beweis der Zustimmung zu Diktatur oder Geheimdiensttätigkeit.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Angela Merkel: Freiheit. Erinnerungen 1954–2021](https://www.perlentaucher.de/buch/angela-merkel/freiheit.html) · Perlentaucher · Rezensionsnotizen zum Buch (erschienen 26.11.2024).
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen; das Buch selbst nicht gelesen. Keine Quellenkopie veröffentlicht. Rezensionsnotizen: schöne Kindheit trotz Hindernissen durch das Regime; keine Aussage zu Glück in unfreier Gesellschaft.
 
 ### Offene Fragen und Unsicherheiten
 
 - Betroffene Passage im Original mit Kontext prüfen; keine fremden Textpassagen veröffentlichen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0191
 

@@ -93,7 +93,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Tommy Robinson sei zuletzt zum dritten Mal als Terrorist ohne tatsächlichen Grund festgenommen worden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -112,13 +112,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zahl, Anlass und rechtlicher Status der angeblich letzten Festnahme sind unbestimmt. Das gelesene Urteil dokumentiert eine frühere Haft wegen Verstoßes gegen eine gerichtliche Anordnung und klärt nicht jede spätere Festnahme.
+Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Zahl, Anlass und rechtlicher Status der angeblich letzten Festnahme sind unbestimmt. Das gelesene Urteil dokumentiert eine frühere Haft wegen Verstoßes gegen eine gerichtliche Anordnung und klärt nicht jede spätere Festnahme.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -129,13 +129,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 - Gemeinte aktuelle Festnahme mit Datum und Ermittlungsgrund identifizieren; frühere Contempt-Haft nicht als Terrorismusurteil bezeichnen.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0211
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Robinson sei bewusst mit feindlich gesinnten islamistischen Häftlingen untergebracht worden, um ihn zu gefährden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -154,13 +156,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das Berufungsgericht beschreibt für die Haft 2024/2025 eine reale Bedrohung und Absonderung zum eigenen Schutz. Diese gerichtliche Darstellung stützt den Gefährdungskern, liefert aber keinen Beleg für absichtliche staatliche Herbeiführung der Bedrohung. Das Gespräch nennt keinen bestimmten früheren Haftaufenthalt. Die Aussage über Vorsatz bleibt deshalb offen; der gelesene Gerichtsbericht darf nicht auf sämtliche Haftzeiten übertragen werden.
+Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Das Berufungsgericht beschreibt für die Haft 2024/2025 eine reale Bedrohung und Absonderung zum eigenen Schutz. Diese gerichtliche Darstellung stützt den Gefährdungskern, liefert aber keinen Beleg für absichtliche staatliche Herbeiführung der Bedrohung. Das Gespräch nennt keinen bestimmten früheren Haftaufenthalt. Die Aussage über Vorsatz bleibt deshalb offen; der gelesene Gerichtsbericht darf nicht auf sämtliche Haftzeiten übertragen werden.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -173,6 +175,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Welcher Haftaufenthalt ist gemeint? Unabhängige Kontrollberichte und konkrete Belege für staatlichen Gefährdungsvorsatz fehlen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0212
 
@@ -222,7 +226,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Deutsche Behörden suchten gezielt besonders intelligente politische Gegner aus, um gegen sie vorzugehen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -254,13 +258,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Verallgemeinerte Motiv- und Auswahlbehauptung ohne definierte Auswahlgesamtheit. Biografische Einzelfälle bestätigen keinen solchen behördlichen Mechanismus.
+Unterstellung einer gezielten Auswahl politischer Gegner nach Intelligenz; Motive von Behörden lassen sich so nicht prüfen, eine Quelle für ein solches Vorgehen gibt es nicht. Von Claude am 18.11.2026 als Meinung bzw. Deutung eingeordnet.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -336,13 +340,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Konkrete Siegmund-Aussage und pauschale Position der gesamten Partei sind unterschiedliche Prüfgegenstände. Originalauftritt und bindende Parteibeschlüsse ungeprüft.
+Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Konkrete Siegmund-Aussage und pauschale Position der gesamten Partei sind unterschiedliche Prüfgegenstände. Originalauftritt und bindende Parteibeschlüsse ungeprüft.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -352,13 +356,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Originalaussage und gültige Parteibeschlüsse abgleichen; persönliche Überzeugung nicht automatisch Parteibeschluss.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – zu unbestimmt gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0216
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die deutsche Justiz sei institutionell unabhängig, zugleich aber weitgehend von links beziehungsweise totalitären Kräften vereinnahmt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -377,13 +383,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Rechtsprinzip der Unabhängigkeit und empirischer Vorwurf institutioneller Vereinnahmung müssen getrennt belegt werden. Beides folgt nicht aus Unzufriedenheit mit Einzelurteilen.
+Wertende Gesamteinschätzung der Justiz. Die institutionelle Unabhängigkeit ist rechtlich verankert; die behauptete Vereinnahmung ist eine politische Wertung. Von Claude am 18.11.2026 als Meinung bzw. Deutung eingeordnet.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -418,13 +424,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Diese zusätzliche Tatsachenbehauptung wird von der subjektiven Bewertung seines Humors getrennt. Das Gespräch nennt keine konkrete Verbindung, Organisation oder Untersuchung. Der gelesene Behördenbericht enthält keinen umfassenden Nachweis des Fehlens sämtlicher Auslandsverbindungen; aus einer Nichtnennung folgt keine Bestätigung.
+Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Diese zusätzliche Tatsachenbehauptung wird von der subjektiven Bewertung seines Humors getrennt. Das Gespräch nennt keine konkrete Verbindung, Organisation oder Untersuchung. Der gelesene Behördenbericht enthält keinen umfassenden Nachweis des Fehlens sämtlicher Auslandsverbindungen; aus einer Nichtnennung folgt keine Bestätigung.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -433,5 +439,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Welche konkrete Art und welcher Zeitraum von Auslandsverbindungen sind gemeint? Keine geeignete vollständige Einzelfallgrundlage geprüft.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

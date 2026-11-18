@@ -29,13 +29,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Autobiografische Angabe; kein unabhängiger Immatrikulations- oder Studienzeitnachweis gelesen.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Autobiografische Angabe; kein unabhängiger Immatrikulations- oder Studienzeitnachweis gelesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -44,6 +44,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Studiengang und Zeitraum nur mit freiwillig zugänglichen Belegen bestätigen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0067
 
@@ -180,7 +182,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Heutige Sozialleistungsbeziehende lebten generell besser als wohlhabende Menschen vor rund 200 Jahren.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -199,13 +201,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Lebensstandard ist mehrdimensional; medizinische Versorgung, materielle Güter, relative Stellung und Lebensrisiken können zu unterschiedlichen Vergleichen führen.
+Ob jemand besser lebt, hängt vom Maßstab ab (Gesundheit, Konsum, Status, Freiheit). Einzelne Indikatoren wie Lebenserwartung ließen sich prüfen, die Gesamtaussage ist eine Wertung. Von Claude am 18.11.2026 als Meinung bzw. Deutung eingeordnet.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -307,7 +309,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Molyneux habe Peterson, Milo Yiannopoulos und Alex Jones interviewt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -326,13 +328,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eine Verbindung zu Alex Jones ist belegt, allerdings als Auftritt Molyneux' in Jones' Sendung ab 2011, nicht ausdrücklich als von Molyneux geführtes Interview. Für Gespräche mit Jordan Peterson und Milo Yiannopoulos liegt bisher keine gelesene Quelle vor; die gelesene Interview-Zeitleiste 2015–2017 nennt beide nicht.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Eine Verbindung zu Alex Jones ist belegt, allerdings als Auftritt Molyneux' in Jones' Sendung ab 2011, nicht ausdrücklich als von Molyneux geführtes Interview. Für Gespräche mit Jordan Peterson und Milo Yiannopoulos liegt bisher keine gelesene Quelle vor; die gelesene Interview-Zeitleiste 2015–2017 nennt beide nicht.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -343,13 +345,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 - Primär- oder Sekundärnachweise für Molyneux-Gespräche mit Peterson und Yiannopoulos (Episodenlisten, zeitgenössische Berichte) suchen.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0074
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Peterson habe schon 2017 oder 2018 ein später als Peterson Academy bezeichnetes Hochschulkonzept besprochen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -368,21 +372,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Frühe Idee und spätere Institution sind nicht gleichzusetzen; die konkrete Sendung ist ungeprüft.
+Peterson sprach im Sommer 2017 öffentlich in Interviews und Vorlesungen über eine geplante Online-Universität als günstige Alternative zu herkömmlichen Hochschulen. Der Bericht von 2017 nennt den späteren Namen Peterson Academy naturgemäß nicht; die Verbindung zum späteren Angebot ist eine naheliegende Zuordnung.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Professor Jordan Peterson wants to create online university](https://thevarsity.ca/2017/09/18/professor-jordan-peterson-wants-to-create-online-university/) · The Varsity (Studierendenzeitung der University of Toronto) · 18.09.2017 laut Adresse; Petersons öffentliche Pläne aus dem Sommer 2017.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 als Textfassung gelesen (ohne Titel- und Autorzeile). Keine Quellenkopie veröffentlicht. Pläne für eine Online-Universität im Sommer 2017.
 
 ### Offene Fragen und Unsicherheiten
 
-- Historisches Gespräch auffinden und damaliges Konzept von späterer Anbietergründung trennen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0075
 

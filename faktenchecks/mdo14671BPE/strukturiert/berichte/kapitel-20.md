@@ -71,13 +71,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Breite Negativbehauptung über persönliche Kontakte, die nach Rückfragen zudem eingegrenzt wird. Kein vollständiger Kontaktbestand geprüft.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Breite Negativbehauptung über persönliche Kontakte, die nach Rückfragen zudem eingegrenzt wird. Kein vollständiger Kontaktbestand geprüft.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -87,13 +87,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Geltungsbereich nicht über politische Funktionskontakte hinaus ausdehnen; keine umfassende Abwesenheitsprüfung behaupten.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0196
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt verbindet eine mögliche Asylbewilligung mit einem künftigen Loyalitätsbekenntnis gegenüber den USA.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -112,13 +114,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Textstelle kann einen persönlichen Vorsatz und eine allgemeine Erwartung ausdrücken. Ob zusätzlich eine rechtliche Voraussetzung behauptet wird, ist ohne Originalkontrolle nicht eindeutig. Die gelesene Asylnorm enthält keinen Einbürgerungseid; das allein widerlegt den persönlichen Vorsatz nicht.
+Nicht überprüfbar – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Die Textstelle kann einen persönlichen Vorsatz und eine allgemeine Erwartung ausdrücken. Ob zusätzlich eine rechtliche Voraussetzung behauptet wird, ist ohne Originalkontrolle nicht eindeutig. Die gelesene Asylnorm enthält keinen Einbürgerungseid; das allein widerlegt den persönlichen Vorsatz nicht.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Aktualisierung 18.11.2026: vorläufige Endbewertung zurückgenommen; redaktionelle Auslegungsunsicherheit betrifft die Art des behaupteten Zusammenhangs.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -128,6 +130,8 @@ Bewertungsuebergang: Aktualisierung 18.11.2026: vorläufige Endbewertung zurück
 ### Offene Fragen und Unsicherheiten
 
 - Persönlichen Vorsatz, politische Erwartung und behauptete rechtliche Voraussetzung an der Originalstelle sicher unterscheiden.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Originalstelle nicht kontrolliert gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0197
 
@@ -176,7 +180,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Vance habe sich trotz Meinungsverschiedenheiten ausdrücklich nicht von Tucker Carlson distanziert.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -195,21 +199,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Konkretes öffentliches Gespräch behauptet, aber Datum und Originalauftritt noch nicht geprüft.
+Vance verteidigte im Dezember 2025 und im September 2026 öffentlich seine Freundschaft mit Carlson und lehnte eine Distanzierung ab, obwohl er politische Differenzen einräumte.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [JD Vance dogged by calls to denounce Tucker Carlson](https://m.washingtontimes.com/news/2026/feb/4/jd-vance-dogged-calls-denounce-tucker-carlson/) · The Washington Times · 04.02.2026; keine Distanzierung, Verteidigung Carlsons in einem Interview vom 22.12.2025.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen. Keine Quellenkopie veröffentlicht. Keine Distanzierung; Verteidigung im Interview vom 22.12.2025.
+
+- [Vance defends friendship with Tucker Carlson despite political disagreements](https://jewishinsider.com/2026/09/jd-vance-defends-friendship-tucker-carlson/) · Jewish Insider, Emily Jacobs · 03.09.2026.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen; letzter Teil hinter Bezahlschranke nur als Zusammenfassung. Keine Quellenkopie veröffentlicht. Freundschaft trotz politischer Differenzen, 03.09.2026.
 
 ### Offene Fragen und Unsicherheiten
 
-- Gemeintes Interview und vollständigen Kontext finden.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0199
 
@@ -217,7 +225,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibts Asylantrag sei erst nach Ende ihres Besuchsaufenthalts eingereicht worden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -236,13 +244,13 @@ Zeitgrundlage: Vorläufiges gesamtes Lückenfenster der YouTube-Untertitel. Inha
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nur eine ergänzende öffentliche Podcast-Transkription liefert diesen Inhalt im Anschlussbereich. Die Zeitachse ist gegenüber YouTube versetzt; Synchronisierung und akustische Kontrolle fehlen.
+Nicht überprüfbar – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Nur eine ergänzende öffentliche Podcast-Transkription liefert diesen Inhalt im Anschlussbereich. Die Zeitachse ist gegenüber YouTube versetzt; Synchronisierung und akustische Kontrolle fehlen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -253,13 +261,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 - Originalkontrolle der YouTube-Textlücke und tatsächliche Antrags-/Einreisedaten nötig.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Originalstelle nicht kontrolliert gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0200
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das individuelle Asylverfahren sei nach einem Gerichtstermin vom DOJ wieder an DHS zurückgegangen und dort vorerst liegen geblieben.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -278,13 +288,13 @@ Zeitgrundlage: Vorläufiges YouTube-Lückenfenster; Inhalt aus Podcast-Anschluss
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ergänzender Podcasttext beschreibt einen persönlichen Verfahrensablauf. Gerichtsanhörung, Verfahrensbeendigung, Zuständigkeitswechsel und Bearbeitungsstand sind nicht durch Akten belegt.
+Nicht überprüfbar – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Ergänzender Podcasttext beschreibt einen persönlichen Verfahrensablauf. Gerichtsanhörung, Verfahrensbeendigung, Zuständigkeitswechsel und Bearbeitungsstand sind nicht durch Akten belegt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -298,13 +308,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 - Synchronisierung, Termin-/Verfahrensnachweis und konkrete Verfügungen fehlen.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Originalstelle nicht kontrolliert gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0201
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Viele andere Asylbewerber wollten eine Prüfung ihres Falls möglichst vermeiden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -323,13 +335,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Pauschale Motivverteilung ohne Datengrundlage; persönliche Erfahrungen können keine Mehrheitsstatistik ersetzen.
+Pauschale Einschätzung über die Absichten anderer Asylbewerber ohne Datengrundlage. Von Claude am 18.11.2026 als Meinung bzw. Deutung eingeordnet.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -489,13 +501,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Konkrete Korrespondenz und Empfänger werden genannt, Originalbrief oder offizielle Bestätigung bislang nicht gelesen.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Konkrete Korrespondenz und Empfänger werden genannt, Originalbrief oder offizielle Bestätigung bislang nicht gelesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -504,6 +516,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Authentischen Brief, Datum und Umfang der Empfehlung finden; Empfehlung nicht mit Bewilligung gleichsetzen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0206
 

@@ -29,13 +29,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Mehrere getrennte Auftrittsvorkommen. Veranstaltungsexistenz würde ihre persönliche Teilnahme nicht automatisch belegen.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Mehrere getrennte Auftrittsvorkommen. Veranstaltungsexistenz würde ihre persönliche Teilnahme nicht automatisch belegen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -44,6 +44,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Teilnahme je Veranstaltung anhand datierter Originalbelege oder Veranstalterbestätigung prüfen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0163
 
@@ -135,7 +137,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ihre eigene Rückkehr nach zwei Wochen Mexiko habe tatsächlich weitere drei Monate Aufenthalt ermöglicht.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -154,13 +156,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ein individueller tatsächlicher Zulassungsakt ist von der zuvor behaupteten allgemeinen Regel zu trennen. Ohne Einreisedokument keine Widerlegung oder Bestätigung dieses Einzelfalls.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Ein individueller tatsächlicher Zulassungsakt ist von der zuvor behaupteten allgemeinen Regel zu trennen. Ohne Einreisedokument keine Widerlegung oder Bestätigung dieses Einzelfalls.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -170,6 +172,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - I-94-Zeitraum und tatsächliche Zulassung datenschutzgerecht prüfen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0166
 
@@ -209,21 +213,27 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Drohungsexistenz, Urheberschaft und subjektive Reiseentscheidung sind getrennte Fragen. Der Eigenbericht bestätigt keine kollektive organisatorische Urheberschaft.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Drohungsexistenz, Urheberschaft und subjektive Reiseentscheidung sind getrennte Fragen. Der Eigenbericht bestätigt keine kollektive organisatorische Urheberschaft.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Keine Meinungsfreiheit in Deutschland? AfD-Influencerin Naomi Seibt beantragt Asyl in den USA](https://www.berliner-zeitung.de/article/naomi-seibt-afd-influencerin-beantragt-asyl-in-den-usa-10003111) · Berliner Zeitung, Eva Maria Braungart · 29.10.2025; gibt Seibts Angaben aus einem Fox-News-Video wieder, nennt sie 25 Jahre alt.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; keine Bestätigung durch Behörde oder Anwalt. Keine Quellenkopie veröffentlicht. Morddrohungen nur als Seibts eigene Angabe; keine Ermittlungen genannt.
+
+- [Naomi Seibt: Anti-Greta beantragt Asyl in den USA – auch wegen Musk](https://www.t-online.de/nachrichten/deutschland/gesellschaft/id_100977220/naomi-seibt-anti-greta-beantragt-asyl-in-den-usa-auch-wegen-musk.html) · t-online, Julian Alexander Fischer · 29.10.2025; gibt Seibts eigene Angaben wieder.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; keine unabhängige Bestätigung. Keine Quellenkopie veröffentlicht. Nur Seibts eigene Angabe.
 
 ### Offene Fragen und Unsicherheiten
 
 - Authentische Drohungen und mögliche Ermittlungsbestätigung prüfen; Absenderzuordnung nicht aus Selbstbezeichnung übernehmen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0167
 
@@ -250,13 +260,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zusammenarbeit und Umfang redaktioneller Vertragsfreiheit sind getrennt. Kein Vertrag gelesen; subjektives Vertrauen ersetzt keine Prüfung von Weisungs- oder Vergütungsregeln.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Zusammenarbeit und Umfang redaktioneller Vertragsfreiheit sind getrennt. Kein Vertrag gelesen; subjektives Vertrauen ersetzt keine Prüfung von Weisungs- oder Vergütungsregeln.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -265,6 +275,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Öffentliche Tätigkeit und freiwillig zugängliche Vertragsgrundlage getrennt belegen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0168
 
@@ -317,7 +329,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe bei Heartland und Deutschland-Kurier grundsätzlich alle eigenen Inhalte selbst konzipiert.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -349,13 +361,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Verallgemeinerte Produktions- und Vertragsbehauptung; ein freier eigener Kanal schließt bezahlte institutionelle Arbeit nicht aus.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Verallgemeinerte Produktions- und Vertragsbehauptung; ein freier eigener Kanal schließt bezahlte institutionelle Arbeit nicht aus.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -365,6 +377,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Tätigkeitsumfang, Vertrag und einzelne Veröffentlichungen ohne Übernahme fremder Texte prüfen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0170
 
@@ -474,13 +488,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zwei Negativbehauptungen zu Zahlungen und Angeboten. Kooperation oder politische Nähe beweist keine Parteizahlung, fehlende öffentliche Zahlung ebenso wenig vollständige Unentgeltlichkeit.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Zwei Negativbehauptungen zu Zahlungen und Angeboten. Kooperation oder politische Nähe beweist keine Parteizahlung, fehlende öffentliche Zahlung ebenso wenig vollständige Unentgeltlichkeit.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -489,5 +503,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Offengelegte Vertrags-/Finanzierungsgrundlagen prüfen; keine umfassende Negativverifikation behaupten.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

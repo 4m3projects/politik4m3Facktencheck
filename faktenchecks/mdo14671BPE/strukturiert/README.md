@@ -13,9 +13,9 @@ Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete P
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 247
-- Abgeschlossen: 98
-- Offen: 109
-- In Bearbeitung: 40
+- Abgeschlossen: 118
+- Offen: 129
+- In Bearbeitung: 0
 - Erfasste Behauptungsvorkommen: 277
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 30
 - Davon bestaetigte Wiederholungen derselben Person: 0
@@ -23,24 +23,24 @@ Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete P
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 1
 - Aussagen ausschliesslich mit ungeklaertem eigenem Bezug: 0
 - Nur referenzierte Aussagen ohne eigene Behauptung: 2
-- Meinungen: 14; Prognosen: 11
+- Meinungen: 26; Prognosen: 11
 
 Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen. Nur erneut derselben Person mit bestaetigter Zuordnung und bestaetigtem eigenem Bezug zugerechnete Vorkommen zaehlen als bestaetigte Personenwiederholung. Null bedeutet nur: im dokumentierten Datenbestand keine solchen Faelle erfasst.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 73 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 81 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 23 | 31.5 % |
-| Teilweise belegt | 17 | 23.3 % |
-| Irreführend / Kontext fehlt | 18 | 24.7 % |
-| Widerlegt | 13 | 17.8 % |
-| Nicht ausreichend belegbar | 2 | 2.7 % |
-| Meinung / Prognose | 25 | nicht anwendbar |
+| Belegt | 26 | 32.1 % |
+| Teilweise belegt | 20 | 24.7 % |
+| Irreführend / Kontext fehlt | 18 | 22.2 % |
+| Widerlegt | 13 | 16.0 % |
+| Nicht ausreichend belegbar | 4 | 4.9 % |
+| Meinung / Prognose | 37 | nicht anwendbar |
 
 Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
 
@@ -51,9 +51,9 @@ Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachen
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 222. Ohne verlaessliche Personenzuordnung: 222.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 210. Ohne verlaessliche Personenzuordnung: 210.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 222; mit unsicherem eigenem Aussagebezug: 222. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 210; mit unsicherem eigenem Aussagebezug: 210. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 - Plausibel: Sprecherzuordnung 282, Aussagebezug 281 Vorkommen.
