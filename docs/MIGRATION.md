@@ -84,3 +84,7 @@ Die Erkenntnisse aus Issue #1 sind berücksichtigt: keine künstlichen Aussagen 
 ## Erweiterung um Kapitel 7 am 18.11.2026
 
 [Migrationsbericht und Recherchegrenzen](KAPITEL07_MIGRATION.md): alle 8 Altpunkte. 75 von 99 übertragen, 24 verbleiben. A0300–A0324 sind 25 zusätzliche Datensätze; A0014/A0015 erhalten Hauptgesprächsvorkommen ohne Änderung ihrer Bewertung. A0207 (Kapitel 4) wurde nach Lektüre des amtlichen Berliner Wahlergebnisses von Offen auf Belegt fortgeschrieben. 324 Datensätze enthalten 322 eigene Aussageinhalte und zwei ausschließlich erörterte Inhalte.
+
+## Erweiterung um Kapitel 8 am 18.11.2026
+
+[Migrationsbericht und Recherchegrenzen](KAPITEL08_MIGRATION.md): die übrigen 15 Altpunkte (C08-P03 war mit A0009/A0010 bereits enthalten und bleibt unverändert). 90 von 99 übertragen, 9 verbleiben. A0325–A0369 sind 45 zusätzliche Datensätze. 369 Datensätze enthalten 367 eigene Aussageinhalte und zwei ausschließlich erörterte Inhalte.

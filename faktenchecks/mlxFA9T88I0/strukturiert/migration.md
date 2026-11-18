@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Teilbestand: 75 von 99 ursprünglichen Prüfpunkten übertragen, 24 nicht migriert. Kapitel 1 bis 7 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Abdeckung: Teilbestand: 90 von 99 ursprünglichen Prüfpunkten übertragen, 9 nicht migriert. Kapitel 1 bis 8 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
 Herkunftscommit: bb6e666961baf719d02671a7ad2f439086f3c530
 
@@ -3417,3 +3417,610 @@ Bewertungsuebergang mlxFA9T88I0-A0323: Eigenständige Einzelentscheidung; frühe
 
 
 Bewertungsuebergang mlxFA9T88I0-A0324: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P01
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Qualifikationswertung und Doppelrolle Kanzler/Parteivorsitz als Meinungen geführt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 1
+
+- **Fundstelle:** [02:17:49–02:19:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8269s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Parteispitzen seien für parteiinternen Aufstieg optimal qualifiziert; Kanzleramt plus Parteivorsitz bedeute nur halbe Leistung für Bürger.
+- **Bewertung:** Meinung / Tatsachenannahme nicht belegt
+
+**Unsere Begründung und Grenzen:** Eine quantitative Halbierung der Arbeitsleistung folgt nicht aus zwei Ämtern. Keine Arbeitszeit- oder Leistungsdaten werden vorgelegt. Die Kritik an Anreizen ist eine politische Interpretation, keine individuelle Eignungsprüfung.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8269s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0325 | Abgeschlossen | Meinung / Prognose | Qualifikationswertung und Doppelrolle Kanzler/Parteivorsitz als Meinungen geführt. |
+| mlxFA9T88I0-A0326 | Abgeschlossen | Meinung / Prognose | Qualifikationswertung und Doppelrolle Kanzler/Parteivorsitz als Meinungen geführt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0325: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0326: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P02
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Allgemeine Bürokratieaussage als prüfbare Tatsachenbehauptung offen gehalten.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 2
+
+- **Fundstelle:** [02:18:40–02:19:39](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8320s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Unter keiner Regierung habe Bürokratie je abgenommen.
+- **Bewertung:** nicht ausreichend belegbar in dieser Allgemeinheit
+
+**Unsere Begründung und Grenzen:** Die gezielte Suche ergab den amtlichen Bürokratiekostenindex mit zwischenzeitlichen Rückgängen; der direkte Seitenabruf scheiterte an 403. Daher wird dessen Suchauszug hier nicht als abgeschlossener Zahlenbeleg verwendet. Außerdem misst der Index nur einen definierten Ausschnitt und nicht sämtliche Bürokratie. Die universelle Behauptung bleibt ohne eigene Definition und Nachweis offen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Bürokratiekostenindex](https://www.destatis.de/DE/Themen/Staat/Buerokratiekosten/Tabellen/buerokratiekostenindex.html) · Statistisches Bundesamt · Stand: Januar 2012=100; zugänglicher Tabellenstand Mai 2026; direkter Abruf 403, nur Suchnachweis – keine abgeschlossene Volltextverifikation.
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8320s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0327 | Offen | keine Endbewertung | Allgemeine Bürokratieaussage als prüfbare Tatsachenbehauptung offen gehalten. |
+
+Bewertungsuebergang mlxFA9T88I0-A0327: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P04
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrolle getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 4
+
+- **Fundstelle:** [02:20:00–02:20:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8400s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Schweizer hätten Bargeld per Abstimmung in der Verfassung gesichert; Bilaterale III seien ein Unterwerfungsvertrag, der zur Abstimmung müsse.
+- **Bewertung:** teilweise belegt / Ergebnis- und Verfahrensdetails offen
+
+**Unsere Begründung und Grenzen:** Die offizielle Seite bestätigt die Abstimmung am 08.03.2026 über Initiative und direkten Gegenentwurf. Das genaue Resultat und die neu geltende Verfassungsfassung wurden in dieser Prüfung nicht zusätzlich ausgelesen. Das EDA beschreibt sektorielle Verträge mit institutionellen Elementen; Unterwerfung ist Wertung. Der definitive künftige Abstimmungsweg wurde nicht abschließend juristisch geprüft.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Initiative Bargeld ist Freiheit und direkter Gegenentwurf](https://www.admin.ch/de/bargeld-initiative) · Schweizerische Bundeskanzlei · Stand: Abstimmung 08.03.2026; Ergebnisdetails gesondert offen.
+- [Inhalt des Pakets Schweiz–EU (Bilaterale III)](https://www.europa.eda.admin.ch/de/inhalt-paket-schweiz-eu) · Eidgenössisches Departement für auswärtige Angelegenheiten · Stand: März 2026; offizielles Dossier.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0328 | In Bearbeitung | keine Endbewertung | Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrolle getrennt. |
+| mlxFA9T88I0-A0329 | Abgeschlossen | Teilweise belegt | Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrolle getrennt. |
+| mlxFA9T88I0-A0330 | Abgeschlossen | Meinung / Prognose | Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrolle getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0328: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0329: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0330: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P05
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 5
+
+- **Fundstelle:** [02:21:00–02:23:39](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8460s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** 43 oder 44 besuchte Länder, in vier jeweils/insgesamt mehr als ein Jahr; frühere Zehn-Pfund-Auswanderer um 1870 hätten nie zurückkehren können.
+- **Bewertung:** Selbstauskunft / historische Einordnung korrigiert
+
+**Unsere Begründung und Grenzen:** Die Reisezahl und mehrdeutige Aufenthaltsdauer bleiben ungeprüft. Das bekannte Zehn-Pfund-Programm gehört nach der dokumentierten Museumssammlung in die Nachkriegszeit, nicht pauschal 1870. Die Sammlung beschreibt sogar Rückkehrer; eine prinzipiell unmögliche Rückkehr ist falsch. Ob Lüning ein anderes frühes Hilfsprogramm meinte, ist offen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Document of Identity: James & Eileen Leech, 20 Oct 1953](https://collections.museumsvictoria.com.au/items/2043505) · Museums Victoria, Sammlung Migration · Stand: Dokument 1953, historische Sammlungsbeschreibung.
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8460s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0331 | Offen | keine Endbewertung | Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt. |
+| mlxFA9T88I0-A0332 | Abgeschlossen | Meinung / Prognose | Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt. |
+| mlxFA9T88I0-A0333 | Offen | keine Endbewertung | Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0331: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0332: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0333: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P06
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Nachrichtenverzicht nach Dobelli und Trennung von Politik und Privatleben getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 6
+
+- **Fundstelle:** [02:23:40–02:25:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8620s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Nachrichtenverzicht nach einem Autor mit unsicher erkanntem Namen helfe; Politik lasse sich vom Privatleben trennen.
+- **Bewertung:** Meinung / bibliografische Identität nicht abgeschlossen
+
+**Unsere Begründung und Grenzen:** Gemeint sein könnte Rolf Dobelli, doch der erkannte Name wurde nicht durch Audiovergleich oder Buchabgleich gesichert. Wirkung und optimale Dosis von Nachrichtenkonsum hängen vom Menschen ab. Die Behauptung, negative Gedanken könnten nie positive Ergebnisse haben, ist eine Maxime, kein hier bewiesenes psychologisches Gesetz.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8620s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0334 | Abgeschlossen | Teilweise belegt | Nachrichtenverzicht nach Dobelli und Trennung von Politik und Privatleben getrennt. |
+| mlxFA9T88I0-A0335 | Abgeschlossen | Meinung / Prognose | Nachrichtenverzicht nach Dobelli und Trennung von Politik und Privatleben getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0334: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0335: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P07
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 7
+
+- **Fundstelle:** [02:25:30–02:30:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8730s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Raymond Hull, Alles ist erreichbar: handschriftliche Zehn-Punkte-Liste, tägliches Neuabschreiben und Ausrichten aller Tätigkeiten verbesserten das Leben; Schwarzenegger habe fünf Ziele genutzt.
+- **Bewertung:** persönlicher Erfahrungsbericht / universelle Wirksamkeit offen
+
+**Unsere Begründung und Grenzen:** Buchzuordnung, Verlagsgeschichte und Schwarzeneggers konkrete Fünf-Punkte-Liste wurden nicht mit Originalausgaben geprüft. Eigene Erfolge beweisen weder die optimale Zahl noch eine garantierte Wirkung. Handschrift und Wiederholung können als persönliche Arbeitsweise beschrieben werden; eine bestimmte Gedächtnisüberlegenheit wird hier nicht behauptet. Die Tatort-Aussage über fast immer kriminelle Unternehmer bleibt ohne identifizierte Statistik offen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8730s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0336 | Offen | keine Endbewertung | Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt. |
+| mlxFA9T88I0-A0337 | Abgeschlossen | Meinung / Prognose | Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt. |
+| mlxFA9T88I0-A0338 | Offen | keine Endbewertung | Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt. |
+| mlxFA9T88I0-A0339 | Offen | keine Endbewertung | Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt. |
+| mlxFA9T88I0-A0340 | Offen | keine Endbewertung | Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0336: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0337: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0338: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0339: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0340: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P08
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Werbeabschnitt: Förderanekdote, Forschungszulage und Anbieterleistung getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 8
+
+- **Fundstelle:** [02:30:00–02:31:13 (Werbung)](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9000s)
+- **Zuordnung:** Ben
+- **Prüfgegenstand – unsere Beschreibung:** Unternehmen könnten bis 4,2 Millionen Euro jährlich Forschungszulage erhalten, rückwirkend bis 2022; Fundloop übernehme KI-gestützt die Bürokratie.
+- **Bewertung:** teilweise belegt / erhebliche Bedingungen
+
+**Unsere Begründung und Grenzen:** Ab 2026 ergeben zwölf Millionen Euro maximale Bemessungsgrundlage und 35 Prozent für berechtigte KMU rechnerisch 4,2 Millionen; regulär sind es 25 Prozent. Begünstigte Forschung ist gesetzlich definiert, nicht jede Investition oder Innovation genügt. Für 2022 galt eine andere Grenze. Rückwirkende Anträge hängen auch von Fristen und Einzelfall ab. Die Leistungsqualität des Dienstleisters und dessen Kosten wurden nicht geprüft.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Forschungszulagengesetz, §§ 2–5](https://www.gesetze-im-internet.de/fzulg/FZulG.pdf) · Bundesministerium der Justiz / Bundesamt für Justiz · Stand: zuletzt geändert 22.12.2025; 2026-Regeln.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0341 | Offen | keine Endbewertung | Werbeabschnitt: Förderanekdote, Forschungszulage und Anbieterleistung getrennt. |
+| mlxFA9T88I0-A0342 | Abgeschlossen | Teilweise belegt | Werbeabschnitt: Förderanekdote, Forschungszulage und Anbieterleistung getrennt. |
+| mlxFA9T88I0-A0343 | Offen | keine Endbewertung | Werbeabschnitt: Förderanekdote, Forschungszulage und Anbieterleistung getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0341: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0342: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0343: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P09
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Persönliche Angaben und externe Raumfahrtereignisse getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 9
+
+- **Fundstelle:** [02:31:13–02:33:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9073s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Eigener Flugschein, acht Jahre Fliegen, Weltreise 2024; Weltraumflug auf der Wunschliste; New Shepard habe unbemannt versagt, SpaceShipTwo sei zerbrochen; ziviler SpaceX-Flug koste etwa 40 Millionen.
+- **Bewertung:** nicht ausreichend belegbar / persönliche Pläne und externe Ereignisse getrennt
+
+**Unsere Begründung und Grenzen:** Eigene Reisen und Pläne sind Selbstauskunft. Die konkreten Raumfahrtunfälle, die jeweiligen Flugnummern und der genannte Preis wurden hier nicht mit Untersuchungsberichten/Angeboten geprüft; verschiedene Vorfälle und Programme können gemeint sein. Das gedachte Auto mit halbiertem Wert im Folgejahr ist ein Rechenbeispiel, keine verifizierte allgemeine Abschreibungsquote.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9073s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0344 | Offen | keine Endbewertung | Persönliche Angaben und externe Raumfahrtereignisse getrennt. |
+| mlxFA9T88I0-A0345 | Offen | keine Endbewertung | Persönliche Angaben und externe Raumfahrtereignisse getrennt. |
+| mlxFA9T88I0-A0346 | Offen | keine Endbewertung | Persönliche Angaben und externe Raumfahrtereignisse getrennt. |
+| mlxFA9T88I0-A0347 | Offen | keine Endbewertung | Persönliche Angaben und externe Raumfahrtereignisse getrennt. |
+| mlxFA9T88I0-A0348 | Offen | keine Endbewertung | Persönliche Angaben und externe Raumfahrtereignisse getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0344: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0345: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0346: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0347: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0348: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P10
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 10
+
+- **Fundstelle:** [02:33:40–02:36:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9220s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Gedanken würden unbewusst vorbereitet; das Gehirn lösche nachts Ballast, gute Information bringe irgendwann die Lösung; dies sei die einzige Möglichkeit bewusster Steuerung.
+- **Bewertung:** teilweise wissenschaftlicher Bezug / überdehnt
+
+**Unsere Begründung und Grenzen:** Soon et al. berichten im zugänglichen Abstract über Vorhersagesignale vor bewussten einfachen Entscheidungen. Das bestätigt nicht die gesamte Theorie des nächtlichen Löschens oder garantierter Problemlösung. Der wissenschaftliche Volltext war nicht zugänglich; die Prüfung bleibt auf den Abstract begrenzt. Der erwähnte Autor Horst Sehlz ist im Transkript unsicher und nicht audioverifiziert.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Unconscious determinants of free decisions in the human brain](https://pubmed.ncbi.nlm.nih.gov/18408715/) · Soon, Brass, Heinze, Haynes / Nature Neuroscience · Stand: 13.04.2008 online; 11:543–545; DOI 10.1038/nn.2112; nur Abstract zugänglich, wissenschaftlicher Volltext nicht geprüft.
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9220s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0349 | Offen | keine Endbewertung | Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet. |
+| mlxFA9T88I0-A0350 | Offen | keine Endbewertung | Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet. |
+| mlxFA9T88I0-A0351 | Abgeschlossen | Meinung / Prognose | Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet. |
+
+Bewertungsuebergang mlxFA9T88I0-A0349: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0350: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0351: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P11
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Social-Media-, Politik- und Konzernwertungen sowie Pensionsprognose getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 11
+
+- **Fundstelle:** [02:36:00–02:40:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9360s)
+- **Zuordnung:** beide
+- **Prüfgegenstand – unsere Beschreibung:** Social-Media-Skandale machten emotional unzufrieden; Konzerne seien wegen Flurfunk wenig innovativ; Staatsbeschäftigung und Pensionsversprechen würden riskanter.
+- **Bewertung:** Meinung / Kausalität und Prognose offen
+
+**Unsere Begründung und Grenzen:** Erfahrungen mit X und subjektive Aufmerksamkeitsstrategien sind keine allgemeine psychologische Dosis-Wirkungs-Studie. Die These zu Konzerninnovation wurde nicht mit Daten getestet. Risiken einzelner Berufe und künftiger Pensionen sind Szenarien; Art. 33 schützt das Berufsbeamtentum, ohne sämtliche Zukunftsfragen zu beantworten.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Grundgesetz, Artikel 33](https://www.gesetze-im-internet.de/gg/art_33.html) · Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9360s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0352 | Abgeschlossen | Meinung / Prognose | Social-Media-, Politik- und Konzernwertungen sowie Pensionsprognose getrennt. |
+| mlxFA9T88I0-A0353 | Abgeschlossen | Meinung / Prognose | Social-Media-, Politik- und Konzernwertungen sowie Pensionsprognose getrennt. |
+| mlxFA9T88I0-A0354 | Abgeschlossen | Meinung / Prognose | Social-Media-, Politik- und Konzernwertungen sowie Pensionsprognose getrennt. |
+| mlxFA9T88I0-A0355 | Abgeschlossen | Meinung / Prognose | Social-Media-, Politik- und Konzernwertungen sowie Pensionsprognose getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0352: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0353: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0354: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0355: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P12
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 12
+
+- **Fundstelle:** [02:40:59–02:43:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9659s)
+- **Zuordnung:** Ben / Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Geld und Staatsanleihen seien praktisch dasselbe; Gold/Bitcoin am krisenfestesten; Aktien einfrierbar; Immobilien besonders angreifbar; Depots könnten beim Wegzug wohl steuerfrei mit.
+- **Bewertung:** irreführend / rechtlicher Kontext fehlt
+
+**Unsere Begründung und Grenzen:** Geld, Anleihen, Aktien und Kryptowerte haben verschiedene Liquiditäts-, Kurs- und Rechtsrisiken. Eine universelle Rangliste krisenfestester Anlagen wird nicht belegt. Insbesondere kann Wegzug bei relevanten Kapitalgesellschaftsanteilen nach § 6 AStG und § 17 EStG sowie bei bestimmten Fondsanteilen nach § 19 Abs. 3 InvStG steuerliche Folgen auslösen. Depotübertrag und Wohnsitzverlagerung sind getrennte Vorgänge. Nicht jeder kleine Aktienbestand fällt darunter, doch eine allgemeine Steuerfreiheit ist ebenso falsch.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Außensteuergesetz, § 6](https://www.gesetze-im-internet.de/astg/__6.html) · Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.
+- [Einkommensteuergesetz, § 17](https://www.gesetze-im-internet.de/estg/__17.html) · Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.
+- [Investmentsteuergesetz, § 19 Abs. 3](https://www.gesetze-im-internet.de/invstg_2018/__19.html) · Bundesministerium der Justiz / Bundesamt für Justiz · Stand: geltender Text beim Abruf.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0356 | Offen | keine Endbewertung | Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt. |
+| mlxFA9T88I0-A0357 | Abgeschlossen | Meinung / Prognose | Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt. |
+| mlxFA9T88I0-A0358 | Offen | keine Endbewertung | Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt. |
+| mlxFA9T88I0-A0359 | Abgeschlossen | Teilweise belegt | Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt. |
+| mlxFA9T88I0-A0360 | Offen | keine Endbewertung | Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt. |
+| mlxFA9T88I0-A0361 | Abgeschlossen | Meinung / Prognose | Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0356: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0357: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0358: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0359: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0360: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0361: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P13
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 13
+
+- **Fundstelle:** [02:43:30–02:47:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9810s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Eigentum sei heute eher unklug; mehrere Anlageklassen und Auslandsdepots schützten; Eigentum habe unter NS-Verfolgung Menschen am Bleiben gehindert, Gold sei teils beschlagnahmt worden.
+- **Bewertung:** Meinung / historische Details und Sicherheitsgarantie offen
+
+**Unsere Begründung und Grenzen:** Die Wohnentscheidung hängt von Preis, Finanzierung, Lebensplanung und Risiko ab. Streuung kann einzelne Risiken reduzieren, beseitigt aber keine Markt-, Rechts- oder politischen Risiken. Der historische Bezug auf Verfolgung und Entrechtung ist keine belegte Gleichsetzung mit der Gegenwart. Konkrete behauptete Vermögens-, Grenz- und Entscheidungsgeschichten wurden nicht anhand historischer Fälle geprüft; eine tragfähige heutige Prognose ergibt sich daraus nicht.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9810s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0362 | Abgeschlossen | Meinung / Prognose | Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt. |
+| mlxFA9T88I0-A0363 | Offen | keine Endbewertung | Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt. |
+| mlxFA9T88I0-A0364 | Abgeschlossen | Meinung / Prognose | Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0362: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0363: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0364: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P14
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Fähigkeiten, Angstbewältigung und Brokerstreuung als Rat geführt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 14
+
+- **Fundstelle:** [02:46:00–02:49:39](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9960s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Weltweit gesuchte Fähigkeiten seien beim Weggehen das Bleibende; durch Diversifikation und hohe Einkünfte könne man Ängste abbauen und Abgaben auffangen.
+- **Bewertung:** Rat / Prognose
+
+**Unsere Begründung und Grenzen:** Bildung und Anpassungsfähigkeit sind praktische Empfehlungen, garantieren aber weder Anerkennung eines Berufsabschlusses noch Einwanderungsrecht oder Einkommen. Angstmanagement über Arbeit und Listen ist sein eigener Ansatz und keine allgemein validierte Therapie. Das 50-Prozent-Abgabebeispiel ist hypothetisch.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9960s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0365 | Abgeschlossen | Meinung / Prognose | Fähigkeiten, Angstbewältigung und Brokerstreuung als Rat geführt. |
+| mlxFA9T88I0-A0366 | Abgeschlossen | Meinung / Prognose | Fähigkeiten, Angstbewältigung und Brokerstreuung als Rat geführt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0365: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0366: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P15
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Behauptetes Kanzlerzitat zu Tafeln getrennt erfasst.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 15
+
+- **Fundstelle:** [02:49:00–02:50:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10140s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Merz habe Tafeln/Suppenküchen in einer Regierungserklärung als das bezeichnet, was Deutschland ausmache.
+- **Bewertung:** nicht ausreichend belegbar
+
+**Unsere Begründung und Grenzen:** Eine Regierungserklärung wurde gesucht und geöffnet, die behauptete konkrete Passage aber nicht eindeutig identifiziert. Ohne Datum und Wortlaut wird weder die Zuschreibung noch ihre zugespitzte Deutung als gesichert übernommen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10140s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0367 | Offen | keine Endbewertung | Behauptetes Kanzlerzitat zu Tafeln getrennt erfasst. |
+
+Bewertungsuebergang mlxFA9T88I0-A0367: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C08-P16
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md)
+
+Referenzhash der Kapiteldatei: af112c2e3b5736e43a20a1d7988a483235030dc52a66aedb6adc5db786d47fe9
+
+Kommentare unter eigenen Videos und Wertung zum Ruhestand getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 16
+
+- **Fundstelle:** [02:50:00–02:51:43](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10200s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Weiterarbeiten halte ältere Menschen fit; Ruhestand mit Fernsehen bedeute Warten auf den Tod.
+- **Bewertung:** Meinung / Gesundheitskausalität nicht belegt
+
+**Unsere Begründung und Grenzen:** Die Lebenswertung ist persönlich. Aus fitten älteren Erwerbstätigen folgt nicht, dass Arbeit allein deren Gesundheit verursacht; gesündere Menschen können auch eher weiterarbeiten. Erwerbsarbeit, Bewegung, soziale Aktivität und Ruhestand sind nicht gleichzusetzen. Fortsetzung in Kapitel 09.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10200s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0368 | Offen | keine Endbewertung | Kommentare unter eigenen Videos und Wertung zum Ruhestand getrennt. |
+| mlxFA9T88I0-A0369 | Abgeschlossen | Meinung / Prognose | Kommentare unter eigenen Videos und Wertung zum Ruhestand getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0368: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0369: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
