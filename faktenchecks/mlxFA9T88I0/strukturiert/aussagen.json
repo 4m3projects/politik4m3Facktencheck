@@ -74,12 +74,20 @@
       "C06-P07",
       "C06-P08",
       "C06-P10",
-      "C06-P11"
+      "C06-P11",
+      "C07-P01",
+      "C07-P02",
+      "C07-P03",
+      "C07-P04",
+      "C07-P05",
+      "C07-P06",
+      "C07-P07",
+      "C07-P08"
     ],
     "totalLegacyPoints": 99,
-    "unmigratedLegacyPoints": 32,
-    "researchNote": "A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert.",
-    "coverageNote": "Teilbestand: 67 von 99 ursprünglichen Prüfpunkten übertragen, 32 nicht migriert. Kapitel 1 bis 6 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos."
+    "unmigratedLegacyPoints": 24,
+    "researchNote": "A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben.",
+    "coverageNote": "Teilbestand: 75 von 99 ursprünglichen Prüfpunkten übertragen, 24 nicht migriert. Kapitel 1 bis 7 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos."
   },
   "legacyPoints": [
     {
@@ -684,6 +692,78 @@
       "fileSha256": "4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3",
       "section": "## Prüfpunkt 11\n\n- **Fundstelle:** [02:04:00–02:05:02](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7440s)\n- **Zuordnung:** Ben / Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Deutsche Ukrainehilfe finanziere Bestellungen in Deutschland bzw. es würden Waffen geschenkt und das Geld gehe in die USA.\n- **Bewertung:** nicht ausreichend belegbar / zu pauschal\n\n**Unsere Begründung und Grenzen:** Im Gespräch korrigiert Lüning Bens vereinfachte Darstellung. Sachleistungen, Zuschüsse, Kredite und Beschaffung sind verschiedene Instrumente. Es wird keine einzelne Transaktion mit Betrag und Vertrag belegt. Eine vollständige Prüfung sämtlicher Ukrainehilfen ist offen; weder pauschale Geldrückleitung noch pauschale Weiterleitung aller Gelder an die USA gilt hier als bestätigt.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7440s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
       "migrationNote": "Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt."
+    },
+    {
+      "id": "C07-P01",
+      "chapter": 7,
+      "point": 1,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md",
+      "fileSha256": "bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe",
+      "section": "## Prüfpunkt 1\n\n- **Fundstelle:** [02:05:02–02:07:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7502s)\n- **Zuordnung:** beide\n- **Prüfgegenstand – unsere Beschreibung:** Politiker vertuschten die Krise, würden einen äußeren Schock als Vorwand für Bankenrettung und digitalen Euro nutzen; weitere Zwänge seien unvermeidlich.\n- **Bewertung:** Meinung / Prognose / Absicht nicht belegt\n\n**Unsere Begründung und Grenzen:** Die behaupteten Motive und künftigen Ereignisse sind nicht durch Dokumente oder überprüfbare konkrete Pläne nachgewiesen. Wiederholung der Geldmengen- und Eurothesen aus 05 Nr. 8–13; deren Einschränkungen gelten fort. Ein Risikoszenario ist kein schon belegter Ablauf.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7502s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.\n- [FAQs on the digital euro](https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html) · Europäische Zentralbank · Stand: aktualisiert 17.08.2026; Fragen 20 und 24.",
+      "migrationNote": "Eisberg-Bild, unterstellte Vorwandstrategie und Zwangsmaßnahmen als Prognosen bzw. Wertungen getrennt."
+    },
+    {
+      "id": "C07-P02",
+      "chapter": 7,
+      "point": 2,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md",
+      "fileSha256": "bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe",
+      "section": "## Prüfpunkt 2\n\n- **Fundstelle:** [02:07:59–02:08:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7679s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Mitversicherte Ehefrauen müssten künftig selbst bezahlen, auch Privatversicherungen sollten herangezogen werden.\n- **Bewertung:** teilweise belegt / Details fehlen\n\n**Unsere Begründung und Grenzen:** Die BMG-FAQ nennt im Vorhaben einen Zuschlag für bestimmte mitversicherte Partner mit mehreren Ausnahmen. Sie beschreibt keine ausnahmslose Abschaffung jeder beitragsfreien Familienversicherung. Wer den Zuschlag zahlt, wird im Gespräch unsicher erinnert. Aussagen zur PKV und der exakte verabschiedete Rechtsstand am Aufnahmetag bleiben offen.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Fragen und Antworten zum GKV-Beitragssatzstabilisierungsgesetz](https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-21-lp/gkv-beitragssatzstabilisierungsgesetz-faq) · Bundesministerium für Gesundheit · Stand: 2026; FAQ zum Reformvorhaben, Rechtsstatus nicht mit Verkündung gleichsetzen.",
+      "migrationNote": "Ehepartnerbeitrag, Privatversicherung und Umverteilungswertung getrennt."
+    },
+    {
+      "id": "C07-P03",
+      "chapter": 7,
+      "point": 3,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md",
+      "fileSha256": "bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe",
+      "section": "## Prüfpunkt 3\n\n- **Fundstelle:** [02:08:40–02:09:35](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7720s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Monroe habe 1826 Nichteinmischung überall und Konzentration auf die USA erklärt; Deutschland solle analog aus UN/NATO austreten und Auslandszahlungen einstellen.\n- **Bewertung:** teilweise widerlegt / politische Forderung\n\n**Unsere Begründung und Grenzen:** Die Doktrin wurde am 02.12.1823 formuliert und unterschied europäische und amerikanische Einflussbereiche. Sie war keine universelle Gleichgültigkeit gegenüber dem Ausland. Die Forderung an Deutschland ist eine normative Position; deren wirtschaftliche oder sicherheitspolitische Folgen wurden nicht modelliert.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Monroe Doctrine, 1823](https://history.state.gov/milestones/1801-1829/monroe) · Office of the Historian, US Department of State · Stand: historische Darstellung; Rede 02.12.1823.",
+      "migrationNote": "Monroe-Doktrin als historische Tatsachenangabe von der politischen Forderung getrennt."
+    },
+    {
+      "id": "C07-P04",
+      "chapter": 7,
+      "point": 4,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md",
+      "fileSha256": "bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe",
+      "section": "## Prüfpunkt 4\n\n- **Fundstelle:** [02:09:35–02:10:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7775s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Bildungsstand sinke; 2025 gingen etwa 288.000 Deutsche, 2024 etwa 280.000; vor allem junge und zu 70 Prozent studierte Menschen.\n- **Bewertung:** teilweise belegt / Kohorten vermischt\n\n**Unsere Begründung und Grenzen:** Amtlich: 288.579 Fortzüge 2025, 269.986 im Jahr 2024. Der Anstieg stimmt, der Vorjahreswert ist ungenau. Die ältere GERPS-Befragung 2018/19 von 20–70-Jährigen zeigt einen hohen Akademikeranteil, ist aber keine Vollerhebung aller Fortzüge 2025. Daraus darf die 70-Prozent-Zahl nicht ungekennzeichnet auf alle Staatsangehörigen und Altersgruppen übertragen werden. Die allgemeine Bildungsentwicklung wurde hier nicht mit PISA oder Abschlussreihen geprüft.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Drucksache 21/6244: Antworten der Bundesregierung, Wanderungsstatistik](https://dserver.bundestag.de/btd/21/062/2106244.pdf) · Deutscher Bundestag / Bundesregierung / Destatis · Stand: 2026; Daten 2024 und 2025.\n- [German Emigration and Remigration Panel Study (GERPS)](https://www.bib.bund.de/Publikation/2019/pdf/German-Emigration-and-Remigration-Panel-Study-GERPS.pdf?__blob=publicationFile&v=2) · Bundesinstitut für Bevölkerungsforschung · Stand: Bevölkerungsforschung Aktuell 6/2019; GERPS 2018/19, Alter 20–70.",
+      "migrationNote": "Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt."
+    },
+    {
+      "id": "C07-P05",
+      "chapter": 7,
+      "point": 5,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md",
+      "fileSha256": "bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe",
+      "section": "## Prüfpunkt 5\n\n- **Fundstelle:** [02:10:20–02:11:39](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7820s)\n- **Zuordnung:** beide\n- **Prüfgegenstand – unsere Beschreibung:** Die Fortzüge entsprächen einem Drittel heutiger Geburten; tatsächlich gehe jedes Jahr ein Viertel bis ein Drittel der damaligen Geburtenjahrgänge.\n- **Bewertung:** irreführender Nenner / kein Kohortennachweis\n\n**Unsere Begründung und Grenzen:** Fortzüge betreffen unterschiedliche Altersgruppen, zum Teil mehrmalige Migration, und schließen Rückkehr nicht aus. Die Zahl aller Fortzüge durch die Größe eines einzelnen Geburtsjahrgangs zu teilen misst keinen Anteil dauerhaft verlorener Personen dieses Jahrgangs. Ben erkennt die 25–40 Jahre Differenz, löst damit aber das statistische Problem nicht. Genannte Geburtenzahlen wurden nicht zusätzlich verifiziert.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Drucksache 21/6244: Antworten der Bundesregierung, Wanderungsstatistik](https://dserver.bundestag.de/btd/21/062/2106244.pdf) · Deutscher Bundestag / Bundesregierung / Destatis · Stand: 2026; Daten 2024 und 2025.",
+      "migrationNote": "Verhältnis der Fortzüge zu Geburtsjahrgängen als eigene Rechenaussage."
+    },
+    {
+      "id": "C07-P06",
+      "chapter": 7,
+      "point": 6,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md",
+      "fileSha256": "bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe",
+      "section": "## Prüfpunkt 6\n\n- **Fundstelle:** [02:11:00–02:12:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7860s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Netto blieben etwa 100.000, vielleicht 150.000 weg; Rückkehrer seien typischerweise ältere oder gescheiterte Leute, die ins Sozialsystem zurückwollten; Ingenieure fänden keine passenden Jobs.\n- **Bewertung:** teilweise belegt / Rückkehrerbild nicht gestützt\n\n**Unsere Begründung und Grenzen:** Der amtliche Nettosaldo 2025 beträgt minus 96.689, nicht 150.000. GERPS zeigt für die damalige Rückkehrerstichprobe hohes Qualifikationsniveau und ein ähnliches Durchschnittsalter wie für Fortgezogene. Das trägt kein pauschales Bild alter gescheiterter Rückkehrer. Eine Bekanntenanekdote belegt weder generellen Fachkräfteüberschuss noch die genannten Motive aller Fortzüge.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Drucksache 21/6244: Antworten der Bundesregierung, Wanderungsstatistik](https://dserver.bundestag.de/btd/21/062/2106244.pdf) · Deutscher Bundestag / Bundesregierung / Destatis · Stand: 2026; Daten 2024 und 2025.\n- [German Emigration and Remigration Panel Study (GERPS)](https://www.bib.bund.de/Publikation/2019/pdf/German-Emigration-and-Remigration-Panel-Study-GERPS.pdf?__blob=publicationFile&v=2) · Bundesinstitut für Bevölkerungsforschung · Stand: Bevölkerungsforschung Aktuell 6/2019; GERPS 2018/19, Alter 20–70.",
+      "migrationNote": "Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt."
+    },
+    {
+      "id": "C07-P07",
+      "chapter": 7,
+      "point": 7,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md",
+      "fileSha256": "bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe",
+      "section": "## Prüfpunkt 7\n\n- **Fundstelle:** [02:12:30–02:14:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7950s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Merz habe im Sommer auf den Auswanderungswunsch jedes Fünften mit einem Hinweis auf den Anteil der Bleibenden geantwortet; CDU in Mecklenburg-Vorpommern nur 4,9 Prozent; Migration aus Somalia verursache dort Brain Drain, während Migranten hier nicht arbeiten könnten.\n- **Bewertung:** nicht ausreichend belegbar\n\n**Unsere Begründung und Grenzen:** Die Originalinterviewstelle, Umfragegrundgesamtheit und genaue Wahl wurden nicht rekonstruiert. Ein Anteil derjenigen, die auswandern möchten, ist kein tatsächlicher Fortzug. Die Schleusungs-/Qualifikationsgeschichte wird ohne Datensatz erzählt. Pauschale Arbeitsunmöglichkeit lässt Unterschiede des Aufenthaltsstatus und der Erwerbserlaubnis weg; eine vollständige ausländerrechtliche Prüfung erfolgte nicht.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7950s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Kanzlerinterview, Einschätzung der Umfragezahl, Wahlergebnis Mecklenburg-Vorpommern und Herkunftsland-Beispiel getrennt."
+    },
+    {
+      "id": "C07-P08",
+      "chapter": 7,
+      "point": 8,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md",
+      "fileSha256": "bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe",
+      "section": "## Prüfpunkt 8\n\n- **Fundstelle:** [02:14:00–02:17:49](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8040s)\n- **Zuordnung:** beide\n- **Prüfgegenstand – unsere Beschreibung:** Alle erfolgreichen Menschen wüssten, was wirtschaftspolitisch richtig sei; Schweiz/USA/Frankreich/Großbritannien böten zunehmend schlechte Alternativen; Auswanderer blieben immer Gäste.\n- **Bewertung:** Meinung / pauschale Tatsachenbasis offen\n\n**Unsere Begründung und Grenzen:** Universalaussagen über Einigkeit und Zielländer sind nicht repräsentativ belegt. Gastgefühl, Heimat und Höflichkeit sind persönliche Bewertungen. Bei späterer Einbürgerung ändern sich auch formelle politische Rechte; nicht jeder Auswanderer bleibt rechtlich dauerhaft Gast. Konkrete Kosten, Arbeitschancen und Sicherheit unterscheiden sich nach Ort und Haushalt.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Gesuch um ordentliche oder erleichterte Einbürgerung](https://www.ch.ch/de/auslander-in-der-schweiz/einburgerung/) · ch.ch / Schweizer Behörden · Stand: geltende Behördeninformation beim Abruf.\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8040s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Wertungen des Moderators zu Lösungen, Auswanderungszielen und Gaststatus sowie berichtetes Gespräch getrennt; erneutes Vorkommen von A0014."
     }
   ],
   "sources": [
@@ -1420,6 +1500,70 @@
       "title": "Ukraine Support Tracker: Only EUR 41.7 Billion of Germany's EUR 100 Billion Went to Ukraine",
       "url": "https://www.kielinstitut.de/media/news/ukraine-support-tracker-only-eur-417-billion-of-germanys-eur-100-billion-went-to-ukraine/",
       "details": "Kiel Institut für Weltwirtschaft · Pressemitteilung vom 08.10.2026; Bundesregierung meldet 100 Mrd. Euro (57,6 Mrd. militärisch) bereitgestellt oder vorgesehen, Kiel verfolgt 56,3 Mrd. Euro Militärhilfe nach; keine Aussage zur Rückzahlungsfreiheit der Militärhilfe gefunden.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S093",
+      "title": "Nettozuwanderung 2025 mit 235 000 Personen deutlich gesunken",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/06/PD26_184_12411.html",
+      "details": "Statistisches Bundesamt · Pressemitteilung 184 vom 01.06.2026, endgültige Ergebnisse; Wanderungsverlust Deutscher 2025 rund 97.000, 2024 rund 81.000; Hauptzielländer.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S094",
+      "title": "Wanderungen über die Grenzen Deutschlands nach ausgewählten Staatsangehörigkeiten 2020 bis 2025",
+      "url": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Wanderungen/Tabellen/wanderungen-nach-staatsangehoerigkeiten-jahr-03.html",
+      "details": "Statistisches Bundesamt · Tabelle, Stand 01.06.2026; Deutsche: Fortzüge 2025 288.579, 2024 269.986; Zuzüge 191.890 bzw. 189.107; Saldo -96.689 bzw. -80.879.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S095",
+      "title": "Gewinner der Globalisierung (Policy Brief)",
+      "url": "https://www.bib.bund.de/Publikation/2019/Gewinner-der-Globalisierung.html?nn=117016",
+      "details": "Bundesinstitut für Bevölkerungsforschung · Dezember 2019, Ergebnisse der GERPS-Befragung 2018/19; drei Viertel der befragten Aus- und Rückwanderer mit Hochschulabschluss. Ältere Erhebung, keine Trennung nach Aus- und Rückwanderern in der Zusammenfassung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S096",
+      "title": "Geburten (Themenseite)",
+      "url": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Geburten/_inhalt.html",
+      "details": "Statistisches Bundesamt · Stand November 2026; 654.241 Lebendgeborene 2025, 677.117 im Jahr 2024.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S097",
+      "title": "Der dritte Geburtenrückgang im vereinigten Deutschland",
+      "url": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Geburten/geburtenrueckgang-deutschland.html",
+      "details": "Statistisches Bundesamt · undatierte Themenseite; Lebendgeborene 1990 905.675, 1995 765.221, 1999 770.744.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S098",
+      "title": "Monroe Doctrine, 1823",
+      "url": "https://history.state.gov/milestones/1801-1829/monroe",
+      "details": "U.S. Department of State, Office of the Historian · archivierte Milestones-Seite; Verkündung 02.12.1823; getrennte Einflusssphären, Nicht-Kolonisierung, Nicht-Intervention, US-Selbstverpflichtung zur Nichteinmischung in europäische Angelegenheiten.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S099",
+      "title": "Landtagswahl 2026: endgültiges Ergebnis",
+      "url": "https://www.laiv-mv.de/Wahlen/Landtagswahlen/2026/",
+      "details": "Landeswahlleitung Mecklenburg-Vorpommern · Wahl am 20.09.2026, endgültiges Ergebnis laut Pressemitteilung 24/2026 vom 30.09.2026; Zweitstimmen CDU 4,9, AfD 38,2, SPD 35,5 Prozent. Das vorläufige Ergebnis vom Wahlabend war nicht lesbar.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S100",
+      "title": "Wahl zum 20. Abgeordnetenhaus von Berlin am 20. September 2026",
+      "url": "https://www.wahlen-berlin.de/wahlen/BE2026/Afspraes/AGH/index.html",
+      "details": "Amt für Statistik Berlin-Brandenburg / Landeswahlleitung · amtliches Endergebnis 12.10.2026; Zweitstimmen Die Linke 25,7 (+13,5), CDU 18,8, AfD 16,3, Grüne 14,3, SPD 12,1 Prozent; Vergleichswahl auf der Seite nicht ausdrücklich benannt.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
     }
@@ -2318,6 +2462,54 @@
             }
           ],
           "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
+        },
+        {
+          "id": "mlxFA9T88I0-O0355",
+          "startSeconds": 7800,
+          "endSeconds": 7806,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Hauptgesprächsfundstelle der bereits als A0014 erfassten Fortzugszahl 2025; Herkunft C07-P04. Kein neuer Prüfgegenstand; Bewertung von A0014 unverändert.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7775,
+              "endSeconds": 7859,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        },
+        {
+          "id": "mlxFA9T88I0-O0370",
+          "startSeconds": 8140,
+          "endSeconds": 8145,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Moderator nennt die bereits als A0014 erfasste Fortzugszahl erneut gerundet; Herkunft C07-P08. Kein neuer Prüfgegenstand; Bewertung von A0014 unverändert.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 8040,
+              "endSeconds": 8269,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
         }
       ],
       "relations": []
@@ -2377,6 +2569,30 @@
             }
           ],
           "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
+        },
+        {
+          "id": "mlxFA9T88I0-O0358",
+          "startSeconds": 7825,
+          "endSeconds": 7830,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Hauptgesprächsfundstelle der bereits als A0015 erfassten jährlichen Wiederholung; Herkunft C07-P04. Kein neuer Prüfgegenstand; Bewertung von A0015 unverändert.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7775,
+              "endSeconds": 7859,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
         }
       ],
       "relations": []
@@ -13023,19 +13239,22 @@
       "legacyId": "C04-P08",
       "kind": "Tatsachenbehauptung",
       "description": "In Berlin wurde zuletzt auf einmal stärker links gewählt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Gemeint ist vermutlich die Berliner Wahl kurz vor der Aufnahme. Das amtliche Ergebnis wurde in dieser Prüfung nicht gelesen; daher keine Endbewertung.",
-      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Laut amtlichem Endergebnis der Berliner Abgeordnetenhauswahl vom 20.09.2026 erhielt Die Linke 25,7 Prozent der Zweitstimmen, ein Plus von 13,5 Prozentpunkten; auch die Summe von Linke, SPD und Grünen stieg. Das Wahlergebnis lag am Aufnahmetag als vorläufiges Ergebnis vor, gelesen wurde das spätere Endergebnis. Die Seite nennt die Vergleichswahl nicht ausdrücklich. Die kausale Deutung des Gastes bleibt gesondert als Meinung geführt.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung. Fortgeschrieben in der Kapitel-7-Prüfung am 18.11.2026 nach Lektüre des amtlichen Endergebnisses (S100).",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
         "mapping": "Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+        "assessmentChange": "Zunächst Offen; in der Kapitel-7-Prüfung nach Lektüre des amtlichen Endergebnisses auf Belegt fortgeschrieben."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Amtliches Ergebnis der Berliner Abgeordnetenhauswahl 2026 (Landeswahlleitung) im Vergleich zur Vorwahl lesen."
+      "sourceRefs": [
+        {
+          "sourceId": "S100",
+          "note": "Amtliches Endergebnis mit Gewinnen und Verlusten."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0235",
@@ -17877,6 +18096,1265 @@
               "endSeconds": 7502,
               "precision": "Ungefähr",
               "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0300",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P01",
+      "kind": "Prognose",
+      "description": "Deutschland steuere mit voller Kraft auf einen Eisberg zu; die Kollision sei nicht mehr abzuwenden.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Bildhafte Zusammenfassung des Moderators; Prognose ohne prüfbare Einzelangabe.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Eisberg-Bild, unterstellte Vorwandstrategie und Zwangsmaßnahmen als Prognosen bzw. Wertungen getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung einer Prognose."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0344",
+          "startSeconds": 7502,
+          "endSeconds": 7530,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7502,
+              "endSeconds": 7679,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0301",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P01",
+      "kind": "Prognose",
+      "description": "Die nächste Bankenrettung werde mit einem äußeren Schock begründet und als Anlass für den digitalen Euro genutzt, um Ausweichbewegungen der Bürger zu verhindern.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Unterstellte politische Strategie und Zukunftsszenario; der Gast stimmt zu. Absichten sind nicht belegt.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Eisberg-Bild, unterstellte Vorwandstrategie und Zwangsmaßnahmen als Prognosen bzw. Wertungen getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung einer Prognose."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0345",
+          "startSeconds": 7580,
+          "endSeconds": 7650,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7502,
+              "endSeconds": 7679,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        },
+        {
+          "id": "mlxFA9T88I0-O0346",
+          "startSeconds": 7650,
+          "endSeconds": 7665,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Ausdrückliche Zustimmung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Ausdrückliche Zustimmung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Zustimmende Fortführung des Gastes; plausibler Kandidat.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7502,
+              "endSeconds": 7679,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0302",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P01",
+      "kind": "Prognose",
+      "description": "Es werde immer mehr Zwangsmaßnahmen und Steuererhöhungen geben.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Zukunftsprognose des Gastes.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Eisberg-Bild, unterstellte Vorwandstrategie und Zwangsmaßnahmen als Prognosen bzw. Wertungen getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung einer Prognose."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0347",
+          "startSeconds": 7665,
+          "endSeconds": 7680,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7502,
+              "endSeconds": 7679,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0303",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P02",
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei den Krankenkassen müssten mitversicherte Ehefrauen künftig selbst bezahlen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der Gast äußert dies mit Unsicherheit. Der Gesetzentwurf sieht laut Bundesgesundheitsministerium einen Beitragszuschlag von 2,5 Prozent für mitversicherte Partner ohne eigenes Einkommen vor, berechnet auf das Einkommen des Hauptversicherten. Ein Beitrag für die Mitversicherung ist damit vorgesehen; er ist nicht von der Ehefrau selbst aus eigenem Einkommen zu zahlen, und der Stand ist ein Entwurf.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Ehepartnerbeitrag, Privatversicherung und Umverteilungswertung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S085",
+          "note": "Beitragszuschlag für Partner ohne eigenes Einkommen im Entwurf."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0348",
+          "startSeconds": 7680,
+          "endSeconds": 7690,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7679,
+              "endSeconds": 7720,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P02. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0304",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P02",
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Regierung wolle auch die Privatversicherung stärker belasten.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Ohne genanntes Vorhaben nicht prüfbar; keine Quelle gelesen. Keine Bewertung.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Ehepartnerbeitrag, Privatversicherung und Umverteilungswertung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welches Vorhaben zur privaten Krankenversicherung ist gemeint?"
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0349",
+          "startSeconds": 7690,
+          "endSeconds": 7697,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7679,
+              "endSeconds": 7720,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P02. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0305",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P02",
+      "kind": "Meinung",
+      "description": "Der Staat nehme den Bürgern immer mehr, um weiter so verteilen zu können wie bisher.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Politische Wertung.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Ehepartnerbeitrag, Privatversicherung und Umverteilungswertung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung der Wertung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0350",
+          "startSeconds": 7697,
+          "endSeconds": 7710,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7679,
+              "endSeconds": 7720,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P02. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0306",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P03",
+      "kind": "Tatsachenbehauptung",
+      "description": "US-Präsident Monroe habe 1826 erklärt, die USA mischten sich nirgendwo ein und konzentrierten sich nur auf sich selbst.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die Monroe-Doktrin wurde am 2. Dezember 1823 verkündet, nicht 1826. Sie enthielt die Selbstverpflichtung, sich nicht in europäische Angelegenheiten einzumischen, aber zugleich den Anspruch, dass Europa keine neuen Kolonien in Amerika gründen und dort nicht intervenieren solle. Eine allgemeine Nichteinmischung überall gibt den Inhalt verkürzt wieder.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Monroe-Doktrin als historische Tatsachenangabe von der politischen Forderung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S098",
+          "note": "Datum und Kernelemente der Doktrin."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0351",
+          "startSeconds": 7712,
+          "endSeconds": 7735,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7720,
+              "endSeconds": 7775,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0307",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P03",
+      "kind": "Meinung",
+      "description": "Deutschland solle sich auf sich selbst konzentrieren, kein Geld mehr ins Ausland zahlen und aus UNO und NATO austreten.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Politische Forderung.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Monroe-Doktrin als historische Tatsachenangabe von der politischen Forderung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung einer Forderung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0352",
+          "startSeconds": 7735,
+          "endSeconds": 7765,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7720,
+              "endSeconds": 7775,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0308",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P04",
+      "kind": "Tatsachenbehauptung",
+      "description": "Der durchschnittliche Bildungsstand der Bevölkerung sinkt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Allgemeine Aussage ohne Maßstab (Abschlüsse, Kompetenzen, Altersgruppen). Keine Quelle gelesen.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Messgröße festlegen und z. B. Bildungsbericht oder Kompetenzstudien lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0353",
+          "startSeconds": 7770,
+          "endSeconds": 7775,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7775,
+              "endSeconds": 7859,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0309",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P04",
+      "kind": "Tatsachenbehauptung",
+      "description": "Gute Hochschulabsolventen orientieren sich wegen schwieriger Jobsuche zunehmend ins Ausland.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Trend- und Ursachenbehauptung; keine Quelle zu Motiven und Zeitverlauf gelesen.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Befragungen zu Auswanderungsmotiven von Absolventen lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0354",
+          "startSeconds": 7775,
+          "endSeconds": 7798,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7775,
+              "endSeconds": 7859,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0310",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P04",
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Jahr 2024 verließen rund 280.000 Deutsche das Land; 2025 stieg die Zahl also noch.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Destatis weist für 2024 269.986 und für 2025 288.579 Fortzüge Deutscher aus. Der Anstieg trifft zu; der Wert für 2024 ist um rund 10.000 zu hoch angegeben.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S094",
+          "note": "Fortzüge Deutscher 2024 und 2025."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0356",
+          "startSeconds": 7806,
+          "endSeconds": 7812,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7775,
+              "endSeconds": 7859,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0311",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P04",
+      "kind": "Tatsachenbehauptung",
+      "description": "Rund 70 Prozent der Auswandernden sind Akademiker.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Eine BiB-Befragung von 2018/19 ergab, dass drei Viertel der befragten Aus- und Rückwanderer einen Hochschulabschluss haben. Die Größenordnung ist damit gestützt; es handelt sich um eine ältere Befragung, nicht um die Fortzüge 2025.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S095",
+          "note": "Drei Viertel mit Hochschulabschluss (Befragung 2018/19)."
+        }
+      ],
+      "openQuestions": [
+        "Aktuelle Daten zum Bildungsstand der Fortziehenden 2025 lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0357",
+          "startSeconds": 7812,
+          "endSeconds": 7820,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7775,
+              "endSeconds": 7859,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0312",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P05",
+      "kind": "Tatsachenbehauptung",
+      "description": "Jedes Jahr verlasse mehr als ein Drittel, unter Berücksichtigung des Altersabstands etwa ein Viertel bis ein Drittel eines Geburtsjahrgangs das Land.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Rechnerisch entsprechen 288.579 Fortzüge rund 44 Prozent der 654.241 Geburten 2025 und rund 32 bis 38 Prozent der Jahrgänge 1990 bis 1999. Die Gesprächspartner korrigieren den Bezug selbst auf frühere Jahrgänge. Fortziehende stammen aber aus vielen Jahrgängen, und jährlich kehren rund 190.000 Deutsche zurück; ein Anteil eines einzelnen Jahrgangs, der dauerhaft geht, folgt daraus nicht.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Verhältnis der Fortzüge zu Geburtsjahrgängen als eigene Rechenaussage.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S094",
+          "note": "Fortzüge und Zuzüge Deutscher."
+        },
+        {
+          "sourceId": "S096",
+          "note": "Geburten 2025."
+        },
+        {
+          "sourceId": "S097",
+          "note": "Geburten 1990–1999."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0359",
+          "startSeconds": 7830,
+          "endSeconds": 7870,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7820,
+              "endSeconds": 7899,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0313",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P06",
+      "kind": "Tatsachenbehauptung",
+      "description": "Netto bleiben pro Jahr etwa 100.000, vielleicht 150.000 Deutsche weg.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Destatis weist für 2025 einen Wanderungsverlust Deutscher von 96.689 und für 2024 von 80.879 aus. Die Angabe von rund 100.000 trifft für 2025 zu; 150.000 nennt der Gast nur als Möglichkeit.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S093",
+          "note": "Wanderungsverlust Deutscher 2024/2025."
+        },
+        {
+          "sourceId": "S094",
+          "note": "Saldo nach Staatsangehörigkeit."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0360",
+          "startSeconds": 7870,
+          "endSeconds": 7885,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7860,
+              "endSeconds": 7950,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P06. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0314",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P06",
+      "kind": "Tatsachenbehauptung",
+      "description": "Rückkehrer seien typischerweise Ältere und teils Gescheiterte, die ins Sozialsystem zurückkommen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Alters- und Erwerbsstruktur der Rückkehrer wurde nicht gelesen; die BiB-Seiten enthielten dazu keine Angaben. Keine Bewertung.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Alters- und Erwerbsdaten der Rückwanderer (BiB/GERPS) lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0361",
+          "startSeconds": 7885,
+          "endSeconds": 7900,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7860,
+              "endSeconds": 7950,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P06. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0315",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P06",
+      "kind": "Tatsachenbehauptung",
+      "description": "Hochqualifizierte gehen, weil sie im Inland keinen ihrem Können entsprechenden Job finden.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Ursachenbehauptung; keine Befragungsdaten zu Motiven gelesen.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Motivbefragungen von Auswandernden lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0362",
+          "startSeconds": 7900,
+          "endSeconds": 7915,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7860,
+              "endSeconds": 7950,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P06. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0316",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P06",
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein entfernter Bekannter, Ingenieur, sei aus China zurückgekehrt und arbeite nun im städtischen Straßendepot.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – persönliche Bekanntschaft ohne Namen; kein öffentlicher Bezug.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine weitere Prüfung vorgesehen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0363",
+          "startSeconds": 7915,
+          "endSeconds": 7925,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7860,
+              "endSeconds": 7950,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P06. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0317",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P07",
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Bundeskanzler habe im Sommer in einem Interview auf den Auswanderungswunsch jedes fünften jungen Menschen geantwortet, 80 Prozent blieben ja hier.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Gast kennt das Interview nur aus Ausschnitten; Sendung und Datum sind nicht genannt. Keine Quelle gelesen; keine Bewertung.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Kanzlerinterview, Einschätzung der Umfragezahl, Wahlergebnis Mecklenburg-Vorpommern und Herkunftsland-Beispiel getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Interview identifizieren und Äußerung im Original prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0364",
+          "startSeconds": 7950,
+          "endSeconds": 7965,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7950,
+              "endSeconds": 8040,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0318",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P07",
+      "kind": "Meinung",
+      "description": "Die Umfragezahl jeder Fünfte sei geschönt, tatsächlich wollten mehr auswandern.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Einschätzung des Gastes ohne eigene Datengrundlage.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Kanzlerinterview, Einschätzung der Umfragezahl, Wahlergebnis Mecklenburg-Vorpommern und Herkunftsland-Beispiel getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung der Einschätzung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0365",
+          "startSeconds": 7958,
+          "endSeconds": 7963,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7950,
+              "endSeconds": 8040,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0319",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P07",
+      "kind": "Tatsachenbehauptung",
+      "description": "In Mecklenburg-Vorpommern haben 95,1 Prozent nicht die CDU gewählt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Bei der Landtagswahl am 20.09.2026 erhielt die CDU laut endgültigem Ergebnis 4,9 Prozent der Zweitstimmen; 95,1 Prozent der gültigen Stimmen entfielen auf andere. Das Endergebnis erschien nach der Aufnahme, das vorläufige Ergebnis lag bereits vor, wurde aber nicht gelesen.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Kanzlerinterview, Einschätzung der Umfragezahl, Wahlergebnis Mecklenburg-Vorpommern und Herkunftsland-Beispiel getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S099",
+          "note": "CDU 4,9 Prozent der Zweitstimmen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0366",
+          "startSeconds": 7965,
+          "endSeconds": 7975,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7950,
+              "endSeconds": 8040,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0320",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P07",
+      "kind": "Tatsachenbehauptung",
+      "description": "Aus Ländern wie Somalia werde mit gemeinsamem Geld der Fähigste nach Europa geschickt, der hier im Container sitze und nicht arbeiten dürfe; das sei ein Brain Drain ins Nichts.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – zu unbestimmt. Herkunftsländer, Personengruppe und Aufenthaltsstatus sind nicht abgegrenzt; Arbeitsverbote hängen vom Einzelfall ab.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Kanzlerinterview, Einschätzung der Umfragezahl, Wahlergebnis Mecklenburg-Vorpommern und Herkunftsland-Beispiel getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Beschäftigungsregeln für Asylsuchende und Daten zur Erwerbstätigkeit nach Herkunft lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0367",
+          "startSeconds": 7985,
+          "endSeconds": 8030,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7950,
+              "endSeconds": 8040,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0321",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P08",
+      "kind": "Meinung",
+      "description": "Probleme und vernünftige Lösungen seien allen klar: mehr Freiheit, freiere Wirtschaft, günstigere Energie, Frieden, weniger Bürokratie und Migration.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Politische Wertung des Moderators.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Wertungen des Moderators zu Lösungen, Auswanderungszielen und Gaststatus sowie berichtetes Gespräch getrennt; erneutes Vorkommen von A0014.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung der Wertung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0368",
+          "startSeconds": 8040,
+          "endSeconds": 8090,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 8040,
+              "endSeconds": 8269,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0322",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P08",
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine grüne Politikerin habe ihm gesagt, der Staat mache die Innovation und müsse dafür Geld umverteilen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – privates Gespräch ohne Namen und Datum.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Wertungen des Moderators zu Lösungen, Auswanderungszielen und Gaststatus sowie berichtetes Gespräch getrennt; erneutes Vorkommen von A0014.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine weitere Prüfung vorgesehen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0369",
+          "startSeconds": 8090,
+          "endSeconds": 8105,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 8040,
+              "endSeconds": 8269,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0323",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P08",
+      "kind": "Meinung",
+      "description": "Frankreich und Großbritannien seien kaputt, die USA kein gelobtes Land, die Schweiz für Menschen ohne viel Geld teuer und zunehmend ablehnend.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Bewertende Einschätzung von Auswanderungszielen.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Wertungen des Moderators zu Lösungen, Auswanderungszielen und Gaststatus sowie berichtetes Gespräch getrennt; erneutes Vorkommen von A0014.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung der Wertung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0371",
+          "startSeconds": 8160,
+          "endSeconds": 8200,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 8040,
+              "endSeconds": 8269,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0324",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 7,
+      "legacyId": "C07-P08",
+      "kind": "Meinung",
+      "description": "Als Auswanderer bleibe man immer Gast und könne das Gastland nicht so kritisieren wie die Heimat.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Persönliche Einschätzung.",
+      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 7 einzeln migriert",
+        "mapping": "Wertungen des Moderators zu Lösungen, Auswanderungszielen und Gaststatus sowie berichtetes Gespräch getrennt; erneutes Vorkommen von A0014.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung der Wertung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0372",
+          "startSeconds": 8200,
+          "endSeconds": 8260,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 8040,
+              "endSeconds": 8269,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C07-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
             }
           ]
         }

@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Teilbestand: 67 von 99 ursprünglichen Prüfpunkten übertragen, 32 nicht migriert. Kapitel 1 bis 6 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Abdeckung: Teilbestand: 75 von 99 ursprünglichen Prüfpunkten übertragen, 24 nicht migriert. Kapitel 1 bis 7 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
 Herkunftscommit: bb6e666961baf719d02671a7ad2f439086f3c530
 
@@ -1980,11 +1980,11 @@ Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistun
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0207 | Offen | keine Endbewertung | Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013. |
+| mlxFA9T88I0-A0207 | Abgeschlossen | Belegt | Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013. |
 | mlxFA9T88I0-A0208 | Abgeschlossen | Meinung / Prognose | Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013. |
 | mlxFA9T88I0-A0209 | Offen | keine Endbewertung | Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013. |
 
-Bewertungsuebergang mlxFA9T88I0-A0207: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0207: Zunächst Offen; in der Kapitel-7-Prüfung nach Lektüre des amtlichen Endergebnisses auf Belegt fortgeschrieben.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0208: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3089,3 +3089,331 @@ Bewertungsuebergang mlxFA9T88I0-A0298: Eigenständige Einzelentscheidung; frühe
 
 
 Bewertungsuebergang mlxFA9T88I0-A0299: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C07-P01
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md)
+
+Referenzhash der Kapiteldatei: bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe
+
+Eisberg-Bild, unterstellte Vorwandstrategie und Zwangsmaßnahmen als Prognosen bzw. Wertungen getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 1
+
+- **Fundstelle:** [02:05:02–02:07:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7502s)
+- **Zuordnung:** beide
+- **Prüfgegenstand – unsere Beschreibung:** Politiker vertuschten die Krise, würden einen äußeren Schock als Vorwand für Bankenrettung und digitalen Euro nutzen; weitere Zwänge seien unvermeidlich.
+- **Bewertung:** Meinung / Prognose / Absicht nicht belegt
+
+**Unsere Begründung und Grenzen:** Die behaupteten Motive und künftigen Ereignisse sind nicht durch Dokumente oder überprüfbare konkrete Pläne nachgewiesen. Wiederholung der Geldmengen- und Eurothesen aus 05 Nr. 8–13; deren Einschränkungen gelten fort. Ein Risikoszenario ist kein schon belegter Ablauf.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7502s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+- [FAQs on the digital euro](https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html) · Europäische Zentralbank · Stand: aktualisiert 17.08.2026; Fragen 20 und 24.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0300 | Abgeschlossen | Meinung / Prognose | Eisberg-Bild, unterstellte Vorwandstrategie und Zwangsmaßnahmen als Prognosen bzw. Wertungen getrennt. |
+| mlxFA9T88I0-A0301 | Abgeschlossen | Meinung / Prognose | Eisberg-Bild, unterstellte Vorwandstrategie und Zwangsmaßnahmen als Prognosen bzw. Wertungen getrennt. |
+| mlxFA9T88I0-A0302 | Abgeschlossen | Meinung / Prognose | Eisberg-Bild, unterstellte Vorwandstrategie und Zwangsmaßnahmen als Prognosen bzw. Wertungen getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0300: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0301: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0302: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C07-P02
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md)
+
+Referenzhash der Kapiteldatei: bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe
+
+Ehepartnerbeitrag, Privatversicherung und Umverteilungswertung getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 2
+
+- **Fundstelle:** [02:07:59–02:08:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7679s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Mitversicherte Ehefrauen müssten künftig selbst bezahlen, auch Privatversicherungen sollten herangezogen werden.
+- **Bewertung:** teilweise belegt / Details fehlen
+
+**Unsere Begründung und Grenzen:** Die BMG-FAQ nennt im Vorhaben einen Zuschlag für bestimmte mitversicherte Partner mit mehreren Ausnahmen. Sie beschreibt keine ausnahmslose Abschaffung jeder beitragsfreien Familienversicherung. Wer den Zuschlag zahlt, wird im Gespräch unsicher erinnert. Aussagen zur PKV und der exakte verabschiedete Rechtsstand am Aufnahmetag bleiben offen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Fragen und Antworten zum GKV-Beitragssatzstabilisierungsgesetz](https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-21-lp/gkv-beitragssatzstabilisierungsgesetz-faq) · Bundesministerium für Gesundheit · Stand: 2026; FAQ zum Reformvorhaben, Rechtsstatus nicht mit Verkündung gleichsetzen.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0303 | Abgeschlossen | Teilweise belegt | Ehepartnerbeitrag, Privatversicherung und Umverteilungswertung getrennt. |
+| mlxFA9T88I0-A0304 | Offen | keine Endbewertung | Ehepartnerbeitrag, Privatversicherung und Umverteilungswertung getrennt. |
+| mlxFA9T88I0-A0305 | Abgeschlossen | Meinung / Prognose | Ehepartnerbeitrag, Privatversicherung und Umverteilungswertung getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0303: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0304: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0305: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C07-P03
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md)
+
+Referenzhash der Kapiteldatei: bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe
+
+Monroe-Doktrin als historische Tatsachenangabe von der politischen Forderung getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 3
+
+- **Fundstelle:** [02:08:40–02:09:35](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7720s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Monroe habe 1826 Nichteinmischung überall und Konzentration auf die USA erklärt; Deutschland solle analog aus UN/NATO austreten und Auslandszahlungen einstellen.
+- **Bewertung:** teilweise widerlegt / politische Forderung
+
+**Unsere Begründung und Grenzen:** Die Doktrin wurde am 02.12.1823 formuliert und unterschied europäische und amerikanische Einflussbereiche. Sie war keine universelle Gleichgültigkeit gegenüber dem Ausland. Die Forderung an Deutschland ist eine normative Position; deren wirtschaftliche oder sicherheitspolitische Folgen wurden nicht modelliert.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Monroe Doctrine, 1823](https://history.state.gov/milestones/1801-1829/monroe) · Office of the Historian, US Department of State · Stand: historische Darstellung; Rede 02.12.1823.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0306 | Abgeschlossen | Irreführend / Kontext fehlt | Monroe-Doktrin als historische Tatsachenangabe von der politischen Forderung getrennt. |
+| mlxFA9T88I0-A0307 | Abgeschlossen | Meinung / Prognose | Monroe-Doktrin als historische Tatsachenangabe von der politischen Forderung getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0306: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0307: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C07-P04
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md)
+
+Referenzhash der Kapiteldatei: bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe
+
+Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 4
+
+- **Fundstelle:** [02:09:35–02:10:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7775s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Bildungsstand sinke; 2025 gingen etwa 288.000 Deutsche, 2024 etwa 280.000; vor allem junge und zu 70 Prozent studierte Menschen.
+- **Bewertung:** teilweise belegt / Kohorten vermischt
+
+**Unsere Begründung und Grenzen:** Amtlich: 288.579 Fortzüge 2025, 269.986 im Jahr 2024. Der Anstieg stimmt, der Vorjahreswert ist ungenau. Die ältere GERPS-Befragung 2018/19 von 20–70-Jährigen zeigt einen hohen Akademikeranteil, ist aber keine Vollerhebung aller Fortzüge 2025. Daraus darf die 70-Prozent-Zahl nicht ungekennzeichnet auf alle Staatsangehörigen und Altersgruppen übertragen werden. Die allgemeine Bildungsentwicklung wurde hier nicht mit PISA oder Abschlussreihen geprüft.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Drucksache 21/6244: Antworten der Bundesregierung, Wanderungsstatistik](https://dserver.bundestag.de/btd/21/062/2106244.pdf) · Deutscher Bundestag / Bundesregierung / Destatis · Stand: 2026; Daten 2024 und 2025.
+- [German Emigration and Remigration Panel Study (GERPS)](https://www.bib.bund.de/Publikation/2019/pdf/German-Emigration-and-Remigration-Panel-Study-GERPS.pdf?__blob=publicationFile&v=2) · Bundesinstitut für Bevölkerungsforschung · Stand: Bevölkerungsforschung Aktuell 6/2019; GERPS 2018/19, Alter 20–70.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0308 | Offen | keine Endbewertung | Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt. |
+| mlxFA9T88I0-A0309 | Offen | keine Endbewertung | Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt. |
+| mlxFA9T88I0-A0310 | Abgeschlossen | Teilweise belegt | Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt. |
+| mlxFA9T88I0-A0311 | Abgeschlossen | Teilweise belegt | Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0308: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0309: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0310: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0311: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C07-P05
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md)
+
+Referenzhash der Kapiteldatei: bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe
+
+Verhältnis der Fortzüge zu Geburtsjahrgängen als eigene Rechenaussage.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 5
+
+- **Fundstelle:** [02:10:20–02:11:39](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7820s)
+- **Zuordnung:** beide
+- **Prüfgegenstand – unsere Beschreibung:** Die Fortzüge entsprächen einem Drittel heutiger Geburten; tatsächlich gehe jedes Jahr ein Viertel bis ein Drittel der damaligen Geburtenjahrgänge.
+- **Bewertung:** irreführender Nenner / kein Kohortennachweis
+
+**Unsere Begründung und Grenzen:** Fortzüge betreffen unterschiedliche Altersgruppen, zum Teil mehrmalige Migration, und schließen Rückkehr nicht aus. Die Zahl aller Fortzüge durch die Größe eines einzelnen Geburtsjahrgangs zu teilen misst keinen Anteil dauerhaft verlorener Personen dieses Jahrgangs. Ben erkennt die 25–40 Jahre Differenz, löst damit aber das statistische Problem nicht. Genannte Geburtenzahlen wurden nicht zusätzlich verifiziert.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Drucksache 21/6244: Antworten der Bundesregierung, Wanderungsstatistik](https://dserver.bundestag.de/btd/21/062/2106244.pdf) · Deutscher Bundestag / Bundesregierung / Destatis · Stand: 2026; Daten 2024 und 2025.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0312 | Abgeschlossen | Irreführend / Kontext fehlt | Verhältnis der Fortzüge zu Geburtsjahrgängen als eigene Rechenaussage. |
+
+Bewertungsuebergang mlxFA9T88I0-A0312: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C07-P06
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md)
+
+Referenzhash der Kapiteldatei: bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe
+
+Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 6
+
+- **Fundstelle:** [02:11:00–02:12:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7860s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Netto blieben etwa 100.000, vielleicht 150.000 weg; Rückkehrer seien typischerweise ältere oder gescheiterte Leute, die ins Sozialsystem zurückwollten; Ingenieure fänden keine passenden Jobs.
+- **Bewertung:** teilweise belegt / Rückkehrerbild nicht gestützt
+
+**Unsere Begründung und Grenzen:** Der amtliche Nettosaldo 2025 beträgt minus 96.689, nicht 150.000. GERPS zeigt für die damalige Rückkehrerstichprobe hohes Qualifikationsniveau und ein ähnliches Durchschnittsalter wie für Fortgezogene. Das trägt kein pauschales Bild alter gescheiterter Rückkehrer. Eine Bekanntenanekdote belegt weder generellen Fachkräfteüberschuss noch die genannten Motive aller Fortzüge.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Drucksache 21/6244: Antworten der Bundesregierung, Wanderungsstatistik](https://dserver.bundestag.de/btd/21/062/2106244.pdf) · Deutscher Bundestag / Bundesregierung / Destatis · Stand: 2026; Daten 2024 und 2025.
+- [German Emigration and Remigration Panel Study (GERPS)](https://www.bib.bund.de/Publikation/2019/pdf/German-Emigration-and-Remigration-Panel-Study-GERPS.pdf?__blob=publicationFile&v=2) · Bundesinstitut für Bevölkerungsforschung · Stand: Bevölkerungsforschung Aktuell 6/2019; GERPS 2018/19, Alter 20–70.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0313 | Abgeschlossen | Belegt | Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt. |
+| mlxFA9T88I0-A0314 | Offen | keine Endbewertung | Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt. |
+| mlxFA9T88I0-A0315 | Offen | keine Endbewertung | Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt. |
+| mlxFA9T88I0-A0316 | Offen | keine Endbewertung | Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0313: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0314: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0315: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0316: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C07-P07
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md)
+
+Referenzhash der Kapiteldatei: bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe
+
+Kanzlerinterview, Einschätzung der Umfragezahl, Wahlergebnis Mecklenburg-Vorpommern und Herkunftsland-Beispiel getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 7
+
+- **Fundstelle:** [02:12:30–02:14:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7950s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Merz habe im Sommer auf den Auswanderungswunsch jedes Fünften mit einem Hinweis auf den Anteil der Bleibenden geantwortet; CDU in Mecklenburg-Vorpommern nur 4,9 Prozent; Migration aus Somalia verursache dort Brain Drain, während Migranten hier nicht arbeiten könnten.
+- **Bewertung:** nicht ausreichend belegbar
+
+**Unsere Begründung und Grenzen:** Die Originalinterviewstelle, Umfragegrundgesamtheit und genaue Wahl wurden nicht rekonstruiert. Ein Anteil derjenigen, die auswandern möchten, ist kein tatsächlicher Fortzug. Die Schleusungs-/Qualifikationsgeschichte wird ohne Datensatz erzählt. Pauschale Arbeitsunmöglichkeit lässt Unterschiede des Aufenthaltsstatus und der Erwerbserlaubnis weg; eine vollständige ausländerrechtliche Prüfung erfolgte nicht.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7950s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0317 | Offen | keine Endbewertung | Kanzlerinterview, Einschätzung der Umfragezahl, Wahlergebnis Mecklenburg-Vorpommern und Herkunftsland-Beispiel getrennt. |
+| mlxFA9T88I0-A0318 | Abgeschlossen | Meinung / Prognose | Kanzlerinterview, Einschätzung der Umfragezahl, Wahlergebnis Mecklenburg-Vorpommern und Herkunftsland-Beispiel getrennt. |
+| mlxFA9T88I0-A0319 | Abgeschlossen | Belegt | Kanzlerinterview, Einschätzung der Umfragezahl, Wahlergebnis Mecklenburg-Vorpommern und Herkunftsland-Beispiel getrennt. |
+| mlxFA9T88I0-A0320 | Offen | keine Endbewertung | Kanzlerinterview, Einschätzung der Umfragezahl, Wahlergebnis Mecklenburg-Vorpommern und Herkunftsland-Beispiel getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0317: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0318: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0319: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0320: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C07-P08
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md)
+
+Referenzhash der Kapiteldatei: bff470d53484aeb758d6766c62b3e6024927a5fd5fc73cf6b14f53949bd51dfe
+
+Wertungen des Moderators zu Lösungen, Auswanderungszielen und Gaststatus sowie berichtetes Gespräch getrennt; erneutes Vorkommen von A0014.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 8
+
+- **Fundstelle:** [02:14:00–02:17:49](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8040s)
+- **Zuordnung:** beide
+- **Prüfgegenstand – unsere Beschreibung:** Alle erfolgreichen Menschen wüssten, was wirtschaftspolitisch richtig sei; Schweiz/USA/Frankreich/Großbritannien böten zunehmend schlechte Alternativen; Auswanderer blieben immer Gäste.
+- **Bewertung:** Meinung / pauschale Tatsachenbasis offen
+
+**Unsere Begründung und Grenzen:** Universalaussagen über Einigkeit und Zielländer sind nicht repräsentativ belegt. Gastgefühl, Heimat und Höflichkeit sind persönliche Bewertungen. Bei späterer Einbürgerung ändern sich auch formelle politische Rechte; nicht jeder Auswanderer bleibt rechtlich dauerhaft Gast. Konkrete Kosten, Arbeitschancen und Sicherheit unterscheiden sich nach Ort und Haushalt.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Gesuch um ordentliche oder erleichterte Einbürgerung](https://www.ch.ch/de/auslander-in-der-schweiz/einburgerung/) · ch.ch / Schweizer Behörden · Stand: geltende Behördeninformation beim Abruf.
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8040s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0321 | Abgeschlossen | Meinung / Prognose | Wertungen des Moderators zu Lösungen, Auswanderungszielen und Gaststatus sowie berichtetes Gespräch getrennt; erneutes Vorkommen von A0014. |
+| mlxFA9T88I0-A0322 | Offen | keine Endbewertung | Wertungen des Moderators zu Lösungen, Auswanderungszielen und Gaststatus sowie berichtetes Gespräch getrennt; erneutes Vorkommen von A0014. |
+| mlxFA9T88I0-A0323 | Abgeschlossen | Meinung / Prognose | Wertungen des Moderators zu Lösungen, Auswanderungszielen und Gaststatus sowie berichtetes Gespräch getrennt; erneutes Vorkommen von A0014. |
+| mlxFA9T88I0-A0324 | Abgeschlossen | Meinung / Prognose | Wertungen des Moderators zu Lösungen, Auswanderungszielen und Gaststatus sowie berichtetes Gespräch getrennt; erneutes Vorkommen von A0014. |
+
+Bewertungsuebergang mlxFA9T88I0-A0321: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0322: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0323: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0324: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.

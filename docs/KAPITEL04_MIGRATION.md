@@ -58,7 +58,7 @@ Kapitel 4 allein umfasst 42 neue Datensätze. 15 sind abgeschlossen: zehn Meinun
 
 Priorität haben:
 
-1. Das amtliche Ergebnis der Berliner Wahl 2026 (A0207).
+1. Das amtliche Ergebnis der Berliner Wahl 2026 (A0207). Nachtrag: in der Kapitel-7-Prüfung gelesen, A0207 auf Belegt fortgeschrieben (siehe [Kapitel 7](KAPITEL07_MIGRATION.md)).
 2. Die vollständige BA-Länderrangliste.
 3. Die Exportreihen der Scotch Whisky Association (A0189).
 4. Primärquellen zu den Werken in Ungarn (A0200).
