@@ -4329,7 +4329,7 @@ Frueherer Suchbereich: [01:10:00–01:11:29](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die gelesene Firmenchronik nennt stattdessen den 9. November 2001; das Lokalporträt bestätigt nur das Jahr. Der Datumswiderspruch ist real, aber ohne Bauakte und Hörkontrolle lässt sich nicht entscheiden, welche Erinnerung oder Veröffentlichung fehlerhaft ist. Deshalb keine sichere Widerlegung allein durch die spätere Selbstauskunft.
+Die gelesene Firmenchronik nennt stattdessen den 9. November 2001; das Lokalporträt bestätigt nur das Jahr. Der Datumswiderspruch ist real; denkbar ist auch eine Verwechslung der Schreibweisen, weil 9.11. in deutscher Notation der 9. November, die US-Kurzform 9/11 aber der 11. September ist. Geprüft ist diese Erklärung nicht. Ohne Bauakte und Hörkontrolle lässt sich nicht entscheiden, welche Erinnerung oder Veröffentlichung fehlerhaft ist. Deshalb keine sichere Widerlegung allein durch die spätere Selbstauskunft.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
