@@ -72,3 +72,7 @@ Die Erkenntnisse aus Issue #1 sind berücksichtigt: keine künstlichen Aussagen 
 ## Erweiterung um Kapitel 4 am 18.11.2026
 
 [Migrationsbericht und Recherchegrenzen](KAPITEL04_MIGRATION.md): alle 11 Altpunkte des Kapitels. 44 von 99 Altpunkten übertragen, 55 verbleiben. A0179–A0220 sind 42 zusätzliche Datensätze; A0011–A0013 erhalten je ein Hauptgesprächsvorkommen ohne Änderung ihrer Bewertung. Alle anderen bisherigen Aussagen, Vorkommen, Quellen und Herkunftstexte bleiben erhalten. 220 Datensätze enthalten 218 eigene Aussageinhalte und zwei ausschließlich erörterte Inhalte. Bearbeitet von Claude auf eigenem Branch, Draft gegen main; kein Merge ohne ausdrückliche Freigabe.
+
+## Erweiterung um Kapitel 5 am 18.11.2026
+
+[Migrationsbericht und Recherchegrenzen](KAPITEL05_MIGRATION.md): alle 13 Altpunkte. 57 von 99 übertragen, 42 verbleiben. A0221–A0272 sind 52 zusätzliche Datensätze; A0016–A0018 erhalten je ein Hauptgesprächsvorkommen ohne Änderung ihrer Bewertung. 272 Datensätze enthalten 270 eigene Aussageinhalte und zwei ausschließlich erörterte Inhalte.

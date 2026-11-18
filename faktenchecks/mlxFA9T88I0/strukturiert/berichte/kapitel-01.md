@@ -1,8 +1,8 @@
 # Kapitel 01: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 44 von 99 ursprünglichen Prüfpunkten übertragen, 55 nicht migriert. Kapitel 1 bis 4 sind hinsichtlich ihrer Altpunkte vollständig übertragen; zusätzlich C06-P09 und C08-P03. Kapitel 3 und 4 wurden im abgegrenzten Textzeitraum vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 57 von 99 ursprünglichen Prüfpunkten übertragen, 42 nicht migriert. Kapitel 1 bis 5 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
-A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen.
+A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG.
 
 ## Übertragene Herkunftspunkte und Zuordnung
 
@@ -364,6 +364,23 @@ Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelte
 
 Frueherer Suchbereich: [00:00:30–00:00:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=30s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P03 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
 
+- [01:30:36–01:30:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5436s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Hauptgesprächsfundstelle der bereits als A0016 erfassten Baustelle am Kölner Autobahnring; Herkunft C05-P05. Kein neuer Prüfgegenstand; Bewertung von A0016 unverändert.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:30:50–01:33:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5450s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C05-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
 ### Eigene Begruendung und Migrationsentscheidung
 
 Der Textabgleich mit dem Hauptgespräch um 01:30:37–01:30:51 konkretisiert die private Beobachtung, identifiziert aber weder Bauprojekt noch Fahrtdatum oder beobachteten Bauabschnitt eindeutig. Bewuchs zwischen Platten beweist keinen vollständigen Baustillstand. Die bisher in einem anderen Prüfpunkt genannte Fleher Brücke darf nicht ersatzweise dieser Kölner Baustelle zugeordnet werden. Eine projektspezifische externe Prüfung ist ohne eindeutige Zuordnung noch nicht durchgeführt; deshalb Offen, nicht Nicht ausreichend belegbar. Keine weiteren Brücken-, Zahlungs- oder Fertigstellungsbehauptungen aus Kapitel 5 migriert.
@@ -410,6 +427,23 @@ Fundstellenhinweis: Herkunft C01-P03 (Kapitel 1, Montage). Enger Textbereich der
 Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
 
 Frueherer Suchbereich: [00:00:30–00:00:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=30s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P03 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
+- [01:44:45–01:45:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6285s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Hauptgesprächsfundstelle der bereits als A0017 erfassten S&P-Ankündigung; Herkunft C05-P10. Kein neuer Prüfgegenstand; Bewertung von A0017 unverändert.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:41:00–01:42:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6060s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C05-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
@@ -461,6 +495,23 @@ Fundstellenhinweis: Herkunft C01-P03 (Kapitel 1, Montage). Enger Textbereich der
 Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
 
 Frueherer Suchbereich: [00:00:30–00:00:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=30s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P03 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
+- [01:46:45–01:47:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6405s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Hauptgesprächsfundstelle der bereits als A0018 erfassten Zeitprognose von höchstens zehn Jahren; Herkunft C05-P12. Kein neuer Prüfgegenstand; Bewertung von A0018 unverändert.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:43:00–01:47:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6180s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C05-P12. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
