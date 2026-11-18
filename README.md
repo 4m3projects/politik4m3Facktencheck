@@ -4,7 +4,7 @@ Ein offenes Lernprojekt für quellenbasierte deutschsprachige Faktenchecks zu ei
 
 ## Vorhandener Datenbestand
 
-Hinweis: Die Faktenchecks zu Interviews bei „{ungeskriptet} by Ben“ (Horst Lüning, Naomi Seibt) erscheinen seit 18.11.2026 nur noch auf der Schwesterseite [Faktencheck Ungeskriptet](https://4m3projects.github.io/politik4m3FaktencheckUngeskriptet/). Ihre Daten bleiben hier im Repository, siehe [WEBSEITE.md](docs/WEBSEITE.md#ausgeblendete-videos).
+Hinweis: Die Faktenchecks zu Interviews bei „{ungeskriptet} by Ben“ (Horst Lüning, Naomi Seibt) erscheinen seit 18.11.2026 nur noch auf der Schwesterseite [Faktencheck Ungeskriptet](https://4m3projects.github.io/politik4m3FaktencheckUngeskriptet/). Ihre Daten bleiben hier im Repository, siehe [WEBSEITE.md](docs/WEBSEITE.md), Abschnitt „Ausgeblendete Videos“.
 
 - [Bisherige Auswertung: Horst Lüning bei Ben](faktenchecks/mlxFA9T88I0/README.md): 14 unveränderte Berichtdateien mit 99 ursprünglichen Prüfpunkten; übernommener Arbeitsstand mit offenen Teilprüfungen.
 - [Strukturierte Auswertung desselben Videos](faktenchecks/mlxFA9T88I0/strukturiert/README.md): **99 von 99** ursprünglichen Prüfpunkten übertragen (alle Kapitel). 395 Datensätze enthalten 392 Inhalte mit eigenem Aussagebezug und drei ausschließlich erörterte Inhalte. Die Sachrecherche bleibt eine Teilprüfung; der Bestand ist weiterhin als Teilbestand gekennzeichnet. **Keine Statistik des vollständigen Videos.**
