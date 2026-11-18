@@ -680,6 +680,23 @@ function Expect-FileRejection([string]$Path,[string]$Text) {
     Check-True $blocked 'Publikations-Dateifilter liess unerlaubte Datei durch.'
 }
 Case 'JSON ausserhalb der gezielten Factcheckpfade bleibt verboten' { Expect-FileRejection 'faktenchecks/mlxFA9T88I0/daten.json' '{}' }
+Case 'Video-Metadaten und Beziehungsdatei nur an festen Pfaden zugelassen' {
+    $before=$problems.Count
+    Test-PublicFile 'faktenchecks/mlxFA9T88I0/video.json' '{}' 'Synthetischer Test'
+    Test-PublicFile 'faktenchecks/beziehungen.json' '{}' 'Synthetischer Test'
+    Check-True ($problems.Count -eq $before) 'Zugelassene Metadatenpfade wurden blockiert.'
+    Expect-FileRejection 'faktenchecks/mlxFA9T88I0/beziehungen.json' '{}'
+    Expect-FileRejection 'faktenchecks/mlxFA9T88I0/strukturiert/video.json' '{}'
+    Expect-FileRejection 'faktenchecks/zu-kurz/video.json' '{}'
+}
+Case 'Rhetorik-Ebene nur als rhetorik.json neben video.json zugelassen' {
+    $before=$problems.Count
+    Test-PublicFile 'faktenchecks/mlxFA9T88I0/rhetorik.json' '{}' 'Synthetischer Test'
+    Check-True ($problems.Count -eq $before) 'Zugelassener Rhetorikpfad wurde blockiert.'
+    Expect-FileRejection 'faktenchecks/mlxFA9T88I0/strukturiert/rhetorik.json' '{}'
+    Expect-FileRejection 'faktenchecks/rhetorik.json' '{}'
+    Expect-FileRejection 'faktenchecks/mlxFA9T88I0/rhetorik.json' '> Synthetisches Blockzitat'
+}
 Case 'Beliebige JSON-Datei im Factcheck bleibt verboten' { Expect-FileRejection 'faktenchecks/mlxFA9T88I0/strukturiert/raw.json' '{}' }
 Case 'Medien und Transkripte bleiben verboten' {
     Expect-FileRejection 'faktenchecks/mlxFA9T88I0/strukturiert/media.jpg' 'synthetischer Test'

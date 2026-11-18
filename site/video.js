@@ -98,7 +98,7 @@ function vcItem(entry, c, o, v, ctx) {
   </li>`;
 }
 
-async function pageVideoSync(id) {
+async function pageVideoSync(id, opts = {}) {
   const v = await loadVideo(id);
   const d = v.data;
   const ytId = d ? FactSync.youtubeId(d.scope.videoUrl) : null;
@@ -155,10 +155,12 @@ async function pageVideoSync(id) {
           </div>
         </div>
         <div class="vc-list-col">
+          <div class="vc-scroll" id="vc-scroll">
           <h2 class="vc-list-head" id="vc-list-h">Fundstellen im Zeitverlauf <span class="muted">(${timeline.entries.length})</span></h2>
           <p class="small vc-hint">Alle Zeitmarken sind ${timeline.entries.every(e => e.precision === 'Ungefähr') ? 'ungefähr (aus Untertiteltext eingegrenzt, ohne Audio-/Videokontrolle)' : 'unterschiedlich genau; siehe Angabe je Eintrag'}. Einträge kurz davor oder danach werden deshalb als „in der Nähe“ markiert (${esc(tolText)}).</p>
           <ol class="vc-list" id="vc-list" aria-labelledby="vc-list-h" tabindex="-1">${items || '<li class="small">Keine Fundstellen mit Zeitmarke vorhanden.</li>'}</ol>
           ${untimed ? `<h3 class="vc-list-head">Ohne verwendbare Zeitmarke</h3><ol class="vc-list vc-list-untimed">${untimed}</ol>` : ''}
+          </div>
         </div>
       </div>
     </div>
@@ -167,11 +169,11 @@ async function pageVideoSync(id) {
   window.scrollTo(0, 0);
 
   const $ = s => document.getElementById(s);
-  const vc = $('vc'), list = $('vc-list'), frame = $('vc-frame'), timeEl = $('vc-time'), currentEl = $('vc-current');
+  const vc = $('vc'), list = $('vc-list'), scroller = $('vc-scroll'), frame = $('vc-frame'), timeEl = $('vc-time'), currentEl = $('vc-current');
   const reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const itemEls = Object.fromEntries([...vc.querySelectorAll('.vc-item')].map(el => [el.dataset.key, el]));
 
-  let player = null, ready = false, pendingSeek = null, controller = null, lastUserScroll = 0, destroyed = false, expanded = false, lastFocus = null;
+  let player = null, ready = false, pendingSeek = null, controller = null, lastUserScroll = 0, destroyed = false, expanded = false, lastFocus = null, autoplay = false;
 
   /* ---------- Layout und Großansicht ---------- */
   const setLayout = layout => {
@@ -219,13 +221,13 @@ async function pageVideoSync(id) {
   document.addEventListener('keydown', onKey);
 
   /* ---------- Anzeige des aktuellen Stands ---------- */
-  ['wheel', 'touchmove', 'keydown', 'pointerdown'].forEach(t => list.addEventListener(t, () => { lastUserScroll = Date.now(); }, { passive: true }));
+  ['wheel', 'touchmove', 'keydown', 'pointerdown'].forEach(t => scroller.addEventListener(t, () => { lastUserScroll = Date.now(); }, { passive: true }));
 
   function scrollToCurrent(force) {
     const el = list.querySelector('.vc-item.is-current') || list.querySelector('.vc-item.is-near');
     if (!el || (!force && !$('vc-auto').checked)) return;
     if (!force && Date.now() - lastUserScroll < 4000) return; // Nutzer liest gerade selbst
-    if (list.scrollHeight > list.clientHeight + 1) scrollToEl(el);
+    if (scroller.scrollHeight > scroller.clientHeight + 1) scrollToEl(el);
   }
 
   const STATE_TEXT = { playing: 'Wiedergabe läuft', paused: 'Pausiert', buffering: 'Lädt …', cued: 'Bereit', unstarted: 'Bereit', ended: 'Video zu Ende', error: 'Playerfehler' };
@@ -295,8 +297,8 @@ async function pageVideoSync(id) {
     if (controller) controller.setHold($('vc-hold').getAttribute('aria-pressed') !== 'true');
   });
   function scrollToEl(el) {
-    const top = list.scrollTop + el.getBoundingClientRect().top - list.getBoundingClientRect().top - 8;
-    list.scrollTo({ top, behavior: reduceMotion ? 'auto' : 'smooth' });
+    const top = scroller.scrollTop + el.getBoundingClientRect().top - scroller.getBoundingClientRect().top - 8;
+    scroller.scrollTo({ top, behavior: reduceMotion ? 'auto' : 'smooth' });
   }
 
   /* ---------- Player ---------- */
@@ -354,6 +356,7 @@ async function pageVideoSync(id) {
             if (iframe) { iframe.title = 'YouTube-Videoplayer: ' + v.title; iframe.setAttribute('allow', 'autoplay; encrypted-media; picture-in-picture; fullscreen'); }
             controller.setState('cued');
             if (pendingSeek != null) { const t = pendingSeek; pendingSeek = null; player.seekTo(t, true); player.playVideo(); controller.markSeek(t); }
+            else if (autoplay) player.playVideo();
           },
           onStateChange: e => { if (controller) controller.setState(FactSync.stateName(e.data)); },
           onError: e => showFallback(FactSync.errorText(e.data))
@@ -388,6 +391,16 @@ async function pageVideoSync(id) {
   }
 
   $('vc-load').addEventListener('click', startPlayer);
+
+  /* Knopf „Video mit Faktencheck hier abspielen“ auf der Detailseite: Der Klick dort ist die
+     ausdrückliche Zustimmung (Hinweis steht am Knopf). Gilt nur für diesen Aufruf; die Adresse wird
+     auf die normale Video-Ansicht zurückgesetzt, damit Neuladen nicht erneut automatisch startet. */
+  if (opts.autostart) {
+    history.replaceState(null, '', `#/video/${id}/video`);
+    autoplay = true;
+    vc.scrollIntoView({ block: 'start', behavior: reduceMotion ? 'auto' : 'smooth' });
+    startPlayer();
+  }
   vc.addEventListener('click', e => {
     const b = e.target.closest('.vc-seek');
     if (b) seekTo(entryByKey[b.dataset.key]);

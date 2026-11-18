@@ -19,7 +19,7 @@ const VIDEO = 'mlxFA9T88I0';
 /* Seite wie im Workflow zusammenstellen (vereinfachte Nachbildung). */
 function buildSite() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-site-'));
-  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
+  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
   const videos = [];
   const base = path.join(ROOT, 'faktenchecks');
   for (const id of fs.readdirSync(base).filter(x => /^[A-Za-z0-9_-]{11}$/.test(x))) {
@@ -44,8 +44,13 @@ function buildSite() {
       if (fs.existsSync(p)) fs.copyFileSync(p, path.join(out, 'daten', id, 'strukturiert', f));
     }
     const title = (/^# (.+)$/m.exec(fs.readFileSync(path.join(dir, 'README.md'), 'utf8')) || [])[1] || id;
-    videos.push({ id, title, structured, files });
+    const metaPath = path.join(dir, 'video.json');
+    const rhetPath = path.join(dir, 'rhetorik.json');
+    const rhetoric = fs.existsSync(rhetPath);
+    if (rhetoric) { fs.mkdirSync(path.join(out, 'daten', id), { recursive: true }); fs.copyFileSync(rhetPath, path.join(out, 'daten', id, 'rhetorik.json')); }
+    videos.push({ id, title, structured, rhetoric, files, video: fs.existsSync(metaPath) ? JSON.parse(fs.readFileSync(metaPath, 'utf8')) : null });
   }
+  fs.copyFileSync(path.join(base, 'beziehungen.json'), path.join(out, 'daten', 'beziehungen.json'));
   fs.writeFileSync(path.join(out, 'daten', 'index.json'), JSON.stringify({ generated: new Date().toISOString(), commit: 'test', repository: '4m3projects/politik4m3Facktencheck', videos }));
   return out;
 }
@@ -108,7 +113,7 @@ async function step(name, fn) {
   const base = `http://127.0.0.1:${server.address().port}/`;
   const shots = process.env.SCREENSHOTS;
   const browser = await chromium.launch();
-  const ctx = await browser.newContext({ viewport: { width: 1360, height: 860 } });
+  const ctx = await browser.newContext({ viewport: { width: 1360, height: 860 }, reducedMotion: 'reduce' });
   const external = [];
   const consoleErrors = [];
   let apiMode = 'ok';
@@ -170,15 +175,18 @@ async function step(name, fn) {
 
   await step('Synchronisation: überlappende Aussagen gleichzeitig, neutrale Meldung ohne Zuordnung', async () => {
     // pausiert an eine Stelle mit zwei überlappenden Aussagen (A0012 1–5 s, A0013 4–14 s) ziehen
+    // Expliziter Seek: ein unerklärter Sprung an den Anfang wird absichtlich als mögliche Werbung gehalten.
+    await page.locator('#vc-mlxFA9T88I0-O0013 .vc-seek').click();
     await page.evaluate(() => { __yt.players[0].pauseVideo(); __yt.players[0].t = 4.5; });
     await page.waitForFunction(() => document.querySelectorAll('#vc-list .vc-item.is-current').length === 2);
     const cur = await page.locator('#vc-list .vc-item.is-current .vc-flag').allTextContents();
     assert.deepEqual(cur, ['Jetzt im Video', 'Jetzt im Video']);
     assert.ok(await page.locator('#vc-current li').count() >= 2);
-    await page.evaluate(() => { __yt.players[0].t = 1200; });
+    // Im erweiterten Bestand ist die frühere Testlücke bei 1200 s inzwischen mit Aussagen belegt.
+    await page.evaluate(() => { __yt.players[0].t = 61; });
     await page.waitForFunction(() => /keine geprüfte Aussage/.test(document.getElementById('vc-current').textContent));
     assert.equal(await page.locator('#vc-list .vc-item.is-current, #vc-list .vc-item.is-near').count(), 0);
-    assert.match(await page.locator('#vc-current').textContent(), /Nächste Fundstelle bei 00:56:28/);
+    assert.match(await page.locator('#vc-current').textContent(), /Nächste Fundstelle bei 00:02:18/);
   });
 
   await step('Ungenaue Zeitmarke: Eintrag kurz vor Beginn als „in der Nähe“', async () => {
@@ -188,12 +196,17 @@ async function step(name, fn) {
   });
 
   await step('Klick auf Fundstelle springt im Player; Wiederholung springt zur zweiten Stelle', async () => {
-    const rep = page.locator('#vc-list .vc-item', { hasText: 'Vorkommen 1 von 2' }).first();
+    // Stabile Fundstellen statt des ersten chronologischen Treffers: inzwischen gibt es frühere Wiederholungen.
+    const rep = page.locator('#vc-mlxFA9T88I0-O0007');
     await rep.locator('.vc-seek').click();
     const seeks = await page.evaluate(() => __yt.seeks);
     assert.equal(seeks[seeks.length - 1], 7385);
     await page.waitForFunction(() => document.querySelector('#vc-list .vc-item.is-current .vc-flag'));
     assert.match(await page.locator('#vc-list .vc-item.is-current').first().textContent(), /Vorkommen 1 von 2/);
+    await page.locator('#vc-mlxFA9T88I0-O0019 .vc-seek').click();
+    assert.equal(await page.evaluate(() => __yt.seeks.at(-1)), 30);
+    await page.waitForFunction(() => document.querySelector('#vc-mlxFA9T88I0-O0019.is-current'));
+    assert.match(await page.locator('#vc-mlxFA9T88I0-O0019').textContent(), /Vorkommen 2 von 2/);
   });
 
   await step('Werbung (eigene Dauer, Zähler ab 0): Anzeige hält, Hinweis, danach Fortsetzung', async () => {
@@ -248,7 +261,7 @@ async function step(name, fn) {
     await page.check('#vc-auto');
     await page.evaluate(() => { __yt.players[0].state(1); __yt.players[0].t = 8390; });
     await page.waitForFunction(() => {
-      const l = document.getElementById('vc-list'), el = l.querySelector('.vc-item.is-current');
+      const l = document.getElementById('vc-scroll'), el = l.querySelector('.vc-item.is-current');
       if (!el) return false;
       const lr = l.getBoundingClientRect(), r = el.getBoundingClientRect();
       return r.top >= lr.top - 1 && r.top < lr.bottom;
@@ -262,6 +275,12 @@ async function step(name, fn) {
     });
     await page.click('.seg button[data-layout="side"]');
     assert.equal((await box()).side, true);
+    const align = await page.evaluate(() => {
+      const sc = document.getElementById('vc-scroll');
+      return { inside: sc.contains(document.getElementById('vc-list-h')), dy: Math.abs(sc.getBoundingClientRect().top - document.getElementById('vc-frame').getBoundingClientRect().top) };
+    });
+    assert.ok(align.inside, 'Überschrift „Fundstellen im Zeitverlauf“ scrollt mit der Liste');
+    assert.ok(align.dy <= 2, 'Listenbereich beginnt auf Höhe des Videos, Abstand ' + align.dy + ' px');
     if (shots) await page.screenshot({ path: path.join(shots, 'nebeneinander.png') });
     await page.click('.seg button[data-layout="stack"]');
     assert.equal((await box()).below, true);
@@ -303,6 +322,26 @@ async function step(name, fn) {
     await page.goto(base + `#/video/${VIDEO}`);
     await page.waitForSelector('#claims .claim');
     assert.equal(await page.evaluate(() => __yt.players[0].destroyed), true);
+  });
+
+  await step('Knopf „hier abspielen“ auf der Detailseite: scrollt zum Video und startet es sofort', async () => {
+    const p3 = await ctx.newPage();
+    p3.on('pageerror', e => consoleErrors.push(e.message));
+    await p3.goto(base + `#/video/${VIDEO}`);
+    await p3.waitForSelector('#claims .claim');
+    assert.equal(await p3.evaluate(() => !!window.__yt), false, 'vor dem Klick nichts von YouTube geladen');
+    assert.match(await p3.locator('.btn-note').textContent(), /YouTube/);
+    await p3.click('a.btn:has-text("hier abspielen")');
+    await p3.waitForFunction(() => window.__yt && __yt.players.length === 1 && __yt.players[0].s === 1);
+    assert.equal(await p3.evaluate(() => location.hash), `#/video/${VIDEO}/video`, 'Adresse ohne Autostart, Neuladen startet nicht erneut');
+    assert.equal(await p3.evaluate(() => __yt.options.host), 'https://www.youtube-nocookie.com');
+    await p3.waitForTimeout(800);
+    const top = await p3.evaluate(() => document.getElementById('vc').getBoundingClientRect().top);
+    assert.ok(Math.abs(top) < 80, 'Video-Bereich oben im Blick, Abstand ' + top);
+    await p3.reload();
+    await p3.waitForSelector('#vc-load');
+    assert.equal(await p3.evaluate(() => !!window.__yt), false, 'nach Neuladen kein automatischer Start');
+    await p3.close();
   });
 
   await step('Playerfehler (Einbettung verboten) zeigt Fallback-Link', async () => {

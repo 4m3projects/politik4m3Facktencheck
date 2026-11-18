@@ -37,6 +37,14 @@ Diese Regeln gelten für Codex, ChatGPT, Claude und weitere KI-Agenten. **GitHub
 
 **Allgemeine Projektregeln und Datenmodell stehen in dieser `AGENTS.md`.** Die kurze `CLAUDE.md` verweist für Claude auf dieselben verbindlichen Regeln, damit nicht zwei abweichende Anweisungssätze entstehen.
 
+## Dauerhafte Verfahrensregeln für Reaktionsvideos
+
+**Pflichtlektüre für alle Agenten:** [docs/AGENTEN_REAKTIONSABGLEICH.md](docs/AGENTEN_REAKTIONSABGLEICH.md). Bei jeder neuen oder geänderten Reaktionsprüfung Originalaussagen erneut abgleichen, übersehene Behauptungen identifizieren, neue Belege unabhängig prüfen und gegebenenfalls den Original-Faktencheck mit nachvollziehbarer Korrekturhistorie verbessern. Anschließend verknüpfte Reaktionen auf veraltete Bewertungen prüfen. Datenmodell: [docs/REAKTIONSVIDEOS.md](docs/REAKTIONSVIDEOS.md).
+
+## Zwei unabhängige Bewertungsebenen
+
+**Pflichtlektüre für alle Agenten:** [docs/AGENTEN_RHETORIK.md](docs/AGENTEN_RHETORIK.md). Die bestehende sachliche Faktenprüfung (einschließlich Meinung/Prognose und aller bisherigen Kategorien) bleibt unverändert. Zusätzlich können Aussagen mit begründeten Rhetorik-Hinweisen wie Abwertung, Ironie oder möglichem Tunnelblick versehen werden. Rhetorische Hinweise verändern weder Wahr/Falsch-Bewertungen noch bestehende Fehlerstatistiken und dürfen nicht automatisch als Fehlerpunkte zählen. Datenmodell: [docs/RHETORIK.md](docs/RHETORIK.md).
+
 ## 1. Veröffentlichung und Rechte – oberste Projektregel
 
 - In dieses Repository gehören nur eigene Projekttexte, eigene Analyse/Interpretation, eigener Programmcode und knappe bibliografische Angaben mit externen Quellenlinks.

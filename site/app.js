@@ -24,7 +24,7 @@ const STATUS = [
 ];
 const VKEY = Object.fromEntries(VERDICTS.map(v => [v.name, v.key]));
 
-const state = { index: null, videos: new Map(), md: new Map(), tip: null, cleanup: null };
+const state = { index: null, videos: new Map(), md: new Map(), tip: null, cleanup: null, relations: { relations: [] }, rel: null };
 
 /* ---------- Hilfsfunktionen ---------- */
 
@@ -268,14 +268,173 @@ async function loadVideo(id) {
   if (state.videos.has(id)) return state.videos.get(id);
   const entry = state.index.videos.find(v => v.id === id);
   if (!entry) throw new Error('Unbekanntes Video: ' + id);
-  const [readme, data, stats] = await Promise.all([
+  const [readme, data, stats, rhet] = await Promise.all([
     getText(id + '/README.md').catch(() => ''),
     entry.structured ? getJson(id + '/strukturiert/aussagen.json') : Promise.resolve(null),
-    entry.structured ? getJson(id + '/strukturiert/statistik.json').catch(() => null) : Promise.resolve(null)
+    entry.structured ? getJson(id + '/strukturiert/statistik.json').catch(() => null) : Promise.resolve(null),
+    /* Zweite Ebene (Rhetorik) ist optional; fehlt sie, gilt das Video als rhetorisch noch nicht geprüft. */
+    entry.rhetoric ? getJson(id + '/rhetorik.json').catch(() => null) : Promise.resolve(null)
   ]);
-  const v = { ...entry, readme, meta: readmeMeta(readme), data, stats };
+  const v = { ...entry, readme, meta: readmeMeta(readme), data, stats, rhet };
   state.videos.set(id, v);
   return v;
+}
+
+/* ---------- YouTube-Vorschaubilder nur nach Zustimmung ---------- */
+/* Ohne Zustimmung lädt die Seite keine Bilder von YouTube. Die Wahl wird nur im eigenen Browser
+   gespeichert und lässt sich in der Fußzeile jederzeit ändern. */
+const THUMB_KEY = 'p4m3.ytVorschaubilder';
+function thumbChoice() {
+  try { const v = localStorage.getItem(THUMB_KEY); return v === 'ja' || v === 'nein' ? v : null; } catch (e) { return state.thumbChoice || null; }
+}
+function setThumbChoice(v) {
+  state.thumbChoice = v;
+  try { localStorage.setItem(THUMB_KEY, v); } catch (e) { /* ohne Speicher gilt die Wahl nur für diesen Aufruf */ }
+  updateThumbSetting();
+  route();
+}
+function ytIdOf(videoId, url) {
+  const fromUrl = FactSync.youtubeId(url);
+  return fromUrl || (/^[A-Za-z0-9_-]{11}$/.test(videoId || '') ? videoId : null);
+}
+function thumbImg(videoId, url, cls = 'thumb') {
+  if (thumbChoice() !== 'ja') return '';
+  const id = ytIdOf(videoId, url);
+  return id ? `<img class="${cls}" src="https://i.ytimg.com/vi/${esc(id)}/mqdefault.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="320" height="180">` : '';
+}
+function thumbPrompt() {
+  if (thumbChoice()) return '';
+  return `<div class="notice thumb-ask" role="region" aria-label="Vorschaubilder von YouTube">
+    <p><strong>Vorschaubilder von YouTube anzeigen?</strong> Dann lädt dein Browser die Bilder direkt von YouTube (i.ytimg.com, Google); dabei werden mindestens deine IP-Adresse und technische Gerätedaten übertragen. Ohne Zustimmung lädt diese Seite nichts von YouTube. Die Wahl wird nur in deinem Browser gespeichert und lässt sich unten in der Fußzeile ändern.</p>
+    <div class="btn-row"><button type="button" class="btn" data-thumbs="ja">Vorschaubilder anzeigen</button><button type="button" class="btn ghost" data-thumbs="nein">Nein, danke</button></div>
+  </div>`;
+}
+function updateThumbSetting() {
+  const b = document.getElementById('thumb-setting');
+  if (!b) return;
+  const on = thumbChoice() === 'ja';
+  b.textContent = on ? 'YouTube-Vorschaubilder: an (ausschalten)' : 'YouTube-Vorschaubilder: aus (einschalten)';
+  b.setAttribute('aria-pressed', on ? 'true' : 'false');
+}
+document.addEventListener('click', e => {
+  const b = e.target.closest('[data-thumbs]');
+  if (b) { setThumbChoice(b.dataset.thumbs); return; }
+  if (e.target.closest('#thumb-setting')) setThumbChoice(thumbChoice() === 'ja' ? 'nein' : 'ja');
+});
+
+/* ---------- Originale, Reaktionen und Beziehungen (site/relations.js) ---------- */
+
+function roleOf(id) { return state.index.videos.find(v => v.id === id)?.video?.role || null; }
+function entryOf(id) { return state.index.videos.find(v => v.id === id) || null; }
+function videoName(id) {
+  const e = entryOf(id);
+  return e ? (e.video?.title || e.title) : id;
+}
+function shortClaim(id, videoId) { return String(id || '').replace(videoId + '-', ''); }
+function reactionTypeName(t) { return FactRelations.REACTION_TYPES[t] || t || ''; }
+function stateBadge(st) {
+  const cls = st === 'konflikt' ? 'conflict' : st === 'geklaert' ? 'resolved' : st === 'stimmig' ? 'ok' : 'neutral';
+  return `<span class="badge rel-state rel-${cls}">${st === 'konflikt' ? '⚠ ' : ''}${esc(FactRelations.STATE_TEXT[st])}</span>`;
+}
+/* Verknüpfte Videos (beide Seiten) laden, damit Aussagen gegenübergestellt werden können. */
+async function loadLinked(relations) {
+  const ids = new Set();
+  for (const r of relations) { ids.add(r.originalVideoId); ids.add(r.reactionVideoId); }
+  const out = new Map();
+  await Promise.all([...ids].map(async id => { out.set(id, await loadVideo(id).catch(() => null)); }));
+  return out;
+}
+function claimOf(videos, videoId, claimId) {
+  return (videos.get(videoId)?.data?.claims || []).find(c => c.id === claimId) || null;
+}
+function linkView(r, l, videos) {
+  const oc = claimOf(videos, r.originalVideoId, l.originalClaimId);
+  const rc = l.reactionClaimId ? claimOf(videos, r.reactionVideoId, l.reactionClaimId) : null;
+  return { oc, rc, cmp: FactRelations.compareLink(l, oc, rc) };
+}
+function claimSide(label, videoId, claimId, c) {
+  if (!claimId) return `<div class="cmp-side"><div class="cmp-label">${esc(label)}</div><p class="small">Keine eigene Aussage verknüpft.</p></div>`;
+  const srcs = c ? Object.fromEntries(sourcesOf(videoId).map(s => [s.id, s])) : {};
+  const refs = (c?.sourceRefs || []).slice(0, 4).map(ref => {
+    const s = srcs[ref.sourceId];
+    return `<li>${s ? extLink(s.url, esc(s.title)) : esc(ref.sourceId)}</li>`;
+  }).join('');
+  return `<div class="cmp-side"><div class="cmp-label">${esc(label)} · <a href="#/video/${esc(videoId)}/aussage/${esc(claimId)}">${esc(shortClaim(claimId, videoId))}</a></div>
+    ${c ? `${verdictBadge(c.verdict, c.status, c.reason)}<p class="cmp-desc">${esc(c.description)}</p><p class="small">${esc(c.reason)}</p>${refs ? `<ul class="sources small">${refs}</ul>` : ''}` : '<p class="small">Aussage nicht gefunden.</p>'}
+  </div>`;
+}
+function sourcesOf(videoId) { return state.videos.get(videoId)?.data?.sources || []; }
+
+function linkCard(r, l, videos) {
+  const { oc, rc, cmp } = linkView(r, l, videos);
+  const t = l.reactionSeconds != null ? ` · Stelle in der Reaktion ${hms(l.reactionSeconds)}` : '';
+  const res = l.resolution ? `<div class="notice"><strong>${esc(FactRelations.RESOLUTIONS[l.resolution.status])}</strong> (${esc(deDate(l.resolution.date))}): ${esc(l.resolution.note)}
+      <ul class="small">${l.resolution.sources.map(u => `<li>${extLink(u, esc(u))}</li>`).join('')}</ul></div>` : '';
+  const rev = l.review ? `<p class="small">Review-Aufgabe: ${extLink(l.review.task, esc(l.review.task))} – ${esc(l.review.note)}</p>` : '';
+  const hist = (l.history || []).map(h => `<li>${esc(deDate(h.date))}: ${esc(h.change)}</li>`).join('');
+  return `<article class="cmp${cmp.state === 'konflikt' ? ' cmp-conflict' : ''}" id="${esc(l.id)}">
+    <div class="claim-top">${stateBadge(cmp.state)}<span class="badge kind">${esc(FactRelations.LINK_TYPES[l.type])}</span><span class="small">${esc(l.id)}${t}</span></div>
+    <p>${esc(l.note)}</p>
+    ${cmp.state === 'konflikt' ? '<p class="notice warn"><strong>Prüfkonflikt:</strong> Die beiden Bewertungen widersprechen sich und sind noch nicht geklärt. Keine der beiden Bewertungen ist deshalb automatisch richtig; die Quellen beider Seiten stehen unten gegenüber.</p>' : ''}
+    <div class="cmp-grid">${claimSide('Original: ' + videoName(r.originalVideoId), r.originalVideoId, l.originalClaimId, oc)}${claimSide('Reaktion: ' + videoName(r.reactionVideoId), r.reactionVideoId, l.reactionClaimId, rc)}</div>
+    ${res}${rev}${hist ? `<details><summary>Korrekturverlauf</summary><ul class="small">${hist}</ul></details>` : ''}
+  </article>`;
+}
+
+function relationSummary(r, videos, side) {
+  const other = side === 'original' ? r.reactionVideoId : r.originalVideoId;
+  const e = entryOf(other);
+  const conflicts = (r.claimLinks || []).filter(l => linkView(r, l, videos).cmp.state === 'konflikt').length;
+  const thumb = thumbImg(other, e?.video?.videoUrl, 'rel-thumb');
+  return `<li class="rel-item${thumb ? ' has-thumb' : ''}">
+    ${thumb ? `<a href="#/video/${esc(other)}" tabindex="-1" aria-hidden="true">${thumb}</a>` : ''}
+    <div class="rel-body">
+    <a href="#/video/${esc(other)}"><strong>${esc(videoName(other))}</strong></a>
+    <div class="small">${esc(e?.video?.channel || '')}${side === 'original' && e?.video?.reactionType ? ' · ' + esc(reactionTypeName(e.video.reactionType)) : ''} · Analyse: ${esc(e?.video?.workStatus || 'unbekannt')} · Zuordnung ${esc(r.certainty.toLowerCase())}</div>
+    <div class="small">${esc(r.basis)}</div>
+    <div class="small">${(r.claimLinks || []).length} verknüpfte Aussagen${conflicts ? ` · <span class="rel-conflict-text">⚠ ${conflicts} offene${conflicts === 1 ? 'r' : ''} Prüfkonflikt${conflicts === 1 ? '' : 'e'}</span>` : ''}</div>
+    </div>
+  </li>`;
+}
+
+/* Abschnitt auf der Detailseite: Reaktionen zu einem Original bzw. Bezüge einer Reaktion. */
+async function relationsSection(v) {
+  const role = v.video?.role;
+  if (role === 'original') {
+    const rels = state.rel.byOriginal.get(v.id) || [];
+    const videos = await loadLinked(rels);
+    const links = rels.flatMap(r => (r.claimLinks || []).map(l => linkCard(r, l, videos))).join('');
+    return `<section class="section" id="reaktionen" aria-labelledby="h-reaktionen">
+      <div class="section-head"><h2 id="h-reaktionen">Reaktionen und weitere Faktenchecks</h2>
+      <p>Videos anderer Kanäle, die sich nachweislich auf dieses Video beziehen. Ihre Aussagen werden eigenständig geprüft; der Faktencheck dieses Videos ist dafür Kontext, kein Wahrheitsmaßstab.</p></div>
+      ${rels.length ? `${thumbPrompt()}<ul class="rel-list">${rels.map(r => relationSummary(r, videos, 'original')).join('')}</ul>` : '<p class="muted">Noch keine Reaktionen zugeordnet.</p>'}
+      ${links ? `<h3 style="margin-top:20px">Gegenüberstellung verknüpfter Aussagen</h3><div class="cmp-list">${links}</div>` : ''}
+    </section>`;
+  }
+  if (role === 'reaction') {
+    const rels = state.rel.byReaction.get(v.id) || [];
+    const videos = await loadLinked(rels);
+    const links = rels.flatMap(r => (r.claimLinks || []).map(l => linkCard(r, l, videos))).join('');
+    return `<section class="section" id="bezuege" aria-labelledby="h-bezuege">
+      <div class="section-head"><h2 id="h-bezuege">Bezüge auf Originalvideos</h2>
+      <p>Wiedergaben und eigene Behauptungen dieser Reaktion, verknüpft mit den geprüften Aussagen des Originals.</p></div>
+      ${rels.length ? `${thumbPrompt()}<ul class="rel-list">${rels.map(r => relationSummary(r, videos, 'reaction')).join('')}</ul>` : '<p class="muted">Noch keinem Original zugeordnet.</p>'}
+      ${links ? `<div class="cmp-list">${links}</div>` : ''}
+    </section>`;
+  }
+  return '';
+}
+
+/* Kurze Rolle im Kopf jeder Videoseite, bei Reaktionen mit Rückverlinkung. */
+function roleLine(v) {
+  const m = v.video;
+  if (!m) return '';
+  if (m.role === 'original') {
+    const n = (state.rel.byOriginal.get(v.id) || []).length;
+    return `<p class="role-line"><span class="badge kind">Original</span>${n ? ` <a href="#/video/${esc(v.id)}/reaktionen">${n} zugeordnete Reaktion${n === 1 ? '' : 'en'}</a>` : ''}</p>`;
+  }
+  const origs = (state.rel.byReaction.get(v.id) || []).map(r => `<a href="#/video/${esc(r.originalVideoId)}">${esc(videoName(r.originalVideoId))}</a>`);
+  return `<p class="role-line"><span class="badge kind">${esc(reactionTypeName(m.reactionType))}</span> von ${esc(m.channel)}${origs.length ? ` · bezieht sich auf: ${origs.join(', ')}` : ''}</p>`;
 }
 
 /* ---------- Seiten ---------- */
@@ -284,6 +443,7 @@ const main = () => document.getElementById('inhalt');
 
 function setPage(html, nav) {
   hideTip();
+  main().style.minHeight = '';
   main().innerHTML = html;
   document.querySelectorAll('.mainnav a[data-nav]').forEach(a => {
     if (a.dataset.nav === nav) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
@@ -302,16 +462,43 @@ function videoFacts(v) {
   return items.join('');
 }
 
-async function pageHome() {
-  const videos = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
-  const allClaims = videos.flatMap(v => v.data?.claims || []);
-  const done = allClaims.filter(c => c.status === 'Abgeschlossen').length;
-  const sources = videos.reduce((n, v) => n + (v.data?.sources?.length || 0), 0);
+/* Übersicht der Darstellungshinweise eines Videos: Anzahl je Merkmal, getrennt von der Faktenstatistik.
+   interactive: Merkmale als Filterknöpfe (Detailseite); sonst reine Anzeige (Startseitenkarte). */
+function rhetSummary(v, interactive) {
+  const st = FactRhetoric.reviewState(v.rhet);
+  if (!v.rhet) return `<div class="rhet-sum"><div class="rhet-label">Darstellung · KI-Hinweise</div><p class="small">Noch nicht geprüft</p></div>`;
+  const counts = Object.entries(FactRhetoric.featureCounts(v.rhet)).filter(([, n]) => n > 0);
+  const chip = ([k, n]) => {
+    const f = FactRhetoric.FEATURES[k];
+    const inner = `${esc(f.name)} <b>${n}</b>`;
+    return interactive
+      ? `<li><button type="button" class="badge rhet-badge rhet-chip" data-rhet-filter="${esc(k)}" data-tip="${esc(f.hint)}">${inner}</button></li>`
+      : `<li><span class="badge rhet-badge" data-tip="${esc(f.hint)}">${inner}</span></li>`;
+  };
+  return `<div class="rhet-sum" aria-label="Darstellungshinweise">
+    <div class="rhet-label">Darstellung · ${st.annotations} KI-Hinweis${st.annotations === 1 ? '' : 'e'} zu ${st.claims} Aussage${st.claims === 1 ? '' : 'n'}</div>
+    ${counts.length ? `<ul class="rhet-chips">${counts.map(chip).join('')}</ul>` : '<p class="small">Keine Hinweise erfasst.</p>'}
+    <p class="small">${esc(st.status)}. Wie etwas gesagt wird, getrennt von richtig/falsch; keine Fehlerpunkte.</p>
+  </div>`;
+}
 
-  const cards = videos.map(v => {
+async function pageHome() {
+  const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
+  /* Hauptübersicht: alle Videos außer Reaktionen; Reaktionen erscheinen bei ihrem Original.
+     Videos ohne video.json gelten hier als normale Faktenchecks. */
+  const videos = all.filter(v => v.video?.role !== 'reaction');
+  const shown = videos;
+  const allClaims = shown.flatMap(v => v.data?.claims || []);
+  const done = allClaims.filter(c => c.status === 'Abgeschlossen').length;
+  const sources = shown.reduce((n, v) => n + (v.data?.sources?.length || 0), 0);
+  const rhetTotal = shown.reduce((n, v) => n + FactRhetoric.reviewState(v.rhet).annotations, 0);
+
+  const card = v => {
     const claims = v.data?.claims || [];
+    const nReact = (state.rel.byOriginal.get(v.id) || []).length;
     const scope = v.data?.scope;
     return `<a class="card" href="#/video/${esc(v.id)}">
+      ${thumbImg(v.id, v.video?.videoUrl || scope?.videoUrl, 'card-thumb')}
       <div class="claim-top">${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}
       ${v.meta.Status ? `<span class="small">${esc(v.meta.Status)}</span>` : ''}</div>
       <h3>${esc(v.title)}</h3>
@@ -319,9 +506,12 @@ async function pageHome() {
       ${claims.length ? `<div>${distribution(claims)}</div>
         <p class="meta">${claims.length} strukturierte Aussagen · ${claims.filter(c => c.status === 'Abgeschlossen').length} abgeschlossen${scope && scope.totalLegacyPoints ? ` · ${scope.totalLegacyPoints - scope.unmigratedLegacyPoints} von ${scope.totalLegacyPoints} Prüfpunkten des Erststands strukturiert` : ''}</p>`
         : '<p class="meta">Noch keine strukturierten Aussagen; Berichte als Text verfügbar.</p>'}
+      ${rhetSummary(v, false)}
+      ${v.video?.role === 'original' ? `<p class="meta">${nReact ? `${nReact} zugeordnete Reaktion${nReact === 1 ? '' : 'en'} und weitere Faktenchecks` : 'Noch keine Reaktionen zugeordnet'}</p>` : ''}
       <span class="more">Zum Faktencheck →</span>
     </a>`;
-  }).join('');
+  };
+  const cards = videos.map(card).join('');
 
   setPage(`
   <section class="hero">
@@ -334,12 +524,14 @@ async function pageHome() {
         <li>${allClaims.length} strukturierte Aussagen</li>
         <li>${done} abgeschlossen</li>
         <li>${sources} verlinkte Quellen</li>
+        ${rhetTotal ? `<li>${rhetTotal} Darstellungshinweise (KI)</li>` : ''}
       </ul>
     </div>
   </section>
   <div class="wrap">
     <section class="section" aria-labelledby="h-videos">
-      <div class="section-head"><h2 id="h-videos">Geprüfte Videos</h2><p>Neue Faktenchecks erscheinen hier automatisch, sobald sie in den Hauptstand übernommen wurden.</p></div>
+      <div class="section-head"><h2 id="h-videos">Geprüfte Videos</h2><p>Neue Faktenchecks erscheinen hier automatisch, sobald sie in den Hauptstand übernommen wurden. Reaktionen auf ein bereits geprüftes Video stehen auf dessen Seite im Reiter „Reaktionen“.</p></div>
+      ${cards ? thumbPrompt() : ''}
       <div class="cards">${cards || '<p class="muted">Noch keine Faktenchecks veröffentlicht.</p>'}</div>
     </section>
     <section class="section" aria-labelledby="h-team">
@@ -362,7 +554,77 @@ async function pageHome() {
   document.title = 'Politik4M3 Faktencheck';
 }
 
-function claimCard(c, v, chapterTitles) {
+/* ---------- Zweite Ebene: Rhetorik und Darstellung (siehe docs/RHETORIK.md) ---------- */
+/* Rhetorik-Hinweise stehen getrennt neben der Faktenbewertung, ändern sie nie und zählen nicht als Fehler. */
+const RHET_KEY = 'p4m3.rhetorikHinweise';
+function rhetShown() {
+  try { return localStorage.getItem(RHET_KEY) !== 'aus'; } catch (e) { return true; }
+}
+function setRhetShown(on) {
+  try { localStorage.setItem(RHET_KEY, on ? 'an' : 'aus'); } catch (e) { /* nur Anzeigevorliebe */ }
+  document.documentElement.classList.toggle('hide-rhet', !on);
+}
+function rhetBadge(a) {
+  const f = FactRhetoric.FEATURES[a.feature];
+  return `<span class="badge rhet-badge" data-tip="${esc(f?.hint || '')}">${esc(f?.name || a.feature)}${a.assessment !== 'Erkennbar' ? ' · ' + esc(a.assessment.toLowerCase()) : ''}</span>`;
+}
+function rhetSpeaker(a, d) {
+  const sp = (d?.speakers || []).find(s => s.id === a.speaker?.id);
+  const name = sp ? (sp.name || 'Unbenannte Stimme ' + sp.id) : null;
+  if (a.speaker?.attribution === 'Bestätigt' && name) return esc(name);
+  if (a.speaker?.attribution === 'Plausibel' && name) return 'vermutlich ' + esc(name);
+  return 'Sprecher ungeklärt';
+}
+function rhetBlock(list, v) {
+  if (!list || !list.length) return '';
+  const url = v.data?.scope?.videoUrl || v.video?.videoUrl;
+  const items = list.map(a => {
+    const t = `${hms(a.startSeconds)}–${hms(a.endSeconds)}`;
+    const time = videoTimeUrl(url, a.startSeconds) ? extLink(videoTimeUrl(url, a.startSeconds), `<span class="time">▶ ${t}</span>`) : `<span class="time">${t}</span>`;
+    return `<li class="rhet-item">
+      <div class="rhet-top">${rhetBadge(a)}<span class="small">${time} · ${rhetSpeaker(a, v.data)}</span></div>
+      <p class="rhet-obs">${esc(a.observation)}</p>
+      <details class="rhet-more"><summary>Begründung, Kontext und Unsicherheit</summary>
+        <dl class="kv">
+          <dt>Begründung</dt><dd>${esc(a.reason)}</dd>
+          <dt>Kontext</dt><dd>${esc(a.context)}</dd>
+          ${a.missingInformation ? `<dt>Fehlende Information</dt><dd>${esc(a.missingInformation.what)}${a.missingInformation.source ? ' · ' + extLink(a.missingInformation.source, 'Quelle') : ''}${a.missingInformation.reasoning ? ' · ' + esc(a.missingInformation.reasoning) : ''}</dd>` : ''}
+          <dt>Unsicherheit</dt><dd>${esc(a.uncertainty)}</dd>
+          <dt>Zuverlässigkeit</dt><dd>${esc(a.reliability)}</dd>
+          <dt>Sprecherzuordnung</dt><dd>${esc(a.speaker?.basis)}</dd>
+          <dt>Grundlage</dt><dd>${esc(a.basis)}</dd>
+          <dt>Prüfstand</dt><dd>${esc(a.status)} · ${(a.history || []).map(h => `${esc(deDate(h.date))} ${esc(h.by)}: ${esc(h.change)}`).join(' · ')}</dd>
+        </dl>
+      </details>
+    </li>`;
+  }).join('');
+  return `<section class="rhet" aria-label="Darstellung: Rhetorik-Hinweise">
+    <div class="rhet-label">Darstellung · KI-Hinweis, getrennt von der Faktenbewertung</div>
+    <ul class="rhet-list">${items}</ul>
+  </section>`;
+}
+function rhetPanel(v) {
+  const r = v.rhet;
+  const st = FactRhetoric.reviewState(r);
+  if (!r) {
+    return `<div class="panel rhet-panel"><h3>Darstellung (zweite Ebene)</h3>
+      <p><strong>Noch nicht geprüft.</strong> Für dieses Video gibt es noch keine Rhetorik-Einordnung. Das heißt nicht, dass es rhetorisch unauffällig ist.</p></div>`;
+  }
+  const counts = FactRhetoric.featureCounts(r);
+  const rows = Object.entries(counts).filter(([, n]) => n > 0)
+    .map(([k, n]) => `<li>${esc(FactRhetoric.FEATURES[k].name)} <b>${n}</b></li>`).join('');
+  return `<div class="panel rhet-panel"><h3>Darstellung (zweite Ebene)</h3>
+    <p><strong>${esc(st.status)}</strong> · Stand ${esc(deDate(r.review.checkedOn))} · ${esc(r.review.by)}</p>
+    <p>${esc(r.review.coverage)}</p>
+    ${rows ? `<ul class="rhet-counts">${rows}</ul>` : ''}
+    <p class="small">Hinweise darauf, <em>wie</em> etwas gesagt wird: abwertend, ironisch, pauschal, emotionalisierend, einseitig. Sie sind KI-Einschätzungen, ändern keine Faktenbewertung, zählen nicht als Fehler und ergeben keine Note für Personen.</p>
+    <details class="rhet-more"><summary>Grundlage und Grenzen</summary>
+      <p class="small">${esc(r.review.basis)}</p>
+      <ul class="questions">${(r.review.limits || []).map(x => `<li>${esc(x)}</li>`).join('')}</ul>
+    </details></div>`;
+}
+
+function claimCard(c, v, chapterTitles, linkedVideos, rhetList) {
   const d = v.data;
   const speakers = Object.fromEntries((d.speakers || []).map(s => [s.id, s]));
   const sources = Object.fromEntries((d.sources || []).map(s => [s.id, s]));
@@ -402,6 +664,14 @@ function claimCard(c, v, chapterTitles) {
   const rel = (c.relations || []).map(r => `<li>${esc(r.type)} <a href="#/video/${esc(v.id)}/aussage/${esc(r.claimId)}">${esc(r.claimId.replace(v.id + '-', ''))}</a>: ${esc(r.note)}</li>`).join('');
   const q = (c.openQuestions || []).map(x => `<li>${esc(x)}</li>`).join('');
   const chapter = chapterTitles[c.chapter];
+  const xlinks = (state.rel?.byClaim.get(c.id) || []).map(({ relation: r, link: l }) => {
+    const cmp = linkedVideos ? linkView(r, l, linkedVideos).cmp : { state: 'kein_vergleich' };
+    const otherVideo = c.id === l.originalClaimId ? r.reactionVideoId : r.originalVideoId;
+    const otherClaim = c.id === l.originalClaimId ? l.reactionClaimId : l.originalClaimId;
+    const target = otherClaim ? `#/video/${otherVideo}/aussage/${otherClaim}` : `#/video/${otherVideo}`;
+    return { cmp, html: `<li>${stateBadge(cmp.state)} <a href="${esc(target)}">${esc(videoName(otherVideo))}${otherClaim ? ' · ' + esc(shortClaim(otherClaim, otherVideo)) : ''}</a> – ${esc(FactRelations.LINK_TYPES[l.type])}</li>` };
+  });
+  const hasConflict = xlinks.some(x => x.cmp.state === 'konflikt');
 
   return `<article class="claim" id="${esc(c.id)}">
     <div class="claim-head">
@@ -410,10 +680,13 @@ function claimCard(c, v, chapterTitles) {
         <div class="claim-top">${verdictBadge(c.verdict, c.status, c.reason)}
           <span class="badge kind">${esc(c.kind)}</span>
           <span class="badge kind">Kapitel ${esc(c.chapter)}${chapter ? ' · ' + esc(chapter) : ''}</span>
-          <a class="claim-id" href="#/video/${esc(v.id)}/aussage/${esc(c.id)}" title="Direktlink zu dieser Aussage">${esc(shortId)}</a></div>
+          <a class="claim-id" href="#/video/${esc(v.id)}/aussage/${esc(c.id)}" title="Direktlink zu dieser Aussage">${esc(shortId)}</a>
+          ${hasConflict ? '<span class="badge rel-state rel-conflict">⚠ Prüfkonflikt mit verknüpfter Aussage</span>' : ''}
+          ${[...new Set((rhetList || []).map(a => a.feature))].map(k => `<span class="badge rhet-badge rhet-flag" data-tip="Darstellungshinweis (KI), getrennt von der Faktenbewertung">Darstellung: ${esc(FactRhetoric.FEATURES[k]?.name || k)}</span>`).join('')}</div>
         <div class="claim-desc-label">Prüfgegenstand – unsere Beschreibung, kein Zitat</div>
         <p class="claim-desc">${esc(c.description)}</p>
         <p class="claim-reason">${esc(c.reason)}</p>
+        ${rhetBlock(rhetList, v)}
       </div>
     </div>
     <details>
@@ -424,6 +697,7 @@ function claimCard(c, v, chapterTitles) {
         <div><h4>Quellen</h4>${srcs ? `<ul class="sources">${srcs}</ul>` : '<p class="small">Dieser Aussage sind keine Sachquellen zugeordnet.</p>'}</div>
         ${q ? `<div><h4>${isUnverifiable(c) ? 'Was für eine Prüfung fehlt' : 'Offene Fragen'}</h4><ul class="questions">${q}</ul></div>` : ''}
         ${rel ? `<div><h4>Beziehungen</h4><ul class="questions">${rel}</ul></div>` : ''}
+        ${xlinks.length ? `<div><h4>Verknüpfte Aussagen in anderen Videos</h4><ul class="questions">${xlinks.map(x => x.html).join('')}</ul></div>` : ''}
         <div><h4>Herkunft</h4><dl class="kv">
           <dt>Erfassung</dt><dd>${esc(c.migration?.changeType)}${c.legacyId ? ' · früherer Prüfpunkt ' + esc(c.legacyId) : ''}</dd>
           <dt>Zuordnung</dt><dd>${esc(c.migration?.mapping)}</dd>
@@ -458,15 +732,20 @@ function videoHeader(v, tab) {
     v.data ? ['aussagen', `#/video/${v.id}`, 'Aussagen'] : null,
     v.data && FactSync.youtubeId(scope?.videoUrl) ? ['video', `#/video/${v.id}/video`, 'Video mit Faktencheck'] : null,
     ['berichte', `#/video/${v.id}/bericht/README.md`, 'Berichte'],
+    v.video?.role === 'original' ? ['reaktionen', `#/video/${v.id}/reaktionen`, `Reaktionen (${(state.rel.byOriginal.get(v.id) || []).length})`] : null,
+    v.video?.role === 'reaction' ? ['reaktionen', `#/video/${v.id}/reaktionen`, 'Bezug zum Original'] : null,
   ].filter(Boolean);
   return `<nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / ${esc(v.id)}</nav>
   <header class="video-head">
     <h1>${esc(v.title)}</h1>
+    ${roleLine(v)}
     <ul class="facts">${videoFacts(v)}</ul>
     <div class="btn-row">
-      ${scope ? extLink(scope.videoUrl, '<span class="btn">▶ Originalvideo auf YouTube</span>') : ''}
+      ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? `<a class="btn" href="#/video/${esc(v.id)}/video/start" title="Startet den YouTube-Player (youtube-nocookie.com) direkt neben dem Faktencheck. Dabei werden Daten an YouTube übertragen.">▶ Video mit Faktencheck hier abspielen</a>` : ''}
+      ${(scope?.videoUrl || v.video?.videoUrl) ? extLink(scope?.videoUrl || v.video.videoUrl, `<span class="btn ghost">${v.video?.role === 'reaction' ? 'Video' : 'Originalvideo'} auf YouTube</span>`) : ''}
       <a class="btn ghost" href="${esc(blobUrl('faktenchecks/' + v.id))}" rel="noopener noreferrer" target="_blank">Daten auf GitHub</a>
     </div>
+    ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? '<p class="small btn-note">Der Knopf „hier abspielen“ lädt den YouTube-Player im erweiterten Datenschutzmodus; dabei werden Daten wie deine IP-Adresse an YouTube (Google) übertragen.</p>' : ''}
   </header>
   <nav class="tabs" aria-label="Ansicht">${tabs.map(t => `<a href="${esc(t[1])}"${t[0] === tab ? ' aria-current="page"' : ''}>${t[2]}</a>`).join('')}</nav>`;
 }
@@ -495,6 +774,8 @@ async function pageVideo(id, focusClaim) {
   const catRows = s?.categories ? s.categories.map(cat =>
     `<li><i class="fill-${VKEY[cat.category]}" aria-hidden="true"></i>${esc(cat.category)} <b>${cat.completedCount}</b>${cat.completedFactPercent != null ? ` <span class="muted">(${pct(cat.completedFactPercent)})</span>` : ''}</li>`).join('') : '';
 
+  const linkedVideos = await loadLinked([...(state.rel.byOriginal.get(v.id) || []), ...(state.rel.byReaction.get(v.id) || [])]);
+  const rhetByClaim = FactRhetoric.byClaim(v.rhet);
   const speakers = (d.speakers || []).map(sp => `<li><strong>${esc(sp.name || 'Unbenannte Stimme')}</strong> (${esc(sp.id)}, ${esc(sp.videoRole)})<br><span class="small">${esc(sp.identityBasis)}</span></li>`).join('');
 
   setPage(`<div class="wrap">
@@ -505,6 +786,7 @@ async function pageVideo(id, focusClaim) {
         <section class="section" style="margin-bottom:28px">
           ${statBlock}
           <div style="margin-top:16px">${distribution(d.claims)}</div>
+          <div style="margin-top:16px">${rhetSummary(v, true)}</div>
         </section>
         <div class="filters" role="search">
           <label class="sr" for="f-q" hidden>Suche</label>
@@ -518,13 +800,20 @@ async function pageVideo(id, focusClaim) {
             <option value="">Alle Kapitel</option>
             ${chapters.map(n => `<option value="${n}">Kapitel ${n}${titles[n] ? ' · ' + esc(titles[n]) : ''}</option>`).join('')}
           </select>
+          ${v.rhet ? `<select id="f-r" aria-label="Nach Rhetorik-Hinweis filtern">
+            <option value="">Darstellung: alle</option>
+            <option value="*">Mit Rhetorik-Hinweis</option>
+            ${Object.entries(FactRhetoric.featureCounts(v.rhet)).filter(([, n]) => n > 0).map(([k]) => `<option value="${k}">${esc(FactRhetoric.FEATURES[k].name)}</option>`).join('')}
+          </select>
+          <label class="rhet-toggle"><input type="checkbox" id="f-rs"${rhetShown() ? ' checked' : ''}> Rhetorik-Hinweise anzeigen</label>` : ''}
         </div>
         <p class="result-count" id="count" aria-live="polite"></p>
-        <div class="claims" id="claims">${d.claims.map(c => claimCard(c, v, titles)).join('')}</div>
+        <div class="claims" id="claims">${d.claims.map(c => claimCard(c, v, titles, linkedVideos, rhetByClaim.get(c.id))).join('')}</div>
       </div>
       <aside class="aside">
         ${catRows ? `<div class="panel"><h3>Ergebnisse der abgeschlossenen Prüfungen</h3><ul class="legend" style="flex-direction:column;align-items:flex-start">${catRows}</ul>
           <p class="small" style="margin-top:10px">Prozente beziehen sich nur auf ${s.percentageDenominator} abgeschlossene Tatsachenbehauptungen; Meinungen, Prognosen und offene Prüfungen zählen nicht mit. Bei so kleinen Zahlen sind Anteile kaum aussagekräftig.</p></div>` : ''}
+        ${rhetPanel(v)}
         <div class="panel"><h3>Recherchegrundlage</h3><p>${esc(scope.researchNote)}</p></div>
         ${speakers ? `<div class="panel"><h3>Personen im Video</h3><ul>${speakers}</ul><p class="small" style="margin-top:8px">Sprecherzuordnungen werden je Fundstelle als bestätigt, plausibel oder ungeklärt angegeben. Es gibt bewusst keine Glaubwürdigkeitsnoten oder Ranglisten von Personen.</p></div>` : ''}
         <div class="panel"><h3>Prüfung und Diskussion</h3><p>Erstellt von Codex. ChatGPT und Claude prüfen unabhängig; ihre Hinweise, Widersprüche und Codex’ Entscheidungen stehen öffentlich auf GitHub. Nicht jede Aussage ist bereits gegengeprüft.</p>
@@ -535,6 +824,9 @@ async function pageVideo(id, focusClaim) {
   document.title = v.title + ' – Politik4M3 Faktencheck';
 
   const q = document.getElementById('f-q'), fv = document.getElementById('f-v'), fc = document.getElementById('f-c');
+  const fr = document.getElementById('f-r'), frs = document.getElementById('f-rs');
+  setRhetShown(rhetShown());
+  if (frs) frs.addEventListener('change', () => { setRhetShown(frs.checked); if (!frs.checked && fr) fr.value = ''; apply(); });
   const cards = [...document.querySelectorAll('#claims .claim')];
   const byId = Object.fromEntries(d.claims.map(c => [c.id, c]));
   const apply = () => {
@@ -542,20 +834,29 @@ async function pageVideo(id, focusClaim) {
     let n = 0;
     for (const el of cards) {
       const c = byId[el.id];
-      const ok = (!fv.value || bucketOf(c) === fv.value) && (!fc.value || String(c.chapter) === fc.value) &&
+      const rl = rhetByClaim.get(c.id) || [];
+      const okR = !fr || !fr.value || (fr.value === '*' ? rl.length > 0 : rl.some(a => a.feature === fr.value));
+      const ok = (!fv.value || bucketOf(c) === fv.value) && (!fc.value || String(c.chapter) === fc.value) && okR &&
         (!term || el.textContent.toLowerCase().includes(term));
       el.hidden = !ok; if (ok) n++;
     }
     document.getElementById('count').textContent = n === cards.length ? `${n} Aussagen` : `${n} von ${cards.length} Aussagen`;
   };
-  [q, fv, fc].forEach(el => el.addEventListener('input', apply));
+  [q, fv, fc, fr].filter(Boolean).forEach(el => el.addEventListener('input', apply));
+  document.querySelectorAll('[data-rhet-filter]').forEach(b => b.addEventListener('click', () => {
+    if (!fr) return;
+    fr.value = fr.value === b.dataset.rhetFilter ? '' : b.dataset.rhetFilter;
+    fr.dispatchEvent(new Event('input'));
+    document.getElementById('count').scrollIntoView({ block: 'start', behavior: 'smooth' });
+  }));
+  if (fr) fr.addEventListener('input', () => { if (fr.value && frs && !frs.checked) { frs.checked = true; setRhetShown(true); } });
   apply();
 
   if (focusClaim) {
     const el = document.getElementById(focusClaim);
     if (el) {
       el.classList.add('highlight');
-      el.querySelector('details').open = true;
+      el.querySelector(':scope > details').open = true;
       requestAnimationFrame(() => el.scrollIntoView({ block: 'start' }));
     }
   } else {
@@ -615,6 +916,19 @@ async function pageReport(id, file) {
   window.scrollTo(0, 0);
 }
 
+/* Reiter „Reaktionen“ (Original) bzw. „Bezug zum Original“ (Reaktion). */
+async function pageRelations(id) {
+  const v = await loadVideo(id);
+  if (!v.video) { location.replace(`#/video/${id}`); return; }
+  const html = await relationsSection(v);
+  setPage(`<div class="wrap">
+    ${videoHeader(v, 'reaktionen')}
+    ${html}
+  </div>`, 'start');
+  document.title = (v.video.role === 'original' ? 'Reaktionen: ' : 'Bezug zum Original: ') + v.title + ' – Politik4M3 Faktencheck';
+  window.scrollTo(0, 0);
+}
+
 function pageMethod() {
   setPage(`<div class="wrap">
     <nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / Methodik</nav>
@@ -638,6 +952,22 @@ function pageMethod() {
       </ul>
     </section>
 
+    <section class="section prose-plain"><h2>Zweite Ebene: Wie etwas gesagt wird</h2>
+      <p>Getrennt von der Frage, ob eine Aussage stimmt, kann eine Stelle einen <strong>Hinweis zur Darstellung</strong> erhalten: ${Object.values(FactRhetoric.FEATURES).map(f => esc(f.name)).join(', ')}. Eine sachlich richtige Aussage kann abwertend formuliert sein, eine falsche Aussage höflich.</p>
+      <ul>
+        <li><strong>Getrennt und ausblendbar.</strong> Die Hinweise stehen unter der Faktenbewertung, sind als KI-Einschätzung gekennzeichnet und lassen sich ausblenden.</li>
+        <li><strong>Keine Fehlerpunkte.</strong> Rhetorik-Hinweise ändern keine Bewertung, fließen in keine Statistik ein und ergeben keine Note für Personen.</li>
+        <li><strong>Beobachtung statt Urteil.</strong> Beschrieben wird die Stelle, nicht die Person; Motive werden nicht unterstellt. Ironie und Satire sind Stilmittel und nicht automatisch negativ.</li>
+        <li><strong>Möglicher Tunnelblick</strong> wird nur markiert, wenn eine konkret benennbare, relevante Gegeninformation fehlt, mit Quelle oder Begründung.</li>
+        <li><strong>Ehrlicher Prüfstand.</strong> Je Video steht, wie weit die Einordnung reicht. Fehlt ein Hinweis, heißt das nicht, dass die Stelle unauffällig ist. Für alle Kanäle, Gäste und Faktenchecker gelten dieselben Maßstäbe.</li>
+      </ul>
+    </section>
+
+    <section class="section prose-plain"><h2>Originale und Reaktionen</h2>
+      <p>Die Übersicht zeigt alle geprüften Videos außer Reaktionen. Videos anderer Kanäle, die sich nachweislich auf ein bereits geprüftes Video beziehen, stehen auf dessen Seite und werden mit demselben Verfahren eigenständig geprüft, zustimmende wie kritische. Der Faktencheck des Originals dient dabei als Kontext, nicht als Wahrheitsmaßstab.</p>
+      <p>Prüfen Original und Reaktion dieselbe Behauptung mit gegensätzlichem Ergebnis, erscheint ein sichtbarer <strong>Prüfkonflikt</strong> mit Gegenüberstellung der Quellen und einer offenen Review-Aufgabe, bis die Abweichung begründet geklärt ist. Bewertungen werden nie nur angeglichen, damit sie übereinstimmen.</p>
+    </section>
+
     <section class="section prose-plain"><h2>Mehrere KI-Systeme, ein offener Prozess</h2>
       <p>Codex erstellt die Faktenchecks. ChatGPT und Claude prüfen sie unabhängig und kommentieren öffentlich auf GitHub; sie dürfen einander und Codex widersprechen. Codex entscheidet begründet, was übernommen wird. Ein Mensch gibt jede Veröffentlichung frei. Alle Beiträge sind mit dem jeweiligen KI-System gekennzeichnet, auch wenn mehrere denselben GitHub-Account nutzen.</p>
       <p>Auch mehrere KI-Systeme können irren. Wenn du einen Fehler findest, eröffne gern ein <a href="${esc(repoUrl())}/issues" rel="noopener noreferrer" target="_blank">Issue auf GitHub</a>.</p>
@@ -654,7 +984,34 @@ function pageError(err) {
 
 /* ---------- Routing ---------- */
 
+/* Reiterwechsel: Die Reiterleiste bleibt an derselben Stelle im Fenster, statt nach oben zu springen. */
+document.addEventListener('click', e => {
+  const a = e.target.closest('.tabs a');
+  if (!a || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+  if (a.getAttribute('href') === location.hash) return;
+  state.tabJump = { top: a.closest('.tabs').getBoundingClientRect().top, at: Date.now() };
+});
+function keepTabsInView(jump) {
+  const t = main().querySelector('.tabs');
+  if (!t) return;
+  const bar = document.querySelector('.topbar');
+  const min = (bar ? bar.getBoundingClientRect().height : 0) + 8;
+  const want = Math.min(Math.max(jump.top, min), window.innerHeight * 0.6);
+  const y = window.scrollY + t.getBoundingClientRect().top - want;
+  /* Kurzer Reiterinhalt: Seite so weit verlängern, dass die Leiste trotzdem stehen bleibt. */
+  const missing = y + window.innerHeight - document.documentElement.scrollHeight;
+  if (missing > 0) main().style.minHeight = (main().offsetHeight + missing) + 'px';
+  window.scrollTo(0, y);
+}
+
 async function route() {
+  const jump = state.tabJump && Date.now() - state.tabJump.at < 2000 ? state.tabJump : null;
+  state.tabJump = null;
+  await routePage();
+  if (jump) keepTabsInView(jump);
+}
+
+async function routePage() {
   const h = decodeURIComponent(location.hash.replace(/^#\/?/, ''));
   const parts = h.split('/');
   if (state.cleanup) { try { state.cleanup(); } catch (e) { console.error(e); } state.cleanup = null; }
@@ -666,11 +1023,17 @@ async function route() {
         b.innerHTML = `Erzeugt am ${esc(deDate(state.index.generated))} aus Commit <a href="${esc(repoUrl())}/commit/${esc(state.index.commit)}" rel="noopener noreferrer" target="_blank">${esc(state.index.commit.slice(0, 7))}</a>`;
       }
       document.getElementById('repo-link').href = repoUrl();
-      document.getElementById('license-link').href = blobUrl('LICENSE');
+      const licenseLink = document.getElementById('license-link');
+      if (licenseLink) licenseLink.href = blobUrl('LICENSE');
+      /* Fehlende Beziehungsdatei ist kein Fehler: dann gibt es schlicht keine Zuordnungen. */
+      state.relations = await getJson('beziehungen.json').catch(() => ({ schemaVersion: 1, relations: [] }));
+      state.rel = FactRelations.buildIndex(state.relations);
+      updateThumbSetting();
     }
     if (parts[0] === 'video' && parts[1]) {
-      if (parts[2] === 'video') return await pageVideoSync(parts[1]);
+      if (parts[2] === 'video') return await pageVideoSync(parts[1], { autostart: parts[3] === 'start' });
       if (parts[2] === 'bericht') return await pageReport(parts[1], parts.slice(3).join('/'));
+      if (parts[2] === 'reaktionen') return await pageRelations(parts[1]);
       if (parts[2] === 'aussage') return await pageVideo(parts[1], parts[3]);
       return await pageVideo(parts[1]);
     }
