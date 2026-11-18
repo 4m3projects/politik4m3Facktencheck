@@ -1,6 +1,6 @@
 # Kapitel 05: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext. Die Urteile der Kanalfigur über Sinan sind wegen ihres prüfbaren Kerns als Tatsachenbehauptungen bewertet, nicht als Meinung.
 
 Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:02–00:17:10). Wiedergaben des Originalgesprächs wurden mit dessen ebenfalls vollständig gelesenen Untertiteln und Metadaten abgeglichen. Die im Video genannten Gesetzestexte, Drucksachen und Presseberichte wurden am 18.11.2026 selbst geöffnet und gelesen; nur der Besondere Teil der Begründung zu BT-Drucksache 20/9049 war nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eindeutige Falschaussagen habe es im ganzen Gespräch kaum gegeben.
 
-Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,17 +29,21 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zusammenfassende Bewertung ohne vollständige veröffentlichte Prüfliste; als Wertung eingeordnet. Der Faktencheck des Originals (bPXMY7Reeek) ist noch nicht recherchiert und kann sie derzeit weder stützen noch widerlegen.
+Unsere vollständige Prüfung des Originals bewertet 50 Tatsachenbehauptungen; 4 davon sind widerlegt, 3 irreführend. Gemessen an der Länge des Gesprächs sind eindeutige Falschaussagen also selten, die Größenordnung „kaum“ ist vertretbar. Es gibt sie aber, darunter zwei plausibel Sinan zugeordnete: das angebliche Speicherverbot für frühere Namen (bPXMY7Reeek-A0083, widerlegt durch § 13 Abs. 3 SBGG) und die Aussage, die Maskenbeschaffung werde gar nicht aufgearbeitet (bPXMY7Reeek-A0151). Die Kanalfigur zählt selbst keine davon als Falschaussage (siehe A0057).
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Korrektur durch Claude am 18.11.2026: zuvor als Meinung eingeordnet; die Bewertung der Kanalfigur enthält einen prüfbaren Tatsachenkern und wird nun am Gesetz, an den Quellen und an unserer Prüfung des Originals bewertet.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Talk mit SinansWoche (Campertalk)](https://www.youtube.com/watch?v=bPXMY7Reeek) · Kanal IT Camper (Talks und Meinungen); laut Metadaten veröffentlicht am 23.08.2025, Laufzeit 11474 Sekunden; beim Abruf am 18.11.2026 wies der Kanal 6060 Abonnenten aus.
+  Quellenzugriff am 2026-11-18. Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel vollständig gelesen; Metadaten (Datum, Laufzeit, Abonnentenzahl) über das Importskript abgerufen. Keine Hör-/Sichtkontrolle. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -489,7 +493,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das Gespräch sei gut: Sinan räume Unsicherheiten ein, verbreite keine unbelegten Behauptungen, werte ganze Gruppen kaum ab, diskutiere beim Selbstbestimmungsgesetz hart, aber zugewandt, und liege häufiger richtig als von der Figur erwartet.
 
-Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -508,17 +512,21 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Gesamturteil der Kanalfigur; Meinung. Einige Teile lassen sich am Original nachvollziehen (z. B. Sinans Eingeständnis, kein Biologe zu sein), das Urteil insgesamt bleibt Wertung. Interessenkonflikt: Sinan betreibt den prüfenden Kanal.
+Die Wertung „gutes Gespräch“ bleibt Meinung, sie stützt sich aber auf prüfbare Tatsachen. Zutreffend ist, dass Sinan mehrfach Unsicherheiten einräumt, etwa kein Biologe zu sein. Die Aussage, er verbreite keine unbelegten Behauptungen, hält unserer Prüfung nicht stand: Mehrere seiner Angaben beruhen auf anonymen oder nicht genannten Quellen (bPXMY7Reeek-A0081, -A0084, -A0089), zwei sind widerlegt (bPXMY7Reeek-A0083, -A0151), zwei irreführend (bPXMY7Reeek-A0076, -A0078). Ob er Gruppen „kaum“ abwertet, ist ohne veröffentlichte Kriterien nicht überprüfbar (A0063). Interessenkonflikt: Sinan betreibt den prüfenden Kanal.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Korrektur durch Claude am 18.11.2026: zuvor als Meinung eingeordnet; die Bewertung der Kanalfigur enthält einen prüfbaren Tatsachenkern und wird nun am Gesetz, an den Quellen und an unserer Prüfung des Originals bewertet.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Talk mit SinansWoche (Campertalk)](https://www.youtube.com/watch?v=bPXMY7Reeek) · Kanal IT Camper (Talks und Meinungen); laut Metadaten veröffentlicht am 23.08.2025, Laufzeit 11474 Sekunden; beim Abruf am 18.11.2026 wies der Kanal 6060 Abonnenten aus.
+  Quellenzugriff am 2026-11-18. Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel vollständig gelesen; Metadaten (Datum, Laufzeit, Abonnentenzahl) über das Importskript abgerufen. Keine Hör-/Sichtkontrolle. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 

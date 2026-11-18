@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext.
+**Abdeckung: Teilbestand.** Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext. Die Urteile der Kanalfigur über Sinan sind wegen ihres prüfbaren Kerns als Tatsachenbehauptungen bewertet, nicht als Meinung.
 
 Stand: 2026-11-18 · Video: GbhI-p_ycJE
 
@@ -23,24 +23,24 @@ Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollstän
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 0
 - Aussagen ausschliesslich mit ungeklaertem eigenem Bezug: 0
 - Nur referenzierte Aussagen ohne eigene Behauptung: 0
-- Meinungen: 5; Prognosen: 0
+- Meinungen: 0; Prognosen: 0
 
 Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen. Nur erneut derselben Person mit bestaetigter Zuordnung und bestaetigtem eigenem Bezug zugerechnete Vorkommen zaehlen als bestaetigte Personenwiederholung. Null bedeutet nur: im dokumentierten Datenbestand keine solchen Faelle erfasst.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 55 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 60 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 45 | 81.8 % |
-| Teilweise belegt | 8 | 14.5 % |
-| Irreführend / Kontext fehlt | 1 | 1.8 % |
+| Belegt | 45 | 75.0 % |
+| Teilweise belegt | 12 | 20.0 % |
+| Irreführend / Kontext fehlt | 2 | 3.3 % |
 | Widerlegt | 0 | 0.0 % |
-| Nicht ausreichend belegbar | 1 | 1.8 % |
-| Meinung / Prognose | 5 | nicht anwendbar |
+| Nicht ausreichend belegbar | 1 | 1.7 % |
+| Meinung / Prognose | 0 | nicht anwendbar |
 
 Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
 
@@ -51,9 +51,9 @@ Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachen
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 61. Ohne verlaessliche Personenzuordnung: 61.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 66. Ohne verlaessliche Personenzuordnung: 66.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 61; mit unsicherem eigenem Aussagebezug: 61. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 66; mit unsicherem eigenem Aussagebezug: 66. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 - Plausibel: Sprecherzuordnung 72, Aussagebezug 72 Vorkommen.

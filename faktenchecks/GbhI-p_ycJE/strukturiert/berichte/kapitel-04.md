@@ -1,6 +1,6 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext. Die Urteile der Kanalfigur über Sinan sind wegen ihres prüfbaren Kerns als Tatsachenbehauptungen bewertet, nicht als Meinung.
 
 Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:02–00:17:10). Wiedergaben des Originalgesprächs wurden mit dessen ebenfalls vollständig gelesenen Untertiteln und Metadaten abgeglichen. Die im Video genannten Gesetzestexte, Drucksachen und Presseberichte wurden am 18.11.2026 selbst geöffnet und gelesen; nur der Besondere Teil der Begründung zu BT-Drucksache 20/9049 war nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
 
@@ -574,7 +574,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Druck auf Schiffmann habe es von Anfang an aus der Öffentlichkeit gegeben, vom Staat erst spät; ob die Kritik ihn weiter weggetrieben habe, lasse sich nicht messen; Sinans Erinnerung an Schiffmanns Anfangsphase treffe zu.
 
-Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -606,17 +606,24 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zusammenfassende Bewertung der Kanalfigur auf Grundlage der noch offenen Einzelbehauptungen. Die ausdrückliche Grenze bei der Kausalfrage entspricht der Einordnung bPXMY7Reeek-A0126.
+Druck aus der Öffentlichkeit von Anfang an ist belegt (A0046), ebenso, dass Kammer und Behörden erst spät und begrenzt tätig wurden (A0047, A0048; Ermittlungen erst ab Herbst 2020, A0052 teilweise belegt). Dass sich die Wirkung der Kritik nicht messen lässt, entspricht unserer Einordnung von bPXMY7Reeek-A0126 als nicht überprüfbar. Sinans Erinnerung an Schiffmanns Anfangsphase ist nach unserer Prüfung aber nur teilweise belegt (bPXMY7Reeek-A0123), nicht uneingeschränkt zutreffend.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Korrektur durch Claude am 18.11.2026: zuvor als Meinung eingeordnet; die Bewertung der Kanalfigur enthält einen prüfbaren Tatsachenkern und wird nun am Gesetz, an den Quellen und an unserer Prüfung des Originals bewertet.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Talk mit SinansWoche (Campertalk)](https://www.youtube.com/watch?v=bPXMY7Reeek) · Kanal IT Camper (Talks und Meinungen); laut Metadaten veröffentlicht am 23.08.2025, Laufzeit 11474 Sekunden; beim Abruf am 18.11.2026 wies der Kanal 6060 Abonnenten aus.
+  Quellenzugriff am 2026-11-18. Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel vollständig gelesen; Metadaten (Datum, Laufzeit, Abonnentenzahl) über das Importskript abgerufen. Keine Hör-/Sichtkontrolle. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Polizei zu Hausdurchsuchung bei „Querdenken“-Arzt Bodo Schiffmann](https://www.t-online.de/nachrichten/deutschland/id_88827988/polizei-zu-hausdurchsuchung-bei-querdenken-arzt-bodo-schiffmann-.html) · t-online, 27.10.2020.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [„Querdenker“: Warum lässt die Ärztekammer Schwindel-Arzt Schiffmann agieren?](https://www.t-online.de/nachrichten/deutschland/id_88805272/-querdenker-warum-laesst-die-aerztekammer-schwindel-arzt-schiffmann-agieren-.html) · t-online, Lars Wienand, 26.10.2020, aktualisiert 27.10.2020.
+  Quellenzugriff am 2026-11-18. Abschnitte zu Ärztekammer, Approbationsbehörde, Verfahren und Vorgeschichte im Volltext gelesen; Schlussteil nur zusammengefasst erhalten. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
