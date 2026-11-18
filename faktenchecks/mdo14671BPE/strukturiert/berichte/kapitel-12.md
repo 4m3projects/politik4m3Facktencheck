@@ -401,7 +401,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibts YouTube-Kanal sei 2020 wegen impfkritischer Inhalte dauerhaft abgeschaltet worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -420,7 +420,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Jahr, Dauer, betroffene Inhalte und konkrete Regelverstöße sind nicht durch eine Originalentscheidung belegt. Andere zeitliche Angaben in der öffentlichen Berichterstattung müssen unabhängig geprüft werden.
+Eine Kanallöschung wegen COVID-19-Inhalten ist berichtet, nach dem gelesenen Bericht aber Anfang Mai 2021 und nicht 2020. Ob die beanstandeten Videos impfkritisch waren und ob die Abschaltung dauerhaft blieb, sagt die Quelle nicht; A0142 behauptet eine Wiederherstellung 2024.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -430,10 +430,11 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [YouTube Deletes German Activist Naomi Seibt, Nicknamed 'Anti-Greta'](https://reclaimthenet.org/youtube-deletes-german-activist-naomi-seibt) · Reclaim The Net, Cindy Harper · 03.05.2021; Netzpolitik-Seite mit eigener meinungsfreiheitlicher Ausrichtung, beruft sich auf Seibts Bestätigung auf Twitter.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen: Kanallöschung nach zwei Strikes für COVID-19-Videos; keine Angabe zu einer Wiederherstellung, kein gelöschtes Klimavideo. Keine Quellenkopie veröffentlicht. Kanallöschung gemeldet am 03.05.2021 nach zwei Strikes für COVID-19-Videos; nichts zu Impfinhalten oder Wiederherstellung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Kanalhistorie und Originalmitteilungen zu Sperren 2020/2021 abgleichen; mehrere Eingriffe nicht zusammenziehen.
+- Zeitpunkt (2020 oder 2021), Inhalt der beanstandeten Videos und Dauer der Sperre mit einer zweiten, möglichst neutralen Quelle klären; Zusammenhang mit A0142.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

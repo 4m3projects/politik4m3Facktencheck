@@ -307,7 +307,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Molyneux habe Peterson, Milo Yiannopoulos und Alex Jones interviewt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -326,7 +326,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Drei separat nachweisbare Gesprächsvorkommen; in diesem Stand noch nicht einzeln verifiziert.
+Eine Verbindung zu Alex Jones ist belegt, allerdings als Auftritt Molyneux' in Jones' Sendung ab 2011, nicht ausdrücklich als von Molyneux geführtes Interview. Für Gespräche mit Jordan Peterson und Milo Yiannopoulos liegt bisher keine gelesene Quelle vor; die gelesene Interview-Zeitleiste 2015–2017 nennt beide nicht.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -336,11 +336,12 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Stefan Molyneux (Extremist Files)](https://www.splcenter.org/resources/extremist-files/stefan-molyneux/) · Southern Poverty Law Center · Profilseite ohne Datum im Text, letzte Änderung laut Seitenmetadaten 19.03.2025; Organisation mit eigener politischer Einordnung.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen: erster Auftritt in Alex Jones' Radioprogramm 2011; Interview-Zeitleiste 2015–2017 ohne Peterson, Yiannopoulos oder Jones. Keine Quellenkopie veröffentlicht. Erster Auftritt bei Alex Jones 2011 (umgekehrte Richtung: Molyneux als Gast); Peterson und Yiannopoulos nicht genannt.
 
 ### Offene Fragen und Unsicherheiten
 
-- Für jede der drei Personen Originalsendung und Datum belegen.
+- Primär- oder Sekundärnachweise für Molyneux-Gespräche mit Peterson und Yiannopoulos (Episodenlisten, zeitgenössische Berichte) suchen.
 
 ## mdo14671BPE-A0074
 

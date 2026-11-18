@@ -280,7 +280,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Deutschland führe Meldestellen ein und lasse oppositionelle Parteien vom Verfassungsschutz beobachten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -299,7 +299,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zwei institutionell verschiedene Unterbehauptungen: Meldestrukturen und nachrichtendienstliche Parteibeobachtung. Konkrete Stellen, Befugnisse, Partei und Gerichtsstand sind noch zu benennen.
+Beide Sachverhalte haben einen belegten Kern, die Darstellung lässt aber wesentlichen Kontext weg. Meldestellen: Die Bundesnetzagentur ließ am 01.10.2024 mit REspect! erstmals einen Trusted Flagger zu. Rechtsgrundlage ist das EU-Gesetz über digitale Dienste, keine eigenständige deutsche Einführung. Trusted Flagger melden Inhalte, die Plattformen vorrangig prüfen müssen; laut Bundesnetzagentur entscheiden weder sie noch die Behörde, was illegal ist. Verfassungsschutz: Die AfD wird als Verdachtsfall beobachtet; das Bundesamt stufte sie am 02.05.2025 als gesichert rechtsextremistisch ein, setzte das wegen einer Stillhaltezusage im gerichtlichen Eilverfahren aber vorläufig aus. Die Beobachtung unterliegt gerichtlicher Kontrolle. Belegt ist dies für die AfD; für „oppositionelle Parteien“ allgemein liegt keine gelesene Quelle vor.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -309,11 +309,18 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Bundesnetzagentur lässt erstmalig Trusted Flagger für Online-Plattformen in Deutschland zu](https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2024/20240927_DSC_TrustedFlagger.html) · Bundesnetzagentur (Digital Services Coordinator) · Pressemitteilung 01.10.2024 mit späterer Präzisierung; Zulassung von REspect! nach dem EU-Gesetz über digitale Dienste (DSA).
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; Trusted Flagger melden, Plattformen müssen Meldungen vorrangig prüfen; laut Präsident entscheiden weder Trusted Flagger noch Bundesnetzagentur, was illegal ist. Keine Quellenkopie veröffentlicht. Zulassung REspect! 01.10.2024 nach DSA; melden statt entscheiden.
+
+- [AfD: Was „gesichert rechtsextremistisch“ für die Partei bedeutet](https://www.zdfheute.de/politik/deutschland/afd-gesichert-rechtsextremistisch-verfassungsschutz-faq-100.html) · ZDFheute, O. Klein, D. Rzepka, D. Heymann · 02.05.2025; FAQ zur Einstufung durch das Bundesamt für Verfassungsschutz.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; enthält keine Angaben zu Beobachtungsbeginn und Stillhaltezusage. Keine Quellenkopie veröffentlicht. Einstufung als gesichert rechtsextremistisch 02.05.2025.
+
+- [Verfassungsschutz gibt Stillhaltezusage fürs Eilverfahren ab](https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/afd-rechtsextrem-einstufung-verfassungsschutz-stillhaltezusage-eilverfahren-2025-05-08) · beck-aktuell, Redaktion mit dpa · 08.05.2025; Einstufung vom 02.05.2025 vorläufig ausgesetzt, Beobachtung als Verdachtsfall geht weiter; OVG-Münster-Urteil nicht rechtskräftig.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen. Späterer Verfahrensstand (Teaser zu einer Verhandlung im März) nicht gelesen. Keine Quellenkopie veröffentlicht. Stillhaltezusage, Einstufung vorläufig ausgesetzt, Beobachtung als Verdachtsfall fortgesetzt; OVG-Urteil nicht rechtskräftig.
 
 ### Offene Fragen und Unsicherheiten
 
-- Meldestellen ohne Ermittlungsbefugnisse nicht mit Geheimpolizei gleichsetzen; konkrete behördliche Einstufung und gerichtliche Grenzen prüfen.
+- Der weitere Verfahrensstand nach Mai 2025 (Hauptsache, Verhandlungstermin) wurde nicht gelesen und ist für die Bewertung des Kerns nicht entscheidend.
 
 ## mdo14671BPE-A0232
 

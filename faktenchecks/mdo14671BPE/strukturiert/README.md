@@ -13,9 +13,9 @@ Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete P
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 247
-- Abgeschlossen: 96
-- Offen: 113
-- In Bearbeitung: 38
+- Abgeschlossen: 98
+- Offen: 109
+- In Bearbeitung: 40
 - Erfasste Behauptungsvorkommen: 277
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 30
 - Davon bestaetigte Wiederholungen derselben Person: 0
@@ -29,17 +29,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 71 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 73 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 23 | 32.4 % |
-| Teilweise belegt | 15 | 21.1 % |
-| Irreführend / Kontext fehlt | 18 | 25.4 % |
-| Widerlegt | 13 | 18.3 % |
-| Nicht ausreichend belegbar | 2 | 2.8 % |
+| Belegt | 23 | 31.5 % |
+| Teilweise belegt | 17 | 23.3 % |
+| Irreführend / Kontext fehlt | 18 | 24.7 % |
+| Widerlegt | 13 | 17.8 % |
+| Nicht ausreichend belegbar | 2 | 2.7 % |
 | Meinung / Prognose | 25 | nicht anwendbar |
 
 Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
