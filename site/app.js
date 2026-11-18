@@ -506,6 +506,21 @@ function ampelView(v, variant = '') {
   </div>`;
 }
 
+/* Übersicht auf der Startseite: alle Videos mit ihrer Faktenampel, Originale zuerst. */
+function ampelOverview(all) {
+  const list = all.filter(v => v.data).sort((a, b) => (a.video?.role === 'reaction') - (b.video?.role === 'reaction'));
+  if (!list.length) return '';
+  const item = v => {
+    const role = v.video?.role === 'reaction' ? `Reaktion von ${v.video.channel}` : (v.video?.channel || v.meta?.Kanal && stripMd(v.meta.Kanal) || 'Faktencheck');
+    return `<li><a class="ampel-row" href="#/video/${esc(v.id)}">${ampelView(v, 'big')}<span class="ampel-row-title"><strong>${esc(v.video?.title || v.title)}</strong><span class="small">${esc(role)}</span></span></a></li>`;
+  };
+  return `<section class="section" id="ampel-uebersicht" aria-labelledby="h-ampel">
+      <div class="section-head"><h2 id="h-ampel">Faktenampel: alle Interviews auf einen Blick</h2>
+      <p>Grün, Gelb oder Rot ergibt sich nur aus dem Anteil widerlegter oder irreführender Aussagen unter den bereits entschiedenen Tatsachenbehauptungen. Grau heißt: noch nicht bewertbar. Die Ampeln der Reaktionsvideos stehen auf der Seite des jeweiligen Interviews. <a href="#/methodik">So wird gerechnet</a></p></div>
+      <ul class="ampel-overview">${list.map(item).join('')}</ul>
+    </section>`;
+}
+
 async function pageHome() {
   const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
   /* Hauptübersicht: alle Videos außer Reaktionen; Reaktionen erscheinen bei ihrem Original.
@@ -554,6 +569,7 @@ async function pageHome() {
     </div>
   </section>
   <div class="wrap">
+    ${ampelOverview(shown)}
     <section class="section" aria-labelledby="h-videos">
       <div class="section-head"><h2 id="h-videos">Geprüfte Videos</h2><p>Neue Faktenchecks erscheinen hier automatisch, sobald sie in den Hauptstand übernommen wurden. Reaktionen auf ein bereits geprüftes Video stehen auf dessen Seite im Reiter „Reaktionen“.</p></div>
       ${cards ? thumbPrompt() : ''}
