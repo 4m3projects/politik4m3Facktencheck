@@ -2,7 +2,9 @@
  * Politik4M3 Faktencheck – statische Webseite.
  * Eigener Code ohne Fremdbibliotheken. Liest ausschließlich die vom Workflow
  * bereitgestellten Projektdateien unter daten/ (Schema-2-JSON und eigene Markdown-Berichte).
- * Keine externen Anfragen, keine Einbettung von Videos, keine Speicherung von Nutzerdaten.
+ * Keine externen Anfragen und keine Speicherung von Nutzerdaten. Einzige Ausnahme: In der
+ * Video-Ansicht wird der YouTube-Player erst nach ausdrücklichem Klick auf „Video laden“
+ * nachgeladen (youtube-nocookie.com). Lokal gemerkt werden nur Anzeigevorlieben (Layout, Mitscrollen).
  */
 'use strict';
 
@@ -21,7 +23,7 @@ const STATUS = [
 ];
 const VKEY = Object.fromEntries(VERDICTS.map(v => [v.name, v.key]));
 
-const state = { index: null, videos: new Map(), md: new Map(), tip: null };
+const state = { index: null, videos: new Map(), md: new Map(), tip: null, cleanup: null };
 
 /* ---------- Hilfsfunktionen ---------- */
 
@@ -440,6 +442,7 @@ function videoHeader(v, tab) {
   const scope = v.data?.scope;
   const tabs = [
     v.data ? ['aussagen', `#/video/${v.id}`, 'Aussagen'] : null,
+    v.data && FactSync.youtubeId(scope?.videoUrl) ? ['video', `#/video/${v.id}/video`, 'Video mit Faktencheck'] : null,
     ['berichte', `#/video/${v.id}/bericht/README.md`, 'Berichte'],
   ].filter(Boolean);
   return `<nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / ${esc(v.id)}</nav>
@@ -636,6 +639,7 @@ function pageError(err) {
 async function route() {
   const h = decodeURIComponent(location.hash.replace(/^#\/?/, ''));
   const parts = h.split('/');
+  if (state.cleanup) { try { state.cleanup(); } catch (e) { console.error(e); } state.cleanup = null; }
   try {
     if (!state.index) {
       state.index = await getJson('index.json');
@@ -647,6 +651,7 @@ async function route() {
       document.getElementById('license-link').href = blobUrl('LICENSE');
     }
     if (parts[0] === 'video' && parts[1]) {
+      if (parts[2] === 'video') return await pageVideoSync(parts[1]);
       if (parts[2] === 'bericht') return await pageReport(parts[1], parts.slice(3).join('/'));
       if (parts[2] === 'aussage') return await pageVideo(parts[1], parts[3]);
       return await pageVideo(parts[1]);
