@@ -88,3 +88,7 @@ Die Erkenntnisse aus Issue #1 sind berücksichtigt: keine künstlichen Aussagen 
 ## Erweiterung um Kapitel 8 am 18.11.2026
 
 [Migrationsbericht und Recherchegrenzen](KAPITEL08_MIGRATION.md): die übrigen 15 Altpunkte (C08-P03 war mit A0009/A0010 bereits enthalten und bleibt unverändert). 90 von 99 übertragen, 9 verbleiben. A0325–A0369 sind 45 zusätzliche Datensätze. 369 Datensätze enthalten 367 eigene Aussageinhalte und zwei ausschließlich erörterte Inhalte.
+
+## Erweiterung um Kapitel 9 am 18.11.2026
+
+[Migrationsbericht und Recherchegrenzen](KAPITEL09_MIGRATION.md): alle 7 Altpunkte. 97 von 99 übertragen, 2 verbleiben. A0370–A0391 sind 22 zusätzliche Datensätze. 391 Datensätze enthalten 388 eigene Aussageinhalte und drei ausschließlich erörterte Inhalte.

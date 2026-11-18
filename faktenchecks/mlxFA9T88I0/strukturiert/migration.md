@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Teilbestand: 90 von 99 ursprünglichen Prüfpunkten übertragen, 9 nicht migriert. Kapitel 1 bis 8 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Abdeckung: Teilbestand: 97 von 99 ursprünglichen Prüfpunkten übertragen, 2 nicht migriert. Kapitel 1 bis 9 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
 Herkunftscommit: bb6e666961baf719d02671a7ad2f439086f3c530
 
@@ -4024,3 +4024,290 @@ Bewertungsuebergang mlxFA9T88I0-A0368: Eigenständige Einzelentscheidung; frühe
 
 
 Bewertungsuebergang mlxFA9T88I0-A0369: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C09-P01
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/09_lebensplanung.md)
+
+Referenzhash der Kapiteldatei: b9d3be3f98ec6de7232850ef6156988d592b57eac259de8c2c3b80184b623d4d
+
+Wertung zu Arbeit und Ruhestand als Meinung geführt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 1
+
+- **Fundstelle:** [02:51:43–02:53:09](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10303s)
+- **Zuordnung:** beide
+- **Prüfgegenstand – unsere Beschreibung:** Arbeit sei Lebenselixier, dauerndes Golfspielen oder Nichtstun halte kaum jemand aus.
+- **Bewertung:** Meinung / keine repräsentative Gesundheitsprüfung
+
+**Unsere Begründung und Grenzen:** Die Sprecher schildern Vorlieben und beobachten einzelne Menschen. Weder Golfplatzbesucher noch erfolgreiche ältere Unternehmer bilden eine repräsentative Vergleichsstudie. Die behauptete gesundheitliche Kausalität bleibt wie in 08 Nr. 16 offen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10303s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0370 | Abgeschlossen | Meinung / Prognose | Wertung zu Arbeit und Ruhestand als Meinung geführt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0370: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C09-P02
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/09_lebensplanung.md)
+
+Referenzhash der Kapiteldatei: b9d3be3f98ec6de7232850ef6156988d592b57eac259de8c2c3b80184b623d4d
+
+Probewohnen, Abstimmungshäufigkeit und Eindrücke getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 2
+
+- **Fundstelle:** [02:53:09–02:55:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10389s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Sechs Monate Wohnung in Arbon, elf Wochen tatsächlich dort, gute Erfahrungen mit Gemeinde, Bahn und Sauberkeit; vier Abstimmungstermine im Jahr.
+- **Bewertung:** Selbstauskunft / teilweise prüfbarer Kontext
+
+**Unsere Begründung und Grenzen:** Wohnsitz, genaue Dauer, Biber-/Seeblickanekdote und Umgang der Gemeinde wurden nicht unabhängig geprüft. Die allgemeine Praxis regelmäßiger eidgenössischer Abstimmungssonntage ist nicht gleich vier Abstimmungen zu jedem Thema. Eine Jahreskalenderprüfung wurde nicht gesondert vorgenommen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10389s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+- [Initiative Bargeld ist Freiheit und direkter Gegenentwurf](https://www.admin.ch/de/bargeld-initiative) · Schweizerische Bundeskanzlei · Stand: Abstimmung 08.03.2026; Ergebnisdetails gesondert offen.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0371 | Offen | keine Endbewertung | Probewohnen, Abstimmungshäufigkeit und Eindrücke getrennt. |
+| mlxFA9T88I0-A0372 | Abgeschlossen | Belegt | Probewohnen, Abstimmungshäufigkeit und Eindrücke getrennt. |
+| mlxFA9T88I0-A0373 | Abgeschlossen | Meinung / Prognose | Probewohnen, Abstimmungshäufigkeit und Eindrücke getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0371: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0372: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0373: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C09-P03
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/09_lebensplanung.md)
+
+Referenzhash der Kapiteldatei: b9d3be3f98ec6de7232850ef6156988d592b57eac259de8c2c3b80184b623d4d
+
+Prognose zur Schweiz, Einbürgerungsfrist, Ortsvergleich, Gemeindegröße und Plan-B-Wertung getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 3
+
+- **Fundstelle:** [02:55:00–02:57:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10500s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Schweiz sei fünf bis zehn Jahre hinter der EU; Bilaterale III führten zu Verschlechterung und praktisch EU-Mitgliedschaft; Staatsbürger werde man in zehn Jahren.
+- **Bewertung:** Prognose / Rechtslage teilweise falsch verkürzt
+
+**Unsere Begründung und Grenzen:** Das EDA-Dossier beschreibt bilaterale sektorielle Abkommen, keinen EU-Beitritt. Wirtschaftliche oder demokratische Verschlechterung um einen festen zeitlichen Abstand ist keine gemessene Größe. Für ordentliche Einbürgerung sind grundsätzlich zehn Wohnsitzjahre, C-Bewilligung und weitere Bedingungen relevant. Nach genau zehn Jahren wird niemand automatisch eingebürgert.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Inhalt des Pakets Schweiz–EU (Bilaterale III)](https://www.europa.eda.admin.ch/de/inhalt-paket-schweiz-eu) · Eidgenössisches Departement für auswärtige Angelegenheiten · Stand: März 2026; offizielles Dossier.
+- [Gesuch um ordentliche oder erleichterte Einbürgerung](https://www.ch.ch/de/auslander-in-der-schweiz/einburgerung/) · ch.ch / Schweizer Behörden · Stand: geltende Behördeninformation beim Abruf.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0374 | Abgeschlossen | Meinung / Prognose | Prognose zur Schweiz, Einbürgerungsfrist, Ortsvergleich, Gemeindegröße und Plan-B-Wertung getrennt. |
+| mlxFA9T88I0-A0375 | Abgeschlossen | Belegt | Prognose zur Schweiz, Einbürgerungsfrist, Ortsvergleich, Gemeindegröße und Plan-B-Wertung getrennt. |
+| mlxFA9T88I0-A0376 | Abgeschlossen | Meinung / Prognose | Prognose zur Schweiz, Einbürgerungsfrist, Ortsvergleich, Gemeindegröße und Plan-B-Wertung getrennt. |
+| mlxFA9T88I0-A0377 | Offen | keine Endbewertung | Prognose zur Schweiz, Einbürgerungsfrist, Ortsvergleich, Gemeindegröße und Plan-B-Wertung getrennt. |
+| mlxFA9T88I0-A0378 | Abgeschlossen | Meinung / Prognose | Prognose zur Schweiz, Einbürgerungsfrist, Ortsvergleich, Gemeindegröße und Plan-B-Wertung getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0374: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0375: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0376: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0377: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0378: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C09-P04
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/09_lebensplanung.md)
+
+Referenzhash der Kapiteldatei: b9d3be3f98ec6de7232850ef6156988d592b57eac259de8c2c3b80184b623d4d
+
+Persönliche Lebenserwartung, EU-Einschätzung, Imperiumsregel und Verteidigungs-/Zinsausgaben getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 4
+
+- **Fundstelle:** [02:57:30–02:59:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10650s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Eigene Lebenserwartung etwa 92–94 Jahre; Imperien gingen unter, sobald Schuldendienst höher als Militärausgaben werde; deutscher Verteidigungsetat früher etwa 40–50 Milliarden.
+- **Bewertung:** Prognose / historische Regel nicht belegt
+
+**Unsere Begründung und Grenzen:** Eine individuelle Lebenserwartung ist keine Sicherheit. Das behauptete Imperiengesetz wurde keiner belastbaren historischen Untersuchung zugeordnet; eine Korrelation würde zudem keine feste Untergangsschwelle beweisen. Verteidigungskernhaushalt, Sondervermögen und NATO-Maß sind verschieden, die genannten historischen Werte wurden hier nicht vollständig abgeglichen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10650s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0379 | Offen | keine Endbewertung | Persönliche Lebenserwartung, EU-Einschätzung, Imperiumsregel und Verteidigungs-/Zinsausgaben getrennt. |
+| mlxFA9T88I0-A0380 | Abgeschlossen | Meinung / Prognose | Persönliche Lebenserwartung, EU-Einschätzung, Imperiumsregel und Verteidigungs-/Zinsausgaben getrennt. |
+| mlxFA9T88I0-A0381 | Abgeschlossen | Meinung / Prognose | Persönliche Lebenserwartung, EU-Einschätzung, Imperiumsregel und Verteidigungs-/Zinsausgaben getrennt. |
+| mlxFA9T88I0-A0382 | Abgeschlossen | Teilweise belegt | Persönliche Lebenserwartung, EU-Einschätzung, Imperiumsregel und Verteidigungs-/Zinsausgaben getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0379: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0380: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0381: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0382: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C09-P05
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/09_lebensplanung.md)
+
+Referenzhash der Kapiteldatei: b9d3be3f98ec6de7232850ef6156988d592b57eac259de8c2c3b80184b623d4d
+
+Wertungen beider Gesprächspartner zu Schweiz, EU, Südafrika, privater Absicherung und Wissen getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 5
+
+- **Fundstelle:** [02:59:00–03:02:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10740s)
+- **Zuordnung:** beide
+- **Prüfgegenstand – unsere Beschreibung:** Auswanderungsziele würden weniger geeignet; Geld ermögliche private Inseln, Privatschulen, Ärzte und abgeschirmtes Wohnen; Menschen ohne Geld seien stärker vom allgemeinen Verfall betroffen.
+- **Bewertung:** Meinung / Verallgemeinerung und Zukunftsprognose
+
+**Unsere Begründung und Grenzen:** Persönliche Landeserfahrungen und Südafrika-Aufenthalte werden nicht unabhängig bestätigt. Unterschiedliche Zugangsmöglichkeiten sind nicht gleich eine geprüfte Prognose aller deutschen öffentlichen Dienste. Konkrete Kosten, Versicherungsvoraussetzungen und Vergleichsdaten fehlen. Die Einteilung in Wissende/Unwissende ist eine soziale Wertung; unverschuldete Nachteile werden im Gespräch ausdrücklich anerkannt.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10740s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0383 | Abgeschlossen | Meinung / Prognose | Wertungen beider Gesprächspartner zu Schweiz, EU, Südafrika, privater Absicherung und Wissen getrennt. |
+| mlxFA9T88I0-A0384 | Abgeschlossen | Meinung / Prognose | Wertungen beider Gesprächspartner zu Schweiz, EU, Südafrika, privater Absicherung und Wissen getrennt. |
+| mlxFA9T88I0-A0385 | Abgeschlossen | Meinung / Prognose | Wertungen beider Gesprächspartner zu Schweiz, EU, Südafrika, privater Absicherung und Wissen getrennt. |
+| mlxFA9T88I0-A0386 | Abgeschlossen | Meinung / Prognose | Wertungen beider Gesprächspartner zu Schweiz, EU, Südafrika, privater Absicherung und Wissen getrennt. |
+| mlxFA9T88I0-A0387 | Abgeschlossen | Meinung / Prognose | Wertungen beider Gesprächspartner zu Schweiz, EU, Südafrika, privater Absicherung und Wissen getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0383: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0384: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0385: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0386: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0387: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C09-P06
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/09_lebensplanung.md)
+
+Referenzhash der Kapiteldatei: b9d3be3f98ec6de7232850ef6156988d592b57eac259de8c2c3b80184b623d4d
+
+Unzufriedenheitsquote als prüfbare Angabe erfasst.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 6
+
+- **Fundstelle:** [03:02:00–03:02:25](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10920s)
+- **Zuordnung:** Ben / Lüning
+- **Prüfgegenstand – unsere Beschreibung:** 90 Prozent seien mit der Regierung unzufrieden, fast niemand gehe demonstrieren.
+- **Bewertung:** nicht ausreichend belegbar
+
+**Unsere Begründung und Grenzen:** Umfrageinstitut, Frageformulierung, Erhebungszeitpunkt und Demonstrationsmaß fehlen. Unzufriedenheit mit einer Regierung ist nicht dasselbe wie Ablehnung des Systems oder Teilnahmeabsicht an Protesten.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10920s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0388 | Abgeschlossen | Teilweise belegt | Unzufriedenheitsquote als prüfbare Angabe erfasst. |
+
+Bewertungsuebergang mlxFA9T88I0-A0388: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C09-P07
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/09_lebensplanung.md)
+
+Referenzhash der Kapiteldatei: b9d3be3f98ec6de7232850ef6156988d592b57eac259de8c2c3b80184b623d4d
+
+Paulskirchenverfassung, Revolutionsgeschichte und berichtete Verschwörungserzählung (nur Fremdbezug) getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 7
+
+- **Fundstelle:** [03:02:25–03:03:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10945s)
+- **Zuordnung:** Lüning / Ben
+- **Prüfgegenstand – unsere Beschreibung:** 1849 sei man mit Verfassung zum Kaiser gegangen, der ablehnte; Deutsche hätten außer 1989 kaum Revolution gemacht; angeblicher DDR-2.0-Plan.
+- **Bewertung:** teilweise belegt / stark verkürzt / Spekulation
+
+**Unsere Begründung und Grenzen:** Die Ablehnung der angebotenen Kaiserkrone durch den preußischen König Friedrich Wilhelm IV. ist dokumentiert. Er war zu diesem Zeitpunkt nicht der deutsche Kaiser. Die Quelle beschreibt auch bewaffneten Widerstand und dessen Niederschlagung; bloßes resigniertes Einverständnis ist daher verkürzt. Der DDR-2.0-Satz wird als Verschwörungserzählung angeführt und bleibt ohne Beleg. 1989 wurde hier nicht im Detail historisch rekonstruiert.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Die Revolution von 1848/49](https://www.bundestag.de/besuche/ausstellungen/verfassung/tafel09) · Deutscher Bundestag · Stand: historische Ausstellung; Ereignisse März bis Juli 1849.
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10945s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0389 | Abgeschlossen | Teilweise belegt | Paulskirchenverfassung, Revolutionsgeschichte und berichtete Verschwörungserzählung (nur Fremdbezug) getrennt. |
+| mlxFA9T88I0-A0390 | Abgeschlossen | Irreführend / Kontext fehlt | Paulskirchenverfassung, Revolutionsgeschichte und berichtete Verschwörungserzählung (nur Fremdbezug) getrennt. |
+| mlxFA9T88I0-A0391 | Offen | keine Endbewertung | Paulskirchenverfassung, Revolutionsgeschichte und berichtete Verschwörungserzählung (nur Fremdbezug) getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0389: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0390: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0391: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
