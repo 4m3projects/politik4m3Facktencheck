@@ -1,6 +1,6 @@
 # Naomi Seibt bei Ben: unabhängiger Faktencheck
 
-**Status: In Bearbeitung – Teilprüfung**
+**Status: Öffentliche Recherche abgeschlossen – Teilbestand (nicht jede Teilbehauptung des Gesprächs erfasst)**
 
 Stand: 18.11.2026.
 

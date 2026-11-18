@@ -72,7 +72,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Heartland bestätigt einen späteren Auftritt in Madrid und die Zusammenarbeit. Der konkrete erste Kontakt, Monat, Ort und Vermittlungsweg sind damit nicht vollständig verifiziert.
+Nicht überprüft – keine ausreichende zugängliche Quelle. Grundsätzlich prüfbar, aber das Veranstaltungsprogramm war nicht zugänglich. Bisheriger Prüfstand: Der verdeckte Recherchebericht (S062) beschreibt die EIKE-Konferenz Ende November 2019 in München mit einem Vortrag von Heartland-Stratege James Taylor und legt nahe, dass eine nicht namentlich genannte junge YouTuberin dort anwesend war. Dass sie in München sprach oder dort erstmals mit Heartland in Kontakt kam, sagt der Bericht nicht. Dokumentiert ist erst ihr Auftritt beim Heartland-Forum in Madrid am 03.12.2019 und die dort besprochene Zusammenarbeit (S062, S041); Heartland bestätigt die Kooperation im Februar 2020 (S072).
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -88,9 +88,12 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 - [German YouTube Personality Naomi Seibt Joins The Heartland Institute](https://heartland.org/opinion/press-release-german-youtube-personality-naomi-seibt-joins-the-heartland-institute/) · Jim Lakely, The Heartland Institute; Pressemitteilung 14.02.2020.
   Quellenzugriff am 2026-11-18. Originale Personalmitteilung einschließlich damaliger Altersangabe und beschriebener Zusammenarbeit gelesen. Institutionelle Selbstauskunft, keine unabhängige Bewertung der wissenschaftlichen Aussagen oder vollständiger Zahlungsnachweis. Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen.
 
+- [Die Heartland-Lobby](https://correctiv.org/top-stories/2020/02/04/die-heartland-lobby-2/) · CORRECTIV und Frontal21; 04.02.2020.
+  Quellenzugriff am 2026-11-18. Originalen Recherchebericht zu verdeckter Teilnahme in München und Madrid sowie Gesprächen über die geplante Zusammenarbeit gelesen. Eigendarstellung der beteiligten Reporter; nicht sämtliche heimlichen Aufnahmen oder Finanzunterlagen eigenständig geprüft. Gelesen am 18.11.2026: Münchner EIKE-Konferenz Ende November 2019 mit Heartland-Vortrag; YouTuberin nicht namentlich genannt, kein Redebeitrag in München berichtet; Kontakt und Zusammenarbeitsgespräch in Madrid.
+
 ### Offene Fragen und Unsicherheiten
 
-- Originalprogramm der Novemberveranstaltung und unabhängige Bestätigung des Kontaktwegs finden.
+- Originalprogramm der Münchner Novemberkonferenz 2019 und unabhängige Bestätigung von Redebeitrag und erstem Kontaktweg finden.
 
 - Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
