@@ -102,4 +102,3 @@ Die Video-Ansicht kommt mit dem bestehenden Schema 2 aus. Optional hilfreich wä
 1. **Kapitelzeiten in `aussagen.json`** (z. B. `chapters: [{ number, startSeconds, endSeconds }]`), damit die Ansicht auch ohne Aussage anzeigen kann, in welchem Themenabschnitt man sich befindet. Heute stehen Kapitelzeiten nur in den Markdown-Berichten.
 2. **Feinere Zeitpräzision je Fundstelle**, etwa eine optionale Unsicherheit in Sekunden (`toleranceSeconds`), statt einer festen Anzeige-Toleranz je Präzisionsstufe.
 3. **Kennzeichnung der Abdeckung je Zeitbereich** (welche Bereiche systematisch geprüft wurden), damit die neutrale Meldung zwischen „geprüft, nichts gefunden“ und „noch nicht geprüft“ unterscheiden kann.
-
