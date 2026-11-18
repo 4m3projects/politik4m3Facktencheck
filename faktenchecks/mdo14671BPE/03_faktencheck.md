@@ -65,7 +65,7 @@ Die Nullen bedeuten fehlende Bestätigung von Stimme und eigenem Aussagebezug, n
 
 ### Werbung gesondert
 
-Kapitel 3 und 9 enthalten elf erfasste Werbeprüfgegenstände (A0021–A0027 und A0081–A0084): zehn Tatsachenbehauptungen und eine subjektive Einschätzung. Fünf Tatsachen sind teilweise belegt, fünf noch in Bearbeitung. Diese Teilmenge ist bereits im Gesamtbestand enthalten und darf nicht nochmals addiert werden. Eine vollständige Kontrolle aller beworbenen Buch- und Zusatzleistungen war nicht möglich.
+Kapitel 3 und 9 enthalten elf erfasste Werbeprüfgegenstände (A0021–A0027 und A0081–A0084): zehn Tatsachenbehauptungen und eine subjektive Einschätzung. Fünf Tatsachen sind teilweise belegt (A0021, A0081–A0084). Die übrigen fünf (A0022–A0026, Versprechen zum beworbenen Buch und seinen Zusatzleistungen) sind offen und als nicht überprüft gekennzeichnet, weil die beworbene Anbieterseite nicht abrufbar war (S051); keine davon ist in Bearbeitung. Die subjektive Einschätzung A0027 ist Meinung. Korrigiert am 18.11.2026: Die frühere Angabe „fünf noch in Bearbeitung“ stammte aus einem älteren Datenstand und widersprach der aktuellen Statistik. Diese Teilmenge ist bereits im Gesamtbestand enthalten und darf nicht nochmals addiert werden. Eine vollständige Kontrolle aller beworbenen Buch- und Zusatzleistungen war nicht möglich.
 
 Reproduzierbare Teilmengenauswertung mit derselben Statistikfunktion, ausgehend vom Repositoryverzeichnis:
 
