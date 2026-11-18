@@ -2,19 +2,19 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Teilbestand: Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext.
+**Abdeckung: Teilbestand.** Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext.
 
 Stand: 2026-11-18 · Video: GbhI-p_ycJE
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:02–00:17:10). Wiedergaben des Originalgesprächs wurden mit dessen ebenfalls vollständig gelesenen Untertiteln und Metadaten abgeglichen und nur insoweit bewertet. Die im Video genannten Rechts- und Pressequellen wurden noch nicht geöffnet; die zugehörigen Aussagen bleiben offen. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:02–00:17:10). Wiedergaben des Originalgesprächs wurden mit dessen ebenfalls vollständig gelesenen Untertiteln und Metadaten abgeglichen. Die im Video genannten Gesetzestexte, Drucksachen und Presseberichte wurden am 18.11.2026 selbst geöffnet und gelesen; nur der Besondere Teil der Begründung zu BT-Drucksache 20/9049 war nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 66
-- Abgeschlossen: 26
-- Offen: 40
+- Abgeschlossen: 60
+- Offen: 6
 - In Bearbeitung: 0
 - Erfasste Behauptungsvorkommen: 72
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 6
@@ -29,17 +29,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 21 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 55 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 20 | 95.2 % |
-| Teilweise belegt | 1 | 4.8 % |
-| Irreführend / Kontext fehlt | 0 | 0.0 % |
+| Belegt | 45 | 81.8 % |
+| Teilweise belegt | 8 | 14.5 % |
+| Irreführend / Kontext fehlt | 1 | 1.8 % |
 | Widerlegt | 0 | 0.0 % |
-| Nicht ausreichend belegbar | 0 | 0.0 % |
+| Nicht ausreichend belegbar | 1 | 1.8 % |
 | Meinung / Prognose | 5 | nicht anwendbar |
 
 Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.

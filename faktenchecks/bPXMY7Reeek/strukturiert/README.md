@@ -2,19 +2,19 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Teilbestand: Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst. Bewusst nicht als eigene Prüfgegenstände aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Keine Statistik des gesamten Gesprächs. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
+**Abdeckung: Teilbestand.** Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
 
 Stand: 2026-11-18 · Video: bPXMY7Reeek
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Noch keine Sachrecherche mit externen Quellen: Tatsachenbehauptungen sind offen, Meinungen und Prognosen als solche eingeordnet, persönliche oder anonyme Angaben mit Grund als nicht überprüfbar markiert. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 170
-- Abgeschlossen: 38
-- Offen: 132
+- Abgeschlossen: 88
+- Offen: 82
 - In Bearbeitung: 0
 - Erfasste Behauptungsvorkommen: 197
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 27
@@ -29,17 +29,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 0 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 50 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 0 | nicht anwendbar |
-| Teilweise belegt | 0 | nicht anwendbar |
-| Irreführend / Kontext fehlt | 0 | nicht anwendbar |
-| Widerlegt | 0 | nicht anwendbar |
-| Nicht ausreichend belegbar | 0 | nicht anwendbar |
+| Belegt | 13 | 26.0 % |
+| Teilweise belegt | 28 | 56.0 % |
+| Irreführend / Kontext fehlt | 3 | 6.0 % |
+| Widerlegt | 4 | 8.0 % |
+| Nicht ausreichend belegbar | 2 | 4.0 % |
 | Meinung / Prognose | 38 | nicht anwendbar |
 
 Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.

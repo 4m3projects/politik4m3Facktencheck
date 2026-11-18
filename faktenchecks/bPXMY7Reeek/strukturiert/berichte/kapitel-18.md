@@ -1,8 +1,8 @@
 # Kapitel 18: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst. Bewusst nicht als eigene Prüfgegenstände aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Keine Statistik des gesamten Gesprächs. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Noch keine Sachrecherche mit externen Quellen: Tatsachenbehauptungen sind offen, Meinungen und Prognosen als solche eingeordnet, persönliche oder anonyme Angaben mit Grund als nicht überprüfbar markiert. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
 
 ## bPXMY7Reeek-A0167
 
@@ -83,13 +83,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – zum Umfang der Impfskepsis vor der Pandemie fand sich nur eine BZgA-Zeitreihe zur allgemeinen Wichtigkeit von Impfungen (2012: 61 %, 2021: 81 %), die keinen gleich hohen Anteil belegt oder widerlegt. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -99,13 +99,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Umfragen zur Impfbereitschaft vor 2020 (z. B. BZgA) mit Werten aus der Pandemie vergleichen.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+
 ## bPXMY7Reeek-A0169
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Es habe eine nächtliche Ausgangssperre ab 22 Uhr gegeben, die auch für Menschen galt, die allein draußen unterwegs waren.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -124,21 +126,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Die Bundesnotbremse untersagte ab Inzidenz 100 das Verlassen der Wohnung zwischen 22 und 5 Uhr. Allein im Freien Sport zu treiben oder spazieren zu gehen blieb bis 24 Uhr erlaubt; danach galt die Beschränkung auch für Einzelne.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Das regelt die bundeseinheitliche Notbremse](https://www.bundesregierung.de/breg-de/suche-bundesweite-notbremse-1888982) · Bundesregierung, 21.04.2021.
+  Quellenzugriff am 2026-11-18. Seite gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [BVerfG, Beschluss vom 05.05.2021, 1 BvR 781/21 u. a.](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/05/rs20210505_1bvr078121.html) · Bundesverfassungsgericht, Eilentscheidung zur Ausgangsbeschränkung (§ 28b IfSG).
+  Quellenzugriff am 2026-11-18. Beschluss bis etwa 40.000 Zeichen gelesen (Wortlaut § 28b einschließlich Ausnahme bis 24 Uhr). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Regelung der Bundesnotbremse (April 2021) prüfen, insbesondere Ausnahmen für Bewegung allein bis Mitternacht.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0170
 
@@ -165,13 +171,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – zu unbestimmt: Ort und Zeit werden nicht genannt. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -180,5 +186,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Welche dokumentierten Polizeieinsätze sind gemeint?
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

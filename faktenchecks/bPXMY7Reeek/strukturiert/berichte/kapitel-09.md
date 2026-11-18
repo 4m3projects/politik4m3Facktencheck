@@ -1,8 +1,8 @@
 # Kapitel 09: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst. Bewusst nicht als eigene Prüfgegenstände aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Keine Statistik des gesamten Gesprächs. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Noch keine Sachrecherche mit externen Quellen: Tatsachenbehauptungen sind offen, Meinungen und Prognosen als solche eingeordnet, persönliche oder anonyme Angaben mit Grund als nicht überprüfbar markiert. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
 
 ## bPXMY7Reeek-A0042
 
@@ -124,13 +124,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – Wertung und Sammelbehauptung über die Gästeliste eines Kanals; „rechts bis rechtsradikal“ ist eine Einordnung, und die Gästeliste wurde nicht abgerufen. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -141,6 +141,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 - Gästeliste des Kanals im Zeitraum vor August 2025 und politische Einordnung der Gäste prüfen.
 
 - Woran lässt sich Erfolg messen (Aufrufe, Abonnenten)?
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
 
 ## bPXMY7Reeek-A0045
 
@@ -167,13 +169,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – Gästeliste eines Kanals; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -182,6 +184,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Gibt es eine entsprechende Folge?
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
 
 ## bPXMY7Reeek-A0046
 
@@ -208,17 +212,18 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – Ein konkretes Produkt und eine PTB-Entscheidung dazu fanden sich in keiner gelesenen Quelle. Kontext: Die Bundesregierung hat 2025 eine Erlaubnispflicht für bestimmte Druckluftwaffen mit Hartnadelgeschossen unter 7,5 Joule eingeführt; ob das gemeinte Produkt darunter fiel, bleibt offen. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Risiken neuer Druckluftwaffen eindämmen](https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/kabinett-druckluftwaffen-2355052) · Bundesregierung, 23.07.2025.
+  Quellenzugriff am 2026-11-18. Seite gelesen. Der Abruf von Anlage 2 WaffG auf gesetze-im-internet.de scheiterte mit einem Serverfehler und dient nicht als Beleg. Kontext, kein Sachbeleg für den konkreten Prüfgegenstand.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -226,13 +231,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Wie heißt das Produkt genau, und wer hat es entwickelt?
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+
 ## bPXMY7Reeek-A0047
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nach dem deutschen Waffengesetz seien Druckluft- und CO2-Waffen mit höchstens 7,5 Joule Bewegungsenergie erlaubnisfrei.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -251,21 +258,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Die Bundesregierung beschreibt, dass Erwerb und Besitz von Druckluftwaffen mit höchstens 7,5 Joule bisher erlaubnisfrei waren. Seit Juli 2025 gilt eine Ausnahme für bestimmte Waffen mit hoher Durchschlagskraft (Hartnadelgeschosse); die Grundregel trifft damit zum Gesprächszeitpunkt weiter zu. Der Gesetzestext der Anlage 2 WaffG konnte nicht abgerufen werden.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Risiken neuer Druckluftwaffen eindämmen](https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/kabinett-druckluftwaffen-2355052) · Bundesregierung, 23.07.2025.
+  Quellenzugriff am 2026-11-18. Seite gelesen. Der Abruf von Anlage 2 WaffG auf gesetze-im-internet.de scheiterte mit einem Serverfehler und dient nicht als Beleg. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- WaffG Anlage 2 zur Erlaubnisfreiheit von Druckluft-/CO2-Waffen mit F-Kennzeichen prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0048
 
@@ -292,13 +300,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – Inhalt fremder Videos; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -308,13 +316,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Stichprobe der Kanalvideos prüfen.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+
 ## bPXMY7Reeek-A0049
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Leeroy Matata, der lange bei funk gewesen sei, habe Gesprächsformate mit unvereinbaren Gegenübern gemacht, etwa Missbrauchsbetroffene mit Priestern oder AfD-Anhänger mit trans Personen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -333,21 +343,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Die funk-Reihe „Leeroy will’s wissen“ bringt in Folgen nach dem Muster „X trifft Y – Das Treffen“ Menschen mit gegensätzlichen Erfahrungen zusammen. Die konkret genannten Paarungen (Missbrauchsbetroffene und Priester, AfD-Anhänger und trans Personen) fanden sich auf den gelesenen Seiten nicht; auch der Moderatorname steht dort nicht.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Leeroy will's wissen (funk-Reihe)](https://www.zdf.de/reportagen/funk-collection-funk-12187-844) · ZDF-Mediathek, Reihenseite der funk-Reihe (2020–2023); dazu Folge „Hauptschüler trifft Abiturient – Das Treffen“ vom 24.11.2022.
+  Quellenzugriff am 2026-11-18. Reihenseite und eine Folgenseite gelesen; Moderator dort nicht namentlich genannt. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Formate Leeroy Matatas liefen bei funk, und gab es solche Paarungen?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0050
 

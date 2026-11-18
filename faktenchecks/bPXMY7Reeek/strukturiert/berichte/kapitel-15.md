@@ -1,8 +1,8 @@
 # Kapitel 15: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst. Bewusst nicht als eigene Prüfgegenstände aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Keine Statistik des gesamten Gesprächs. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Noch keine Sachrecherche mit externen Quellen: Tatsachenbehauptungen sind offen, Meinungen und Prognosen als solche eingeordnet, persönliche oder anonyme Angaben mit Grund als nicht überprüfbar markiert. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
 
 ## bPXMY7Reeek-A0117
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Reaktanz sei ein Kernkonzept der Psychologie: Wer eine Einschränkung seiner Freiheit erlebt, kann mit Trotz oder dem Gegenteil reagieren, muss es aber nicht; Ursache sei das Autonomiebedürfnis.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -42,21 +42,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Laut Fachlexikon entsteht Reaktanz, wenn eine erwartete und wichtige Freiheit eingeschränkt oder bedroht wird; die bedrohte Option wird dann aufgewertet, bei durchsichtiger Beeinflussung kann ein Bumerangeffekt folgen. Dass sie nur unter Bedingungen eintritt, nicht automatisch, stimmt. „Kernkonzept“ und die Herleitung aus einem Autonomiebedürfnis stehen dort nicht.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Reaktanztheorie](https://www.spektrum.de/lexikon/psychologie/reaktanztheorie/12520) · Spektrum Lexikon der Psychologie, 2000.
+  Quellenzugriff am 2026-11-18. Lexikoneintrag gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Fachliche Definition der psychologischen Reaktanz (Brehm) und ihren empirischen Stand prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0118
 
@@ -83,13 +84,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – frühe Kanalinhalte; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -99,13 +100,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Themen der frühen Folgen auf dem Kanal prüfen.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+
 ## bPXMY7Reeek-A0119
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Während der Corona-Pandemie habe es in Deutschland keine Impfpflicht gegeben, wohl aber einen starken gesellschaftlichen Impfdruck.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -163,23 +166,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Eine allgemeine Impfpflicht gab es nicht; der Bundestag lehnte sie im April 2022 ab. Für Beschäftigte in Gesundheits- und Pflegeeinrichtungen galt aber von Mitte März bis Ende 2022 eine einrichtungsbezogene Impfpflicht. „Keine Impfpflicht“ ist daher nur für die Allgemeinheit richtig.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Einrichtungsbezogene Impfpflicht (Textarchiv)](https://www.bundestag.de/dokumente/textarchiv/2022/kw07-de-einrichtungsbezogene-impfpflicht-881070) · Deutscher Bundestag, Meldungen vom 17.02.2022 und 27.04.2022.
+  Quellenzugriff am 2026-11-18. Seite gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Das Aus für die allgemeine Impfpflicht](https://www.zm-online.de/artikel/2022/die-strategie-der-investoren/das-aus-fuer-die-allgemeine-impfpflicht) · zahnärztliche mitteilungen, Ausgabe 09/2022.
+  Quellenzugriff am 2026-11-18. Artikel gelesen (Abstimmungsergebnisse April 2022). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Bestand eine einrichtungsbezogene Impfpflicht nach § 20a IfSG (2022) oder eine Duldungspflicht für Soldaten? Wie verhält sich das zur Aussage, es habe keine Impfpflicht gegeben?
-
-- Eine allgemeine Impfpflicht scheiterte im April 2022 im Bundestag; prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0120
 
@@ -187,7 +192,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Es habe eine kurze Phase mit 2G-Regeln gegeben, in der auch negativ Getestete bestimmte Räume nicht betreten durften.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -206,21 +211,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Ab Herbst 2021 führten Länder 2G-Regeln ein (zuerst Sachsen, dann Berlin u. a.); ein negativer Test reichte dort für Ungeimpfte nicht. Bund und Länder verabredeten am 18.11.2021 flächendeckendes 2G ab einer bestimmten Hospitalisierungsrate.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [2G, 2G-Optionsmodell, 3G, 3G Plus: Was gilt wo](https://www.aerzteblatt.de/nachrichten/129013/2G-2G-Optionsmodell-3G-3G-Plus-Was-gilt-wo) · Deutsches Ärzteblatt, 11.11.2021.
+  Quellenzugriff am 2026-11-18. Überblick gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Beschluss der Videoschaltkonferenz der Bundeskanzlerin mit den Regierungschefinnen und Regierungschefs der Länder vom 18.11.2021](https://www.der-paritaetische.de/fileadmin/user_upload/2021-11-18_MPK-Beschluss.pdf) · Beschlusstext, veröffentlicht vom Paritätischen Gesamtverband.
+  Quellenzugriff am 2026-11-18. Beschluss gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Zeitraum und Geltungsbereich der 2G-Regeln (Bund-Länder-Beschlüsse, Länderverordnungen 2021/2022) prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0121
 
@@ -323,7 +332,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Arzt Bodo Schiffmann habe zu Beginn der Pandemie noch Masken empfohlen und Covid-19 als eine Art Erkältungskrankheit dargestellt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -342,21 +351,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Schiffmann kritisierte im März 2020 zunächst, dass die Regierung keine Masken an alle Haushalte verteilte, und vermittelte zugleich die Harmlosigkeit des Virus. Ein Vergleich mit einer Erkältung fand sich in den gelesenen Quellen nicht.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [„Querdenker“: Warum lässt die Ärztekammer Schwindel-Arzt Schiffmann agieren?](https://www.t-online.de/nachrichten/deutschland/id_88805272/-querdenker-warum-laesst-die-aerztekammer-schwindel-arzt-schiffmann-agieren-.html) · t-online, Lars Wienand, 26.10.2020, aktualisiert 27.10.2020.
+  Quellenzugriff am 2026-11-18. Abschnitte zu Ärztekammer, Approbationsbehörde, Verfahren und Vorgeschichte im Volltext gelesen; Schlussteil nur zusammengefasst erhalten. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Bodo Schiffmann](https://de.wikipedia.org/wiki/Bodo_Schiffmann) · Wikipedia (deutsch), Fassung zum Abrufzeitpunkt; Sekundärquelle.
+  Quellenzugriff am 2026-11-18. Artikel gelesen; nur ergänzend zu Presseberichten verwendet. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Inhalte von Schiffmanns frühen Videos im März/April 2020 anhand zeitgenössischer Berichte prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0124
 
@@ -364,7 +377,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Schiffmann habe eine Schwindelambulanz betrieben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -383,21 +396,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Schiffmann ist HNO-Arzt und betrieb in Sinsheim eine Schwindelambulanz.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Polizei zu Hausdurchsuchung bei „Querdenken“-Arzt Bodo Schiffmann](https://www.t-online.de/nachrichten/deutschland/id_88827988/polizei-zu-hausdurchsuchung-bei-querdenken-arzt-bodo-schiffmann-.html) · t-online, 27.10.2020.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Bodo Schiffmann](https://de.wikipedia.org/wiki/Bodo_Schiffmann) · Wikipedia (deutsch), Fassung zum Abrufzeitpunkt; Sekundärquelle.
+  Quellenzugriff am 2026-11-18. Artikel gelesen; nur ergänzend zu Presseberichten verwendet. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Berufliche Angaben zu Schiffmanns Praxis (HNO, Schwindel) in Berichten prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0125
 
@@ -405,7 +422,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Schiffmann sei danach massiv unter Druck gesetzt worden und habe viel Konfrontation erlebt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -424,21 +441,28 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Es gab Beschwerden, Ermittlungen, eine Praxisdurchsuchung wegen mutmaßlich falscher Maskenatteste und eine Prüfung der Approbation. Die Ärztekammer sah gegen seine Videos dagegen ausdrücklich keine Handhabe. Der Druck richtete sich vor allem auf Atteste und Verstöße, nicht auf die Meinungsäußerung selbst; diese Unterscheidung fehlt.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [„Querdenker“: Warum lässt die Ärztekammer Schwindel-Arzt Schiffmann agieren?](https://www.t-online.de/nachrichten/deutschland/id_88805272/-querdenker-warum-laesst-die-aerztekammer-schwindel-arzt-schiffmann-agieren-.html) · t-online, Lars Wienand, 26.10.2020, aktualisiert 27.10.2020.
+  Quellenzugriff am 2026-11-18. Abschnitte zu Ärztekammer, Approbationsbehörde, Verfahren und Vorgeschichte im Volltext gelesen; Schlussteil nur zusammengefasst erhalten. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Polizei zu Hausdurchsuchung bei „Querdenken“-Arzt Bodo Schiffmann](https://www.t-online.de/nachrichten/deutschland/id_88827988/polizei-zu-hausdurchsuchung-bei-querdenken-arzt-bodo-schiffmann-.html) · t-online, 27.10.2020.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Bodo Schiffmann droht Verlust der ärztlichen Zulassung](https://www.nordkurier.de/politik/bodo-schiffmann-droht-verlust-der-arztlichen-zulassung-1162677) · Nordkurier, 23.12.2020, aktualisiert 06.01.2022.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Von wem kam welcher Druck (Kritik, Beschwerden, Ärztekammer, Ermittlungen), und wann?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0126
 
@@ -547,13 +571,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – keine Quelle zu Maskengewohnheiten in Japan gelesen. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -562,6 +586,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Kulturwissenschaftliche oder gesundheitsbezogene Quellen zur Maskenpraxis in Japan vor 2020 prüfen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
 
 ## bPXMY7Reeek-A0129
 
@@ -588,13 +614,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – medizinische Wirksamkeitsfrage, zu der keine Übersichtsarbeit gelesen wurde; „offensichtlich“ lässt sich ohne Studienlage nicht bewerten. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -603,6 +629,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Stand der Evidenz zu Masken gegen Atemwegsinfektionen (randomisierte Studien, Beobachtungsstudien, Cochrane-Review 2023 und Kritik daran) prüfen; Maskentyp und Setting unterscheiden.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
 
 ## bPXMY7Reeek-A0130
 
@@ -655,13 +683,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – die gemeinten Studien werden nicht benannt und wurden nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -673,13 +701,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Forschung zu Protestmilieus und Vertrauen während der Pandemie in Deutschland sichten.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+
 ## bPXMY7Reeek-A0131
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die AfD habe zu Beginn der Pandemie selbst Maßnahmen zum Schutz vor vielen Todesfällen gefordert und sich danach der Querdenker-Bewegung zugewandt, um politisch davon zu profitieren.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -698,21 +728,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Laut NPR kritisierte die AfD zu Beginn der Pandemie, die Regierung handle nicht konsequent genug; später sprach die Parteispitze von einer „Corona-Diktatur“, und einige Mitglieder näherten sich der Querdenker-Bewegung an. Dass dies geschah, um politisch zu profitieren, ist eine Deutung.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [How The Pandemic Dented The Popularity Of Germany's Far-Right AfD Party](https://www.npr.org/2020/12/29/950860206/how-the-pandemic-dented-the-popularity-of-germanys-far-right-afd-party) · NPR, 29.12.2020.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- AfD-Forderungen im Februar/März 2020 (Bundestagsreden, Pressemitteilungen) und spätere Positionierung prüfen; die Motivzuschreibung ist eine Deutung.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0132
 
@@ -761,7 +792,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Gesundheitsminister Jens Spahn habe während der Pandemie gesagt, man werde einander viel verzeihen müssen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -780,21 +811,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Jens Spahn sagte am 22.04.2020 im Bundestag sinngemäß, man werde einander in ein paar Monaten wahrscheinlich viel verzeihen müssen.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Spahn wirbt um Verständnis für schwierige Entscheidungen in der Coronakrise](https://www.aerzteblatt.de/nachrichten/112192/Spahn-wirbt-um-Verstaendnis-fuer-schwierige-Entscheidungen-in-der-Coronakrise) · Deutsches Ärzteblatt, 22.04.2020.
+  Quellenzugriff am 2026-11-18. Meldung gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Zeitpunkt und Kontext der Äußerung (Bundestag, April 2020) prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0134
 
@@ -802,7 +834,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Etwa 20 bis 30 Prozent der Bevölkerung hätten die Maßnahmen als zu großen Eingriff empfunden; ähnlich hoch sei der Anteil der Ungeimpften gewesen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -834,22 +866,21 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Im Februar 2022 waren laut RKI-Daten rund 24 % der Bevölkerung ungeimpft, davon knapp 5 % Kleinkinder ohne zugelassenen Impfstoff; das RKI hielt die tatsächliche Quote für bis zu fünf Punkte höher. Das passt grob zur genannten Spanne. Der Anteil derer, die die Maßnahmen als zu großen Eingriff empfanden, wurde nicht geprüft.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [75 Prozent der deutschen Bevölkerung nun grundimmunisiert](https://www.aerzteblatt.de/nachrichten/131897/75-Prozent-der-deutschen-Bevoelkerung-nun-grundimmunisiert) · Deutsches Ärzteblatt, 17.02.2022 (RKI-Daten).
+  Quellenzugriff am 2026-11-18. Meldung gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Impfquoten nach RKI-Impfquotenmonitoring (gesamt und Erwachsene) für 2022 prüfen.
-
-- Umfragen zur Ablehnung von Maßnahmen prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

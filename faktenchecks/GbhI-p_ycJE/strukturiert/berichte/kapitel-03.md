@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:02–00:17:10). Wiedergaben des Originalgesprächs wurden mit dessen ebenfalls vollständig gelesenen Untertiteln und Metadaten abgeglichen und nur insoweit bewertet. Die im Video genannten Rechts- und Pressequellen wurden noch nicht geöffnet; die zugehörigen Aussagen bleiben offen. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:02–00:17:10). Wiedergaben des Originalgesprächs wurden mit dessen ebenfalls vollständig gelesenen Untertiteln und Metadaten abgeglichen. Die im Video genannten Gesetzestexte, Drucksachen und Presseberichte wurden am 18.11.2026 selbst geöffnet und gelesen; nur der Besondere Teil der Begründung zu BT-Drucksache 20/9049 war nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
 
 ## GbhI-p_ycJE-A0029
 
@@ -52,7 +52,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nach einer Änderung müsse man ein Jahr warten, bevor man erneut ändern dürfe.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -71,21 +71,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+§ 5 SBGG sieht eine Sperrfrist von einem Jahr bis zur nächsten Erklärung vor (nicht bei Minderjährigen und Betreuten).
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Die im Video als Beleg genannte Quelle ist noch nicht gelesen: § 5 SBGG, https://www.gesetze-im-internet.de/sbgg/.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0031
 
@@ -93,7 +94,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Im Juni 2025, zwei Monate vor dem Gespräch, habe das Bundesinnenministerium vorgeschlagen, das frühere Geschlecht im Melderegister zu vermerken und zusammen mit dem früheren Vornamen an andere Behörden zu übermitteln.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -112,21 +113,28 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+Nach den Angaben in der Kleinen Anfrage, denen die Bundesregierung nicht widerspricht, gab das Innenministerium den Entwurf am 11.06.2025 in die Beteiligung; bekannt wurde er im Juli. Er sieht vor, den früheren Geschlechtseintrag zu speichern und zusammen mit früheren Vornamen an andere Stellen zu übermitteln.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Antwort der Bundesregierung zur Meldeverordnung nach dem SBGG, BT-Drucksache 21/1340](https://dserver.bundestag.de/btd/21/013/2101340.pdf) · Deutscher Bundestag, Antwort der Bundesregierung vom 21.08.2025 auf die Kleine Anfrage 21/1165.
+  Quellenzugriff am 2026-11-18. Vorbemerkung der Fragesteller und Antworten zu den Fragen 1–9, 22–24 gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Verordnung zur Umsetzung des SBGG im Meldewesen, BR-Drucksache 419/25](https://dserver.bundestag.de/brd/2025/0419-25.pdf) · Bundesrat, Drucksache vom 04.09.2025 (Zuleitung durch das Bundeskanzleramt vom 02.09.2025).
+  Quellenzugriff am 2026-11-18. Drucksache gelesen (Rechtsgrundlage § 56 BMG, Zustimmung nach Art. 80 Abs. 2 GG, Inhalt und Begründung). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Selbstbestimmungsgesetz: Dobrindt plant Zwangsouting per Verordnung](https://netzpolitik.org/2025/selbstbestimmungsgesetz-dobrindt-plant-zwangsouting-per-verordnung/) · netzpolitik.org, 16.07.2025.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Antwort der Bundesregierung, Bundestags-Drucksache 21/1340, https://dserver.bundestag.de/btd/21/013/2101340.pdf, und Verordnung Bundesrats-Drucksache 419/25, https://dserver.bundestag.de/brd/2025/0419-25.pdf.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0032
 
@@ -134,7 +142,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Bundesregierung begründe den Vorschlag damit, dass eine unter altem Namen und Geschlecht gespeicherte Person bei einer Suche nach neuem Namen und Geschlecht in einem Register nicht gefunden werde.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -153,21 +161,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+Die Bundesregierung begründet dies damit, dass es keine Personennummer gebe und eine unter altem Namen und Geschlecht gespeicherte Person bei einer Suche mit neuen Daten nicht gefunden werde.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Antwort der Bundesregierung zur Meldeverordnung nach dem SBGG, BT-Drucksache 21/1340](https://dserver.bundestag.de/btd/21/013/2101340.pdf) · Deutscher Bundestag, Antwort der Bundesregierung vom 21.08.2025 auf die Kleine Anfrage 21/1165.
+  Quellenzugriff am 2026-11-18. Vorbemerkung der Fragesteller und Antworten zu den Fragen 1–9, 22–24 gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Verordnung zur Umsetzung des SBGG im Meldewesen, BR-Drucksache 419/25](https://dserver.bundestag.de/brd/2025/0419-25.pdf) · Bundesrat, Drucksache vom 04.09.2025 (Zuleitung durch das Bundeskanzleramt vom 02.09.2025).
+  Quellenzugriff am 2026-11-18. Drucksache gelesen (Rechtsgrundlage § 56 BMG, Zustimmung nach Art. 80 Abs. 2 GG, Inhalt und Begründung). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Bundesrats-Drucksache 419/25 und Bundestags-Drucksache 21/1340.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0033
 
@@ -175,7 +187,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Schon im Gesetzentwurf zum Selbstbestimmungsgesetz habe die Regierung vorgesehen, dass das Bundeskriminalamt, die Bundespolizei und weitere Behörden bei jeder Änderung automatisch informiert werden, weil erstmals eine bloße Erklärung genüge.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -194,21 +206,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+Der Regierungsentwurf sah in § 13 Abs. 5 tatsächlich automatische Mitteilungen an BKA, Bundespolizei, Verfassungsschutz und weitere Behörden nach jeder Änderung vor. Die genannte Begründung (weil erstmals eine bloße Erklärung genüge) fand sich im gelesenen Teil nicht; der Ausschussbericht nennt die Sorge vor Identitätsverschleierung.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Entwurf eines Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag, BT-Drucksache 20/9049](https://dserver.bundestag.de/btd/20/090/2009049.pdf) · Deutscher Bundestag, Gesetzentwurf der Bundesregierung vom 01.11.2023.
+  Quellenzugriff am 2026-11-18. Gesetzestext des Entwurfs und Allgemeiner Teil der Begründung bis etwa S. 27 gelesen (u. a. S. 2, 12, 20, 24–27). Der Besondere Teil (Einzelbegründung) war im abgerufenen Text nicht enthalten und wurde nicht gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Beschlussempfehlung und Bericht des Familienausschusses zum SBGG, BT-Drucksache 20/11004](https://dserver.bundestag.de/btd/20/110/2011004.pdf) · Deutscher Bundestag, Ausschuss für Familie, Senioren, Frauen und Jugend; abschließende Beratung 10.04.2024.
+  Quellenzugriff am 2026-11-18. Text bis etwa S. 32 gelesen (Zusammenstellung S. 9–14, Bericht S. 26–31); Rest im Abruf abgeschnitten. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Bundestags-Drucksache 20/9049 (Entwurf), https://dserver.bundestag.de/btd/20/090/2009049.pdf.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0034
 
@@ -216,7 +232,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Bundestag habe diese Benachrichtigungsregel vor dem Beschluss des Gesetzes gestrichen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -235,21 +251,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+Der Familienausschuss strich § 13 Abs. 5 des Entwurfs ersatzlos; der Bundestag beschloss das Gesetz in dieser Fassung.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Beschlussempfehlung und Bericht des Familienausschusses zum SBGG, BT-Drucksache 20/11004](https://dserver.bundestag.de/btd/20/110/2011004.pdf) · Deutscher Bundestag, Ausschuss für Familie, Senioren, Frauen und Jugend; abschließende Beratung 10.04.2024.
+  Quellenzugriff am 2026-11-18. Text bis etwa S. 32 gelesen (Zusammenstellung S. 9–14, Bericht S. 26–31); Rest im Abruf abgeschnitten. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Beschlussempfehlung, Bundestags-Drucksache 20/11004, https://dserver.bundestag.de/btd/20/110/2011004.pdf.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0035
 
@@ -257,7 +274,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Verboten sei nicht das Speichern: Behörden dürften die früheren Angaben behalten und weiter nutzen; verboten sei, sie ohne Zustimmung zu offenbaren.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -276,21 +293,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+§ 13 Abs. 1 SBGG verbietet das Offenbaren ohne Zustimmung; Abs. 3 erlaubt die weitere Verarbeitung früherer Angaben in amtlichen Registern ausdrücklich.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Die im Video als Beleg genannte Quelle ist noch nicht gelesen: § 13 SBGG und § 3 Bundesmeldegesetz, https://www.gesetze-im-internet.de/bmg/__3.html.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0036
 
@@ -298,7 +316,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Für Polizei und Staatsanwaltschaft gelte eine Ausnahme: Sie dürften den früheren Namen erfahren, wenn sie ihn für ihre Aufgaben brauchen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -317,21 +335,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+Nach § 13 Abs. 1 Satz 3 SBGG liegt ein Grund zur Offenbarung insbesondere vor, wenn Strafverfolgungs- oder Sicherheitsbehörden die Angaben für ihre Aufgaben brauchen.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Ausnahmen in § 13 SBGG, https://www.gesetze-im-internet.de/sbgg/.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0037
 
@@ -339,7 +358,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Für die geplante Melderegelung brauche es kein neues Gesetz, wohl aber die Zustimmung der Länder im Bundesrat.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -358,21 +377,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+Es handelt sich um eine Verordnung des Innenministeriums nach § 56 Bundesmeldegesetz, die nach Art. 80 Abs. 2 GG der Zustimmung des Bundesrates bedarf.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Verordnung zur Umsetzung des SBGG im Meldewesen, BR-Drucksache 419/25](https://dserver.bundestag.de/brd/2025/0419-25.pdf) · Bundesrat, Drucksache vom 04.09.2025 (Zuleitung durch das Bundeskanzleramt vom 02.09.2025).
+  Quellenzugriff am 2026-11-18. Drucksache gelesen (Rechtsgrundlage § 56 BMG, Zustimmung nach Art. 80 Abs. 2 GG, Inhalt und Begründung). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Bundesrats-Drucksache 419/25 (Rechtsgrundlage der Verordnung, Zustimmungsbedürftigkeit).
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0038
 
@@ -380,7 +400,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Im Oktober 2025 hätte der Bundesrat darüber abstimmen sollen; die Abstimmung sei kurz vorher abgesetzt worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -399,21 +419,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+Der Bundesrat setzte die Verordnung (TOP 57) in seiner Sitzung am 17.10.2025 kurzfristig von der Tagesordnung ab.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Plenarprotokoll der 1058. Sitzung des Bundesrates](https://dserver.bundestag.de/brp/1058.pdf) · Bundesrat, Sitzung vom 17.10.2025.
+  Quellenzugriff am 2026-11-18. Inhaltsverzeichnis gelesen (TOP 57, Absetzung von der Tagesordnung); Fließtext nur teilweise lesbar. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Verordnung zum Selbstbestimmungsgesetz: Dobrindt unter Druck](https://netzpolitik.org/2025/verordnung-zum-selbstbestimmungsgesetz-dobrindt-unter-druck/) · netzpolitik.org, 22.10.2025.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Plenarprotokoll 1058 des Bundesrats, https://dserver.bundestag.de/brp/1058.pdf.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0039
 
@@ -421,7 +445,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Im März 2026 habe das Ministerium noch immer mit den Ländern verhandelt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -440,21 +464,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+Laut queer.de vom 03.03.2026 führte das Innenministerium nach eigener Antwort auf eine Kleine Anfrage weiter Gespräche mit den Ländern, um die Zustimmung zu erreichen. Eine amtliche Fassung dieser Antwort wurde nicht gelesen.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Dobrindt will weiter für Sonderregister kämpfen](https://www.queer.de/detail.php?article_id=57050) · queer.de, 03.03.2026.
+  Quellenzugriff am 2026-11-18. Artikel gelesen; neuere Teaser der Seite nicht gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Die im Video als Beleg genannte Quelle ist noch nicht gelesen: queer.de vom 03.03.2026, https://www.queer.de/detail.php?article_id=57050; möglichst amtliche Bestätigung suchen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0040
 
