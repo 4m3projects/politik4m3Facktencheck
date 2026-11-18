@@ -4,32 +4,28 @@ Stand: 18.11.2026. Eigenständige Neuerfassung durch Claude. Die automatischen d
 
 ## Ergebnis
 
+Die öffentliche Recherche ist abgeschlossen. Die im Video genannten Gesetzestexte, Drucksachen und Presseberichte wurden selbst gelesen.
+
 | Einordnung | Anzahl |
 |---|---:|
-| Abschließend bewertete Tatsachenbehauptungen | 21 |
-| davon belegt | 20 |
-| davon teilweise belegt | 1 |
-| Offene Tatsachenbehauptungen mit konkreten Prüffragen | 37 |
-| Mit Grund als nicht überprüfbar gekennzeichnet | 3 |
+| Belegt | 45 |
+| Teilweise belegt | 8 |
+| Irreführend / Kontext fehlt | 1 |
+| Nicht ausreichend belegbar | 1 |
 | Bewertung der Kanalfigur (Meinung) | 5 |
+| Mit Grund als nicht überprüfbar gekennzeichnet | 6 |
 
-Bewertet wurde bisher nur, was sich am Original selbst prüfen lässt:
+## Wichtigste Befunde
 
-- Veröffentlichungsdatum, Laufzeit und die Abonnentenzahl des Kanals IT Camper stimmen mit den Metadaten überein.
-- Die Wiedergaben von Sinans Aussagen (Biografie, Selbstverortung, Tempolimit, Sauna-Gedankenspiel, Sorge um frühere Namen, These zu Schiffmann, Gegenvorschlag zum Gesetz, die als Gruppenabwertung gezählte Stelle) treffen nach den Untertiteln den Inhalt des Originals. Das bestätigt nur die Wiedergabe, nicht Sinans zugrunde liegende Angaben.
-- „Vor etwa einem Jahr“ ist nur grob zutreffend: Zwischen Veröffentlichung des Gesprächs und dieser Reaktion liegen knapp 15 Monate.
-- Der Themenblock zu Geschlecht und Selbstbestimmungsgesetz dauert tatsächlich rund eine Dreiviertelstunde, beginnt aber erst nach gut einer Stunde.
-
-## Offene Hauptfragen
-
-- **Rechtsbehauptungen zum Selbstbestimmungsgesetz** (Kapitel 2 und 3): Inkrafttreten, Erklärungsverfahren, Anmeldefrist, Hausrecht, Bußgeld, Sperrfrist, Speicherung und Übermittlung früherer Angaben, Gesetzesbegründung, gestrichene Benachrichtigungsregel, Verordnungsentwurf 2025 und Bundesratsverfahren. Das Video nennt dafür Gesetzestexte und Drucksachen; sie sind noch zu lesen.
-- **Angaben zu Bodo Schiffmann** (Kapitel 4): stützen sich auf drei Presseberichte von 2020; zu prüfen und möglichst durch weitere Quellen zu ergänzen.
-- **Eigene Zählung** (Kapitel 5): Die Kategorie für unbelegte Aussagen umfasst nach der eigenen Definition auch nicht überprüfbare Angaben. Im Original beruhen mehrere Aussagen Sinans auf anonymen oder nicht genannten Quellen; zudem wertet die Figur selbst eine seiner Annahmen als zu streng. Warum daraus null Stellen werden, ist ohne veröffentlichte Liste nicht nachvollziehbar. Ebenso ist offen, ob es weitere pauschale Gruppenurteile gibt. Das ist eine Prüffrage, keine Unterstellung.
-- **Interessenkonflikt:** Der geprüfte Gast betreibt den Kanal. Das ändert keine Sachbewertung, ist aber bei den Gesamturteilen zu beachten.
+- **Wiedergaben des Originals:** Die Darstellung von Sinans Aussagen trifft nach den Untertiteln den Inhalt des Gesprächs. „Vor etwa einem Jahr“ ist nur grob zutreffend (knapp 15 Monate).
+- **Selbstbestimmungsgesetz (Kapitel 2 und 3):** Die Rechtsangaben sind am Gesetz und an den Drucksachen überwiegend belegt, darunter Erklärungsverfahren, Anmeldefrist, Sperrfrist, Bußgeld, Hausrecht und die erlaubte Speicherung früherer Angaben. Teilweise belegt sind Einzelheiten zu Saunen, zur Berichtigung nicht ernst gemeinter Erklärungen und zur Begründung der gestrichenen Mitteilungsregel. Ein angebliches Beispiel aus der Gesetzesbegründung ließ sich im lesbaren Teil nicht finden.
+- **Bodo Schiffmann (Kapitel 4):** Frühe Positionen, Ermittlungen und Druck von außen sind überwiegend belegt; dass er zwei Parteien mitgegründet hat, ist nur teilweise belegt.
+- **Eigene Zählung (Kapitel 5):** Die Aussage, Sinan mache im ganzen Gespräch keine widerlegte oder nicht überprüfbare Aussage, ist irreführend. Unsere Prüfung findet mindestens eine widerlegte Aussage Sinans (Speicherung früherer Namen) und mehrere, die auf anonymen oder nicht genannten Quellen beruhen. Die übrigen kanalinternen Kennzahlen sind ohne veröffentlichte Kriterien nicht überprüfbar.
+- **Interessenkonflikt:** Der geprüfte Gast betreibt den Kanal. Das ändert keine Sachbewertung, zeigt sich aber gerade in der zu günstigen Gesamtzählung.
 
 ## Verknüpfung mit dem Original
 
-19 Aussagen sind in [beziehungen.json](../beziehungen.json) mit Aussagen des Originals verknüpft: elf Wiedergaben, drei Gegenbehauptungen, drei Ergänzungen und zwei gleiche Behauptungen. Da beide Seiten in den Sachfragen noch offen sind, gibt es derzeit keinen Prüfkonflikt.
+19 Aussagen sind in [beziehungen.json](../beziehungen.json) mit Aussagen des Originals verknüpft: elf Wiedergaben, drei Gegenbehauptungen, drei Ergänzungen und zwei gleiche Behauptungen. Alle fünf Vergleichspaare sind stimmig: Bei den drei Gegenbehauptungen ist die Reaktion belegt und Sinans Ausgangsaussage widerlegt oder irreführend; es gibt keinen Prüfkonflikt.
 
 ## Kapitelprüfungen
 
@@ -41,6 +37,6 @@ Bewertet wurde bisher nur, was sich am Original selbst prüfen lässt:
 
 Abschnitt 06 (Ausklang) enthält keine prüfbare Tatsachenbehauptung.
 
-## Offene Arbeit und Grenzen
+## Grenzen
 
-Notwendig ist die Lektüre der im Video genannten Primärquellen und Presseberichte für 37 offene Tatsachenbehauptungen. Eine Audio-/Videokontrolle und eine bestätigte Sprecheridentifizierung haben nicht stattgefunden. Die Erfassung ist keine Gesamtbewertung des Kanals oder einer Person.
+Der Besondere Teil der Begründung zu BT-Drucksache 20/9049 und eine UN-Bevölkerungsschätzung waren nicht abrufbar; die betroffenen Angaben sind entsprechend eingeordnet. Eine Audio-/Videokontrolle und eine bestätigte Sprecheridentifizierung haben nicht stattgefunden. Die Prüfung ist keine Gesamtbewertung des Kanals oder einer Person.

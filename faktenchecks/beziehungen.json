@@ -12,6 +12,10 @@
         {
           "date": "2026-11-18",
           "change": "Zuordnung bei der Neuerfassung beider Videos durch Claude angelegt."
+        },
+        {
+          "date": "2026-11-18",
+          "change": "Nach Abschluss der öffentlichen Recherche beider Videos: alle Vergleichsverknüpfungen stimmig, kein Prüfkonflikt."
         }
       ],
       "claimLinks": [
@@ -77,7 +81,7 @@
           "originalClaimId": "bPXMY7Reeek-A0078",
           "reactionClaimId": "GbhI-p_ycJE-A0022",
           "reactionSeconds": 358,
-          "note": "Die Reaktion hält entgegen, dass der Betreiber über den Saunazugang entscheidet; beide Seiten sind noch nicht recherchiert."
+          "note": "Die Reaktion hält entgegen, dass der Betreiber über den Saunazugang entscheidet; das bestätigt die Gesetzesbegründung."
         },
         {
           "id": "L0009",
