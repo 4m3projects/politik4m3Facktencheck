@@ -30,6 +30,20 @@ jobs:
         shell: pwsh
         run: ./scripts/Test-Publication.ps1
 
+      - name: Faktencheck-Regressionstests (PowerShell 7)
+        shell: pwsh
+        run: ./scripts/Test-Factcheck.ps1
+
+      - name: Generator-Prüfmodus je Video
+        shell: pwsh
+        run: |
+          foreach ($dir in Get-ChildItem -Directory faktenchecks) {
+            if (Test-Path (Join-Path $dir.FullName 'strukturiert/aussagen.json')) {
+              Write-Host "Build-Factcheck -Check: $($dir.Name)"
+              ./scripts/Build-Factcheck.ps1 -VideoId $dir.Name -Check
+            }
+          }
+
       - name: Synchronisationslogik testen
         run: node --test site/sync-test.js
 
