@@ -1,6 +1,6 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0248: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0249: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -111,7 +111,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eine eigene Distanzierung und Behauptungen über Medienberichte sind getrennt zu prüfen; konkrete Artikel fehlen.
+Formal ist kein Zusammenschluss belegt; Seibt erklärte 2020 selbst, keine aktive Teilnehmerin zu sein. Zugleich behandelte sie 2020 QAnon-Themen in eigenen Videos und bewertete die Bewegung positiv. Der gelesene Bericht spricht von Annäherung, nicht von einem Beitritt. Ob „Medien“ einen Zusammenschluss behaupteten, ist mit den bisher gelesenen Quellen nicht belegt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -121,11 +121,12 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [As QAnon Conspiracy Spreads on the Far Right, Climate Science Deniers Jump Aboard](https://www.desmog.com/2020/08/27/qanon-conspiracy-naomi-seibt-climate-science-deniers) · DeSmog, Sharon Kelly · 27.08.2020; berichtet über Seibts QAnon-Video und ihre eigene Einordnung.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Seibt 2020: keine aktive Teilnehmerin, Bewegung aber positiv bewertet; Bericht spricht von Annäherung, nicht von Beitritt.
 
 ### Offene Fragen und Unsicherheiten
 
-- Gemeinte Artikel und Art einer behaupteten Zusammenarbeit identifizieren; Distanzierung allein beweist keine frühere Zugehörigkeit oder Nichtzugehörigkeit.
+- Welche Medienberichte sind gemeint? Weitere zeitgenössische Berichte (z. B. Teen Vogue, 24.09.2020) lesen, bevor die Medienbehauptung bewertet wird.
 
 ## mdo14671BPE-A0057
 
@@ -218,7 +219,7 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Q habe Trumps Wahlsieg vorhergesagt und daraus Vertrauen gewonnen.
+**Eigene Beschreibung:** Q-Anhänger hätten Trumps Wahlerfolg als Erfüllung einer Vorhersage Qs gedeutet.
 
 Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
@@ -239,7 +240,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Forschung datiert die ersten Q-Beiträge auf Oktober 2017. Eine Vorhersage des Wahlsiegs 2016 durch diese Beiträge wäre deshalb anachronistisch. Im Gespräch wird das gemeinte Wahljahr jedoch nicht eindeutig genannt; keine automatische Festlegung auf 2016 oder 2024.
+Die erneute Lektüre des Nahkontexts zeigt eine Beschreibung der Deutung durch Anhänger, verbunden mit einem Vergleich zu unbestimmten Vorhersagen. Das ist keine eindeutige eigene Bestätigung einer zutreffenden Prophezeiung. Die Forschung datiert erste Q-Beiträge auf Oktober 2017. Ohne genanntes Wahljahr und konkrete Fundstelle lässt sich damit die tatsächliche Zuschreibung nicht abschließend prüfen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -252,9 +253,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 - [The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information](https://arxiv.org/html/2101.08750) · Antonis Papasavva und Mitautoren; ICWSM 2022, arXiv-Version 3 vom 29.04.2022.
   Quellenzugriff am 2026-11-18. Abstract, Einleitung, Methodenüberblick und Hintergrundabschnitt zur Herkunft seit Oktober 2017 gelesen. Originalforschung mit Untersuchung archivierter Beiträge; historische Hintergrundangaben teils aus zitierten Vorarbeiten. Nicht als Nachweis einer tatsächlichen Insideridentität verwendet. Herkunft seit 2017, kein Nachweis einer zutreffenden Wahlvorhersage.
 
+- [QAnon's Leader Has Not Posted Since Election Day](https://www.scrippsnews.com/science-and-tech/social-media/qanon-leader-hasn-t-posted-since-election-day) · Scripps News, Tyler Adkisson · 09.11.2020.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Keine Q-Beiträge mehr seit der Wahl 2020.
+
+- [Q Is Dead, Long Live QAnon](https://www.vice.com/en/article/qanon-q-drop-midterms/) · VICE, M. Lamoureux, D. Gilbert · 15.11.2022; Aktivitätszeitraum von Q.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Q aktiv Oktober 2017 bis Dezember 2020, danach nur vereinzelt 2022.
+
 ### Offene Fragen und Unsicherheiten
 
-- Welche Wahl und welcher vorab veröffentlichte konkrete Beitrag sind gemeint? Die behauptete Wirkung auf Anhänger gesondert belegen.
+- Welche Wahl und welcher konkrete Beitrag sind gemeint? Zeitgenössische Belege für die beschriebene Anhängerdeutung fehlen.
 
 ## mdo14671BPE-A0060
 
@@ -262,7 +269,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Epstein-Komplex stütze Teile der Vorstellung, einflussreiche Personen konsumierten Kinderblut.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -294,22 +301,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der moderierende Beitrag stellt eine Nähe her; die Anschlussantwort übernimmt unscharf einen realen Kern. Die amtliche Anklage betrifft sexuelle Ausbeutung, belegt aber keinen Blutkonsum.
+Der reale Kern des Epstein-Komplexes ist die sexuelle Ausbeutung Minderjähriger. Weder die Anklage noch die Berichte über die Aktenfreigaben enthalten Hinweise auf Blutkonsum. Die Verknüpfung verschiebt einen belegten Missbrauchskomplex auf eine unbelegte Erzählung. Die Nähe wird im Gespräch vom Moderator hergestellt und in der Antwort unscharf übernommen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert.
 
 ### Zugeordnete Quellen
 
 - [Jeffrey Epstein Charged In Manhattan Federal Court With Sex Trafficking Of Minors](https://www.justice.gov/usao-sdny/pr/jeffrey-epstein-charged-manhattan-federal-court-sex-trafficking-minors) · U.S. Attorney SDNY; 08.07.2019, aktualisiert 09.07.2019.
-  Quellenzugriff am 2026-11-17. Amtliche Anklagemitteilung gelesen. Belegt öffentliche Strafverfolgung und konkrete damalige Vorwürfe; Anklage ist kein Schuldspruch gegen Epstein oder andere Personen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+  Quellenzugriff am 2026-11-17. Amtliche Anklagemitteilung gelesen. Belegt öffentliche Strafverfolgung und konkrete damalige Vorwürfe; Anklage ist kein Schuldspruch gegen Epstein oder andere Personen. Amtliche Anklage: sexuelle Ausbeutung Minderjähriger, kein Blutkonsum.
+
+- [Justice Department releases more Epstein files and some mention Trump](https://www.wgbh.org/news/national/2025-12-25/justice-department-releases-more-epstein-files-and-some-mention-trump) · GBH/NPR, D. Kurtzleben, R. Mukherjee · 23./25.12.2025; DOJ-Freigabe mit Hinweis, dass enthaltene Behauptungen nicht bestätigt sind.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Aktenfreigabe 2025; DOJ betont, dass enthaltene Behauptungen nicht bestätigt sind.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche konkrete Teilthese übernimmt die Antwort? Belastbare spezifische Belege für Blutkonsum fehlen; keine Gleichsetzung mit bewiesener sexueller Ausbeutung.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0061
 
@@ -400,7 +410,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Podesta-Mails enthielten auffällige Essensbegriffe, deren Bedeutung sich niemand erklären könne.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -419,21 +429,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Subjektives Misstrauen ist von der überprüfbaren universellen Behauptung fehlender Erklärungen zu trennen. Keine konkreten Nachrichten oder Beweise für eine geheime Bedeutung geprüft.
+Für eine verborgene Bedeutung von Essensbegriffen in den Podesta-Mails gibt es nach jahrelanger Prüfung keinen Beleg. Die Aussage legt einen Code nahe, ohne dafür einen Beleg zu haben. Die Universalaussage, niemand könne die Begriffe erklären, ist damit nicht eigens widerlegt; der gelesene Faktencheck behandelt keine harmlosen Einzelerklärungen. Deshalb kein „Widerlegt“.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Four years later, there's still no evidence to support Pizzagate theory](https://politifact.com/factchecks/2020/oct/07/facebook-posts/four-years-later-theres-still-no-evidence-support/) · PolitiFact, Ciara O'Rourke · 07.10.2020; Faktencheck zur Code-Deutung von Essensbegriffen in den Podesta-Mails.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Kein Beleg für eine versteckte Bedeutung; keine Einzelerklärungen behandelt.
 
 ### Offene Fragen und Unsicherheiten
 
-- Konkrete Nachricht, Kontext und konkurrierende Erklärungen identifizieren; keinen Missbrauch aus einem mehrdeutigen Wort ableiten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0064
 
@@ -441,7 +452,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Es gebe keinerlei konkrete Hinweise auf irgendeine Verbindung Trumps zu Epstein.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -460,21 +471,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Kontakt, Kenntnis, Mitwirkung und Straftatbeteiligung sind unterschiedliche Prüfgegenstände. Die weite Verneinung braucht Originalkontrolle und direkt gelesene Kontaktbelege; eine Namensnennung beweist keine Straftat.
+Die breite Verneinung jeder konkreten Verbindung trifft nicht zu: Eine soziale Bekanntschaft ist mehrfach dokumentiert, unter anderem durch Trumps eigene Äußerung von 2002, gemeinsame Fotos und Flugunterlagen der 1990er-Jahre; dies war lange vor der Veröffentlichung des Interviews öffentlich. Ein Kontakt ist kein Schuldnachweis. Gegen Trump gibt es im Epstein-Komplex weder Anklage noch Strafvorwurf; das DOJ betont, dass Behauptungen in den freigegebenen Akten nicht bestätigt sind. Die Bewertung betrifft nur die Verneinung jeglicher Verbindung, nicht eine strafrechtliche Beteiligung.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [What we know about Trump's relationship with Epstein](https://www.axios.com/2025/07/18/trump-epstein-relationship-what-we-know) · Axios · 18.07.2025, laut Text bis November 2025 ergänzt; dokumentierte Bekanntschaft, kein Strafvorwurf gegen Trump.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Dokumentierte Bekanntschaft und Zerwürfnis; kein Strafvorwurf.
+
+- [Justice Department releases more Epstein files and some mention Trump](https://www.wgbh.org/news/national/2025-12-25/justice-department-releases-more-epstein-files-and-some-mention-trump) · GBH/NPR, D. Kurtzleben, R. Mukherjee · 23./25.12.2025; DOJ-Freigabe mit Hinweis, dass enthaltene Behauptungen nicht bestätigt sind.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Flugunterlagen 1993–1996 in den freigegebenen Akten; Behauptungen darin nicht bestätigt.
 
 ### Offene Fragen und Unsicherheiten
 
-- Genauen Bedeutungsumfang kontrollieren und Originalkontakte/Flugunterlagen prüfen, ohne unbelegte strafrechtliche Vorwürfe zu erheben.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0065
 
@@ -482,7 +497,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Musk habe einen Kontakt mit Epstein und eine Einladung zu dessen Insel gehabt, sie aber abgelehnt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -501,20 +516,24 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Drei erkennbare Unterbehauptungen: Kontakt, Einladung, Absage. Ohne konkret zugeordneten Schriftwechsel nicht abgeschlossen.
+Der Kontakt ist durch E-Mails belegt, deren Echtheit Musk bestätigt hat. Nach diesen E-Mails fragte Musk 2012 und 2013 allerdings selbst mehrfach nach Besuchen auf der Insel; diese kamen nach den Berichten wegen Absagen bzw. Logistik nicht zustande. Ein Besuch ist nicht belegt, ein Fehlverhalten wird nicht gezeigt. Die Darstellung einer bloß abgelehnten Einladung entspricht Musks eigener Erklärung und lässt diesen Kontext weg. Die E-Mails wurden Ende Januar 2026 öffentlich; da der Aufnahmetermin unbekannt ist, ist offen, ob dieser Kontext bei der Aufnahme schon bekannt war.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Elon Musk expressed interest in visiting Jeffrey Epstein's island, emails show](https://www.nbcnews.com/tech/elon-musk/expressed-interest-visiting-jeffrey-epstein-island-emails-show-doj-rcna256784) · NBC News · Ende Januar 2026; Bericht über vom DOJ freigegebene E-Mails 2012/2013. Titel nach Inhalt wiedergegeben.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Freigegebene E-Mails 2012/2013: Musks eigene Besuchsanfragen; kein Besuch, kein Fehlverhalten belegt.
+
+- [Elon Musk's Emails to Jeffrey Epstein Revealed in Latest File Release](https://time.com/7362868/elon-musk-epstein-emails/) · TIME, Rebecca Schneid · 31.01.2026, aktualisiert 11.03.2026; Musks Bestätigung der Echtheit und eigene Darstellung.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Musk bestätigt Echtheit, eigene Darstellung abgelehnter Einladungen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Authentizität, Datum und Kontext des einschlägigen Schriftwechsels für jede Unterbehauptung prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

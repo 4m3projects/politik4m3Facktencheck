@@ -1,10 +1,10 @@
 # Prüfstand – ausdrücklich unvollständig
 
-Aktualisierung: 18.11.2026. Eigenständige Neuerfassung für [Issue #3](https://github.com/4m3projects/politik4m3Facktencheck/issues/3). Alle verfügbaren deutschen Originaluntertitel wurden gelesen. Die 248 Datensätze erfassen Prüfgegenstände aus sämtlichen 25 Themenbereichen, sind aber noch kein erschöpfendes Aussageninventar und kein vollständiger Faktencheck des Interviews. Frühere KI-Zahlen wurden nicht als Sollwert oder Bewertungsgrundlage verwendet.
+Aktualisierung: 18.11.2026. Eigenständige Neuerfassung für [Issue #3](https://github.com/4m3projects/politik4m3Facktencheck/issues/3). Alle verfügbaren deutschen Originaluntertitel wurden gelesen. Die 249 Datensätze erfassen Prüfgegenstände aus sämtlichen 25 Themenbereichen, sind aber noch kein erschöpfendes Aussageninventar und kein vollständiger Faktencheck des Interviews. Frühere KI-Zahlen wurden nicht als Sollwert oder Bewertungsgrundlage verwendet.
 
 ## Ergebnis des bisher abgeschlossenen Teils
 
-57 einmalig gezählte Tatsachenbehauptungen sind sachlich abschließend bewertet. Die Begründungen und direkt zugeordneten Quellen stehen bei den jeweiligen Aussage-IDs. Beispiele für unterschiedliche Ergebnisse:
+71 einmalig gezählte Tatsachenbehauptungen sind sachlich abschließend bewertet. Die Begründungen und direkt zugeordneten Quellen stehen bei den jeweiligen Aussage-IDs. Beispiele für unterschiedliche Ergebnisse:
 
 - Die Schulveröffentlichungen bestätigen einzelne Wettbewerbserfolge; daraus folgt keine Bestätigung sämtlicher biografischer Leistungsangaben.
 - Die Erweiterung von § 188 im Jahr 2021 ist belegt. Die Erklärung über eine Umwandlung des früheren § 103 vermischt dagegen unterschiedliche Normen und Entwicklungen.
@@ -12,26 +12,32 @@ Aktualisierung: 18.11.2026. Eigenständige Neuerfassung für [Issue #3](https://
 - Allgemeine US-Einreise- und Asylregeln tragen keine pauschalen Aussagen über automatisch zurückgesetzte Aufenthaltsfristen oder immer eintretende zehnjährige Sperren. Individuelle Folgen bleiben eine gesonderte Prüfung.
 - Aktenzugang, Rosenholz und biografische Verbindungen sind keine Nachweise für eine eigene Geheimdiensttätigkeit Merkels.
 - Historische Tabakspenden an Heartland sind dokumentiert. Persönliche Zahlungen an Seibt und ihr damaliger Kenntnisstand folgen daraus nicht.
+- Eine soziale Bekanntschaft Trumps mit Epstein ist vielfach dokumentiert; die Verneinung jeder Verbindung ist deshalb widerlegt. Ein Kontakt ist kein Schuldnachweis, und gegen Trump besteht in diesem Komplex kein Strafvorwurf.
+- Die AfD trat 2014 vorrangig euro- und EU-kritisch auf, ihr Europawahlprogramm enthielt aber bereits einen Abschnitt zu Einwanderung und Asyl.
 
 Nach erneuter Kontextprüfung bleibt A0196 zum Loyalitätsbekenntnis in Bearbeitung: Ein persönlicher Vorsatz darf nicht ohne sichere Auslegung als behauptete gesetzliche Pflicht bewertet werden.
+
+Zehn dieser Abschlüsse (A0039, A0041, A0060, A0063–A0065, A0185, A0188, A0191, A0193) hat Claude nach Übernahme des Auftrags am 18.11.2026 auf Grundlage eigener Quellenlektüre ergänzt. Claude hatte dabei keinen Zugriff auf die Originaluntertitel; maßgeblich waren die vorhandenen Paraphrasen und Codex' Kontextpräzisierungen in Issue #3.
 
 Dies sind eigene Zusammenfassungen der unten verlinkten Einzelprüfungen, keine Gesamtbewertung einer Person. Private Behandlungs-, Aufenthalts- und Kostenberichte bleiben ohne passende Einzelfallunterlagen offen; fehlende Bestätigung bedeutet nicht falsch.
 
 ## Vorläufige Statistik des erfassten Teilbestands
 
-Verbindliche Berechnung: [generierte Statistik](strukturiert/statistik.json) und [Erläuterung](strukturiert/README.md). Die folgenden Zahlen geben diesen Datenstand wieder. Der Prozentnenner umfasst ausschließlich die 57 abgeschlossenen Tatsachenbehauptungen mit mindestens einem eigenen, bestätigten oder plausiblen Aussagebezug. Offene Aussagen, Meinungen, Prognosen und reine Fremdbezüge sind ausgeschlossen. Die Sprecheridentität ist davon unabhängig noch unbestätigt.
+Verbindliche Berechnung: [generierte Statistik](strukturiert/statistik.json) und [Erläuterung](strukturiert/README.md). Die folgenden Zahlen geben diesen Datenstand wieder. Der Prozentnenner umfasst ausschließlich die 71 abgeschlossenen Tatsachenbehauptungen mit mindestens einem eigenen, bestätigten oder plausiblen Aussagebezug. Offene Aussagen, Meinungen, Prognosen und reine Fremdbezüge sind ausgeschlossen. Die Sprecheridentität ist davon unabhängig noch unbestätigt.
 
-| Sachbewertung | Anzahl | Anteil an 57 abgeschlossenen Tatsachen |
+| Sachbewertung | Anzahl | Anteil an 71 abgeschlossenen Tatsachen |
 |---|---:|---:|
-| Belegt | 21 | 36,8 % |
-| Teilweise belegt | 10 | 17,5 % |
-| Irreführend / Kontext fehlt | 14 | 24,6 % |
-| Widerlegt | 12 | 21,1 % |
-| Nicht ausreichend belegbar | 0 | 0,0 % |
+| Belegt | 23 | 32,4 % |
+| Teilweise belegt | 15 | 21,1 % |
+| Irreführend / Kontext fehlt | 18 | 25,4 % |
+| Widerlegt | 13 | 18,3 % |
+| Nicht ausreichend belegbar | 2 | 2,8 % |
 
-Diese Verteilung beschreibt weder alle Tatsachenbehauptungen noch das ganze Interview. Von 222 eigenbezogenen Tatsachenbehauptungen sind 123 offen und 42 in Bearbeitung. Weitere 24 Einträge sind Meinungen oder Prognosen. Zwei der 248 Datensätze enthalten ausschließlich fremdbezogene Inhalte und zählen nicht zu den 246 eigenbezogenen Aussagen.
+Diese Verteilung beschreibt weder alle Tatsachenbehauptungen noch das ganze Interview. Von 222 eigenbezogenen Tatsachenbehauptungen sind 113 offen und 38 in Bearbeitung. Weitere 25 Einträge sind Meinungen oder Prognosen. Zwei der 249 Datensätze enthalten ausschließlich fremdbezogene Inhalte und zählen nicht zu den 247 eigenbezogenen Aussagen.
 
-276 eigene Aussagevorkommen gehören zu diesen 246 Aussagen; 30 zusätzliche Vorkommen sind daher keine neuen Aussagen. Hinzu kommen vier referierende Vorkommen und ein Vorkommen mit ungeklärtem Aussagebezug. Zusätzliche Vorkommen können Übernahmen oder Wiederaufnahmen sein. Sie sind bei unbestätigter Identität nicht automatisch bestätigte Wiederholungen derselben Person.
+277 eigene Aussagevorkommen gehören zu diesen 247 Aussagen; 30 zusätzliche Vorkommen sind daher keine neuen Aussagen. Hinzu kommen vier referierende Vorkommen und ein Vorkommen mit ungeklärtem Aussagebezug. Zusätzliche Vorkommen können Übernahmen oder Wiederaufnahmen sein. Sie sind bei unbestätigter Identität nicht automatisch bestätigte Wiederholungen derselben Person.
+
+Die Humorbewertung A0212 wurde nach Kontextprüfung aus dem Tatsachennenner genommen und als Meinung erfasst. Die darin zuvor zusammengefasste Behauptung über Auslandsverbindungen bleibt gesondert als A0249 offen. A0059 beschreibt eine Zuschreibung durch Q-Anhänger; daraus wird keine eigene Bestätigung einer zutreffenden Prophezeiung gemacht. Diese Präzisierungen ändern das Inventar, ohne Wiederholungen als neue Fakten zu zählen.
 
 | Person | Bestätigt zurechenbare Tatsachen | Persönliche Prozentverteilung |
 |---|---:|---|
@@ -85,6 +91,6 @@ Get-FactcheckStatistics $d | ConvertTo-Json -Depth 15
 
 Die originale Untertitelgrundlage fehlt von 02:10:47,880 bis 02:12:43,970; die letzten vier Sekunden bleiben ebenfalls ohne Inhaltsnachweis. Zwei Einträge im Lückenfenster beruhen nur auf einer zusätzlichen öffentlichen Podcast-Transkription mit abweichender Zeitachse. Sie schließen die Lücke nicht verlässlich. Eine Audio-/Videokontrolle und bestätigte Sprecheridentifizierung haben nicht stattgefunden.
 
-Notwendig bleiben die vollständige Erfassung weiterer Teilbehauptungen, Quellen für die 165 offenen oder laufenden Tatsachenprüfungen und eine Kontrolle der Fundstellen am Original. Besondere Nachweislücken betreffen private Vorgänge, konkrete Straf- und Medienaufsichtsakten, Visum- und Asylstatus, Vergütungs- und Kostenunterlagen sowie beworbene Zusatzleistungen. Erfolglose Abrufe sind im Datenbestand ausdrücklich als solche vermerkt und keine Sachbelege. Allgemeines Recht und heutige Unternehmensseiten beweisen keinen individuellen oder historischen Zustand.
+Notwendig bleiben die vollständige Erfassung weiterer Teilbehauptungen, Quellen für die 163 offenen oder laufenden Tatsachenprüfungen und eine Kontrolle der Fundstellen am Original. Besondere Nachweislücken betreffen private Vorgänge, konkrete Straf- und Medienaufsichtsakten, Visum- und Asylstatus, Vergütungs- und Kostenunterlagen sowie beworbene Zusatzleistungen. Erfolglose Abrufe sind im Datenbestand ausdrücklich als solche vermerkt und keine Sachbelege. Allgemeines Recht und heutige Unternehmensseiten beweisen keinen individuellen oder historischen Zustand.
 
-Die ältere private KI-Auswertung liegt dieser Prüfung nicht vor; ein Einzelvergleich ist erst nach unabhängiger Erfassung und Zugang zu ihren Prüfgegenständen möglich. [Draft PR #5](https://github.com/4m3projects/politik4m3Facktencheck/pull/5) bleibt ein prüfbarer Arbeitsstand. Das Issue wird durch diese Teilprüfung nicht abgeschlossen; Veröffentlichung ist seit dem 18.11.2026 autorisiert, die fachliche Fertigstellung steht weiter aus.
+Die ältere private KI-Auswertung liegt dieser Prüfung nicht vor; ein Einzelvergleich ist erst nach unabhängiger Erfassung und Zugang zu ihren Prüfgegenständen möglich. Die erste Teilveröffentlichung über [PR #5](https://github.com/4m3projects/politik4m3Facktencheck/pull/5) brachte am 18.11.2026 den Stand mit 57 abgeschlossenen Tatsachenprüfungen in die Website und den Player. Die weitere Recherche wird auf einem eigenen Folgebranch fortgesetzt. Das Issue wird durch diese Teilprüfung nicht abgeschlossen; Veröffentlichung ist seit dem 18.11.2026 autorisiert, die fachliche Fertigstellung steht weiter aus.

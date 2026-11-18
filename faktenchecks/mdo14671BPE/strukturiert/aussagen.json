@@ -11,7 +11,7 @@
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
     "researchNote": "Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.",
-    "coverageNote": "Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0248: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich."
+    "coverageNote": "Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0249: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich."
   },
   "legacyPoints": [],
   "sources": [
@@ -582,6 +582,278 @@
       "details": "NHLBI/NIH; Stand 19.09.2022.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Symptomdarstellung einschließlich möglicher fehlender Beschwerden bis zu schweren Komplikationen gelesen. Allgemeiner medizinischer Kontext, keine Patientenakte oder individuelle Todesursachenbegutachtung."
+    },
+    {
+      "id": "S072",
+      "title": "German YouTube Personality Naomi Seibt Joins The Heartland Institute",
+      "url": "https://heartland.org/opinion/press-release-german-youtube-personality-naomi-seibt-joins-the-heartland-institute/",
+      "details": "Jim Lakely, The Heartland Institute; Pressemitteilung 14.02.2020.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Originale Personalmitteilung einschließlich damaliger Altersangabe und beschriebener Zusammenarbeit gelesen. Institutionelle Selbstauskunft, keine unabhängige Bewertung der wissenschaftlichen Aussagen oder vollständiger Zahlungsnachweis."
+    },
+    {
+      "id": "S073",
+      "title": "Bloomberg-Bericht über YouTube-Kanallöschungen – erfolgloser Abruf der Yahoo-Fassung",
+      "url": "https://finance.yahoo.com/news/youtube-bans-more-white-supremacist-212014701.html",
+      "details": "Lucas Shaw/Bloomberg; 29.06.2020; Abrufversuch 18.11.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Erfolgloser Abrufversuch – kein Sachbeleg: HTTP 429. Suchausschnitt nicht als Verifikation verwendet. Tatsächlich gelesene Ersatzquelle: zeitgenössischer Bericht von Julia Alexander bei The Verge, S075."
+    },
+    {
+      "id": "S074",
+      "title": "Piers Morgan apologizes after blasting teenage anti-Greta on his show",
+      "url": "https://www.wnd.com/2020/03/piers-morgan-apologizes-blasting-teenage-anti-greta-show-quite-right/",
+      "details": "Erin Coates/The Western Journal, übernommen von WorldNetDaily; 07.03.2020.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Bericht zur Moderationskorrektur gelesen und dessen frühere Express-Quelle S076 geöffnet. Kein unabhängiger zweiter Augenzeugenbeleg; erkennbare Übernahmekette. Politische und wissenschaftliche Wertungen des Mediums nicht übernommen."
+    },
+    {
+      "id": "S075",
+      "title": "YouTube bans Stefan Molyneux, David Duke, Richard Spencer, and more for hate speech",
+      "url": "https://www.theverge.com/2020/6/29/21307303/youtube-bans-molyneux-duke-richard-spencer-conduct-hate-speech",
+      "details": "Julia Alexander, The Verge; 29.06.2020.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Bericht mit direkter YouTube-Auskunft und Molyneux-Reaktion gelesen; keine internen Moderationsakten geprüft."
+    },
+    {
+      "id": "S076",
+      "title": "Piers Morgan forced to correct himself after viewers slam climate debate",
+      "url": "https://www.express.co.uk/showbiz/tv-radio/1250665/Piers-morgan-good-morning-britain-correction-mistake-naomi-seibt-amy-bray-itv-video",
+      "details": "Emily Hennings, Daily Express; 05.03.2020, aktualisiert 09:26 Uhr.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Zeitgenössischen Sendungsbericht mit der konkret beschriebenen Korrektur der Fragestellung gelesen. Originalsendung und eingebettetes Video nicht selbst angehört; die spätere WND-Fassung beruht auf diesem Bericht."
+    },
+    {
+      "id": "S077",
+      "title": "Weiterer Express-Beitrag zur Klimadebatte – erfolgloser Abruf",
+      "url": "https://www.express.co.uk/showbiz/tv-radio/1250649/greta-thunberg-news-naomi-seibt-ITV-GMB-piers-morgan-climate-change-latest-study",
+      "details": "Daily Express; historischer Link aus WND, Abrufversuch 18.11.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Erfolgloser Abrufversuch – kein Sachbeleg: Recherchewerkzeug verweigerte die Adresse. Tatsächlich gelesene Ersatzgrundlage zur Moderationskorrektur ist der gesonderte Express-Beitrag S076."
+    },
+    {
+      "id": "S078",
+      "title": "Fox News just debuted the right's new climate denier darling",
+      "url": "https://www.mediamatters.org/fox-news/fox-news-just-debuted-rights-new-climate-denier-darling",
+      "details": "Media Matters Staff; 28.02.2020, aktualisiert 17:00 Uhr EST.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Zeitgenössischen Monitoringbericht und seine Datierung des Fox-Interviews vom 27.02.2020 sowie das Update zum erfolgten CPAC-Auftritt gelesen. Politische und wissenschaftliche Bewertungen nicht als Prüfergebnis übernommen; Originalsendung nicht selbst angehört."
+    },
+    {
+      "id": "S079",
+      "title": "CPAC 2020: Veranstaltungsprogramm",
+      "url": "https://www.thethinkingconservative.com/wp-content/uploads/2020/02/cpac-2020-agenda.pdf",
+      "details": "Historisches CPAC-Programm vom 26.–29.02.2020; Kopie bei The Thinking Conservative, PDF-Seite 19.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Programmteil zu Freitag, 28.02.2020, mit angekündigter Heartland-Veranstaltung unter Beteiligung Seibts gelesen. Dokumentkopie auf fremdem Server, keine lückenlos geprüfte Archivherkunft; allein kein Nachweis tatsächlicher Durchführung."
+    },
+    {
+      "id": "S080",
+      "title": "HM Solicitor General v Yaxley-Lennon [2025] EWCA Civ 476",
+      "url": "https://www.judiciary.uk/wp-content/uploads/2025/04/HM-Solicitor-General-v-Yaxley-Lennon-Judgment.pdf",
+      "details": "Court of Appeal (England and Wales), Urteil vom 16.04.2025.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Randnummern 1–9, 18–21 und 38–49 gelesen: Gericht schildert Schutzabsonderung wegen Drohungen und prüft die Haftbedingungen. Kein vollständiger unabhängiger Haftinspektionsbericht, keine Prüfung aller früheren Haftaufenthalte."
+    },
+    {
+      "id": "S081",
+      "title": "Schriftliche Fragen mit Antworten der Bundesregierung, Drucksache 21/3772",
+      "url": "https://dserver.bundestag.de/btd/21/037/2103772.pdf",
+      "details": "Deutscher Bundestag; 23.01.2026, Frage 66 und Antwort vom 21.01.2026, gedruckte Seite 49.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Frage und vollständige Antwort auf PDF-Seite 55 gelesen. Die Bundesregierung kennt das Bendels-Verfahren laut Antwort nur aus Medien; die Behauptungen der Fragestellerin sind keine eigenständigen Feststellungen der Bundesregierung. Keine konkreten Kosten genannt."
+    },
+    {
+      "id": "S082",
+      "title": "Verfassungsschutzinformationen Bayern, erstes Halbjahr 2026",
+      "url": "https://www.bige.bayern.de/wp-content/uploads/2026/08/verfassungsschutz-informationen-bayern-erstes-halbjahr-2026.pdf",
+      "details": "Bayerisches Staatsministerium des Innern, für Sport und Integration; Berichtszeitraum erstes Halbjahr 2026, Seite 35.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Abschnitt zu Shlomo Finkelstein auf PDF-Seite 35 gelesen. Behördenbericht nennt Verurteilung 2020 und spätere Haft nach Bewährungsauflagenverstößen; Originalurteile und vollständige Kanäle nicht geprüft. Behördenwertungen werden nicht als eigenes Urteil über Humor übernommen."
+    },
+    {
+      "id": "S083",
+      "title": "LG Bamberg: Journalist wegen Faeser-Post nun doch freigesprochen",
+      "url": "https://www.lto.de/recht/nachrichten/n/11nbs1108js1131524-lg-bamberg-david-bendels-deutschland-kurier-nancy-faeser-meme-freispruch",
+      "details": "dpa / Legal Tribune Online; 14.01.2026, LG Bamberg, 11 NBs 1108 Js 11315/24.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Nachrichtenbericht vollständig gelesen: Vorinstanz, Berufungsfreispruch, Begründung und damals fehlende Rechtskraft. Kein eigener Zugriff auf die schriftlichen Urteilsgründe, kein Nachweis privater Zusammenarbeit oder Motivation."
+    },
+    {
+      "id": "S084",
+      "title": "The AfD: Finally a Successful Right-Wing Populist Eurosceptic Party for Germany?",
+      "url": "https://www.kai-arzheimer.com/afd-right-wing-populist-eurosceptic-germany.pdf",
+      "details": "Kai Arzheimer · West European Politics 38 (2015), Autorenfassung; Inhaltsanalyse des AfD-Europawahlprogramms 2014. Begutachtete Sekundärquelle, nicht das Programm selbst.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen: Abschnitte zu Einwanderung, Asyl und Euro-Positionen des Programms 2014 im Wortlaut; Teile zur Web-/Facebook-Auswertung nur zusammengefasst und nicht verwendet. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S085",
+      "title": "Die Macht der Ohnmacht. Der (angebliche) Radikalisierungsprozess der AfD",
+      "url": "https://www.zukunft-braucht-erinnerung.de/radikalisierungsprozess-der-afd/",
+      "details": "V. Tsagianni, S. A. Reboldi, N. Luzzatto · Zukunft braucht Erinnerung, 31.10.2024; interpretierende Programmanalyse 2014/2024 mit eigener Positionierung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 vollständig gelesen; verwendet nur für die Einordnung der Themengewichtung im Europawahlkampf 2014, nicht für Wertungen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S086",
+      "title": "Ruprecht Polenz (Biogramm)",
+      "url": "https://www.kas.de/web/geschichte-der-cdu/personen/biogramm-detail/-/content/ruprecht-polenz-v1",
+      "details": "Konrad-Adenauer-Stiftung · Geschichte der CDU, Biogramm; parteinahe Stiftung, Ämter mit Zeiträumen.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 vollständig gelesen: Generalsekretär 2000, MdB 1994–2013, Vorsitz Auswärtiger Ausschuss 2005–2013; keine Beraterfunktion für Merkel genannt. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S087",
+      "title": "Bundesarchiv darf Herausgabe verweigern",
+      "url": "https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/vg-berlin-vg1k29723-stasi-unterlagen-angela-merkel-bundesarchiv-herausgabe-sachbuchautor-2026-03-26",
+      "details": "beck-aktuell, Redaktion · 26.03.2026; Bericht zu VG Berlin, Urteil vom 12.03.2026, VG 1 K 297/23. Ergänzt S025.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S088",
+      "title": "East German Stasi tried to recruit Merkel as a spy",
+      "url": "https://www.historynewsnetwork.org/article/86272",
+      "details": "History News Network, Nachdruck eines Deutsche-Welle-Berichts · 19.05.2009; Merkels eigene Schilderung einer abgelehnten Anwerbung, Selbstauskunft.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S089",
+      "title": "Merkels Zeit in Adlershof",
+      "url": "https://www.wista.de/aktuelles/news/merkels-zeit-in-adlershof",
+      "details": "WISTA Management · 11.08.2008; berufliche Stationen bis 1990, Einstieg beim Demokratischen Aufbruch.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S090",
+      "title": "DDR-Oppositionspolitiker und Stasi-Spitzel Schnur tot",
+      "url": "https://www.tagesspiegel.de/potsdam/brandenburg/ddr-oppositionspolitiker-und-stasi-spitzel-schnur-tot-7201975.html",
+      "details": "Tagesspiegel/dpa · 20.01.2016; Schnur stellte Merkel als Pressesprecherin des DA ein.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S091",
+      "title": "Zum Tod von Wolfgang Schnur: Der Schattenmann, der Angela Merkel erfand",
+      "url": "https://www.berliner-zeitung.de/article/zum-tod-von-wolfgang-schnur-der-schattenmann-der-angela-merkel-erfand-14273",
+      "details": "Berliner Zeitung · 20.01.2016; nennt Kasner als langjährigen kirchlichen Bekannten Schnurs, Förderthese nur als Frage bzw. Selbstsicht Schnurs.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S092",
+      "title": "Angela Merkel's phone 'tracked since 2002'",
+      "url": "https://www.irishtimes.com/news/world/europe/angela-merkel-s-phone-tracked-since-2002-1.1574957",
+      "details": "Irish Times · 27.10.2013; gibt Spiegel- und Bild-am-Sonntag-Berichte sowie die Kanzleramtsdarstellung wieder.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S093",
+      "title": "U.S. officials deny reports that Obama knew about NSA spying in Germany",
+      "url": "https://www.pbs.org/newshour/nation/us-officials-deny-reports-that-obama-knew-about-nsa-spying-in-germany",
+      "details": "PBS NewsHour · 28.10.2013; NSA-Dementi zu einem angeblichen Gespräch 2010.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S094",
+      "title": "Merkels Handy: Ermittlungen zu Ausforschung eingestellt",
+      "url": "https://www.lto.de/recht/nachrichten/n/ermittlungen-handy-merkel-nsa-spionage-eingestellt",
+      "details": "Legal Tribune Online · 12.06.2015; Einstellung durch den Generalbundesanwalt nach § 170 Abs. 2 StPO.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S095",
+      "title": "Justice Department releases more Epstein files and some mention Trump",
+      "url": "https://www.wgbh.org/news/national/2025-12-25/justice-department-releases-more-epstein-files-and-some-mention-trump",
+      "details": "GBH/NPR, D. Kurtzleben, R. Mukherjee · 23./25.12.2025; DOJ-Freigabe mit Hinweis, dass enthaltene Behauptungen nicht bestätigt sind.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S096",
+      "title": "Four years later, there's still no evidence to support Pizzagate theory",
+      "url": "https://politifact.com/factchecks/2020/oct/07/facebook-posts/four-years-later-theres-still-no-evidence-support/",
+      "details": "PolitiFact, Ciara O'Rourke · 07.10.2020; Faktencheck zur Code-Deutung von Essensbegriffen in den Podesta-Mails.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S097",
+      "title": "What we know about Trump's relationship with Epstein",
+      "url": "https://www.axios.com/2025/07/18/trump-epstein-relationship-what-we-know",
+      "details": "Axios · 18.07.2025, laut Text bis November 2025 ergänzt; dokumentierte Bekanntschaft, kein Strafvorwurf gegen Trump.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S098",
+      "title": "Elon Musk expressed interest in visiting Jeffrey Epstein's island, emails show",
+      "url": "https://www.nbcnews.com/tech/elon-musk/expressed-interest-visiting-jeffrey-epstein-island-emails-show-doj-rcna256784",
+      "details": "NBC News · Ende Januar 2026; Bericht über vom DOJ freigegebene E-Mails 2012/2013. Titel nach Inhalt wiedergegeben.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S099",
+      "title": "Elon Musk's Emails to Jeffrey Epstein Revealed in Latest File Release",
+      "url": "https://time.com/7362868/elon-musk-epstein-emails/",
+      "details": "TIME, Rebecca Schneid · 31.01.2026, aktualisiert 11.03.2026; Musks Bestätigung der Echtheit und eigene Darstellung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S100",
+      "title": "As QAnon Conspiracy Spreads on the Far Right, Climate Science Deniers Jump Aboard",
+      "url": "https://www.desmog.com/2020/08/27/qanon-conspiracy-naomi-seibt-climate-science-deniers",
+      "details": "DeSmog, Sharon Kelly · 27.08.2020; berichtet über Seibts QAnon-Video und ihre eigene Einordnung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S101",
+      "title": "QAnon's Leader Has Not Posted Since Election Day",
+      "url": "https://www.scrippsnews.com/science-and-tech/social-media/qanon-leader-hasn-t-posted-since-election-day",
+      "details": "Scripps News, Tyler Adkisson · 09.11.2020.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S102",
+      "title": "Q Is Dead, Long Live QAnon",
+      "url": "https://www.vice.com/en/article/qanon-q-drop-midterms/",
+      "details": "VICE, M. Lamoureux, D. Gilbert · 15.11.2022; Aktivitätszeitraum von Q.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S103",
+      "title": "German fugitive nabbed in Romblon",
+      "url": "https://newsinfo.inquirer.net/1649672/german-fugitive-nabbed-in-romblon",
+      "details": "Philippine Daily Inquirer · 19.08.2022; Festnahme am 17.08.2022 auf Grundlage eines Haftbefehls des AG München.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S104",
+      "title": "Germany's 'Biggest QAnon Mouthpiece' Arrested in the Philippines",
+      "url": "https://vice.com/en/article/oliver-janich-germany-philippines",
+      "details": "VICE, T. Hume, JC Gotinga · 18.08.2022; Festnahme in Abstimmung mit der deutschen Botschaft.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S105",
+      "title": "Gegen den Strom. Warum Theologen in den fünfziger Jahren in die DDR gingen",
+      "url": "https://www.evangelisch.de/inhalte/132027/29-02-2016/warum-theologen-den-fuenfziger-jahren-von-der-bundesrepublik-die-ddr-gingen",
+      "details": "evangelisch.de, Claudia Lepp · 29.02.2016; kirchliche Vermittlung und Motive übergesiedelter Theologen allgemein, Kasner nur namentlich.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
     }
   ],
   "speakers": [
@@ -2389,18 +2661,23 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Polenz sei ein Berater Merkels und politisch besonders einflussreich gewesen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Formelles Amt, informelle Beratung und politische Wertung werden nicht gleichgesetzt. Eine dokumentierte konkrete Beraterfunktion fehlt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Belegt sind herausgehobene Ämter: CDU-Generalsekretär von April bis November 2000 auf Vorschlag der Parteivorsitzenden Merkel, Bundestagsabgeordneter 1994–2013 und Vorsitzender des Auswärtigen Ausschusses 2005–2013. Eine formelle oder dokumentierte Beraterfunktion für Merkel nennt die gelesene Biografie nicht. „Besonders einflussreich“ ist eine Wertung, die durch diese Ämter bis 2013 gestützt wird. Für 2014, den Zeitpunkt der in A0040 erzählten Veranstaltung, nennt die Quelle kein Mandat und keinen Vorsitz mehr.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S086",
+          "note": "Ämter und Zeiträume; keine Beraterfunktion für Merkel genannt; parteinahe Stiftung."
+        }
+      ],
       "openQuestions": [
-        "Welche Funktion und welcher Zeitraum sind mit Personal- oder Amtsangaben belegt?"
+        "Eine informelle Beratung Merkels wäre nur mit zeitgenössischen, zurechenbaren Belegen prüfbar."
       ],
       "occurrences": [
         {
@@ -2488,18 +2765,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die AfD sei 2014 ausschließlich als EU-kritische Partei und noch nicht über Migrationspolitik bekannt gewesen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Die Ausschließlichkeit geht über die Feststellung europapolitischer Gründungsthemen hinaus. Programm und zeitgenössische Außendarstellung sind noch zu prüfen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der Kern ist gestützt: Die AfD trat 2013/2014 vorrangig mit Euro- und EU-Kritik auf, Migration spielte im Europawahlkampf 2014 laut Programmanalyse nur eine untergeordnete Rolle. Die Ausschließlichkeit trifft nicht zu: Das Europawahlprogramm 2014 enthielt nach der begutachteten Analyse einen eigenen Abschnitt zu Einwanderung und Asyl, unter anderem ein Punktesystem für Zuwanderung aus Drittstaaten und Sozialleistungen für EU-Bürger erst nach längerem Aufenthalt. Der Autor ordnet ihn als für deutsche Verhältnisse eher gemäßigt ein. Ob die Partei in der Öffentlichkeit schon über Migrationspolitik bekannt war, ist eine Wahrnehmungsfrage und mit diesen Quellen nicht messbar.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S084",
+          "note": "Begutachtete Analyse des Programms 2014: Abschnitt zu Einwanderung und Asyl, gemäßigter Ton; Euro-Kritik im Vordergrund."
+        },
+        {
+          "sourceId": "S085",
+          "note": "Themengewichtung im Europawahlkampf 2014: Migration untergeordnet; interpretierende Sekundärquelle."
+        }
+      ],
       "openQuestions": [
-        "Europawahlprogramm 2014 und zeitgenössische Migrationspositionen vergleichen."
+        "Den Originaltext des Europawahlprogramms 2014 hat Claude nicht gelesen; zwei gefundene PDFs waren das Programm 2019 bzw. ein FDP-Programm. Die Bewertung stützt sich auf die Sekundäranalyse."
       ],
       "occurrences": [
         {
@@ -3120,16 +3406,21 @@
       "description": "Seibt habe sich niemals mit QAnon zusammengeschlossen, obwohl Medien dies behauptet hätten.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Eine eigene Distanzierung und Behauptungen über Medienberichte sind getrennt zu prüfen; konkrete Artikel fehlen.",
+      "reason": "Formal ist kein Zusammenschluss belegt; Seibt erklärte 2020 selbst, keine aktive Teilnehmerin zu sein. Zugleich behandelte sie 2020 QAnon-Themen in eigenen Videos und bewertete die Bewegung positiv. Der gelesene Bericht spricht von Annäherung, nicht von einem Beitritt. Ob „Medien“ einen Zusammenschluss behaupteten, ist mit den bisher gelesenen Quellen nicht belegt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S100",
+          "note": "Seibt 2020: keine aktive Teilnehmerin, Bewegung aber positiv bewertet; Bericht spricht von Annäherung, nicht von Beitritt."
+        }
+      ],
       "openQuestions": [
-        "Gemeinte Artikel und Art einer behaupteten Zusammenarbeit identifizieren; Distanzierung allein beweist keine frühere Zugehörigkeit oder Nichtzugehörigkeit."
+        "Welche Medienberichte sind gemeint? Weitere zeitgenössische Berichte (z. B. Teen Vogue, 24.09.2020) lesen, bevor die Medienbehauptung bewertet wird."
       ],
       "occurrences": [
         {
@@ -3250,10 +3541,10 @@
       "chapter": 6,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Q habe Trumps Wahlsieg vorhergesagt und daraus Vertrauen gewonnen.",
+      "description": "Q-Anhänger hätten Trumps Wahlerfolg als Erfüllung einer Vorhersage Qs gedeutet.",
       "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Die Forschung datiert die ersten Q-Beiträge auf Oktober 2017. Eine Vorhersage des Wahlsiegs 2016 durch diese Beiträge wäre deshalb anachronistisch. Im Gespräch wird das gemeinte Wahljahr jedoch nicht eindeutig genannt; keine automatische Festlegung auf 2016 oder 2024.",
+      "reason": "Die erneute Lektüre des Nahkontexts zeigt eine Beschreibung der Deutung durch Anhänger, verbunden mit einem Vergleich zu unbestimmten Vorhersagen. Das ist keine eindeutige eigene Bestätigung einer zutreffenden Prophezeiung. Die Forschung datiert erste Q-Beiträge auf Oktober 2017. Ohne genanntes Wahljahr und konkrete Fundstelle lässt sich damit die tatsächliche Zuschreibung nicht abschließend prüfen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3264,10 +3555,18 @@
         {
           "sourceId": "S069",
           "note": "Herkunft seit 2017, kein Nachweis einer zutreffenden Wahlvorhersage."
+        },
+        {
+          "sourceId": "S101",
+          "note": "Keine Q-Beiträge mehr seit der Wahl 2020."
+        },
+        {
+          "sourceId": "S102",
+          "note": "Q aktiv Oktober 2017 bis Dezember 2020, danach nur vereinzelt 2022."
         }
       ],
       "openQuestions": [
-        "Welche Wahl und welcher vorab veröffentlichte konkrete Beitrag sind gemeint? Die behauptete Wirkung auf Anhänger gesondert belegen."
+        "Welche Wahl und welcher konkrete Beitrag sind gemeint? Zeitgenössische Belege für die beschriebene Anhängerdeutung fehlen."
       ],
       "occurrences": [
         {
@@ -3297,24 +3596,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Epstein-Komplex stütze Teile der Vorstellung, einflussreiche Personen konsumierten Kinderblut.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Der moderierende Beitrag stellt eine Nähe her; die Anschlussantwort übernimmt unscharf einen realen Kern. Die amtliche Anklage betrifft sexuelle Ausbeutung, belegt aber keinen Blutkonsum.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der reale Kern des Epstein-Komplexes ist die sexuelle Ausbeutung Minderjähriger. Weder die Anklage noch die Berichte über die Aktenfreigaben enthalten Hinweise auf Blutkonsum. Die Verknüpfung verschiebt einen belegten Missbrauchskomplex auf eine unbelegte Erzählung. Die Nähe wird im Gespräch vom Moderator hergestellt und in der Antwort unscharf übernommen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert."
       },
       "sourceRefs": [
         {
           "sourceId": "S008",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "note": "Amtliche Anklage: sexuelle Ausbeutung Minderjähriger, kein Blutkonsum."
+        },
+        {
+          "sourceId": "S095",
+          "note": "Aktenfreigabe 2025; DOJ betont, dass enthaltene Behauptungen nicht bestätigt sind."
         }
       ],
-      "openQuestions": [
-        "Welche konkrete Teilthese übernimmt die Antwort? Belastbare spezifische Belege für Blutkonsum fehlen; keine Gleichsetzung mit bewiesener sexueller Ausbeutung."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0070",
@@ -3447,19 +3748,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Podesta-Mails enthielten auffällige Essensbegriffe, deren Bedeutung sich niemand erklären könne.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Subjektives Misstrauen ist von der überprüfbaren universellen Behauptung fehlender Erklärungen zu trennen. Keine konkreten Nachrichten oder Beweise für eine geheime Bedeutung geprüft.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Für eine verborgene Bedeutung von Essensbegriffen in den Podesta-Mails gibt es nach jahrelanger Prüfung keinen Beleg. Die Aussage legt einen Code nahe, ohne dafür einen Beleg zu haben. Die Universalaussage, niemand könne die Begriffe erklären, ist damit nicht eigens widerlegt; der gelesene Faktencheck behandelt keine harmlosen Einzelerklärungen. Deshalb kein „Widerlegt“.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Konkrete Nachricht, Kontext und konkurrierende Erklärungen identifizieren; keinen Missbrauch aus einem mehrdeutigen Wort ableiten."
+      "sourceRefs": [
+        {
+          "sourceId": "S096",
+          "note": "Kein Beleg für eine versteckte Bedeutung; keine Einzelerklärungen behandelt."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0074",
@@ -3488,19 +3792,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Es gebe keinerlei konkrete Hinweise auf irgendeine Verbindung Trumps zu Epstein.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Kontakt, Kenntnis, Mitwirkung und Straftatbeteiligung sind unterschiedliche Prüfgegenstände. Die weite Verneinung braucht Originalkontrolle und direkt gelesene Kontaktbelege; eine Namensnennung beweist keine Straftat.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Die breite Verneinung jeder konkreten Verbindung trifft nicht zu: Eine soziale Bekanntschaft ist mehrfach dokumentiert, unter anderem durch Trumps eigene Äußerung von 2002, gemeinsame Fotos und Flugunterlagen der 1990er-Jahre; dies war lange vor der Veröffentlichung des Interviews öffentlich. Ein Kontakt ist kein Schuldnachweis. Gegen Trump gibt es im Epstein-Komplex weder Anklage noch Strafvorwurf; das DOJ betont, dass Behauptungen in den freigegebenen Akten nicht bestätigt sind. Die Bewertung betrifft nur die Verneinung jeglicher Verbindung, nicht eine strafrechtliche Beteiligung.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Genauen Bedeutungsumfang kontrollieren und Originalkontakte/Flugunterlagen prüfen, ohne unbelegte strafrechtliche Vorwürfe zu erheben."
+      "sourceRefs": [
+        {
+          "sourceId": "S097",
+          "note": "Dokumentierte Bekanntschaft und Zerwürfnis; kein Strafvorwurf."
+        },
+        {
+          "sourceId": "S095",
+          "note": "Flugunterlagen 1993–1996 in den freigegebenen Akten; Behauptungen darin nicht bestätigt."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0075",
@@ -3529,19 +3840,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Musk habe einen Kontakt mit Epstein und eine Einladung zu dessen Insel gehabt, sie aber abgelehnt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Drei erkennbare Unterbehauptungen: Kontakt, Einladung, Absage. Ohne konkret zugeordneten Schriftwechsel nicht abgeschlossen.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Kontakt ist durch E-Mails belegt, deren Echtheit Musk bestätigt hat. Nach diesen E-Mails fragte Musk 2012 und 2013 allerdings selbst mehrfach nach Besuchen auf der Insel; diese kamen nach den Berichten wegen Absagen bzw. Logistik nicht zustande. Ein Besuch ist nicht belegt, ein Fehlverhalten wird nicht gezeigt. Die Darstellung einer bloß abgelehnten Einladung entspricht Musks eigener Erklärung und lässt diesen Kontext weg. Die E-Mails wurden Ende Januar 2026 öffentlich; da der Aufnahmetermin unbekannt ist, ist offen, ob dieser Kontext bei der Aufnahme schon bekannt war.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Authentizität, Datum und Kontext des einschlägigen Schriftwechsels für jede Unterbehauptung prüfen."
+      "sourceRefs": [
+        {
+          "sourceId": "S098",
+          "note": "Freigegebene E-Mails 2012/2013: Musks eigene Besuchsanfragen; kein Besuch, kein Fehlverhalten belegt."
+        },
+        {
+          "sourceId": "S099",
+          "note": "Musk bestätigt Echtheit, eigene Darstellung abgelehnter Einladungen."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0076",
@@ -3827,19 +4145,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Stefan Molyneux habe 2020 seinen YouTube-Kanal verloren.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Konkretes Plattformereignis, historischer Beleg noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der zeitgenössische Bericht vom 29. Juni 2020 dokumentiert die Entfernung des Kanals und enthält eine direkte Stellungnahme YouTubes sowie Molyneuxs öffentliche Reaktion. Belegt ist die damalige Sperre; damit wird weder jeder Löschgrund einzeln verifiziert noch eine rechtliche Billigung ausgesprochen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Zeitgenössische Plattformbestätigung, Datum und Löschgrund prüfen."
+      "sourceRefs": [
+        {
+          "sourceId": "S075",
+          "note": "Zeitgenössischer Bericht mit eigener Anfrage bei YouTube."
+        },
+        {
+          "sourceId": "S073",
+          "note": "Erfolgloser Abrufversuch – kein Sachbeleg; Ersatzquelle S075 tatsächlich gelesen."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0083",
@@ -4958,6 +5283,10 @@
         {
           "sourceId": "S018",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S072",
+          "note": "Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen."
         }
       ],
       "openQuestions": [
@@ -5045,6 +5374,10 @@
         {
           "sourceId": "S041",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S072",
+          "note": "Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen."
         }
       ],
       "openQuestions": [
@@ -5206,19 +5539,34 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibt habe bei CPAC 2020 sowie in Sendungen von Fox News und Piers Morgan Auftritte gehabt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Drei öffentliche Auftrittsbehauptungen; hier noch nicht jeweils mit Originalsendung oder Veranstalterprogramm belegt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die drei Auftritte sind getrennt gestützt: Das Programm kündigt Seibts Heartland-Veranstaltung bei CPAC für den 28. Februar 2020 an; der zeitgenössische Monitoringbericht dokumentiert den Fox-Auftritt vom Vortag und anschließend die CPAC-Teilnahme. Der Express-Sendungsbericht stützt den Auftritt bei Good Morning Britain im März. Dies bestätigt öffentliche Auftritte, keine wissenschaftliche Richtigkeit ihrer Aussagen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Datum und Format jedes Auftritts getrennt bestätigen."
+      "sourceRefs": [
+        {
+          "sourceId": "S072",
+          "note": "Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen."
+        },
+        {
+          "sourceId": "S078",
+          "note": "Zeitgenössischer Bericht zum Fox-Interview und Update zur CPAC-Teilnahme; Bewertungen des Mediums nicht übernommen."
+        },
+        {
+          "sourceId": "S079",
+          "note": "Historisches Veranstaltungsprogramm, PDF-Seite 19; Planungsbeleg mit archivischer Einschränkung."
+        },
+        {
+          "sourceId": "S076",
+          "note": "Zeitgenössischer Sendungsbericht zum Auftritt bei Piers Morgan."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0118",
@@ -5247,18 +5595,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Piers Morgan habe sich nach einer unzutreffenden Wiedergabe ihrer Position öffentlich entschuldigt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Einzelfall im Gespräch; Originalsendung und tatsächlicher Anlass einer Entschuldigung ungeprüft.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der zeitgenössische Express-Bericht beschreibt eine nach der Werbepause erfolgte Korrektur: Morgan hatte seine eigene Fragestellung unzutreffend wiedergegeben. Die konkrete Richtigstellung ist damit journalistisch gestützt. Das war kein Widerruf der Klimaforschung oder eine Bestätigung aller Positionen Seibts; die Originalsendung wurde hier nicht angehört.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S076",
+          "note": "Frühere tatsächlich gelesene Berichtsquelle; Originalsendung nicht selbst kontrolliert."
+        },
+        {
+          "sourceId": "S074",
+          "note": "Spätere Übernahme desselben Vorgangs, kein unabhängiger zweiter Beleg."
+        },
+        {
+          "sourceId": "S077",
+          "note": "Erfolgloser Abrufversuch – kein Sachbeleg; Ersatz S076."
+        }
+      ],
       "openQuestions": [
-        "Ungekürzte betreffende Gesprächsstelle und Entschuldigung lesen beziehungsweise kontrollieren."
+        "Originalsendung für genauen Umfang und Wortlaut der Korrektur kontrollieren; keine wörtliche Passage veröffentlichen."
       ],
       "occurrences": [
         {
@@ -8221,18 +8582,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein Verfahren um David Bendels und einen Beitrag zu Nancy Faeser sei Anlass für die Zusammenarbeit gewesen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Öffentlicher Rechtsfall und persönlicher Beweggrund sind getrennte Behauptungen; konkrete Entscheidungen noch nicht gelesen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der öffentliche Verfahrenskern ist durch den zeitgenössischen Gerichtsbericht gestützt: Das Amtsgericht verurteilte Bendels 2025; das Landgericht Bamberg sprach ihn am 14. Januar 2026 in der Berufung frei. Der Bericht hielt die Entscheidung damals für noch nicht rechtskräftig. Die Bundesregierung erklärte wenige Tage später, selbst nur Pressekenntnis zu haben. Dass gerade dieses Verfahren die Zusammenarbeit ausgelöst hat, bleibt eine persönliche Motivangabe ohne unabhängigen Nachweis. Der genaue Aufnahmetermin ist unbekannt; der Freispruch wird nicht als damals schon bekannt vorausgesetzt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S083",
+          "note": "Bericht über Instanzen und Berufungsfreispruch, kein Beweis des persönlichen Beweggrunds."
+        },
+        {
+          "sourceId": "S081",
+          "note": "Antwort zu Frage 66; begrenzte amtliche Kenntnis, kein eigener Nachweis sämtlicher Prozessumstände."
+        }
+      ],
       "openQuestions": [
-        "Aktenzeichen, Tatbestand, Instanzen und damaligen Verfahrensstand recherchieren; Motivation als Selbstauskunft behandeln."
+        "Persönlicher Anlass der Zusammenarbeit nicht unabhängig bestätigt; heutige Rechtskraft und Aufnahmetermin ungeklärt."
       ],
       "occurrences": [
         {
@@ -8555,6 +8925,14 @@
         {
           "sourceId": "S058",
           "note": "Öffentlicher Verteidigungsvortrag; Parteiquelle, keine unabhängige Bestätigung aller Schlussfolgerungen."
+        },
+        {
+          "sourceId": "S103",
+          "note": "Festnahme 17.08.2022 auf Grundlage eines Münchner Haftbefehls."
+        },
+        {
+          "sourceId": "S104",
+          "note": "Festnahme in Abstimmung mit der deutschen Botschaft; nichts zur Freilassung."
         }
       ],
       "openQuestions": [
@@ -8863,6 +9241,10 @@
         {
           "sourceId": "S053",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S105",
+          "note": "Kirchliche Vermittlung; Theologen nannten meist kirchliche Motive. Kasner nur namentlich, kein individueller Motivbeleg."
         }
       ],
       "openQuestions": [
@@ -8995,24 +9377,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Merkel sei tatsächlich eine Mitarbeiterin der Staatssicherheit gewesen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Das Gespräch leitet einen Verdacht aus Kontakten, Lebensumständen und vermutetem Aktenwissen ab. Die gelesene Gerichtsmitteilung bestätigt diese Tätigkeit nicht und nennt fehlende Anhaltspunkte für gezielte Begünstigung. Das beweist nicht jeden denkbaren historischen Negativsachverhalt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Für eine Tätigkeit Merkels als Mitarbeiterin der Staatssicherheit liegt kein Akten- oder Gerichtsbeleg vor. Das Bundesarchiv nannte im Verfahren vor dem VG Berlin keine herausgabefähigen Unterlagen, das Gericht sah keine Anhaltspunkte für eine gezielte Begünstigung durch das MfS. Merkel selbst schilderte 2009 eine abgelehnte Anwerbung Ende der 1970er-Jahre; das ist eine Selbstauskunft. Diese Indizien sprechen gegen die Behauptung, widerlegen einen historischen Negativsachverhalt aber nicht beweiskräftig. Deshalb kein „Widerlegt“.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert."
       },
       "sourceRefs": [
         {
           "sourceId": "S025",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "note": "Gerichtsmitteilung: keine Anhaltspunkte für gezielte MfS-Begünstigung."
+        },
+        {
+          "sourceId": "S087",
+          "note": "Bericht zum Urteil: keine herausgabefähigen Unterlagen; keine Aussage über Vernichtung oder Kopien."
+        },
+        {
+          "sourceId": "S088",
+          "note": "Merkels eigene Schilderung einer abgelehnten Anwerbung; Selbstauskunft, kein Aktenbeleg."
         }
       ],
-      "openQuestions": [
-        "Konkrete belastbare Mitarbeiterunterlagen oder entsprechende gerichtliche Feststellungen fehlen; Verdacht und Tatsachenbehauptung an der Originalstelle abgrenzen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0216",
@@ -9133,28 +9521,38 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Schnur sei ein enger Freund von Merkels Vater gewesen und habe ihre politische Karriere gezielt ermöglicht.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Freundschaft, beruflicher Einstieg und eine weitreichende Karriereursache sind nicht identisch. Die bislang gelesenen Quellen belegen nicht alle diese Verbindungen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Belegt ist, dass Schnur Merkel 1990 als Pressesprecherin des Demokratischen Aufbruchs einstellte, was als Beginn ihrer politischen Laufbahn gilt, und dass er Horst Kasner aus kirchlichen Zusammenhängen kannte. Nicht belegt sind eine enge Freundschaft und eine gezielte Karriereplanung; die gelesene Zeitungsdarstellung gibt die Förderthese nur als Frage bzw. als Schnurs eigene Sicht wieder.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert."
       },
       "sourceRefs": [
         {
           "sourceId": "S026",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "note": "Biografischer Kontext zu Schnur."
         },
         {
           "sourceId": "S053",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S089",
+          "note": "Merkels Wechsel zum Demokratischen Aufbruch und Freistellung 1990."
+        },
+        {
+          "sourceId": "S090",
+          "note": "Schnur stellte Merkel als Pressesprecherin ein."
+        },
+        {
+          "sourceId": "S091",
+          "note": "Kirchliche Bekanntschaft Schnur–Kasner; Förderthese ohne Beleg."
         }
       ],
-      "openQuestions": [
-        "Beziehung zum Vater, konkrete Personalentscheidung und behauptete strategische Absicht anhand historischer Quellen prüfen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0219",
@@ -9265,19 +9663,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Obama habe Merkel langjährig überwachen lassen, was als Indiz einer geheimen Vorgeschichte zu verstehen sei.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Überwachungsvorgang, Präsidentenwissen und angeblicher Zweck sind getrennt. Der Schluss auf Stasi-Tätigkeit folgt aus dem bloßen Abhörvorwurf nicht.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Ein Kern trifft zu: 2013 wurde über eine NSA-Überwachung von Merkels Mobiltelefon berichtet, die bis 2002 zurückreichen soll. Der Generalbundesanwalt stellte 2015 ein, weil der Vorwurf nicht gerichtsfest beweisbar war. Dass Obama die Überwachung veranlasste oder wissentlich fortführte, ist umstritten: Einem anonymen Zeitungsbericht stehen ein NSA-Dementi und Obamas eigene Aussage gegenüber. Die Überwachung begann nach diesen Berichten vor seiner Amtszeit. Ein Indiz für eine Stasi-Vergangenheit ergibt sich daraus nicht; diese Schlussfolgerung ist nicht belegt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Amtliche Untersuchung und zeitliche Reichweite lesen; Motivannahme nicht aus dem Ergebnis ableiten."
+      "sourceRefs": [
+        {
+          "sourceId": "S092",
+          "note": "Bericht über Überwachung seit 2002 und die widersprüchlichen Darstellungen zu Obamas Wissen."
+        },
+        {
+          "sourceId": "S093",
+          "note": "NSA-Dementi zu einem Gespräch mit Obama 2010."
+        },
+        {
+          "sourceId": "S094",
+          "note": "Einstellung der Ermittlungen 2015 mangels gerichtsfester Beweise."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0222",
@@ -9352,24 +9761,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Belastende Merkel-Unterlagen seien vermutlich vernichtet worden, aber Kopien befänden sich in Russland und den USA.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Mehrere spekulative Existenz-, Vernichtungs- und Besitzbehauptungen. Die CIA-Herkunft anderer Stasi-Karteien bestätigt keinen konkreten Merkel-Bestand.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Es gibt keine gelesene Quelle, die belastende Merkel-Unterlagen, deren Vernichtung oder Kopien in Russland oder den USA benennt. Die Berichte zum Verfahren vor dem VG Berlin nennen keine herausgabefähigen Unterlagen und sagen nichts über Vernichtung oder Kopien. Die Rosenholz-Dateien betreffen andere Bestände und belegen keinen Merkel-Bestand.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert."
       },
       "sourceRefs": [
         {
           "sourceId": "S052",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "note": "Herkunft anderer Stasi-Karteien; kein Merkel-Bestand."
+        },
+        {
+          "sourceId": "S087",
+          "note": "Keine herausgabefähigen Unterlagen; keine Angaben zu Vernichtung oder Kopien."
         }
       ],
-      "openQuestions": [
-        "Konkrete Aktenidentifikatoren, Provenienz und Inhaltsnachweise fehlen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0224",
@@ -10136,7 +10547,7 @@
       "description": "Robinson sei bewusst mit feindlich gesinnten islamistischen Häftlingen untergebracht worden, um ihn zu gefährden.",
       "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Konkrete Haftbedingungen und staatliche Absicht sind getrennte Vorwürfe. Die gelesene Strafbegründung bestätigt diese Absicht nicht.",
+      "reason": "Das Berufungsgericht beschreibt für die Haft 2024/2025 eine reale Bedrohung und Absonderung zum eigenen Schutz. Diese gerichtliche Darstellung stützt den Gefährdungskern, liefert aber keinen Beleg für absichtliche staatliche Herbeiführung der Bedrohung. Das Gespräch nennt keinen bestimmten früheren Haftaufenthalt. Die Aussage über Vorsatz bleibt deshalb offen; der gelesene Gerichtsbericht darf nicht auf sämtliche Haftzeiten übertragen werden.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -10147,10 +10558,14 @@
         {
           "sourceId": "S034",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S080",
+          "note": "Randnummern 38–43: Schutzabsonderung bei tatsächlichen Drohungen; kein Nachweis einer absichtlichen Gefährdung und keine Gesamtdarstellung aller Haftzeiten."
         }
       ],
       "openQuestions": [
-        "Haftentscheidungen, unabhängige Kontrollberichte und konkrete Belege für Vorsatz fehlen."
+        "Welcher Haftaufenthalt ist gemeint? Unabhängige Kontrollberichte und konkrete Belege für staatlichen Gefährdungsvorsatz fehlen."
       ],
       "occurrences": [
         {
@@ -10178,20 +10593,25 @@
       "videoId": "mdo14671BPE",
       "chapter": 21,
       "legacyId": null,
-      "kind": "Tatsachenbehauptung",
-      "description": "Die Behandlung des unter Shlomo Finkelstein bekannten Aktivisten habe sich lediglich gegen harmlosen groben Humor gerichtet.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Wertung des Inhalts und rechtlicher Anlass sind verschieden. Ohne Urteile keine Aussage über Schuld, Verfolgungsmotiv oder Harmlosigkeit des vollständigen Kanals.",
+      "kind": "Meinung",
+      "description": "Seibt bewertet die Inhalte des Kanals von Shlomo Finkelstein als harmlosen groben Humor und hält ihn nicht für gefährlich.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Bewertung von Humor und Gefährlichkeit ist hier eine persönliche Einschätzung. Der eng gelesene automatische Text nennt weder ein Urteil noch einen bestimmten strafbaren Inhalt als Prüfgegenstand. Als rechtlicher Kontext nennt der Behördenbericht eine Verurteilung 2020 sowie Haft nach Bewährungsauflagenverstößen. Das ist keine vollständige eigene Prüfung des Kanals und widerlegt eine subjektive Humorwertung nicht automatisch. Die zusätzliche Tatsachenbehauptung über fehlende Auslandsverbindungen wird gesondert als A0249 erfasst.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S082",
+          "note": "Rechtlicher Kontext aus einem Behördenbericht; keine eigene Inhaltsprüfung oder Originalentscheidung."
+        }
+      ],
       "openQuestions": [
-        "Verurteilungen, Strafvollstreckung und konkret relevante Inhalte anhand Originalentscheidungen prüfen."
+        "Vollständige einschlägige Entscheidungen und Inhalte nicht geprüft; kein Tatsachenurteil über die Harmlosigkeit aller Kanalbeiträge."
       ],
       "occurrences": [
         {
@@ -11271,6 +11691,10 @@
         {
           "sourceId": "S041",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S072",
+          "note": "Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen."
         }
       ],
       "openQuestions": [
@@ -11450,6 +11874,10 @@
         {
           "sourceId": "S041",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S072",
+          "note": "Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen."
         }
       ],
       "openQuestions": [
@@ -11813,6 +12241,47 @@
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0249",
+      "videoId": "mdo14671BPE",
+      "chapter": 21,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Shlomo Finkelstein habe keine gefährlichen Verbindungen ins Ausland unterhalten.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Diese zusätzliche Tatsachenbehauptung wird von der subjektiven Bewertung seines Humors getrennt. Das Gespräch nennt keine konkrete Verbindung, Organisation oder Untersuchung. Der gelesene Behördenbericht enthält keinen umfassenden Nachweis des Fehlens sämtlicher Auslandsverbindungen; aus einer Nichtnennung folgt keine Bestätigung.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche konkrete Art und welcher Zeitraum von Auslandsverbindungen sind gemeint? Keine geeignete vollständige Einzelfallgrundlage geprüft."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0282",
+          "startSeconds": 8489,
+          "endSeconds": 8495,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
           "attributionStatus": "Plausibel",
           "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
           "legacySpeaker": null,

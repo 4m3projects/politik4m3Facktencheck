@@ -1,6 +1,6 @@
 # Kapitel 07: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0248: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0249: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -262,7 +262,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Stefan Molyneux habe 2020 seinen YouTube-Kanal verloren.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -281,7 +281,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Konkretes Plattformereignis, historischer Beleg noch nicht geöffnet.
+Der zeitgenössische Bericht vom 29. Juni 2020 dokumentiert die Entfernung des Kanals und enthält eine direkte Stellungnahme YouTubes sowie Molyneuxs öffentliche Reaktion. Belegt ist die damalige Sperre; damit wird weder jeder Löschgrund einzeln verifiziert noch eine rechtliche Billigung ausgesprochen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -291,11 +291,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [YouTube bans Stefan Molyneux, David Duke, Richard Spencer, and more for hate speech](https://www.theverge.com/2020/6/29/21307303/youtube-bans-molyneux-duke-richard-spencer-conduct-hate-speech) · Julia Alexander, The Verge; 29.06.2020.
+  Quellenzugriff am 2026-11-18. Bericht mit direkter YouTube-Auskunft und Molyneux-Reaktion gelesen; keine internen Moderationsakten geprüft. Zeitgenössischer Bericht mit eigener Anfrage bei YouTube.
+
+- [Bloomberg-Bericht über YouTube-Kanallöschungen – erfolgloser Abruf der Yahoo-Fassung](https://finance.yahoo.com/news/youtube-bans-more-white-supremacist-212014701.html) · Lucas Shaw/Bloomberg; 29.06.2020; Abrufversuch 18.11.2026.
+  Quellenzugriff am 2026-11-18. Erfolgloser Abrufversuch – kein Sachbeleg: HTTP 429. Suchausschnitt nicht als Verifikation verwendet. Tatsächlich gelesene Ersatzquelle: zeitgenössischer Bericht von Julia Alexander bei The Verge, S075. Erfolgloser Abrufversuch – kein Sachbeleg; Ersatzquelle S075 tatsächlich gelesen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Zeitgenössische Plattformbestätigung, Datum und Löschgrund prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0073
 

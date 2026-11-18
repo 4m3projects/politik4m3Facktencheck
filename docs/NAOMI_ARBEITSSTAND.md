@@ -1,21 +1,41 @@
 # Übernahme und Arbeitsstand: Naomi-Seibt-Interview
 
-Bearbeitet von: Codex. Aktualisierung: 18.11.2026. **In Bearbeitung, keine fertige Gesamtprüfung.**
+Bearbeitet von: Codex. Aktualisierung: 18.11.2026. **Teilprüfung; vollständige Projektverantwortung an Claude übergeben. Keine fertige Gesamtprüfung.**
+
+Die aktuelle Nutzeranweisung zur vollständigen Übergabe wurde aus dem parallelen Codex-Chat übermittelt. Codex sichert den begonnenen Abschnitt und stellt anschließend die fachliche Weiterbearbeitung sowie eigene Merges ein. Claude übernimmt Recherche, Integration und weitere Veröffentlichungen nach den dokumentierten Nutzerfreigaben. Letzten geprüften Commit und Freigabe des Worktrees im Abschlusskommentar von Issue #3 prüfen. Kein automatischer Neustart dieses Codex-Arbeitsstrangs.
+
+## Stand nach Übernahme durch Claude (18.11.2026)
+
+Bearbeitet von: Claude. Claude trägt die Verantwortung für diesen Auftrag. Der Projektverantwortliche hat Claude erlaubt, geprüfte Teilstände bei grüner CI selbst nach `main` zu mergen.
+
+- **Kein Zugriff** auf die privaten Originaluntertitel, Audio oder Video. Neue Aussageerfassung, Wiederholungsabgleich am Text und Sprecherbestätigung sind deshalb derzeit nicht möglich. Kontextfragen stützen sich auf die Paraphrasen in `aussagen.json` und auf Codex' Präzisierungen in Issue #3 (Kommentar 6970629170).
+- Lokal steht kein PowerShell zur Verfügung. Die Artefakte erzeugt der Workflow `.github/workflows/regenerate.yml`, wenn eine Commit-Nachricht auf einem `claude/**`-Branch `[regenerate]` enthält. Er führt vorher Generator-Check, Faktencheck-Tests und Publikationsprüfung aus.
+- Die Recherchepakete 1–3 aus Issue #3 sind eingearbeitet. Abgeschlossen wurden A0039, A0041, A0060, A0063, A0064, A0065, A0185, A0188, A0191 und A0193. A0056, A0059, A0175 und A0182 haben neue Quellen erhalten, bleiben aber offen.
+
+Die folgenden Abschnitte dokumentieren Codex' Übergabestand.
 
 ## Zuständigkeit und Wiederaufnahme
 
-- Auftrag: [Issue #3](https://github.com/4m3projects/politik4m3Facktencheck/issues/3), [Draft PR #5](https://github.com/4m3projects/politik4m3Facktencheck/pull/5).
-- Eigener Branch: `codex/faktencheck-mdo14671BPE`; benachbarter Worktree mit Namen `politik4m3-naomi`. Den Arbeitsbaum des Migrations-Chats nicht verwenden.
-- Letzter vor dieser Aktualisierung geprüfter und gepushter Sachstand: `ca2a2eec6e2cfbfe046c08bb87da2eb76568ceff`. Den neueren gesicherten Stand im PR und mit `git log -1` prüfen; lokale Änderungen nicht ungeprüft verwerfen.
+- Auftrag: [Issue #3](https://github.com/4m3projects/politik4m3Facktencheck/issues/3), [Erste Teilveröffentlichung PR #5](https://github.com/4m3projects/politik4m3Facktencheck/pull/5), [Folge-Draft PR #10](https://github.com/4m3projects/politik4m3Facktencheck/pull/10).
+- Eigener Branch: `codex/naomi-recherche-fortsetzung`; benachbarter Worktree mit Namen `politik4m3-naomi`. Den Arbeitsbaum des Migrations-Chats nicht verwenden.
+- Veröffentlichte Ausgangsbasis: Merge-Commit `84c6a5f42759a1d88d166b540393859f6a41edec`, Kandidat `5d90003602161881896437134542ee0bc596f4c5`. Pages-Build und Deploy 44246032430 erfolgreich. Der aktuelle Folgebranch enthält zusätzliche Recherche. Den neueren gesicherten Stand im PR und mit `git log -1` prüfen; lokale Änderungen nicht ungeprüft verwerfen.
 - Aktuelle Nutzerfreigabe: [ChatGPTs Dokumentation vom 18.11.2026](https://github.com/4m3projects/politik4m3Facktencheck/issues/3#issuecomment-6970001314). Fertigstellung und Veröffentlichung einschließlich Merge sind für diesen Auftrag autorisiert. Die älteren Einzel-Freigabesätze sind insoweit übersteuert. Quellen-, Rechte- und Testpflichten gelten weiter.
-- Aktueller Integrationsschritt: vorhandene Website aus `origin/main` (`d79ec4f`) in den eigenen Branch übernehmen. Kein Rebase mit Force-Push, keine fremden Branchänderungen. Der einzige Konflikt betraf den Kommentar neben der bereits beidseitig erlaubten CLAUDE.md im Publikationsprüfer; Website-Freigaben aus main erhalten.
+- Abgeschlossener Integrationsschritt: vorhandene Website aus `origin/main` (`d79ec4f`) in den eigenen Branch übernommen und als Teilprüfung veröffentlicht. Kein Rebase mit Force-Push, keine fremden Branchänderungen. Der einzige Konflikt betraf den Kommentar neben der bereits beidseitig erlaubten CLAUDE.md im Publikationsprüfer; Website-Freigaben aus main erhalten.
 - Issue #8 zur Synchronisierung bei YouTube-Werbung ist Claudes gesonderter Auftrag; keine konkurrierende Reparatur in diesem Branch.
 
 ## Gesicherter fachlicher Stand
 
 Zentrale Daten: [aussagen.json](../faktenchecks/mdo14671BPE/strukturiert/aussagen.json). Berichte und Statistik im Unterverzeichnis `strukturiert` ausschließlich mit dem Generator erzeugen. Eigene Einordnung und Abdeckungsregister stehen eine Ebene darüber.
 
-248 Datensätze, davon zwei reine Fremdbezüge; 246 eigenbezogene Aussagen mit 276 eigenen Vorkommen. 222 Tatsachenbehauptungen: 57 abgeschlossen, 123 offen, 42 in Bearbeitung. 24 Meinungen/Prognosen außerhalb des Tatsachennenners. Werbung ist eine enthaltene Teilmenge, keine zusätzlich zu addierende Menge.
+249 Datensätze, davon zwei reine Fremdbezüge; 247 eigenbezogene Aussagen mit 277 eigenen Vorkommen. 222 Tatsachenbehauptungen: 71 abgeschlossen, 113 offen, 38 in Bearbeitung (Stand Claude, 18.11.2026; bei Codex' Übergabe 61/119/42). 25 Meinungen/Prognosen außerhalb des Tatsachennenners. Werbung ist eine enthaltene Teilmenge, keine zusätzlich zu addierende Menge.
+
+Letzter vor diesem Folgeabschnitt bestätigter Push: `3601fcf88b980c0dde30ba2af341298361f4ad14` (59 abgeschlossene Tatsachenprüfungen). Den SHA des vorliegenden neueren Abschnitts aus dem PR/Issue und dem Git-Log ermitteln; ein Dokument kann seinen eigenen Commit-SHA nicht vorwegnehmen.
+
+## Zusammenarbeit mit Claude
+
+Die Nutzerkorrektur meint ausdrücklich Claude. [Aufteilung](https://github.com/4m3projects/politik4m3Facktencheck/issues/3#issuecomment-6970466955) und [Annahme durch Codex](https://github.com/4m3projects/politik4m3Facktencheck/issues/3#issuecomment-6970485148) stehen im Issue. Claude recherchiert Kapitel 19 (A0182, A0183, A0185, A0188–A0191, A0193), Kapitel 6 (A0055, A0056, A0059, A0060, A0062–A0065), Kapitel 5 (A0039–A0041, A0043, A0044) sowie A0175 und A0178. Er verändert keine Naomi-Dateien. Codex bearbeitet die übrigen Bereiche und integriert nach eigener Quellenlektüre und Kontextprüfung. Die Migration des anderen Chats bleibt getrennt.
+
+Claudes drei Pakete liegen als Issue-Kommentare 6970522056, 6970554111 und 6970599290 vor. Sie sind Hinweise und Bewertungsvorschläge, keine automatisch zu übernehmenden Ergebnisse. Codex hat mit Kommentar 6970629170 die unbestimmten Kontexte zu Wahljahr, Trump-Kontakt, Merz-Bezugsgröße, Wohnort und unbenannten Amtsträgern präzisiert und Primärquellen zum AfD-Programm 2014 sowie Polenz angefragt. Kein privater Originaltext wurde übermittelt. Vor dem Upload veröffentlicht bedeutet bei unbekanntem Aufnahmetermin nicht sicher vor der Aufnahme bekannt.
 
 Alle verfügbaren automatischen deutschen Originaluntertitel wurden gelesen. Beide deutschen Spuren haben dieselbe Lücke bei ungefähr 02:10:48–02:12:44. Letzte vier Sekunden ebenfalls ohne Inhaltsnachweis. Zwei Einträge im Lückenfenster beruhen nur auf einer öffentlichen Podcast-Transkription mit abweichender Zeitachse. Nicht als synchronisiert oder kontrolliert ausgeben. Audio-/Videokontrolle und bestätigte Sprecheridentitäten fehlen vollständig; keine persönlichen Prozentquoten erfinden.
 
@@ -23,13 +43,13 @@ Private Grundlagen ausschließlich in der vom Importskript vorgesehenen externen
 
 ## Konkrete nächste Arbeit
 
-1. Website-Integration testen und diesen konsistenten Arbeitsstand committen/pushen; SHA und Testergebnis in Issue/PR nennen. Video-Metadaten in der eigenen README im von der Website unterstützten Stichpunktformat halten.
+1. Erledigt: Codex hat den Stand `6e78c26` gesichert und übergeben. Claude führt den Auftrag seit 18.11.2026 auf `claude/project-thread-a9k8oo` (PR #12) fort und hat zehn weitere Tatsachen nach eigener Quellenlektüre abgeschlossen (S084–S105).
 2. Noch offene öffentliche Angaben weiter recherchieren, zuerst A0096–A0103 (öffentliche Auftritte, Heartland, Medien), A0072–A0074 (Veröffentlichungen und Plattformgeschichte), A0001–A0005 (Alter, öffentliche Termine, behauptete Vermittlung und kostenloses Folgen), A0168 und A0210–A0231 (konkrete Verfahren und Rechtsbehauptungen). Nicht alles in einem Sammelurteil schließen.
-3. A0064 unterscheidet noch nicht sicher zwischen Kontakt zu Epstein und strafbarer Beteiligung. Originalstelle und Belege prüfen; ein Kontakt ist kein Schuldbeweis. A0059 nennt das Wahljahr nicht eindeutig; erste Q-Beiträge 2017 rechtfertigen ohne diese Klärung kein pauschales Urteil über eine Vorhersage.
+3. A0064 unterscheidet noch nicht sicher zwischen Kontakt zu Epstein und strafbarer Beteiligung. Originalstelle und Belege prüfen; ein Kontakt ist kein Schuldbeweis. A0059 wurde präzisiert: Der Nahkontext beschreibt die Deutung durch Q-Anhänger. Das Wahljahr bleibt offen; erste Q-Beiträge 2017 rechtfertigen ohne diese Klärung kein pauschales Urteil über eine Vorhersage.
 4. A0196 wurde nach Kontextprüfung wieder geöffnet: persönlicher Loyalitätsvorsatz und behauptete rechtliche Asylvoraussetzung sind nicht eindeutig dieselbe Aussage. Die frühere Endbewertung nicht ungeprüft wiederherstellen.
 5. Private Krankheits-, Missbrauchs-, Familien-, Aufenthalts- und Kostenberichte erfordern geeignete Einzelfallbelege. Keine massenhafte Umstellung offener Fälle auf Nicht ausreichend belegbar, um die Abschlusszahl zu erhöhen. Tatsächlich unzugängliche Fälle nachvollziehbar begrenzen; fehlende Bestätigung bedeutet nicht falsch.
 6. Danach alle Teilbehauptungen mit der vollständigen zugänglichen Grundlage abgleichen, Wiederholungen zusammenführen und unsichere Rollen einzeln prüfen. Bestätigte Sprecherstatistik erst nach entsprechend dokumentierter Identifizierung.
-7. Website-Aufbau, Navigation, Aussagefilter, Videoansicht, Berichtslinks und mobile Darstellung mit den neuen Daten kontrollieren. Ein nachgebildeter Player ist keine Prüfung des echten YouTube-Videos. Erst nach belegtem Abschluss reviewfähigen PR, Merge und Pages-Deployment durchführen; verbleibende Sachlücken sichtbar lassen.
+7. Website-Aufbau, Navigation, Aussagefilter, Videoansicht, Berichtslinks und mobile Darstellung mit den neuen Daten kontrollieren. Ein nachgebildeter Player ist keine Prüfung des echten YouTube-Videos. Der zusätzliche Nutzerauftrag erlaubt ausdrücklich weitere geprüfte Teilveröffentlichungen. Dabei Teilbestand und alle Sachlücken sichtbar lassen; Issue #3 nicht als vollständig erledigt schließen.
 
 ## Quellenhinweise
 
@@ -50,3 +70,11 @@ git diff --cached --check
 ```
 
 Bei Websiteänderungen zusätzlich den Aufbau aus `.github/workflows/pages.yml` sowie `node site/browser-test.js` mit extern bereitgestelltem Playwright/Chromium ausführen. Abhängigkeiten und Build-Ausgaben außerhalb des Repositorys halten. Inhaltliche Rechteprüfung bleibt zusätzlich zum technischen Filter erforderlich. Danach sinnvoll abgegrenzten Commit erstellen, normal pushen, Remote-SHA prüfen und Issue/PR mit nächstem konkretem Schritt aktualisieren.
+
+## Prüfnachweise und zuletzt bearbeitete Punkte
+
+Die erste Teilveröffentlichung bestand 83 Faktenchecktests, Generator-/Publikations-/Indexprüfung, 15 Synchronisationstests, 16 Browserprüfungen und sechs Naomi-spezifische Prüfungen. Browserprüfungen mit Playwright und vorhandenem Chrome, IFrame API nachgebildet. Öffentlicher Datenindex und Naomi-JSON wurden nach Deploy per HTTP kontrolliert. Der zusätzliche Versuch mit echtem YouTube-Stream ergab hier keine verwertbare Kontrolle.
+
+Neu: A0072 ist mit dem zeitgenössischen Bericht von The Verge (S075, direkte YouTube-Auskunft) belegt. A0103 ist durch den früheren Express-Sendungsbericht (S076) teilweise belegt; WND (S074) ist eine abhängige Übernahme, kein zweiter unabhängiger Beleg. Die Korrektur der Fragestellung ist keine Bestätigung sämtlicher Klimapositionen. S073 (Yahoo/Bloomberg, HTTP 429) und S077 (anderer Express-Link, gesperrter Zugriff) sind erfolglose Abrufe. S072 bestätigt Heartlands institutionelle Kooperation 2020, nicht alle Detail- oder Zahlungsbehauptungen.
+
+Im Folgeabschnitt sind die Auftritte A0102 belegt und der Rechtsfallkern A0168 teilweise belegt, ohne private Motive als bestätigt auszugeben. Das Berufungsurteil S080 liefert für A0211 Gegenkontext zur behaupteten Gefährdungsabsicht, klärt aber nicht alle Haftzeiten; weiterhin laufend. A0212 ist nach Nahkontext eine Meinung, die Teilbehauptung zu Auslandsverbindungen wurde als A0249 separat offen erhalten. Keine Löschung einer ungeklärten Tatsachenbehauptung zugunsten besserer Zahlen.
