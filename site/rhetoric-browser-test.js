@@ -194,6 +194,24 @@ async function step(name, fn) {
     assert.equal(await page.$eval('#' + cid + ' .rhet details', d => d.open), false);
   });
 
+  await step('Video-Ansicht: Fundstellen neben dem Video zeigen die Darstellungshinweise', async () => {
+    const cid = RHET.annotations[0].claimId;
+    await page.evaluate(() => localStorage.clear());
+    await open(W, '#/video/' + V + '/video');
+    const item = page.locator(`#vc-list .vc-item:has(a[href$="/aussage/${cid}"])`).first();
+    const flags = await item.locator('.vc-meta .rhet-flag').allInnerTexts();
+    assert.deepEqual(flags.sort(), ['Darstellung: Abwertende Sprache', 'Darstellung: Ironie / Satire'], 'Merkmale an der Fundstelle');
+    await item.locator('summary').first().click();
+    const badges = await item.locator('.vc-body .rhet .rhet-badge').allInnerTexts();
+    assert.deepEqual(badges.sort(), ['Abwertende Sprache', 'Ironie / Satire'], 'Hinweise mit Begründung in den Details');
+    assert.ok(await page.locator('#vc-list .vc-item:has(.rhet-flag)').count() >= 2, 'weitere markierte Fundstellen');
+    await item.locator('.vc-seek').click();
+    await page.waitForFunction(() => document.querySelector('#vc-current .rhet-flag'));
+    assert.match(await page.innerText('#vc-current'), /Darstellung: (Abwertende Sprache|Ironie \/ Satire)/, 'auch in „Zu dieser Stelle gehört“');
+    await open(O, '#/video/' + V + '/video');
+    assert.equal(await page.locator('.vc-item .rhet-flag, .vc-item .rhet').count(), 0, 'ohne Rhetorikdatei keine Hinweise');
+  });
+
   await step('Methodik erklärt die zweite Ebene', async () => {
     const t = await open(W, '#/methodik');
     assert.match(t, /Zweite Ebene: Wie etwas gesagt wird/);

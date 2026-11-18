@@ -167,6 +167,20 @@ async function step(name, fn) {
     assert.equal(await page.evaluate(() => window.scrollY), 0, 'Direktaufruf beginnt oben');
   });
 
+  await step('Brotkrumen: Titel statt Video-ID, bei Reaktionen mit Original dazwischen', async () => {
+    await open(urlOf(real), '#/video/mlxFA9T88I0');
+    let c = await page.innerText('.crumbs');
+    assert.match(c, /^Faktenchecks \/ Horst Lüning bei Ben/);
+    assert.doesNotMatch(c, /mlxFA9T88I0/);
+    await open(B, '#/video/' + F.RB + '/reaktionen');
+    c = await page.innerText('.crumbs');
+    const links = await page.$$eval('.crumbs a', a => a.map(x => x.getAttribute('href')));
+    assert.equal(links[0], '#/');
+    assert.ok(links.length >= 2 && links.slice(1).every(h => /^#\/video\/FIKTIVORIG/.test(h)), 'Original verlinkt: ' + links);
+    assert.match(c, new RegExp('^Faktenchecks / ' + F.VIDEOS[links[1].split('/').pop()].meta.title));
+    assert.match(c, new RegExp(F.VIDEOS[F.RB].meta.title + '$'));
+  });
+
   await step('Fixtures: Startseite listet nur Originale, Reaktionen nicht als Hauptvideos', async () => {
     const t = await open(B, '#/');
     assert.match(t, new RegExp(F.VIDEOS[F.O1].meta.title));
