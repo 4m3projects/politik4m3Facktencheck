@@ -1,6 +1,6 @@
 # Kapitel 15: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0149: Themen bis zu den Musk-Kontakten und historischen Parteideutungen (01:33:20), mit einzelnen späteren Wiederholungen. Weitere gelesene Abschnitte noch nicht vollständig erfasst.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0207: Themen bis zur Erstmaligkeitsbehauptung über deutsches Asyl (02:16:56), mit einzelnen späteren Wiederholungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere gelesene Abschnitte noch nicht vollständig erfasst.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -347,5 +347,47 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mdo14671BPE-A0150
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Seibt habe in der Aufbauphase täglich eigene politische Videos veröffentlicht und Musk einzelne Beiträge zugeschickt.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:34:05–01:34:43](https://www.youtube.com/watch?v=mdo14671BPE&t=5645s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Tägliche Veröffentlichung und private Weitergabe sind getrennt nachzuweisen. Reuters bestätigt viele öffentliche Interaktionen, aber weder jeden Tagesupload noch private Nachrichten.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+
+### Zugeordnete Quellen
+
+- [Meet the influencer who has Musk’s ear on Germany’s far-right](https://kfgo.com/2025/01/09/meet-the-influencer-who-has-musks-ear-on-germanys-far-right/) · Thomas Escritt/Reuters; 09.01.2025; verbreitet bei KFGO.
+  Quellenzugriff am 2026-11-17. Reuters-Originalbericht in lizenzierter Veröffentlichung gelesen. Reuters prüfte öffentliche Interaktionen; private Nachrichten wurden laut Bericht nicht eingesehen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+
+### Offene Fragen und Unsicherheiten
+
+- Öffentliche Beitragshistorie für den gemeinten Zeitraum prüfen; private Weitergabe nur mit freiwillig zugänglicher Bestätigung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

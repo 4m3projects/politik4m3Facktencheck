@@ -2,7 +2,7 @@
 
 Stand: 18.11.2026. Eigenständige Neuerfassung für Issue #3. Die früher im Issue genannten KI-Zahlen sind keine Grundlage unserer Bewertungen und kein Sollwert.
 
-Aktualisierung 18.11.2026: 149 Prüfgegenstände; Erfassung bis zu den Musk-Kontakten bei 01:33:20. Refeeding-Risiko wird anhand gelesener Fachgesellschafts-/Klinikquellen von ungesicherten individuellen Behandlungsfehlern getrennt. Die Recherche zu Förderwerbung und Twitter-Übernahme ist ergänzt.
+Aktualisierung 18.11.2026: 207 Prüfgegenstände; Erfassung bis 02:16:56. ESTA-Regeln, frühere deutsche Asylverfahren, Merkel-Aktenzugang und Rosenholz werden mit direkten Quellen geprüft. Eine frühere Bewilligung im Fall Romeike wurde später aufgehoben; sie darf nicht als heute fortbestehender Asylstatus ausgegeben werden.
 
 - [01 · Auftakt](strukturiert/berichte/kapitel-01.md)
 - [02 · Einreise und Schulbiografie](strukturiert/berichte/kapitel-02.md)
@@ -22,6 +22,12 @@ Aktualisierung 18.11.2026: 149 Prüfgegenstände; Erfassung bis zu den Musk-Kont
 
 - [14 · Krankheit und Überwachungsvorwürfe](strukturiert/berichte/kapitel-14.md)
 - [15 · Musk-Kontakte](strukturiert/berichte/kapitel-15.md)
+
+- [16 · Ausreise und US-Aufenthalt](strukturiert/berichte/kapitel-16.md)
+- [17 · Asyl und Finanzierung](strukturiert/berichte/kapitel-17.md)
+- [18 · Janich und Parteikritik](strukturiert/berichte/kapitel-18.md)
+- [19 · Merkel und DDR](strukturiert/berichte/kapitel-19.md)
+- [20 · Asylverfahren](strukturiert/berichte/kapitel-20.md)
 
 Die eingeschränkte Verlustpufferung durch Optionsprämien ist von umfassender Sicherheit zu unterscheiden. Bei US-Reiseregeln sind allgemeine Verfahrensrisiken und individuelle Einreisesperren getrennte Fragen. Der aktuelle WDR-Bericht über einen Strafbefehl wird als Sekundärquelle ausgewiesen; ohne Originalbescheid und Aufnahmezeit darf er nicht beliebig mit der im Interview beschriebenen Verfahrenslage gleichgesetzt werden.
 
