@@ -1,6 +1,6 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0248: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0249: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -218,7 +218,7 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Q habe Trumps Wahlsieg vorhergesagt und daraus Vertrauen gewonnen.
+**Eigene Beschreibung:** Q-Anhänger hätten Trumps Wahlerfolg als Erfüllung einer Vorhersage Qs gedeutet.
 
 Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
@@ -239,7 +239,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Forschung datiert die ersten Q-Beiträge auf Oktober 2017. Eine Vorhersage des Wahlsiegs 2016 durch diese Beiträge wäre deshalb anachronistisch. Im Gespräch wird das gemeinte Wahljahr jedoch nicht eindeutig genannt; keine automatische Festlegung auf 2016 oder 2024.
+Die erneute Lektüre des Nahkontexts zeigt eine Beschreibung der Deutung durch Anhänger, verbunden mit einem Vergleich zu unbestimmten Vorhersagen. Das ist keine eindeutige eigene Bestätigung einer zutreffenden Prophezeiung. Die Forschung datiert erste Q-Beiträge auf Oktober 2017. Ohne genanntes Wahljahr und konkrete Fundstelle lässt sich damit die tatsächliche Zuschreibung nicht abschließend prüfen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -254,7 +254,7 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Wahl und welcher vorab veröffentlichte konkrete Beitrag sind gemeint? Die behauptete Wirkung auf Anhänger gesondert belegen.
+- Welche Wahl und welcher konkrete Beitrag sind gemeint? Zeitgenössische Belege für die beschriebene Anhängerdeutung fehlen.
 
 ## mdo14671BPE-A0060
 

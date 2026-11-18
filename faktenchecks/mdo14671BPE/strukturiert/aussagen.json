@@ -11,7 +11,7 @@
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
     "researchNote": "Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.",
-    "coverageNote": "Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0248: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich."
+    "coverageNote": "Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0249: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich."
   },
   "legacyPoints": [],
   "sources": [
@@ -630,6 +630,54 @@
       "details": "Daily Express; historischer Link aus WND, Abrufversuch 18.11.2026.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Erfolgloser Abrufversuch – kein Sachbeleg: Recherchewerkzeug verweigerte die Adresse. Tatsächlich gelesene Ersatzgrundlage zur Moderationskorrektur ist der gesonderte Express-Beitrag S076."
+    },
+    {
+      "id": "S078",
+      "title": "Fox News just debuted the right's new climate denier darling",
+      "url": "https://www.mediamatters.org/fox-news/fox-news-just-debuted-rights-new-climate-denier-darling",
+      "details": "Media Matters Staff; 28.02.2020, aktualisiert 17:00 Uhr EST.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Zeitgenössischen Monitoringbericht und seine Datierung des Fox-Interviews vom 27.02.2020 sowie das Update zum erfolgten CPAC-Auftritt gelesen. Politische und wissenschaftliche Bewertungen nicht als Prüfergebnis übernommen; Originalsendung nicht selbst angehört."
+    },
+    {
+      "id": "S079",
+      "title": "CPAC 2020: Veranstaltungsprogramm",
+      "url": "https://www.thethinkingconservative.com/wp-content/uploads/2020/02/cpac-2020-agenda.pdf",
+      "details": "Historisches CPAC-Programm vom 26.–29.02.2020; Kopie bei The Thinking Conservative, PDF-Seite 19.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Programmteil zu Freitag, 28.02.2020, mit angekündigter Heartland-Veranstaltung unter Beteiligung Seibts gelesen. Dokumentkopie auf fremdem Server, keine lückenlos geprüfte Archivherkunft; allein kein Nachweis tatsächlicher Durchführung."
+    },
+    {
+      "id": "S080",
+      "title": "HM Solicitor General v Yaxley-Lennon [2025] EWCA Civ 476",
+      "url": "https://www.judiciary.uk/wp-content/uploads/2025/04/HM-Solicitor-General-v-Yaxley-Lennon-Judgment.pdf",
+      "details": "Court of Appeal (England and Wales), Urteil vom 16.04.2025.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Randnummern 1–9, 18–21 und 38–49 gelesen: Gericht schildert Schutzabsonderung wegen Drohungen und prüft die Haftbedingungen. Kein vollständiger unabhängiger Haftinspektionsbericht, keine Prüfung aller früheren Haftaufenthalte."
+    },
+    {
+      "id": "S081",
+      "title": "Schriftliche Fragen mit Antworten der Bundesregierung, Drucksache 21/3772",
+      "url": "https://dserver.bundestag.de/btd/21/037/2103772.pdf",
+      "details": "Deutscher Bundestag; 23.01.2026, Frage 66 und Antwort vom 21.01.2026, gedruckte Seite 49.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Frage und vollständige Antwort auf PDF-Seite 55 gelesen. Die Bundesregierung kennt das Bendels-Verfahren laut Antwort nur aus Medien; die Behauptungen der Fragestellerin sind keine eigenständigen Feststellungen der Bundesregierung. Keine konkreten Kosten genannt."
+    },
+    {
+      "id": "S082",
+      "title": "Verfassungsschutzinformationen Bayern, erstes Halbjahr 2026",
+      "url": "https://www.bige.bayern.de/wp-content/uploads/2026/08/verfassungsschutz-informationen-bayern-erstes-halbjahr-2026.pdf",
+      "details": "Bayerisches Staatsministerium des Innern, für Sport und Integration; Berichtszeitraum erstes Halbjahr 2026, Seite 35.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Abschnitt zu Shlomo Finkelstein auf PDF-Seite 35 gelesen. Behördenbericht nennt Verurteilung 2020 und spätere Haft nach Bewährungsauflagenverstößen; Originalurteile und vollständige Kanäle nicht geprüft. Behördenwertungen werden nicht als eigenes Urteil über Humor übernommen."
+    },
+    {
+      "id": "S083",
+      "title": "LG Bamberg: Journalist wegen Faeser-Post nun doch freigesprochen",
+      "url": "https://www.lto.de/recht/nachrichten/n/11nbs1108js1131524-lg-bamberg-david-bendels-deutschland-kurier-nancy-faeser-meme-freispruch",
+      "details": "dpa / Legal Tribune Online; 14.01.2026, LG Bamberg, 11 NBs 1108 Js 11315/24.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Nachrichtenbericht vollständig gelesen: Vorinstanz, Berufungsfreispruch, Begründung und damals fehlende Rechtskraft. Kein eigener Zugriff auf die schriftlichen Urteilsgründe, kein Nachweis privater Zusammenarbeit oder Motivation."
     }
   ],
   "speakers": [
@@ -3298,10 +3346,10 @@
       "chapter": 6,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Q habe Trumps Wahlsieg vorhergesagt und daraus Vertrauen gewonnen.",
+      "description": "Q-Anhänger hätten Trumps Wahlerfolg als Erfüllung einer Vorhersage Qs gedeutet.",
       "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Die Forschung datiert die ersten Q-Beiträge auf Oktober 2017. Eine Vorhersage des Wahlsiegs 2016 durch diese Beiträge wäre deshalb anachronistisch. Im Gespräch wird das gemeinte Wahljahr jedoch nicht eindeutig genannt; keine automatische Festlegung auf 2016 oder 2024.",
+      "reason": "Die erneute Lektüre des Nahkontexts zeigt eine Beschreibung der Deutung durch Anhänger, verbunden mit einem Vergleich zu unbestimmten Vorhersagen. Das ist keine eindeutige eigene Bestätigung einer zutreffenden Prophezeiung. Die Forschung datiert erste Q-Beiträge auf Oktober 2017. Ohne genanntes Wahljahr und konkrete Fundstelle lässt sich damit die tatsächliche Zuschreibung nicht abschließend prüfen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3315,7 +3363,7 @@
         }
       ],
       "openQuestions": [
-        "Welche Wahl und welcher vorab veröffentlichte konkrete Beitrag sind gemeint? Die behauptete Wirkung auf Anhänger gesondert belegen."
+        "Welche Wahl und welcher konkrete Beitrag sind gemeint? Zeitgenössische Belege für die beschriebene Anhängerdeutung fehlen."
       ],
       "occurrences": [
         {
@@ -5269,9 +5317,9 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibt habe bei CPAC 2020 sowie in Sendungen von Fox News und Piers Morgan Auftritte gehabt.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Drei öffentliche Auftrittsbehauptungen; hier noch nicht jeweils mit Originalsendung oder Veranstalterprogramm belegt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die drei Auftritte sind getrennt gestützt: Das Programm kündigt Seibts Heartland-Veranstaltung bei CPAC für den 28. Februar 2020 an; der zeitgenössische Monitoringbericht dokumentiert den Fox-Auftritt vom Vortag und anschließend die CPAC-Teilnahme. Der Express-Sendungsbericht stützt den Auftritt bei Good Morning Britain im März. Dies bestätigt öffentliche Auftritte, keine wissenschaftliche Richtigkeit ihrer Aussagen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5282,11 +5330,21 @@
         {
           "sourceId": "S072",
           "note": "Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen."
+        },
+        {
+          "sourceId": "S078",
+          "note": "Zeitgenössischer Bericht zum Fox-Interview und Update zur CPAC-Teilnahme; Bewertungen des Mediums nicht übernommen."
+        },
+        {
+          "sourceId": "S079",
+          "note": "Historisches Veranstaltungsprogramm, PDF-Seite 19; Planungsbeleg mit archivischer Einschränkung."
+        },
+        {
+          "sourceId": "S076",
+          "note": "Zeitgenössischer Sendungsbericht zum Auftritt bei Piers Morgan."
         }
       ],
-      "openQuestions": [
-        "Datum und Format jedes Auftritts getrennt bestätigen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0118",
@@ -8302,18 +8360,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein Verfahren um David Bendels und einen Beitrag zu Nancy Faeser sei Anlass für die Zusammenarbeit gewesen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Öffentlicher Rechtsfall und persönlicher Beweggrund sind getrennte Behauptungen; konkrete Entscheidungen noch nicht gelesen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der öffentliche Verfahrenskern ist durch den zeitgenössischen Gerichtsbericht gestützt: Das Amtsgericht verurteilte Bendels 2025; das Landgericht Bamberg sprach ihn am 14. Januar 2026 in der Berufung frei. Der Bericht hielt die Entscheidung damals für noch nicht rechtskräftig. Die Bundesregierung erklärte wenige Tage später, selbst nur Pressekenntnis zu haben. Dass gerade dieses Verfahren die Zusammenarbeit ausgelöst hat, bleibt eine persönliche Motivangabe ohne unabhängigen Nachweis. Der genaue Aufnahmetermin ist unbekannt; der Freispruch wird nicht als damals schon bekannt vorausgesetzt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S083",
+          "note": "Bericht über Instanzen und Berufungsfreispruch, kein Beweis des persönlichen Beweggrunds."
+        },
+        {
+          "sourceId": "S081",
+          "note": "Antwort zu Frage 66; begrenzte amtliche Kenntnis, kein eigener Nachweis sämtlicher Prozessumstände."
+        }
+      ],
       "openQuestions": [
-        "Aktenzeichen, Tatbestand, Instanzen und damaligen Verfahrensstand recherchieren; Motivation als Selbstauskunft behandeln."
+        "Persönlicher Anlass der Zusammenarbeit nicht unabhängig bestätigt; heutige Rechtskraft und Aufnahmetermin ungeklärt."
       ],
       "occurrences": [
         {
@@ -10217,7 +10284,7 @@
       "description": "Robinson sei bewusst mit feindlich gesinnten islamistischen Häftlingen untergebracht worden, um ihn zu gefährden.",
       "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Konkrete Haftbedingungen und staatliche Absicht sind getrennte Vorwürfe. Die gelesene Strafbegründung bestätigt diese Absicht nicht.",
+      "reason": "Das Berufungsgericht beschreibt für die Haft 2024/2025 eine reale Bedrohung und Absonderung zum eigenen Schutz. Diese gerichtliche Darstellung stützt den Gefährdungskern, liefert aber keinen Beleg für absichtliche staatliche Herbeiführung der Bedrohung. Das Gespräch nennt keinen bestimmten früheren Haftaufenthalt. Die Aussage über Vorsatz bleibt deshalb offen; der gelesene Gerichtsbericht darf nicht auf sämtliche Haftzeiten übertragen werden.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -10228,10 +10295,14 @@
         {
           "sourceId": "S034",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S080",
+          "note": "Randnummern 38–43: Schutzabsonderung bei tatsächlichen Drohungen; kein Nachweis einer absichtlichen Gefährdung und keine Gesamtdarstellung aller Haftzeiten."
         }
       ],
       "openQuestions": [
-        "Haftentscheidungen, unabhängige Kontrollberichte und konkrete Belege für Vorsatz fehlen."
+        "Welcher Haftaufenthalt ist gemeint? Unabhängige Kontrollberichte und konkrete Belege für staatlichen Gefährdungsvorsatz fehlen."
       ],
       "occurrences": [
         {
@@ -10259,20 +10330,25 @@
       "videoId": "mdo14671BPE",
       "chapter": 21,
       "legacyId": null,
-      "kind": "Tatsachenbehauptung",
-      "description": "Die Behandlung des unter Shlomo Finkelstein bekannten Aktivisten habe sich lediglich gegen harmlosen groben Humor gerichtet.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Wertung des Inhalts und rechtlicher Anlass sind verschieden. Ohne Urteile keine Aussage über Schuld, Verfolgungsmotiv oder Harmlosigkeit des vollständigen Kanals.",
+      "kind": "Meinung",
+      "description": "Seibt bewertet die Inhalte des Kanals von Shlomo Finkelstein als harmlosen groben Humor und hält ihn nicht für gefährlich.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Bewertung von Humor und Gefährlichkeit ist hier eine persönliche Einschätzung. Der eng gelesene automatische Text nennt weder ein Urteil noch einen bestimmten strafbaren Inhalt als Prüfgegenstand. Als rechtlicher Kontext nennt der Behördenbericht eine Verurteilung 2020 sowie Haft nach Bewährungsauflagenverstößen. Das ist keine vollständige eigene Prüfung des Kanals und widerlegt eine subjektive Humorwertung nicht automatisch. Die zusätzliche Tatsachenbehauptung über fehlende Auslandsverbindungen wird gesondert als A0249 erfasst.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S082",
+          "note": "Rechtlicher Kontext aus einem Behördenbericht; keine eigene Inhaltsprüfung oder Originalentscheidung."
+        }
+      ],
       "openQuestions": [
-        "Verurteilungen, Strafvollstreckung und konkret relevante Inhalte anhand Originalentscheidungen prüfen."
+        "Vollständige einschlägige Entscheidungen und Inhalte nicht geprüft; kein Tatsachenurteil über die Harmlosigkeit aller Kanalbeiträge."
       ],
       "occurrences": [
         {
@@ -11902,6 +11978,47 @@
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0249",
+      "videoId": "mdo14671BPE",
+      "chapter": 21,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Shlomo Finkelstein habe keine gefährlichen Verbindungen ins Ausland unterhalten.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Diese zusätzliche Tatsachenbehauptung wird von der subjektiven Bewertung seines Humors getrennt. Das Gespräch nennt keine konkrete Verbindung, Organisation oder Untersuchung. Der gelesene Behördenbericht enthält keinen umfassenden Nachweis des Fehlens sämtlicher Auslandsverbindungen; aus einer Nichtnennung folgt keine Bestätigung.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche konkrete Art und welcher Zeitraum von Auslandsverbindungen sind gemeint? Keine geeignete vollständige Einzelfallgrundlage geprüft."
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0282",
+          "startSeconds": 8489,
+          "endSeconds": 8495,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
           "attributionStatus": "Plausibel",
           "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
           "legacySpeaker": null,

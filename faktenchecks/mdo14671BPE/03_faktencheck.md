@@ -1,10 +1,10 @@
 # Prüfstand – ausdrücklich unvollständig
 
-Aktualisierung: 18.11.2026. Eigenständige Neuerfassung für [Issue #3](https://github.com/4m3projects/politik4m3Facktencheck/issues/3). Alle verfügbaren deutschen Originaluntertitel wurden gelesen. Die 248 Datensätze erfassen Prüfgegenstände aus sämtlichen 25 Themenbereichen, sind aber noch kein erschöpfendes Aussageninventar und kein vollständiger Faktencheck des Interviews. Frühere KI-Zahlen wurden nicht als Sollwert oder Bewertungsgrundlage verwendet.
+Aktualisierung: 18.11.2026. Eigenständige Neuerfassung für [Issue #3](https://github.com/4m3projects/politik4m3Facktencheck/issues/3). Alle verfügbaren deutschen Originaluntertitel wurden gelesen. Die 249 Datensätze erfassen Prüfgegenstände aus sämtlichen 25 Themenbereichen, sind aber noch kein erschöpfendes Aussageninventar und kein vollständiger Faktencheck des Interviews. Frühere KI-Zahlen wurden nicht als Sollwert oder Bewertungsgrundlage verwendet.
 
 ## Ergebnis des bisher abgeschlossenen Teils
 
-59 einmalig gezählte Tatsachenbehauptungen sind sachlich abschließend bewertet. Die Begründungen und direkt zugeordneten Quellen stehen bei den jeweiligen Aussage-IDs. Beispiele für unterschiedliche Ergebnisse:
+61 einmalig gezählte Tatsachenbehauptungen sind sachlich abschließend bewertet. Die Begründungen und direkt zugeordneten Quellen stehen bei den jeweiligen Aussage-IDs. Beispiele für unterschiedliche Ergebnisse:
 
 - Die Schulveröffentlichungen bestätigen einzelne Wettbewerbserfolge; daraus folgt keine Bestätigung sämtlicher biografischer Leistungsangaben.
 - Die Erweiterung von § 188 im Jahr 2021 ist belegt. Die Erklärung über eine Umwandlung des früheren § 103 vermischt dagegen unterschiedliche Normen und Entwicklungen.
@@ -19,19 +19,21 @@ Dies sind eigene Zusammenfassungen der unten verlinkten Einzelprüfungen, keine 
 
 ## Vorläufige Statistik des erfassten Teilbestands
 
-Verbindliche Berechnung: [generierte Statistik](strukturiert/statistik.json) und [Erläuterung](strukturiert/README.md). Die folgenden Zahlen geben diesen Datenstand wieder. Der Prozentnenner umfasst ausschließlich die 59 abgeschlossenen Tatsachenbehauptungen mit mindestens einem eigenen, bestätigten oder plausiblen Aussagebezug. Offene Aussagen, Meinungen, Prognosen und reine Fremdbezüge sind ausgeschlossen. Die Sprecheridentität ist davon unabhängig noch unbestätigt.
+Verbindliche Berechnung: [generierte Statistik](strukturiert/statistik.json) und [Erläuterung](strukturiert/README.md). Die folgenden Zahlen geben diesen Datenstand wieder. Der Prozentnenner umfasst ausschließlich die 61 abgeschlossenen Tatsachenbehauptungen mit mindestens einem eigenen, bestätigten oder plausiblen Aussagebezug. Offene Aussagen, Meinungen, Prognosen und reine Fremdbezüge sind ausgeschlossen. Die Sprecheridentität ist davon unabhängig noch unbestätigt.
 
-| Sachbewertung | Anzahl | Anteil an 59 abgeschlossenen Tatsachen |
+| Sachbewertung | Anzahl | Anteil an 61 abgeschlossenen Tatsachen |
 |---|---:|---:|
-| Belegt | 22 | 37,3 % |
-| Teilweise belegt | 11 | 18,6 % |
-| Irreführend / Kontext fehlt | 14 | 23,7 % |
-| Widerlegt | 12 | 20,3 % |
+| Belegt | 23 | 37,7 % |
+| Teilweise belegt | 12 | 19,7 % |
+| Irreführend / Kontext fehlt | 14 | 23,0 % |
+| Widerlegt | 12 | 19,7 % |
 | Nicht ausreichend belegbar | 0 | 0,0 % |
 
-Diese Verteilung beschreibt weder alle Tatsachenbehauptungen noch das ganze Interview. Von 222 eigenbezogenen Tatsachenbehauptungen sind 120 offen und 43 in Bearbeitung. Weitere 24 Einträge sind Meinungen oder Prognosen. Zwei der 248 Datensätze enthalten ausschließlich fremdbezogene Inhalte und zählen nicht zu den 246 eigenbezogenen Aussagen.
+Diese Verteilung beschreibt weder alle Tatsachenbehauptungen noch das ganze Interview. Von 222 eigenbezogenen Tatsachenbehauptungen sind 119 offen und 42 in Bearbeitung. Weitere 25 Einträge sind Meinungen oder Prognosen. Zwei der 249 Datensätze enthalten ausschließlich fremdbezogene Inhalte und zählen nicht zu den 247 eigenbezogenen Aussagen.
 
-276 eigene Aussagevorkommen gehören zu diesen 246 Aussagen; 30 zusätzliche Vorkommen sind daher keine neuen Aussagen. Hinzu kommen vier referierende Vorkommen und ein Vorkommen mit ungeklärtem Aussagebezug. Zusätzliche Vorkommen können Übernahmen oder Wiederaufnahmen sein. Sie sind bei unbestätigter Identität nicht automatisch bestätigte Wiederholungen derselben Person.
+277 eigene Aussagevorkommen gehören zu diesen 247 Aussagen; 30 zusätzliche Vorkommen sind daher keine neuen Aussagen. Hinzu kommen vier referierende Vorkommen und ein Vorkommen mit ungeklärtem Aussagebezug. Zusätzliche Vorkommen können Übernahmen oder Wiederaufnahmen sein. Sie sind bei unbestätigter Identität nicht automatisch bestätigte Wiederholungen derselben Person.
+
+Die Humorbewertung A0212 wurde nach Kontextprüfung aus dem Tatsachennenner genommen und als Meinung erfasst. Die darin zuvor zusammengefasste Behauptung über Auslandsverbindungen bleibt gesondert als A0249 offen. A0059 beschreibt eine Zuschreibung durch Q-Anhänger; daraus wird keine eigene Bestätigung einer zutreffenden Prophezeiung gemacht. Diese Präzisierungen ändern das Inventar, ohne Wiederholungen als neue Fakten zu zählen.
 
 | Person | Bestätigt zurechenbare Tatsachen | Persönliche Prozentverteilung |
 |---|---:|---|

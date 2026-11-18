@@ -1,6 +1,6 @@
 # Kapitel 17: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0248: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0249: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -272,7 +272,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein Verfahren um David Bendels und einen Beitrag zu Nancy Faeser sei Anlass für die Zusammenarbeit gewesen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -291,7 +291,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Öffentlicher Rechtsfall und persönlicher Beweggrund sind getrennte Behauptungen; konkrete Entscheidungen noch nicht gelesen.
+Der öffentliche Verfahrenskern ist durch den zeitgenössischen Gerichtsbericht gestützt: Das Amtsgericht verurteilte Bendels 2025; das Landgericht Bamberg sprach ihn am 14. Januar 2026 in der Berufung frei. Der Bericht hielt die Entscheidung damals für noch nicht rechtskräftig. Die Bundesregierung erklärte wenige Tage später, selbst nur Pressekenntnis zu haben. Dass gerade dieses Verfahren die Zusammenarbeit ausgelöst hat, bleibt eine persönliche Motivangabe ohne unabhängigen Nachweis. Der genaue Aufnahmetermin ist unbekannt; der Freispruch wird nicht als damals schon bekannt vorausgesetzt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -301,11 +301,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [LG Bamberg: Journalist wegen Faeser-Post nun doch freigesprochen](https://www.lto.de/recht/nachrichten/n/11nbs1108js1131524-lg-bamberg-david-bendels-deutschland-kurier-nancy-faeser-meme-freispruch) · dpa / Legal Tribune Online; 14.01.2026, LG Bamberg, 11 NBs 1108 Js 11315/24.
+  Quellenzugriff am 2026-11-18. Nachrichtenbericht vollständig gelesen: Vorinstanz, Berufungsfreispruch, Begründung und damals fehlende Rechtskraft. Kein eigener Zugriff auf die schriftlichen Urteilsgründe, kein Nachweis privater Zusammenarbeit oder Motivation. Bericht über Instanzen und Berufungsfreispruch, kein Beweis des persönlichen Beweggrunds.
+
+- [Schriftliche Fragen mit Antworten der Bundesregierung, Drucksache 21/3772](https://dserver.bundestag.de/btd/21/037/2103772.pdf) · Deutscher Bundestag; 23.01.2026, Frage 66 und Antwort vom 21.01.2026, gedruckte Seite 49.
+  Quellenzugriff am 2026-11-18. Frage und vollständige Antwort auf PDF-Seite 55 gelesen. Die Bundesregierung kennt das Bendels-Verfahren laut Antwort nur aus Medien; die Behauptungen der Fragestellerin sind keine eigenständigen Feststellungen der Bundesregierung. Keine konkreten Kosten genannt. Antwort zu Frage 66; begrenzte amtliche Kenntnis, kein eigener Nachweis sämtlicher Prozessumstände.
 
 ### Offene Fragen und Unsicherheiten
 
-- Aktenzeichen, Tatbestand, Instanzen und damaligen Verfahrensstand recherchieren; Motivation als Selbstauskunft behandeln.
+- Persönlicher Anlass der Zusammenarbeit nicht unabhängig bestätigt; heutige Rechtskraft und Aufnahmetermin ungeklärt.
 
 ## mdo14671BPE-A0169
 
