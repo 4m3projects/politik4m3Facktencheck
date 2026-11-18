@@ -1,63 +1,63 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Teilbestand: 33 von 99 ursprünglichen Prüfpunkten übertragen, 66 nicht migriert. Kapitel 1, 2 und 3 sind hinsichtlich ihrer Altpunkte vollständig übertragen; zusätzlich C06-P09 und C08-P03. Kapitel 3 wurde im abgegrenzten Textzeitraum vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos. Kein Beginn einer Migration von Kapitel 4.",
+  "coverageNote": "Teilbestand: 44 von 99 ursprünglichen Prüfpunkten übertragen, 55 nicht migriert. Kapitel 1 bis 4 sind hinsichtlich ihrer Altpunkte vollständig übertragen; zusätzlich C06-P09 und C08-P03. Kapitel 3 und 4 wurden im abgegrenzten Textzeitraum vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.",
   "videoId": "mlxFA9T88I0",
-  "selectedLegacyPoints": 33,
+  "selectedLegacyPoints": 44,
   "totalLegacyPoints": 99,
-  "statementRecords": 178,
-  "uniqueStatements": 176,
+  "statementRecords": 220,
+  "uniqueStatements": 218,
   "referenceOnlyStatements": 2,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 197,
-  "additionalAssertionOccurrences": 21,
+  "assertionOccurrences": 245,
+  "additionalAssertionOccurrences": 27,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 8,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 65,
-    "In Bearbeitung": 60,
-    "Abgeschlossen": 51
+    "Offen": 90,
+    "In Bearbeitung": 62,
+    "Abgeschlossen": 66
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 167,
-    "Meinung": 7,
-    "Prognose": 2
+    "Tatsachenbehauptung": 199,
+    "Meinung": 16,
+    "Prognose": 3
   },
-  "completedFacts": 42,
-  "openFacts": 65,
-  "inProgressFacts": 60,
-  "percentageDenominator": 42,
+  "completedFacts": 47,
+  "openFacts": 90,
+  "inProgressFacts": 62,
+  "percentageDenominator": 47,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
       "completedCount": 9,
-      "completedFactPercent": 21.4
+      "completedFactPercent": 19.1
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 27,
-      "completedFactPercent": 64.3
+      "completedCount": 31,
+      "completedFactPercent": 66
     },
     {
       "category": "Irreführend / Kontext fehlt",
       "completedCount": 6,
-      "completedFactPercent": 14.3
+      "completedFactPercent": 12.8
     },
     {
       "category": "Widerlegt",
-      "completedCount": 0,
-      "completedFactPercent": 0.0
+      "completedCount": 1,
+      "completedFactPercent": 2.1
     },
     {
       "category": "Nicht ausreichend belegbar",
       "completedCount": 0,
-      "completedFactPercent": 0.0
+      "completedFactPercent": 0
     },
     {
       "category": "Meinung / Prognose",
-      "completedCount": 9,
+      "completedCount": 19,
       "completedFactPercent": null
     }
   ],
@@ -147,19 +147,19 @@
         ]
       }
     ],
-    "eligibleFacts": 167,
+    "eligibleFacts": 199,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 167,
-    "factsWithUncertainAttribution": 167,
-    "factsWithUncertainOwnRole": 167,
+    "factsWithoutReliablePerson": 199,
+    "factsWithUncertainAttribution": 199,
+    "factsWithUncertainOwnRole": 199,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 205,
+      "Plausibel": 253,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
-      "Plausibel": 205,
+      "Plausibel": 253,
       "Ungeklärt": 0
     }
   }

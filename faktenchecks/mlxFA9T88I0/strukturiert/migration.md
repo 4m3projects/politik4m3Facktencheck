@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Teilbestand: 33 von 99 ursprünglichen Prüfpunkten übertragen, 66 nicht migriert. Kapitel 1, 2 und 3 sind hinsichtlich ihrer Altpunkte vollständig übertragen; zusätzlich C06-P09 und C08-P03. Kapitel 3 wurde im abgegrenzten Textzeitraum vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos. Kein Beginn einer Migration von Kapitel 4.
+Abdeckung: Teilbestand: 44 von 99 ursprünglichen Prüfpunkten übertragen, 55 nicht migriert. Kapitel 1 bis 4 sind hinsichtlich ihrer Altpunkte vollständig übertragen; zusätzlich C06-P09 und C08-P03. Kapitel 3 und 4 wurden im abgegrenzten Textzeitraum vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
 Herkunftscommit: bb6e666961baf719d02671a7ad2f439086f3c530
 
@@ -1638,3 +1638,480 @@ Bewertungsuebergang mlxFA9T88I0-A0174: Eigenständige Einzelentscheidung; frühe
 
 
 Bewertungsuebergang mlxFA9T88I0-A0175: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C04-P01
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md)
+
+Referenzhash der Kapiteldatei: 38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9
+
+Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 1
+
+- **Fundstelle:** [01:15:16–01:17:28](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4516s)
+- **Zuordnung:** beide
+- **Prüfgegenstand – unsere Beschreibung:** Restaurantbesuche kosteten zu zweit häufig mindestens 60 Euro; zwei örtliche Gaststätten seien geschlossen; Gäste bestellten weniger bzw. billigere Gerichte.
+- **Bewertung:** nicht ausreichend belegbar / anekdotisch
+
+**Unsere Begründung und Grenzen:** Region, Gaststätten und Vergleichszeitraum sind nicht bestimmt. Ein einzelner Preis ist kein durchschnittlicher deutscher Restaurantpreis. Eigene Eindrücke voller Restaurants und Berichte über weniger Umsatz können gleichzeitig zutreffen, belegen aber keine nationale Entwicklung.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4516s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0179 | Offen | keine Endbewertung | Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert. |
+| mlxFA9T88I0-A0180 | Offen | keine Endbewertung | Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert. |
+| mlxFA9T88I0-A0181 | Offen | keine Endbewertung | Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert. |
+| mlxFA9T88I0-A0182 | Offen | keine Endbewertung | Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert. |
+| mlxFA9T88I0-A0183 | Offen | keine Endbewertung | Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert. |
+
+Bewertungsuebergang mlxFA9T88I0-A0179: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0180: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0181: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0182: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0183: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C04-P02
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md)
+
+Referenzhash der Kapiteldatei: 38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9
+
+Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 2
+
+- **Fundstelle:** [01:15:40–01:16:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4540s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Schlechtere Wirtschaft lenke Geld von Restaurants zu Whisky; sinkender Whiskyabsatz signalisiere deshalb eine besonders schlechte Konjunktur.
+- **Bewertung:** Hypothese / nicht ausreichend belegbar
+
+**Unsere Begründung und Grenzen:** Es fehlt eine belastbare Untersuchung von Haushaltseinkommen, Substitution, Absatzmengen und Konkurrenzfaktoren. Alkoholpräferenzen, Lagerabbau und Preisänderungen sind mögliche zusätzliche Einflüsse. Die Firma ist kein repräsentativer Konjunkturindikator allein aufgrund ihrer Erfahrung.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4540s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0184 | Abgeschlossen | Meinung / Prognose | Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt. |
+| mlxFA9T88I0-A0185 | Offen | keine Endbewertung | Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt. |
+| mlxFA9T88I0-A0186 | Offen | keine Endbewertung | Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt. |
+| mlxFA9T88I0-A0187 | Abgeschlossen | Meinung / Prognose | Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt. |
+| mlxFA9T88I0-A0188 | Abgeschlossen | Meinung / Prognose | Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0184: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0185: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0186: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0187: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0188: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C04-P03
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md)
+
+Referenzhash der Kapiteldatei: 38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9
+
+Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 3
+
+- **Fundstelle:** [01:17:29–01:18:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4649s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Schottische Hersteller hätten nach Corona Preise erhöht; größte Alkoholmengen liefen über Discounter, teils Whisky für 7,99 Euro.
+- **Bewertung:** nicht ausreichend belegbar
+
+**Unsere Begründung und Grenzen:** Konkrete Preis- und Absatzreihen sowie Definitionen von Alkohol und Whisky fehlen. Ein damaliges Einzelangebot wäre noch kein Marktanteilsnachweis. Diese Behauptungen bleiben als getrennte offene Marktangaben erfasst.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4649s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0189 | Offen | keine Endbewertung | Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt. |
+| mlxFA9T88I0-A0190 | Offen | keine Endbewertung | Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt. |
+| mlxFA9T88I0-A0191 | Offen | keine Endbewertung | Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0189: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0190: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0191: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C04-P04
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md)
+
+Referenzhash der Kapiteldatei: 38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9
+
+Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 4
+
+- **Fundstelle:** [01:18:00–01:21:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4680s)
+- **Zuordnung:** beide
+- **Prüfgegenstand – unsere Beschreibung:** Hohe variable und niedrige fixe Kosten seien grundsätzlich besser; ohne Umsatzwachstum könne es bei Inflation keinen Lohnanstieg geben.
+- **Bewertung:** teilweise zutreffende Rechenlogik / zu absolut
+
+**Unsere Begründung und Grenzen:** Bei unveränderten übrigen Größen drücken steigende Kosten die Marge. Daraus folgt aber kein allgemeiner Zwang zu realem Wachstum oder bestimmten Vertragsformen: Produktivität, Preissetzung, Finanzierung und verfügbare Marge können sich ändern. Ben erwähnt selbst die Marge. Kein universelles Verbot von Lohnerhöhungen bei konstantem Umsatz.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4680s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0192 | Abgeschlossen | Meinung / Prognose | Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten. |
+| mlxFA9T88I0-A0193 | Offen | keine Endbewertung | Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten. |
+| mlxFA9T88I0-A0194 | Offen | keine Endbewertung | Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten. |
+| mlxFA9T88I0-A0195 | Abgeschlossen | Meinung / Prognose | Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten. |
+| mlxFA9T88I0-A0196 | In Bearbeitung | keine Endbewertung | Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten. |
+| mlxFA9T88I0-A0197 | Abgeschlossen | Teilweise belegt | Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten. |
+
+Bewertungsuebergang mlxFA9T88I0-A0192: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0193: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0194: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0195: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0196: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0197: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C04-P05
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md)
+
+Referenzhash der Kapiteldatei: 38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9
+
+Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 5
+
+- **Fundstelle:** [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4870s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Industrie leide unter Energie- und Lohnnebenkosten; BMW/Mercedes investierten in Ungarn, STIHL gehe wegen höherer Produktivität in die Schweiz.
+- **Bewertung:** teilweise belegt / aktuelle Einzelfälle offen
+
+**Unsere Begründung und Grenzen:** STIHL bestätigt Schweizer Kettenproduktion bereits seit 1974. Sie ist damit kein bloßer Beleg eines neuen Wegzugs aus der gegenwärtigen Krise. Die konkret gemeinten BMW-/Mercedes-Projekte und die behauptete alleinige Produktivitätsursache wurden nicht vollständig geprüft. Die Rangfolge nationaler Produktivität braucht Währung, Kaufkraft und Sektorbezug.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [STIHL Kettenwerk: Standort & Geschichte](https://corporate.stihl.ch/de/stihl-kettenwerk/standort-geschichte) · STIHL · Stand: Chronik ab 1974; undatierte Seite.
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4870s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0198 | Offen | keine Endbewertung | Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs. |
+| mlxFA9T88I0-A0199 | Offen | keine Endbewertung | Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs. |
+| mlxFA9T88I0-A0200 | Offen | keine Endbewertung | Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs. |
+| mlxFA9T88I0-A0201 | In Bearbeitung | keine Endbewertung | Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs. |
+| mlxFA9T88I0-A0202 | Offen | keine Endbewertung | Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs. |
+
+Bewertungsuebergang mlxFA9T88I0-A0198: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0199: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0200: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0201: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0202: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C04-P06
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md)
+
+Referenzhash der Kapiteldatei: 38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9
+
+Wertende Gleichsetzung von Insolvenz und schlechter Unternehmensführung sowie die Verallgemeinerung zur Altersvorsorge von Unternehmern getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 6
+
+- **Fundstelle:** [01:21:59–01:22:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4919s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Insolvente Unternehmer seien schlechte Unternehmer, gute hätten rechtzeitig geschlossen.
+- **Bewertung:** Meinung / unbelegte Verallgemeinerung
+
+**Unsere Begründung und Grenzen:** Das ist eine wertende Typisierung. Insolvenz kann viele betriebliche oder externe Ursachen haben; der Gesprächsausschnitt liefert keinen Datensatz, der eine vollständige Gleichsetzung mit mangelnder Voraussicht belegt. Nicht als Unternehmensqualitätsmessung verwendet.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4919s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0203 | Abgeschlossen | Meinung / Prognose | Wertende Gleichsetzung von Insolvenz und schlechter Unternehmensführung sowie die Verallgemeinerung zur Altersvorsorge von Unternehmern getrennt. |
+| mlxFA9T88I0-A0204 | Offen | keine Endbewertung | Wertende Gleichsetzung von Insolvenz und schlechter Unternehmensführung sowie die Verallgemeinerung zur Altersvorsorge von Unternehmern getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0203: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0204: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C04-P07
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md)
+
+Referenzhash der Kapiteldatei: 38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9
+
+Berliner Quote und behauptete Länderspitze getrennt. Der allgemeine Anstieg ist als weiteres Vorkommen der bestehenden Aussage A0011 geführt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 7
+
+- **Fundstelle:** [01:23:09–01:23:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4989s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Arbeitslosenzahlen stiegen, Berlin habe mit etwa 10,4 Prozent die höchste Quote.
+- **Bewertung:** teilweise belegt / Zeitbezug
+
+**Unsere Begründung und Grenzen:** Die BA berichtet für September 2026 in Berlin 10,4 Prozent, gegenüber August 10,6 Prozent. Die Zahl ist also für einen später veröffentlichten Monatsstand korrekt, gerade in diesem Monat jedoch gesunken. Die Rangfolge aller Länder und der am 23.09. bekannte Auguststand wurden nicht abschließend abgeglichen. Keine nachträgliche Bestätigung damaligen Wissens.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Berlin/Brandenburg: Arbeitslosigkeit im September gesunken](https://www.arbeitsagentur.de/vor-ort/rd-bb/presse/2026-20-berlinbrandenburg-arbeitslosigkeit-im-september-gesunken-mehr-bewegung-auf-dem-arbeitsmarkt) · Bundesagentur für Arbeit · Stand: Berichtsmonat September 2026, erst nach Aufnahme verfügbar.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0205 | Abgeschlossen | Teilweise belegt | Berliner Quote und behauptete Länderspitze getrennt. Der allgemeine Anstieg ist als weiteres Vorkommen der bestehenden Aussage A0011 geführt. |
+| mlxFA9T88I0-A0206 | Abgeschlossen | Widerlegt | Berliner Quote und behauptete Länderspitze getrennt. Der allgemeine Anstieg ist als weiteres Vorkommen der bestehenden Aussage A0011 geführt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0205: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0206: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C04-P08
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md)
+
+Referenzhash der Kapiteldatei: 38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9
+
+Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 8
+
+- **Fundstelle:** [01:23:20–01:24:20](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5000s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Arbeitslose erhielten Wohnung/Heizkosten; deshalb werde links gewählt und manche gäben Erwerbsarbeit auf.
+- **Bewertung:** teilweise prüfbar / Kausalität offen
+
+**Unsere Begründung und Grenzen:** Bedarfsabhängige Sozialleistungen sind keine bedingungslose kostenlose Wohnung für alle Arbeitslosen. Leistungsart, Angemessenheit und Einkommen fehlen. Die behaupteten Wahl- und Erwerbsmotive sind ohne Individualdaten unbelegt; aus einer hohen regionalen Quote folgt kein Motiv jeder Person. Eine vollständige sozialrechtliche Vergleichsrechnung wurde nicht durchgeführt.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5000s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0207 | Offen | keine Endbewertung | Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013. |
+| mlxFA9T88I0-A0208 | Abgeschlossen | Meinung / Prognose | Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013. |
+| mlxFA9T88I0-A0209 | Offen | keine Endbewertung | Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013. |
+
+Bewertungsuebergang mlxFA9T88I0-A0207: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0208: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0209: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C04-P09
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md)
+
+Referenzhash der Kapiteldatei: 38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9
+
+Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 9
+
+- **Fundstelle:** [01:24:20–01:26:39](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5060s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Einzelne Wohnorte seien sauber, andere zunehmend schmutzig; Lieferanten von VW müssten ebenfalls Personal abbauen; einzelne Politikerzitate zur Sauberkeit.
+- **Bewertung:** nicht ausreichend belegbar / Bedingungsszenario
+
+**Unsere Begründung und Grenzen:** Ortseindrücke sind nicht repräsentativ, das erinnerte Bürgermeisterzitat ist nicht im Original geprüft. Weniger Kundenaufträge können Zulieferer belasten; ob und wie viele Stellen tatsächlich wegfallen, bleibt ein konkreter Einzelfall. Keine Übernahme der pauschalen Verfallsdiagnose.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5060s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0210 | Offen | keine Endbewertung | Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt. |
+| mlxFA9T88I0-A0211 | Abgeschlossen | Meinung / Prognose | Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt. |
+| mlxFA9T88I0-A0212 | Offen | keine Endbewertung | Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt. |
+| mlxFA9T88I0-A0213 | Abgeschlossen | Meinung / Prognose | Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt. |
+| mlxFA9T88I0-A0214 | Offen | keine Endbewertung | Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt. |
+| mlxFA9T88I0-A0215 | Offen | keine Endbewertung | Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0210: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0211: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0212: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0213: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0214: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0215: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C04-P10
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md)
+
+Referenzhash der Kapiteldatei: 38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9
+
+Nachfolge- und Stilllegungstrend mit Zustimmung des Gastes als eine Aussage; Bewertung des Ausstiegs als Meinung getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 10
+
+- **Fundstelle:** [01:26:39–01:27:28](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5199s)
+- **Zuordnung:** beide
+- **Prüfgegenstand – unsere Beschreibung:** Nachfolgeprobleme führten zu zusätzlichen freiwilligen Schließungen.
+- **Bewertung:** belegt (Trend), Gründe differenziert
+
+**Unsere Begründung und Grenzen:** KfW beschreibt wachsende Stilllegungsabsichten und besonders häufig Altersgründe. Pläne sind keine bereits erfolgten Schließungen. Die Studie belegt keinen alleinigen Zusammenhang mit aktueller Wirtschaftspolitik oder fehlender Rentabilität.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Nachfolge-Monitoring Mittelstand 2025](https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Aktuelles/News-Details_876800.html) · KfW Research · Stand: 09.01.2026; Befragungsdaten 2025.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0216 | Abgeschlossen | Teilweise belegt | Nachfolge- und Stilllegungstrend mit Zustimmung des Gastes als eine Aussage; Bewertung des Ausstiegs als Meinung getrennt. |
+| mlxFA9T88I0-A0217 | Abgeschlossen | Meinung / Prognose | Nachfolge- und Stilllegungstrend mit Zustimmung des Gastes als eine Aussage; Bewertung des Ausstiegs als Meinung getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0216: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0217: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C04-P11
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md)
+
+Referenzhash der Kapiteldatei: 38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9
+
+Abgeführte Steuerarten, behauptete Drittelquote und Moderatorrechnung auf geschätzter Umsatzbasis getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 11
+
+- **Fundstelle:** [01:27:28–01:27:58](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5248s)
+- **Zuordnung:** Lüning / Ben
+- **Prüfgegenstand – unsere Beschreibung:** Ein Drittel des Umsatzes gehe als Steuer ab; bei geschätzt 25 Millionen Umsatz wären das sieben bis acht Millionen jährlich.
+- **Bewertung:** nicht ausreichend belegbar / Kontext fehlt
+
+**Unsere Begründung und Grenzen:** Die konkrete Summe wurde nicht anhand Buchhaltungsdaten kontrolliert. Ein Drittel von 25 Millionen sind 8,33 Millionen. Lohnsteuer der Beschäftigten, Umsatzsteuer und ggf. in Einkaufspreisen enthaltene Alkoholsteuer sind nicht identisch mit eigener Unternehmens-Ertragsteuer; Doppelzählung und Brutto-/Netto-Umsatzbezug bleiben offen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5248s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0218 | Abgeschlossen | Teilweise belegt | Abgeführte Steuerarten, behauptete Drittelquote und Moderatorrechnung auf geschätzter Umsatzbasis getrennt. |
+| mlxFA9T88I0-A0219 | Offen | keine Endbewertung | Abgeführte Steuerarten, behauptete Drittelquote und Moderatorrechnung auf geschätzter Umsatzbasis getrennt. |
+| mlxFA9T88I0-A0220 | Offen | keine Endbewertung | Abgeführte Steuerarten, behauptete Drittelquote und Moderatorrechnung auf geschätzter Umsatzbasis getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0218: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0219: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0220: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.

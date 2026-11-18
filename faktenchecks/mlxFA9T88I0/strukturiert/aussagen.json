@@ -40,12 +40,23 @@
       "C03-P11",
       "C03-P12",
       "C03-P13",
-      "C03-P14"
+      "C03-P14",
+      "C04-P01",
+      "C04-P02",
+      "C04-P03",
+      "C04-P04",
+      "C04-P05",
+      "C04-P06",
+      "C04-P07",
+      "C04-P08",
+      "C04-P09",
+      "C04-P10",
+      "C04-P11"
     ],
     "totalLegacyPoints": 99,
-    "unmigratedLegacyPoints": 66,
-    "researchNote": "A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten.",
-    "coverageNote": "Teilbestand: 33 von 99 ursprünglichen Prüfpunkten übertragen, 66 nicht migriert. Kapitel 1, 2 und 3 sind hinsichtlich ihrer Altpunkte vollständig übertragen; zusätzlich C06-P09 und C08-P03. Kapitel 3 wurde im abgegrenzten Textzeitraum vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos. Kein Beginn einer Migration von Kapitel 4."
+    "unmigratedLegacyPoints": 55,
+    "researchNote": "A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen.",
+    "coverageNote": "Teilbestand: 44 von 99 ursprünglichen Prüfpunkten übertragen, 55 nicht migriert. Kapitel 1 bis 4 sind hinsichtlich ihrer Altpunkte vollständig übertragen; zusätzlich C06-P09 und C08-P03. Kapitel 3 und 4 wurden im abgegrenzten Textzeitraum vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos."
   },
   "legacyPoints": [
     {
@@ -344,6 +355,105 @@
       "fileSha256": "45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31",
       "section": "## Prüfpunkt 14\n\n- **Fundstelle:** [01:11:29–01:15:16](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4289s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Corona habe rund 40 Prozent Umsatzschub gebracht; später Rückkehr zum Vorkrisenniveau; Remote-Arbeit und Nachfolge durch Sohn, eigener Arbeitsanteil etwa 25 Prozent.\n- **Bewertung:** nicht ausreichend belegbar\n\n**Unsere Begründung und Grenzen:** Interne Umsatzreihe, Beschäftigungs- und Eigentumsdaten fehlen. Arbeitsanteil und Unternehmensbeteiligung dürfen nicht gleichgesetzt werden. Ein Prozentanstieg um 40 und eine spätere Abnahme um 40 Prozent wären rechnerisch nicht dieselbe Bewegung; gemeint ist hier die berichtete Rückkehr, keine geprüfte Wachstumsreihe.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4289s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
       "migrationNote": "Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben."
+    },
+    {
+      "id": "C04-P01",
+      "chapter": 4,
+      "point": 1,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md",
+      "fileSha256": "38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9",
+      "section": "## Prüfpunkt 1\n\n- **Fundstelle:** [01:15:16–01:17:28](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4516s)\n- **Zuordnung:** beide\n- **Prüfgegenstand – unsere Beschreibung:** Restaurantbesuche kosteten zu zweit häufig mindestens 60 Euro; zwei örtliche Gaststätten seien geschlossen; Gäste bestellten weniger bzw. billigere Gerichte.\n- **Bewertung:** nicht ausreichend belegbar / anekdotisch\n\n**Unsere Begründung und Grenzen:** Region, Gaststätten und Vergleichszeitraum sind nicht bestimmt. Ein einzelner Preis ist kein durchschnittlicher deutscher Restaurantpreis. Eigene Eindrücke voller Restaurants und Berichte über weniger Umsatz können gleichzeitig zutreffen, belegen aber keine nationale Entwicklung.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4516s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert."
+    },
+    {
+      "id": "C04-P02",
+      "chapter": 4,
+      "point": 2,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md",
+      "fileSha256": "38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9",
+      "section": "## Prüfpunkt 2\n\n- **Fundstelle:** [01:15:40–01:16:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4540s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Schlechtere Wirtschaft lenke Geld von Restaurants zu Whisky; sinkender Whiskyabsatz signalisiere deshalb eine besonders schlechte Konjunktur.\n- **Bewertung:** Hypothese / nicht ausreichend belegbar\n\n**Unsere Begründung und Grenzen:** Es fehlt eine belastbare Untersuchung von Haushaltseinkommen, Substitution, Absatzmengen und Konkurrenzfaktoren. Alkoholpräferenzen, Lagerabbau und Preisänderungen sind mögliche zusätzliche Einflüsse. Die Firma ist kein repräsentativer Konjunkturindikator allein aufgrund ihrer Erfahrung.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4540s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt."
+    },
+    {
+      "id": "C04-P03",
+      "chapter": 4,
+      "point": 3,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md",
+      "fileSha256": "38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9",
+      "section": "## Prüfpunkt 3\n\n- **Fundstelle:** [01:17:29–01:18:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4649s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Schottische Hersteller hätten nach Corona Preise erhöht; größte Alkoholmengen liefen über Discounter, teils Whisky für 7,99 Euro.\n- **Bewertung:** nicht ausreichend belegbar\n\n**Unsere Begründung und Grenzen:** Konkrete Preis- und Absatzreihen sowie Definitionen von Alkohol und Whisky fehlen. Ein damaliges Einzelangebot wäre noch kein Marktanteilsnachweis. Diese Behauptungen bleiben als getrennte offene Marktangaben erfasst.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4649s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt."
+    },
+    {
+      "id": "C04-P04",
+      "chapter": 4,
+      "point": 4,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md",
+      "fileSha256": "38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9",
+      "section": "## Prüfpunkt 4\n\n- **Fundstelle:** [01:18:00–01:21:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4680s)\n- **Zuordnung:** beide\n- **Prüfgegenstand – unsere Beschreibung:** Hohe variable und niedrige fixe Kosten seien grundsätzlich besser; ohne Umsatzwachstum könne es bei Inflation keinen Lohnanstieg geben.\n- **Bewertung:** teilweise zutreffende Rechenlogik / zu absolut\n\n**Unsere Begründung und Grenzen:** Bei unveränderten übrigen Größen drücken steigende Kosten die Marge. Daraus folgt aber kein allgemeiner Zwang zu realem Wachstum oder bestimmten Vertragsformen: Produktivität, Preissetzung, Finanzierung und verfügbare Marge können sich ändern. Ben erwähnt selbst die Marge. Kein universelles Verbot von Lohnerhöhungen bei konstantem Umsatz.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4680s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten."
+    },
+    {
+      "id": "C04-P05",
+      "chapter": 4,
+      "point": 5,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md",
+      "fileSha256": "38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9",
+      "section": "## Prüfpunkt 5\n\n- **Fundstelle:** [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4870s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Industrie leide unter Energie- und Lohnnebenkosten; BMW/Mercedes investierten in Ungarn, STIHL gehe wegen höherer Produktivität in die Schweiz.\n- **Bewertung:** teilweise belegt / aktuelle Einzelfälle offen\n\n**Unsere Begründung und Grenzen:** STIHL bestätigt Schweizer Kettenproduktion bereits seit 1974. Sie ist damit kein bloßer Beleg eines neuen Wegzugs aus der gegenwärtigen Krise. Die konkret gemeinten BMW-/Mercedes-Projekte und die behauptete alleinige Produktivitätsursache wurden nicht vollständig geprüft. Die Rangfolge nationaler Produktivität braucht Währung, Kaufkraft und Sektorbezug.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [STIHL Kettenwerk: Standort & Geschichte](https://corporate.stihl.ch/de/stihl-kettenwerk/standort-geschichte) · STIHL · Stand: Chronik ab 1974; undatierte Seite.\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4870s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs."
+    },
+    {
+      "id": "C04-P06",
+      "chapter": 4,
+      "point": 6,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md",
+      "fileSha256": "38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9",
+      "section": "## Prüfpunkt 6\n\n- **Fundstelle:** [01:21:59–01:22:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4919s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Insolvente Unternehmer seien schlechte Unternehmer, gute hätten rechtzeitig geschlossen.\n- **Bewertung:** Meinung / unbelegte Verallgemeinerung\n\n**Unsere Begründung und Grenzen:** Das ist eine wertende Typisierung. Insolvenz kann viele betriebliche oder externe Ursachen haben; der Gesprächsausschnitt liefert keinen Datensatz, der eine vollständige Gleichsetzung mit mangelnder Voraussicht belegt. Nicht als Unternehmensqualitätsmessung verwendet.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4919s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Wertende Gleichsetzung von Insolvenz und schlechter Unternehmensführung sowie die Verallgemeinerung zur Altersvorsorge von Unternehmern getrennt."
+    },
+    {
+      "id": "C04-P07",
+      "chapter": 4,
+      "point": 7,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md",
+      "fileSha256": "38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9",
+      "section": "## Prüfpunkt 7\n\n- **Fundstelle:** [01:23:09–01:23:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4989s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Arbeitslosenzahlen stiegen, Berlin habe mit etwa 10,4 Prozent die höchste Quote.\n- **Bewertung:** teilweise belegt / Zeitbezug\n\n**Unsere Begründung und Grenzen:** Die BA berichtet für September 2026 in Berlin 10,4 Prozent, gegenüber August 10,6 Prozent. Die Zahl ist also für einen später veröffentlichten Monatsstand korrekt, gerade in diesem Monat jedoch gesunken. Die Rangfolge aller Länder und der am 23.09. bekannte Auguststand wurden nicht abschließend abgeglichen. Keine nachträgliche Bestätigung damaligen Wissens.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Berlin/Brandenburg: Arbeitslosigkeit im September gesunken](https://www.arbeitsagentur.de/vor-ort/rd-bb/presse/2026-20-berlinbrandenburg-arbeitslosigkeit-im-september-gesunken-mehr-bewegung-auf-dem-arbeitsmarkt) · Bundesagentur für Arbeit · Stand: Berichtsmonat September 2026, erst nach Aufnahme verfügbar.",
+      "migrationNote": "Berliner Quote und behauptete Länderspitze getrennt. Der allgemeine Anstieg ist als weiteres Vorkommen der bestehenden Aussage A0011 geführt."
+    },
+    {
+      "id": "C04-P08",
+      "chapter": 4,
+      "point": 8,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md",
+      "fileSha256": "38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9",
+      "section": "## Prüfpunkt 8\n\n- **Fundstelle:** [01:23:20–01:24:20](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5000s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Arbeitslose erhielten Wohnung/Heizkosten; deshalb werde links gewählt und manche gäben Erwerbsarbeit auf.\n- **Bewertung:** teilweise prüfbar / Kausalität offen\n\n**Unsere Begründung und Grenzen:** Bedarfsabhängige Sozialleistungen sind keine bedingungslose kostenlose Wohnung für alle Arbeitslosen. Leistungsart, Angemessenheit und Einkommen fehlen. Die behaupteten Wahl- und Erwerbsmotive sind ohne Individualdaten unbelegt; aus einer hohen regionalen Quote folgt kein Motiv jeder Person. Eine vollständige sozialrechtliche Vergleichsrechnung wurde nicht durchgeführt.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5000s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013."
+    },
+    {
+      "id": "C04-P09",
+      "chapter": 4,
+      "point": 9,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md",
+      "fileSha256": "38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9",
+      "section": "## Prüfpunkt 9\n\n- **Fundstelle:** [01:24:20–01:26:39](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5060s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Einzelne Wohnorte seien sauber, andere zunehmend schmutzig; Lieferanten von VW müssten ebenfalls Personal abbauen; einzelne Politikerzitate zur Sauberkeit.\n- **Bewertung:** nicht ausreichend belegbar / Bedingungsszenario\n\n**Unsere Begründung und Grenzen:** Ortseindrücke sind nicht repräsentativ, das erinnerte Bürgermeisterzitat ist nicht im Original geprüft. Weniger Kundenaufträge können Zulieferer belasten; ob und wie viele Stellen tatsächlich wegfallen, bleibt ein konkreter Einzelfall. Keine Übernahme der pauschalen Verfallsdiagnose.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5060s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt."
+    },
+    {
+      "id": "C04-P10",
+      "chapter": 4,
+      "point": 10,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md",
+      "fileSha256": "38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9",
+      "section": "## Prüfpunkt 10\n\n- **Fundstelle:** [01:26:39–01:27:28](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5199s)\n- **Zuordnung:** beide\n- **Prüfgegenstand – unsere Beschreibung:** Nachfolgeprobleme führten zu zusätzlichen freiwilligen Schließungen.\n- **Bewertung:** belegt (Trend), Gründe differenziert\n\n**Unsere Begründung und Grenzen:** KfW beschreibt wachsende Stilllegungsabsichten und besonders häufig Altersgründe. Pläne sind keine bereits erfolgten Schließungen. Die Studie belegt keinen alleinigen Zusammenhang mit aktueller Wirtschaftspolitik oder fehlender Rentabilität.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Nachfolge-Monitoring Mittelstand 2025](https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Aktuelles/News-Details_876800.html) · KfW Research · Stand: 09.01.2026; Befragungsdaten 2025.",
+      "migrationNote": "Nachfolge- und Stilllegungstrend mit Zustimmung des Gastes als eine Aussage; Bewertung des Ausstiegs als Meinung getrennt."
+    },
+    {
+      "id": "C04-P11",
+      "chapter": 4,
+      "point": 11,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md",
+      "fileSha256": "38830c7ba734e9bc21c3cae89ed5adb6bf49d746cb740bd442634ca4a97591e9",
+      "section": "## Prüfpunkt 11\n\n- **Fundstelle:** [01:27:28–01:27:58](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5248s)\n- **Zuordnung:** Lüning / Ben\n- **Prüfgegenstand – unsere Beschreibung:** Ein Drittel des Umsatzes gehe als Steuer ab; bei geschätzt 25 Millionen Umsatz wären das sieben bis acht Millionen jährlich.\n- **Bewertung:** nicht ausreichend belegbar / Kontext fehlt\n\n**Unsere Begründung und Grenzen:** Die konkrete Summe wurde nicht anhand Buchhaltungsdaten kontrolliert. Ein Drittel von 25 Millionen sind 8,33 Millionen. Lohnsteuer der Beschäftigten, Umsatzsteuer und ggf. in Einkaufspreisen enthaltene Alkoholsteuer sind nicht identisch mit eigener Unternehmens-Ertragsteuer; Doppelzählung und Brutto-/Netto-Umsatzbezug bleiben offen.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5248s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Abgeführte Steuerarten, behauptete Drittelquote und Moderatorrechnung auf geschätzter Umsatzbasis getrennt."
     }
   ],
   "sources": [
@@ -842,6 +952,62 @@
       "details": "Talisker / Diageo (Markenseite malts.com) · undatierte Zeitleiste; Einträge 1960 (Brand zerstört das Brennhaus) und 1962 (Ersatz der verlorenen Brennblasen). Betreiberhistorie, keine Brandursachenermittlung.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Zeitleiste am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Ein ausdrückliches Datum der Wiederaufnahme der Produktion nennt die Seite nicht."
+    },
+    {
+      "id": "S063",
+      "title": "Arbeitslosigkeit im Land Bremen nahezu unverändert",
+      "url": "https://www.arbeitsagentur.de/vor-ort/rd-nsb/presse/2026-23-arbeitslosigkeit-im-land-bremen-nahezu-unverandert-ausbildungsstart-es-gibt-noch-rund-900-freie-stellen",
+      "details": "Bundesagentur für Arbeit, Regionaldirektion Niedersachsen-Bremen · Presseinfo 23 vom 28.08.2026; Landesquote August 2026 11,5 Prozent. Vor der Aufnahme am 23.09.2026 veröffentlicht.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S064",
+      "title": "Arbeitslosigkeit im Land Bremen leicht gesunken",
+      "url": "https://www.arbeitsagentur.de/vor-ort/rd-nsb/presse/2026-25-arbeitslosigkeit-im-land-bremen-leicht-gesunken",
+      "details": "Bundesagentur für Arbeit, Regionaldirektion Niedersachsen-Bremen · Presseinfo 25 vom 30.09.2026; Landesquote September 2026 11,2 Prozent. Nach der Aufnahme veröffentlicht.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S065",
+      "title": "Nachfolge-Monitoring Mittelstand 2025",
+      "url": "https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Aktuelles/News-Details_876800.html",
+      "details": "KfW Research · Meldung vom 09.01.2026 zu Fokus Volkswirtschaft Nr. 526; Stilllegungspläne ohne Nachfolgelösung bis 2029, häufigste Gründe. Das verlinkte PDF war im Werkzeug nicht als Text lesbar und wird nicht als gelesen geführt.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S066",
+      "title": "STIHL Kettenwerk: Standort & Geschichte",
+      "url": "https://corporate.stihl.ch/de/stihl-kettenwerk/standort-geschichte",
+      "details": "STIHL Schweiz · undatierte Unternehmensseite; Zeitleiste ab 1974 (Beginn der Sägekettenfertigung in Wil nach Verlagerung aus Waiblingen), Werke Wil und Bronschhofen, Erweiterungen bis 2021. Unternehmensselbstauskunft.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S067",
+      "title": "STIHL Schweiz: Produktion und Vertrieb",
+      "url": "https://corporate.stihl.ch/de/ueber-stihl/produktion-vertrieb/stihl-schweiz",
+      "details": "STIHL Schweiz · undatierte Unternehmensseite zu den Schweizer Kettenwerken. Keine Angabe zu einer neueren Verlagerung aus Deutschland.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S068",
+      "title": "Alkoholsteuergesetz, § 2: Steuertarif",
+      "url": "https://www.gesetze-im-internet.de/alkstg/__2.html",
+      "details": "Bundesministerium der Justiz / Bundesamt für Justiz · konsolidierter Text beim Abruf 18.11.2026; Regelsatz 1.303 Euro je Hektoliter reinen Alkohols. Keine Aussage darüber, wer im Einzelfall Steuerschuldner ist.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S069",
+      "title": "Umsatzsteuergesetz, § 12: Steuersätze",
+      "url": "https://www.gesetze-im-internet.de/ustg_1980/__12.html",
+      "details": "Bundesministerium der Justiz / Bundesamt für Justiz · konsolidierter Text beim Abruf 18.11.2026; Regelsatz 19 Prozent nach Absatz 1.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
     }
   ],
   "claims": [
@@ -1488,6 +1654,30 @@
             }
           ],
           "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
+        },
+        {
+          "id": "mlxFA9T88I0-O0251",
+          "startSeconds": 5019,
+          "endSeconds": 5022,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Hauptgesprächsfundstelle zum allgemeinen Anstieg der Arbeitslosigkeit, deren Teaser bereits als A0011 erfasst ist; Herkunft C04-P07. Kein neuer Prüfgegenstand; Bewertung von A0011 unverändert.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4989,
+              "endSeconds": 5039,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
         }
       ],
       "relations": []
@@ -1555,6 +1745,30 @@
             }
           ],
           "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
+        },
+        {
+          "id": "mlxFA9T88I0-O0252",
+          "startSeconds": 5030,
+          "endSeconds": 5036,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Hauptgesprächsfundstelle zur Übernahme von Wohn- und Heizkosten, deren Teaser bereits als A0012 erfasst ist; Herkunft C04-P08. Kein neuer Prüfgegenstand; Bewertung von A0012 unverändert.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5000,
+              "endSeconds": 5060,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
         }
       ],
       "relations": []
@@ -1615,6 +1829,30 @@
             }
           ],
           "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
+        },
+        {
+          "id": "mlxFA9T88I0-O0253",
+          "startSeconds": 5041,
+          "endSeconds": 5052,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Hauptgesprächsfundstelle zur Abwägung zwischen Leistungsbezug und Weiterarbeit, deren Teaser bereits als A0013 erfasst ist; Herkunft C04-P08. Kein neuer Prüfgegenstand; Bewertung von A0013 unverändert.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5000,
+              "endSeconds": 5060,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
         }
       ],
       "relations": []
@@ -10891,6 +11129,2146 @@
           "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
           "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
           "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0179",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P01",
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein Restaurantbesuch zu zweit mit Getränken ist kaum noch unter 60 Euro möglich.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – zu unbestimmt. Region, Art der Gaststätte, Bestellumfang und Zeitpunkt fehlen; ein persönlicher Preiseindruck ist kein Durchschnittspreis. Eine Preisindexreihe würde nur Veränderungen, kein absolutes Preisniveau zeigen.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Region und welcher Gaststättentyp sind gemeint? Ohne Bezug keine Prüfung an Preisdaten möglich."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0206",
+          "startSeconds": 4553,
+          "endSeconds": 4573,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4516,
+              "endSeconds": 4648,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0180",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P01",
+      "kind": "Tatsachenbehauptung",
+      "description": "Am Wohnort des Gastes haben zuletzt zwei Gaststätten geschlossen, weil Gäste wegen der Preise ausblieben.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – lokaler Einzelfall ohne benannte Betriebe. Der Ortsname ist in der automatischen Erkennung zudem unsicher. Schließungsgrund und Zeitpunkt sind nicht öffentlich dokumentiert; eine Schließung kann auch andere Ursachen haben.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Betriebe sind gemeint, und gibt es öffentliche Angaben zu Schließung und Gründen?"
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0207",
+          "startSeconds": 4619,
+          "endSeconds": 4627,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4516,
+              "endSeconds": 4648,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0181",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P01",
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Moderator bekommt in den verbliebenen Restaurants häufig keinen Tisch, weil sie voll sind.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – persönliche Erfahrung. Die Aussage steht im Gespräch als Gegenbeobachtung zur These ausbleibender Gäste und ist ohne Ort und Zeitraum nicht extern prüfbar.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine weitere Prüfung vorgesehen; nur als Kontext der Gegenbeobachtung erfasst."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0208",
+          "startSeconds": 4628,
+          "endSeconds": 4638,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4516,
+              "endSeconds": 4648,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0182",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P01",
+      "kind": "Tatsachenbehauptung",
+      "description": "Gastronomen berichten, Gäste bestellten günstigere Gerichte und weniger Getränke; der Ertrag je Tisch sinke bei gleichen Kosten deutlich.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – Hörensagen ohne benannte Betriebe. Der Moderator gibt Gespräche mit Gastronomen wieder. Ob sich dies branchenweit in realen Umsätzen zeigt, wäre an amtlicher Gastgewerbestatistik zu prüfen; eine solche Quelle wurde nicht gelesen.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Destatis-Gastgewerbeumsatz (real/nominal) für 2025/2026 lesen; ein Abruf der Pressemitteilungsübersicht lieferte keinen nutzbaren Text."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0209",
+          "startSeconds": 4638,
+          "endSeconds": 4653,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4516,
+              "endSeconds": 4648,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0183",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P01",
+      "kind": "Tatsachenbehauptung",
+      "description": "Auch beim Versandhändler habe sich der durchschnittliche Warenkorb vermutlich nicht positiv entwickelt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – interne Kennzahl. Der Moderator äußert ausdrücklich eine Vermutung; Warenkorbdaten des Unternehmens sind nicht öffentlich.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Nur mit internen Warenkorbdaten des Händlers prüfbar."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0210",
+          "startSeconds": 4654,
+          "endSeconds": 4660,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4516,
+              "endSeconds": 4648,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0184",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P02",
+      "kind": "Meinung",
+      "description": "Die stagnierende Entwicklung des Whiskyhändlers sei ein Indikator für die deutsche Wirtschaftslage; mit mehr Geld würden Kunden teureren Whisky kaufen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Deutung des Moderators. Ob ein einzelner Händler die Gesamtwirtschaft abbildet, ist eine Interpretation; Sortiment, Wettbewerb und Konsumtrends sind weitere mögliche Einflüsse.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Überprüfbare Voraussetzung wäre eine Zeitreihe von Händlerumsatz und Konjunkturdaten."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0211",
+          "startSeconds": 4524,
+          "endSeconds": 4540,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4540,
+              "endSeconds": 4619,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P02. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0185",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P02",
+      "kind": "Tatsachenbehauptung",
+      "description": "Es gibt einen Megatrend zu alkoholfreien und alkoholärmeren Getränken, der bereits während der Pandemie bestand.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die allgemeine Trendbehauptung ist grundsätzlich an Verbrauchs- und Steuerstatistiken prüfbar. Im Rahmen dieser Prüfung wurde dazu keine Quelle gelesen; daher keine Endbewertung.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Pro-Kopf-Alkoholkonsum und Marktanteile alkoholfreier Getränke (z. B. Destatis, Jahrbuch Sucht) für die Jahre vor, während und nach der Pandemie lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0212",
+          "startSeconds": 4541,
+          "endSeconds": 4547,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4540,
+              "endSeconds": 4619,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P02. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0186",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P02",
+      "kind": "Tatsachenbehauptung",
+      "description": "In schlechteren Zeiten verlagerten Konsumenten Ausgaben von Restaurantbesuchen hin zu Whisky für den Genuss zu Hause; das habe sich im Konjunkturzyklus wiederholt gezeigt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – interne Absatzdaten. Die Beobachtung stützt sich auf Erfahrung des Händlers über mehrere Zyklen. Ohne Absatzreihe und Vergleich mit Konjunkturphasen lässt sich das behauptete Ausweichverhalten nicht nachvollziehen; Preisänderungen und Trends sind nicht kontrolliert.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Absatz- und Umsatzreihe des Händlers über frühere Abschwünge mit Konjunkturdaten vergleichen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0213",
+          "startSeconds": 4575,
+          "endSeconds": 4609,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4540,
+              "endSeconds": 4619,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P02. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0187",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P02",
+      "kind": "Meinung",
+      "description": "Eine gute Whiskyflasche beginne bei etwa 30 Euro, 40 Euro sei gut, 50 Euro hervorragend; eine Flasche reiche etwa einen Monat.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Geschmacks- und Konsumeinschätzung des Händlers. Qualitätsstufen nach Preis und Verbrauchsdauer sind persönliche Bewertungen, keine prüfbare Tatsache.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung vorgesehen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0214",
+          "startSeconds": 4586,
+          "endSeconds": 4595,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4540,
+              "endSeconds": 4619,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P02. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0188",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P02",
+      "kind": "Meinung",
+      "description": "Wenn sogar der Whiskyabsatz zurückgeht, muss es der Wirtschaft sehr schlecht gehen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Schlussfolgerung aus der vorangehenden Ausweichthese. Sie setzt voraus, dass Whisky in Abschwüngen zusätzlich gefragt ist; diese Voraussetzung ist nicht belegt (siehe getrennte Aussage). Als Deutung geführt.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Voraussetzung des Ausweichverhaltens ist gesondert offen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0215",
+          "startSeconds": 4609,
+          "endSeconds": 4614,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4540,
+              "endSeconds": 4619,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P02. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0189",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P03",
+      "kind": "Tatsachenbehauptung",
+      "description": "Die schottische Whiskyindustrie erhöhte nach dem Verkaufsboom die Preise und stellte dann fest, dass dies dem Absatz schadete.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Prüfbar wären Preis- und Exportreihen der Branche. Ein Abruf der Pressemitteilungsübersicht der Scotch Whisky Association scheiterte (HTTP 404); andere Branchenquellen wurden nicht gelesen. Keine Endbewertung.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Exportwert- und Mengenreihen der Scotch Whisky Association 2021–2025 sowie Preisangaben großer Hersteller lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0216",
+          "startSeconds": 4661,
+          "endSeconds": 4678,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4649,
+              "endSeconds": 4739,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0190",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P03",
+      "kind": "Tatsachenbehauptung",
+      "description": "Der größte Teil der Alkoholmengen wird in Deutschland über Discounter verkauft.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Mengenanteile nach Vertriebsweg stammen meist aus kommerziellen Handelspanels. Eine solche Quelle wurde nicht gelesen. Unklar bleibt außerdem, ob Spirituosen oder alle alkoholischen Getränke gemeint sind.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Öffentlich zugängliche Angaben zu Absatzanteilen nach Vertriebskanal (Menge, nicht Wert) suchen und lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0217",
+          "startSeconds": 4687,
+          "endSeconds": 4690,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4649,
+              "endSeconds": 4739,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0191",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P03",
+      "kind": "Tatsachenbehauptung",
+      "description": "Beim Discounter kostet eine Flasche Whisky 7,99 Euro, beim Händler dagegen meist 40 bis 50 Euro.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Discounterpreise ändern sich laufend; ohne Datum und Produkt kann ein Einzelpreis nicht nachgeprüft werden. Der eigene Preisbereich des Händlers ist eine Sortimentsangabe. Keine Preisquelle gelesen.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Zeitnahe Discounterangebote (Produkt, Füllmenge, Datum) und Preisstruktur des Händlersortiments prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0218",
+          "startSeconds": 4690,
+          "endSeconds": 4698,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4649,
+              "endSeconds": 4739,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0192",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P04",
+      "kind": "Meinung",
+      "description": "Unternehmerische Kunst bestehe darin, Fixkosten gering zu halten und möglichst viele Kosten variabel zu machen; hohe Fixkosten wie bei Volkswagen seien ein Problem.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Betriebswirtschaftliche Leitregel des Gastes. Eine variable Kostenstruktur senkt das Risiko bei Umsatzrückgang, kann aber höhere Stückkosten bedeuten. Als Meinung geführt; der Vergleich mit Volkswagen ist nicht als Kostenanalyse belegt.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Fixkostenquote von Volkswagen wäre gesondert an Geschäftsberichten zu prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0219",
+          "startSeconds": 4711,
+          "endSeconds": 4737,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4680,
+              "endSeconds": 4870,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0193",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P04",
+      "kind": "Tatsachenbehauptung",
+      "description": "Durch den Logistikdienstleister sind Lager- und Packkosten weitgehend variabel; die eigene Halle ist abbezahlt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – interne Verträge und Finanzierung. Vertragsbedingungen des Dienstleisters und Finanzierungsstand der Halle sind nicht öffentlich.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Nur mit Vertrags- und Finanzierungsunterlagen prüfbar."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0220",
+          "startSeconds": 4737,
+          "endSeconds": 4751,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4680,
+              "endSeconds": 4870,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0194",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P04",
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Unternehmen reduzierte Personal bislang nur über natürliche Fluktuation wie Ruhestand und Wechsel und senkte so seine sprungfixen Kosten.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – interne Personaldaten. Abgänge, Gründe und Kostenwirkung sind nicht öffentlich dokumentiert.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Nur mit Personal- und Kostendaten des Unternehmens prüfbar."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0221",
+          "startSeconds": 4751,
+          "endSeconds": 4771,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4680,
+              "endSeconds": 4870,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        },
+        {
+          "id": "mlxFA9T88I0-O0222",
+          "startSeconds": 4871,
+          "endSeconds": 4882,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4680,
+              "endSeconds": 4870,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0195",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P04",
+      "kind": "Prognose",
+      "description": "Gesamtwirtschaftliches Wachstum sei vorbei; Unternehmen hätten das Problem, dass kein Wachstum mehr stattfinde.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Einschätzung und Zukunftsaussage des Gastes. Die damalige Stagnation ist an Daten prüfbar, das Ende des Wachstums als dauerhafter Zustand ist dagegen eine Prognose.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Reales BIP-Wachstum 2023–2026 wäre als prüfbare Voraussetzung gesondert zu lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0223",
+          "startSeconds": 4791,
+          "endSeconds": 4811,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4680,
+              "endSeconds": 4870,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0196",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P04",
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei Inflation steigen alle Kosten; ohne Umsatzwachstum bleibt nichts übrig, und Beschäftigte können dann per Definition nicht einmal einen Inflationsausgleich erhalten.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Rechnerisch trifft zu: Bleibt der nominale Umsatz bei steigenden Kosten gleich, schrumpft die Marge. Der Gast schränkt selbst ein, dass ein Ausgleich aus der Marge kommen kann. Produktivität, Preisgestaltung und vorhandene Marge können Lohnerhöhungen dennoch ermöglichen; eine Definition schließt das nicht aus. Ohne gelesene Lohn- und Ertragsdaten keine Endbewertung der Verallgemeinerung.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Reallohn- und Produktivitätsentwicklung in Phasen ohne Wachstum (z. B. Destatis 2023–2025) lesen und von der Einzelbetriebsrechnung trennen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0224",
+          "startSeconds": 4820,
+          "endSeconds": 4861,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4680,
+              "endSeconds": 4870,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0197",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P04",
+      "kind": "Tatsachenbehauptung",
+      "description": "Viele Mittelständler schließen ihren Betrieb, weil er sich nicht mehr rentiert.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "KfW Research berichtet erneut wachsende Stilllegungspläne: rund ein Viertel der Unternehmen will ohne Nachfolgelösung schließen, etwa 114.000 pro Jahr bis 2029. Als häufigsten Grund nennt die Meldung jedoch das Alter, zuletzt mit wachsender Bedeutung von Bürokratie; fehlende Rentabilität wird dort nicht als Hauptgrund ausgewiesen. Die Größenordnung der Schließungen ist gestützt, die behauptete Ursache nicht.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S065",
+          "note": "Stilllegungspläne und Gründe laut KfW-Meldung; Rentabilität nicht als Hauptgrund genannt."
+        }
+      ],
+      "openQuestions": [
+        "Fokus-PDF Nr. 526 als Text lesen: Basis der Viertelangabe und Rolle wirtschaftlicher Gründe."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0225",
+          "startSeconds": 4864,
+          "endSeconds": 4869,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4680,
+              "endSeconds": 4870,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0198",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P05",
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Industrie leidet besonders unter hohen Energiepreisen und steigenden Lohnnebenkosten.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Allgemeine Standortbehauptung. Energiepreise und Sozialversicherungsbeiträge sind an amtlichen Daten prüfbar; dazu wurde in dieser Prüfung keine Quelle gelesen. Keine Endbewertung.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Industriestrompreise im Zeitvergleich und Entwicklung der Beitragssätze zur Sozialversicherung bis 2026 lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0226",
+          "startSeconds": 4891,
+          "endSeconds": 4910,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4870,
+              "endSeconds": 4989,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0199",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P05",
+      "kind": "Tatsachenbehauptung",
+      "description": "Vorausschauende größere Unternehmen investierten nicht mehr im eigenen Betrieb im Inland, sondern im Ausland.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Verallgemeinerung über Investitionsentscheidungen. Prüfbar wären Direktinvestitionsdaten der Bundesbank und Unternehmensbefragungen; keine solche Quelle gelesen.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Bundesbank-Direktinvestitionsstatistik und Befragungen zu Auslandsinvestitionen lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0227",
+          "startSeconds": 4949,
+          "endSeconds": 4955,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4870,
+              "endSeconds": 4989,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0200",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P05",
+      "kind": "Tatsachenbehauptung",
+      "description": "BMW und Mercedes bauen Werke in Ungarn.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Werke in Debrecen und Kecskemét sind bekannt, wurden in dieser Prüfung aber nicht anhand einer gelesenen Quelle bestätigt: Die Mercedes-Standortseite verweigerte den Zugriff (HTTP 403), im BMW-Newsroom wurde keine Debrecen-Meldung gefunden. Ob die Werke als Folge der Standortlage in Deutschland entstanden, ist eine eigene Frage.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Primärquellen zu Bauentscheidung und Produktionsbeginn von BMW Debrecen und Mercedes-Benz Kecskemét lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0228",
+          "startSeconds": 4958,
+          "endSeconds": 4962,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4870,
+              "endSeconds": 4989,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0201",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P05",
+      "kind": "Tatsachenbehauptung",
+      "description": "Viele Unternehmen sind in die Schweiz gegangen; STIHL gehe ebenfalls dorthin.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "STIHL fertigt Sägeketten bereits seit 1974 in Wil; laut eigener Zeitleiste wurde die Kettenfertigung damals aus Waiblingen verlagert und seither ausgebaut (zweites Werk 2008, Erweiterungen bis 2021). Das ist kein Beleg für einen neuen, krisenbedingten Wegzug. Eine jüngere Standortentscheidung zugunsten der Schweiz wurde auf den gelesenen Seiten nicht gefunden, ist damit aber nicht ausgeschlossen. Die Verallgemeinerung auf viele Unternehmen ist ungeprüft.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S066",
+          "note": "Schweizer Kettenfertigung seit 1974; keine neuere Verlagerung genannt."
+        },
+        {
+          "sourceId": "S067",
+          "note": "Aktuelle Schweizer Werke; keine Verlagerungsangabe."
+        }
+      ],
+      "openQuestions": [
+        "Gibt es eine STIHL-Mitteilung 2023–2026 zu Investitionen in der Schweiz statt in Deutschland?",
+        "Welche Daten stützen eine verbreitete Verlagerung in die Schweiz?"
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0229",
+          "startSeconds": 4964,
+          "endSeconds": 4973,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4870,
+              "endSeconds": 4989,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0202",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P05",
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Schweiz habe eine weit höhere Produktivität je Beschäftigtem als Deutschland; deshalb rentiere sich Produktion dort besser.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Ein Produktivitätsvergleich hängt von Kennzahl (je Stunde oder je Beschäftigtem), Währungsumrechnung und Branche ab. Keine OECD- oder Eurostat-Daten gelesen; der Kausalschluss auf Rentabilität berücksichtigt Lohn- und Kostenniveau nicht. Keine Endbewertung.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "OECD-Produktivitätsdaten (BIP je Arbeitsstunde, kaufkraftbereinigt) für Schweiz und Deutschland lesen; Lohnstückkosten einbeziehen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0230",
+          "startSeconds": 4974,
+          "endSeconds": 4988,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4870,
+              "endSeconds": 4989,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0203",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P06",
+      "kind": "Meinung",
+      "description": "Vernünftige Unternehmer schließen rechtzeitig, insolvente Unternehmer seien die schlechten, die nicht weit genug vorausgeschaut hätten.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Wertende Typisierung des Gastes. Insolvenzen haben vielfältige betriebliche und äußere Ursachen; der Gesprächsausschnitt liefert keine Daten für eine Gleichsetzung mit schlechter Führung.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Wertende Gleichsetzung von Insolvenz und schlechter Unternehmensführung sowie die Verallgemeinerung zur Altersvorsorge von Unternehmern getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung der Wertung; Insolvenzursachen wären gesondert zu untersuchen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0231",
+          "startSeconds": 4914,
+          "endSeconds": 4944,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4919,
+              "endSeconds": 4960,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P06. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0204",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P06",
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein schließender Unternehmer hat im Normalfall genug Geld für den Rest seines Lebens, seine Beschäftigten dagegen nicht.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – zu unbestimmt. Die Verallgemeinerung nennt keinen Maßstab für den Normalfall; Vermögen von Unternehmern und Beschäftigten ist nicht in dieser Form öffentlich vergleichbar.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Wertende Gleichsetzung von Insolvenz und schlechter Unternehmensführung sowie die Verallgemeinerung zur Altersvorsorge von Unternehmern getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Ohne bestimmten Personenkreis und Maßstab nicht an Daten prüfbar."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0232",
+          "startSeconds": 4990,
+          "endSeconds": 5015,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4919,
+              "endSeconds": 4960,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P06. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0205",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P07",
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Arbeitslosenquote in Berlin liegt bei ungefähr 10,4 Prozent.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die BA meldet für Berlin im September 2026 genau 10,4 Prozent, im August 10,6 Prozent. Die Zahl stimmt damit für einen Monat, dessen Wert erst am 30.09.2026 und damit nach der Aufnahme am 23.09.2026 veröffentlicht wurde. Zum Aufnahmezeitpunkt lag als jüngster Wert 10,6 Prozent vor. Die Größenordnung trifft zu, der genaue Wert passt nicht zum damals bekannten Stand.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Berliner Quote und behauptete Länderspitze getrennt. Der allgemeine Anstieg ist als weiteres Vorkommen der bestehenden Aussage A0011 geführt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S018",
+          "note": "August 10,6 und September 10,4 Prozent; Veröffentlichung nach Aufnahme."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0233",
+          "startSeconds": 5021,
+          "endSeconds": 5027,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4989,
+              "endSeconds": 5039,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0206",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P07",
+      "kind": "Tatsachenbehauptung",
+      "description": "Berlin hat unter den Bundesländern aktuell die höchste Arbeitslosenquote.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Der Gast äußert dies mit erkennbarem Vorbehalt. Laut BA lag Bremen sowohl im August 2026 (11,5 Prozent) als auch im September 2026 (11,2 Prozent) über Berlin (10,6 bzw. 10,4 Prozent). Damit hatte Berlin weder nach dem damals bekannten noch nach dem späteren Monatswert die höchste Quote. Eine vollständige Länderrangliste wurde nicht gelesen; für die Widerlegung genügt der Vergleich mit Bremen.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Berliner Quote und behauptete Länderspitze getrennt. Der allgemeine Anstieg ist als weiteres Vorkommen der bestehenden Aussage A0011 geführt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S018",
+          "note": "Berliner Quoten August und September 2026."
+        },
+        {
+          "sourceId": "S063",
+          "note": "Bremen August 2026: 11,5 Prozent, vor Aufnahme veröffentlicht."
+        },
+        {
+          "sourceId": "S064",
+          "note": "Bremen September 2026: 11,2 Prozent."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0234",
+          "startSeconds": 5021,
+          "endSeconds": 5027,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 4989,
+              "endSeconds": 5039,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0207",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P08",
+      "kind": "Tatsachenbehauptung",
+      "description": "In Berlin wurde zuletzt auf einmal stärker links gewählt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Gemeint ist vermutlich die Berliner Wahl kurz vor der Aufnahme. Das amtliche Ergebnis wurde in dieser Prüfung nicht gelesen; daher keine Endbewertung.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Amtliches Ergebnis der Berliner Abgeordnetenhauswahl 2026 (Landeswahlleitung) im Vergleich zur Vorwahl lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0235",
+          "startSeconds": 5027,
+          "endSeconds": 5030,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5000,
+              "endSeconds": 5060,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0208",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P08",
+      "kind": "Meinung",
+      "description": "Linkes Wahlverhalten in Berlin erkläre sich daraus, dass man ohne Arbeit staatliche Leistungen erhält.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Kausale Deutung des Gastes über Wahlmotive. Aus einer regionalen Arbeitslosenquote folgt kein Motiv einzelner Wählender; die Deutung wird nicht als festgestellte Tatsache geführt.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Wahlanalysen zu Motiven und Wählergruppen wären die prüfbare Grundlage."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0236",
+          "startSeconds": 5030,
+          "endSeconds": 5033,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5000,
+              "endSeconds": 5060,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0209",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P08",
+      "kind": "Tatsachenbehauptung",
+      "description": "Öl, Gas und Sprit sind zuletzt wieder teurer geworden und belasten Erwerbstätige.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "An Verbraucherpreisdaten prüfbar; keine solche Quelle gelesen. Zeitraum und Vergleichsbasis fehlen.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Destatis-Verbraucherpreise für Heizöl, Erdgas und Kraftstoffe im Sommer 2026 gegenüber Vormonaten und Vorjahr lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0237",
+          "startSeconds": 5036,
+          "endSeconds": 5041,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5000,
+              "endSeconds": 5060,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0210",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P09",
+      "kind": "Tatsachenbehauptung",
+      "description": "Jasmin Kosubek war kürzlich zu Besuch, gemeinsam wurde ein Video gedreht.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Ein veröffentlichtes gemeinsames Video wäre öffentlich prüfbar; danach wurde nicht gesucht. Der Inhalt des privaten Gesprächs ist nicht prüfbar.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Gibt es ein veröffentlichtes gemeinsames Video aus dem Zeitraum vor der Aufnahme?"
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0238",
+          "startSeconds": 5055,
+          "endSeconds": 5060,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5060,
+              "endSeconds": 5199,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0211",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P09",
+      "kind": "Meinung",
+      "description": "Der eigene Wohnort sei noch sauber und intakt, anderswo verschlechtere sich die Lage schrittweise.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Persönlicher Eindruck und Deutung eines schleichenden Verfalls. Auch die Gegenüberstellung von Hotelumgebung und Bahnhof des Moderatorortes ist eine Momentaufnahme, keine Messung.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung der Wertung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0239",
+          "startSeconds": 5059,
+          "endSeconds": 5074,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5060,
+              "endSeconds": 5199,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        },
+        {
+          "id": "mlxFA9T88I0-O0240",
+          "startSeconds": 5099,
+          "endSeconds": 5125,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5060,
+              "endSeconds": 5199,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0212",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P09",
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein früherer Berliner Bürgermeister habe nach seinem Amtsende gesagt, in Berlin-Mitte sei erst jetzt sichtbar geworden, wie schmutzig es dort sei.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Erinnertes Zitat mit ausdrücklich unsicherem Namen. Weder Person noch Äußerung wurden in einer Quelle gefunden oder gelesen. Keine Bewertung; die anschließende Kritik am Amtsträger ist eine Wertung.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welcher Amtsträger ist gemeint, und ist eine solche Äußerung in Presse oder Protokollen dokumentiert?"
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0241",
+          "startSeconds": 5085,
+          "endSeconds": 5094,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5060,
+              "endSeconds": 5199,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0213",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P09",
+      "kind": "Meinung",
+      "description": "Beschäftigte von Unternehmen hätten ebenfalls gewählt und seien deshalb für die Entwicklung mitverantwortlich.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Politische Wertung zur Verantwortung; keine prüfbare Tatsache.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung vorgesehen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0242",
+          "startSeconds": 5131,
+          "endSeconds": 5142,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5060,
+              "endSeconds": 5199,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0214",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P09",
+      "kind": "Tatsachenbehauptung",
+      "description": "Kleine und mittlere Unternehmen bilden den Kern der deutschen Wertschöpfung.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "An Unternehmensstatistik prüfbar (Anteil an Wertschöpfung und Beschäftigung); keine solche Quelle gelesen. Der Begriff Kern ist zudem wertend.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "KMU-Anteile an Bruttowertschöpfung und Beschäftigung (Destatis, IfM Bonn) lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0243",
+          "startSeconds": 5145,
+          "endSeconds": 5160,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5060,
+              "endSeconds": 5199,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0215",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P09",
+      "kind": "Tatsachenbehauptung",
+      "description": "Zulieferer von Volkswagen müssen wegen ausbleibender Aufträge Personal abbauen; diese Entwicklung erreiche nach und nach weitere Betriebe.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Allgemeine Beschreibung ohne benannten Zulieferer. Einzelne Abbaumeldungen wären prüfbar, belegen aber nicht den behaupteten Ursachenweg für alle Betriebe. Keine Quelle gelesen.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Konkrete Zulieferer und Abbaumeldungen 2025/2026 sowie Auftragslage bei Volkswagen prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0244",
+          "startSeconds": 5160,
+          "endSeconds": 5187,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5060,
+              "endSeconds": 5199,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0216",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P10",
+      "kind": "Tatsachenbehauptung",
+      "description": "Viele Unternehmer finden keinen Nachfolger mehr; das führt zu zusätzlichen freiwilligen Schließungen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "KfW Research meldet erneut wachsende Pläne, Betriebe ohne Nachfolgelösung stillzulegen: rund ein Viertel der Unternehmen, etwa 114.000 pro Jahr bis 2029. Pläne sind keine vollzogenen Schließungen. Häufigster Grund ist laut Meldung das Alter, nicht ausdrücklich ein erfolglos gesuchter Nachfolger. Der Trend ist gestützt, der unterstellte Mechanismus nur teilweise.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Nachfolge- und Stilllegungstrend mit Zustimmung des Gastes als eine Aussage; Bewertung des Ausstiegs als Meinung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S065",
+          "note": "Stilllegungspläne ohne Nachfolgelösung, Trend und Gründe laut Meldung."
+        }
+      ],
+      "openQuestions": [
+        "Basis der Viertelangabe und Anteil erfolgloser Nachfolgesuche im Fokus-PDF prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0245",
+          "startSeconds": 5199,
+          "endSeconds": 5215,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5199,
+              "endSeconds": 5248,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        },
+        {
+          "id": "mlxFA9T88I0-O0246",
+          "startSeconds": 5226,
+          "endSeconds": 5227,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Ausdrückliche Zustimmung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Ausdrückliche Zustimmung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Kurze Bestätigung des Gastes zu häufigen freiwilligen Schließungen; plausibler Kandidat, keine bestätigte Personenzuordnung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5199,
+              "endSeconds": 5248,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0217",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P10",
+      "kind": "Meinung",
+      "description": "Nach Jahrzehnten intensiver Arbeit sei es ein legitimes Ziel, den Betrieb zu schließen und vom Kapital zu leben.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Wertung des Moderators; keine prüfbare Tatsache.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Nachfolge- und Stilllegungstrend mit Zustimmung des Gastes als eine Aussage; Bewertung des Ausstiegs als Meinung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung vorgesehen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0247",
+          "startSeconds": 5227,
+          "endSeconds": 5237,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5199,
+              "endSeconds": 5248,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0218",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P11",
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Unternehmen führt Lohnsteuer und Sozialabgaben der Beschäftigten, Alkoholsteuer und Mehrwertsteuer ab.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Lohnsteuer- und Umsatzsteuerabführung gehört zum gewöhnlichen Pflichtenkreis eines Arbeitgebers und Händlers; der Umsatzsteuerregelsatz beträgt 19 Prozent. Die Alkoholsteuer beträgt 1.303 Euro je Hektoliter reinen Alkohols. Ob das Unternehmen sie selbst als Steuerschuldner abführt (etwa als Empfänger aus anderen Mitgliedstaaten) oder sie im Einkaufspreis trägt, wurde nicht geprüft. Die Sozialabgaben sind keine Steuern im rechtlichen Sinn.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Abgeführte Steuerarten, behauptete Drittelquote und Moderatorrechnung auf geschätzter Umsatzbasis getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S068",
+          "note": "Regelsatz der Alkoholsteuer; keine Angabe zum Steuerschuldner im Einzelfall."
+        },
+        {
+          "sourceId": "S069",
+          "note": "Umsatzsteuerregelsatz 19 Prozent."
+        }
+      ],
+      "openQuestions": [
+        "Steuerschuldnerschaft des Händlers für die Alkoholsteuer klären."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0248",
+          "startSeconds": 5247,
+          "endSeconds": 5259,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning / Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5248,
+              "endSeconds": 5278,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0219",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P11",
+      "kind": "Tatsachenbehauptung",
+      "description": "Etwa ein Drittel des Umsatzes geht als Steuern an den Staat.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – interne Buchhaltung. Zur Plausibilität: Umsatzsteuer macht bei 19 Prozent rund 16 Prozent eines Bruttoumsatzes aus; die Alkoholsteuer entspricht bei einer 0,7-Liter-Flasche mit 40 Prozent rund 3,65 Euro, bei 40 Euro Verkaufspreis also etwa neun Prozent. Zusammen mit abgeführter Lohnsteuer ist ein Drittel als Größenordnung denkbar, aber nicht nachgerechnet. Durchlaufende Steuern sind keine eigene Ertragsteuerlast.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Abgeführte Steuerarten, behauptete Drittelquote und Moderatorrechnung auf geschätzter Umsatzbasis getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S068",
+          "note": "Nur Plausibilitätsrechnung, kein Beleg der Firmenquote."
+        },
+        {
+          "sourceId": "S069",
+          "note": "Nur Plausibilitätsrechnung, kein Beleg der Firmenquote."
+        }
+      ],
+      "openQuestions": [
+        "Nur mit Steuer- und Umsatzdaten des Unternehmens prüfbar; Brutto- oder Nettoumsatz klären."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0249",
+          "startSeconds": 5259,
+          "endSeconds": 5264,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning / Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5248,
+              "endSeconds": 5278,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0220",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 4,
+      "legacyId": "C04-P11",
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei geschätzten 25 Millionen Euro Umsatz wären das sieben bis acht Millionen Euro Steuern pro Jahr.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – die Umsatzbasis ist eine Schätzung des Moderators (siehe A0083). Rechnerisch ergibt ein Drittel von 25 Millionen rund 8,3 Millionen; die genannte Spanne liegt leicht darunter. Eine tatsächliche Steuersumme ist nicht öffentlich.",
+      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 4 einzeln migriert",
+        "mapping": "Abgeführte Steuerarten, behauptete Drittelquote und Moderatorrechnung auf geschätzter Umsatzbasis getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Tatsächlicher Umsatz und Steueraufkommen des Unternehmens sind nicht öffentlich."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0250",
+          "startSeconds": 5265,
+          "endSeconds": 5275,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning / Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 5248,
+              "endSeconds": 5278,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
         }
       ],
       "relations": []

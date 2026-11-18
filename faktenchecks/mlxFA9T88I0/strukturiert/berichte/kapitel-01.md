@@ -1,8 +1,8 @@
 # Kapitel 01: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 33 von 99 ursprünglichen Prüfpunkten übertragen, 66 nicht migriert. Kapitel 1, 2 und 3 sind hinsichtlich ihrer Altpunkte vollständig übertragen; zusätzlich C06-P09 und C08-P03. Kapitel 3 wurde im abgegrenzten Textzeitraum vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos. Kein Beginn einer Migration von Kapitel 4.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 44 von 99 ursprünglichen Prüfpunkten übertragen, 55 nicht migriert. Kapitel 1 bis 4 sind hinsichtlich ihrer Altpunkte vollständig übertragen; zusätzlich C06-P09 und C08-P03. Kapitel 3 und 4 wurden im abgegrenzten Textzeitraum vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
-A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten.
+A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen.
 
 ## Übertragene Herkunftspunkte und Zuordnung
 
@@ -46,6 +46,23 @@ Fundstellenhinweis: Herkunft C01-P01 (Kapitel 1, Montage). Enger Textbereich der
 Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
 
 Frueherer Suchbereich: [00:00:00–00:01:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=0s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P01 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
+- [01:23:39–01:23:42](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5019s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Hauptgesprächsfundstelle zum allgemeinen Anstieg der Arbeitslosigkeit, deren Teaser bereits als A0011 erfasst ist; Herkunft C04-P07. Kein neuer Prüfgegenstand; Bewertung von A0011 unverändert.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:23:09–01:23:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4989s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
@@ -99,6 +116,23 @@ Fundstellenhinweis: Herkunft C01-P01 (Kapitel 1, Montage). Enger Textbereich der
 Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
 
 Frueherer Suchbereich: [00:00:00–00:01:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=0s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P01 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
+- [01:23:50–01:23:56](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5030s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Hauptgesprächsfundstelle zur Übernahme von Wohn- und Heizkosten, deren Teaser bereits als A0012 erfasst ist; Herkunft C04-P08. Kein neuer Prüfgegenstand; Bewertung von A0012 unverändert.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:23:20–01:24:20](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5000s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
@@ -158,6 +192,23 @@ Fundstellenhinweis: Herkunft C01-P01 (Kapitel 1, Montage). Enger Textbereich der
 Zeitgrundlage: Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr.
 
 Frueherer Suchbereich: [00:00:00–00:01:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=0s), Ungefähr. Erhaltenes Suchfenster des bisherigen eigenen Prüfpunkts C01-P01 in Kapitel 1; die Eingrenzung ersetzt keine Audio-/Videokontrolle.
+
+- [01:24:01–01:24:12](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5041s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Hauptgesprächsfundstelle zur Abwägung zwischen Leistungsbezug und Weiterarbeit, deren Teaser bereits als A0013 erfasst ist; Herkunft C04-P08. Kein neuer Prüfgegenstand; Bewertung von A0013 unverändert.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:23:20–01:24:20](https://www.youtube.com/watch?v=mlxFA9T88I0&t=5000s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C04-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
