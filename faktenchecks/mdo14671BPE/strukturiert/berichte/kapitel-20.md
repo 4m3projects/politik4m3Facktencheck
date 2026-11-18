@@ -91,9 +91,9 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Eine US-Asylbewilligung verlange ein Loyalitätsbekenntnis gegenüber den USA.
+**Eigene Beschreibung:** Seibt verbindet eine mögliche Asylbewilligung mit einem künftigen Loyalitätsbekenntnis gegenüber den USA.
 
-Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -112,13 +112,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die gelesene Asylnorm stellt auf Schutzvoraussetzungen und Beweislast ab. Ein Einbürgerungseid darf nicht mit dem Asylantrag gleichgesetzt werden; zusätzliche konkrete Verfahrenspflichten sind gesondert zu prüfen.
+Die Textstelle kann einen persönlichen Vorsatz und eine allgemeine Erwartung ausdrücken. Ob zusätzlich eine rechtliche Voraussetzung behauptet wird, ist ohne Originalkontrolle nicht eindeutig. Die gelesene Asylnorm enthält keinen Einbürgerungseid; das allein widerlegt den persönlichen Vorsatz nicht.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Aktualisierung 18.11.2026: vorläufige Endbewertung zurückgenommen; redaktionelle Auslegungsunsicherheit betrifft die Art des behaupteten Zusammenhangs.
 
 ### Zugeordnete Quellen
 
@@ -127,7 +127,7 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Möglicherweise nur persönliche Absicht gemeint; Originalkontrolle bleibt für diese Lesart nötig.
+- Persönlichen Vorsatz, politische Erwartung und behauptete rechtliche Voraussetzung an der Originalstelle sicher unterscheiden.
 
 ## mdo14671BPE-A0197
 

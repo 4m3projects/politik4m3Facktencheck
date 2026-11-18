@@ -29,7 +29,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eigenbericht über Versuch und Messgrößen; der allgemeine Regionalpreis belegt nicht die beschriebenen Einzelmessungen.
+Der Schulbericht bestätigt eine erfolgreiche Arbeit zur Viskosität von Spülmitteln. Kapillarmethode, konkrete Rezeptur und behauptete Einzigartigkeit sind damit noch nicht nachgewiesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -42,9 +42,12 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 - [Mauritz Münsters erfolgreichste Schule beim Regionalwettbewerb Jugend forscht](https://gymnasium-st-mauritz.de/aktuelltermine/aktuelles/nachrichten-detail/mauritz-muensters-erfolgreichste-schule-beim-regionalwettbewerb-jugend-forscht) · Gymnasium St. Mauritz; Februar 2013.
   Quellenzugriff am 2026-11-17. Schulbericht geöffnet und Angaben zu Seibts regionalen Preisen gelesen; kein Nachweis des später behaupteten Landessieges. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
+- [Erster mauritzer Doppelsieg](https://gymnasium-st-mauritz.de/aktuelltermine/aktuelles/nachrichten-detail/erster-mauritzer-doppelsieg/) · Gymnasium St. Mauritz; 14.05.2014.
+  Quellenzugriff am 2026-11-18. Zeitgenössischen Schulbericht vollständig gelesen: Landespreis der Alterssparte Schüler experimentieren, Chemieprojekt über Spülmittelviskosität und Ludger-Mintrop-Sonderpreis. Schulbericht bestätigt das Thema Spülmittelviskosität, nicht die detaillierte Versuchsbeschreibung oder eine exklusive Mischungsregel.
+
 ### Offene Fragen und Unsicherheiten
 
-- Originalprojekt, Messdaten und Vergleichsbedingungen fehlen.
+- Originale eigene Projektdokumentation oder unabhängige fachliche Grundlage für die Detailbehauptung prüfen; keine Versuchsdurchführung als erfolgt behauptet.
 
 ## mdo14671BPE-A0095
 
@@ -71,7 +74,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Schulbericht bestätigt das Thema der Spülmittelviskosität, nicht die behauptete Ausschließlichkeit oder heutige Rezeptur. Produktalter und Messbedingungen sind entscheidend.
+Der Schulbericht bestätigt eine erfolgreiche Arbeit zur Viskosität von Spülmitteln. Kapillarmethode, konkrete Rezeptur und behauptete Einzigartigkeit sind damit noch nicht nachgewiesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -82,11 +85,11 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Zugeordnete Quellen
 
 - [Erster mauritzer Doppelsieg](https://gymnasium-st-mauritz.de/aktuelltermine/aktuelles/nachrichten-detail/erster-mauritzer-doppelsieg/) · Gymnasium St. Mauritz; 14.05.2014.
-  Quellenzugriff am 2026-11-18. Zeitgenössischen Schulbericht vollständig gelesen: Landespreis der Alterssparte Schüler experimentieren, Chemieprojekt über Spülmittelviskosität und Ludger-Mintrop-Sonderpreis. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+  Quellenzugriff am 2026-11-18. Zeitgenössischen Schulbericht vollständig gelesen: Landespreis der Alterssparte Schüler experimentieren, Chemieprojekt über Spülmittelviskosität und Ludger-Mintrop-Sonderpreis. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten. Schulbericht bestätigt das Thema Spülmittelviskosität, nicht die detaillierte Versuchsbeschreibung oder eine exklusive Mischungsregel.
 
 ### Offene Fragen und Unsicherheiten
 
-- Rezepturjahr, Messdefinition und Vergleichsreihen klären; keine bloße Küchenbeobachtung als universelles Materialgesetz ausgeben.
+- Originale eigene Projektdokumentation oder unabhängige fachliche Grundlage für die Detailbehauptung prüfen; keine Versuchsdurchführung als erfolgt behauptet.
 
 ## mdo14671BPE-A0096
 

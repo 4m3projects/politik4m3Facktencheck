@@ -630,7 +630,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** YouTube habe erst in der Corona-Zeit begonnen, Kanäle oder Videos wegen Inhaltsregeln zu löschen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -649,7 +649,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die historische Erstmaligkeitsbehauptung ist von einer Verschärfung einzelner Gesundheitsregeln zu trennen. Gegenwartshilfe allein belegt keinen historischen Anfang.
+YouTube beschrieb bereits im April 2018 millionenfache Videoentfernungen im letzten Quartal 2017 sowie Löschungen ganzer Kanäle wegen Richtlinienverstößen. Diese Praxis begann damit nachweislich vor der Corona-Zeit. Daraus folgt keine Bewertung der Rechtmäßigkeit einzelner Entscheidungen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -659,11 +659,11 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-- [Community Guidelines strike basics on YouTube](https://support.google.com/youtube/answer/2802032) · YouTube/Google; aktuelle Richtlinienhilfe, Abruf 2026.
-  Quellenzugriff am 2026-11-17. Abschnitte zu ungelisteten/privaten Inhalten, Strikes und Kanalfolgen gelesen. Plattform-Selbstauskunft; kein historischer Einzelfallnachweis. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+- [More information, faster removals, more people](https://blog.youtube/news-and-events/more-information-faster-removals-more/) · The YouTube Team; 23.04.2018, Daten Oktober–Dezember 2017.
+  Quellenzugriff am 2026-11-18. Zeitgenössischen Plattformbericht einschließlich Fußnote zu vollständigen Kanalentfernungen gelesen. Unternehmensselbstauskunft belegt frühere dokumentierte Moderationspraxis, nicht die Richtigkeit jeder Löschung. Sachbeleg im beschriebenen Umfang; keine Bestätigung eines individuellen Bildungs- oder Moderationsvorgangs.
 
 ### Offene Fragen und Unsicherheiten
 
-- Zeitgenössische Plattformberichte vor 2020 und die gemeinte Regeländerung lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

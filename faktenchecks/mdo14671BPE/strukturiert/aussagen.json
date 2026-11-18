@@ -518,6 +518,70 @@
       "details": "Als Erklärung in einem verwaltungsgerichtlichen Verfahren auffindbar; Abrufversuch 18.11.2026.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Erfolgloser Abrufversuch – kein Sachbeleg: Originaladresse lieferte HTTP 404. Suchausschnitt nicht zur Verifikation verwendet. Keine tatsächlich gelesene Ersatzquelle für Behördenbescheid, Gerichtsakte oder Vergleich."
+    },
+    {
+      "id": "S064",
+      "title": "Schülerinnen und Schüler: Schulpflicht",
+      "url": "https://www.kmk.org/bildungsministerkonferenz/vertiefende-bildungsinhalte/allgemeinbildende-schulen/schuelerinnen-und-schueler.html",
+      "details": "Kultusministerkonferenz; undatierte Informationsseite, Abrufstand 18.11.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Abschnitt zur allgemeinen Schulpflicht gelesen. Allgemeiner Regelbeginn im Jahr des sechsten Geburtstags; keine individuelle Einschulungsakte Seibts."
+    },
+    {
+      "id": "S065",
+      "title": "More information, faster removals, more people",
+      "url": "https://blog.youtube/news-and-events/more-information-faster-removals-more/",
+      "details": "The YouTube Team; 23.04.2018, Daten Oktober–Dezember 2017.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Zeitgenössischen Plattformbericht einschließlich Fußnote zu vollständigen Kanalentfernungen gelesen. Unternehmensselbstauskunft belegt frühere dokumentierte Moderationspraxis, nicht die Richtigkeit jeder Löschung."
+    },
+    {
+      "id": "S066",
+      "title": "Goldene Blogger 2019 – versuchte Veranstalteradresse",
+      "url": "https://diegoldenenblogger.de/2020/03/09/das-sind-die-goldenen-blogger-2019/",
+      "details": "Vermutete historische Veranstalteradresse; Abrufversuch 18.11.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Erfolgloser Abrufversuch – kein Sachbeleg. Die versuchte Adresse war nicht zugänglich; eine funktionierende Originaladresse und eine tatsächlich lesbare Ersatzquelle werden gesondert gesucht. Tatsächlich gelesene Ersatzquelle: KAS-Interview vom Juni 2021, S068."
+    },
+    {
+      "id": "S067",
+      "title": "About the Ivy League",
+      "url": "https://ivyleague.com/sports/2017/8/13/HISTORY_0813173057.aspx",
+      "details": "Ivy League; offizielle Darstellung, Abrufstand 18.11.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Offizielle vollständige Liste der acht Mitgliedshochschulen gelesen. Cambridge ist kein Mitglied; kein Beleg zu Seibts Bewerbung."
+    },
+    {
+      "id": "S068",
+      "title": "Interview mit Ruprecht Polenz über die Debattenkultur in den Sozialen Medien",
+      "url": "https://www.kas.de/documents/252038/11055681/Interview%2Bmit%2BRuprecht%2BPolenz%2B%C3%BCber%2Bdie%2BDebattenkultur%2Bin%2Bden%2BSozialen%2BMedien.pdf/33541793-a5c9-eddc-bd12-5afab20d21d2",
+      "details": "Konrad-Adenauer-Stiftung; Monitor Medienpolitik, Juni 2021.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Einleitung und Interviewbeginn mit Preisangabe gelesen. Zeitnahe Interviewquelle zur Auszeichnung 2020, keine unabhängige Bewertung der Qualität seiner Kommunikation."
+    },
+    {
+      "id": "S069",
+      "title": "The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information",
+      "url": "https://arxiv.org/html/2101.08750",
+      "details": "Antonis Papasavva und Mitautoren; ICWSM 2022, arXiv-Version 3 vom 29.04.2022.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Abstract, Einleitung, Methodenüberblick und Hintergrundabschnitt zur Herkunft seit Oktober 2017 gelesen. Originalforschung mit Untersuchung archivierter Beiträge; historische Hintergrundangaben teils aus zitierten Vorarbeiten. Nicht als Nachweis einer tatsächlichen Insideridentität verwendet."
+    },
+    {
+      "id": "S070",
+      "title": "H.Res.1154 – erfolgloser Zugriff auf die angenommene Fassung",
+      "url": "https://www.congress.gov/116/bills/hres1154/BILLS-116hres1154eh.pdf",
+      "details": "U.S. House of Representatives; Resolution 2020, Abrufversuch 18.11.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Erfolgloser Abrufversuch – kein Sachbeleg: Recherchewerkzeug meldete gesperrte Adresse. Tatsächlich gelesene Ersatzgrundlage zur Herkunft von QAnon: Papasavva und Mitautoren, S069. Keine Gleichsetzung von parlamentarischer Bewertung und Sachbeweis."
+    },
+    {
+      "id": "S071",
+      "title": "Venous Thromboembolism: Symptoms",
+      "url": "https://www.nhlbi.nih.gov/health/venous-thromboembolism/symptoms",
+      "details": "NHLBI/NIH; Stand 19.09.2022.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Symptomdarstellung einschließlich möglicher fehlender Beschwerden bis zu schweren Komplikationen gelesen. Allgemeiner medizinischer Kontext, keine Patientenakte oder individuelle Todesursachenbegutachtung."
     }
   ],
   "speakers": [
@@ -1300,19 +1364,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Cambridge wird der Ivy League zugerechnet.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Im Satz ist unklar, ob eine wörtliche Gruppenzugehörigkeit gemeint oder der Begriff umgangssprachlich für Eliteuniversitäten gebraucht wird. Ohne diese Klärung kein Urteil über die persönliche Bewerbung.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Die Ivy League nennt acht US-Hochschulen als Mitglieder. Die britische Universität Cambridge gehört nicht dazu. Diese geografisch-institutionelle Verwechslung sagt nichts darüber aus, ob das berichtete Bewerbungsgespräch stattgefunden hat.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Originalstelle kontrollieren und institutionelle Zuordnung gesondert belegen."
+      "sourceRefs": [
+        {
+          "sourceId": "S067",
+          "note": "Sachbeleg im Umfang der Begründung und dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0023",
@@ -1423,19 +1490,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "In Deutschland beginne die Schule üblicherweise mit sechs Jahren.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Grobe Regelbeschreibung; Landesrecht, Stichtage und tatsächliche Einschulungsstatistik sind noch zu prüfen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die KMK nennt als Regelfall den Beginn der Schulpflicht im Jahr des sechsten Geburtstags. Landesrechtliche Stichtage und vorzeitige oder spätere Einschulung bleiben möglich.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "NRW-Regelung und statistische Altersverteilung unterscheiden."
+      "sourceRefs": [
+        {
+          "sourceId": "S064",
+          "note": "Sachbeleg im beschriebenen Umfang; keine Bestätigung eines individuellen Bildungs- oder Moderationsvorgangs."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0026",
@@ -2271,19 +2341,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ruprecht Polenz habe eine Auszeichnung für seine öffentliche Kommunikation erhalten.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Art, Zeitpunkt und offizielle Begründung der Auszeichnung sind noch nicht geprüft.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das zeitnahe KAS-Interview von Juni 2021 nennt eine Auszeichnung mit dem Goldenen Blogger im Vorjahr. Gestützt ist damit der Preis 2020, nicht eine objektive Anerkennung jeder politischen Aussage.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Auszeichnung und Verleihungsbegründung aus amtlicher Quelle kontrollieren."
+      "sourceRefs": [
+        {
+          "sourceId": "S066",
+          "note": "Erfolgloser Abrufversuch – kein Sachbeleg; kein Preisnachweis aus dieser Adresse."
+        },
+        {
+          "sourceId": "S068",
+          "note": "Sachbeleg im Umfang der Begründung und dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0047",
@@ -2668,9 +2745,9 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine Lungenembolie könne plötzlich eintreten, ohne zuvor eindeutig erkannt worden zu sein.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Der akute Verlauf ist von einem angeblichen vollständigen Fehlen von Vorzeichen oder Risiken zu unterscheiden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "NHLBI beschreibt, dass eine venöse Thromboembolie bis zum Eintritt schwerer Komplikationen ohne erkennbare Symptome bleiben kann. Ein plötzlicher Verlauf ist medizinisch möglich und für sich allein weder Beweis noch Widerlegung einer Fremdeinwirkung im individuellen Todesfall.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2679,13 +2756,11 @@
       },
       "sourceRefs": [
         {
-          "sourceId": "S006",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "sourceId": "S071",
+          "note": "Allgemeiner Verlauf; bestätigt keine konkrete Diagnose oder Fremdeinwirkung."
         }
       ],
-      "openQuestions": [
-        "Symptom- und Verlaufsquellen lesen; den konkreten Todesfall nicht aus allgemeinen Risiken rekonstruieren."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0057",
@@ -3128,19 +3203,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die QAnon-Erzählung beruhe auf anonymen Internetbeiträgen eines vermeintlich mit Trump verbundenen Insiders.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Als Darstellung einer Erzählung erfasst, nicht als Bestätigung des behaupteten Insiders. Entstehungsbelege und Datierung noch nicht gelesen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Forschungsarbeit beschreibt anonyme Beiträge auf 4chan ab Oktober 2017 sowie den darin behaupteten Insiderstatus und die Erzählung eines von Trump geführten Kampfes. Damit ist die Herkunft der Erzählung gestützt, nicht die Wahrheit ihres Insideranspruchs.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Ursprüngliche Plattform, Beginn und belegbare Entwicklung historisch sichern."
+      "sourceRefs": [
+        {
+          "sourceId": "S069",
+          "note": "Sachbeleg im Umfang der Begründung und dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S070",
+          "note": "Erfolgloser Abrufversuch – kein Sachbeleg; tatsächlich gelesene Ersatzgrundlage S069."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0068",
@@ -3169,18 +3251,23 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Q habe Trumps Wahlsieg vorhergesagt und daraus Vertrauen gewonnen.",
-      "status": "Offen",
+      "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Welcher Wahlsieg gemeint ist, bleibt unklar; die Entstehungszeit der Q-Beiträge ist entscheidend.",
+      "reason": "Die Forschung datiert die ersten Q-Beiträge auf Oktober 2017. Eine Vorhersage des Wahlsiegs 2016 durch diese Beiträge wäre deshalb anachronistisch. Im Gespräch wird das gemeinte Wahljahr jedoch nicht eindeutig genannt; keine automatische Festlegung auf 2016 oder 2024.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S069",
+          "note": "Herkunft seit 2017, kein Nachweis einer zutreffenden Wahlvorhersage."
+        }
+      ],
       "openQuestions": [
-        "Originalstelle und zeitliche Reihenfolge von Beiträgen und Wahl klären."
+        "Welche Wahl und welcher vorab veröffentlichte konkrete Beitrag sind gemeint? Die behauptete Wirkung auf Anhänger gesondert belegen."
       ],
       "occurrences": [
         {
@@ -4764,7 +4851,7 @@
       "description": "Seibt habe bei einem Schülerforschungsprojekt den Flüssigkeitstransport in sehr dünnen Glasröhrchen untersucht.",
       "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Eigenbericht über Versuch und Messgrößen; der allgemeine Regionalpreis belegt nicht die beschriebenen Einzelmessungen.",
+      "reason": "Der Schulbericht bestätigt eine erfolgreiche Arbeit zur Viskosität von Spülmitteln. Kapillarmethode, konkrete Rezeptur und behauptete Einzigartigkeit sind damit noch nicht nachgewiesen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4775,10 +4862,14 @@
         {
           "sourceId": "S002",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S043",
+          "note": "Schulbericht bestätigt das Thema Spülmittelviskosität, nicht die detaillierte Versuchsbeschreibung oder eine exklusive Mischungsregel."
         }
       ],
       "openQuestions": [
-        "Originalprojekt, Messdaten und Vergleichsbedingungen fehlen."
+        "Originale eigene Projektdokumentation oder unabhängige fachliche Grundlage für die Detailbehauptung prüfen; keine Versuchsdurchführung als erfolgt behauptet."
       ],
       "occurrences": [
         {
@@ -4810,7 +4901,7 @@
       "description": "Ein bestimmtes Spülmittel werde bei hälftiger Wasserzugabe dicker und dieser Effekt trete nur bei diesem Produkt und Verhältnis auf.",
       "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Der Schulbericht bestätigt das Thema der Spülmittelviskosität, nicht die behauptete Ausschließlichkeit oder heutige Rezeptur. Produktalter und Messbedingungen sind entscheidend.",
+      "reason": "Der Schulbericht bestätigt eine erfolgreiche Arbeit zur Viskosität von Spülmitteln. Kapillarmethode, konkrete Rezeptur und behauptete Einzigartigkeit sind damit noch nicht nachgewiesen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4820,11 +4911,11 @@
       "sourceRefs": [
         {
           "sourceId": "S043",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten. Schulbericht bestätigt das Thema Spülmittelviskosität, nicht die detaillierte Versuchsbeschreibung oder eine exklusive Mischungsregel."
         }
       ],
       "openQuestions": [
-        "Rezepturjahr, Messdefinition und Vergleichsreihen klären; keine bloße Küchenbeobachtung als universelles Materialgesetz ausgeben."
+        "Originale eigene Projektdokumentation oder unabhängige fachliche Grundlage für die Detailbehauptung prüfen; keine Versuchsdurchführung als erfolgt behauptet."
       ],
       "occurrences": [
         {
@@ -5979,9 +6070,9 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "YouTube habe erst in der Corona-Zeit begonnen, Kanäle oder Videos wegen Inhaltsregeln zu löschen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Die historische Erstmaligkeitsbehauptung ist von einer Verschärfung einzelner Gesundheitsregeln zu trennen. Gegenwartshilfe allein belegt keinen historischen Anfang.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "YouTube beschrieb bereits im April 2018 millionenfache Videoentfernungen im letzten Quartal 2017 sowie Löschungen ganzer Kanäle wegen Richtlinienverstößen. Diese Praxis begann damit nachweislich vor der Corona-Zeit. Daraus folgt keine Bewertung der Rechtmäßigkeit einzelner Entscheidungen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5990,13 +6081,11 @@
       },
       "sourceRefs": [
         {
-          "sourceId": "S016",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "sourceId": "S065",
+          "note": "Sachbeleg im beschriebenen Umfang; keine Bestätigung eines individuellen Bildungs- oder Moderationsvorgangs."
         }
       ],
-      "openQuestions": [
-        "Zeitgenössische Plattformberichte vor 2020 und die gemeinte Regeländerung lesen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0139",
@@ -9393,15 +9482,15 @@
       "chapter": 20,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Eine US-Asylbewilligung verlange ein Loyalitätsbekenntnis gegenüber den USA.",
-      "status": "Abgeschlossen",
-      "verdict": "Irreführend / Kontext fehlt",
-      "reason": "Die gelesene Asylnorm stellt auf Schutzvoraussetzungen und Beweislast ab. Ein Einbürgerungseid darf nicht mit dem Asylantrag gleichgesetzt werden; zusätzliche konkrete Verfahrenspflichten sind gesondert zu prüfen.",
+      "description": "Seibt verbindet eine mögliche Asylbewilligung mit einem künftigen Loyalitätsbekenntnis gegenüber den USA.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Die Textstelle kann einen persönlichen Vorsatz und eine allgemeine Erwartung ausdrücken. Ob zusätzlich eine rechtliche Voraussetzung behauptet wird, ist ohne Originalkontrolle nicht eindeutig. Die gelesene Asylnorm enthält keinen Einbürgerungseid; das allein widerlegt den persönlichen Vorsatz nicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Aktualisierung 18.11.2026: vorläufige Endbewertung zurückgenommen; redaktionelle Auslegungsunsicherheit betrifft die Art des behaupteten Zusammenhangs."
       },
       "sourceRefs": [
         {
@@ -9410,7 +9499,7 @@
         }
       ],
       "openQuestions": [
-        "Möglicherweise nur persönliche Absicht gemeint; Originalkontrolle bleibt für diese Lesart nötig."
+        "Persönlichen Vorsatz, politische Erwartung und behauptete rechtliche Voraussetzung an der Originalstelle sicher unterscheiden."
       ],
       "occurrences": [
         {

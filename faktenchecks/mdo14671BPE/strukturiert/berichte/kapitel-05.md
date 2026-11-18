@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ruprecht Polenz habe eine Auszeichnung für seine öffentliche Kommunikation erhalten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,7 +29,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Art, Zeitpunkt und offizielle Begründung der Auszeichnung sind noch nicht geprüft.
+Das zeitnahe KAS-Interview von Juni 2021 nennt eine Auszeichnung mit dem Goldenen Blogger im Vorjahr. Gestützt ist damit der Preis 2020, nicht eine objektive Anerkennung jeder politischen Aussage.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -39,11 +39,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Goldene Blogger 2019 – versuchte Veranstalteradresse](https://diegoldenenblogger.de/2020/03/09/das-sind-die-goldenen-blogger-2019/) · Vermutete historische Veranstalteradresse; Abrufversuch 18.11.2026.
+  Quellenzugriff am 2026-11-18. Erfolgloser Abrufversuch – kein Sachbeleg. Die versuchte Adresse war nicht zugänglich; eine funktionierende Originaladresse und eine tatsächlich lesbare Ersatzquelle werden gesondert gesucht. Tatsächlich gelesene Ersatzquelle: KAS-Interview vom Juni 2021, S068. Erfolgloser Abrufversuch – kein Sachbeleg; kein Preisnachweis aus dieser Adresse.
+
+- [Interview mit Ruprecht Polenz über die Debattenkultur in den Sozialen Medien](https://www.kas.de/documents/252038/11055681/Interview%2Bmit%2BRuprecht%2BPolenz%2B%C3%BCber%2Bdie%2BDebattenkultur%2Bin%2Bden%2BSozialen%2BMedien.pdf/33541793-a5c9-eddc-bd12-5afab20d21d2) · Konrad-Adenauer-Stiftung; Monitor Medienpolitik, Juni 2021.
+  Quellenzugriff am 2026-11-18. Einleitung und Interviewbeginn mit Preisangabe gelesen. Zeitnahe Interviewquelle zur Auszeichnung 2020, keine unabhängige Bewertung der Qualität seiner Kommunikation. Sachbeleg im Umfang der Begründung und dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Auszeichnung und Verleihungsbegründung aus amtlicher Quelle kontrollieren.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0039
 
@@ -395,7 +399,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine Lungenembolie könne plötzlich eintreten, ohne zuvor eindeutig erkannt worden zu sein.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -414,7 +418,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der akute Verlauf ist von einem angeblichen vollständigen Fehlen von Vorzeichen oder Risiken zu unterscheiden.
+NHLBI beschreibt, dass eine venöse Thromboembolie bis zum Eintritt schwerer Komplikationen ohne erkennbare Symptome bleiben kann. Ein plötzlicher Verlauf ist medizinisch möglich und für sich allein weder Beweis noch Widerlegung einer Fremdeinwirkung im individuellen Todesfall.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -424,12 +428,12 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-- [Venous Thromboembolism: Causes and Risk Factors](https://www.nhlbi.nih.gov/health/venous-thromboembolism/causes) · NHLBI/NIH; aktualisiert 19.09.2022.
-  Quellenzugriff am 2026-11-17. Erklärung zu Thrombose, Lungenembolie und familiären/genetischen Risiken gelesen; kein Einzelfallgutachten. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+- [Venous Thromboembolism: Symptoms](https://www.nhlbi.nih.gov/health/venous-thromboembolism/symptoms) · NHLBI/NIH; Stand 19.09.2022.
+  Quellenzugriff am 2026-11-18. Symptomdarstellung einschließlich möglicher fehlender Beschwerden bis zu schweren Komplikationen gelesen. Allgemeiner medizinischer Kontext, keine Patientenakte oder individuelle Todesursachenbegutachtung. Allgemeiner Verlauf; bestätigt keine konkrete Diagnose oder Fremdeinwirkung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Symptom- und Verlaufsquellen lesen; den konkreten Todesfall nicht aus allgemeinen Risiken rekonstruieren.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0048
 

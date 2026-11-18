@@ -175,7 +175,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die QAnon-Erzählung beruhe auf anonymen Internetbeiträgen eines vermeintlich mit Trump verbundenen Insiders.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -194,7 +194,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Als Darstellung einer Erzählung erfasst, nicht als Bestätigung des behaupteten Insiders. Entstehungsbelege und Datierung noch nicht gelesen.
+Die Forschungsarbeit beschreibt anonyme Beiträge auf 4chan ab Oktober 2017 sowie den darin behaupteten Insiderstatus und die Erzählung eines von Trump geführten Kampfes. Damit ist die Herkunft der Erzählung gestützt, nicht die Wahrheit ihres Insideranspruchs.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -204,11 +204,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information](https://arxiv.org/html/2101.08750) · Antonis Papasavva und Mitautoren; ICWSM 2022, arXiv-Version 3 vom 29.04.2022.
+  Quellenzugriff am 2026-11-18. Abstract, Einleitung, Methodenüberblick und Hintergrundabschnitt zur Herkunft seit Oktober 2017 gelesen. Originalforschung mit Untersuchung archivierter Beiträge; historische Hintergrundangaben teils aus zitierten Vorarbeiten. Nicht als Nachweis einer tatsächlichen Insideridentität verwendet. Sachbeleg im Umfang der Begründung und dokumentierten Zugriffsgrundlage.
+
+- [H.Res.1154 – erfolgloser Zugriff auf die angenommene Fassung](https://www.congress.gov/116/bills/hres1154/BILLS-116hres1154eh.pdf) · U.S. House of Representatives; Resolution 2020, Abrufversuch 18.11.2026.
+  Quellenzugriff am 2026-11-18. Erfolgloser Abrufversuch – kein Sachbeleg: Recherchewerkzeug meldete gesperrte Adresse. Tatsächlich gelesene Ersatzgrundlage zur Herkunft von QAnon: Papasavva und Mitautoren, S069. Keine Gleichsetzung von parlamentarischer Bewertung und Sachbeweis. Erfolgloser Abrufversuch – kein Sachbeleg; tatsächlich gelesene Ersatzgrundlage S069.
 
 ### Offene Fragen und Unsicherheiten
 
-- Ursprüngliche Plattform, Beginn und belegbare Entwicklung historisch sichern.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0059
 
@@ -216,7 +220,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Q habe Trumps Wahlsieg vorhergesagt und daraus Vertrauen gewonnen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -235,7 +239,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Welcher Wahlsieg gemeint ist, bleibt unklar; die Entstehungszeit der Q-Beiträge ist entscheidend.
+Die Forschung datiert die ersten Q-Beiträge auf Oktober 2017. Eine Vorhersage des Wahlsiegs 2016 durch diese Beiträge wäre deshalb anachronistisch. Im Gespräch wird das gemeinte Wahljahr jedoch nicht eindeutig genannt; keine automatische Festlegung auf 2016 oder 2024.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -245,11 +249,12 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information](https://arxiv.org/html/2101.08750) · Antonis Papasavva und Mitautoren; ICWSM 2022, arXiv-Version 3 vom 29.04.2022.
+  Quellenzugriff am 2026-11-18. Abstract, Einleitung, Methodenüberblick und Hintergrundabschnitt zur Herkunft seit Oktober 2017 gelesen. Originalforschung mit Untersuchung archivierter Beiträge; historische Hintergrundangaben teils aus zitierten Vorarbeiten. Nicht als Nachweis einer tatsächlichen Insideridentität verwendet. Herkunft seit 2017, kein Nachweis einer zutreffenden Wahlvorhersage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Originalstelle und zeitliche Reihenfolge von Beiträgen und Wahl klären.
+- Welche Wahl und welcher vorab veröffentlichte konkrete Beitrag sind gemeint? Die behauptete Wirkung auf Anhänger gesondert belegen.
 
 ## mdo14671BPE-A0060
 

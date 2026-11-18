@@ -449,7 +449,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Cambridge wird der Ivy League zugerechnet.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -468,7 +468,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Im Satz ist unklar, ob eine wörtliche Gruppenzugehörigkeit gemeint oder der Begriff umgangssprachlich für Eliteuniversitäten gebraucht wird. Ohne diese Klärung kein Urteil über die persönliche Bewerbung.
+Die Ivy League nennt acht US-Hochschulen als Mitglieder. Die britische Universität Cambridge gehört nicht dazu. Diese geografisch-institutionelle Verwechslung sagt nichts darüber aus, ob das berichtete Bewerbungsgespräch stattgefunden hat.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -478,11 +478,12 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [About the Ivy League](https://ivyleague.com/sports/2017/8/13/HISTORY_0813173057.aspx) · Ivy League; offizielle Darstellung, Abrufstand 18.11.2026.
+  Quellenzugriff am 2026-11-18. Offizielle vollständige Liste der acht Mitgliedshochschulen gelesen. Cambridge ist kein Mitglied; kein Beleg zu Seibts Bewerbung. Sachbeleg im Umfang der Begründung und dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Originalstelle kontrollieren und institutionelle Zuordnung gesondert belegen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0017
 
@@ -572,7 +573,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** In Deutschland beginne die Schule üblicherweise mit sechs Jahren.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -591,7 +592,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Grobe Regelbeschreibung; Landesrecht, Stichtage und tatsächliche Einschulungsstatistik sind noch zu prüfen.
+Die KMK nennt als Regelfall den Beginn der Schulpflicht im Jahr des sechsten Geburtstags. Landesrechtliche Stichtage und vorzeitige oder spätere Einschulung bleiben möglich.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -601,11 +602,12 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Schülerinnen und Schüler: Schulpflicht](https://www.kmk.org/bildungsministerkonferenz/vertiefende-bildungsinhalte/allgemeinbildende-schulen/schuelerinnen-und-schueler.html) · Kultusministerkonferenz; undatierte Informationsseite, Abrufstand 18.11.2026.
+  Quellenzugriff am 2026-11-18. Abschnitt zur allgemeinen Schulpflicht gelesen. Allgemeiner Regelbeginn im Jahr des sechsten Geburtstags; keine individuelle Einschulungsakte Seibts. Sachbeleg im beschriebenen Umfang; keine Bestätigung eines individuellen Bildungs- oder Moderationsvorgangs.
 
 ### Offene Fragen und Unsicherheiten
 
-- NRW-Regelung und statistische Altersverteilung unterscheiden.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0020
 

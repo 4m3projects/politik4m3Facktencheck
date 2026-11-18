@@ -15,40 +15,40 @@
     "referenceOccurrences":  4,
     "unresolvedRoleOccurrences":  1,
     "statusCounts":  {
-                         "Offen":  128,
+                         "Offen":  123,
                          "In Bearbeitung":  42,
-                         "Abgeschlossen":  76
+                         "Abgeschlossen":  81
                      },
     "kindCounts":  {
                        "Tatsachenbehauptung":  222,
                        "Meinung":  13,
                        "Prognose":  11
                    },
-    "completedFacts":  52,
-    "openFacts":  128,
+    "completedFacts":  57,
+    "openFacts":  123,
     "inProgressFacts":  42,
-    "percentageDenominator":  52,
+    "percentageDenominator":  57,
     "percentageDenominatorDefinition":  "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
     "categories":  [
                        {
                            "category":  "Belegt",
-                           "completedCount":  17,
-                           "completedFactPercent":  32.7
+                           "completedCount":  21,
+                           "completedFactPercent":  36.8
                        },
                        {
                            "category":  "Teilweise belegt",
                            "completedCount":  10,
-                           "completedFactPercent":  19.2
+                           "completedFactPercent":  17.5
                        },
                        {
                            "category":  "Irreführend / Kontext fehlt",
-                           "completedCount":  15,
-                           "completedFactPercent":  28.8
+                           "completedCount":  14,
+                           "completedFactPercent":  24.6
                        },
                        {
                            "category":  "Widerlegt",
-                           "completedCount":  10,
-                           "completedFactPercent":  19.2
+                           "completedCount":  12,
+                           "completedFactPercent":  21.1
                        },
                        {
                            "category":  "Nicht ausreichend belegbar",
