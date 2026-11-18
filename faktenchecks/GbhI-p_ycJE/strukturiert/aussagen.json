@@ -11,7 +11,7 @@
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
     "researchNote": "Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:02–00:17:10). Wiedergaben des Originalgesprächs wurden mit dessen ebenfalls vollständig gelesenen Untertiteln und Metadaten abgeglichen. Die im Video genannten Gesetzestexte, Drucksachen und Presseberichte wurden am 18.11.2026 selbst geöffnet und gelesen; nur der Besondere Teil der Begründung zu BT-Drucksache 20/9049 war nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.",
-    "coverageNote": "Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext."
+    "coverageNote": "Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext. Die Urteile der Kanalfigur über Sinan sind wegen ihres prüfbaren Kerns als Tatsachenbehauptungen bewertet, nicht als Meinung."
   },
   "legacyPoints": [],
   "sources": [
@@ -1429,18 +1429,31 @@
       "videoId": "GbhI-p_ycJE",
       "chapter": 2,
       "legacyId": null,
-      "kind": "Meinung",
+      "kind": "Tatsachenbehauptung",
       "description": "Beim Gedankenspiel zur Sauna liege Sinan nur teilweise richtig: Der Spaß komme zunächst durch, öffne aber nicht die Frauensauna, und bloßes Falschansprechen koste nach diesem Gesetz nichts.",
       "status": "Abgeschlossen",
-      "verdict": "Meinung / Prognose",
-      "reason": "Bewertung der Kanalfigur auf Grundlage der zuvor genannten Rechtsbehauptungen; diese sind gesondert erfasst und noch offen.",
+      "verdict": "Teilweise belegt",
+      "reason": "Die drei Begründungen der Kanalfigur sind geprüft: Dass bloßes Falschansprechen nach dem SBGG folgenlos bleibt, ist belegt (A0026). Dass eine nur zum Spaß abgegebene Erklärung zunächst wirksam wird, ist teilweise belegt (A0027), ebenso, dass der Eintrag allein die Frauensauna nicht öffnet (A0023: Hausrecht bleibt unberührt). Das Gesamturteil „teilweise richtig“ über Sinans Gedankenspiel passt zu unserer Prüfung des Originals: Seine Aussagen zu Strafen für Falschansprechen und zum Saunazugang sind irreführend (bPXMY7Reeek-A0076, -A0078). Weil zwei der drei Begründungen nur teilweise belegt sind, insgesamt teilweise belegt.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Korrektur durch Claude am 18.11.2026: zuvor als Meinung eingeordnet; die Bewertung der Kanalfigur enthält einen prüfbaren Tatsachenkern und wird nun am Gesetz, an den Quellen und an unserer Prüfung des Originals bewertet."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
+      ],
       "openQuestions": [],
       "occurrences": [
         {
@@ -1989,18 +2002,35 @@
       "videoId": "GbhI-p_ycJE",
       "chapter": 3,
       "legacyId": null,
-      "kind": "Meinung",
+      "kind": "Tatsachenbehauptung",
       "description": "Sinan habe ein Problem erkannt, das auch die Bundesregierung sehe; überzogen sei nur seine Annahme, der alte Name dürfe in den Ämtern nicht gespeichert werden.",
       "status": "Abgeschlossen",
-      "verdict": "Meinung / Prognose",
-      "reason": "Bewertung der Kanalfigur auf Grundlage der zuvor genannten, noch offenen Rechtsbehauptungen.",
+      "verdict": "Teilweise belegt",
+      "reason": "Richtig ist, dass auch die Bundesregierung ein Auffindbarkeitsproblem sah und eine Melderegelung plante (A0031 belegt, A0033 teilweise belegt), und dass Sinans Annahme, frühere Namen dürften in Ämtern nicht gespeichert werden, nicht zutrifft (A0035; § 13 Abs. 3 SBGG). „Überzogen“ ist dafür zu milde: Nach dem Gesetzestext ist diese Annahme widerlegt (bPXMY7Reeek-A0083). Zudem stützt Sinan das Problem auf anonyme, nicht überprüfbare Fälle (bPXMY7Reeek-A0081, -A0084).",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Korrektur durch Claude am 18.11.2026: zuvor als Meinung eingeordnet; die Bewertung der Kanalfigur enthält einen prüfbaren Tatsachenkern und wird nun am Gesetz, an den Quellen und an unserer Prüfung des Originals bewertet."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S007",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
+      ],
       "openQuestions": [],
       "occurrences": [
         {
@@ -2641,18 +2671,31 @@
       "videoId": "GbhI-p_ycJE",
       "chapter": 4,
       "legacyId": null,
-      "kind": "Meinung",
+      "kind": "Tatsachenbehauptung",
       "description": "Druck auf Schiffmann habe es von Anfang an aus der Öffentlichkeit gegeben, vom Staat erst spät; ob die Kritik ihn weiter weggetrieben habe, lasse sich nicht messen; Sinans Erinnerung an Schiffmanns Anfangsphase treffe zu.",
       "status": "Abgeschlossen",
-      "verdict": "Meinung / Prognose",
-      "reason": "Zusammenfassende Bewertung der Kanalfigur auf Grundlage der noch offenen Einzelbehauptungen. Die ausdrückliche Grenze bei der Kausalfrage entspricht der Einordnung bPXMY7Reeek-A0126.",
+      "verdict": "Teilweise belegt",
+      "reason": "Druck aus der Öffentlichkeit von Anfang an ist belegt (A0046), ebenso, dass Kammer und Behörden erst spät und begrenzt tätig wurden (A0047, A0048; Ermittlungen erst ab Herbst 2020, A0052 teilweise belegt). Dass sich die Wirkung der Kritik nicht messen lässt, entspricht unserer Einordnung von bPXMY7Reeek-A0126 als nicht überprüfbar. Sinans Erinnerung an Schiffmanns Anfangsphase ist nach unserer Prüfung aber nur teilweise belegt (bPXMY7Reeek-A0123), nicht uneingeschränkt zutreffend.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Korrektur durch Claude am 18.11.2026: zuvor als Meinung eingeordnet; die Bewertung der Kanalfigur enthält einen prüfbaren Tatsachenkern und wird nun am Gesetz, an den Quellen und an unserer Prüfung des Originals bewertet."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
+      ],
       "openQuestions": [],
       "occurrences": [
         {
@@ -2697,18 +2740,27 @@
       "videoId": "GbhI-p_ycJE",
       "chapter": 5,
       "legacyId": null,
-      "kind": "Meinung",
+      "kind": "Tatsachenbehauptung",
       "description": "Eindeutige Falschaussagen habe es im ganzen Gespräch kaum gegeben.",
       "status": "Abgeschlossen",
-      "verdict": "Meinung / Prognose",
-      "reason": "Zusammenfassende Bewertung ohne vollständige veröffentlichte Prüfliste; als Wertung eingeordnet. Der Faktencheck des Originals (bPXMY7Reeek) ist noch nicht recherchiert und kann sie derzeit weder stützen noch widerlegen.",
+      "verdict": "Teilweise belegt",
+      "reason": "Unsere vollständige Prüfung des Originals bewertet 50 Tatsachenbehauptungen; 4 davon sind widerlegt, 3 irreführend. Gemessen an der Länge des Gesprächs sind eindeutige Falschaussagen also selten, die Größenordnung „kaum“ ist vertretbar. Es gibt sie aber, darunter zwei plausibel Sinan zugeordnete: das angebliche Speicherverbot für frühere Namen (bPXMY7Reeek-A0083, widerlegt durch § 13 Abs. 3 SBGG) und die Aussage, die Maskenbeschaffung werde gar nicht aufgearbeitet (bPXMY7Reeek-A0151). Die Kanalfigur zählt selbst keine davon als Falschaussage (siehe A0057).",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Korrektur durch Claude am 18.11.2026: zuvor als Meinung eingeordnet; die Bewertung der Kanalfigur enthält einen prüfbaren Tatsachenkern und wird nun am Gesetz, an den Quellen und an unserer Prüfung des Originals bewertet."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
+      ],
       "openQuestions": [],
       "occurrences": [
         {
@@ -3188,18 +3240,27 @@
       "videoId": "GbhI-p_ycJE",
       "chapter": 5,
       "legacyId": null,
-      "kind": "Meinung",
+      "kind": "Tatsachenbehauptung",
       "description": "Das Gespräch sei gut: Sinan räume Unsicherheiten ein, verbreite keine unbelegten Behauptungen, werte ganze Gruppen kaum ab, diskutiere beim Selbstbestimmungsgesetz hart, aber zugewandt, und liege häufiger richtig als von der Figur erwartet.",
       "status": "Abgeschlossen",
-      "verdict": "Meinung / Prognose",
-      "reason": "Gesamturteil der Kanalfigur; Meinung. Einige Teile lassen sich am Original nachvollziehen (z. B. Sinans Eingeständnis, kein Biologe zu sein), das Urteil insgesamt bleibt Wertung. Interessenkonflikt: Sinan betreibt den prüfenden Kanal.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die Wertung „gutes Gespräch“ bleibt Meinung, sie stützt sich aber auf prüfbare Tatsachen. Zutreffend ist, dass Sinan mehrfach Unsicherheiten einräumt, etwa kein Biologe zu sein. Die Aussage, er verbreite keine unbelegten Behauptungen, hält unserer Prüfung nicht stand: Mehrere seiner Angaben beruhen auf anonymen oder nicht genannten Quellen (bPXMY7Reeek-A0081, -A0084, -A0089), zwei sind widerlegt (bPXMY7Reeek-A0083, -A0151), zwei irreführend (bPXMY7Reeek-A0076, -A0078). Ob er Gruppen „kaum“ abwertet, ist ohne veröffentlichte Kriterien nicht überprüfbar (A0063). Interessenkonflikt: Sinan betreibt den prüfenden Kanal.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Korrektur durch Claude am 18.11.2026: zuvor als Meinung eingeordnet; die Bewertung der Kanalfigur enthält einen prüfbaren Tatsachenkern und wird nun am Gesetz, an den Quellen und an unserer Prüfung des Originals bewertet."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
+      ],
       "openQuestions": [],
       "occurrences": [
         {

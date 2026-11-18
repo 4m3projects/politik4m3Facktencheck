@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext.",
+  "coverageNote": "Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext. Die Urteile der Kanalfigur über Sinan sind wegen ihres prüfbaren Kerns als Tatsachenbehauptungen bewertet, nicht als Meinung.",
   "videoId": "GbhI-p_ycJE",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
@@ -20,30 +20,30 @@
     "Abgeschlossen": 60
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 61,
-    "Meinung": 5,
+    "Tatsachenbehauptung": 66,
+    "Meinung": 0,
     "Prognose": 0
   },
-  "completedFacts": 55,
+  "completedFacts": 60,
   "openFacts": 6,
   "inProgressFacts": 0,
-  "percentageDenominator": 55,
+  "percentageDenominator": 60,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
       "completedCount": 45,
-      "completedFactPercent": 81.8
+      "completedFactPercent": 75.0
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 8,
-      "completedFactPercent": 14.5
+      "completedCount": 12,
+      "completedFactPercent": 20.0
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 1,
-      "completedFactPercent": 1.8
+      "completedCount": 2,
+      "completedFactPercent": 3.3
     },
     {
       "category": "Widerlegt",
@@ -53,11 +53,11 @@
     {
       "category": "Nicht ausreichend belegbar",
       "completedCount": 1,
-      "completedFactPercent": 1.8
+      "completedFactPercent": 1.7
     },
     {
       "category": "Meinung / Prognose",
-      "completedCount": 5,
+      "completedCount": 0,
       "completedFactPercent": null
     }
   ],
@@ -147,11 +147,11 @@
         ]
       }
     ],
-    "eligibleFacts": 61,
+    "eligibleFacts": 66,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 61,
-    "factsWithUncertainAttribution": 61,
-    "factsWithUncertainOwnRole": 61,
+    "factsWithoutReliablePerson": 66,
+    "factsWithUncertainAttribution": 66,
+    "factsWithUncertainOwnRole": 66,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
       "Plausibel": 72,
