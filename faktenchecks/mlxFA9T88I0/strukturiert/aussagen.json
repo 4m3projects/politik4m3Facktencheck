@@ -834,6 +834,14 @@
       "details": "William Grant & Sons · eigener öffentlich zugänglicher Unternehmensbeitrag; Kalenderdatum im Werkzeug nicht verlässlich ausgewiesen. Retrospektive Herstellerangabe, keine damalige Besucherstatistik.",
       "accessedOn": "2026-11-17",
       "accessBasis": "Relevante Textstellen am 17.11.2026 im Recherchewerkzeug geöffnet und gelesen; keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S062",
+      "title": "The History of Talisker",
+      "url": "https://www.malts.com/en-us/distilleries/talisker/history-of-talisker/",
+      "details": "Talisker / Diageo (Markenseite malts.com) · undatierte Zeitleiste; Einträge 1960 (Brand zerstört das Brennhaus) und 1962 (Ersatz der verlorenen Brennblasen). Betreiberhistorie, keine Brandursachenermittlung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Zeitleiste am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Ein ausdrückliches Datum der Wiederaufnahme der Produktion nennt die Seite nicht."
     }
   ],
   "claims": [
@@ -9140,7 +9148,7 @@
       "description": "Vor der geschilderten Verschärfung sei keine Brennerei abgebrannt.",
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
-      "reason": "Der räumliche und zeitliche Bezug der absoluten Form bleibt unklar. Als allgemeine historische Entwarnung ist sie nicht haltbar: Die Betreiberunterlagen von Talisker nennen die Zerstörung des Brennhauses durch Feuer 1960 und die Wiedereröffnung 1962. Das ist kein Beleg für einen Kamerafunken und auch keine vollständige Schadensstatistik.",
+      "reason": "Der räumliche und zeitliche Bezug der absoluten Form bleibt unklar. Als allgemeine historische Entwarnung ist sie nicht haltbar: Die Betreiberunterlagen von Talisker nennen die Zerstörung des Brennhauses durch Feuer 1960; laut Betreiberzeitleiste wurden die verlorenen Brennblasen 1962 ersetzt. Das ist kein Beleg für einen Kamerafunken und auch keine vollständige Schadensstatistik.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -9151,6 +9159,10 @@
         {
           "sourceId": "S059",
           "note": "Betreiberhistorie, Einträge 1960/1962; zerstörtes Brennhaus, nicht ungeprüft Totalverlust der Gesamtanlage."
+        },
+        {
+          "sourceId": "S062",
+          "note": "Unabhängig von S059 gelesene Betreiberzeitleiste: Brand 1960 zerstörte das Brennhaus; 1962 Ersatz der Brennblasen. Kein Totalverlust der Gesamtanlage belegt."
         }
       ],
       "openQuestions": [
