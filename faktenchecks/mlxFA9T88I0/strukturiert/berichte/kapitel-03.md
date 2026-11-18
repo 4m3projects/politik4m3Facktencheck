@@ -3588,6 +3588,7 @@ Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile n
 
 - [Talisker Distillery: Erweiterungsplanung – historische Konsultationsunterlagen](https://docs.planning.org.uk/20250814/200/SXFFXNIHJ9L00/3uvkzwj3r4ebnl0j.pdf) · Diageo / Talisker · Planungsunterlagen mit Konsultationsmaterial 2024/25; Abschnitt History & Brand, Zeitleiste 1960/1962. Betreiberhistorie, keine Brandursachenermittlung.
   Quellenzugriff am 2026-11-17. Einschlägigen PDF-Text der Betreiber-Konsultation gelesen: Brand zerstörte das Brennhaus 1960, Wiedereröffnung 1962. Keine visuelle Prüfung, keine Aussage über vollständige Zerstörung der gesamten Anlage oder eine Kamera als Brandursache. Betreiberhistorie, Einträge 1960/1962; zerstörtes Brennhaus, nicht ungeprüft Totalverlust der Gesamtanlage.
+
 - [The History of Talisker](https://www.malts.com/en-us/distilleries/talisker/history-of-talisker/) · Talisker / Diageo (Markenseite malts.com) · undatierte Zeitleiste; Einträge 1960 (Brand zerstört das Brennhaus) und 1962 (Ersatz der verlorenen Brennblasen). Betreiberhistorie, keine Brandursachenermittlung.
   Quellenzugriff am 2026-11-18. Zeitleiste am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Ein ausdrückliches Datum der Wiederaufnahme der Produktion nennt die Seite nicht. Unabhängig von S059 gelesene Betreiberzeitleiste: Brand 1960 zerstörte das Brennhaus; 1962 Ersatz der Brennblasen. Kein Totalverlust der Gesamtanlage belegt.
 
