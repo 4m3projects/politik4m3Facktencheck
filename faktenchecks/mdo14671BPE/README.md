@@ -1,8 +1,15 @@
 # Naomi Seibt bei Ben: unabhängiger Faktencheck
 
-**Stand: 18.11.2026 · In Bearbeitung · Teilprüfung**
+**Status: In Bearbeitung – Teilprüfung**
 
-Original: [YouTube, Video-ID mdo14671BPE](https://www.youtube.com/watch?v=mdo14671BPE). Kanal: {ungeskriptet} by Ben. Beim Abruf angezeigter Titel: Ich kenne Merkels größtes Geheimnis (Naomi Seibt). Veröffentlichung laut Metadaten: 16.11.2026. Laufzeit: 02:48:38. Aufnahmezeitpunkt: ungeklärt; Titelvarianten sind möglich.
+Stand: 18.11.2026.
+
+- Original: [YouTube, Video-ID mdo14671BPE](https://www.youtube.com/watch?v=mdo14671BPE)
+- Kanal: {ungeskriptet} by Ben
+- Beim Abruf angezeigter Titel: Ich kenne Merkels größtes Geheimnis (Naomi Seibt)
+- Veröffentlichung laut erfassten Metadaten: 16.11.2026
+- Laufzeit: 02:48:38
+- Aufnahmezeitpunkt: ungeklärt; Titelvarianten sind möglich.
 
 Die automatisch erzeugten deutschen Originaluntertitel wurden bis zum Ende gelesen. Das ist keine Hör- oder Sichtkontrolle. Die Textgrundlage reicht von 00:00:00 bis 02:48:34. Von 02:10:47,880 bis 02:12:43,970 fehlt Text; die letzten vier Sekunden sind ebenfalls nicht inhaltlich gesichert. Eine öffentliche Podcast-Transkription enthält Anschlussmaterial mit anderer Zeitachse; sie ersetzt keine geprüfte Synchronisierung.
 
@@ -16,4 +23,4 @@ Namentliche Sprecherzuordnungen sind ausschließlich **plausibel**. Null bestät
 - [Generierte Prüfungen und Statistik](strukturiert/README.md)
 - [Zentrale Daten](strukturiert/aussagen.json)
 
-Nur eigene Paraphrasen und Begründungen werden veröffentlicht. Fremdquellen bleiben extern. Eine Speicherung oder bestandene technische Prüfung bedeutet keine vollständige Sachverifikation. Arbeit zu [Issue #3](https://github.com/4m3projects/politik4m3Facktencheck/issues/3); kein Merge ohne Nutzerfreigabe.
+Nur eigene Paraphrasen und Begründungen werden veröffentlicht. Fremdquellen bleiben extern. Eine Speicherung oder bestandene technische Prüfung bedeutet keine vollständige Sachverifikation. Arbeit zu [Issue #3](https://github.com/4m3projects/politik4m3Facktencheck/issues/3); Fertigstellung und Veröffentlichung sind seit dem 18.11.2026 beauftragt; die sachlichen Abschlusskriterien bleiben offen.
