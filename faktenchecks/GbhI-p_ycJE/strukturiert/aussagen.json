@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:02–00:17:10). Wiedergaben des Originalgesprächs wurden mit dessen ebenfalls vollständig gelesenen Untertiteln und Metadaten abgeglichen und nur insoweit bewertet. Die im Video genannten Rechts- und Pressequellen wurden noch nicht geöffnet; die zugehörigen Aussagen bleiben offen. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.",
-    "coverageNote": "Teilbestand: Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext."
+    "researchNote": "Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:02–00:17:10). Wiedergaben des Originalgesprächs wurden mit dessen ebenfalls vollständig gelesenen Untertiteln und Metadaten abgeglichen. Die im Video genannten Gesetzestexte, Drucksachen und Presseberichte wurden am 18.11.2026 selbst geöffnet und gelesen; nur der Besondere Teil der Begründung zu BT-Drucksache 20/9049 war nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.",
+    "coverageNote": "Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext."
   },
   "legacyPoints": [],
   "sources": [
@@ -30,6 +30,150 @@
       "details": "Kanal IT Camper (Talks und Meinungen); laut Metadaten veröffentlicht am 23.08.2025, Laufzeit 11474 Sekunden; beim Abruf am 18.11.2026 wies der Kanal 6060 Abonnenten aus.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel vollständig gelesen; Metadaten (Datum, Laufzeit, Abonnentenzahl) über das Importskript abgerufen. Keine Hör-/Sichtkontrolle."
+    },
+    {
+      "id": "S003",
+      "title": "Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)",
+      "url": "https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html",
+      "details": "Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten)."
+    },
+    {
+      "id": "S004",
+      "title": "Entwurf eines Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag, BT-Drucksache 20/9049",
+      "url": "https://dserver.bundestag.de/btd/20/090/2009049.pdf",
+      "details": "Deutscher Bundestag, Gesetzentwurf der Bundesregierung vom 01.11.2023.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Gesetzestext des Entwurfs und Allgemeiner Teil der Begründung bis etwa S. 27 gelesen (u. a. S. 2, 12, 20, 24–27). Der Besondere Teil (Einzelbegründung) war im abgerufenen Text nicht enthalten und wurde nicht gelesen."
+    },
+    {
+      "id": "S005",
+      "title": "Fall Liebich: Transfrau in Thüringen im Frauenvollzug",
+      "url": "https://www.berliner-zeitung.de/article/fall-liebich-transfrau-thueringen-frauenvollzug-10217635",
+      "details": "Berliner Zeitung (Übernahme der Ostdeutschen Allgemeinen), 20.07.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Artikel gelesen."
+    },
+    {
+      "id": "S006",
+      "title": "„Marla-Svenja Liebich“ und das Selbstbestimmungsgesetz: Der Fehler liegt schon beim Standesamt",
+      "url": "https://www.lto.de/recht/hintergruende/h/liebich-selbstbestimmungsgesetz-sbgg-missbrauch-kontrolle",
+      "details": "Legal Tribune Online, Gastbeitrag, 29.08.2025.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Artikel gelesen."
+    },
+    {
+      "id": "S007",
+      "title": "Antwort der Bundesregierung zur Meldeverordnung nach dem SBGG, BT-Drucksache 21/1340",
+      "url": "https://dserver.bundestag.de/btd/21/013/2101340.pdf",
+      "details": "Deutscher Bundestag, Antwort der Bundesregierung vom 21.08.2025 auf die Kleine Anfrage 21/1165.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Vorbemerkung der Fragesteller und Antworten zu den Fragen 1–9, 22–24 gelesen."
+    },
+    {
+      "id": "S008",
+      "title": "Verordnung zur Umsetzung des SBGG im Meldewesen, BR-Drucksache 419/25",
+      "url": "https://dserver.bundestag.de/brd/2025/0419-25.pdf",
+      "details": "Bundesrat, Drucksache vom 04.09.2025 (Zuleitung durch das Bundeskanzleramt vom 02.09.2025).",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Drucksache gelesen (Rechtsgrundlage § 56 BMG, Zustimmung nach Art. 80 Abs. 2 GG, Inhalt und Begründung)."
+    },
+    {
+      "id": "S009",
+      "title": "Selbstbestimmungsgesetz: Dobrindt plant Zwangsouting per Verordnung",
+      "url": "https://netzpolitik.org/2025/selbstbestimmungsgesetz-dobrindt-plant-zwangsouting-per-verordnung/",
+      "details": "netzpolitik.org, 16.07.2025.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Artikel gelesen."
+    },
+    {
+      "id": "S010",
+      "title": "Beschlussempfehlung und Bericht des Familienausschusses zum SBGG, BT-Drucksache 20/11004",
+      "url": "https://dserver.bundestag.de/btd/20/110/2011004.pdf",
+      "details": "Deutscher Bundestag, Ausschuss für Familie, Senioren, Frauen und Jugend; abschließende Beratung 10.04.2024.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Text bis etwa S. 32 gelesen (Zusammenstellung S. 9–14, Bericht S. 26–31); Rest im Abruf abgeschnitten."
+    },
+    {
+      "id": "S011",
+      "title": "Plenarprotokoll der 1058. Sitzung des Bundesrates",
+      "url": "https://dserver.bundestag.de/brp/1058.pdf",
+      "details": "Bundesrat, Sitzung vom 17.10.2025.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Inhaltsverzeichnis gelesen (TOP 57, Absetzung von der Tagesordnung); Fließtext nur teilweise lesbar."
+    },
+    {
+      "id": "S012",
+      "title": "Verordnung zum Selbstbestimmungsgesetz: Dobrindt unter Druck",
+      "url": "https://netzpolitik.org/2025/verordnung-zum-selbstbestimmungsgesetz-dobrindt-unter-druck/",
+      "details": "netzpolitik.org, 22.10.2025.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Artikel gelesen."
+    },
+    {
+      "id": "S013",
+      "title": "Dobrindt will weiter für Sonderregister kämpfen",
+      "url": "https://www.queer.de/detail.php?article_id=57050",
+      "details": "queer.de, 03.03.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Artikel gelesen; neuere Teaser der Seite nicht gelesen."
+    },
+    {
+      "id": "S014",
+      "title": "Reaktanztheorie",
+      "url": "https://www.spektrum.de/lexikon/psychologie/reaktanztheorie/12520",
+      "details": "Spektrum Lexikon der Psychologie, 2000.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Lexikoneintrag gelesen."
+    },
+    {
+      "id": "S015",
+      "title": "Polizei zu Hausdurchsuchung bei „Querdenken“-Arzt Bodo Schiffmann",
+      "url": "https://www.t-online.de/nachrichten/deutschland/id_88827988/polizei-zu-hausdurchsuchung-bei-querdenken-arzt-bodo-schiffmann-.html",
+      "details": "t-online, 27.10.2020.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Artikel gelesen."
+    },
+    {
+      "id": "S016",
+      "title": "Bodo Schiffmann",
+      "url": "https://de.wikipedia.org/wiki/Bodo_Schiffmann",
+      "details": "Wikipedia (deutsch), Fassung zum Abrufzeitpunkt; Sekundärquelle.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Artikel gelesen; nur ergänzend zu Presseberichten verwendet."
+    },
+    {
+      "id": "S017",
+      "title": "„Querdenker“: Warum lässt die Ärztekammer Schwindel-Arzt Schiffmann agieren?",
+      "url": "https://www.t-online.de/nachrichten/deutschland/id_88805272/-querdenker-warum-laesst-die-aerztekammer-schwindel-arzt-schiffmann-agieren-.html",
+      "details": "t-online, Lars Wienand, 26.10.2020, aktualisiert 27.10.2020.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Abschnitte zu Ärztekammer, Approbationsbehörde, Verfahren und Vorgeschichte im Volltext gelesen; Schlussteil nur zusammengefasst erhalten."
+    },
+    {
+      "id": "S018",
+      "title": "Es gibt keine Belege für die Gerüchte, dass Kinder gestorben sind, weil sie Masken trugen",
+      "url": "https://correctiv.org/faktencheck/2020/10/08/es-gibt-keine-belege-fuer-die-geruechte-dass-kinder-gestorben-sind-weil-sie-masken-trugen",
+      "details": "Correctiv, Faktencheck, 08.10.2020.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Faktencheck gelesen."
+    },
+    {
+      "id": "S019",
+      "title": "Falsche Atteste gegen Maskenpflicht? Polizei durchsucht Arztpraxis",
+      "url": "https://www.evangelisch.de/inhalte/177454/28-10-2020/falsche-atteste-gegen-maskenpflicht-polizei-durchsucht-arztpraxis",
+      "details": "evangelisch.de (epd), 28.10.2020.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Meldung gelesen."
+    },
+    {
+      "id": "S020",
+      "title": "Gesellschaft zur wissenschaftlichen Untersuchung von Parawissenschaften",
+      "url": "https://en.wikipedia.org/wiki/Gesellschaft_zur_wissenschaftlichen_Untersuchung_von_Parawissenschaften",
+      "details": "Wikipedia (englisch), Fassung zum Abrufzeitpunkt; Sekundärquelle.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Einleitung und Zielbeschreibung gelesen."
     }
   ],
   "speakers": [
@@ -158,16 +302,17 @@
       "description": "Der Kanal SinansWoche behandle Politik, Gesellschaft und viel Philosophie und habe gut 50.000 Abonnenten.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "reason": "Nicht überprüfbar – Kanalangaben und Abonnentenzahl; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
       },
       "sourceRefs": [],
       "openQuestions": [
-        "Abonnentenzahl des Kanals SinansWoche zum Stand November 2026 feststellen."
+        "Abonnentenzahl des Kanals SinansWoche zum Stand November 2026 feststellen.",
+        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
       ],
       "occurrences": [
         {
@@ -769,19 +914,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Das Selbstbestimmungsgesetz gelte seit November 2024.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das SBGG trat am 01.11.2024 in Kraft; nur die Anmeldung nach § 4 war schon ab 01.08.2024 möglich.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Gesetzestext, https://www.gesetze-im-internet.de/sbgg/ (Inkrafttreten prüfen)."
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0018",
@@ -810,19 +958,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Für eine Änderung des Geschlechtseintrags genüge eine Erklärung beim Standesamt mit der Versicherung, dass der neue Eintrag der eigenen Geschlechtsidentität entspricht; nachgeprüft werde das nicht, ein Gutachten sei nicht mehr nötig.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "§ 2 SBGG verlangt nur die Erklärung beim Standesamt mit der Versicherung, dass der Eintrag der Geschlechtsidentität am besten entspricht und die Folgen bewusst sind. Ein Gutachten oder eine Prüfung sieht das Gesetz nicht vor.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: § 2 SBGG, https://www.gesetze-im-internet.de/sbgg/."
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0019",
@@ -895,19 +1046,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Gesetzesbegründung der Bundesregierung nenne als Beispiel eine Änderung allein, um in einer öffentlichen Debatte Aufmerksamkeit zu erlangen; bemerke das Standesamt das nicht, bleibe die Änderung trotzdem voll wirksam, und ablehnen dürfe es nur bei offensichtlichem Missbrauch.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Im gelesenen Teil der Gesetzesbegründung (bis S. 27) fand sich kein solches Beispiel; der Besondere Teil der Begründung war nicht abrufbar. Das SBGG selbst enthält keine Ablehnungsbefugnis; Missbrauchsprüfung bei offensichtlichem Missbrauch erwähnt die Begründung nur im Rechtsvergleich mit der Schweiz.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Gesetzentwurf mit Begründung, Bundestags-Drucksache 20/9049, https://dserver.bundestag.de/btd/20/090/2009049.pdf."
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0021",
@@ -936,19 +1094,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Änderung müsse drei Monate vorher beim Standesamt angemeldet werden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Nach § 4 SBGG muss die Änderung drei Monate vor der Erklärung angemeldet werden.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: § 4 SBGG, https://www.gesetze-im-internet.de/sbgg/."
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0022",
@@ -977,19 +1138,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Wer eine Sauna betreten darf, bestimme ihr Betreiber; das stehe im Selbstbestimmungsgesetz selbst.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "§ 6 Abs. 2 SBGG lässt Vertragsfreiheit und Hausrecht beim Zugang zu Einrichtungen und Räumen ausdrücklich unberührt.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: § 6 SBGG zu Hausrecht und Vertragsfreiheit, https://www.gesetze-im-internet.de/sbgg/."
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0023",
@@ -1018,19 +1182,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Gesetzesbegründung erwähne ausdrücklich die Sauna: Allein unter Berufung auf den Registereintrag könne niemand Zugang zu einer geschlechtsspezifischen Sauna verlangen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Begründung nennt Saunen ausdrücklich: Betreiber dürfen als Hausrechtsinhaber Personen aus Gründen der Intimsphäre den Zutritt verwehren, daran ändert das SBGG nichts. Der Satz, allein unter Berufung auf den Eintrag könne niemand Zugang verlangen, fand sich im gelesenen Teil nicht wörtlich; die Einzelbegründung zu § 6 war nicht abrufbar.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Bundestags-Drucksache 20/9049, Begründung zu § 6, https://dserver.bundestag.de/btd/20/090/2009049.pdf."
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0024",
@@ -1059,19 +1226,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Das Studio dürfe Sinan montags weiterhin abweisen, wenn es einen sachlichen Grund hat, etwa dass die Frauen unter sich sein wollen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Laut Gesetzesbegründung erlaubt § 20 AGG eine unterschiedliche Behandlung bei sachlichem Grund, etwa zum Schutz der Intimsphäre; Saunabetreiber dürfen danach den Zutritt verwehren.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Was erlaubt das Allgemeine Gleichbehandlungsgesetz (§ 20 AGG, sachlicher Grund, Schutz der Intimsphäre)? Das Video nennt hierfür keine eigene Quelle."
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0025",
@@ -1100,19 +1274,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine Geldbuße bis zu 10.000 Euro drohe, wer früheren Namen oder früheres Geschlecht eines Menschen offenbart, um ihm zu schaden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "§ 14 SBGG droht eine Geldbuße bis 10.000 Euro an, wenn jemand frühere Angaben offenbart und die Person dadurch absichtlich schädigt.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: §§ 13 und 14 SBGG, https://www.gesetze-im-internet.de/sbgg/."
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0026",
@@ -1141,19 +1318,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Bloßes falsches Ansprechen sei nach dem Selbstbestimmungsgesetz nicht mit Strafe bedroht; strafbar könne es nur als Beleidigung nach allgemeinem Recht oder beim schädigenden Offenbaren der früheren Angaben vor anderen sein.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das SBGG sanktioniert falsches Ansprechen nicht; bußgeldbewehrt ist nur das schädigende Offenbaren früherer Angaben. Ob eine Anrede als Beleidigung strafbar sein kann, wurde nicht gesondert geprüft (§ 185 StGB nicht gelesen).",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: §§ 13, 14 SBGG; ergänzend § 185 StGB prüfen."
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0027",
@@ -1199,19 +1379,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine nur zum Spaß und ernsthaft klingend erklärte Änderung gehe zunächst durch; fliege der Spaß später auf, könne das Standesamt den Eintrag unter Umständen wieder berichtigen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das SBGG enthält keine Ablehnungs- oder Berichtigungsregel für nicht ernst gemeinte Erklärungen; eine nicht erkannte Erklärung wird also zunächst wirksam. Ob eine spätere Berichtigung nach dem Personenstandsgesetz möglich ist, ist ungeklärt: Im Fall Liebich versucht ein Landkreis genau das, eine Entscheidung steht aus.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Rechtsgrundlage für eine nachträgliche Berichtigung (Personenstandsgesetz, Begründung zum SBGG) prüfen; das Video nennt dafür keine eigene Quelle."
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S006",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0029",
@@ -1340,19 +1531,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Nach einer Änderung müsse man ein Jahr warten, bevor man erneut ändern dürfe.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "§ 5 SBGG sieht eine Sperrfrist von einem Jahr bis zur nächsten Erklärung vor (nicht bei Minderjährigen und Betreuten).",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: § 5 SBGG, https://www.gesetze-im-internet.de/sbgg/."
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0033",
@@ -1381,19 +1575,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Im Juni 2025, zwei Monate vor dem Gespräch, habe das Bundesinnenministerium vorgeschlagen, das frühere Geschlecht im Melderegister zu vermerken und zusammen mit dem früheren Vornamen an andere Behörden zu übermitteln.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Nach den Angaben in der Kleinen Anfrage, denen die Bundesregierung nicht widerspricht, gab das Innenministerium den Entwurf am 11.06.2025 in die Beteiligung; bekannt wurde er im Juli. Er sieht vor, den früheren Geschlechtseintrag zu speichern und zusammen mit früheren Vornamen an andere Stellen zu übermitteln.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Antwort der Bundesregierung, Bundestags-Drucksache 21/1340, https://dserver.bundestag.de/btd/21/013/2101340.pdf, und Verordnung Bundesrats-Drucksache 419/25, https://dserver.bundestag.de/brd/2025/0419-25.pdf."
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S009",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0034",
@@ -1422,19 +1627,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Bundesregierung begründe den Vorschlag damit, dass eine unter altem Namen und Geschlecht gespeicherte Person bei einer Suche nach neuem Namen und Geschlecht in einem Register nicht gefunden werde.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Bundesregierung begründet dies damit, dass es keine Personennummer gebe und eine unter altem Namen und Geschlecht gespeicherte Person bei einer Suche mit neuen Daten nicht gefunden werde.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Bundesrats-Drucksache 419/25 und Bundestags-Drucksache 21/1340."
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0035",
@@ -1463,19 +1675,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Schon im Gesetzentwurf zum Selbstbestimmungsgesetz habe die Regierung vorgesehen, dass das Bundeskriminalamt, die Bundespolizei und weitere Behörden bei jeder Änderung automatisch informiert werden, weil erstmals eine bloße Erklärung genüge.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der Regierungsentwurf sah in § 13 Abs. 5 tatsächlich automatische Mitteilungen an BKA, Bundespolizei, Verfassungsschutz und weitere Behörden nach jeder Änderung vor. Die genannte Begründung (weil erstmals eine bloße Erklärung genüge) fand sich im gelesenen Teil nicht; der Ausschussbericht nennt die Sorge vor Identitätsverschleierung.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Bundestags-Drucksache 20/9049 (Entwurf), https://dserver.bundestag.de/btd/20/090/2009049.pdf."
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S010",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0036",
@@ -1504,19 +1723,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Bundestag habe diese Benachrichtigungsregel vor dem Beschluss des Gesetzes gestrichen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Familienausschuss strich § 13 Abs. 5 des Entwurfs ersatzlos; der Bundestag beschloss das Gesetz in dieser Fassung.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Beschlussempfehlung, Bundestags-Drucksache 20/11004, https://dserver.bundestag.de/btd/20/110/2011004.pdf."
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0037",
@@ -1545,19 +1767,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Verboten sei nicht das Speichern: Behörden dürften die früheren Angaben behalten und weiter nutzen; verboten sei, sie ohne Zustimmung zu offenbaren.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "§ 13 Abs. 1 SBGG verbietet das Offenbaren ohne Zustimmung; Abs. 3 erlaubt die weitere Verarbeitung früherer Angaben in amtlichen Registern ausdrücklich.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: § 13 SBGG und § 3 Bundesmeldegesetz, https://www.gesetze-im-internet.de/bmg/__3.html."
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0038",
@@ -1586,19 +1811,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Für Polizei und Staatsanwaltschaft gelte eine Ausnahme: Sie dürften den früheren Namen erfahren, wenn sie ihn für ihre Aufgaben brauchen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Nach § 13 Abs. 1 Satz 3 SBGG liegt ein Grund zur Offenbarung insbesondere vor, wenn Strafverfolgungs- oder Sicherheitsbehörden die Angaben für ihre Aufgaben brauchen.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Ausnahmen in § 13 SBGG, https://www.gesetze-im-internet.de/sbgg/."
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0039",
@@ -1627,19 +1855,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Für die geplante Melderegelung brauche es kein neues Gesetz, wohl aber die Zustimmung der Länder im Bundesrat.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Es handelt sich um eine Verordnung des Innenministeriums nach § 56 Bundesmeldegesetz, die nach Art. 80 Abs. 2 GG der Zustimmung des Bundesrates bedarf.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Bundesrats-Drucksache 419/25 (Rechtsgrundlage der Verordnung, Zustimmungsbedürftigkeit)."
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0040",
@@ -1668,19 +1899,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Im Oktober 2025 hätte der Bundesrat darüber abstimmen sollen; die Abstimmung sei kurz vorher abgesetzt worden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Bundesrat setzte die Verordnung (TOP 57) in seiner Sitzung am 17.10.2025 kurzfristig von der Tagesordnung ab.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Plenarprotokoll 1058 des Bundesrats, https://dserver.bundestag.de/brp/1058.pdf."
+      "sourceRefs": [
+        {
+          "sourceId": "S011",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0041",
@@ -1709,19 +1947,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Im März 2026 habe das Ministerium noch immer mit den Ländern verhandelt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Laut queer.de vom 03.03.2026 führte das Innenministerium nach eigener Antwort auf eine Kleine Anfrage weiter Gespräche mit den Ländern, um die Zustimmung zu erreichen. Eine amtliche Fassung dieser Antwort wurde nicht gelesen.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: queer.de vom 03.03.2026, https://www.queer.de/detail.php?article_id=57050; möglichst amtliche Bestätigung suchen."
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0042",
@@ -1850,19 +2091,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Reaktanz bedeute, dass jemand, der sich zu etwas gedrängt fühlt, erst recht das Gegenteil tut.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Laut Fachlexikon führt eine wahrgenommene Freiheitseinschränkung dazu, dass die bedrohte Option aufgewertet wird; bei durchsichtiger Beeinflussung ist ein Bumerangeffekt möglich. Das Gegenteil zu tun ist eine mögliche, keine zwangsläufige Folge; die Kurzfassung des Videos lässt diese Bedingung weg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Fachdefinition psychologischer Reaktanz (Brehm) prüfen; die Kurzfassung lässt offen, dass Reaktanz eintreten kann, aber nicht muss."
+      "sourceRefs": [
+        {
+          "sourceId": "S014",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0046",
@@ -1935,19 +2179,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Bodo Schiffmann sei Hals-Nasen-Ohren-Arzt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Schiffmann ist Facharzt für Hals-Nasen-Ohren-Heilkunde.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Berufsangabe in zeitgenössischen Berichten (z. B. t-online, Oktober 2020) prüfen."
+      "sourceRefs": [
+        {
+          "sourceId": "S015",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S016",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0048",
@@ -1976,19 +2227,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Im März 2020 sei Schiffmann einer der ersten Ärzte gewesen, die auf YouTube über Corona sprachen; er habe das Virus für harmlos gehalten und sich beschwert, dass die Regierung keinen Mundschutz an alle Haushalte verteilte.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Laut t-online war Schiffmann im März 2020 einer der ersten Ärzte, die auf YouTube über Corona sprachen, vermittelte die Harmlosigkeit des Virus und kritisierte zunächst, dass die Regierung keine Masken an alle Haushalte verteilte.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: t-online vom 27.10.2020, https://www.t-online.de/nachrichten/deutschland/id_88805272/-querdenker-warum-laesst-die-aerztekammer-schwindel-arzt-schiffmann-agieren-.html."
+      "sourceRefs": [
+        {
+          "sourceId": "S017",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0049",
@@ -2017,20 +2271,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Beschwerden über Schiffmann habe es seit seinen ersten Videos gegeben; von wem der Druck kam, sage Sinan nicht.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Laut t-online gingen seit Schiffmanns ersten Videos Beschwerden ein. Dass Sinan die Herkunft des Drucks nicht benennt, entspricht dem Abgleich mit den Untertiteln des Originals.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: t-online vom 27.10.2020 (Beschwerden bei der Ärztekammer).",
-        "Dass Sinan die Herkunft des Drucks nicht nennt, deckt sich mit den Untertiteln des Originals (etwa 02:18:27–02:18:57)."
+      "sourceRefs": [
+        {
+          "sourceId": "S017",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit den Untertiteln des Originals; bestätigt nur die Wiedergabe."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0050",
@@ -2059,19 +2319,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Von Behörden sei lange wenig gekommen: Die zuständige Ärztekammer habe gegen seine Videos nichts unternehmen können und Beschwerdeführern sinngemäß mitgeteilt, auch unvernünftige Äußerungen fielen unter die Meinungsfreiheit.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Bezirksärztekammer Nordbaden erklärte, gegen Videos und schriftliche Äußerungen keine Handhabe zu haben, weil Meinungs- und Wissenschaftsfreiheit sie schützten; Beschwerdeführern schrieb sie sinngemäß, auch Unvernünftiges sei Teil dieser Freiheit.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: t-online vom 27.10.2020."
+      "sourceRefs": [
+        {
+          "sourceId": "S017",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0051",
@@ -2100,19 +2363,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Ärztekammer habe mindestens zwei Verfahren gegen Schiffmann eingestellt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Laut t-online wurden mindestens zwei berufsgerichtliche Ermittlungsverfahren eingestellt (zu Maskenattesten und zu Verstößen bei Demonstrationen). Ein anderer Bericht vom Folgetag nennt nur eines; die Angabe „mindestens zwei“ stützt sich auf den ausführlicheren Bericht.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: t-online vom 27.10.2020."
+      "sourceRefs": [
+        {
+          "sourceId": "S017",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0052",
@@ -2141,19 +2411,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Bis zum Herbst 2020 habe Schiffmann wegen der Corona-Regeln zwei Parteien mitgegründet.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Schiffmann war Mitbegründer des Parteivorhabens „Widerstand 2020“ und kurz Mitglied der Nachfolgegründung WiR2020. Dass er zwei Parteien mitgegründet hat, ist so nicht belegt; die Angaben stammen zudem nur aus Wikipedia.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Parteien sind gemeint, und belegen zeitgenössische Berichte die Mitgründung?"
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0053",
@@ -2182,19 +2455,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Schiffmann sei mit einem Bus von Kundgebung zu Kundgebung gefahren.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Schiffmann reiste ab Spätsommer 2020 mit einem Bus zu Kundgebungen.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Berichte über die Bustour 2020 prüfen."
+      "sourceRefs": [
+        {
+          "sourceId": "S015",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S016",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0054",
@@ -2223,19 +2503,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Schiffmann habe die Geschichte von Kindern verbreitet, die an ihren Masken gestorben sein sollen; Belege dafür habe es keine gegeben.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Schiffmann verbreitete Berichte über Kinder, die an Masken gestorben sein sollten; Correctiv fand dafür keine Belege, Polizei und Kliniken bezeichneten konkrete Fälle als Falschmeldung.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Correctiv vom 08.10.2020, https://correctiv.org/faktencheck/2020/10/08/es-gibt-keine-belege-fuer-die-geruechte-dass-kinder-gestorben-sind-weil-sie-masken-trugen."
+      "sourceRefs": [
+        {
+          "sourceId": "S018",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0055",
@@ -2264,19 +2551,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Im Herbst 2020 habe die Polizei in mehreren Städten gegen Schiffmann ermittelt, unter anderem wegen Verstößen gegen Auflagen bei Demonstrationen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Im Herbst 2020 ermittelte unter anderem das Polizeipräsidium Unterfranken, und es gab Ermittlungen wegen möglicher Verstöße gegen das Versammlungsrecht bei Demonstrationen. Welche Städte genau betroffen waren, nennen die gelesenen Berichte nicht.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: evangelisch.de (epd) vom 28.10.2020, https://www.evangelisch.de/inhalte/177454/28-10-2020/falsche-atteste-gegen-maskenpflicht-polizei-durchsucht-arztpraxis."
+      "sourceRefs": [
+        {
+          "sourceId": "S015",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0056",
@@ -2305,19 +2595,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ende Oktober 2020 habe die Polizei Schiffmanns Praxis wegen mutmaßlich falscher Atteste gegen die Maskenpflicht durchsucht.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Am 27.10.2020 durchsuchte die Polizei Schiffmanns Praxis in Sinsheim; Staatsanwaltschaft und Polizei bestätigten den Verdacht auf mindestens drei unrichtige Maskenatteste.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: evangelisch.de (epd) vom 28.10.2020."
+      "sourceRefs": [
+        {
+          "sourceId": "S015",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S019",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0057",
@@ -2443,16 +2740,17 @@
       "description": "Auf der Erde lebten über acht Milliarden Menschen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "reason": "Nicht überprüfbar – die UN-Bevölkerungsschätzung konnte nicht abgerufen werden (Client-Fehler); die Zahl wird nicht aus dem Gedächtnis bewertet. Fehlende Bestätigung bedeutet nicht falsch.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
       },
       "sourceRefs": [],
       "openQuestions": [
-        "Aktuelle Bevölkerungsschätzung der Vereinten Nationen (World Population Prospects) prüfen."
+        "Aktuelle Bevölkerungsschätzung der Vereinten Nationen (World Population Prospects) prüfen.",
+        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
       ],
       "occurrences": [
         {
@@ -2482,21 +2780,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Nach der eigenen Kategorie des Kanals (widerlegte oder nicht überprüfbare Aussagen einschließlich Andeutungen) enthalte das dreistündige Gespräch keine einzige solche Stelle von Sinan.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Nach unserer Prüfung des Originals enthält es mindestens eine plausibel Sinan zugeordnete Aussage, die durch den Gesetzestext widerlegt ist (bPXMY7Reeek-A0083: frühere Namen dürften nicht gespeichert werden); die Kanalfigur nennt diese Annahme selbst „zu streng“. Dazu kommen mehrere Angaben Sinans, die auf anonymen Quellen beruhen und damit unter die eigene Kategorie „nicht überprüfbar“ fallen (A0081, A0084, A0089). Die Nullzählung ist ohne veröffentlichte Kriterien so nicht nachvollziehbar. Einschränkung: Die Sprecherzuordnung ist nur plausibel.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die Kategorie zählt ausdrücklich auch nicht überprüfbare Aussagen. Im Original finden sich mehrere Angaben Sinans, die auf anonymen oder nicht benannten Quellen beruhen, etwa bPXMY7Reeek-A0081, bPXMY7Reeek-A0089 und bPXMY7Reeek-A0084. Warum zählen sie nicht?",
-        "Die Kanalfigur selbst bewertet Sinans Annahme, frühere Namen dürften nicht gespeichert werden (bPXMY7Reeek-A0083), als zu streng. Wie verträgt sich das mit null widerlegten Stellen?",
-        "Die Liste der geprüften Stellen ist nicht veröffentlicht; ohne sie ist die Zählung nicht nachvollziehbar."
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit den Untertiteln des Originals; bestätigt nur die Wiedergabe."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0062",
@@ -2525,20 +2828,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan sei Mitglied in einem Verein, der Behauptungen entgegentritt, die wissenschaftlichen Tatsachen widersprechen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die GWUP will laut Selbstbeschreibung wissenschaftliches Denken fördern und Behauptungen aus Parawissenschaft, Esoterik und Alternativmedizin kritisch prüfen; das passt sinngemäß. Sinans Mitgliedschaft ist Selbstauskunft.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Die Mitgliedschaft nennt Sinan im Original selbst (etwa 01:24:36–01:25:08, bPXMY7Reeek-A0070); sie bleibt Selbstauskunft.",
-        "Satzungszweck der GWUP auf deren Website prüfen."
+      "sourceRefs": [
+        {
+          "sourceId": "S020",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0063",
@@ -2696,19 +3001,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Vor dem Selbstbestimmungsgesetz seien für eine Änderung zwei Gutachten nötig gewesen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Nach dem früheren Transsexuellengesetz waren zwei unabhängige Sachverständigengutachten nötig.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "§ 4 Abs. 3 Transsexuellengesetz (zwei unabhängige Gutachten) prüfen; das Video nennt dafür keine eigene Quelle."
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0067",
@@ -2739,17 +3047,18 @@
       "description": "Nach der eigenen Kategorie des Kanals (pauschale Abwertung ganzer Gruppen) gebe es in drei Stunden genau eine solche Stelle bei Sinan.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "reason": "Nicht überprüfbar – kanalinterne Zählung ohne veröffentlichte Kriterien und Liste. Ob weitere Stellen darunter fallen, etwa pauschale Aussagen über Feministinnen (bPXMY7Reeek-A0064), lässt sich ohne die Kriterien nicht entscheiden. Fehlende Bestätigung bedeutet nicht falsch.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
       },
       "sourceRefs": [],
       "openQuestions": [
         "Weitere mögliche Kandidaten im Original prüfen, etwa die Verallgemeinerung über Feministinnen (bPXMY7Reeek-A0064), die Aussage, Gegner von Geschlechtstests im Frauensport leugneten Biologie (bPXMY7Reeek-A0069), oder die Typisierung politischer Lager (bPXMY7Reeek-A0031).",
-        "Kriterien und Liste der geprüften Stellen sind nicht veröffentlicht."
+        "Kriterien und Liste der geprüften Stellen sind nicht veröffentlicht.",
+        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
       ],
       "occurrences": [
         {

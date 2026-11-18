@@ -4,26 +4,30 @@ Stand: 18.11.2026. Eigenständige Neuerfassung durch Claude. Die automatischen d
 
 ## Ergebnis
 
-Noch keine Tatsachenbehauptung ist sachlich abschließend bewertet. Die Sachrecherche mit externen Quellen steht aus. Bisher gilt:
+Die öffentliche Recherche ist abgeschlossen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet.
 
 | Einordnung | Anzahl |
 |---|---:|
-| Offene Tatsachenbehauptungen mit konkreten Prüffragen | 91 |
-| Mit Grund als nicht überprüfbar gekennzeichnet | 41 |
-| Meinung oder Prognose (abgeschlossen eingeordnet) | 38 |
+| Belegt | 13 |
+| Teilweise belegt | 28 |
+| Irreführend / Kontext fehlt | 3 |
+| Widerlegt | 4 |
+| Nicht ausreichend belegbar | 2 |
+| Meinung oder Prognose | 38 |
+| Mit Grund als nicht überprüfbar gekennzeichnet | 82 |
 
-„Nicht überprüfbar“ heißt nicht falsch. Die Gründe sind vor allem persönliche Darstellungen (Ausbildung, Familie, Gesundheit, Alltag), anonyme oder nicht genannte Quellen und zu unbestimmte Angaben über Dritte.
+„Nicht überprüfbar“ heißt nicht falsch. Die Gründe sind vor allem persönliche Darstellungen (Ausbildung, Familie, Gesundheit, Alltag), anonyme oder nicht genannte Quellen, zu unbestimmte Angaben über Dritte sowie Plattform- und Reichweitendaten, die aus der Prüfumgebung nicht abrufbar waren.
 
-## Schwerpunkte für die Recherche
+## Wichtigste Befunde
 
-- **Selbstbestimmungsgesetz:** Sinans Aussagen zu freier Wahl ohne Hinterfragen, Strafbarkeit des Falschansprechens, jährlicher Änderung, Speicherung früherer Namen, Saunazugang und Wehrdienst (Kapitel 12) sind am Gesetzestext und an der Gesetzesbegründung zu prüfen. Das Reaktionsvideo GbhI-p_ycJE behauptet dazu bereits Gegenpositionen; diese sind dort ebenfalls noch offen.
-- **Pandemiepolitik:** Ob es eine Impfpflicht gab (einrichtungsbezogene Impfpflicht 2022), die Reihenfolge von 3G und 2G, Regeln für Familienfeiern, die Ausgangssperre und die Genauigkeit von Schnelltests sind mit amtlichen Quellen klärbar (Kapitel 15–17).
-- **Sport:** Leistungsunterschiede nach der Pubertät, die zitierte Studie und die Regeln für Geschlechtstests sind fachlich zu prüfen. Die gesundheitsbezogene Aussage über Imane Khelif darf nur auf bestätigter Grundlage bewertet werden (Kapitel 10).
-- **Einzelzahlen:** Die vom Gastgeber genannte Größe einer Anwaltskanzlei (Kapitel 7) und die Reichweitenentwicklung eines YouTubers nach einer Satiresendung (Kapitel 16) sind gut prüfbar.
+- **Selbstbestimmungsgesetz (Kapitel 12):** Widerlegt ist die Annahme, frühere Namen dürften nicht mehr gespeichert werden; das Gesetz erlaubt die Weiterverarbeitung in amtlichen Registern ausdrücklich. Irreführend sind die Aussagen, falsches Ansprechen werde bestraft (bußgeldbewehrt ist nur das schädigende Offenbaren früherer Angaben) und der Eintrag verschaffe Zugang zur Frauensauna (Hausrecht und Vertragsfreiheit bleiben unberührt). Die einjährige Sperrfrist ist im Kern zutreffend beschrieben.
+- **Pandemiepolitik (Kapitel 15–17):** Widerlegt sind die Reihenfolge „erst 2G, dann 3G“ (bundesweit galt zuerst 3G ab 23.08.2021) und die Aussage, die Maskenbeschaffung werde gar nicht aufgearbeitet (Sonderbericht, Bundesrechnungshof, Haushaltsausschuss). Eine staatliche Pflicht, Familienmitglieder an der Tür zu kontrollieren, fand sich nicht; dafür gab es Obergrenzen und Testempfehlungen.
+- **Sport (Kapitel 10):** Ein fortbestehender Leistungsvorsprung nach Hormonbehandlung ist durch die bekannteste Studie teilweise belegt; weitere sportmedizinische Detailfragen blieben ohne gelesene Übersichtsarbeit nicht überprüfbar. Gesundheitsangaben über Imane Khelif sind offiziell nicht bestätigt und daher nicht ausreichend belegbar.
+- **Einzelzahlen:** Die vom Gastgeber genannte Kanzleigröße ist widerlegt (laut Jahresbericht rund 2.560 statt der genannten Zahl; ein Erfassungsfehler der automatischen Untertitel ist möglich). Ein starker Abonnentenzuwachs nach einer Satiresendung ist belegt, eine Verdopplung nicht.
 
 ## Widersprüche im Gespräch
 
-Gastgeber und Gast widersprechen sich ausdrücklich bei der biologischen Geschlechterdefinition (Kapitel 10), bei Vorteilen eines weiblichen Eintrags im Berufsleben (Kapitel 12) und bei der Verbindlichkeit der Regeln für Familienfeiern (Kapitel 17). Diese Gegenpositionen sind im Datenbestand als Beziehung „widerspricht“ verknüpft und gegeneinander zu prüfen, ohne vorab einer Seite recht zu geben.
+Gastgeber und Gast widersprechen sich ausdrücklich bei der biologischen Geschlechterdefinition (Kapitel 10), bei Vorteilen eines weiblichen Eintrags im Berufsleben (Kapitel 12) und bei der Verbindlichkeit der Regeln für Familienfeiern (Kapitel 17). Diese Gegenpositionen sind im Datenbestand als Beziehung „widerspricht“ verknüpft; die Einzelbewertungen stehen in den Kapitelprüfungen.
 
 ## Kapitelprüfungen
 
@@ -46,6 +50,6 @@ Gastgeber und Gast widersprechen sich ausdrücklich bei der biologischen Geschle
 - [17 · Impfdruck, Familienfeiern und ein Ethikstreit](strukturiert/berichte/kapitel-17.md)
 - [18 · Gelassenheit und Ausklang](strukturiert/berichte/kapitel-18.md)
 
-## Offene Arbeit und Grenzen
+## Grenzen
 
-Notwendig sind die Sachrecherche für 91 offene Tatsachenbehauptungen, eine Kontrolle unsicher transkribierter Namen am Original und gegebenenfalls eine Erweiterung um weitere Teilbehauptungen. Eine Audio-/Videokontrolle und eine bestätigte Sprecheridentifizierung haben nicht stattgefunden. Die Erfassung ist keine Gesamtbewertung des Gesprächs oder einer Person.
+Erfasst ist ein Teilbestand: Prüfgegenstände aus allen 18 Themenbereichen, aber nicht jede Teilbehauptung des Gesprächs. Unsicher transkribierte Namen und Zahlen wurden nicht am Ton kontrolliert; eine Audio-/Videokontrolle und eine bestätigte Sprecheridentifizierung haben nicht stattgefunden. Die Prüfung ist keine Gesamtbewertung des Gesprächs oder einer Person.

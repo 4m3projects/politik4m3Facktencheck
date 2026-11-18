@@ -1,8 +1,8 @@
 # Kapitel 10: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst. Bewusst nicht als eigene Prüfgegenstände aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Keine Statistik des gesamten Gesprächs. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Noch keine Sachrecherche mit externen Quellen: Tatsachenbehauptungen sind offen, Meinungen und Prognosen als solche eingeordnet, persönliche oder anonyme Angaben mit Grund als nicht überprüfbar markiert. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
 
 ## bPXMY7Reeek-A0051
 
@@ -70,13 +70,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde. Ob man von zwei Geschlechtern mit Varianten oder von einem Spektrum spricht, hängt von der Definition ab; das Gespräch enthält dazu selbst gegensätzliche Positionen (siehe A0055). Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -87,6 +87,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 - Welche Definitionen nutzt die Biologie (z. B. Keimzellen) und welche die Medizin für Varianten der Geschlechtsentwicklung?
 
 - Wie ordnen Fachgesellschaften DSD/Intergeschlechtlichkeit begrifflich ein?
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
 
 ### Beziehungen
 
@@ -199,13 +201,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde; Gegenposition zu A0052 im selben Gespräch. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -217,13 +219,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Der Gastgeber nennt als Recherchegrundlage unter anderem ChatGPT; eine Fachquelle ist nicht benannt.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+
 ## bPXMY7Reeek-A0056
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Rechtlich gebe es in Deutschland drei Geschlechter: männlich, weiblich und divers.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -242,21 +246,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Das Bundesverfassungsgericht verlangte 2017 neben „weiblich“ und „männlich“ eine weitere positive Eintragungsmöglichkeit; das SBGG verweist auf die Angaben nach § 22 Abs. 3 PStG oder die Streichung des Eintrags. Rechtlich gibt es damit neben drei positiven Einträgen auch die Möglichkeit ohne Eintrag. Die Bezeichnung „divers“ selbst wurde im Gesetzestext des PStG nicht gelesen.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Personenstandsrecht muss weiteren positiven Geschlechtseintrag zulassen](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2017/bvg17-095.html) · Bundesverfassungsgericht, Pressemitteilung 95/2017 vom 08.11.2017 (1 BvR 2019/16).
+  Quellenzugriff am 2026-11-18. Pressemitteilung gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Einträge erlaubt das Personenstandsrecht (§ 22 PStG, SBGG)? Gibt es neben divers auch die Möglichkeit ohne Angabe?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0057
 
@@ -283,13 +291,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – ethnologische Angabe, zu der keine Fachquelle gelesen wurde. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -298,6 +306,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Ethnologische Fachliteratur zu Hijras und Two-Spirit-Konzepten prüfen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
 
 ## bPXMY7Reeek-A0058
 
@@ -346,7 +356,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine in einer YouTube-Debatte zitierte Studie zeige, dass trans Frauen auch nach mehreren Jahren Hormonbehandlung noch rund 15 Prozent Leistungsvorsprung gegenüber Frauen hätten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -365,23 +375,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Die bekannteste Studie dazu (Roberts u. a. 2021, US-Luftwaffe) fand nach zwei Jahren Hormonbehandlung beim 1,5-Meilen-Lauf noch rund 12 % Vorsprung gegenüber Frauen; die Unterschiede bei Liegestützen und Sit-ups waren dann verschwunden. „Rund 15 Prozent“ über mehrere Jahre gibt die Studie so nicht her. Welche Studie in der erwähnten Debatte genannt wurde, ist offen.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Roberts et al.: Effect of gender affirming hormones on athletic performance in transwomen and transmen](https://www.trizone.com.au/content/files/content/bjsports/55/11/577.full.pdf) · British Journal of Sports Medicine 2021;55:577–583, online 07.12.2020 (PDF-Spiegel).
+  Quellenzugriff am 2026-11-18. Studie gelesen (Ergebnisse zu Lauf, Liegestützen, Sit-ups). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Studie ist gemeint (etwa die Auswertung von Fitnesstests der US-Luftwaffe)? Welche Leistungsunterschiede nennt sie nach welcher Behandlungsdauer?
-
-- Wer hat die Studie im genannten Video zitiert? Namen im Untertitel unsicher.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0060
 
@@ -408,13 +417,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – sportmedizinische Fachfrage; außer Roberts u. a. (Unterschiede vor Hormonbehandlung) wurde keine Übersichtsarbeit zu Knochendichte und Körperzusammensetzung gelesen. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -424,13 +433,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Sportmedizinische Übersichtsarbeiten zu Geschlechtsunterschieden nach der Pubertät prüfen.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+
 ## bPXMY7Reeek-A0061
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Bei der Boxerin Imane Khelif liege eine Variante der Geschlechtsentwicklung mit innenliegenden Hoden vor, und sie habe teilweise eine männliche Pubertät durchlaufen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -449,25 +460,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Eine Variante der Geschlechtsentwicklung oder innenliegende Hoden sind bei Imane Khelif nicht offiziell bestätigt. Der Boxverband IBA schloss sie 2023 nach einem nicht offengelegten Test aus; das IOC berief sich auf Pass und Werdegang, und der ORF stellte fest, dass eine Diagnose nicht nachgewiesen ist. Das Gesagte ist damit weder belegt noch widerlegt.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Imane Khelif: Geschlechterdebatte](https://orf.at/stories/3365456/) · ORF, 02.08.2024.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [IOC defends Algerian boxer Imane Khelif after gender row](https://www.africanews.com/2024/08/02/ioc-defends-algerian-boxer-imane-khelif-after-gender-row/) · Africanews, 02.08.2024.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Gibt es amtliche oder von Khelif bestätigte medizinische Befunde? Bisher kursierende Angaben stammen aus nicht bestätigten Berichten; Khelif weist Vorwürfe zurück.
-
-- Wie ist der Stand möglicher Verfahren (z. B. vor dem Internationalen Sportgerichtshof)?
-
-- Sensibler Gesundheitsbezug: nur auf Grundlage öffentlich bestätigter Angaben bewerten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0062
 
@@ -475,7 +486,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das IOC habe bei den Olympischen Spielen 2024 das Geschlecht nicht geprüft, sondern den Passeintrag übernommen; kein Verband habe geprüft.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -494,23 +505,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Das IOC ließ in Paris 2024 nach dem Passeintrag und dem bisherigen Werdegang zu und testete nicht selbst. „Kein Verband habe geprüft“ trifft so nicht zu: Die IBA hatte 2023 einen Test durchgeführt und darauf den WM-Ausschluss gestützt, der vom IOC aber nicht anerkannt wurde.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [IOC defends Algerian boxer Imane Khelif after gender row](https://www.africanews.com/2024/08/02/ioc-defends-algerian-boxer-imane-khelif-after-gender-row/) · Africanews, 02.08.2024.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [IOC kehrt ab Olympia 2028 zu Geschlechtstests zurück](https://www.sport1.de/news/olympia/2026/03/ioc-kehrt-ab-olympia-2028-zu-geschlechtstests-zurueck) · Sport1, 26.03.2026.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Zulassungsregeln galten 2024 im olympischen Boxen?
-
-- Welche Tests gab der Boxverband IBA 2023 an, und wie bewertete das IOC sie?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0063
 
@@ -518,7 +531,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Für olympische Wettkämpfe würden nach dem Stand von August 2025 voraussichtlich Geschlechtstests eingeführt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -537,21 +550,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Zum Gesprächszeitpunkt (August 2025) hatte World Boxing verpflichtende SRY-Tests eingeführt (Mai 2025), und IOC-Präsidentin Coventry hatte den Schutz der Frauenkategorie angekündigt. Im März 2026 beschloss das IOC ein SRY-Screening ab den Spielen 2028. Die damalige Erwartung ist damit eingetreten.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Box-Weltverband führt verpflichtende Geschlechtertests ein](https://www.zdfheute.de/sport/boxen-weltverband-verpflichtende-geschlechtertests-khelif-100.html) · ZDFheute, 30.05.2025.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [IOC announces new Policy on the Protection of the Female (Women's) Category in Olympic Sport](https://www.olympics.com/ioc/news/international-olympic-committee-announces-new-policy-on-the-protection-of-the-female-women-s-category-in-olympic-sport) · Internationales Olympisches Komitee, 26.03.2026.
+  Quellenzugriff am 2026-11-18. Pressemitteilung gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Verbände (z. B. World Athletics, World Boxing) haben 2025 Geschlechtstests beschlossen, und was hat das IOC bis August 2025 angekündigt?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0064
 
@@ -632,13 +649,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – zusammengesetzte sportpolitische Einordnung; Leistungsvergleiche und Regelwerke der Verbände wurden nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -647,6 +664,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Vergleich der Weltrekorde und Spitzenleistungen von Männern und Frauen in Kraft-, Sprung- und Laufdisziplinen prüfen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
 
 ## bPXMY7Reeek-A0066
 
@@ -708,7 +727,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Es gebe einen Vorschlag für Wettkämpfe ohne Dopingkontrollen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -727,21 +746,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Die Enhanced Games wurden 2025 als Wettbewerb angekündigt, bei dem im Sport verbotene Substanzen erlaubt sind; Austragung war für Mai 2026 in Las Vegas vorgesehen.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Enhanced Games to launch in 2026](https://www.japantimes.co.jp/sports/2025/05/22/more-sports/enhanced-games-launch-2026) · The Japan Times, 22.05.2025.
+  Quellenzugriff am 2026-11-18. Frei zugänglicher Teil gelesen (Paywall). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Gemeint sind vermutlich die Enhanced Games: Stand der Planung, Regeln und Termin prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0068
 
@@ -749,7 +769,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Motorsport, etwa die Formel 1, sei schrittweise stärker reglementiert worden, weil es dort zuvor jährlich mehrere Todesfälle gab.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -768,21 +788,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+In der Formel 1 kamen vor allem in den 1950er- bis 1970er-Jahren zahlreiche Fahrer ums Leben (1968 etwa vier in vier Monaten). Sicherheitsregeln wurden schrittweise eingeführt, etwa Helmpflicht, Gurte, Sicherheitstanks und später Crashtests; die größte Welle folgte 1994. „Jährlich mehrere“ trifft auf einzelne Jahre zu, nicht auf jedes.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Die Todesfälle: Die schwarzen Stunden der Formel 1](https://www.auto-motor-und-sport.de/formel-1/todesfaelle-f1/) · auto motor und sport, ohne Datum (Bezug zum 1000. WM-Rennen).
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [75 Jahre Formel 1: Vom rauchenden Playboy zum Top-Athleten](https://www.zdfheute.de/sport/motorsport-75-jahre-formel-1-silverstone-100.html) · ZDFheute, 06.07.2025.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Entwicklung tödlicher Unfälle und Sicherheitsregeln in der Formel 1 prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0069
 

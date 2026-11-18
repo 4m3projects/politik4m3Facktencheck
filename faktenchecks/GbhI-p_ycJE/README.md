@@ -1,6 +1,6 @@
 # Alfred räumt auf über Sinan bei IT Camper: unabhängiger Faktencheck einer Reaktion
 
-**Status: Erfasst – Teilbestand; Wiedergaben des Originals geprüft, Sachrecherche ausstehend**
+**Status: Öffentliche Recherche abgeschlossen – Teilbestand**
 
 Stand: 18.11.2026.
 
@@ -23,7 +23,7 @@ Die Zuordnung steht als R0001 mit 19 Aussageverknüpfungen in [beziehungen.json]
 
 Die automatisch erzeugten deutschen Originaluntertitel wurden vollständig gelesen (Text von 00:00:02 bis 00:17:10); die letzten rund 20 Sekunden enthalten keinen Text. Zum Abgleich wurden die vollständigen Untertitel und Metadaten des Originals bPXMY7Reeek gelesen. Das ist keine Hör- oder Sichtkontrolle.
 
-Der Datenstand enthält 66 Prüfgegenstände: 21 Tatsachenbehauptungen sind abschließend bewertet (20 belegt, eine teilweise belegt), und zwar ausschließlich Angaben, die sich am Original selbst prüfen lassen (Datum, Dauer, Abonnentenzahl, Wiedergaben von Sinans Aussagen). 37 Tatsachenbehauptungen sind offen, vor allem die Rechts- und Pressebehauptungen; die im Video genannten Quellen wurden noch nicht geöffnet. Drei Angaben sind mit Grund als nicht überprüfbar gekennzeichnet, fünf sind Bewertungen der Kanalfigur.
+Der Datenstand enthält 66 Prüfgegenstände: 55 Tatsachenbehauptungen sind abschließend bewertet: die Wiedergaben des Originals am Original selbst, die Rechts- und Presseangaben an den tatsächlich gelesenen Gesetzestexten, Drucksachen und Berichten. Sechs Angaben sind mit Grund als nicht überprüfbar gekennzeichnet, fünf sind Bewertungen der Kanalfigur.
 
 - [Kurzbeschreibung](01_kurz.md)
 - [Eigenes Themenregister und Abdeckung](02_analyse.md)

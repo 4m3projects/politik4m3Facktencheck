@@ -1,8 +1,8 @@
 # Kapitel 05: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:02–00:17:10). Wiedergaben des Originalgesprächs wurden mit dessen ebenfalls vollständig gelesenen Untertiteln und Metadaten abgeglichen und nur insoweit bewertet. Die im Video genannten Rechts- und Pressequellen wurden noch nicht geöffnet; die zugehörigen Aussagen bleiben offen. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:02–00:17:10). Wiedergaben des Originalgesprächs wurden mit dessen ebenfalls vollständig gelesenen Untertiteln und Metadaten abgeglichen. Die im Video genannten Gesetzestexte, Drucksachen und Presseberichte wurden am 18.11.2026 selbst geöffnet und gelesen; nur der Besondere Teil der Begründung zu BT-Drucksache 20/9049 war nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
 
 ## GbhI-p_ycJE-A0055
 
@@ -70,13 +70,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+Nicht überprüfbar – die UN-Bevölkerungsschätzung konnte nicht abgerufen werden (Client-Fehler); die Zahl wird nicht aus dem Gedächtnis bewertet. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -86,13 +86,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Aktuelle Bevölkerungsschätzung der Vereinten Nationen (World Population Prospects) prüfen.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+
 ## GbhI-p_ycJE-A0057
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nach der eigenen Kategorie des Kanals (widerlegte oder nicht überprüfbare Aussagen einschließlich Andeutungen) enthalte das dreistündige Gespräch keine einzige solche Stelle von Sinan.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -111,25 +113,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+Nach unserer Prüfung des Originals enthält es mindestens eine plausibel Sinan zugeordnete Aussage, die durch den Gesetzestext widerlegt ist (bPXMY7Reeek-A0083: frühere Namen dürften nicht gespeichert werden); die Kanalfigur nennt diese Annahme selbst „zu streng“. Dazu kommen mehrere Angaben Sinans, die auf anonymen Quellen beruhen und damit unter die eigene Kategorie „nicht überprüfbar“ fallen (A0081, A0084, A0089). Die Nullzählung ist ohne veröffentlichte Kriterien so nicht nachvollziehbar. Einschränkung: Die Sprecherzuordnung ist nur plausibel.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Talk mit SinansWoche (Campertalk)](https://www.youtube.com/watch?v=bPXMY7Reeek) · Kanal IT Camper (Talks und Meinungen); laut Metadaten veröffentlicht am 23.08.2025, Laufzeit 11474 Sekunden; beim Abruf am 18.11.2026 wies der Kanal 6060 Abonnenten aus.
+  Quellenzugriff am 2026-11-18. Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel vollständig gelesen; Metadaten (Datum, Laufzeit, Abonnentenzahl) über das Importskript abgerufen. Keine Hör-/Sichtkontrolle. Abgleich mit den Untertiteln des Originals; bestätigt nur die Wiedergabe.
+
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Die Kategorie zählt ausdrücklich auch nicht überprüfbare Aussagen. Im Original finden sich mehrere Angaben Sinans, die auf anonymen oder nicht benannten Quellen beruhen, etwa bPXMY7Reeek-A0081, bPXMY7Reeek-A0089 und bPXMY7Reeek-A0084. Warum zählen sie nicht?
-
-- Die Kanalfigur selbst bewertet Sinans Annahme, frühere Namen dürften nicht gespeichert werden (bPXMY7Reeek-A0083), als zu streng. Wie verträgt sich das mit null widerlegten Stellen?
-
-- Die Liste der geprüften Stellen ist nicht veröffentlicht; ohne sie ist die Zählung nicht nachvollziehbar.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0058
 
@@ -137,7 +139,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Sinan sei Mitglied in einem Verein, der Behauptungen entgegentritt, die wissenschaftlichen Tatsachen widersprechen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -156,23 +158,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+Die GWUP will laut Selbstbeschreibung wissenschaftliches Denken fördern und Behauptungen aus Parawissenschaft, Esoterik und Alternativmedizin kritisch prüfen; das passt sinngemäß. Sinans Mitgliedschaft ist Selbstauskunft.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Gesellschaft zur wissenschaftlichen Untersuchung von Parawissenschaften](https://en.wikipedia.org/wiki/Gesellschaft_zur_wissenschaftlichen_Untersuchung_von_Parawissenschaften) · Wikipedia (englisch), Fassung zum Abrufzeitpunkt; Sekundärquelle.
+  Quellenzugriff am 2026-11-18. Einleitung und Zielbeschreibung gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Die Mitgliedschaft nennt Sinan im Original selbst (etwa 01:24:36–01:25:08, bPXMY7Reeek-A0070); sie bleibt Selbstauskunft.
-
-- Satzungszweck der GWUP auf deren Website prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0059
 
@@ -305,7 +306,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Vor dem Selbstbestimmungsgesetz seien für eine Änderung zwei Gutachten nötig gewesen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -324,21 +325,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+Nach dem früheren Transsexuellengesetz waren zwei unabhängige Sachverständigengutachten nötig.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Entwurf eines Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag, BT-Drucksache 20/9049](https://dserver.bundestag.de/btd/20/090/2009049.pdf) · Deutscher Bundestag, Gesetzentwurf der Bundesregierung vom 01.11.2023.
+  Quellenzugriff am 2026-11-18. Gesetzestext des Entwurfs und Allgemeiner Teil der Begründung bis etwa S. 27 gelesen (u. a. S. 2, 12, 20, 24–27). Der Besondere Teil (Einzelbegründung) war im abgerufenen Text nicht enthalten und wurde nicht gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- § 4 Abs. 3 Transsexuellengesetz (zwei unabhängige Gutachten) prüfen; das Video nennt dafür keine eigene Quelle.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0063
 
@@ -378,13 +380,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.
+Nicht überprüfbar – kanalinterne Zählung ohne veröffentlichte Kriterien und Liste. Ob weitere Stellen darunter fallen, etwa pauschale Aussagen über Feministinnen (bPXMY7Reeek-A0064), lässt sich ohne die Kriterien nicht entscheiden. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -395,6 +397,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 - Weitere mögliche Kandidaten im Original prüfen, etwa die Verallgemeinerung über Feministinnen (bPXMY7Reeek-A0064), die Aussage, Gegner von Geschlechtstests im Frauensport leugneten Biologie (bPXMY7Reeek-A0069), oder die Typisierung politischer Lager (bPXMY7Reeek-A0031).
 
 - Kriterien und Liste der geprüften Stellen sind nicht veröffentlicht.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
 
 ## GbhI-p_ycJE-A0064
 

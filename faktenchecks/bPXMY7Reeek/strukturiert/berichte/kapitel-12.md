@@ -1,8 +1,8 @@
 # Kapitel 12: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst. Bewusst nicht als eigene Prüfgegenstände aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Keine Statistik des gesamten Gesprächs. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Noch keine Sachrecherche mit externen Quellen: Tatsachenbehauptungen sind offen, Meinungen und Prognosen als solche eingeordnet, persönliche oder anonyme Angaben mit Grund als nicht überprüfbar markiert. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
 
 ## bPXMY7Reeek-A0073
 
@@ -105,7 +105,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nach dem Selbstbestimmungsgesetz dürfe jede Person selbst über ihr Geschlecht entscheiden, und diese Entscheidung dürfe niemand hinterfragen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -124,23 +124,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Für die Änderung genügt eine Erklärung mit Versicherung beim Standesamt; eine inhaltliche Prüfung sieht das Gesetz nicht vor. Ein allgemeines Verbot, die Entscheidung zu hinterfragen, enthält das SBGG aber nicht: Verboten ist nur das Offenbaren oder Ausforschen früherer Angaben ohne Zustimmung, und Hausrecht sowie Vertragsfreiheit bleiben unberührt.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Was regeln §§ 2 und 4 SBGG zur Erklärung beim Standesamt, und gibt es eine Prüfung durch das Standesamt?
-
-- Gilt die Bindung an den Eintrag auch für Private (z. B. Hausrecht, § 6 SBGG)?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0076
 
@@ -148,7 +147,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Wer eine Person nach ihrer Personenstandsänderung öffentlich mit dem früheren Geschlecht anspreche, könne deswegen angezeigt werden und müsse Strafe zahlen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -167,23 +166,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Das SBGG sanktioniert nicht die falsche Anrede. Bußgeldbewehrt (bis 10.000 Euro) ist nur, frühere Angaben ohne Zustimmung zu offenbaren und die Person dadurch absichtlich zu schädigen. Eine Anzeige ist immer möglich; eine Strafe folgt aus bloßer Anrede nach dem SBGG nicht.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Was regeln das Offenbarungsverbot und die Bußgeldvorschrift im SBGG (§§ 13, 14) genau?
-
-- Kann falsches Ansprechen nach allgemeinem Strafrecht (Beleidigung) strafbar sein?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0077
 
@@ -191,7 +189,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Mit dem Selbstbestimmungsgesetz lasse sich eine nicht ernst gemeinte Änderung nicht mehr als Missbrauch feststellen, weil allein die eigene Erklärung zähle.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -223,21 +221,28 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Das SBGG enthält keine ausdrückliche Prüf- oder Ablehnungsbefugnis des Standesamts. Ob offensichtlicher Missbrauch dennoch zurückgewiesen oder später berichtigt werden kann, ist umstritten: Ein LTO-Gastbeitrag hält Standesämter dazu für verpflichtet, und im Fall Liebich versucht ein Landkreis eine Berichtigung nach dem Personenstandsgesetz (Entscheidung offen). Unmöglich ist eine Missbrauchsfeststellung daher nicht abschließend, aber gesetzlich nicht geregelt.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [„Marla-Svenja Liebich“ und das Selbstbestimmungsgesetz: Der Fehler liegt schon beim Standesamt](https://www.lto.de/recht/hintergruende/h/liebich-selbstbestimmungsgesetz-sbgg-missbrauch-kontrolle) · Legal Tribune Online, Gastbeitrag, 29.08.2025.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Fall Liebich: Transfrau in Thüringen im Frauenvollzug](https://www.berliner-zeitung.de/article/fall-liebich-transfrau-thueringen-frauenvollzug-10217635) · Berliner Zeitung (Übernahme der Ostdeutschen Allgemeinen), 20.07.2026.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Missbrauchsregel enthält das SBGG oder seine Begründung (z. B. offensichtlicher Missbrauch), und wann darf das Standesamt ablehnen?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0078
 
@@ -245,7 +250,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Mit geändertem Geschlechtseintrag könnte Sinan die montags Frauen vorbehaltene Sauna nutzen; der einzige Grund, es nicht zu tun, sei die Vermeidung von Ärger.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -264,23 +269,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Der Geschlechtseintrag allein verschafft keinen Zugang: § 6 Abs. 2 SBGG lässt Hausrecht und Vertragsfreiheit unberührt, und die Gesetzesbegründung nennt ausdrücklich Saunen, deren Betreiber Personen aus Gründen der Intimsphäre den Zutritt verwehren dürfen. Dass nur die Vermeidung von Ärger dagegen spreche, übergeht diese Rechtslage.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Entwurf eines Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag, BT-Drucksache 20/9049](https://dserver.bundestag.de/btd/20/090/2009049.pdf) · Deutscher Bundestag, Gesetzentwurf der Bundesregierung vom 01.11.2023.
+  Quellenzugriff am 2026-11-18. Gesetzestext des Entwurfs und Allgemeiner Teil der Begründung bis etwa S. 27 gelesen (u. a. S. 2, 12, 20, 24–27). Der Besondere Teil (Einzelbegründung) war im abgerufenen Text nicht enthalten und wurde nicht gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Was regelt § 6 SBGG zu Hausrecht und Zugang zu Einrichtungen?
-
-- Erlaubt das AGG eine Ungleichbehandlung beim Zugang zu geschlechtsspezifischen Räumen bei sachlichem Grund?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0079
 
@@ -288,7 +295,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Vor dem Selbstbestimmungsgesetz habe es in Deutschland sehr große rechtliche Hürden für eine Änderung des Geschlechtseintrags gegeben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -307,21 +314,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nach dem früheren Transsexuellengesetz waren zwei unabhängige Gutachten und ein Gerichtsverfahren nötig; die Kosten lagen im Schnitt bei rund 1.900 Euro, die Dauer bei Monaten bis Jahren.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Entwurf eines Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag, BT-Drucksache 20/9049](https://dserver.bundestag.de/btd/20/090/2009049.pdf) · Deutscher Bundestag, Gesetzentwurf der Bundesregierung vom 01.11.2023.
+  Quellenzugriff am 2026-11-18. Gesetzestext des Entwurfs und Allgemeiner Teil der Begründung bis etwa S. 27 gelesen (u. a. S. 2, 12, 20, 24–27). Der Besondere Teil (Einzelbegründung) war im abgerufenen Text nicht enthalten und wurde nicht gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Was verlangte das Transsexuellengesetz (Gutachten, Gerichtsverfahren), und welche Teile hatte das Bundesverfassungsgericht bereits aufgehoben?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0080
 
@@ -411,7 +419,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Straftäter dürften nach dem Selbstbestimmungsgesetz jedes Jahr ihren Namen und ihr Geschlecht ändern.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -430,21 +438,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nach § 5 SBGG ist eine erneute Erklärung frühestens ein Jahr nach der letzten möglich, mit drei Monaten Voranmeldung. Diese Regel gilt für alle; eine besondere Regel für Straftäter gibt es nicht. Ein jährlicher Wechsel ist damit rechtlich möglich, die Hervorhebung von Straftätern legt aber eine Sonderregel nahe, die nicht existiert.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Sperrfrist gilt nach § 5 SBGG für eine erneute Änderung?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0083
 
@@ -452,7 +461,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Frühere Namen dürften in behördlichen IT-Systemen nicht mehr hinterlegt sein oder auftauchen, was die Fahndung nach Straftätern erschwere.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -471,23 +480,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Das SBGG verbietet nicht die Speicherung: § 13 Abs. 3 erlaubt die weitere Verarbeitung früherer Angaben in amtlichen Registern ausdrücklich, Abs. 4 Mitteilungen zwischen Registern. Für Strafverfolgungs- und Sicherheitsbehörden besteht eine ausdrückliche Ausnahme vom Offenbarungsverbot. Auch die Bundesregierung erklärt, frühere Namen würden im Meldewesen weiter gespeichert.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Antwort der Bundesregierung zur Meldeverordnung nach dem SBGG, BT-Drucksache 21/1340](https://dserver.bundestag.de/btd/21/013/2101340.pdf) · Deutscher Bundestag, Antwort der Bundesregierung vom 21.08.2025 auf die Kleine Anfrage 21/1165.
+  Quellenzugriff am 2026-11-18. Vorbemerkung der Fragesteller und Antworten zu den Fragen 1–9, 22–24 gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Was regeln § 13 SBGG und das Melderecht zur Speicherung und Übermittlung früherer Vornamen und Geschlechtseinträge?
-
-- Gab es 2025 einen Verordnungsentwurf des Bundesinnenministeriums zur Übermittlung, und wie wurde er begründet?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0084
 
@@ -536,7 +547,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein bekannter Rechtsextremist (laut Untertitel eine Person namens Svenja Lieb…; gemeint ist plausibel Liebich) habe den Geschlechtseintrag nach dem Selbstbestimmungsgesetz geändert, was als absurder Fall diskutiert werde.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -555,21 +566,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Der Rechtsextremist Sven Liebich ließ im November 2024 nach dem SBGG Geschlechtseintrag und Vornamen ändern (Marla-Svenja). Der Fall löste eine breite Debatte über Missbrauch aus.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Fall Liebich: SPD lehnt Änderung von Selbstbestimmungsgesetz ab](https://www.zdfheute.de/politik/selbstbestimmungsgesetz-spd-union-dobrindt-liebich-100.html) · ZDFheute, 25.08.2025.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [„Marla-Svenja Liebich“ und das Selbstbestimmungsgesetz: Der Fehler liegt schon beim Standesamt](https://www.lto.de/recht/hintergruende/h/liebich-selbstbestimmungsgesetz-sbgg-missbrauch-kontrolle) · Legal Tribune Online, Gastbeitrag, 29.08.2025.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Name aus Untertitel unsicher; Berichte über den Fall Liebich und die Haftfrage prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0086
 
@@ -577,7 +592,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Regelung zum Schwangerschaftsabbruch stehe in einem „Artikel 218“.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -596,21 +611,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Der Schwangerschaftsabbruch ist in § 218 des Strafgesetzbuchs geregelt, also in einem Paragrafen, nicht in einem Artikel. Die Nummer stimmt.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [§ 218 StGB – Schwangerschaftsabbruch](https://www.gesetze-im-internet.de/stgb/__218.html) · Strafgesetzbuch, Bundesamt für Justiz; Fassung zum Abrufzeitpunkt.
+  Quellenzugriff am 2026-11-18. Gesetzestext gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Der Schwangerschaftsabbruch ist in § 218 StGB geregelt; prüfen, ob die Bezeichnung als Artikel nur eine Verwechslung ist.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0087
 
@@ -659,7 +675,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Bei einer künftigen Wehrpflicht oder Einberufung von Reservisten könne ein weiblicher Geschlechtseintrag für einen Mann vorteilhaft sein.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -678,21 +694,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+§ 9 SBGG lässt die männliche Zuordnung für den Dienst mit der Waffe im Spannungs- und Verteidigungsfall bestehen, wenn die Änderung in unmittelbarem zeitlichem Zusammenhang erklärt wird (ab zwei Monaten vor dessen Feststellung). Ein kurzfristiger Vorteil ist damit ausgeschlossen; nur eine lange vorher erklärte Änderung würde wirken.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
+  Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Was regelt § 9 SBGG zur Zuordnung im Spannungs- und Verteidigungsfall?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0089
 
@@ -773,13 +790,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – zu pauschal: Es wird weder eine konkrete Paritätsregel noch ein Arbeitgeber genannt; eine allgemeine Regel, nach der eine Bewerberin die Stelle in jedem Fall bekommt, wurde in keiner gelesenen Quelle gefunden. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -788,6 +805,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Welche Vorrangregeln gelten im öffentlichen Dienst (z. B. Bundesgleichstellungsgesetz: Vorrang nur bei gleicher Eignung)? Gibt es solche Regeln in der Privatwirtschaft?
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
 
 ### Beziehungen
 
@@ -859,13 +878,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – keine Beschäftigtenstatistik zu IT-Stellen gelesen. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -874,6 +893,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Anteil der IT-Fachkräfte im öffentlichen Dienst an allen IT-Beschäftigten (Bundesagentur für Arbeit, Destatis) feststellen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
 
 ## bPXMY7Reeek-A0093
 
@@ -900,13 +921,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Nicht überprüfbar – keine Fallzahlen zu Änderungen nach dem SBGG gelesen; die Gesetzesbegründung nennt nur eingesparte Verfahrenskosten. Fehlende Bestätigung bedeutet nicht falsch.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -916,13 +937,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Wie viele Änderungen des Geschlechtseintrags wurden seit November 2024 erklärt (Statistiken oder Umfragen bei Standesämtern)?
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+
 ## bPXMY7Reeek-A0094
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das Selbstbestimmungsgesetz sei eingeführt worden, um die als entwürdigend empfundene Begutachtung mit Fragebögen und psychologischen Gutachten nach dem früheren Recht abzuschaffen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -941,21 +964,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Die Gesetzesbegründung nennt die Begutachtung nach dem Transsexuellengesetz als häufig entwürdigend und als Eingriff in Selbstbestimmung und Privatsphäre; ihre Abschaffung ist ein Kernziel.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Entwurf eines Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag, BT-Drucksache 20/9049](https://dserver.bundestag.de/btd/20/090/2009049.pdf) · Deutscher Bundestag, Gesetzentwurf der Bundesregierung vom 01.11.2023.
+  Quellenzugriff am 2026-11-18. Gesetzestext des Entwurfs und Allgemeiner Teil der Begründung bis etwa S. 27 gelesen (u. a. S. 2, 12, 20, 24–27). Der Besondere Teil (Einzelbegründung) war im abgerufenen Text nicht enthalten und wurde nicht gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Gesetzesbegründung zum SBGG (Bundestags-Drucksache 20/9049) auf die genannten Ziele prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0095
 
@@ -1004,7 +1028,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Sinan habe etwa neun Monate vor dem Gespräch in einem Video vorhergesagt, die Wahl von Jette Nietzard zur Vorsitzenden der Grünen Jugend werde in einen Eklat münden; das sei eingetreten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1023,23 +1047,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Jette Nietzard wurde im Oktober 2024 zur Sprecherin der Grünen Jugend gewählt; 2025 folgten mehrere öffentliche Kontroversen (u. a. ACAB-Pullover im Mai 2025), und sie trat nicht erneut an. Das angebliche frühere Video Sinans mit der Vorhersage ist nicht geprüft.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Grüne-Jugend-Chefin: Nietzard tritt nach ACAB-Vorfall nicht zurück](https://www.zdfheute.de/politik/deutschland/nietzard-gruene-jugend-acab-eklat-kein-ruecktritt-100.html) · ZDFheute, 31.05.2025.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
+
+- [Jette Nietzard kandidiert nicht mehr als Grüne-Jugend-Chefin](https://www.zdfheute.de/politik/deutschland/gruene-jugend-chefin-nietzard-kandidiert-nicht-mehr-100.html) · ZDFheute, 29.07.2025.
+  Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Wann wurde Nietzard gewählt, und welche Kontroversen gab es 2025?
-
-- Gibt es das genannte SinansWoche-Video mit Datum?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0097
 
@@ -1047,7 +1073,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nach dem früheren Transsexuellengesetz seien im Begutachtungsverfahren erniedrigende Fragebögen zu Sexualität und sexuellen Praktiken verwendet worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1066,21 +1092,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Die Gesetzesbegründung beschreibt die Begutachtung nach dem früheren Recht als oft übergriffig und entwürdigend empfunden, mit teils acht- bis zwölfstündigen Sitzungen. Fragebögen speziell zu Sexualpraktiken werden im gelesenen Teil nicht genannt.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Entwurf eines Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag, BT-Drucksache 20/9049](https://dserver.bundestag.de/btd/20/090/2009049.pdf) · Deutscher Bundestag, Gesetzentwurf der Bundesregierung vom 01.11.2023.
+  Quellenzugriff am 2026-11-18. Gesetzestext des Entwurfs und Allgemeiner Teil der Begründung bis etwa S. 27 gelesen (u. a. S. 2, 12, 20, 24–27). Der Besondere Teil (Einzelbegründung) war im abgerufenen Text nicht enthalten und wurde nicht gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Berichte und Studien zur Begutachtungspraxis nach dem TSG prüfen; das Gesetz selbst schrieb Gutachten, aber keinen bestimmten Fragebogen vor.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0098
 
@@ -1088,7 +1115,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine Änderung des Geschlechtseintrags habe nach dem früheren Verfahren sehr viel Geld gekostet (zugespitzt: ein halbes Vermögen).
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1107,21 +1134,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; noch keine Quelle geprüft und keine Bewertung geraten.
+Das frühere Verfahren kostete im Durchschnitt rund 1.900 Euro und wurde meist selbst bezahlt. Das ist erheblich; „ein halbes Vermögen“ ist eine Zuspitzung.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.
+Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Entwurf eines Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag, BT-Drucksache 20/9049](https://dserver.bundestag.de/btd/20/090/2009049.pdf) · Deutscher Bundestag, Gesetzentwurf der Bundesregierung vom 01.11.2023.
+  Quellenzugriff am 2026-11-18. Gesetzestext des Entwurfs und Allgemeiner Teil der Begründung bis etwa S. 27 gelesen (u. a. S. 2, 12, 20, 24–27). Der Besondere Teil (Einzelbegründung) war im abgerufenen Text nicht enthalten und wurde nicht gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Typische Kosten der Gutachten und des Gerichtsverfahrens nach dem TSG ermitteln.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0099
 

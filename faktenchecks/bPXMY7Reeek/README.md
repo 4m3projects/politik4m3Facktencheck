@@ -1,6 +1,6 @@
 # Campertalk mit Sinan (SinansWoche) bei IT Camper: unabhängiger Faktencheck
 
-**Status: Erfasst – Teilbestand, Sachrecherche ausstehend**
+**Status: Öffentliche Recherche abgeschlossen – Teilbestand**
 
 Stand: 18.11.2026.
 
@@ -20,7 +20,7 @@ Dieses Gespräch ist das **Original**, auf das sich das Video [GbhI-p_ycJE](../G
 
 Die automatisch erzeugten deutschen Originaluntertitel wurden vollständig gelesen (Text von 00:00:00 bis 03:11:13). Es gibt keine Textlücke über zehn Sekunden; die längste Pause liegt bei 02:46:43 (rund zehn Sekunden während einer Unterbrechung im Studio). Die letzten etwa drei Sekunden enthalten keinen Text. Das ist keine Hör- oder Sichtkontrolle. Namen von Creatorn sind in den automatischen Untertiteln teils unsicher geschrieben; solche Fälle sind bei den Aussagen vermerkt.
 
-Der Datenstand enthält 170 Prüfgegenstände aus allen 18 eigenen Themenbereichen: 91 Tatsachenbehauptungen sind offen und mit konkreten Prüffragen versehen, 41 sind mit Grund als nicht überprüfbar gekennzeichnet (vor allem persönliche Angaben und anonyme Quellen), 38 sind Meinungen oder Prognosen. Noch keine Aussage ist sachlich abschließend bewertet. Belanglose Plaudereien ohne Prüfrelevanz wurden bewusst nicht als eigene Prüfgegenstände aufgenommen.
+Der Datenstand enthält 170 Prüfgegenstände aus allen 18 eigenen Themenbereichen: 50 Tatsachenbehauptungen sind mit tatsächlich gelesenen Quellen bewertet, 38 sind Meinungen oder Prognosen, 82 sind mit Grund als nicht überprüfbar gekennzeichnet (vor allem persönliche Angaben, anonyme Quellen und Plattformdaten, die aus der Prüfumgebung nicht abrufbar waren). Keine Aussage steht mehr unbearbeitet offen. Belanglose Plaudereien ohne Prüfrelevanz wurden bewusst nicht als eigene Prüfgegenstände aufgenommen.
 
 - [Kurzbeschreibung](01_kurz.md)
 - [Eigenes Themenregister und Abdeckung](02_analyse.md)

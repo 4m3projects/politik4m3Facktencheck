@@ -1,4 +1,4 @@
-# Kurzbeschreibung – Erfassung ohne Sachrecherche
+# Kurzbeschreibung
 
 Stand: 18.11.2026. Diese Beschreibung ist unsere eigene Einordnung, kein Originalzitat.
 
@@ -6,4 +6,4 @@ Das gut dreistündige Gespräch beginnt als lockeres Kennenlernen: Sinan schilde
 
 Den größten Raum nimmt ein Streit über Geschlecht, Frauensport und das Selbstbestimmungsgesetz ein. Sinan entwickelt ein Gedankenspiel um eine montags Frauen vorbehaltene Sauna und behauptet mehrere Rechtsfolgen des Gesetzes; der Gastgeber hält dagegen, dass es um wenige Betroffene gehe. Zum Schluss diskutieren beide auf Sinans Wunsch über Reaktanz, Corona-Maßnahmen, den Umgang mit Ungeimpften und Regeln für Familienfeiern.
 
-Für die Prüfung sind persönliche Angaben, Rechtsbehauptungen, Aussagen über Dritte und politische Wertungen zu trennen. Mehrere Behauptungen beruhen auf nicht genannten Quellen. Eine Sachrecherche hat noch nicht stattgefunden; die Erfassung ist daher keine Bewertung des Gesprächs oder der Beteiligten.
+Für die Prüfung sind persönliche Angaben, Rechtsbehauptungen, Aussagen über Dritte und politische Wertungen zu trennen. Mehrere Behauptungen beruhen auf nicht genannten Quellen. Die Recherche zeigt ein gemischtes Bild: Viele Angaben beider Gesprächspartner sind belegt oder teilweise belegt. Widerlegt sind unter anderem Sinans Annahme, frühere Namen dürften nach dem Selbstbestimmungsgesetz nicht gespeichert werden, und seine Aussage, die Maskenbeschaffung werde gar nicht aufgearbeitet; beim Gastgeber die Größe einer Anwaltskanzlei und die Reihenfolge von 2G und 3G. Mehrere Rechtsfolgen, die Sinan dem Gesetz zuschreibt (Strafen für Falschansprechen, Saunazugang), fehlt wesentlicher Kontext. Das ist keine Gesamtbewertung des Gesprächs oder der Beteiligten.
