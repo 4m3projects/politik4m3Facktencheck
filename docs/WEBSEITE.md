@@ -127,3 +127,11 @@ Erstellt von: Claude. Überschrift „Fundstellen im Zeitverlauf“, Genauigkeit
 ## Berichtswechsel ohne Sprung nach oben
 
 Erstellt von: Claude, übernommen aus dem Schwesterprojekt Ungeskriptet. Ein Klick auf einen Bericht (Berichtsnavigation oder Link im Berichtstext) scrollt direkt zum Anfang des gewählten Berichts, knapp unter der Kopfleiste; die Scrollposition der Berichtsnavigation bleibt erhalten. Direktaufrufe und Neuladen beginnen oben. Geprüft in `site/relations-browser-test.js` (Desktop und 390 px).
+
+## Ausgeblendete Videos
+
+Erstellt von: Claude, auf Auftrag des Nutzers (18.11.2026). Faktenchecks zu Interviews der Reihe „{ungeskriptet} by Ben“ werden auf der Schwesterseite [Faktencheck Ungeskriptet](https://4m3projects.github.io/politik4m3FaktencheckUngeskriptet/) geführt und erscheinen deshalb nicht mehr auf dieser Webseite. Derzeit betrifft das `mdo14671BPE` (Naomi Seibt bei Ben) und `mlxFA9T88I0` (Horst Lüning bei Ben); beide sind im Repository des Schwesterprojekts vorhanden.
+
+- Die Daten unter `faktenchecks/<Video-ID>/` bleiben unverändert im Repository; Tests und Generator-Prüfung laufen weiter. Nur der Schritt „Webseite zusammenstellen“ in `.github/workflows/pages.yml` überspringt die Videos der Liste `ausgeblendet` und prüft anschließend, dass weder Dateien noch Index- oder Beziehungseinträge davon auf die Seite gelangen.
+- Rückweg: die Video-ID aus der Liste `ausgeblendet` entfernen.
+- Alte Direktlinks wie `#/video/<Video-ID>` führen danach ins Leere; die Ungeskriptet-Seite bleibt über das Menü am Seitentitel erreichbar.

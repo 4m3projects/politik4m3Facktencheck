@@ -71,11 +71,16 @@ jobs:
           sed -i -E "s#(src|href)=\"(style\.css|app\.js|sync\.js|video\.js|relations\.js|rhetoric\.js|ampel\.js)\"#\1=\"\2?v=${ver}\"#g" "$OUT/index.html"
           test "$(grep -c "?v=${ver}" "$OUT/index.html")" -eq 7
           if [[ -f faktenchecks/beziehungen.json ]]; then jq -c . faktenchecks/beziehungen.json > "$OUT/daten/beziehungen.json"; else echo '{"schemaVersion":1,"relations":[]}' > "$OUT/daten/beziehungen.json"; fi
+          # Ausgeblendete Videos: Faktenchecks zu Interviews der Reihe „{ungeskriptet} by Ben“ stehen auf der
+          # Schwesterseite politik4m3FaktencheckUngeskriptet. Ihre Daten bleiben im Repository, erscheinen hier aber
+          # nicht auf der Webseite. Begründung und Rückweg: docs/WEBSEITE.md, Abschnitt „Ausgeblendete Videos“.
+          ausgeblendet=" mdo14671BPE mlxFA9T88I0 "
           videos='[]'
           for dir in faktenchecks/*/; do
             id=$(basename "$dir")
             [[ "$id" =~ ^[A-Za-z0-9_-]{11}$ ]] || continue
             [[ -f "$dir/README.md" ]] || continue
+            if [[ "$ausgeblendet" == *" $id "* ]]; then echo "Ausgeblendet: $id"; continue; fi
             mkdir -p "$OUT/daten/$id"
             files=$(cd "$dir" && find . -type f -name '*.md' | sed 's|^\./||' | LC_ALL=C sort)
             while IFS= read -r f; do
@@ -110,6 +115,11 @@ jobs:
             --arg generated "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
             '{generated: $generated, commit: $commit, repository: $repository, videos: $videos}' > "$OUT/daten/index.json"
           echo "Videos: $(jq '.videos | length' "$OUT/daten/index.json")"
+          for id in $ausgeblendet; do
+            test ! -e "$OUT/daten/$id"
+            test "$(jq --arg id "$id" '[.videos[] | select(.id == $id)] | length' "$OUT/daten/index.json")" -eq 0
+            test "$(jq --arg id "$id" '[.relations[] | select(.reactionVideoId == $id or .originalVideoId == $id)] | length' "$OUT/daten/beziehungen.json")" -eq 0
+          done
           find "$OUT" -type f | sort
 
       - name: Seitenartefakt hochladen
