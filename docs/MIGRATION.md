@@ -68,3 +68,31 @@ Die Erkenntnisse aus Issue #1 sind berücksichtigt: keine künstlichen Aussagen 
 [Migrationsbericht und Recherchegrenzen](KAPITEL03_MIGRATION.md): alle 14 Altpunkte des Kapitels, davon 13 neu, weil C03-P07 bereits enthalten war. 33 von 99 Altpunkten übertragen, 66 verbleiben. A0077–A0178 sind 102 zusätzliche Datensätze; A0003 erhält ein weiteres Vorkommen. A0002 wird mit neu gelesener Firmenchronik und Lokalporträt begrenzt auf Teilweise belegt fortgeschrieben. A0003 behält den alten Preisteilbefund und benennt den gescheiterten erneuten Quellenabruf getrennt. Alle anderen bisherigen Aussagen, Vorkommen, Quellen und Herkunftstexte bleiben erhalten.
 
 178 Datensätze enthalten 176 eigene Aussageinhalte und zwei ausschließlich erörterte Inhalte. Migration vollständig für die Altpunkte der Kapitel 1–3, Sachprüfung weiterhin Teilprüfung. Eigener Branch und Draft gegen main auf Grundlage des noch ungeprüften Kapitel-2-Drafts; keine automatische Merge-Freigabe und kein Beginn von Kapitel 4. Die älteren Abschnitte dokumentieren historische Arbeitsstände.
+
+## Erweiterung um Kapitel 4 am 18.11.2026
+
+[Migrationsbericht und Recherchegrenzen](KAPITEL04_MIGRATION.md): alle 11 Altpunkte des Kapitels. 44 von 99 Altpunkten übertragen, 55 verbleiben. A0179–A0220 sind 42 zusätzliche Datensätze; A0011–A0013 erhalten je ein Hauptgesprächsvorkommen ohne Änderung ihrer Bewertung. Alle anderen bisherigen Aussagen, Vorkommen, Quellen und Herkunftstexte bleiben erhalten. 220 Datensätze enthalten 218 eigene Aussageinhalte und zwei ausschließlich erörterte Inhalte. Bearbeitet von Claude auf eigenem Branch, Draft gegen main; kein Merge ohne ausdrückliche Freigabe.
+
+## Erweiterung um Kapitel 5 am 18.11.2026
+
+[Migrationsbericht und Recherchegrenzen](KAPITEL05_MIGRATION.md): alle 13 Altpunkte. 57 von 99 übertragen, 42 verbleiben. A0221–A0272 sind 52 zusätzliche Datensätze; A0016–A0018 erhalten je ein Hauptgesprächsvorkommen ohne Änderung ihrer Bewertung. 272 Datensätze enthalten 270 eigene Aussageinhalte und zwei ausschließlich erörterte Inhalte.
+
+## Erweiterung um Kapitel 6 am 18.11.2026
+
+[Migrationsbericht und Recherchegrenzen](KAPITEL06_MIGRATION.md): die übrigen 10 Altpunkte (C06-P09 war mit A0005–A0008 bereits enthalten und bleibt unverändert). 67 von 99 übertragen, 32 verbleiben. A0273–A0299 sind 27 zusätzliche Datensätze. 299 Datensätze enthalten 297 eigene Aussageinhalte und zwei ausschließlich erörterte Inhalte.
+
+## Erweiterung um Kapitel 7 am 18.11.2026
+
+[Migrationsbericht und Recherchegrenzen](KAPITEL07_MIGRATION.md): alle 8 Altpunkte. 75 von 99 übertragen, 24 verbleiben. A0300–A0324 sind 25 zusätzliche Datensätze; A0014/A0015 erhalten Hauptgesprächsvorkommen ohne Änderung ihrer Bewertung. A0207 (Kapitel 4) wurde nach Lektüre des amtlichen Berliner Wahlergebnisses von Offen auf Belegt fortgeschrieben. 324 Datensätze enthalten 322 eigene Aussageinhalte und zwei ausschließlich erörterte Inhalte.
+
+## Erweiterung um Kapitel 8 am 18.11.2026
+
+[Migrationsbericht und Recherchegrenzen](KAPITEL08_MIGRATION.md): die übrigen 15 Altpunkte (C08-P03 war mit A0009/A0010 bereits enthalten und bleibt unverändert). 90 von 99 übertragen, 9 verbleiben. A0325–A0369 sind 45 zusätzliche Datensätze. 369 Datensätze enthalten 367 eigene Aussageinhalte und zwei ausschließlich erörterte Inhalte.
+
+## Erweiterung um Kapitel 9 am 18.11.2026
+
+[Migrationsbericht und Recherchegrenzen](KAPITEL09_MIGRATION.md): alle 7 Altpunkte. 97 von 99 übertragen, 2 verbleiben. A0370–A0391 sind 22 zusätzliche Datensätze. 391 Datensätze enthalten 388 eigene Aussageinhalte und drei ausschließlich erörterte Inhalte.
+
+## Erweiterung um Kapitel 10 und Abschluss der Migration am 18.11.2026
+
+[Kapitel 10 und Gesamtstand](KAPITEL10_MIGRATION.md): beide Altpunkte, A0392–A0395. Damit sind alle 99 Altpunkte übertragen. 395 Datensätze enthalten 392 eigene Aussageinhalte und drei ausschließlich erörterte Inhalte. Der Bestand bleibt Teilbestand, weil die Sachprüfung offen ist; ein Wechsel zu Vollbestand ist eine gesonderte Projektentscheidung.

@@ -5,10 +5,17 @@ Ein offenes Lernprojekt für quellenbasierte deutschsprachige Faktenchecks zu ei
 ## Vorhandener Datenbestand
 
 - [Bisherige Auswertung: Horst Lüning bei Ben](faktenchecks/mlxFA9T88I0/README.md): 14 unveränderte Berichtdateien mit 99 ursprünglichen Prüfpunkten; übernommener Arbeitsstand mit offenen Teilprüfungen.
-- [Strukturierte Auswertung desselben Videos](faktenchecks/mlxFA9T88I0/strukturiert/README.md): **33 von 99** ursprünglichen Prüfpunkten übertragen, darunter alle Altpunkte der Kapitel 1, 2 und 3. 178 Datensätze enthalten 176 Inhalte mit eigenem Aussagebezug und zwei ausschließlich erörterte Inhalte. 66 Altpunkte bleiben offen für die Migration; die Sachrecherche bleibt eine Teilprüfung. **Keine Statistik des vollständigen Videos.**
+- [Strukturierte Auswertung desselben Videos](faktenchecks/mlxFA9T88I0/strukturiert/README.md): **99 von 99** ursprünglichen Prüfpunkten übertragen (alle Kapitel). 395 Datensätze enthalten 392 Inhalte mit eigenem Aussagebezug und drei ausschließlich erörterte Inhalte. Die Sachrecherche bleibt eine Teilprüfung; der Bestand ist weiterhin als Teilbestand gekennzeichnet. **Keine Statistik des vollständigen Videos.**
 - [Redaktioneller Prüfbericht zu Kapitel 1](docs/KAPITEL01_MIGRATION.md).
 - [Migration und Recherchegrenzen von Kapitel 2](docs/KAPITEL02_MIGRATION.md).
 - [Migration, Einzelentscheidungen und Recherchegrenzen von Kapitel 3](docs/KAPITEL03_MIGRATION.md), Aktualisierung 18.11.2026. Baut auf dem noch ungeprüften Kapitel-2-Draft auf; unabhängige Gegenprüfung ausstehend.
+- [Migration und Recherchegrenzen von Kapitel 4](docs/KAPITEL04_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
+- [Migration und Recherchegrenzen von Kapitel 5](docs/KAPITEL05_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
+- [Migration und Recherchegrenzen von Kapitel 6](docs/KAPITEL06_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
+- [Migration und Recherchegrenzen von Kapitel 7](docs/KAPITEL07_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
+- [Migration und Recherchegrenzen von Kapitel 8](docs/KAPITEL08_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
+- [Migration und Recherchegrenzen von Kapitel 9](docs/KAPITEL09_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
+- [Kapitel 10 und Gesamtstand der Migration](docs/KAPITEL10_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
 - [Herkunft und Migration](docs/MIGRATION.md) und [Datenmodell / Entwickleranleitung](docs/STRUKTURIERTE_DATEN.md).
 
 ## Ein Video hinzufügen und bearbeiten

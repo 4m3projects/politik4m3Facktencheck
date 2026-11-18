@@ -1,8 +1,76 @@
 # Kapitel 08: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 33 von 99 ursprünglichen Prüfpunkten übertragen, 66 nicht migriert. Kapitel 1, 2 und 3 sind hinsichtlich ihrer Altpunkte vollständig übertragen; zusätzlich C06-P09 und C08-P03. Kapitel 3 wurde im abgegrenzten Textzeitraum vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos. Kein Beginn einer Migration von Kapitel 4.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 99 von 99 ursprünglichen Prüfpunkten übertragen, 0 nicht migriert. Kapitel 1 bis 10 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
-A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten.
+A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde.
+
+## Übertragene Herkunftspunkte und Zuordnung
+
+### C08-P03
+
+Zwei Aussagen: Die im Erststand belegte Nennung von Abstimmungen wird präzise auf den Wortlautbezug begrenzt. Die weitergehende Behauptung allgemeiner Bundesvolksgesetzgebung durch ein einfaches Gesetz wird gesondert behandelt. Die bisherigen Teilbefunde werden explizit extrahiert, nicht neu recherchiert.
+
+### C08-P01
+
+Qualifikationswertung und Doppelrolle Kanzler/Parteivorsitz als Meinungen geführt.
+
+### C08-P02
+
+Allgemeine Bürokratieaussage als prüfbare Tatsachenbehauptung offen gehalten.
+
+### C08-P04
+
+Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrolle getrennt.
+
+### C08-P05
+
+Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt.
+
+### C08-P06
+
+Nachrichtenverzicht nach Dobelli und Trennung von Politik und Privatleben getrennt.
+
+### C08-P07
+
+Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt.
+
+### C08-P08
+
+Werbeabschnitt: Förderanekdote, Forschungszulage und Anbieterleistung getrennt.
+
+### C08-P09
+
+Persönliche Angaben und externe Raumfahrtereignisse getrennt.
+
+### C08-P10
+
+Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet.
+
+### C08-P11
+
+Social-Media-, Politik- und Konzernwertungen sowie Pensionsprognose getrennt.
+
+### C08-P12
+
+Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt.
+
+### C08-P13
+
+Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt.
+
+### C08-P14
+
+Fähigkeiten, Angstbewältigung und Brokerstreuung als Rat geführt.
+
+### C08-P15
+
+Behauptetes Kanzlerzitat zu Tafeln getrennt erfasst.
+
+### C08-P16
+
+Kommentare unter eigenen Videos und Wertung zum Ruhestand getrennt.
+
+Die folgenden Detailprüfungen stehen im führenden Kapitel ihrer Aussage. Wiederholungen bereits anderswo erfasster Aussagen bleiben dort als zusätzliche Vorkommen erhalten und werden oben im Herkunftspunkt benannt. Keine zusätzliche Aussage allein wegen eines neuen Kapitels.
 
 ## mlxFA9T88I0-A0009
 
@@ -101,5 +169,2092 @@ Bewertungsuebergang: Die neue Einzelbewertung wird aus der bisherigen Begründun
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mlxFA9T88I0-A0325
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 1 (C08-P01).
+
+**Eigene Beschreibung:** Spitzenpolitiker seien optimal qualifiziert für den Aufstieg in der Partei, nicht für das Wohl des Landes.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:18:00–02:18:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8280s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:17:49–02:19:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8269s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Politische Wertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Qualifikationswertung und Doppelrolle Kanzler/Parteivorsitz als Meinungen geführt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung der Wertung.
+
+## mlxFA9T88I0-A0326
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 1 (C08-P01).
+
+**Eigene Beschreibung:** Ein Kanzler, der zugleich Parteivorsitzender ist, erbringe nur die Hälfte seiner Leistung für die Bürger.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:18:30–02:18:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8310s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:17:49–02:19:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8269s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Wertung; die zugrunde liegende Doppelfunktion ist nicht der Kern, eine Aufteilung der Arbeitszeit ist nicht belegt.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Qualifikationswertung und Doppelrolle Kanzler/Parteivorsitz als Meinungen geführt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung der Wertung.
+
+## mlxFA9T88I0-A0327
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 2 (C08-P02).
+
+**Eigene Beschreibung:** Unter keiner Regierung habe die Bürokratie je abgenommen, sie sei immer nur gestiegen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:18:50–02:19:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8330s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:18:40–02:19:39](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8320s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P02. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Prüfbar etwa am Bürokratiekostenindex oder Erfüllungsaufwand; keine Quelle gelesen. Der Gast spricht ausdrücklich von seiner Wahrnehmung. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Allgemeine Bürokratieaussage als prüfbare Tatsachenbehauptung offen gehalten.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Bürokratiekostenindex und Erfüllungsaufwand (Destatis) über mehrere Regierungen lesen.
+
+## mlxFA9T88I0-A0328
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 4 (C08-P04).
+
+**Eigene Beschreibung:** Die Schweizer hätten das Bargeld per Volksabstimmung in der Verfassung gesichert.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:20:00–02:20:20](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8400s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:20:00–02:20:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8400s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Am 8. März 2026 wurde in der Schweiz über eine Bargeld-Volksinitiative und einen direkten Gegenentwurf abgestimmt; beide betreffen die Verfassung. Das Ergebnis konnte nicht gelesen werden (Resultatseite ohne Zahlen). Der Gast äußert die Angabe mit Vorbehalt. Keine Endbewertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrolle getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+- [Initiative «Bargeld ist Freiheit» und direkter Gegenentwurf](https://www.admin.ch/de/bargeld-initiative) · Schweizerische Bundeskanzlei / admin.ch · Abstimmung vom 08.03.2026 über Volksinitiative und direkten Gegenentwurf (Bundesbeschluss über die schweizerische Währung und die Bargeldversorgung), beides Verfassungsvorlagen. Resultatseite lieferte im Werkzeug und im Browser keine Zahlen.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Abstimmungsgegenstände und Datum.
+
+### Offene Fragen und Unsicherheiten
+
+- Amtliches Ergebnis der Abstimmung vom 08.03.2026 lesen.
+
+## mlxFA9T88I0-A0329
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 4 (C08-P04).
+
+**Eigene Beschreibung:** Das Vertragspaket Bilaterale III müsse in der Schweiz einer Volksabstimmung unterstellt werden.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:20:20–02:20:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8420s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:20:00–02:20:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8400s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Bundesrat schlägt ein fakultatives Staatsvertragsreferendum vor; eine Volksabstimmung findet dann nur statt, wenn das Referendum ergriffen wird. Über die Referendumsart entscheidet das Parlament. Eine Abstimmung ist damit möglich und politisch erwartbar, aber nicht zwingend vorgeschrieben.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrolle getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+- [Bundesrat verabschiedet das Paket «Stabilisierung und Weiterentwicklung der Beziehungen Schweiz-EU» zuhanden des Parlaments](https://www.europa.eda.admin.ch/de/newnsb/HWvQ3sxWQ8hU-xZ4yDnSf) · Eidgenössisches Departement für auswärtige Angelegenheiten · Medienmitteilung 13.03.2026; Bundesrat schlägt fakultatives Staatsvertragsreferendum vor, endgültige Entscheidung über die Referendumsart im Parlament.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Fakultatives Referendum vorgeschlagen, Entscheid im Parlament.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mlxFA9T88I0-A0330
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 4 (C08-P04).
+
+**Eigene Beschreibung:** Die Parteien hätten sich den Staat zur Beute gemacht.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:20:40–02:20:55](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8440s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:20:00–02:20:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8400s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Politische Wertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrolle getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung der Wertung.
+
+## mlxFA9T88I0-A0331
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 5 (C08-P05).
+
+**Eigene Beschreibung:** Der Gast hat 43 oder 44 Länder besucht, in vier Ländern insgesamt mehr als ein Jahr verbracht und über die Länder Videos gedreht.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:21:25–02:21:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8485s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:21:00–02:23:39](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8460s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nicht überprüfbar – persönliche Selbstauskunft. Reiseumfang und Aufenthaltsdauer sind ohne private Unterlagen nicht prüfbar; Videos wären einzeln nachzuweisen.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine weitere Prüfung vorgesehen.
+
+## mlxFA9T88I0-A0332
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 5 (C08-P05).
+
+**Eigene Beschreibung:** Wer auswandert, müsse sich mental lösen und die neue Staatsbürgerschaft anstreben.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:21:55–02:22:25](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8515s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:21:00–02:23:39](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8460s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Persönlicher Rat.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung eines Rats.
+
+## mlxFA9T88I0-A0333
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 5 (C08-P05).
+
+**Eigene Beschreibung:** Um 1870 seien Briten mit Zehn-Pfund-Schiffen nach Australien ausgewandert, ohne je zurückkehren zu können; ähnlich bei Auswanderern in die USA.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:22:25–02:23:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8545s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:21:00–02:23:39](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8460s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Das als Ten Pound Poms bekannte Programm wird häufig mit der Nachkriegszeit verbunden; die Seite des Nationalmuseums Australiens war nicht abrufbar (HTTP 403). Ohne gelesene Quelle keine Bewertung der Jahresangabe.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Zeitraum und Preis des Zehn-Pfund-Programms anhand einer australischen Archivquelle lesen.
+
+## mlxFA9T88I0-A0334
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 6 (C08-P06).
+
+**Eigene Beschreibung:** Ein Autor (Rolf Dobelli) rate in einem im Internet verfügbaren Aufsatz, sich von Nachrichten zu trennen.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:24:00–02:24:25](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8640s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:23:40–02:25:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8620s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P06. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Name ist in der Automatik verballhornt. Rolf Dobelli beschreibt in einem gelesenen Essay von 2019, dass er seit fast zehn Jahren keine Nachrichten liest, und empfiehlt ein anderes Format. Der Kern der Empfehlung ist damit gestützt; der genannte Titel erscheint auf den gelesenen Seiten nicht.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Nachrichtenverzicht nach Dobelli und Trennung von Politik und Privatleben getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+- [News Lunch](https://www.dobelli.com/de/essays/news-lunch/) · Rolf Dobelli · Essay, März 2019; Verzicht auf Nachrichten seit fast zehn Jahren, alternatives Gesprächsformat; die Titel Avoid News bzw. Nachrichten-Diät erscheinen auf den gelesenen Seiten nicht.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Nachrichtenverzicht des Autors, Essay 2019.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mlxFA9T88I0-A0335
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 6 (C08-P06).
+
+**Eigene Beschreibung:** Der Nachrichtenstrom ziehe die Stimmung herunter; Politik lasse sich vom Privatleben trennen.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:24:25–02:25:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8665s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:23:40–02:25:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8620s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P06. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Persönliche Einschätzung und Rat.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Nachrichtenverzicht nach Dobelli und Trennung von Politik und Privatleben getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung.
+
+## mlxFA9T88I0-A0336
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 7 (C08-P07).
+
+**Eigene Beschreibung:** Das Buch Alles ist erreichbar von Raymond Hull wurde ihm von einem Makler geschenkt und ist inzwischen wieder neu aufgelegt worden.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:25:30–02:26:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8730s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:25:30–02:30:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8730s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nicht überprüfbar – persönliche Erinnerung; die Neuauflage ist nur mit Vorbehalt genannt und wurde nicht geprüft.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Verlagsangaben zur Neuauflage lesen.
+
+## mlxFA9T88I0-A0337
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 7 (C08-P07).
+
+**Eigene Beschreibung:** Eine handschriftliche Zehn-Punkte-Liste, die täglich neu abgeschrieben wird, verbessere das Leben schnell und deutlich.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:25:55–02:27:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8755s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:25:30–02:30:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8730s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+- [02:29:20–02:29:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8960s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:25:30–02:30:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8730s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Persönlicher Erfahrungsbericht und Rat; keine allgemeine Wirksamkeitsprüfung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung eines persönlichen Rats.
+
+## mlxFA9T88I0-A0338
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 7 (C08-P07).
+
+**Eigene Beschreibung:** Was man von Hand schreibt, merkt man sich besser.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:29:35–02:29:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8975s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:25:30–02:30:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8730s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Zu Handschrift und Gedächtnis gibt es Studien mit gemischten Ergebnissen; keine Quelle gelesen. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Übersichtsarbeit zu Handschrift und Behalten lesen.
+
+## mlxFA9T88I0-A0339
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 7 (C08-P07).
+
+**Eigene Beschreibung:** Arnold Schwarzenegger habe eine Liste mit fünf Zielen geführt und es so als Sohn eines Dorfpolizisten bis zum Gouverneur Kaliforniens geschafft.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:27:45–02:28:05](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8865s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:25:30–02:30:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8730s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Gouverneursamt und Herkunft sind öffentlich dokumentiert, wurden hier aber nicht gelesen (Lexikonseite nicht abrufbar). Die Listenpraxis ist eine Erzählung ohne geprüfte Quelle. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Biografische Quelle zu Herkunft und Amt sowie eigene Aussagen Schwarzeneggers zu Zielen lesen.
+
+## mlxFA9T88I0-A0340
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 7 (C08-P07).
+
+**Eigene Beschreibung:** Eine statistische Auswertung habe gezeigt, dass im Tatort oft Unternehmer oder Manager die Mörder sind.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:28:05–02:28:25](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8885s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:25:30–02:30:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=8730s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Ohne genannte Auswertung nicht prüfbar; keine Quelle gelesen. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche Auswertung ist gemeint?
+
+## mlxFA9T88I0-A0341
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 8 (C08-P08).
+
+**Eigene Beschreibung:** Bei einem Unternehmertreffen habe sich gezeigt, dass fast alle Anwesenden staatliche Fördermittel bezogen, nur der Moderator nicht.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:30:00–02:30:25](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9000s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:30:00–02:31:13](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9000s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nicht überprüfbar – persönliche Anekdote im Werbeabschnitt ohne benannte Personen.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Werbeabschnitt: Förderanekdote, Forschungszulage und Anbieterleistung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine weitere Prüfung vorgesehen.
+
+## mlxFA9T88I0-A0342
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 8 (C08-P08).
+
+**Eigene Beschreibung:** Unternehmen können über die Forschungszulage bis zu 4,2 Millionen Euro jährlich zurückbekommen, rückwirkend bis 2022.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:30:25–02:30:55](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9025s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:30:00–02:31:13](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9000s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Seit 2026 beträgt die maximale Bemessungsgrundlage 12 Millionen Euro; für kleine und mittlere Unternehmen gilt ein Satz von 35 Prozent. Das ergibt rechnerisch 4,2 Millionen Euro, aber nur für KMU; größere Unternehmen erhalten 25 Prozent. Aufwendungen können innerhalb der vierjährigen Festsetzungsfrist geltend gemacht werden, für 2022 also noch bis Ende 2026. Die Werbeaussage ist im Kern zutreffend, lässt aber die Begrenzung auf KMU weg.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Werbeabschnitt: Förderanekdote, Forschungszulage und Anbieterleistung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+- [Steuerliches Investitionssofortprogramm](https://www.bescheinigung-forschungszulage.de/steuerliches-investitionssofortprogramm) · Bescheinigungsstelle Forschungszulage · aktualisiert 29.10.2025; maximale Bemessungsgrundlage 12 Mio. Euro für Aufwendungen nach dem 31.12.2025.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Bemessungsgrundlage 12 Mio. Euro ab 2026.
+
+- [Wachstumschancengesetz](https://www.bescheinigung-forschungszulage.de/wachstumschancengesetz) · Bescheinigungsstelle Forschungszulage · aktualisiert 05.08.2025; Fördersatz für kleine und mittlere Unternehmen 35 statt 25 Prozent.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. KMU-Satz 35 Prozent.
+
+- [FAQ Forschungszulage](https://www.bescheinigung-forschungszulage.de/faq) · Bescheinigungsstelle Forschungszulage · Festsetzungsfrist höchstens vier Jahre nach Ablauf des Jahres der Aufwendungen; Sonderregel nur für 2020/2021.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Vierjährige Festsetzungsfrist.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mlxFA9T88I0-A0343
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 8 (C08-P08).
+
+**Eigene Beschreibung:** Der Werbepartner übernehme die Bürokratie des Förderantrags weitgehend KI-gestützt.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:30:55–02:31:05](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9055s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:30:00–02:31:13](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9000s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nicht überprüfbar – Werbeangabe des Anbieters ohne unabhängige Prüfgrundlage.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Werbeabschnitt: Förderanekdote, Forschungszulage und Anbieterleistung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Leistungsbeschreibung des Anbieters lesen; Qualität nicht unabhängig prüfbar.
+
+## mlxFA9T88I0-A0344
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 9 (C08-P09).
+
+**Eigene Beschreibung:** Der Gast hat einen Flugschein gemacht und ist acht Jahre geflogen; 2024 machte er eine Weltreise.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:31:15–02:31:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9075s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:31:13–02:33:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9073s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+- [02:32:20–02:33:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9140s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:31:13–02:33:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9073s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nicht überprüfbar – persönliche Selbstauskunft ohne öffentliche Unterlagen.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Persönliche Angaben und externe Raumfahrtereignisse getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine weitere Prüfung vorgesehen.
+
+## mlxFA9T88I0-A0345
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 9 (C08-P09).
+
+**Eigene Beschreibung:** Der Gast hat Luft- und Raumfahrttechnik studiert.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:31:35–02:31:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9095s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:31:13–02:33:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9073s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Biografische Angabe, an einer öffentlichen Biografie prüfbar; keine Quelle gelesen.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Persönliche Angaben und externe Raumfahrtereignisse getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Öffentliche Biografie des Gastes lesen.
+
+## mlxFA9T88I0-A0346
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 9 (C08-P09).
+
+**Eigene Beschreibung:** Eine New-Shepard-Rakete von Blue Origin hatte einen Fehlschlag, bei dem niemand ums Leben kam.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:31:40–02:31:58](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9100s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:31:13–02:33:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9073s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Herstellerseite war nicht abrufbar (HTTP 429); keine Quelle gelesen. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Persönliche Angaben und externe Raumfahrtereignisse getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Herstellerangabe oder Behördenbericht zur Mission NS-23 lesen.
+
+## mlxFA9T88I0-A0347
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 9 (C08-P09).
+
+**Eigene Beschreibung:** SpaceShipTwo von Richard Branson ist in der Luft auseinandergebrochen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:31:58–02:32:05](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9118s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:31:13–02:33:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9073s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Unfallbericht der NTSB konnte nicht geöffnet werden. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Persönliche Angaben und externe Raumfahrtereignisse getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- NTSB-Unfallbericht zum Absturz 2014 lesen.
+
+## mlxFA9T88I0-A0348
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 9 (C08-P09).
+
+**Eigene Beschreibung:** Ein privater Orbitalflug bei SpaceX koste etwa 40 Millionen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:32:05–02:32:20](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9125s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:31:13–02:33:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9073s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Preisangabe mit Vorbehalt; Preise privater Missionen sind meist nicht amtlich veröffentlicht. Keine Quelle gelesen.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Persönliche Angaben und externe Raumfahrtereignisse getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Veröffentlichte Preisangaben zu privaten Orbitalmissionen lesen.
+
+## mlxFA9T88I0-A0349
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 10 (C08-P10).
+
+**Eigene Beschreibung:** Untersuchungen zeigten, dass Gedanken im Gehirn entstehen, bevor sie bewusst werden.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:33:50–02:34:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9230s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:33:40–02:36:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9220s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Gemeint sind vermutlich Experimente zur Entscheidungsvorbereitung. Ihre Deutung ist wissenschaftlich umstritten; keine Fachquelle gelesen. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Übersichtsarbeit zu Libet-artigen Experimenten und deren Grenzen lesen.
+
+## mlxFA9T88I0-A0350
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 10 (C08-P10).
+
+**Eigene Beschreibung:** Das Gehirn sortiere nachts Ballast aus; mit genug Input komme die Lösung eines Problems oft im Schlaf.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:34:30–02:35:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9270s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:33:40–02:36:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9220s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Gedächtnisverarbeitung im Schlaf ist Forschungsgegenstand; die konkrete Darstellung wurde nicht anhand einer Fachquelle geprüft.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Fachquelle zu Schlaf, Gedächtniskonsolidierung und Problemlösen lesen.
+
+## mlxFA9T88I0-A0351
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 10 (C08-P10).
+
+**Eigene Beschreibung:** Gezieltes Füttern des Gehirns sei die einzige Möglichkeit, das Unterbewusste zu steuern.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:35:30–02:35:55](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9330s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:33:40–02:36:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9220s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Persönliche Schlussfolgerung und Rat.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung.
+
+## mlxFA9T88I0-A0352
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 11 (C08-P11).
+
+**Eigene Beschreibung:** Soziale Medien, besonders X, erzeugten durch Skandalmeldungen emotionale Unzufriedenheit.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:36:00–02:36:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9360s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: beide. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:36:00–02:40:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9360s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Persönliche Erfahrung und Wertung beider Gesprächspartner.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Social-Media-, Politik- und Konzernwertungen sowie Pensionsprognose getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung.
+
+## mlxFA9T88I0-A0353
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 11 (C08-P11).
+
+**Eigene Beschreibung:** Sich mit Politik zu beschäftigen sei meist Unterhaltung, getarnt als Bildung.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:36:55–02:37:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9415s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: beide. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:36:00–02:40:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9360s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Wertung des Moderators.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Social-Media-, Politik- und Konzernwertungen sowie Pensionsprognose getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung.
+
+## mlxFA9T88I0-A0354
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 11 (C08-P11).
+
+**Eigene Beschreibung:** Konzerne seien wegen Flurfunk und Ablenkung wenig innovativ.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:38:20–02:38:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9500s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: beide. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:36:00–02:40:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9360s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Wertende Verallgemeinerung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Social-Media-, Politik- und Konzernwertungen sowie Pensionsprognose getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung.
+
+## mlxFA9T88I0-A0355
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 11 (C08-P11).
+
+**Eigene Beschreibung:** Der Staat werde Pensionszusagen an Beamte vermutlich nicht einhalten.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Prognose
+
+### Fundstellen und Zuordnung
+
+- [02:40:00–02:40:28](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9600s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: beide. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:36:00–02:40:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9360s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+- [02:40:28–02:40:35](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9628s) · nicht bestaetigt; Kandidat: Horst Lüning · Ausdrückliche Zustimmung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Ausdrückliche Zustimmung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: beide. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Der Gast bestätigt die Wahrscheinlichkeit; plausibler Kandidat.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:36:00–02:40:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9360s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Moderator fragt, der Gast hält dies für durchaus wahrscheinlich. Zukunftsprognose.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Social-Media-, Politik- und Konzernwertungen sowie Pensionsprognose getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung einer Prognose.
+
+## mlxFA9T88I0-A0356
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 12 (C08-P12).
+
+**Eigene Beschreibung:** Geld und Staatsanleihen seien eigentlich dasselbe.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:41:00–02:41:05](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9660s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben / Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:40:59–02:43:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9659s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P12. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Verkürzte Gleichsetzung des Moderators; Anleihen tragen Zins- und Kursrisiko und sind kein Zahlungsmittel. Ohne gelesene Quelle keine Endbewertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Fachquelle zu Unterschieden zwischen Geld und Staatsanleihen lesen.
+
+## mlxFA9T88I0-A0357
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 12 (C08-P12).
+
+**Eigene Beschreibung:** Edelmetalle und Bitcoin seien wohl die gegenüber staatlichen Krisen widerstandsfähigsten Anlagen.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:41:25–02:41:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9685s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben / Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:40:59–02:43:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9659s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P12. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Einschätzung des Moderators ausdrücklich als Vermutung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung.
+
+## mlxFA9T88I0-A0358
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 12 (C08-P12).
+
+**Eigene Beschreibung:** Der Staat könne in einer Krise Aktiendepots einfrieren.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:41:40–02:42:05](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9700s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben / Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:40:59–02:43:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9659s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P12. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Rechtsgrundlagen für ein solches Einfrieren wurden nicht geprüft. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Rechtsgrundlagen für staatliche Eingriffe in Wertpapierdepots prüfen.
+
+## mlxFA9T88I0-A0359
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 12 (C08-P12).
+
+**Eigene Beschreibung:** Bei einem Wegzug könne man Aktien nach aktueller Rechtslage wohl mitnehmen, ohne sie versteuern zu müssen.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:42:05–02:42:25](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9725s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben / Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:40:59–02:43:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9659s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P12. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Moderator äußert sich unsicher. Die Wegzugsbesteuerung nach § 6 AStG erfasst nur Beteiligungen im Sinne von § 17 EStG; gewöhnliche Streubesitzdepots sind davon nicht betroffen. Die Schwelle in § 17 EStG wurde nicht gelesen, ebenso keine Regeln des Zuzugsstaates.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+- [Außensteuergesetz, § 6: Besteuerung des Vermögenszuwachses](https://www.gesetze-im-internet.de/astg/__6.html) · Bundesministerium der Justiz / Bundesamt für Justiz · geltender Text beim Abruf; Wegzugsbesteuerung für Anteile im Sinne von § 17 Absatz 1 Satz 1 EStG (Beteiligungsschwelle dort, nicht gelesen), sieben von zwölf Jahren unbeschränkter Steuerpflicht.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Anwendungsbereich der Wegzugsbesteuerung.
+
+### Offene Fragen und Unsicherheiten
+
+- § 17 EStG lesen; Besteuerung im Zuzugsstaat einbeziehen.
+
+## mlxFA9T88I0-A0360
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 12 (C08-P12).
+
+**Eigene Beschreibung:** Der Staat habe in der Vergangenheit auf Immobilieneigentum zugegriffen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:42:28–02:42:35](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9748s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben / Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:40:59–02:43:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9659s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P12. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Gemeinte Fälle sind nicht genannt (etwa historische Sonderabgaben). Keine Quelle gelesen.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche historischen Abgaben sind gemeint? Fachquelle lesen.
+
+## mlxFA9T88I0-A0361
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 12 (C08-P12).
+
+**Eigene Beschreibung:** Eine selbst genutzte Immobilie zu kaufen, sei heute eher unklug.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:43:20–02:43:35](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9800s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben / Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:40:59–02:43:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9659s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P12. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Persönliche Anlagewertung des Gastes.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung.
+
+## mlxFA9T88I0-A0362
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 13 (C08-P13).
+
+**Eigene Beschreibung:** Die meisten Menschen könnten sich nur eine Anlageform leisten, meist das eigene Haus, und seien dadurch gebunden.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:43:50–02:44:25](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9830s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:43:30–02:47:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9810s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P13. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Verallgemeinernde Einschätzung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung.
+
+## mlxFA9T88I0-A0363
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 13 (C08-P13).
+
+**Eigene Beschreibung:** Unter der NS-Verfolgung seien Menschen, die wegen Firmen und Häusern blieben, im KZ gelandet; Flüchtenden sei Gold an der Grenze abgenommen worden.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:44:20–02:45:05](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9860s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:43:30–02:47:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9810s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P13. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Historische Aussage zur Verfolgung im Nationalsozialismus; die Zeitangabe vor hundert Jahren ist ungenau. Keine historische Fachquelle gelesen. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Fachquelle zu Vermögensentzug und Fluchtbedingungen ab 1933 lesen.
+
+## mlxFA9T88I0-A0364
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 13 (C08-P13).
+
+**Eigene Beschreibung:** Privatleute sollten nach Anlageklassen und Ländern diversifizieren, etwa mit Depots im Ausland.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:45:25–02:46:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9925s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:43:30–02:47:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9810s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P13. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Anlagerat.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung eines Rats.
+
+## mlxFA9T88I0-A0365
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 14 (C08-P14).
+
+**Eigene Beschreibung:** Weltweit gefragte Fähigkeiten seien das, was man im Ernstfall mitnehmen könne.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:46:30–02:47:25](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9990s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:46:00–02:49:39](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9960s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P14. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Persönlicher Rat.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Fähigkeiten, Angstbewältigung und Brokerstreuung als Rat geführt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung.
+
+## mlxFA9T88I0-A0366
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 14 (C08-P14).
+
+**Eigene Beschreibung:** Angst solle man durchleben und in konstruktive Schritte, etwa Streuung über Broker und Länder, umwandeln.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:48:00–02:49:05](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10080s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:46:00–02:49:39](https://www.youtube.com/watch?v=mlxFA9T88I0&t=9960s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P14. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Persönlicher Rat.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Fähigkeiten, Angstbewältigung und Brokerstreuung als Rat geführt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung.
+
+## mlxFA9T88I0-A0367
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 15 (C08-P15).
+
+**Eigene Beschreibung:** Der Kanzler habe in seiner letzten Regierungserklärung gesagt, Suppenküchen und Tafeln machten Deutschland aus.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:49:30–02:49:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10170s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:49:00–02:50:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10140s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P15. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Behauptetes Zitat; der Moderator fragt ausdrücklich nach. Die Rede wurde nicht gelesen. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Behauptetes Kanzlerzitat zu Tafeln getrennt erfasst.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Plenarprotokoll der betreffenden Regierungserklärung lesen.
+
+## mlxFA9T88I0-A0368
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 16 (C08-P16).
+
+**Eigene Beschreibung:** Zuschauer bezeichneten den Gast in Kommentaren als Opa.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:50:05–02:50:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10205s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:50:00–02:51:43](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10200s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P16. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nicht überprüfbar – Kommentare unter eigenen Videos ohne Nachweis; persönliche Angabe.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Kommentare unter eigenen Videos und Wertung zum Ruhestand getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine weitere Prüfung vorgesehen.
+
+## mlxFA9T88I0-A0369
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/08_handlungsoptionen.md), Pruefpunkt 16 (C08-P16).
+
+**Eigene Beschreibung:** Ruhestand mit Fernsehen sei Warten auf den Tod; Arbeit halte ältere Menschen fit.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:50:25–02:51:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10225s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:50:00–02:51:43](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10200s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C08-P16. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Persönliche Wertung; Gesundheitsfolgen wären gesondert zu prüfen.
+
+Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Kommentare unter eigenen Videos und Wertung zum Ruhestand getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung der Wertung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
