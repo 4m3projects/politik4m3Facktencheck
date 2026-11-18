@@ -13,7 +13,7 @@ Ein neues Video benötigt nur einen Datensatz mit eigener elfstelliger YouTube-I
 | Bereich | Bedeutung |
 | --- | --- |
 | schemaVersion | 2; unbekannte Felder und andere Versionen werden abgewiesen |
-| scope | Video-ID/-URL, Laufzeit, Stichtag, Teilbestand/Vollbestand, coverageNote zur tatsächlichen Abdeckung, researchNote zur Recherchegrundlage sowie Migrationsumfang und ursprünglicher Commit oder null |
+| scope | Video-ID/-URL, Laufzeit, Stichtag (asOf = Prüfstichtag; das Erstelldatum des Videos steht in den Videodaten der README.md und ist Bewertungsmaßstab, siehe AGENTS.md Abschnitt 6), Teilbestand/Vollbestand, coverageNote zur tatsächlichen Abdeckung, researchNote zur Recherchegrundlage sowie Migrationsumfang und ursprünglicher Commit oder null |
 | legacyPoints | Eindeutige alte Prüfpunkt-IDs, Kapitel/Nummer, relativer alter Berichtspfad, SHA-256, vollständiger eigener alter Prüfpunkttext und Migrationsentscheidung |
 | sources | Quellen-ID, Titel, direkte HTTPS-URL, Autor/Institution/Datenstand in details, Abrufdatum und tatsächliche Zugriffsgrundlage |
 | speakers | Videointern stabile SP-IDs, Name oder null, Videorolle und tatsächliche Identifizierungsgrundlage |
