@@ -1,7 +1,7 @@
 # Erzeugt die statische Webseite aus den Faktencheck-Daten und veröffentlicht sie über GitHub Pages.
 # Pull Requests: nur Prüfung und Testaufbau, keine Veröffentlichung.
 # Push auf main: Prüfung, Aufbau und Veröffentlichung.
-# Es werden ausschließlich site/*.{html,css,js}, eigene Markdown-Berichte und die beiden
+# Es werden ausschließlich die Seitendateien aus site/ (ohne *-test.js), eigene Markdown-Berichte und die beiden
 # strukturierten JSON-Dateien je Video übernommen – keine anderen Dateien aus dem Repository.
 name: Webseite
 
@@ -30,6 +30,9 @@ jobs:
         shell: pwsh
         run: ./scripts/Test-Publication.ps1
 
+      - name: Synchronisationslogik testen
+        run: node --test site/sync-test.js
+
       - name: Webseite zusammenstellen
         env:
           OUT: ${{ runner.temp }}/site
@@ -37,7 +40,7 @@ jobs:
           set -euo pipefail
           rm -rf "$OUT"
           mkdir -p "$OUT/daten"
-          cp site/index.html site/style.css site/app.js "$OUT/"
+          cp site/index.html site/style.css site/app.js site/sync.js site/video.js "$OUT/"
           videos='[]'
           for dir in faktenchecks/*/; do
             id=$(basename "$dir")
