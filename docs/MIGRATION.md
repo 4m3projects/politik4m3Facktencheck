@@ -92,3 +92,7 @@ Die Erkenntnisse aus Issue #1 sind berücksichtigt: keine künstlichen Aussagen 
 ## Erweiterung um Kapitel 9 am 18.11.2026
 
 [Migrationsbericht und Recherchegrenzen](KAPITEL09_MIGRATION.md): alle 7 Altpunkte. 97 von 99 übertragen, 2 verbleiben. A0370–A0391 sind 22 zusätzliche Datensätze. 391 Datensätze enthalten 388 eigene Aussageinhalte und drei ausschließlich erörterte Inhalte.
+
+## Erweiterung um Kapitel 10 und Abschluss der Migration am 18.11.2026
+
+[Kapitel 10 und Gesamtstand](KAPITEL10_MIGRATION.md): beide Altpunkte, A0392–A0395. Damit sind alle 99 Altpunkte übertragen. 395 Datensätze enthalten 392 eigene Aussageinhalte und drei ausschließlich erörterte Inhalte. Der Bestand bleibt Teilbestand, weil die Sachprüfung offen ist; ein Wechsel zu Vollbestand ist eine gesonderte Projektentscheidung.

@@ -1,31 +1,31 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Teilbestand: 97 von 99 ursprünglichen Prüfpunkten übertragen, 2 nicht migriert. Kapitel 1 bis 9 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.",
+  "coverageNote": "Teilbestand: 99 von 99 ursprünglichen Prüfpunkten übertragen, 0 nicht migriert. Kapitel 1 bis 10 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.",
   "videoId": "mlxFA9T88I0",
-  "selectedLegacyPoints": 97,
+  "selectedLegacyPoints": 99,
   "totalLegacyPoints": 99,
-  "statementRecords": 391,
-  "uniqueStatements": 388,
+  "statementRecords": 395,
+  "uniqueStatements": 392,
   "referenceOnlyStatements": 3,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 431,
-  "additionalAssertionOccurrences": 43,
+  "assertionOccurrences": 436,
+  "additionalAssertionOccurrences": 44,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 11,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 153,
+    "Offen": 156,
     "In Bearbeitung": 72,
-    "Abgeschlossen": 163
+    "Abgeschlossen": 164
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 314,
-    "Meinung": 57,
+    "Tatsachenbehauptung": 317,
+    "Meinung": 58,
     "Prognose": 17
   },
   "completedFacts": 89,
-  "openFacts": 153,
+  "openFacts": 156,
   "inProgressFacts": 72,
   "percentageDenominator": 89,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
@@ -57,7 +57,7 @@
     },
     {
       "category": "Meinung / Prognose",
-      "completedCount": 74,
+      "completedCount": 75,
       "completedFactPercent": null
     }
   ],
@@ -147,19 +147,19 @@
         ]
       }
     ],
-    "eligibleFacts": 314,
+    "eligibleFacts": 317,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 314,
-    "factsWithUncertainAttribution": 314,
-    "factsWithUncertainOwnRole": 314,
+    "factsWithoutReliablePerson": 317,
+    "factsWithUncertainAttribution": 317,
+    "factsWithUncertainOwnRole": 317,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 442,
+      "Plausibel": 447,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
-      "Plausibel": 442,
+      "Plausibel": 447,
       "Ungeklärt": 0
     }
   }

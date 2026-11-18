@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Teilbestand: 97 von 99 ursprünglichen Prüfpunkten übertragen, 2 nicht migriert. Kapitel 1 bis 9 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Abdeckung: Teilbestand: 99 von 99 ursprünglichen Prüfpunkten übertragen, 0 nicht migriert. Kapitel 1 bis 10 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
 Herkunftscommit: bb6e666961baf719d02671a7ad2f439086f3c530
 
@@ -4311,3 +4311,75 @@ Bewertungsuebergang mlxFA9T88I0-A0390: Eigenständige Einzelentscheidung; frühe
 
 
 Bewertungsuebergang mlxFA9T88I0-A0391: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C10-P01
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/10_abschluss.md)
+
+Referenzhash der Kapiteldatei: 2d2edd67fa67b1ab15832c5ff52e46e47d3c8bc0b7d85f22a900507812be0651
+
+Behauptete gleiche Antwort eines anderen Interviewgastes, persönliche Partnerschaftsangabe und Rat getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 1
+
+- **Fundstelle:** [03:03:00–03:05:20](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10980s)
+- **Zuordnung:** Lüning / Ben
+- **Prüfgegenstand – unsere Beschreibung:** Roger Köppel habe wenige Wochen zuvor dieselbe Post-it-Antwort gegeben; beide Partner dächten durch Zusammenarbeit fast gleich.
+- **Bewertung:** nicht ausreichend belegbar / persönliche Erfahrung
+
+**Unsere Begründung und Grenzen:** Die frühere Folge wurde nicht abgeglichen. Eine lange gemeinsame Lebens- und Arbeitserfahrung erklärt die subjektive Beschreibung, beweist aber keine Identität von Gehirnen oder Wissen. Die Formulierungen sind als partnerschaftliche Metapher und Vertrauenserklärung zu verstehen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=10980s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0392 | Offen | keine Endbewertung | Behauptete gleiche Antwort eines anderen Interviewgastes, persönliche Partnerschaftsangabe und Rat getrennt. |
+| mlxFA9T88I0-A0393 | Offen | keine Endbewertung | Behauptete gleiche Antwort eines anderen Interviewgastes, persönliche Partnerschaftsangabe und Rat getrennt. |
+| mlxFA9T88I0-A0394 | Abgeschlossen | Meinung / Prognose | Behauptete gleiche Antwort eines anderen Interviewgastes, persönliche Partnerschaftsangabe und Rat getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0392: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0393: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0394: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C10-P02
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/10_abschluss.md)
+
+Referenzhash der Kapiteldatei: 2d2edd67fa67b1ab15832c5ff52e46e47d3c8bc0b7d85f22a900507812be0651
+
+Hinweis des Moderators auf den Newsletter als Eigenangabe geführt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 2
+
+- **Fundstelle:** [03:04:40–03:06:06](https://www.youtube.com/watch?v=mlxFA9T88I0&t=11080s)
+- **Zuordnung:** Lüning / Ben
+- **Prüfgegenstand – unsere Beschreibung:** Die passende Antwort auf die hypothetische Amnesie sei, die eigene Frau zu fragen; Newsletter informiere unabhängig von Plattformen.
+- **Bewertung:** persönlicher Rat / technische Reichweite begrenzt
+
+**Unsere Begründung und Grenzen:** Die Antwort ist keine medizinische Behauptung zur Heilung einer Amnesie. Ein Newsletter verringert Abhängigkeit von einem Social-Media-Feed, hängt aber weiter von Versand-, Empfangs- und Spamregeln ab; die tatsächliche Zustellung wurde nicht getestet. Abonnementaufrufe sind Eigenwerbung, kein weiterer Finanz- oder Politikbeleg.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=11080s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0395 | Offen | keine Endbewertung | Hinweis des Moderators auf den Newsletter als Eigenangabe geführt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0395: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
