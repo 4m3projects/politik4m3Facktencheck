@@ -1,6 +1,6 @@
 # Kapitel 3: Unternehmensentwicklung, Geschäftsangaben und Schutzregeln
 
-Stand: 18.11.2026. Aktualisierung im eigenständigen Kapitel-3-Auftrag. Arbeitsbranch `codex/migration-kapitel-03`, zur Gegenprüfung als Draft gegen `main`. Dieser Branch baut auf dem noch nicht zusammengeführten Kapitel-2-Draft auf. Keine Merge-Freigabe und kein Beginn von Kapitel 4.
+Stand: 18.11.2026. Aktualisierung im eigenständigen Kapitel-3-Auftrag. Vorbereitet von Codex auf dem lokalen Branch `codex/migration-kapitel-03`; nach der Projektübergabe von Claude auf `claude/project-thread-a9k8oo` eingespielt und gemeinsam mit Kapitel 2 als Draft gegen `main` vorgelegt (PR #11, ersetzt PR #2). Keine Merge-Freigabe und kein Beginn von Kapitel 4.
 
 ## Umfang und Herkunft
 
