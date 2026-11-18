@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Teilbestand: 20 von 99 ursprünglichen Prüfpunkten übertragen. Kapitel 1 (drei) und Kapitel 2 (14) sowie die bereits vorhandenen C03-P07, C06-P09 und C08-P03. 76 Aussage-Datensätze, davon 75 mit eigenem Aussagebezug und ein ausschließlich erörterter Erklärungsversuch. 79 Altpunkte nicht migriert. Keine Statistik des vollständigen Videos. Keine weitere Migration von Kapitel 3.
+Abdeckung: Teilbestand: 33 von 99 ursprünglichen Prüfpunkten übertragen, 66 nicht migriert. Kapitel 1, 2 und 3 sind hinsichtlich ihrer Altpunkte vollständig übertragen; zusätzlich C06-P09 und C08-P03. Kapitel 3 wurde im abgegrenzten Textzeitraum vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos. Kein Beginn einer Migration von Kapitel 4.
 
 Herkunftscommit: bb6e666961baf719d02671a7ad2f439086f3c530
 
@@ -34,20 +34,40 @@ Vier Aussagen: Registrierungsabstand und späterer Erwerb von whisky.de sind get
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0001 | Offen | keine Endbewertung | Übernommen: die Acht-Wochen-Angabe; zugeordnet: der bisher ausdrücklich nicht belegte Registrierungsabstand. |
-| mlxFA9T88I0-A0002 | Offen | keine Endbewertung | Übernommen: der spätere Erwerb; erhalten bleibt auch die alte Anmerkung zum ungeprüften Preis von whisky.de im Herkunftstext. |
+| mlxFA9T88I0-A0002 | Abgeschlossen | Teilweise belegt | Übernommen: der spätere Erwerb; erhalten bleibt auch die alte Anmerkung zum ungeprüften Preis von whisky.de im Herkunftstext. |
 | mlxFA9T88I0-A0003 | Abgeschlossen | Belegt | Übernommen: Erwerb und Kaufpreis von whisky.com sowie die dazugehörige Firmenmitteilung. Die alte Sammelbewertung teilweise belegt wird ausdrücklich zu einem engeren Einzelbefund differenziert. |
 | mlxFA9T88I0-A0004 | Offen | keine Endbewertung | Übernommen: die ungefähre Rangposition; zugeordnet: die bisherigen Einschränkungen zu Rangdefinition und Stichtag. |
+| mlxFA9T88I0-A0120 | Offen | keine Endbewertung | A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt. |
+| mlxFA9T88I0-A0121 | In Bearbeitung | keine Endbewertung | A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt. |
+| mlxFA9T88I0-A0122 | Offen | keine Endbewertung | A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt. |
+| mlxFA9T88I0-A0123 | Abgeschlossen | Teilweise belegt | A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt. |
+| mlxFA9T88I0-A0124 | Offen | keine Endbewertung | A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt. |
 
 Bewertungsuebergang mlxFA9T88I0-A0001: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0002: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+Bewertungsuebergang mlxFA9T88I0-A0002: Aktualisierung Kapitel 3: bisher Offen ohne eigenen Sachbeleg; nun Teilweise belegt aufgrund neu gelesener Firmenchronik und Lokalporträt. Frühere Entscheidung und vollständiger Altpunkt bleiben in Git-Historie beziehungsweise Herkunft erhalten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0003: Die neue Einzelbewertung wird aus der bisherigen Begründung abgeleitet. Die historische Sammelbewertung bleibt im Herkunftstext erhalten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0004: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0120: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0121: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0122: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0123: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0124: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
 ## C06-P09
@@ -876,3 +896,745 @@ Bewertungsuebergang mlxFA9T88I0-A0075: Neue Einzelentscheidung in Status, Begrü
 
 
 Bewertungsuebergang mlxFA9T88I0-A0076: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+
+
+## C03-P01
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md)
+
+Referenzhash der Kapiteldatei: 45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31
+
+Segmentanteil und Anteil interessierter Einwohner getrennt; der begrifflich unklare Bevölkerungsbezug bleibt erhalten.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 1
+
+- **Fundstelle:** [00:36:58–00:38:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=2218s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Etwa ein Viertel Marktanteil bei hochwertigen Whiskys ab 50 Euro; nur 0,2 Prozent der Bevölkerung interessierten sich dafür.
+- **Bewertung:** nicht ausreichend belegbar
+
+**Unsere Begründung und Grenzen:** Bezugsmarkt, Zeitraum, Händlerabdeckung und Lieferantendaten fehlen. Der eine Wert ist eine Segmentquote, der andere eine Bevölkerungsquote; beide können nicht ohne Definition verknüpft werden.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=2218s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0077 | Offen | keine Endbewertung | Segmentanteil und Anteil interessierter Einwohner getrennt; der begrifflich unklare Bevölkerungsbezug bleibt erhalten. |
+| mlxFA9T88I0-A0078 | Offen | keine Endbewertung | Segmentanteil und Anteil interessierter Einwohner getrennt; der begrifflich unklare Bevölkerungsbezug bleibt erhalten. |
+
+Bewertungsuebergang mlxFA9T88I0-A0077: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0078: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C03-P02
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md)
+
+Referenzhash der Kapiteldatei: 45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31
+
+Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 2
+
+- **Fundstelle:** [00:38:10–00:40:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=2290s)
+- **Zuordnung:** Lüning / Ben
+- **Prüfgegenstand – unsere Beschreibung:** 600–800 Quadratmeter Lager, mehrere hunderttausend Flaschen, fünf bis sechs Millionen Euro Warenbestand; Jahresumsatz deutlich über zehn, unter fünfzig Millionen; Ben schätzt 25 Millionen.
+- **Bewertung:** nicht ausreichend belegbar / Zuschreibung korrigiert
+
+**Unsere Begründung und Grenzen:** Keine geprüften Inventuren oder Abschlüsse liegen vor. Die 25 Millionen sind Bens Schätzung, keine eindeutige Bestätigung Lünings. Die Untertitelstelle bei 00:40 enthält erkennbaren Erkennungsfehler (Jägermeister); eine Audioüberprüfung erfolgte nicht, die Zahl wird deshalb nur ungefähr wiedergegeben.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=2290s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0079 | In Bearbeitung | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
+| mlxFA9T88I0-A0080 | Offen | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
+| mlxFA9T88I0-A0081 | Offen | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
+| mlxFA9T88I0-A0082 | Abgeschlossen | Teilweise belegt | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
+| mlxFA9T88I0-A0083 | In Bearbeitung | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
+
+Bewertungsuebergang mlxFA9T88I0-A0079: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0080: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0081: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0082: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0083: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C03-P03
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md)
+
+Referenzhash der Kapiteldatei: 45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31
+
+Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 3
+
+- **Fundstelle:** [00:41:00–00:45:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=2460s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Gründung 1993; zunächst 66 Flaschen; erste Anzeigen, Wiederkäufe und ein früh auf eine Million hochgerechneter Umsatz; Qualifikation und Einstellung der ersten Mitarbeiterin.
+- **Bewertung:** nicht ausreichend belegbar
+
+**Unsere Begründung und Grenzen:** Unternehmenshistorie und Erinnerungen sind plausible Selbstauskunft, keine unabhängig geprüfte Chronik. 32 Jahre seit 1993 passen eher zu 2025; das Gespräch wurde laut Beschreibung 2026 aufgenommen. Ob Rundung oder Transkriptfehler vorliegt, bleibt offen. Personenbezogene Anekdoten werden nicht weiter recherchiert.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=2460s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0084 | Abgeschlossen | Teilweise belegt | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
+| mlxFA9T88I0-A0085 | In Bearbeitung | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
+| mlxFA9T88I0-A0086 | Abgeschlossen | Teilweise belegt | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
+| mlxFA9T88I0-A0087 | Offen | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
+| mlxFA9T88I0-A0088 | In Bearbeitung | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
+| mlxFA9T88I0-A0089 | In Bearbeitung | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
+| mlxFA9T88I0-A0090 | Offen | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
+| mlxFA9T88I0-A0091 | Offen | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
+
+Bewertungsuebergang mlxFA9T88I0-A0084: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0085: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0086: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0087: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0088: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0089: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0090: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0091: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C03-P04
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md)
+
+Referenzhash der Kapiteldatei: 45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31
+
+Lagerfähigkeit, Kennzeichnung und behauptete Entsorgungspflicht getrennt. Mindesthaltbarkeit ist keine Garantie unveränderter Qualität und kein Verbrauchsdatum.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 4
+
+- **Fundstelle:** [00:42:09–00:43:12](https://www.youtube.com/watch?v=mlxFA9T88I0&t=2529s)
+- **Zuordnung:** beide
+- **Prüfgegenstand – unsere Beschreibung:** Whisky sei gegenüber Olivenöl praktisch unbegrenzt lagerfähig.
+- **Bewertung:** teilweise belegt / Bedingungen fehlen
+
+**Unsere Begründung und Grenzen:** Der unternehmerische Vergleich bezieht sich auf ungeöffnete Ware; unbegrenzte unveränderte Qualität ist zu absolut. Verschluss, Licht, Lagerung und geöffnete Flaschen werden nicht unterschieden. Eine lebensmittelrechtliche und analytische Prüfung wurde nicht abgeschlossen; keine Haltbarkeitsgarantie.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=2529s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0092 | Abgeschlossen | Teilweise belegt | Lagerfähigkeit, Kennzeichnung und behauptete Entsorgungspflicht getrennt. Mindesthaltbarkeit ist keine Garantie unveränderter Qualität und kein Verbrauchsdatum. |
+| mlxFA9T88I0-A0093 | Abgeschlossen | Irreführend / Kontext fehlt | Lagerfähigkeit, Kennzeichnung und behauptete Entsorgungspflicht getrennt. Mindesthaltbarkeit ist keine Garantie unveränderter Qualität und kein Verbrauchsdatum. |
+| mlxFA9T88I0-A0094 | In Bearbeitung | keine Endbewertung | Lagerfähigkeit, Kennzeichnung und behauptete Entsorgungspflicht getrennt. Mindesthaltbarkeit ist keine Garantie unveränderter Qualität und kein Verbrauchsdatum. |
+
+Bewertungsuebergang mlxFA9T88I0-A0092: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0093: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0094: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C03-P05
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md)
+
+Referenzhash der Kapiteldatei: 45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31
+
+Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 5
+
+- **Fundstelle:** [00:45:59–00:49:48](https://www.youtube.com/watch?v=mlxFA9T88I0&t=2759s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Keller- und Hallenbauten, DHL-Logistik ab 2012, später Nürnberg und Aurach, sechs Lagerkräfte mit drei Übernahmen; heute etwa zwanzig Bürobeschäftigte.
+- **Bewertung:** nicht ausreichend belegbar
+
+**Unsere Begründung und Grenzen:** Verträge, Personalstände und Bauunterlagen fehlen. Das sind mehrere ausdrücklich erfasste Unternehmensangaben, nicht als Tatsachen verifizierte Daten. Die Vorteile von Fremdlogistik hängen von Vertragskosten und Auslastung ab.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=2759s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0095 | Abgeschlossen | Teilweise belegt | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
+| mlxFA9T88I0-A0096 | Abgeschlossen | Teilweise belegt | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
+| mlxFA9T88I0-A0097 | Abgeschlossen | Teilweise belegt | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
+| mlxFA9T88I0-A0098 | Offen | keine Endbewertung | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
+| mlxFA9T88I0-A0099 | In Bearbeitung | keine Endbewertung | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
+| mlxFA9T88I0-A0100 | Abgeschlossen | Teilweise belegt | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
+| mlxFA9T88I0-A0101 | Offen | keine Endbewertung | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
+| mlxFA9T88I0-A0102 | Offen | keine Endbewertung | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
+| mlxFA9T88I0-A0103 | Abgeschlossen | Teilweise belegt | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
+| mlxFA9T88I0-A0104 | In Bearbeitung | keine Endbewertung | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
+
+Bewertungsuebergang mlxFA9T88I0-A0095: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0096: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0097: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0098: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0099: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0100: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0101: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0102: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0103: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0104: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C03-P06
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md)
+
+Referenzhash der Kapiteldatei: 45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31
+
+Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 6
+
+- **Fundstelle:** [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlxFA9T88I0&t=3000s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Online seit 1994; selbst programmierte Website, frühe Trafficgebühren und US-Hosting; spätere eigene Server; DDoS-Erpressung und Cloudflare-Schutz.
+- **Bewertung:** nicht ausreichend belegbar (Einzelfall)
+
+**Unsere Begründung und Grenzen:** Historische Rechnungen, Quellstände, Logs und Erpressungsnachrichten liegen nicht vor. Der allgemeine Mechanismus von Botnetzerpressung ist technisch plausibel, beweist den geschilderten Vorfall aber nicht. Kein Zugriff auf Sicherheitsdaten wurde vorgenommen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=3000s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0105 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0106 | Abgeschlossen | Teilweise belegt | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0107 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0108 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0109 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0110 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0111 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0112 | Abgeschlossen | Belegt | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0113 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0114 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0115 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0116 | Abgeschlossen | Belegt | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0117 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0118 | Abgeschlossen | Teilweise belegt | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0119 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+
+Bewertungsuebergang mlxFA9T88I0-A0105: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0106: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0107: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0108: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0109: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0110: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0111: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0112: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0113: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0114: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0115: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0116: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0117: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0118: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0119: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C03-P08
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md)
+
+Referenzhash der Kapiteldatei: 45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31
+
+Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 8
+
+- **Fundstelle:** [00:58:59–01:00:36](https://www.youtube.com/watch?v=mlxFA9T88I0&t=3539s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Generische Domains hätten damals direkte Suchvorteile und Werbeerlöse gebracht; spätere Google-Änderungen hätten den Vorteil geschwächt.
+- **Bewertung:** teilweise belegbar / betriebliche Kausalität offen
+
+**Unsere Begründung und Grenzen:** Die Unternehmensmitteilung belegt das Ziel einer internationalen Inhaltsplattform. Rentabilität, Einsparung sämtlicher Suchwerbung und die tatsächlichen Effekte einzelner Suchalgorithmusänderungen werden dort nicht nachgerechnet. Keine Google-Rankinggarantie für generische Domains.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Whisky.de buys Whisky.com for $ 3.1 million](https://www.whisky.com/presse/pressemeldungen/whiskyde-buys-whiskycom-for-31-million.html) · Whisky.de / Whisky.com · Stand: 03.03.2014; Unternehmensmitteilung.
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=3539s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0125 | In Bearbeitung | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+| mlxFA9T88I0-A0126 | In Bearbeitung | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+| mlxFA9T88I0-A0127 | Offen | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+| mlxFA9T88I0-A0128 | Abgeschlossen | Teilweise belegt | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+| mlxFA9T88I0-A0129 | Offen | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+| mlxFA9T88I0-A0130 | Offen | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+| mlxFA9T88I0-A0131 | Offen | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+| mlxFA9T88I0-A0132 | Abgeschlossen | Teilweise belegt | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+| mlxFA9T88I0-A0133 | In Bearbeitung | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+
+Bewertungsuebergang mlxFA9T88I0-A0125: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0126: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0127: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0128: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0129: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0130: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0131: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0132: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0133: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C03-P09
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md)
+
+Referenzhash der Kapiteldatei: 45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31
+
+Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 9
+
+- **Fundstelle:** [01:00:36–01:03:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=3636s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** 167 besuchte Brennereien; Fotodatenbank größer als Wikipedia; frühe Foto-CD-Pläne, Rechtsstreitigkeiten gegen Bilderdiebstahl, weitere Reisen des Sohnes.
+- **Bewertung:** nicht ausreichend belegbar
+
+**Unsere Begründung und Grenzen:** Die Zahl der Besuche und der vergleichbare Datenbankumfang wurden nicht inventarisiert. Ein Vergleich größer braucht ein Maß. Geschäftsreisen, Rechteverletzungen und CD-Pläne sind Selbstauskunft. Die Firmenmitteilung 2014 dokumentiert umfangreiche Inhalte, ersetzt aber keine aktuelle vollständige Zählung.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Whisky.de buys Whisky.com for $ 3.1 million](https://www.whisky.com/presse/pressemeldungen/whiskyde-buys-whiskycom-for-31-million.html) · Whisky.de / Whisky.com · Stand: 03.03.2014; Unternehmensmitteilung.
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=3636s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0134 | In Bearbeitung | keine Endbewertung | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
+| mlxFA9T88I0-A0135 | In Bearbeitung | keine Endbewertung | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
+| mlxFA9T88I0-A0136 | In Bearbeitung | keine Endbewertung | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
+| mlxFA9T88I0-A0137 | Offen | keine Endbewertung | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
+| mlxFA9T88I0-A0138 | Abgeschlossen | Teilweise belegt | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
+| mlxFA9T88I0-A0139 | Abgeschlossen | Meinung / Prognose | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
+
+Bewertungsuebergang mlxFA9T88I0-A0134: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0135: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0136: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0137: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0138: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0139: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C03-P10
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md)
+
+Referenzhash der Kapiteldatei: 45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31
+
+Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 10
+
+- **Fundstelle:** [01:00:50–01:01:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=3650s)
+- **Zuordnung:** Lüning / Ben
+- **Prüfgegenstand – unsere Beschreibung:** Explosionsgefahr durch Kameras sei vorgeschoben; seit um 2000 seien Brennereien Chemiewerke und Fotos praktisch illegal.
+- **Bewertung:** irreführend / Kontext fehlt
+
+**Unsere Begründung und Grenzen:** HSE verlangt Risikoprüfung, Zoneneinteilung und Vermeidung von Zündquellen durch ungeschützte Geräte in explosionsgefährdeten Bereichen. Das Risiko kann damit nicht pauschal als erfunden abgetan werden. Daraus folgt zugleich kein generelles britisches oder EU-weites Fotoverbot in jeder Brennerei. Die exakte historische Regeländerung bleibt offen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [The Dangerous Substances and Explosive Atmospheres Regulations 2002 (DSEAR)](https://www.hse.gov.uk/fireandexplosion/dsear.htm) · Health and Safety Executive, Großbritannien · Stand: HSE-Erläuterung, aktualisiert 14.10.2024; DSEAR 2002.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0140 | Abgeschlossen | Irreführend / Kontext fehlt | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
+| mlxFA9T88I0-A0141 | In Bearbeitung | keine Endbewertung | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
+| mlxFA9T88I0-A0142 | Abgeschlossen | Irreführend / Kontext fehlt | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
+| mlxFA9T88I0-A0143 | In Bearbeitung | keine Endbewertung | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
+| mlxFA9T88I0-A0144 | In Bearbeitung | keine Endbewertung | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
+| mlxFA9T88I0-A0145 | In Bearbeitung | keine Endbewertung | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
+
+Bewertungsuebergang mlxFA9T88I0-A0140: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0141: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0142: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0143: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0144: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0145: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C03-P11
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md)
+
+Referenzhash der Kapiteldatei: 45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31
+
+Historische Brandbehauptung von behauptetem Fassverbotsvorhaben und dessen vermeintlicher Abwendung getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 11
+
+- **Fundstelle:** [01:01:10–01:01:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=3670s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Keine Brennerei sei abgebrannt; geplant gewesen sei ein Verbot des Whiskytransports in Holzfässern.
+- **Bewertung:** nicht ausreichend belegbar
+
+**Unsere Begründung und Grenzen:** Die kategorische Brandbehauptung enthält weder Ort noch Zeitraum und wurde nicht durch eine vollständige Schadensstatistik geprüft. Zum angeblichen Fassverbotsentwurf fehlt ein Dokument. Die Episode wird als offen geführt, nicht als gesicherte Bürokratiegeschichte.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=3670s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0146 | Abgeschlossen | Irreführend / Kontext fehlt | Historische Brandbehauptung von behauptetem Fassverbotsvorhaben und dessen vermeintlicher Abwendung getrennt. |
+| mlxFA9T88I0-A0147 | Offen | keine Endbewertung | Historische Brandbehauptung von behauptetem Fassverbotsvorhaben und dessen vermeintlicher Abwendung getrennt. |
+| mlxFA9T88I0-A0148 | Offen | keine Endbewertung | Historische Brandbehauptung von behauptetem Fassverbotsvorhaben und dessen vermeintlicher Abwendung getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0146: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0147: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0148: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C03-P12
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md)
+
+Referenzhash der Kapiteldatei: 45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31
+
+Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 12
+
+- **Fundstelle:** [01:04:00–01:09:59](https://www.youtube.com/watch?v=mlxFA9T88I0&t=3840s)
+- **Zuordnung:** Lüning / Ben
+- **Prüfgegenstand – unsere Beschreibung:** Historische Produktionsbesuche ohne touristische Angebote, strenge Steuerkontrolle jedes Milliliters; Ingenieurstudium und Poster bei Forsyths; vermutetes Abzweigen von Whisky durch Beschäftigte.
+- **Bewertung:** nicht ausreichend belegbar / Spekulation getrennt
+
+**Unsere Begründung und Grenzen:** Besuche, Studium und Posteranekdote sind nicht unabhängig bestätigt. Jeder Milliliter ist eine rhetorische Zuspitzung ohne Prüfung britischer damaliger Steuerverfahren. Bens Annahme privaten Abzweigens ist ausdrücklich seine Vorstellung, keine nachgewiesene Verfehlung benannter Beschäftigter.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=3840s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0149 | Offen | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+| mlxFA9T88I0-A0150 | In Bearbeitung | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+| mlxFA9T88I0-A0151 | In Bearbeitung | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+| mlxFA9T88I0-A0152 | Offen | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+| mlxFA9T88I0-A0153 | Abgeschlossen | Teilweise belegt | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+| mlxFA9T88I0-A0154 | Offen | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+| mlxFA9T88I0-A0155 | Abgeschlossen | Teilweise belegt | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+| mlxFA9T88I0-A0156 | Offen | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+| mlxFA9T88I0-A0157 | Abgeschlossen | Belegt | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+| mlxFA9T88I0-A0158 | In Bearbeitung | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+| mlxFA9T88I0-A0159 | Abgeschlossen | Meinung / Prognose | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+
+Bewertungsuebergang mlxFA9T88I0-A0149: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0150: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0151: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0152: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0153: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0154: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0155: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0156: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0157: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0158: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0159: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C03-P13
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md)
+
+Referenzhash der Kapiteldatei: 45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31
+
+Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 13
+
+- **Fundstelle:** [01:10:00–01:11:29](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4200s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Vom ersten Tag profitabel; eine Wachstumspause nach 9/11; Hallen-Spatenstich am 11.09.2001.
+- **Bewertung:** nicht ausreichend belegbar
+
+**Unsere Begründung und Grenzen:** Keine Ergebnisrechnungen oder Bauunterlagen liegen vor. Zeitliche Erinnerung und Erklärung des Absatzrückgangs durch Stimmung sind nicht gleich Kausalnachweis.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4200s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0160 | Offen | keine Endbewertung | Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt. |
+| mlxFA9T88I0-A0161 | Offen | keine Endbewertung | Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt. |
+| mlxFA9T88I0-A0162 | In Bearbeitung | keine Endbewertung | Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt. |
+| mlxFA9T88I0-A0163 | Offen | keine Endbewertung | Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt. |
+| mlxFA9T88I0-A0164 | Offen | keine Endbewertung | Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt. |
+| mlxFA9T88I0-A0165 | Abgeschlossen | Teilweise belegt | Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0160: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0161: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0162: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0163: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0164: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0165: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C03-P14
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md)
+
+Referenzhash der Kapiteldatei: 45fba7b4b6cbbd45455cce8f027044daabfeab11587452e00a1f1b55d9633a31
+
+Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 14
+
+- **Fundstelle:** [01:11:29–01:15:16](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4289s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Corona habe rund 40 Prozent Umsatzschub gebracht; später Rückkehr zum Vorkrisenniveau; Remote-Arbeit und Nachfolge durch Sohn, eigener Arbeitsanteil etwa 25 Prozent.
+- **Bewertung:** nicht ausreichend belegbar
+
+**Unsere Begründung und Grenzen:** Interne Umsatzreihe, Beschäftigungs- und Eigentumsdaten fehlen. Arbeitsanteil und Unternehmensbeteiligung dürfen nicht gleichgesetzt werden. Ein Prozentanstieg um 40 und eine spätere Abnahme um 40 Prozent wären rechnerisch nicht dieselbe Bewegung; gemeint ist hier die berichtete Rückkehr, keine geprüfte Wachstumsreihe.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=4289s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0166 | In Bearbeitung | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0167 | In Bearbeitung | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0168 | In Bearbeitung | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0169 | Abgeschlossen | Meinung / Prognose | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0170 | Abgeschlossen | Meinung / Prognose | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0171 | Abgeschlossen | Teilweise belegt | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0172 | In Bearbeitung | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0173 | Offen | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0174 | Offen | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0175 | In Bearbeitung | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+
+Bewertungsuebergang mlxFA9T88I0-A0166: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0167: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0168: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0169: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0170: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0171: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0172: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0173: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0174: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0175: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
