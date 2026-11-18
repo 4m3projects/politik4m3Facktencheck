@@ -5634,7 +5634,7 @@
       "description": "Seibt habe im November 2019 bei einer EIKE-Veranstaltung gesprochen und sei dort mit Heartland in Kontakt gekommen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Heartland bestätigt einen späteren Auftritt in Madrid und die Zusammenarbeit. Der konkrete erste Kontakt, Monat, Ort und Vermittlungsweg sind damit nicht vollständig verifiziert.",
+      "reason": "Nicht überprüft – keine ausreichende zugängliche Quelle. Grundsätzlich prüfbar, aber das Veranstaltungsprogramm war nicht zugänglich. Bisheriger Prüfstand: Der verdeckte Recherchebericht (S062) beschreibt die EIKE-Konferenz Ende November 2019 in München mit einem Vortrag von Heartland-Stratege James Taylor und legt nahe, dass eine nicht namentlich genannte junge YouTuberin dort anwesend war. Dass sie in München sprach oder dort erstmals mit Heartland in Kontakt kam, sagt der Bericht nicht. Dokumentiert ist erst ihr Auftritt beim Heartland-Forum in Madrid am 03.12.2019 und die dort besprochene Zusammenarbeit (S062, S041); Heartland bestätigt die Kooperation im Februar 2020 (S072).",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5649,10 +5649,14 @@
         {
           "sourceId": "S072",
           "note": "Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen."
+        },
+        {
+          "sourceId": "S062",
+          "note": "Gelesen am 18.11.2026: Münchner EIKE-Konferenz Ende November 2019 mit Heartland-Vortrag; YouTuberin nicht namentlich genannt, kein Redebeitrag in München berichtet; Kontakt und Zusammenarbeitsgespräch in Madrid."
         }
       ],
       "openQuestions": [
-        "Originalprogramm der Novemberveranstaltung und unabhängige Bestätigung des Kontaktwegs finden.",
+        "Originalprogramm der Münchner Novemberkonferenz 2019 und unabhängige Bestätigung von Redebeitrag und erstem Kontaktweg finden.",
         "Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten."
       ],
       "occurrences": [
