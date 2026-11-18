@@ -64,7 +64,7 @@ function serve(dir) {
 /* Nachgebildete IFrame API: gleiche Schnittstelle wie YT.Player, steuerbar über window.__yt. */
 const FAKE_API = `
 (function () {
-  const ctl = window.__yt = { players: [], seeks: [], options: null, failWith: null };
+  const ctl = window.__yt = { players: [], seeks: [], options: null, failWith: null, duration: 11166 };
   function Player(el, opts) {
     const host = typeof el === 'string' ? document.getElementById(el) : el;
     const iframe = document.createElement('iframe');
@@ -78,14 +78,20 @@ const FAKE_API = `
       opts.events.onReady({ target: this });
     }, 20);
   }
+  // Zeit läuft im Zustand „playing“ in Echtzeit weiter; Zuweisung an .t setzt die Position.
+  Object.defineProperty(Player.prototype, 't', {
+    get() { return this._t + (this.s === 1 ? (Date.now() - this._since) / 1000 : 0); },
+    set(v) { this._t = v; this._since = Date.now(); }
+  });
   Player.prototype.getCurrentTime = function () { return this.t; };
+  Player.prototype.getDuration = function () { return ctl.duration; };
   Player.prototype.getPlaybackRate = function () { return 1; };
   Player.prototype.getIframe = function () { return this.iframe; };
   Player.prototype.seekTo = function (t) { this.t = t; ctl.seeks.push(t); };
   Player.prototype.playVideo = function () { this.state(1); };
   Player.prototype.pauseVideo = function () { this.state(2); };
   Player.prototype.destroy = function () { this.iframe.remove(); this.destroyed = true; };
-  Player.prototype.state = function (s) { this.s = s; this.opts.events.onStateChange({ data: s, target: this }); };
+  Player.prototype.state = function (s) { const t = this.t; this.s = s; this.t = t; this.opts.events.onStateChange({ data: s, target: this }); };
   window.YT = { Player, PlayerState: { UNSTARTED: -1, ENDED: 0, PLAYING: 1, PAUSED: 2, BUFFERING: 3, CUED: 5 } };
   setTimeout(() => window.onYouTubeIframeAPIReady && window.onYouTubeIframeAPIReady(), 10);
 })();`;
@@ -162,7 +168,8 @@ async function step(name, fn) {
   });
 
   await step('Synchronisation: überlappende Aussagen gleichzeitig, neutrale Meldung ohne Zuordnung', async () => {
-    await page.evaluate(() => { __yt.players[0].t = 1.5; });
+    // pausiert an eine Stelle mit zwei überlappenden Aussagen (A0012 1–5 s, A0013 4–14 s) ziehen
+    await page.evaluate(() => { __yt.players[0].pauseVideo(); __yt.players[0].t = 4.5; });
     await page.waitForFunction(() => document.querySelectorAll('#vc-list .vc-item.is-current').length === 2);
     const cur = await page.locator('#vc-list .vc-item.is-current .vc-flag').allTextContents();
     assert.deepEqual(cur, ['Jetzt im Video', 'Jetzt im Video']);
@@ -186,6 +193,44 @@ async function step(name, fn) {
     assert.equal(seeks[seeks.length - 1], 7385);
     await page.waitForFunction(() => document.querySelector('#vc-list .vc-item.is-current .vc-flag'));
     assert.match(await page.locator('#vc-list .vc-item.is-current').first().textContent(), /Vorkommen 1 von 2/);
+  });
+
+  await step('Werbung (eigene Dauer, Zähler ab 0): Anzeige hält, Hinweis, danach Fortsetzung', async () => {
+    await page.evaluate(() => { __yt.players[0].t = 8380; });
+    await page.waitForFunction(() => /02:19:4/.test(document.querySelector('#vc-list .vc-item.is-current .time')?.textContent || ''), null, { timeout: 5000 });
+    const before = await page.evaluate(() => [...document.querySelectorAll('#vc-list .vc-item.is-current')].map(e => e.id));
+    await page.evaluate(() => { __yt.duration = 15; __yt.players[0].t = 0; });
+    await page.waitForFunction(() => /vorübergehend unklar/.test(document.getElementById('vc-current').textContent));
+    await page.waitForTimeout(2000);
+    const during = await page.evaluate(() => [...document.querySelectorAll('#vc-list .vc-item.is-current')].map(e => e.id));
+    assert.deepEqual(during, before, 'Hervorhebung bleibt bei der letzten bestätigten Stelle');
+    assert.match(await page.locator('#vc-time').textContent(), /Anzeige gehalten bei 02:19:4/);
+    assert.equal(await page.locator('#vc').getAttribute('data-basis'), 'unklar');
+    await page.evaluate(() => { __yt.duration = 11166; __yt.players[0].t = 8381; });
+    await page.waitForFunction(() => document.getElementById('vc').dataset.basis === 'ok');
+    assert.match(await page.locator('#vc-list .vc-item.is-current .time').first().textContent(), /02:19:4/);
+  });
+
+  await step('Unklare Zeit nach Sprung an den Anfang: Nutzer kann übernehmen', async () => {
+    await page.evaluate(() => { __yt.players[0].t = 0.5; });
+    await page.waitForFunction(() => document.getElementById('vc').dataset.basis === 'unklar');
+    await page.waitForTimeout(2500);
+    assert.equal(await page.locator('#vc').getAttribute('data-basis'), 'unklar', 'weiterlaufender Zähler wird nicht automatisch übernommen');
+    await page.click('#vc-current [data-accept]');
+    await page.waitForFunction(() => document.getElementById('vc').dataset.basis === 'ok');
+    assert.ok(await page.locator('#vc-list .vc-item.is-current, #vc-list .vc-item.is-near').count() > 0);
+  });
+
+  await step('Synchronisierung manuell anhalten und fortsetzen', async () => {
+    await page.click('#vc-hold');
+    assert.equal(await page.locator('#vc-hold').getAttribute('aria-pressed'), 'true');
+    assert.equal(await page.locator('#vc').getAttribute('data-basis'), 'angehalten');
+    await page.evaluate(() => { __yt.players[0].t = 7390; });
+    await page.waitForTimeout(800);
+    assert.equal(await page.locator('#vc').getAttribute('data-basis'), 'angehalten');
+    await page.click('#vc-hold');
+    await page.waitForFunction(() => /02:03:0/.test(document.querySelector('#vc-list .vc-item.is-current .time')?.textContent || ''));
+    assert.equal(await page.locator('#vc-hold').getAttribute('aria-pressed'), 'false');
   });
 
   await step('Pause und Videoende werden angezeigt', async () => {
@@ -224,6 +269,9 @@ async function step(name, fn) {
   });
 
   await step('Großansicht: Dialog mit Video und Fakten, Fokus, Escape, Player bleibt erhalten', async () => {
+    await page.waitForFunction(() => document.getElementById('vc').dataset.basis === 'ok' && /02:19:/.test(document.querySelector('#vc-list .vc-item.is-current .time')?.textContent || ''));
+    await page.evaluate(() => __yt.players[0].pauseVideo());
+    await page.waitForTimeout(300);
     const iframeBefore = await page.locator('#vc-frame iframe').elementHandle();
     await page.click('#vc-expand');
     assert.equal(await page.locator('#vc').getAttribute('role'), 'dialog');
@@ -234,8 +282,8 @@ async function step(name, fn) {
     assert.equal(await page.locator('.vc-list-col').isVisible(), true);
     await page.waitForTimeout(800);
     const cur = await page.evaluate(() => [...document.querySelectorAll('#vc-list .vc-item.is-current .time')].map(e => e.textContent));
-    assert.ok(cur.length >= 1 && cur.every(t => /02:19:/.test(t)), 'aktuelle Einträge: ' + cur.join(', '));
-    const visible = await page.evaluate(() => { const l = document.getElementById('vc-list').getBoundingClientRect(), r = document.querySelector('#vc-list .vc-item.is-current').getBoundingClientRect(); return r.top >= l.top - 1 && r.top < l.bottom; });
+    assert.ok(cur.length >= 1 && cur.every(t => /02:19:/.test(t)), 'aktuelle Einträge: ' + cur.join(', ') + ' · ' + await page.locator('#vc-time').textContent());
+    const visible = await page.evaluate(() => { const l = document.getElementById('vc-list').getBoundingClientRect(), r = document.querySelector('#vc-list .vc-item.is-current').getBoundingClientRect(); return (r.top >= l.top - 1 && r.top < l.bottom) || JSON.stringify({ l: [l.top, l.bottom], r: [r.top, r.bottom], st: document.getElementById('vc-list').scrollTop, sh: document.getElementById('vc-list').scrollHeight }); });
     assert.equal(visible, true, 'aktueller Eintrag in der Großansicht sichtbar');
     if (shots) await page.screenshot({ path: path.join(shots, 'grossansicht.png') });
     for (let i = 0; i < 60; i++) await page.keyboard.press('Tab');
