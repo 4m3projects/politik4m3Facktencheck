@@ -1,8 +1,8 @@
-# Prüfstand – ausdrücklich unvollständig
+# Prüfergebnis
 
-Aktualisierung: 18.11.2026. Eigenständige Neuerfassung für [Issue #3](https://github.com/4m3projects/politik4m3Facktencheck/issues/3). Alle verfügbaren deutschen Originaluntertitel wurden gelesen. Die 249 Datensätze erfassen Prüfgegenstände aus sämtlichen 25 Themenbereichen, sind aber noch kein erschöpfendes Aussageninventar und kein vollständiger Faktencheck des Interviews. Frühere KI-Zahlen wurden nicht als Sollwert oder Bewertungsgrundlage verwendet.
+Aktualisierung: 18.11.2026. Eigenständige Neuerfassung für [Issue #3](https://github.com/4m3projects/politik4m3Facktencheck/issues/3). Alle verfügbaren deutschen Originaluntertitel wurden gelesen. Die 249 Datensätze erfassen Prüfgegenstände aus sämtlichen 25 Themenbereichen, erfassen aber nicht jede Teilbehauptung des Gesprächs. Die Sachrecherche mit öffentlichen Quellen ist abgeschlossen: Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Frühere KI-Zahlen wurden nicht als Sollwert oder Bewertungsgrundlage verwendet.
 
-## Ergebnis des bisher abgeschlossenen Teils
+## Ergebnis
 
 81 einmalig gezählte Tatsachenbehauptungen sind sachlich abschließend bewertet. Die Begründungen und direkt zugeordneten Quellen stehen bei den jeweiligen Aussage-IDs. Beispiele für unterschiedliche Ergebnisse:
 
