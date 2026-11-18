@@ -459,3 +459,12 @@ body.vc-lock { overflow: hidden; }
 .vc-frame:has(> .vc-consent) { aspect-ratio: auto; min-height: 220px; }
 .vc-frame > .vc-consent { position: static; min-height: 100%; }
 @media (max-width: 899px) { .vc .seg { display: none; } }
+
+/* Unklare oder angehaltene Zeitbasis (z. B. Werbung): letzte bestätigte Stelle gedämpft zeigen */
+.vc[data-basis="unklar"] .vc-item.is-current, .vc[data-basis="pruefung"] .vc-item.is-current,
+.vc[data-basis="angehalten"] .vc-item.is-current { border-style: dashed; box-shadow: none; opacity: .8; }
+.vc[data-basis="unklar"] .vc-time, .vc[data-basis="angehalten"] .vc-time { color: var(--v-irrefuehrend); font-weight: 600; }
+.vc-basis { border-left: 4px solid var(--v-irrefuehrend); padding: 4px 0 4px 10px; margin: 0; }
+.vc-basis p { margin: 0 0 6px; }
+.vc-toolbar .btn[disabled] { opacity: .5; cursor: not-allowed; }
+.vc-toolbar .btn[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent-ink); }

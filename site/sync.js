@@ -101,32 +101,60 @@
   }
 
   /*
-   * Steuert die Abfrage der Playerzeit. Abhängigkeiten werden injiziert, damit die
-   * Logik ohne echten Player und ohne echte Uhr getestet werden kann.
+   * Steuert die Abfrage der Playerzeit und prüft, ob sie eine verlässliche Zeitbasis des
+   * Hauptvideos ist. Abhängigkeiten werden injiziert, damit die Logik ohne echten Player
+   * und ohne echte Uhr getestet werden kann.
    *
-   * opts.getTime()        aktuelle Playerzeit in Sekunden
-   * opts.getRate()        optional, Wiedergabegeschwindigkeit
-   * opts.onUpdate(info)   info = { time, state, matches, next, changed, seeked }
-   * opts.now()            Millisekunden (Standard: Date.now)
+   * opts.getTime()          aktuelle Playerzeit in Sekunden
+   * opts.getDuration()      optional, vom Player gemeldete Gesamtdauer (IFrame API getDuration)
+   * opts.expectedDuration   Laufzeit des Hauptvideos laut Daten (scope.durationSeconds)
+   * opts.getRate()          optional, Wiedergabegeschwindigkeit
+   * opts.onUpdate(info)     siehe tick()
+   * opts.now()              Millisekunden (Standard: Date.now)
    * opts.setInterval / opts.clearInterval  Timerfunktionen
+   *
+   * Hintergrund (Issue #8): Die IFrame API meldet Werbung nicht. Während einer Werbung kann
+   * getCurrentTime() einen anderen Zähler liefern. Deshalb wird eine Playerzeit nur übernommen,
+   * wenn sie zur bisherigen bestätigten Zeit passt, vom Nutzer über die Liste angesteuert wurde
+   * oder nach einem unerklärten Sprung stabil weiterläuft UND die gemeldete Dauer zur Laufzeit
+   * des Hauptvideos passt. Ein durchlaufender Zähler allein reicht nie. Sonst bleibt die Anzeige
+   * bei der zuletzt bestätigten Stelle und wird als „unklar“ gekennzeichnet. Das ist eine
+   * Plausibilitätsprüfung, keine zuverlässige Werbeerkennung.
    */
   const POLL_MS = { playing: 250, buffering: 500, paused: 1000, cued: 1000, unstarted: 1000 };
+
+  const BASIS_REASON = {
+    'dauer': 'Die vom Player gemeldete Dauer passt nicht zur Laufzeit des Hauptvideos (zum Beispiel während einer Werbung).',
+    'dauer-unbekannt': 'Die Playerzeit ist gesprungen, und die Dauer des laufenden Inhalts ist nicht bekannt.',
+    'anfang': 'Die Playerzeit ist ohne Auswahl in der Liste an den Anfang gesprungen (zum Beispiel durch eine Werbung).'
+  };
 
   function SyncController(timeline, opts) {
     this.timeline = timeline;
     this.o = Object.assign({
       getRate: () => 1,
+      getDuration: () => NaN,
+      expectedDuration: null,
       now: () => Date.now(),
       setInterval: (f, ms) => setInterval(f, ms),
       clearInterval: id => clearInterval(id),
-      seekThreshold: 2
+      seekThreshold: 2,       // Sekunden Abweichung, ab der ein Sprung als unerklärt gilt
+      confirmMs: 1000,        // so lange muss eine neue Position stabil sein
+      durationTolerance: 5    // Sekunden, mindestens; zusätzlich 1 % der Laufzeit
     }, opts);
     this.state = 'unstarted';
     this.timer = null;
     this.timerMs = 0;
-    this.lastTime = null;
-    this.lastNow = null;
+    this.trusted = null;      // zuletzt bestätigte Hauptvideozeit
+    this.trustedNow = null;
+    this.verified = false;    // wurde die Zeitbasis schon einmal bei passender Dauer bestätigt?
+    this.pending = null;      // { t, now, since } neue Position in Prüfung
+    this.basis = 'ok';        // ok | pruefung | unklar | angehalten
+    this.reason = null;
+    this.held = false;
+    this.lastRaw = null;
     this.lastSig = null;
+    this.lastBasis = null;
     this.forceSeek = false;
     this.destroyed = false;
   }
@@ -144,35 +172,111 @@
     this.tick(undefined, prev !== s);
   };
 
-  /* Vom Nutzer ausgelöster Sprung: nächste Aktualisierung gilt als Seek, optional mit Zielzeit. */
+  /* Vom Nutzer in der Liste ausgelöster Sprung: Zielzeit gilt sofort als bestätigt. */
   SyncController.prototype.markSeek = function (target) {
     if (this.destroyed) return;
     this.forceSeek = true;
     if (isTime(target)) this.tick(target);
   };
 
+  /* Manuelles Anhalten/Fortsetzen der Synchronisierung durch den Nutzer. */
+  SyncController.prototype.setHold = function (on) {
+    if (this.destroyed) return;
+    this.held = !!on;
+    if (!on) { this.pending = null; this.forceAccept = true; }
+    this.tick(undefined, true);
+  };
+
+  /* Nutzer entscheidet ausdrücklich, die aktuelle Playerzeit zu übernehmen. */
+  SyncController.prototype.acceptCurrent = function () {
+    if (this.destroyed) return;
+    this.forceAccept = 'immer';
+    this.tick(undefined, true);
+  };
+
+  SyncController.prototype.durationStatus = function () {
+    const exp = this.o.expectedDuration;
+    const d = Number(this.o.getDuration());
+    if (!isTime(d) || d <= 0) return 'unbekannt';
+    if (!isTime(exp) || exp <= 0) return 'unbekannt';
+    const tol = Math.max(this.o.durationTolerance, exp * 0.01);
+    return Math.abs(d - exp) <= tol ? 'passend' : 'abweichend';
+  };
+
+  /*
+   * info = { time, rawTime, state, basis, reason, matches, next, changed, seeked }
+   * time:  bestätigte Hauptvideozeit, nach der hervorgehoben wird
+   * rawTime: zuletzt gelesene Playerzeit (kann während einer Werbung abweichen)
+   * basis: ok | pruefung (neue Position wird geprüft) | unklar | angehalten
+   */
   SyncController.prototype.tick = function (override, stateChanged) {
     if (this.destroyed) return null;
-    let t = isTime(override) ? override : Number(this.o.getTime());
-    if (!isTime(t)) t = this.lastTime != null ? this.lastTime : 0;
     const now = this.o.now();
-    let seeked = this.forceSeek;
-    if (!seeked && this.lastTime != null && this.lastNow != null) {
-      const elapsed = Math.max(0, now - this.lastNow) / 1000;
-      const rate = this.state === 'playing' ? (Number(this.o.getRate()) || 1) : 0;
-      const expected = this.lastTime + elapsed * rate;
-      // Pufferpausen lassen die Zeit nur zurückbleiben; ein Seek ist ein deutlicher Sprung vor oder zurück.
-      const tol = this.o.seekThreshold;
-      if (t > expected + tol || t < this.lastTime - 1) seeked = true;
-    }
+    const userSeek = this.forceSeek && isTime(override);
     this.forceSeek = false;
-    this.lastTime = t;
-    this.lastNow = now;
+    const force = this.forceAccept; this.forceAccept = false;
+    let raw = isTime(override) ? override : Number(this.o.getTime());
+    if (!isTime(raw)) raw = null;
+    if (raw != null) this.lastRaw = raw;
+    let seeked = false;
+    const prevTrusted = this.trusted;
+
+    const dur = this.durationStatus();
+    const accept = t => {
+      if (prevTrusted != null && Math.abs(t - prevTrusted) > this.o.seekThreshold) seeked = true;
+      if (dur === 'passend') this.verified = true;
+      this.trusted = t; this.trustedNow = now; this.pending = null; this.basis = 'ok'; this.reason = null;
+    };
+    const unclear = reason => { this.basis = 'unklar'; this.reason = reason; this.pending = null; };
+
+    if (this.held && !userSeek) {
+      this.basis = 'angehalten'; this.reason = null;
+    } else if (userSeek) {
+      accept(raw); seeked = true;
+    } else if (raw == null) {
+      // keine verwertbare Zeit: Zustand unverändert lassen
+    } else if (force === 'immer') {
+      accept(raw);
+    } else {
+      const rate = this.state === 'playing' ? (Number(this.o.getRate()) || 1) : 0;
+      if (dur === 'abweichend') {
+        unclear('dauer');
+      } else if (dur === 'passend' && !this.verified) {
+        // Erste Lesung mit passender Dauer (z. B. Hauptvideo beginnt nach einer Vorab-Werbung).
+        accept(raw);
+      } else if (this.trusted == null || force) {
+        if (this.trusted != null && raw < 2 && this.trusted > 10 && !force) unclear('anfang');
+        else accept(raw);
+      } else {
+        const elapsed = Math.max(0, now - this.trustedNow) / 1000;
+        const expected = this.trusted + elapsed * rate;
+        // Passt zur bestätigten Zeit: normal weiter, gepuffert oder nach Werbung an alter Stelle fortgesetzt.
+        if (raw >= this.trusted - 1 && raw <= expected + this.o.seekThreshold) {
+          accept(raw);
+        } else if ((raw < 2 && this.trusted > 10) || (this.basis === 'unklar' && this.reason === 'anfang')) {
+          // Sprung an den Anfang ohne Auswahl in der Liste: bleibt unklar, bis die alte Stelle
+          // wieder erreicht wird oder der Nutzer entscheidet. Ein weiterlaufender Zähler reicht nicht.
+          unclear('anfang');
+        } else if (dur === 'unbekannt') {
+          unclear('dauer-unbekannt');
+        } else {
+          const p = this.pending;
+          const stable = p && Math.abs(raw - (p.t + Math.max(0, now - p.now) / 1000 * rate)) <= 1;
+          if (!stable) { this.pending = { t: raw, now, since: now }; this.basis = 'pruefung'; this.reason = null; }
+          else if (now - p.since >= this.o.confirmMs) accept(raw);
+          else { this.pending = { t: raw, now, since: p.since }; this.basis = 'pruefung'; }
+        }
+      }
+    }
+
+    const t = this.trusted != null ? this.trusted : 0;
     const matches = matchAt(this.timeline, t);
     const sig = signature(matches);
-    const changed = sig !== this.lastSig || !!stateChanged || seeked;
+    const changed = sig !== this.lastSig || !!stateChanged || seeked || this.basis !== this.lastBasis;
     this.lastSig = sig;
-    const info = { time: t, state: this.state, matches, next: nextAfter(this.timeline, t), changed, seeked };
+    this.lastBasis = this.basis;
+    const info = { time: t, rawTime: this.lastRaw, state: this.state, basis: this.basis, reason: this.reason,
+      matches, next: nextAfter(this.timeline, t), changed, seeked };
     if (this.o.onUpdate) this.o.onUpdate(info);
     return info;
   };
@@ -208,5 +312,5 @@
     return m ? m[1] : null;
   }
 
-  return { TOLERANCE, ISSUE_TEXT, buildTimeline, matchAt, nextAfter, signature, SyncController, stateName, errorText, youtubeId };
+  return { TOLERANCE, ISSUE_TEXT, BASIS_REASON, buildTimeline, matchAt, nextAfter, signature, SyncController, stateName, errorText, youtubeId };
 });

@@ -131,6 +131,7 @@ async function pageVideoSync(id) {
           <button type="button" data-layout="stack">Untereinander</button>
         </div>
         <label class="vc-check"><input type="checkbox" id="vc-auto"${prefs.autoscroll ? ' checked' : ''}> Liste automatisch mitscrollen</label>
+        <button type="button" class="btn ghost" id="vc-hold" aria-pressed="false" disabled title="Hält die Hervorhebung an, z. B. während einer Werbung">⏸ Synchronisierung anhalten</button>
         <button type="button" class="btn ghost vc-expand" id="vc-expand" aria-haspopup="dialog">⛶ Großansicht</button>
         <button type="button" class="btn ghost vc-close" id="vc-close">✕ Großansicht schließen</button>
       </div>
@@ -229,19 +230,39 @@ async function pageVideoSync(id) {
 
   const STATE_TEXT = { playing: 'Wiedergabe läuft', paused: 'Pausiert', buffering: 'Lädt …', cued: 'Bereit', unstarted: 'Bereit', ended: 'Video zu Ende', error: 'Playerfehler' };
 
+  const BASIS_FLAG = { pruefung: 'Neue Position wird geprüft …', unklar: 'Synchronisierung vorübergehend unklar', angehalten: 'Synchronisierung angehalten' };
+
   function render(info) {
-    timeEl.textContent = `${hms(info.time)} · ${STATE_TEXT[info.state] || ''}`;
+    const basis = info.basis || 'ok';
+    const raw = info.rawTime != null && Math.abs(info.rawTime - info.time) > 1 ? ` · Player meldet ${hms(info.rawTime)}` : '';
+    timeEl.textContent = basis === 'ok'
+      ? `${hms(info.time)} · ${STATE_TEXT[info.state] || ''}`
+      : `Anzeige gehalten bei ${hms(info.time)} · ${BASIS_FLAG[basis]}${raw}`;
     if (!info.changed) return;
+    vc.dataset.basis = basis;
+    const holdBtn = $('vc-hold');
+    if (holdBtn) {
+      holdBtn.setAttribute('aria-pressed', String(basis === 'angehalten'));
+      holdBtn.textContent = basis === 'angehalten' ? '▶ Synchronisierung fortsetzen' : '⏸ Synchronisierung anhalten';
+    }
     const keys = new Map(info.matches.map(m => [m.entry.key, m.match]));
     for (const [key, el] of Object.entries(itemEls)) {
       const m = keys.get(key);
       el.classList.toggle('is-current', m === 'genau');
       el.classList.toggle('is-near', m === 'nahe');
       if (m === 'genau') el.setAttribute('aria-current', 'true'); else el.removeAttribute('aria-current');
-      el.querySelector('.vc-flag').textContent = m === 'genau' ? 'Jetzt im Video' : m === 'nahe' ? 'In der Nähe (Zeitmarke ungefähr)' : '';
+      el.querySelector('.vc-flag').textContent = !m ? '' : basis !== 'ok' ? 'Zuletzt bestätigte Stelle'
+        : m === 'genau' ? 'Jetzt im Video' : 'In der Nähe (Zeitmarke ungefähr)';
     }
     let html;
-    if (info.state === 'ended') {
+    if (basis === 'unklar') {
+      html = `<div class="vc-basis" role="status"><p><strong>Synchronisierung vorübergehend unklar.</strong> ${esc(FactSync.BASIS_REASON[info.reason] || '')} Die Liste bleibt bei der zuletzt bestätigten Stelle ${hms(info.time)} und läuft weiter, sobald das Hauptvideo wieder plausibel ist.</p>
+        <p class="small">Werbung lässt sich über die offizielle YouTube-Schnittstelle nicht sicher erkennen. Wenn du selbst gespult hast: <button type="button" class="linkish" data-accept>aktuelle Videozeit übernehmen</button> oder eine Zeitmarke in der Liste wählen.</p></div>`;
+    } else if (basis === 'pruefung') {
+      html = `<p class="small vc-basis">Die Videoposition hat sich sprunghaft geändert. Die neue Stelle wird kurz geprüft; bis dahin bleibt die Anzeige bei ${hms(info.time)}.</p>`;
+    } else if (basis === 'angehalten') {
+      html = `<p class="small vc-basis">Synchronisierung angehalten. Die Liste bleibt bei ${hms(info.time)}. Zeitmarken in der Liste funktionieren weiter.</p>`;
+    } else if (info.state === 'ended') {
       html = '<p class="small">Das Video ist zu Ende. Alle Fundstellen stehen weiterhin in der Liste.</p>';
     } else if (info.matches.length) {
       html = `<p class="vc-now-label">${info.matches.length === 1 ? 'Zu dieser Stelle gehört' : `Zu dieser Stelle gehören ${info.matches.length} Einträge`}:</p><ul class="vc-now-list">` +
@@ -267,7 +288,11 @@ async function pageVideoSync(id) {
       return;
     }
     const s = e.target.closest('[data-seek]');
-    if (s) seekTo(entryByKey[s.dataset.seek]);
+    if (s) { seekTo(entryByKey[s.dataset.seek]); return; }
+    if (e.target.closest('[data-accept]') && controller) controller.acceptCurrent();
+  });
+  $('vc-hold').addEventListener('click', () => {
+    if (controller) controller.setHold($('vc-hold').getAttribute('aria-pressed') !== 'true');
   });
   function scrollToEl(el) {
     const top = list.scrollTop + el.getBoundingClientRect().top - list.getBoundingClientRect().top - 8;
@@ -293,6 +318,7 @@ async function pageVideoSync(id) {
     if (controller) { controller.destroy(); controller = null; }
     if (player && typeof player.destroy === 'function') { try { player.destroy(); } catch (e) { /* bereits entfernt */ } }
     player = null; ready = false;
+    const h = $('vc-hold'); if (h) h.disabled = true;
   }
 
   async function startPlayer() {
@@ -308,6 +334,8 @@ async function pageVideoSync(id) {
     controller = new FactSync.SyncController(timeline, {
       getTime: () => (player && ready && typeof player.getCurrentTime === 'function' ? player.getCurrentTime() : NaN),
       getRate: () => (player && ready && typeof player.getPlaybackRate === 'function' ? player.getPlaybackRate() : 1),
+      getDuration: () => (player && ready && typeof player.getDuration === 'function' ? player.getDuration() : NaN),
+      expectedDuration: d.scope.durationSeconds,
       onUpdate: render
     });
     try {
@@ -321,6 +349,7 @@ async function pageVideoSync(id) {
           onReady: () => {
             if (destroyed) return;
             ready = true;
+            $('vc-hold').disabled = false;
             const iframe = player.getIframe && player.getIframe();
             if (iframe) { iframe.title = 'YouTube-Videoplayer: ' + v.title; iframe.setAttribute('allow', 'autoplay; encrypted-media; picture-in-picture; fullscreen'); }
             controller.setState('cued');
