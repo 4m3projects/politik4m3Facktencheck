@@ -94,7 +94,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe im September 2020 bei einer AfD-Veranstaltung im Bundestagsgebäude über PCR gesprochen, nicht in einer Plenardebatte.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -139,7 +139,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die spätere Nachfrage grenzt den Veranstaltungsrahmen ein. Ort und Veranstalter sind von einem parlamentarischen Rederecht zu unterscheiden; Originalprogramm noch ungeprüft.
+Der Kern trifft zu: Der PCR-Vortrag war keine Plenardebatte, sondern ein Beitrag auf einer Veranstaltung auf Einladung der AfD; das Video stammt vom Kanal der AfD-Bundestagsfraktion. Das Datum weicht ab: Der gelesene Faktencheck nennt die 2. Konferenz der Freien Medien am 10. Oktober 2020 in Berlin, nicht September. Dass sie im Bundestagsgebäude stattfand, nennt die Quelle nicht ausdrücklich.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -149,11 +149,12 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Rechte Youtuberin verbreitet irreführende Behauptungen zu Coronavirus und PCR-Tests](https://correctiv.org/faktencheck/2020/11/05/rechte-youtuberin-verbreitet-irrefuehrende-behauptungen-zu-coronavirus-und-pcr-tests/) · CORRECTIV, Sarah Thust · 05.11.2020; Faktencheck zu Seibts PCR-Vortrag auf der 2. Konferenz der Freien Medien am 10.10.2020 in Berlin auf Einladung der AfD.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen (inklusive Quellenliste); nennt keinen Raum oder Gebäudeteil und keine YouTube-Aufrufzahlen. Keine Quellenkopie veröffentlicht. Konferenz der Freien Medien, 10.10.2020, Berlin, auf Einladung der AfD; kein Plenum; Gebäude nicht genannt.
 
 ### Offene Fragen und Unsicherheiten
 
-- Datum, Raum und Programm der Fraktionsveranstaltung nachweisen.
+- Veranstaltungsort im Bundestag (Gebäude/Saal) ist mit einer amtlichen oder zeitgenössischen Quelle noch zu bestätigen.
 
 ## mdo14671BPE-A0110
 
