@@ -1,6 +1,6 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0084: Auftakt bis zum zweiten Werbeblock (00:42:23), mit einzeln ausgewiesenen späteren Wiederholungen. Weitere gelesene Abschnitte noch nicht vollständig erfasst.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0121: Themen bis zur PCR-Präsentation und Moderationsdebatte (01:18:04), mit einzeln ausgewiesenen späteren Wiederholungen. Weitere gelesene Abschnitte noch nicht vollständig erfasst.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -215,7 +215,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe einen ersten Preis auf Landesebene und einen weiteren Sonderpreis bei einem Schülerforschungswettbewerb erhalten.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -247,9 +247,9 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Schule bestätigt regionale Auszeichnungen 2013. Das belegt nicht automatisch den im Gespräch auf die neunte Klasse bezogenen Landes- und Zusatzpreis.
+Der Schulbericht vom 14.05.2014 bestätigt den Landessieg in Chemie in der Alterssparte Schüler experimentieren sowie den Ludger-Mintrop-Sonderpreis. Die umgangssprachliche Dachbezeichnung Jugend forscht ist von dieser konkreten Alterssparte zu unterscheiden.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt. Aktualisierung 18.11.2026: regionale Quelle durch direkten Bericht zum Landessieg ergänzt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
@@ -257,12 +257,12 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-- [Mauritz Münsters erfolgreichste Schule beim Regionalwettbewerb Jugend forscht](https://gymnasium-st-mauritz.de/aktuelltermine/aktuelles/nachrichten-detail/mauritz-muensters-erfolgreichste-schule-beim-regionalwettbewerb-jugend-forscht) · Gymnasium St. Mauritz; Februar 2013.
-  Quellenzugriff am 2026-11-17. Schulbericht geöffnet und Angaben zu Seibts regionalen Preisen gelesen; kein Nachweis des später behaupteten Landessieges. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+- [Erster mauritzer Doppelsieg](https://gymnasium-st-mauritz.de/aktuelltermine/aktuelles/nachrichten-detail/erster-mauritzer-doppelsieg/) · Gymnasium St. Mauritz; 14.05.2014.
+  Quellenzugriff am 2026-11-18. Zeitgenössischen Schulbericht vollständig gelesen: Landespreis der Alterssparte Schüler experimentieren, Chemieprojekt über Spülmittelviskosität und Ludger-Mintrop-Sonderpreis. Zeitgenössischer Bericht der eigenen Schule; Landes- und Zusatzpreis ausdrücklich dokumentiert.
 
 ### Offene Fragen und Unsicherheiten
 
-- Landesergebnis, Jahr, Fachgebiet, Alterssparte und Zusatzpreis unabhängig feststellen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0034
 

@@ -2,7 +2,7 @@
 
 Stand: 18.11.2026. Eigenständige Neuerfassung für Issue #3. Die früher im Issue genannten KI-Zahlen sind keine Grundlage unserer Bewertungen und kein Sollwert.
 
-Aktualisierung 18.11.2026: 84 Prüfgegenstände; Erfassung bis zum Ende des zweiten Werbeblocks bei 00:42:23. Der [generierte Bericht](strukturiert/README.md) enthält Status, Begründungen, Vorkommen und direkt zugeordnete Quellen. Erfasste Kapitelprüfungen:
+Aktualisierung 18.11.2026: 121 Prüfgegenstände; Erfassung bis zur Moderationsdebatte nach der PCR-Präsentation bei 01:18:04. Der Landessieg 2014 und der Sonderpreis sind nun direkt belegt; medizinische und diagnostische Aussagen sind unabhängig anhand gelesener Originalpublikationen geprüft.
 
 - [01 · Auftakt](strukturiert/berichte/kapitel-01.md)
 - [02 · Einreise und Schulbiografie](strukturiert/berichte/kapitel-02.md)
@@ -14,6 +14,11 @@ Aktualisierung 18.11.2026: 84 Prüfgegenstände; Erfassung bis zum Ende des zwei
 - [07 · Essay und Leitbilder](strukturiert/berichte/kapitel-07.md)
 - [08 · Private Kindheitserfahrungen](strukturiert/berichte/kapitel-08.md)
 - [09 · Forschungsförderungswerbung](strukturiert/berichte/kapitel-09.md)
+
+- [10 · Familiengeschichte](strukturiert/berichte/kapitel-10.md)
+- [11 · Schülerforschung](strukturiert/berichte/kapitel-11.md)
+- [12 · Medienauftritte](strukturiert/berichte/kapitel-12.md)
+- [13 · Corona-Diagnostik](strukturiert/berichte/kapitel-13.md)
 
 Die eingeschränkte Verlustpufferung durch Optionsprämien ist von umfassender Sicherheit zu unterscheiden. Bei US-Reiseregeln sind allgemeine Verfahrensrisiken und individuelle Einreisesperren getrennte Fragen. Der aktuelle WDR-Bericht über einen Strafbefehl wird als Sekundärquelle ausgewiesen; ohne Originalbescheid und Aufnahmezeit darf er nicht beliebig mit der im Interview beschriebenen Verfahrenslage gleichgesetzt werden.
 
