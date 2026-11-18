@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0207: Themen bis zur Erstmaligkeitsbehauptung über deutsches Asyl (02:16:56), mit einzelnen späteren Wiederholungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere gelesene Abschnitte noch nicht vollständig erfasst.
+**Abdeckung: Teilbestand.** Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0248: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich.
 
 Stand: 2026-11-18 · Video: mdo14671BPE
 
@@ -12,35 +12,35 @@ Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete P
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 205
-- Abgeschlossen: 60
-- Offen: 113
-- In Bearbeitung: 32
-- Erfasste Behauptungsvorkommen: 233
-- Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 28
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 246
+- Abgeschlossen: 76
+- Offen: 128
+- In Bearbeitung: 42
+- Erfasste Behauptungsvorkommen: 276
+- Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 30
 - Davon bestaetigte Wiederholungen derselben Person: 0
 - Rueckfragen/Fremdbezuege/Zurueckweisungen: 4
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 1
 - Aussagen ausschliesslich mit ungeklaertem eigenem Bezug: 0
 - Nur referenzierte Aussagen ohne eigene Behauptung: 2
-- Meinungen: 10; Prognosen: 6
+- Meinungen: 13; Prognosen: 11
 
 Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen. Nur erneut derselben Person mit bestaetigter Zuordnung und bestaetigtem eigenem Bezug zugerechnete Vorkommen zaehlen als bestaetigte Personenwiederholung. Null bedeutet nur: im dokumentierten Datenbestand keine solchen Faelle erfasst.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 44 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 52 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 15 | 34.1 % |
-| Teilweise belegt | 9 | 20.5 % |
-| Irreführend / Kontext fehlt | 13 | 29.5 % |
-| Widerlegt | 7 | 15.9 % |
+| Belegt | 17 | 32.7 % |
+| Teilweise belegt | 10 | 19.2 % |
+| Irreführend / Kontext fehlt | 15 | 28.8 % |
+| Widerlegt | 10 | 19.2 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
-| Meinung / Prognose | 16 | nicht anwendbar |
+| Meinung / Prognose | 24 | nicht anwendbar |
 
 Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
 
@@ -51,12 +51,12 @@ Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachen
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 189. Ohne verlaessliche Personenzuordnung: 189.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 222. Ohne verlaessliche Personenzuordnung: 222.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 189; mit unsicherem eigenem Aussagebezug: 189. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 222; mit unsicherem eigenem Aussagebezug: 222. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 238, Aussagebezug 237 Vorkommen.
+- Plausibel: Sprecherzuordnung 281, Aussagebezug 280 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 1 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Prozentnenner |
@@ -88,5 +88,10 @@ Null zugeordnete Tatsachen bedeutet keine bestaetigte Zurechnung in dieser Auswa
 - [Kapitel 18](berichte/kapitel-18.md)
 - [Kapitel 19](berichte/kapitel-19.md)
 - [Kapitel 20](berichte/kapitel-20.md)
+- [Kapitel 21](berichte/kapitel-21.md)
+- [Kapitel 22](berichte/kapitel-22.md)
+- [Kapitel 23](berichte/kapitel-23.md)
+- [Kapitel 24](berichte/kapitel-24.md)
+- [Kapitel 25](berichte/kapitel-25.md)
 - [Vorher/Nachher und vollstaendige eigene Alttexte](migration.md)
 - [Zentrale JSON-Daten](aussagen.json) · [Maschinenlesbare Statistik](statistik.json)

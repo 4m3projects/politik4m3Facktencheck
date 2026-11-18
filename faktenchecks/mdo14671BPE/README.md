@@ -6,7 +6,7 @@ Original: [YouTube, Video-ID mdo14671BPE](https://www.youtube.com/watch?v=mdo146
 
 Die automatisch erzeugten deutschen Originaluntertitel wurden bis zum Ende gelesen. Das ist keine Hör- oder Sichtkontrolle. Die Textgrundlage reicht von 00:00:00 bis 02:48:34. Von 02:10:47,880 bis 02:12:43,970 fehlt Text; die letzten vier Sekunden sind ebenfalls nicht inhaltlich gesichert. Eine öffentliche Podcast-Transkription enthält Anschlussmaterial mit anderer Zeitachse; sie ersetzt keine geprüfte Synchronisierung.
 
-Aktualisierung 18.11.2026: Der Datenstand enthält 207 Prüfgegenstände bis zur Asyldebatte bei 02:16:56, einschließlich beider Werbeblöcke. Individuelle Aufenthaltsvorgänge, allgemeine Rechtsregeln und politische Prognosen werden getrennt. Zwei Einträge im Lückenfenster beruhen nur auf ergänzendem, noch nicht synchronisiertem Podcasttext. Der restliche gelesene Text ist noch nicht vollständig erfasst.
+Aktualisierung 18.11.2026: Der Datenstand enthält 248 Prüfgegenstände aus allen 25 Themenbereichen einschließlich beider Werbeblöcke; davon sind 52 eigenbezogene Tatsachen abschließend bewertet. Individuelle Aufenthaltsvorgänge, allgemeine Rechtsregeln und politische Prognosen werden getrennt. Zwei Einträge im Lückenfenster beruhen nur auf ergänzendem, noch nicht synchronisiertem Podcasttext. Die Vertretung aller Themenbereiche ist kein vollständiges Aussageninventar. Sachrecherche und Sprecherbestätigung bleiben unvollständig.
 
 Namentliche Sprecherzuordnungen sind ausschließlich **plausibel**. Null bestätigte Personenzurechnungen bedeuten fehlende Bestätigung, nicht fehlende Aussagen. Fragen, hypothetische Beispiele, ausdrückliche Übernahmen und Wiederholungen müssen getrennt bleiben. Werbeblöcke: 00:09:45–00:11:11 und 00:41:06–00:42:23.
 
