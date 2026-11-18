@@ -1,6 +1,6 @@
 # Kapitel 08: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
 
 Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Vor rund zehn Jahren habe Sinan einen schweren familiären Konflikt offen angesprochen, statt sich von der Familie zu distanzieren; daraus leite er seine Haltung ab, Probleme anzusprechen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -35,7 +35,7 @@ Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen au
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 

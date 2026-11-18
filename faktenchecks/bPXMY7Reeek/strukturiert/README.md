@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
+**Abdeckung: Teilbestand.** Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
 
 Stand: 2026-11-18 · Video: bPXMY7Reeek
 
@@ -14,8 +14,9 @@ Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollstän
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 170
 - Abgeschlossen: 88
-- Offen: 82
+- Offen (noch nicht geprueft): 28
 - In Bearbeitung: 0
+- Nicht ueberpruefbar (abschliessend ohne Urteil): 54
 - Erfasste Behauptungsvorkommen: 197
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 27
 - Davon bestaetigte Wiederholungen derselben Person: 0
@@ -31,7 +32,7 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 Nenner der folgenden Tatsachenprozente: 50 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
-Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
+Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
@@ -42,7 +43,7 @@ Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eig
 | Nicht ausreichend belegbar | 2 | 4.0 % |
 | Meinung / Prognose | 38 | nicht anwendbar |
 
-Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
+Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
 
 ## Sprecherverzeichnis und Zuordnungsstand
 
@@ -59,10 +60,10 @@ Tatsachen mit unsicherer Sprecherzuordnung: 132; mit unsicherem eigenem Aussageb
 - Plausibel: Sprecherzuordnung 197, Aussagebezug 197 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 
-| Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Prozentnenner |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| Sinan (SinansWoche) | 0 | 0 | 0 | 0 | 0 |
-| SP02 | 0 | 0 | 0 | 0 | 0 |
+| Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Sinan (SinansWoche) | 0 | 0 | 0 | 0 | 0 | 0 |
+| SP02 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 Null zugeordnete Tatsachen bedeutet keine bestaetigte Zurechnung in dieser Auswahl, nicht keine getaetigten Aussagen. Kategorieverteilungen stehen in statistik.json; bei Nenner null sind alle Tatsachenprozente null. Die Gesamtstatistik behaelt plausible eigene Bezuege bei und bestaetigt damit keine Sprecheridentitaet. Ungeklaerte eigene Bezuege gehen nicht in ihre Hauptzaehlung ein.
 

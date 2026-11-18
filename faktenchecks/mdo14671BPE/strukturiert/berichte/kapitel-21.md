@@ -1,6 +1,6 @@
 # Kapitel 21: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -93,7 +93,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Tommy Robinson sei zuletzt zum dritten Mal als Terrorist ohne tatsächlichen Grund festgenommen worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -112,24 +112,28 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Zahl, Anlass und rechtlicher Status der angeblich letzten Festnahme sind unbestimmt. Das gelesene Urteil dokumentiert eine frühere Haft wegen Verstoßes gegen eine gerichtliche Anordnung und klärt nicht jede spätere Festnahme.
+Belegt ist ein Grenzstopp im Juli 2024 am Kanaltunnel nach Schedule 7 des britischen Terrorism Act. Angeklagt war Robinson danach nur, weil er die PIN seines Telefons nicht herausgab, nicht als Terrorist. Im November 2025 sprach ihn das Gericht frei und nannte den Stopp unrechtmäßig, weil er im Kern wegen seiner politischen Überzeugungen erfolgt sei. Insoweit ist „ohne tatsächlichen Grund“ gerichtlich gestützt. Nicht belegt sind „zum dritten Mal“ und eine Festnahme „als Terrorist“; die gelesenen Berichte nennen keine früheren Stopps dieser Art. Frühere Haft wegen Missachtung des Gerichts ist ein anderer Sachverhalt.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Zwei Presseberichte zu Verfahren und Urteil; Urteil selbst nicht gelesen. Aufnahmedatum des Interviews nicht bestätigt, deshalb keine Aussage, welche Festnahme mit „zuletzt“ gemeint ist.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Grenzstopp 2024 und Urteil 2025 recherchiert; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
 - [HM Solicitor General v Yaxley-Lennon: Summary of reasons](https://www.judiciary.uk/wp-content/uploads/2024/10/Yaxley-Lennon-Summary-of-reasons-contempt-of-court-sanction.pdf) · Mr Justice Johnson; 28.10.2024.
   Quellenzugriff am 2026-11-17. Richterliche Begründung zu zehn eingeräumten Verstößen gegen eine Unterlassungsanordnung und 18 Monaten Haft gelesen. Kein Nachweis sämtlicher späteren Festnahmen oder Haftbedingungen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
+- [UK court clears far-right figure Tommy Robinson of terror-related offence](https://www.euronews.com/2025/11/04/uk-court-clears-far-right-figure-tommy-robinson-of-terror-related-offence) · Euronews, 04.11.2025; Bericht über das Urteil des Westminster Magistrates' Court zum Grenzstopp vom Juli 2024.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Urteil selbst nicht eingesehen. Keine Quellenkopie veröffentlicht. Freispruch und Einordnung des Stopps durch das Gericht.
+
+- [Why is Tommy Robinson being charged under the Terrorism Act?](https://www.newstatesman.com/politics/uk-politics/2025/10/tommy-robinson-terrorism-act) · New Statesman, 13.10.2025; Prozessbericht zum Vorwurf nach Schedule 7 Terrorism Act 2000.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Rechtsgrundlage und Gegenstand der Anklage (PIN-Verweigerung).
+
 ### Offene Fragen und Unsicherheiten
 
-- Gemeinte aktuelle Festnahme mit Datum und Ermittlungsgrund identifizieren; frühere Contempt-Haft nicht als Terrorismusurteil bezeichnen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
+- Gab es zwei weitere Festnahmen nach Terrorismusrecht? In den gelesenen Berichten nicht erwähnt.
 
 ## mdo14671BPE-A0211
 
@@ -137,7 +141,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Robinson sei bewusst mit feindlich gesinnten islamistischen Häftlingen untergebracht worden, um ihn zu gefährden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -162,7 +166,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -321,7 +325,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ulrich Siegmund beziehungsweise die gesamte AfD lehnten Koalitionen ab, wenn dafür politische Grundsätze aufgegeben werden müssten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -346,7 +350,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -405,7 +409,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Shlomo Finkelstein habe keine gefährlichen Verbindungen ins Ausland unterhalten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -430,7 +434,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 

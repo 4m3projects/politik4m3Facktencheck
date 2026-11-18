@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.",
+  "coverageNote": "Recherche weitgehend abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.",
   "videoId": "mlxFA9T88I0",
   "selectedLegacyPoints": 99,
   "totalLegacyPoints": 99,
@@ -15,40 +15,42 @@
   "referenceOccurrences": 11,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 195,
+    "Offen": 44,
     "In Bearbeitung": 0,
-    "Abgeschlossen": 197
+    "Nicht überprüfbar": 150,
+    "Abgeschlossen": 198
   },
   "kindCounts": {
     "Tatsachenbehauptung": 312,
     "Meinung": 63,
     "Prognose": 17
   },
-  "completedFacts": 117,
-  "openFacts": 195,
+  "completedFacts": 118,
+  "openFacts": 44,
   "inProgressFacts": 0,
-  "percentageDenominator": 117,
-  "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
+  "unverifiableFacts": 150,
+  "percentageDenominator": 118,
+  "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 32,
-      "completedFactPercent": 27.4
+      "completedCount": 33,
+      "completedFactPercent": 28.0
     },
     {
       "category": "Teilweise belegt",
       "completedCount": 58,
-      "completedFactPercent": 49.6
+      "completedFactPercent": 49.2
     },
     {
       "category": "Irreführend / Kontext fehlt",
       "completedCount": 18,
-      "completedFactPercent": 15.4
+      "completedFactPercent": 15.3
     },
     {
       "category": "Widerlegt",
       "completedCount": 7,
-      "completedFactPercent": 6.0
+      "completedFactPercent": 5.9
     },
     {
       "category": "Nicht ausreichend belegbar",
@@ -71,6 +73,7 @@
         "completedFacts": 0,
         "openFacts": 0,
         "inProgressFacts": 0,
+        "unverifiableFacts": 0,
         "percentageDenominator": 0,
         "categories": [
           {
@@ -112,6 +115,7 @@
         "completedFacts": 0,
         "openFacts": 0,
         "inProgressFacts": 0,
+        "unverifiableFacts": 0,
         "percentageDenominator": 0,
         "categories": [
           {
