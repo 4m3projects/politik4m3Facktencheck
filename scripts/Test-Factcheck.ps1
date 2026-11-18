@@ -580,8 +580,8 @@ Case 'Kapitel-3-Endstand trennt Migration Forschung und Referenzfragen' {
     Check-True ($s.selectedLegacyPoints -eq 33 -and $s.totalLegacyPoints -eq 99 -and $s.coverageNote.Contains('Keine Statistik des vollständigen Videos')) 'Teilbestand verloren.'
 }
 # Ab Kapitel 4: fortlaufende Kapitelmigrationen durch Claude (18.11.2026). Je neuem Kapitel Altpunktzahl, Zeitfenster und Endstand ergaenzen.
-$script:laterChapters=@{4=11;5=13}
-$script:laterRanges=@{4=@(4500,5290);5=@(5270,6530)}
+$script:laterChapters=@{4=11;5=13;6=11}
+$script:laterRanges=@{4=@(4500,5290);5=@(5270,6530);6=@(6500,7530)}
 $script:laterExtraOccurrences=@('mlxFA9T88I0-A0011','mlxFA9T88I0-A0012','mlxFA9T88I0-A0013','mlxFA9T88I0-A0016','mlxFA9T88I0-A0017','mlxFA9T88I0-A0018')
 Case 'Spaetere Kapitel decken alle Altpunkte ab und bleiben im Kapitel' {
     $d=$script:current;Assert-FactcheckData $d
@@ -638,10 +638,10 @@ Case 'Zinsreihe und Restlaufzeit an amtlichen Daten statt Erinnerung bewertet' {
 }
 Case 'Aktueller Endstand trennt Migration Forschung und Referenzfragen' {
     $s=Get-FactcheckStatistics $script:current
-    Check-True ($s.statementRecords -eq 272 -and $s.uniqueStatements -eq 270 -and $s.referenceOnlyStatements -eq 2 -and $s.assertionOccurrences -eq 304 -and $s.referenceOccurrences -eq 9 -and $s.additionalAssertionOccurrences -eq 34) 'Aktuelle Vorkommenszaehlung falsch.'
-    Check-True ($s.statusCounts.Abgeschlossen -eq 96 -and $s.statusCounts.Offen -eq 107 -and $s.statusCounts.'In Bearbeitung' -eq 67 -and $s.completedFacts -eq 66) 'Aktueller Forschungsstand falsch.'
-    Check-True ((($s.categories | ForEach-Object {$_.completedCount}) -join ',') -ceq '13,39,10,4,0,30') 'Aktuelle Kategorien falsch.'
-    Check-True ($s.selectedLegacyPoints -eq 57 -and $s.totalLegacyPoints -eq 99 -and $s.speakerStatistics.reliablyAssignedFacts -eq 0 -and $s.sameSpeakerRepeatedAssertionOccurrences -eq 0) 'Teilbestand oder Personenstatistik falsch.'
+    Check-True ($s.statementRecords -eq 299 -and $s.uniqueStatements -eq 297 -and $s.referenceOnlyStatements -eq 2 -and $s.assertionOccurrences -eq 333 -and $s.referenceOccurrences -eq 10 -and $s.additionalAssertionOccurrences -eq 36) 'Aktuelle Vorkommenszaehlung falsch.'
+    Check-True ($s.statusCounts.Abgeschlossen -eq 106 -and $s.statusCounts.Offen -eq 120 -and $s.statusCounts.'In Bearbeitung' -eq 71 -and $s.completedFacts -eq 71) 'Aktueller Forschungsstand falsch.'
+    Check-True ((($s.categories | ForEach-Object {$_.completedCount}) -join ',') -ceq '15,41,11,4,0,35') 'Aktuelle Kategorien falsch.'
+    Check-True ($s.selectedLegacyPoints -eq 67 -and $s.totalLegacyPoints -eq 99 -and $s.speakerStatistics.reliablyAssignedFacts -eq 0 -and $s.sameSpeakerRepeatedAssertionOccurrences -eq 0) 'Teilbestand oder Personenstatistik falsch.'
 }
 Case 'JSON, Statistik und Markdown stimmen ueberein' { Assert-FactcheckCollection $workTexts }
 Case 'Veraltete Statistik wird zurueckgewiesen' {

@@ -1,8 +1,56 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 57 von 99 ursprünglichen Prüfpunkten übertragen, 42 nicht migriert. Kapitel 1 bis 5 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 67 von 99 ursprünglichen Prüfpunkten übertragen, 32 nicht migriert. Kapitel 1 bis 6 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
-A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG.
+A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert.
+
+## Übertragene Herkunftspunkte und Zuordnung
+
+### C06-P09
+
+Vier Aussagen: Die historische Renditebehauptung bleibt als eine modal formulierte Sammelaussage bestehen. Aus der Nennung mehrerer Anlagebeispiele werden keine fünf eigenständigen Renditeversprechen erfunden. Maschineninvestitionen, Stagnation und späterer Rückgang der Produktivität sind getrennt prüfbar. Der Einzelquartalsbefund widerlegt keinen nicht eindeutig definierten gesamten Zeitverlauf.
+
+### C06-P01
+
+Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt.
+
+### C06-P02
+
+Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schuldspruch und Strafverzicht sind gesondert zu prüfen.
+
+### C06-P03
+
+Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt.
+
+### C06-P04
+
+Personalzuwachs im öffentlichen Dienst, Bewertung staatlicher Leistung zu Kosten und behaupteter Wachstumsbeitrag getrennt.
+
+### C06-P05
+
+Gedankenexperiment des Moderators mit Zustimmung des Gastes als eine Aussage zur Messlogik geführt.
+
+### C06-P06
+
+Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt.
+
+### C06-P07
+
+Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.
+
+### C06-P08
+
+Händlerversprechen der Werbung als nicht unabhängig prüfbare Anbieterangaben geführt.
+
+### C06-P10
+
+Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.
+
+### C06-P11
+
+Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt.
+
+Die folgenden Detailprüfungen stehen im führenden Kapitel ihrer Aussage. Wiederholungen bereits anderswo erfasster Aussagen bleiben dort als zusätzliche Vorkommen erhalten und werden oben im Herkunftspunkt benannt. Keine zusätzliche Aussage allein wegen eines neuen Kapitels.
 
 ## mlxFA9T88I0-A0005
 
@@ -214,5 +262,1282 @@ Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherig
 - Gemeinte Jahre und Bezugsmaß bestimmen.
 
 - Rückgänge in Teilperioden von einem durchgehenden Abwärtstrend unterscheiden.
+
+## mlxFA9T88I0-A0273
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 1 (C06-P01).
+
+**Eigene Beschreibung:** Regierungen dürfen der Europäischen Zentralbank offiziell keine Vorgaben zu Inflation oder Zinsen machen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:48:35–01:48:55](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6515s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben / Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:48:29–01:49:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6509s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Weisungsfreiheit der EZB ist im EU-Vertrag geregelt. Die EUR-Lex-Seiten mit dem Vertragstext lieferten beim Abruf keinen Inhalt; ohne gelesene Quelle keine Endbewertung.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Artikel 130 AEUV im Wortlaut lesen.
+
+## mlxFA9T88I0-A0274
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 1 (C06-P01).
+
+**Eigene Beschreibung:** Alle bisherigen Präsidenten der EZB seien politisch besetzt gewesen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:49:05–01:49:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6545s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben / Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:48:29–01:49:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6509s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Ernennung erfolgt durch ein politisches Gremium; ob daraus eine politische Besetzung im Sinne fehlender Unabhängigkeit folgt, ist eine Deutung. Der Ernennungsartikel des Vertrags wurde nicht erfolgreich gelesen. Keine Endbewertung.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Artikel 283 AEUV lesen; Ernennungsweg von der behaupteten Abhängigkeit trennen.
+
+## mlxFA9T88I0-A0275
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 2 (C06-P02).
+
+**Eigene Beschreibung:** Christine Lagarde war zuvor französische Finanzministerin.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:49:15–01:49:20](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6555s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:49:10–01:49:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6550s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P02. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Lebenslauf der EZB nennt sie als Ministerin für Wirtschaft und Finanzen Frankreichs (2007–2011).
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schuldspruch und Strafverzicht sind gesondert zu prüfen.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+- [Christine Lagarde – President of the European Central Bank (CV)](https://www.ecb.europa.eu/ecb/decisions/html/cvlagarde.en.html) · Europäische Zentralbank · Lebenslauf; Ministerin für Wirtschaft und Finanzen Frankreichs 2007–2011. Angabe aus dem im Recherchewerkzeug zusammengefassten Seitenteil.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Ministerfunktion 2007–2011.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mlxFA9T88I0-A0276
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 2 (C06-P02).
+
+**Eigene Beschreibung:** Lagarde sei wegen Veruntreuung von 400 Millionen rechtskräftig verurteilt; das Urteil sei wegen ihrer Persönlichkeit nie vollstreckt worden.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:49:20–01:49:45](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6560s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:49:10–01:49:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6550s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P02. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Gemeint ist das Verfahren um die Tapie-Schiedszahlung. Ein Bericht über den Schuldspruch von 2016 konnte nicht gelesen werden (Abruf blockiert); Tatvorwurf, Strafausspruch und Begründung sind daher nicht geprüft. Insbesondere ist offen, ob der Vorwurf Veruntreuung oder Fahrlässigkeit lautete. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schuldspruch und Strafverzicht sind gesondert zu prüfen.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Urteil des Gerichtshofs der Republik vom Dezember 2016 oder seriösen Bericht lesen: Tatvorwurf, Summe, Strafe, Begründung.
+
+## mlxFA9T88I0-A0277
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 3 (C06-P03).
+
+**Eigene Beschreibung:** Die direkte Finanzierung des Staates durch die Zentralbank ist verboten.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:50:30–01:50:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6630s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: beide. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:50:00–01:53:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6600s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Das Verbot der monetären Staatsfinanzierung ist im EU-Vertrag geregelt; der Vertragstext lieferte beim Abruf keinen Inhalt. Die EZB-FAQ bestätigt nur, dass im Ankaufprogramm nie am Primärmarkt gekauft wurde. Keine Endbewertung ohne gelesene Rechtsquelle.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+- [FAQ on the public sector purchase programme](https://www.ecb.europa.eu/mopo/implement/app/html/ecb.faq_pspp.en.html) · Europäische Zentralbank · aktualisiert 09.08.2023; Emissionsanteilsgrenze 25 Prozent, ab 2015 bis 33 Prozent nach Einzelfallprüfung; Emittentengrenze 33 Prozent; keine Käufe am Primärmarkt.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Keine Primärmarktkäufe im PSPP.
+
+### Offene Fragen und Unsicherheiten
+
+- Artikel 123 AEUV im Wortlaut lesen.
+
+## mlxFA9T88I0-A0278
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 3 (C06-P03).
+
+**Eigene Beschreibung:** Staatsanleihen würden von Banken und Versicherern gegen eine Gebühr gekauft und an die Zentralbank weitergereicht, die dafür Zentralbankgeld ausgibt.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:49:55–01:50:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6595s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: beide. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:50:00–01:53:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6600s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die EZB kaufte im Ankaufprogramm Staatsanleihen nicht am Primärmarkt, also von anderen Marktteilnehmern. Dass Käufer Anleihen nur zum Weiterreichen gegen Gebühr erwerben, ist nicht belegt; die frühere Haltefrist vor dem Ankauf wurde nicht gelesen.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+- [FAQ on the public sector purchase programme](https://www.ecb.europa.eu/mopo/implement/app/html/ecb.faq_pspp.en.html) · Europäische Zentralbank · aktualisiert 09.08.2023; Emissionsanteilsgrenze 25 Prozent, ab 2015 bis 33 Prozent nach Einzelfallprüfung; Emittentengrenze 33 Prozent; keine Käufe am Primärmarkt.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Ankauf nicht am Primärmarkt.
+
+### Offene Fragen und Unsicherheiten
+
+- Sperrfristen vor Ankäufen neu emittierter Anleihen und Rolle der Zwischenhändler in EZB-Unterlagen lesen.
+
+## mlxFA9T88I0-A0279
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 3 (C06-P03).
+
+**Eigene Beschreibung:** Über diesen Umweg könne eine Regierung praktisch unbegrenzt Geld drucken.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:51:30–01:52:58](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6690s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: beide. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:50:00–01:53:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6600s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+- [01:52:58–01:53:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6778s) · nicht bestaetigt; Kandidat: Horst Lüning · Ausdrückliche Zustimmung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Ausdrückliche Zustimmung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: beide. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Kurze ausdrückliche Bestätigung des Gastes; plausibler Kandidat.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:50:00–01:53:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6600s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Moderator fasst so zusammen, der Gast stimmt zu. Die EZB entscheidet selbst über Ankäufe und begrenzte sie im Programm auf höchstens 33 Prozent je Emission und Emittent. Eine unbegrenzte Finanzierung nach Wunsch einer Regierung ist mit diesen Regeln nicht vereinbar.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+- [FAQ on the public sector purchase programme](https://www.ecb.europa.eu/mopo/implement/app/html/ecb.faq_pspp.en.html) · Europäische Zentralbank · aktualisiert 09.08.2023; Emissionsanteilsgrenze 25 Prozent, ab 2015 bis 33 Prozent nach Einzelfallprüfung; Emittentengrenze 33 Prozent; keine Käufe am Primärmarkt.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Emissions- und Emittentengrenzen von 33 Prozent.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mlxFA9T88I0-A0280
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 3 (C06-P03).
+
+**Eigene Beschreibung:** Die Zentralbank sei nur auf dem Papier unabhängig; politisch genehmigte Programme ermöglichten die Staatsfinanzierung über Bande.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [01:53:00–01:53:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6780s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: beide. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:50:00–01:53:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6600s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Politische Deutung der institutionellen Praxis.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung der Wertung.
+
+## mlxFA9T88I0-A0281
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 4 (C06-P04).
+
+**Eigene Beschreibung:** Der Staat hat rund 100.000 neue Beamte bzw. Beschäftigte im öffentlichen Dienst eingestellt.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:53:58–01:54:05](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6838s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning / Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:53:30–01:57:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6810s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Destatis meldet für 2024 ein Plus von 95.900 und für 2025 ein Plus von 95.100 Beschäftigten im öffentlichen Dienst, vor allem in Bildung und Kinderbetreuung. Die Größenordnung trifft zu; es handelt sich überwiegend nicht um Beamte, sondern um alle Beschäftigtengruppen.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Personalzuwachs im öffentlichen Dienst, Bewertung staatlicher Leistung zu Kosten und behaupteter Wachstumsbeitrag getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+- [Öffentlicher Dienst 2025: Mehr Beschäftigte in der Bildung und Kinderbetreuung](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/06/PD26_215_741.html) · Statistisches Bundesamt · Pressemitteilung 215 vom 22.06.2026; 30.06.2025 rund 5,48 Mio. Beschäftigte, plus 95.100 (1,8 Prozent) gegenüber Vorjahr, vorläufig.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Plus 95.100 zum 30.06.2025.
+
+- [Öffentlicher Dienst 2024: Mehr Beschäftigte für Bildung und Kinderbetreuung](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/06/PD25_212_741.html) · Statistisches Bundesamt · Pressemitteilung 212 vom 17.06.2025; 30.06.2024 rund 5,4 Mio. Beschäftigte, plus 95.900 (1,8 Prozent) gegenüber 2023, vorläufig.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Plus 95.900 zum 30.06.2024.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mlxFA9T88I0-A0282
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 4 (C06-P04).
+
+**Eigene Beschreibung:** In der Wirtschaftsleistung wird die Arbeit von Staatsbediensteten zu ihren Kosten wie Lohn, Amtsstube und Heizung angesetzt.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:54:25–01:54:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6865s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning / Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:53:30–01:57:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6810s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nach dem Europäischen System Volkswirtschaftlicher Gesamtrechnungen wird Nichtmarktproduktion des Staates zu den Produktionskosten bewertet (Arbeitnehmerentgelt, Vorleistungen, Abschreibungen, sonstige Produktionsabgaben). Die Beschreibung trifft im Kern zu.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Personalzuwachs im öffentlichen Dienst, Bewertung staatlicher Leistung zu Kosten und behaupteter Wachstumsbeitrag getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+- [ESA 2010, Chapter 3: Transactions in products](https://ec.europa.eu/eurostat/esa2010/chapter/view/3/) · Eurostat · Europäisches System Volkswirtschaftlicher Gesamtrechnungen 2010; Randnummern 3.23 und 3.49: Nichtmarktproduktion wird zu den Produktionskosten bewertet.
+  Quellenzugriff am 2026-11-18. Kapitelseite am 18.11.2026 im Recherchewerkzeug geöffnet (Claude); Randnummer 3.49 nur über die werkzeuginterne Zusammenfassung des langen Seitenteils gelesen, nicht wörtlich kontrolliert; keine Quellenkopie veröffentlicht. Randnummern 3.23 und 3.49 (über werkzeuginterne Zusammenfassung gelesen).
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mlxFA9T88I0-A0283
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 4 (C06-P04).
+
+**Eigene Beschreibung:** Der öffentliche Dienst sei weniger produktiv; das geringe BIP-Wachstum stamme zu einem großen Teil aus zusätzlichen Staatsbeschäftigten.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:54:55–01:55:25](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6895s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning / Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:53:30–01:57:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6810s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Weil Staatsleistung zu Kosten gemessen wird, ist ihre Produktivität nicht direkt vergleichbar. Ein Wachstumsbeitrag des Staates ließe sich an der Entstehungsrechnung prüfen; keine solche Quelle gelesen.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Personalzuwachs im öffentlichen Dienst, Bewertung staatlicher Leistung zu Kosten und behaupteter Wachstumsbeitrag getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Wachstumsbeiträge nach Wirtschaftsbereichen (Destatis, Entstehungsrechnung 2025) lesen.
+
+## mlxFA9T88I0-A0284
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 5 (C06-P05).
+
+**Eigene Beschreibung:** Ein untätiger Angestellter senke im Unternehmen die Leistung um seine Lohnkosten, beim Staat erhöhe derselbe Angestellte das BIP um diese Kosten.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:55:40–01:57:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6940s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben, von Lüning bestätigt. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:55:40–01:57:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6940s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+- [01:57:20–01:57:25](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7040s) · nicht bestaetigt; Kandidat: Horst Lüning · Ausdrückliche Zustimmung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Ausdrückliche Zustimmung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben, von Lüning bestätigt. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ausdrückliche Bestätigung des Gastes; plausibler Kandidat.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:55:40–01:57:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6940s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Für den Staat trifft die Messlogik zu: Seine Leistung wird zu Kosten bewertet, Lohnzahlungen erhöhen daher die gemessene Produktion. Im Unternehmen senkt ein untätiger Mitarbeiter den Gewinn, aber nicht die gemessene Wertschöpfung um seinen Lohn; die Gegenüberstellung von minus und plus 200 Euro vermischt Gewinn und BIP.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Gedankenexperiment des Moderators mit Zustimmung des Gastes als eine Aussage zur Messlogik geführt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+- [ESA 2010, Chapter 3: Transactions in products](https://ec.europa.eu/eurostat/esa2010/chapter/view/3/) · Eurostat · Europäisches System Volkswirtschaftlicher Gesamtrechnungen 2010; Randnummern 3.23 und 3.49: Nichtmarktproduktion wird zu den Produktionskosten bewertet.
+  Quellenzugriff am 2026-11-18. Kapitelseite am 18.11.2026 im Recherchewerkzeug geöffnet (Claude); Randnummer 3.49 nur über die werkzeuginterne Zusammenfassung des langen Seitenteils gelesen, nicht wörtlich kontrolliert; keine Quellenkopie veröffentlicht. Bewertung der Nichtmarktproduktion zu Kosten.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## mlxFA9T88I0-A0285
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 6 (C06-P06).
+
+**Eigene Beschreibung:** Mehr ausgezahltes Geld ohne zusätzliche Produktion führe ganz automatisch zu Preissteigerungen.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:57:30–01:58:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7050s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:57:30–01:59:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7050s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P06. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Allgemeiner ökonomischer Zusammenhang, den der Gast unmittelbar danach selbst einschränkt (Geld kann in Vermögenswerte fließen). Ein Automatismus ist zu absolut; ohne gelesene Fachquelle keine Endbewertung.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Empirische Literatur zum Zusammenhang von Geldmenge und Verbraucherpreisen lesen.
+
+## mlxFA9T88I0-A0286
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 6 (C06-P06).
+
+**Eigene Beschreibung:** In den letzten zehn bis zwanzig Jahren sei staatlich geschaffenes Geld vor allem in Aktien, Gold und Bitcoin geflossen und habe Vermögenspreise statt Verbraucherpreise steigen lassen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:58:30–01:59:05](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7110s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:57:30–01:59:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7050s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P06. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Behauptete Wirkungskette über einen langen Zeitraum. Vermögenspreisanstiege sind dokumentierbar, ihre Ursache in staatlicher Verschuldung nicht ohne Studien. Keine Quelle gelesen.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Studien zu Anleihekaufprogrammen und Vermögenspreisen lesen.
+
+## mlxFA9T88I0-A0287
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 7 (C06-P07).
+
+**Eigene Beschreibung:** Die meisten Feuchtigkeitscremes bestehen überwiegend aus Wasser oder Erdöl, mit denen die Haut wenig anfangen könne.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:59:10–01:59:32](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7150s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:59:15–02:00:49](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7155s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Werbeaussage des Moderators. Zusammensetzung handelsüblicher Cremes und deren Wirkung wären an dermatologischer Literatur zu prüfen; keine Quelle gelesen. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Dermatologische Übersichtsarbeit zu Feuchtigkeitscremes lesen.
+
+## mlxFA9T88I0-A0288
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 7 (C06-P07).
+
+**Eigene Beschreibung:** Rindertalg sei in seiner Zusammensetzung dem menschlichen Hautfett am nächsten und liefere Fettsäuren, fettlösliche Vitamine und hautähnliche Lipide.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:59:40–01:59:55](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7180s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:59:15–02:00:49](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7155s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Werbeaussage. Eine Fachquelle zur Zusammensetzung von menschlichem Hautfett und Rindertalg wurde nicht gefunden bzw. nicht gelesen. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Übersichtsarbeit zur Lipidzusammensetzung von Hautfett und Rindertalg lesen.
+
+## mlxFA9T88I0-A0289
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 7 (C06-P07).
+
+**Eigene Beschreibung:** Noch vor etwa hundert Jahren waren tierische Fette die gängigste Form der Hautpflege.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:59:45–01:59:52](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7185s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:59:15–02:00:49](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7155s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Historische Werbeaussage; keine Quelle gelesen. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Kosmetikgeschichtliche Fachquelle lesen.
+
+## mlxFA9T88I0-A0290
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 7 (C06-P07).
+
+**Eigene Beschreibung:** Man solle nichts auf die Haut geben, was man nicht auch essen könnte.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:00:10–02:00:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7210s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [01:59:15–02:00:49](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7155s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Werbe- und Lebensstilregel, keine prüfbare Tatsache. Essbarkeit ist kein dermatologisches Eignungskriterium.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung der Wertung.
+
+## mlxFA9T88I0-A0291
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 8 (C06-P08).
+
+**Eigene Beschreibung:** Der Werbepartner biete hundertprozentig natürliche Schweizer Qualität, schnellen Versand, Tausende positive Bewertungen und eine 90-Tage-Geld-zurück-Garantie.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:00:13–02:00:35](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7213s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:00:00–02:00:49](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7200s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nicht überprüfbar – Werbeangaben des Anbieters. Garantiebedingungen könnten auf der Anbieterseite nachgelesen werden; Natürlichkeit, Versandtempo und Bewertungen sind Selbstauskünfte ohne unabhängige Prüfgrundlage. Der Abschnitt ist als Werbung erkennbar.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Händlerversprechen der Werbung als nicht unabhängig prüfbare Anbieterangaben geführt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Garantiebedingungen auf der Anbieterseite lesen; Bewertungen sind nicht unabhängig prüfbar.
+
+## mlxFA9T88I0-A0292
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 9 (C06-P09).
+
+**Eigene Beschreibung:** Vermögende hätten unverändert konsumiert, der Überschuss sei in Finanzblasen geflossen.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:01:05–02:01:35](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7265s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:00:49–02:03:25](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7249s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Deutung des Gastes zu Konsum- und Anlageverhalten; keine prüfbare Einzelangabe.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Bestehende Aussagen A0005–A0008 bleiben unverändert; zusätzlich nur die Deutung zum Konsumverhalten Vermögender.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung der Wertung.
+
+## mlxFA9T88I0-A0293
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 10 (C06-P10).
+
+**Eigene Beschreibung:** Wer Immobilien finanziert gekauft hat, muss jetzt höhere Zinsen zahlen und leidet unter höheren Grundsteuern.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:01:30–02:01:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7290s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning / Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:01:00–02:04:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7260s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Steigende Bauzinsen betreffen Anschlussfinanzierungen, nicht laufende Zinsbindungen; Grundsteuer hängt seit der Reform von Gemeinde und Grundstück ab. Keine Quelle gelesen; keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Bauzinsentwicklung (Bundesbank) und Grundsteuerreform-Auswirkungen lesen.
+
+## mlxFA9T88I0-A0294
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 10 (C06-P10).
+
+**Eigene Beschreibung:** Etliche Unternehmen haben Geld an den Finanzmärkten statt im eigenen Betrieb angelegt und sind deshalb von der heimischen Lage unabhängig.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:02:00–02:02:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7320s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning / Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:01:00–02:04:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7260s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nicht überprüfbar – unbenannte Unternehmen. Ohne benannte Fälle und Bilanzdaten lässt sich die Verallgemeinerung nicht prüfen.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Nur mit benannten Unternehmen prüfbar.
+
+## mlxFA9T88I0-A0295
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 10 (C06-P10).
+
+**Eigene Beschreibung:** Mit Geld für nicht produktive Kräfte erweise der Staat diesen Menschen einen Bärendienst; sie merkten nicht, dass das System brüchig werde.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:02:10–02:02:45](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7330s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning / Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:01:00–02:04:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7260s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Politische Wertung.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung der Wertung.
+
+## mlxFA9T88I0-A0296
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 10 (C06-P10).
+
+**Eigene Beschreibung:** Auto- und Fertigungsindustrie entlassen Beschäftigte, weil die gesunkene Produktivität nicht mehr genug Ertrag bringt.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:03:30–02:03:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7410s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning / Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:01:00–02:04:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7260s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Kausalbehauptung zu Entlassungen. Produktivität ist nur einer von mehreren möglichen Gründen (Nachfrage, Kosten, Strukturwandel). Keine Quelle gelesen.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Branchenanalysen zu Stellenabbau in Automobil- und Fertigungsindustrie 2025/2026 lesen.
+
+## mlxFA9T88I0-A0297
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 10 (C06-P10).
+
+**Eigene Beschreibung:** Deutschland befinde sich in einer gigantischen Wirtschaftskrise, die durch staatliche Einstellungen vertuscht werde.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:03:40–02:04:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7420s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Lüning / Ben. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:01:00–02:04:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7260s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Zuspitzende Deutung des Moderators aus dem Gespräch; Bewertung, keine prüfbare Einzelangabe.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Sachprüfung der Wertung.
+
+## mlxFA9T88I0-A0298
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 11 (C06-P11).
+
+**Eigene Beschreibung:** Deutsche Ukrainehilfe fließe als Geld in die Ukraine und von dort für Panzerbestellungen nach Deutschland zurück.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:04:10–02:04:40](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7450s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben / Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:04:00–02:05:02](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7440s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+- [02:04:40–02:04:44](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7480s) · nicht bestaetigt; Kandidat: Horst Lüning · Zurückweisung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Zurückweisung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben / Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Der Gast weist die Annahme zurück.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:04:00–02:05:02](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7440s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Hypothese des Moderators, die der Gast unmittelbar zurückweist. Wie Lieferungen aus Deutschland finanziert werden, wurde nicht im Einzelnen geprüft. Keine Bewertung.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Finanzierungswege deutscher Rüstungslieferungen an die Ukraine prüfen.
+
+## mlxFA9T88I0-A0299
+
+Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md), Pruefpunkt 11 (C06-P11).
+
+**Eigene Beschreibung:** Deutschland schenke der Ukraine Waffen ohne Rückzahlungspflicht; Geld der Ukraine fließe für Waffenkäufe in die USA.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:04:44–02:05:00](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7484s) · nicht bestaetigt; Kandidat: Horst Lüning · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.
+
+Grundlage des Aussagebezugs: Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.
+
+Erhaltene Altzuordnung: Ben / Lüning. Kein eigenstaendiger Identitaetsnachweis.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.
+
+Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.
+
+Frueherer Suchbereich: [02:04:00–02:05:02](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7440s), Ungefähr. Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Das Kiel-Institut verfolgt rund 56 Milliarden Euro deutsche Militärhilfe, nennt im gelesenen Text aber keine Angabe zur Rückzahlungsfreiheit. Ukrainische Zahlungen für US-Waffen wurden nicht geprüft. Keine Endbewertung.
+
+Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+
+Uebernahme: Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt.
+
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+### Zugeordnete Quellen
+
+- [Ukraine Support Tracker: Only EUR 41.7 Billion of Germany's EUR 100 Billion Went to Ukraine](https://www.kielinstitut.de/media/news/ukraine-support-tracker-only-eur-417-billion-of-germanys-eur-100-billion-went-to-ukraine/) · Kiel Institut für Weltwirtschaft · Pressemitteilung vom 08.10.2026; Bundesregierung meldet 100 Mrd. Euro (57,6 Mrd. militärisch) bereitgestellt oder vorgesehen, Kiel verfolgt 56,3 Mrd. Euro Militärhilfe nach; keine Aussage zur Rückzahlungsfreiheit der Militärhilfe gefunden.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Umfang deutscher Militärhilfe; keine Angabe zu Zuschuss oder Darlehen.
+
+### Offene Fragen und Unsicherheiten
+
+- Kiel Policy Brief 10/2026 zur Form der deutschen Hilfe lesen; europäische Finanzierung von US-Waffenkäufen prüfen.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

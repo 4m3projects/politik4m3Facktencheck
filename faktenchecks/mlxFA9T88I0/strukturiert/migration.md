@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Teilbestand: 57 von 99 ursprünglichen Prüfpunkten übertragen, 42 nicht migriert. Kapitel 1 bis 5 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Abdeckung: Teilbestand: 67 von 99 ursprünglichen Prüfpunkten übertragen, 32 nicht migriert. Kapitel 1 bis 6 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
 Herkunftscommit: bb6e666961baf719d02671a7ad2f439086f3c530
 
@@ -103,6 +103,7 @@ Vier Aussagen: Die historische Renditebehauptung bleibt als eine modal formulier
 | mlxFA9T88I0-A0006 | Offen | keine Endbewertung | Übernommen: die Maschineninvestitionsbehauptung; zugeordnet: die bisher ausdrücklich nicht abgeschlossene Investitionsprüfung. |
 | mlxFA9T88I0-A0007 | In Bearbeitung | keine Endbewertung | Übernommen: Beginn und Stagnationsbehauptung; zugeordnet: die bisher offene längerfristige Produktivitätsprüfung. |
 | mlxFA9T88I0-A0008 | Offen | keine Endbewertung | Übernommen: die spätere Rückgangsbehauptung; erhalten: Destatis-Zahl, deren begrenzte Aussagekraft und Revisionsvorbehalt im Herkunftstext. Die überstarke Gegenüberstellung mit einem durchgehenden Rückgang wird nicht als Einzelurteil übernommen. |
+| mlxFA9T88I0-A0292 | Abgeschlossen | Meinung / Prognose | Bestehende Aussagen A0005–A0008 bleiben unverändert; zusätzlich nur die Deutung zum Konsumverhalten Vermögender. |
 
 Bewertungsuebergang mlxFA9T88I0-A0005: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
 
@@ -114,6 +115,9 @@ Bewertungsuebergang mlxFA9T88I0-A0007: Keine abschließende Einzelbewertung verg
 
 
 Bewertungsuebergang mlxFA9T88I0-A0008: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0292: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
 ## C08-P03
@@ -2697,3 +2701,391 @@ Bewertungsuebergang mlxFA9T88I0-A0271: Eigenständige Einzelentscheidung; frühe
 
 
 Bewertungsuebergang mlxFA9T88I0-A0272: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C06-P01
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md)
+
+Referenzhash der Kapiteldatei: 4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3
+
+Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 1
+
+- **Fundstelle:** [01:48:29–01:49:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6509s)
+- **Zuordnung:** Ben / Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Die Zentralbank sei unabhängig, politisch ernannte Leitung und Programme machten sie tatsächlich zum Staatsfinanzierer.
+- **Bewertung:** teilweise belegbarer Rahmen / Motivthese offen
+
+**Unsere Begründung und Grenzen:** Politische Ernennung und institutionelle Unabhängigkeit schließen sich rechtlich nicht aus. Benennung eines Amtsinhabers beweist keine konkrete Weisung oder Interessenkollision. Die umfassende Behauptung uneingeschränkter Regierungsfinanzierung wird von den geprüften Programmregeln nicht getragen; siehe Nr. 3.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Urteil C-493/17, Weiss u. a.](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62017CJ0493) · Gerichtshof der Europäischen Union · Stand: 11.12.2018; insbesondere Rn. 103 ff. und Tenor.
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6509s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0273 | Offen | keine Endbewertung | Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt. |
+| mlxFA9T88I0-A0274 | Offen | keine Endbewertung | Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0273: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0274: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C06-P02
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md)
+
+Referenzhash der Kapiteldatei: 4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3
+
+Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schuldspruch und Strafverzicht sind gesondert zu prüfen.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 2
+
+- **Fundstelle:** [01:49:10–01:49:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6550s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Lagarde sei wegen 400 Millionen Veruntreuung verurteilt; das Urteil sei wegen ihrer Persönlichkeit nie in Kraft gesetzt worden.
+- **Bewertung:** irreführend / teilweise widerlegt
+
+**Unsere Begründung und Grenzen:** Das Urteil vom 19.12.2016 spricht sie wegen Fahrlässigkeit schuldig, durch die Dritte öffentliche Mittel in Höhe von 45 Millionen Euro veruntreuten. Es befreit sie ausdrücklich von Strafe und berücksichtigt mehrere Umstände einschließlich Persönlichkeit. Das ist kein nie in Kraft gesetztes Urteil und keine Verurteilung wegen eigener Veruntreuung von 400 Millionen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Arrêt du 19 décembre 2016](https://www.courdecassation.fr/files/files/D%C3%A9cisions_CJR/Arret_du_19_decembre_2016.pdf) · Cour de justice de la République / Cour de cassation · Stand: 19.12.2016; Urteil, insbesondere Schuldspruch und Strafbefreiung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0275 | Abgeschlossen | Belegt | Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schuldspruch und Strafverzicht sind gesondert zu prüfen. |
+| mlxFA9T88I0-A0276 | Offen | keine Endbewertung | Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schuldspruch und Strafverzicht sind gesondert zu prüfen. |
+
+Bewertungsuebergang mlxFA9T88I0-A0275: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0276: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C06-P03
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md)
+
+Referenzhash der Kapiteldatei: 4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3
+
+Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 3
+
+- **Fundstelle:** [01:50:00–01:53:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6600s)
+- **Zuordnung:** beide
+- **Prüfgegenstand – unsere Beschreibung:** Staatspapiere gingen sofort über Banken, Versicherer oder BlackRock zur EZB; gegen Gebühr könne der Staat unbegrenzt Geld drucken.
+- **Bewertung:** teilweise richtiger Marktmechanismus / unzutreffende Unbegrenztheit
+
+**Unsere Begründung und Grenzen:** Sekundärmarktkäufe existieren. Der EuGH prüft in Weiss aber gerade Sicherungen gegen die Umgehung des unmittelbaren Finanzierungsverbots, etwa keine Ankaufgewissheit für Ersterwerber. Ein garantierter Sofortdurchlauf ist damit nicht der belegte Normalfall. Das BlackRock-Telefonat ist Bens hypothetisches Beispiel; Gebühren, Informationsmissbrauch und Shortpositionen werden nicht nachgewiesen. Juristische und ökonomische Kritik bleiben möglich, beweisen diesen Deal aber nicht.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Urteil C-493/17, Weiss u. a.](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62017CJ0493) · Gerichtshof der Europäischen Union · Stand: 11.12.2018; insbesondere Rn. 103 ff. und Tenor.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0277 | In Bearbeitung | keine Endbewertung | Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt. |
+| mlxFA9T88I0-A0278 | In Bearbeitung | keine Endbewertung | Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt. |
+| mlxFA9T88I0-A0279 | Abgeschlossen | Irreführend / Kontext fehlt | Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt. |
+| mlxFA9T88I0-A0280 | Abgeschlossen | Meinung / Prognose | Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0277: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0278: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0279: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0280: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C06-P04
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md)
+
+Referenzhash der Kapiteldatei: 4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3
+
+Personalzuwachs im öffentlichen Dienst, Bewertung staatlicher Leistung zu Kosten und behaupteter Wachstumsbeitrag getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 4
+
+- **Fundstelle:** [01:53:30–01:57:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6810s)
+- **Zuordnung:** Lüning / Ben
+- **Prüfgegenstand – unsere Beschreibung:** Etwa 100.000 zusätzliche Staatsbeschäftigte; ihre Kosten zählten als BIP, auch ohne Leistung; dadurch werde eine private Krise vertuscht.
+- **Bewertung:** teilweise belegt / Schlussfolgerung nicht gedeckt
+
+**Unsere Begründung und Grenzen:** Eurostat bestätigt Kostenbewertung nichtmarktlicher Produktion in laufenden Preisen und weist auf das Problem fortgezahlter Löhne bei reduzierter Tätigkeit hin. Reale Volumenmessung ist gesondert geregelt; u.a. Bildung und Gesundheit nutzen Leistungsmaße. Die konkrete Zahl neuer Stellen und deren Beitrag zum Wachstum wurde nicht geprüft. Aus der Methodik allein folgt keine absichtliche Vertuschung oder Wertlosigkeit aller Staatsdienste.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Guidance on non-market output in the context of the COVID-19 crisis](https://ec.europa.eu/eurostat/documents/10186/10693286/Non-market_output_guidance.pdf) · Eurostat · Stand: 25.05.2020; ESA 2010, Abs. 3.49 und Volumenmessung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0281 | Abgeschlossen | Teilweise belegt | Personalzuwachs im öffentlichen Dienst, Bewertung staatlicher Leistung zu Kosten und behaupteter Wachstumsbeitrag getrennt. |
+| mlxFA9T88I0-A0282 | Abgeschlossen | Belegt | Personalzuwachs im öffentlichen Dienst, Bewertung staatlicher Leistung zu Kosten und behaupteter Wachstumsbeitrag getrennt. |
+| mlxFA9T88I0-A0283 | Offen | keine Endbewertung | Personalzuwachs im öffentlichen Dienst, Bewertung staatlicher Leistung zu Kosten und behaupteter Wachstumsbeitrag getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0281: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0282: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0283: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C06-P05
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md)
+
+Referenzhash der Kapiteldatei: 4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3
+
+Gedankenexperiment des Moderators mit Zustimmung des Gastes als eine Aussage zur Messlogik geführt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 5
+
+- **Fundstelle:** [01:55:40–01:57:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6940s)
+- **Zuordnung:** Ben, von Lüning bestätigt
+- **Prüfgegenstand – unsere Beschreibung:** Ein Personaltrainer ohne Kunden bedeute privat minus 200 Euro Produktivität, beim Staat plus 200 Euro.
+- **Bewertung:** irreführend / falsche Gleichsetzung
+
+**Unsere Begründung und Grenzen:** Ein betrieblicher Verlust ist keine Definition gesamtwirtschaftlicher Arbeitsproduktivität. Ein entlohnter Mitarbeiter erzeugt nicht durch den Wechsel des Arbeitgebers automatisch 400 Euro zusätzlichen realen Output. Das Beispiel vermischt Gewinn, nominale Kostenbewertung und reale Wertschöpfung. Es veranschaulicht ein mögliches Messproblem nur mit diesen wesentlichen Einschränkungen.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Guidance on non-market output in the context of the COVID-19 crisis](https://ec.europa.eu/eurostat/documents/10186/10693286/Non-market_output_guidance.pdf) · Eurostat · Stand: 25.05.2020; ESA 2010, Abs. 3.49 und Volumenmessung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0284 | Abgeschlossen | Teilweise belegt | Gedankenexperiment des Moderators mit Zustimmung des Gastes als eine Aussage zur Messlogik geführt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0284: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C06-P06
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md)
+
+Referenzhash der Kapiteldatei: 4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3
+
+Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 6
+
+- **Fundstelle:** [01:57:30–01:59:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7050s)
+- **Zuordnung:** Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Mehr staatlich ausgezahltes Geld ohne Mehrproduktion erhöhe Preise; stattdessen in Anlagen fließendes Geld könne Vermögenspreise treiben.
+- **Bewertung:** teilweise belegt als möglicher Mechanismus / Kausalität offen
+
+**Unsere Begründung und Grenzen:** Unter sonst gleichen Bedingungen ist zusätzlicher Nachfragedruck plausibel. Vermögenspreise hängen aber auch von erwarteten Erträgen, Zinsen, Risiko und Angebot ab. Eine Identität jeder Staats-Euro gleich neue Geldmenge ist nicht gezeigt; Geldumlauf und Finanzierung fehlen. PEPP beschreibt einen Zins-/Vermögenspreiskanal, keine vollständige Erklärung jeder beobachteten Preisbewegung.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [What is the pandemic emergency purchase programme (PEPP)?](https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/pepp.en.html) · Europäische Zentralbank · Stand: 28.07.2021; historischer Erklärtext.
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7050s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0285 | In Bearbeitung | keine Endbewertung | Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt. |
+| mlxFA9T88I0-A0286 | Offen | keine Endbewertung | Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0285: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0286: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C06-P07
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md)
+
+Referenzhash der Kapiteldatei: 4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3
+
+Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 7
+
+- **Fundstelle:** [01:59:15–02:00:49 (Werbung)](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7155s)
+- **Zuordnung:** Ben
+- **Prüfgegenstand – unsere Beschreibung:** Mit Wasser oder Erdöl in üblichen Cremes könne Haut wenig anfangen; nur essbare Inhaltsstoffe seien geeignet; Rindertalg sei dem menschlichen Hautfett am nächsten, historisch bewährt und liefere Vitamine/Lipide.
+- **Bewertung:** irreführend / Überlegenheit nicht ausreichend belegt
+
+**Unsere Begründung und Grenzen:** Die AAD empfiehlt u.a. Cremes, Salben und Vaseline gegen trockene Haut. Damit ist die pauschale Abwertung mineralölbasierter Pflege nicht haltbar. Essbarkeit ist kein dermatologischer Sicherheitsnachweis; keine Chemie ist ein Werbeslogan. Die Übersicht zu Talg benennt wesentliche Forschungslücken. Sie beweist weder universelle Überlegenheit noch den höchsten Ähnlichkeitsgrad. Geschichte, konkrete Vitaminmengen und Wirkung des beworbenen Produkts wurden nicht analytisch überprüft.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Dermatologists’ top tips for relieving dry skin](https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin) · American Academy of Dermatology · Stand: undatierte fachärztliche Patienteninformation.
+- [Tallow, Rendered Animal Fat, and Its Biocompatibility With Skin: A Scoping Review](https://pubmed.ncbi.nlm.nih.gov/38910727/) · Studienautoren / Cureus, PubMed · Stand: 24.05.2024; DOI 10.7759/cureus.60981.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0287 | Offen | keine Endbewertung | Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt. |
+| mlxFA9T88I0-A0288 | Offen | keine Endbewertung | Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt. |
+| mlxFA9T88I0-A0289 | Offen | keine Endbewertung | Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt. |
+| mlxFA9T88I0-A0290 | Abgeschlossen | Meinung / Prognose | Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0287: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0288: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0289: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0290: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C06-P08
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md)
+
+Referenzhash der Kapiteldatei: 4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3
+
+Händlerversprechen der Werbung als nicht unabhängig prüfbare Anbieterangaben geführt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 8
+
+- **Fundstelle:** [02:00:00–02:00:49 (Werbung)](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7200s)
+- **Zuordnung:** Ben
+- **Prüfgegenstand – unsere Beschreibung:** Swiss Based: natürliche Schweizer Qualität, schneller Versand, Tausende positive Bewertungen, zehn Prozent Rabatt, 90 Tage Geld-zurück-Garantie.
+- **Bewertung:** nicht ausreichend belegbar (Handelsversprechen)
+
+**Unsere Begründung und Grenzen:** Diese einzelnen Hersteller-/Werbeversprechen wurden nicht durch Bestellung, Bewertungsprüfung und historische Geschäftsbedingungen verifiziert. Die Beschreibung dokumentiert die Aktion, ist aber kein unabhängiger Wirksamkeits- oder Herkunftsbeleg. Natürlich ist keine eigene Sicherheitsprüfung.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7200s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0291 | Offen | keine Endbewertung | Händlerversprechen der Werbung als nicht unabhängig prüfbare Anbieterangaben geführt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0291: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C06-P10
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md)
+
+Referenzhash der Kapiteldatei: 4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3
+
+Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 10
+
+- **Fundstelle:** [02:01:00–02:04:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7260s)
+- **Zuordnung:** Lüning / Ben
+- **Prüfgegenstand – unsere Beschreibung:** Geldreiche Unternehmer hätten statt realer Investitionen Anlagen gekauft; Immobilienkäufer litten stärker unter Zinsen und Grundsteuer; mehr Staatsstellen verdeckten deshalb die Krise.
+- **Bewertung:** nicht ausreichend belegbar / heterogene Fälle
+
+**Unsere Begründung und Grenzen:** Es fehlt eine Unternehmensstichprobe für die behauptete allgemeine Investitionsverlagerung. Zinsbelastung hängt u.a. von Finanzierung und Zinsbindung ab; Barkäufe unterscheiden die Sprecher selbst. Regionale Grundsteueränderungen sind kein einheitlicher Fall. Die Vertuschungsthese ist eine Interpretation, kein Ergebnis der Renditedaten.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7260s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+- [Guidance on non-market output in the context of the COVID-19 crisis](https://ec.europa.eu/eurostat/documents/10186/10693286/Non-market_output_guidance.pdf) · Eurostat · Stand: 25.05.2020; ESA 2010, Abs. 3.49 und Volumenmessung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0293 | Offen | keine Endbewertung | Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt. |
+| mlxFA9T88I0-A0294 | Offen | keine Endbewertung | Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt. |
+| mlxFA9T88I0-A0295 | Abgeschlossen | Meinung / Prognose | Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt. |
+| mlxFA9T88I0-A0296 | Offen | keine Endbewertung | Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt. |
+| mlxFA9T88I0-A0297 | Abgeschlossen | Meinung / Prognose | Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0293: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0294: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0295: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0296: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0297: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+## C06-P11
+
+[Unveraenderter bisheriger Kapitelbericht](../../../faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md)
+
+Referenzhash der Kapiteldatei: 4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3
+
+Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt.
+
+### Bisherige Darstellung, unveraenderter eigener Text
+
+## Prüfpunkt 11
+
+- **Fundstelle:** [02:04:00–02:05:02](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7440s)
+- **Zuordnung:** Ben / Lüning
+- **Prüfgegenstand – unsere Beschreibung:** Deutsche Ukrainehilfe finanziere Bestellungen in Deutschland bzw. es würden Waffen geschenkt und das Geld gehe in die USA.
+- **Bewertung:** nicht ausreichend belegbar / zu pauschal
+
+**Unsere Begründung und Grenzen:** Im Gespräch korrigiert Lüning Bens vereinfachte Darstellung. Sachleistungen, Zuschüsse, Kredite und Beschaffung sind verschiedene Instrumente. Es wird keine einzelne Transaktion mit Betrag und Vertrag belegt. Eine vollständige Prüfung sämtlicher Ukrainehilfen ist offen; weder pauschale Geldrückleitung noch pauschale Weiterleitung aller Gelder an die USA gilt hier als bestätigt.
+
+**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):
+
+- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7440s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
+
+### Neue Einzelaussagen
+
+| ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
+| --- | --- | --- | --- |
+| mlxFA9T88I0-A0298 | Offen | keine Endbewertung | Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt. |
+| mlxFA9T88I0-A0299 | In Bearbeitung | keine Endbewertung | Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt. |
+
+Bewertungsuebergang mlxFA9T88I0-A0298: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0299: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.

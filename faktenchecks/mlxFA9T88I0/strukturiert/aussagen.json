@@ -64,12 +64,22 @@
       "C05-P10",
       "C05-P11",
       "C05-P12",
-      "C05-P13"
+      "C05-P13",
+      "C06-P01",
+      "C06-P02",
+      "C06-P03",
+      "C06-P04",
+      "C06-P05",
+      "C06-P06",
+      "C06-P07",
+      "C06-P08",
+      "C06-P10",
+      "C06-P11"
     ],
     "totalLegacyPoints": 99,
-    "unmigratedLegacyPoints": 42,
-    "researchNote": "A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG.",
-    "coverageNote": "Teilbestand: 57 von 99 ursprünglichen Prüfpunkten übertragen, 42 nicht migriert. Kapitel 1 bis 5 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos."
+    "unmigratedLegacyPoints": 32,
+    "researchNote": "A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert.",
+    "coverageNote": "Teilbestand: 67 von 99 ursprünglichen Prüfpunkten übertragen, 32 nicht migriert. Kapitel 1 bis 6 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos."
   },
   "legacyPoints": [
     {
@@ -584,6 +594,96 @@
       "fileSha256": "530dc01a0ab320a59e90bb8c6b652ed9ea41298cb5910139f29dd10aabf45f82",
       "section": "## Prüfpunkt 13\n\n- **Fundstelle:** [01:47:10–01:48:29](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6430s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Digitaler Euro erlaube staatliche Kaufverbote und solle die Flucht in Sachwerte verhindern; DDR-Mangelwirtschaft als erwartetes Ergebnis.\n- **Bewertung:** widerlegt als Beschreibung des veröffentlichten Entwurfs / Prognose bleibt spekulativ\n\n**Unsere Begründung und Grenzen:** Die EZB-FAQ vom 17.08.2026 schließt programmierbare Verwendungszwecke aus. Vorgesehene Haltegrenzen sind nicht gleich Kaufverbote; gekoppelte Konten sollen auch größere Zahlungen erlauben. Künftiger Gesetzesmissbrauch ist hypothetisch, nicht gegenwärtige Projektfunktion. Der DDR-Vergleich beweist weder Absicht noch Folge; Umtausch und historische Konsumdaten wurden nicht gesondert geprüft.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [FAQs on the digital euro](https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html) · Europäische Zentralbank · Stand: aktualisiert 17.08.2026; Fragen 20 und 24.",
       "migrationNote": "Funktionen des digitalen Euro laut veröffentlichtem Entwurf, unterstellte Motive und DDR-Vergleich getrennt."
+    },
+    {
+      "id": "C06-P01",
+      "chapter": 6,
+      "point": 1,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md",
+      "fileSha256": "4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3",
+      "section": "## Prüfpunkt 1\n\n- **Fundstelle:** [01:48:29–01:49:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6509s)\n- **Zuordnung:** Ben / Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Die Zentralbank sei unabhängig, politisch ernannte Leitung und Programme machten sie tatsächlich zum Staatsfinanzierer.\n- **Bewertung:** teilweise belegbarer Rahmen / Motivthese offen\n\n**Unsere Begründung und Grenzen:** Politische Ernennung und institutionelle Unabhängigkeit schließen sich rechtlich nicht aus. Benennung eines Amtsinhabers beweist keine konkrete Weisung oder Interessenkollision. Die umfassende Behauptung uneingeschränkter Regierungsfinanzierung wird von den geprüften Programmregeln nicht getragen; siehe Nr. 3.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Urteil C-493/17, Weiss u. a.](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62017CJ0493) · Gerichtshof der Europäischen Union · Stand: 11.12.2018; insbesondere Rn. 103 ff. und Tenor.\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6509s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt."
+    },
+    {
+      "id": "C06-P02",
+      "chapter": 6,
+      "point": 2,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md",
+      "fileSha256": "4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3",
+      "section": "## Prüfpunkt 2\n\n- **Fundstelle:** [01:49:10–01:49:50](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6550s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Lagarde sei wegen 400 Millionen Veruntreuung verurteilt; das Urteil sei wegen ihrer Persönlichkeit nie in Kraft gesetzt worden.\n- **Bewertung:** irreführend / teilweise widerlegt\n\n**Unsere Begründung und Grenzen:** Das Urteil vom 19.12.2016 spricht sie wegen Fahrlässigkeit schuldig, durch die Dritte öffentliche Mittel in Höhe von 45 Millionen Euro veruntreuten. Es befreit sie ausdrücklich von Strafe und berücksichtigt mehrere Umstände einschließlich Persönlichkeit. Das ist kein nie in Kraft gesetztes Urteil und keine Verurteilung wegen eigener Veruntreuung von 400 Millionen.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Arrêt du 19 décembre 2016](https://www.courdecassation.fr/files/files/D%C3%A9cisions_CJR/Arret_du_19_decembre_2016.pdf) · Cour de justice de la République / Cour de cassation · Stand: 19.12.2016; Urteil, insbesondere Schuldspruch und Strafbefreiung.",
+      "migrationNote": "Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schuldspruch und Strafverzicht sind gesondert zu prüfen."
+    },
+    {
+      "id": "C06-P03",
+      "chapter": 6,
+      "point": 3,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md",
+      "fileSha256": "4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3",
+      "section": "## Prüfpunkt 3\n\n- **Fundstelle:** [01:50:00–01:53:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6600s)\n- **Zuordnung:** beide\n- **Prüfgegenstand – unsere Beschreibung:** Staatspapiere gingen sofort über Banken, Versicherer oder BlackRock zur EZB; gegen Gebühr könne der Staat unbegrenzt Geld drucken.\n- **Bewertung:** teilweise richtiger Marktmechanismus / unzutreffende Unbegrenztheit\n\n**Unsere Begründung und Grenzen:** Sekundärmarktkäufe existieren. Der EuGH prüft in Weiss aber gerade Sicherungen gegen die Umgehung des unmittelbaren Finanzierungsverbots, etwa keine Ankaufgewissheit für Ersterwerber. Ein garantierter Sofortdurchlauf ist damit nicht der belegte Normalfall. Das BlackRock-Telefonat ist Bens hypothetisches Beispiel; Gebühren, Informationsmissbrauch und Shortpositionen werden nicht nachgewiesen. Juristische und ökonomische Kritik bleiben möglich, beweisen diesen Deal aber nicht.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Urteil C-493/17, Weiss u. a.](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62017CJ0493) · Gerichtshof der Europäischen Union · Stand: 11.12.2018; insbesondere Rn. 103 ff. und Tenor.",
+      "migrationNote": "Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt."
+    },
+    {
+      "id": "C06-P04",
+      "chapter": 6,
+      "point": 4,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md",
+      "fileSha256": "4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3",
+      "section": "## Prüfpunkt 4\n\n- **Fundstelle:** [01:53:30–01:57:30](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6810s)\n- **Zuordnung:** Lüning / Ben\n- **Prüfgegenstand – unsere Beschreibung:** Etwa 100.000 zusätzliche Staatsbeschäftigte; ihre Kosten zählten als BIP, auch ohne Leistung; dadurch werde eine private Krise vertuscht.\n- **Bewertung:** teilweise belegt / Schlussfolgerung nicht gedeckt\n\n**Unsere Begründung und Grenzen:** Eurostat bestätigt Kostenbewertung nichtmarktlicher Produktion in laufenden Preisen und weist auf das Problem fortgezahlter Löhne bei reduzierter Tätigkeit hin. Reale Volumenmessung ist gesondert geregelt; u.a. Bildung und Gesundheit nutzen Leistungsmaße. Die konkrete Zahl neuer Stellen und deren Beitrag zum Wachstum wurde nicht geprüft. Aus der Methodik allein folgt keine absichtliche Vertuschung oder Wertlosigkeit aller Staatsdienste.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Guidance on non-market output in the context of the COVID-19 crisis](https://ec.europa.eu/eurostat/documents/10186/10693286/Non-market_output_guidance.pdf) · Eurostat · Stand: 25.05.2020; ESA 2010, Abs. 3.49 und Volumenmessung.",
+      "migrationNote": "Personalzuwachs im öffentlichen Dienst, Bewertung staatlicher Leistung zu Kosten und behaupteter Wachstumsbeitrag getrennt."
+    },
+    {
+      "id": "C06-P05",
+      "chapter": 6,
+      "point": 5,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md",
+      "fileSha256": "4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3",
+      "section": "## Prüfpunkt 5\n\n- **Fundstelle:** [01:55:40–01:57:10](https://www.youtube.com/watch?v=mlxFA9T88I0&t=6940s)\n- **Zuordnung:** Ben, von Lüning bestätigt\n- **Prüfgegenstand – unsere Beschreibung:** Ein Personaltrainer ohne Kunden bedeute privat minus 200 Euro Produktivität, beim Staat plus 200 Euro.\n- **Bewertung:** irreführend / falsche Gleichsetzung\n\n**Unsere Begründung und Grenzen:** Ein betrieblicher Verlust ist keine Definition gesamtwirtschaftlicher Arbeitsproduktivität. Ein entlohnter Mitarbeiter erzeugt nicht durch den Wechsel des Arbeitgebers automatisch 400 Euro zusätzlichen realen Output. Das Beispiel vermischt Gewinn, nominale Kostenbewertung und reale Wertschöpfung. Es veranschaulicht ein mögliches Messproblem nur mit diesen wesentlichen Einschränkungen.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Guidance on non-market output in the context of the COVID-19 crisis](https://ec.europa.eu/eurostat/documents/10186/10693286/Non-market_output_guidance.pdf) · Eurostat · Stand: 25.05.2020; ESA 2010, Abs. 3.49 und Volumenmessung.",
+      "migrationNote": "Gedankenexperiment des Moderators mit Zustimmung des Gastes als eine Aussage zur Messlogik geführt."
+    },
+    {
+      "id": "C06-P06",
+      "chapter": 6,
+      "point": 6,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md",
+      "fileSha256": "4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3",
+      "section": "## Prüfpunkt 6\n\n- **Fundstelle:** [01:57:30–01:59:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7050s)\n- **Zuordnung:** Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Mehr staatlich ausgezahltes Geld ohne Mehrproduktion erhöhe Preise; stattdessen in Anlagen fließendes Geld könne Vermögenspreise treiben.\n- **Bewertung:** teilweise belegt als möglicher Mechanismus / Kausalität offen\n\n**Unsere Begründung und Grenzen:** Unter sonst gleichen Bedingungen ist zusätzlicher Nachfragedruck plausibel. Vermögenspreise hängen aber auch von erwarteten Erträgen, Zinsen, Risiko und Angebot ab. Eine Identität jeder Staats-Euro gleich neue Geldmenge ist nicht gezeigt; Geldumlauf und Finanzierung fehlen. PEPP beschreibt einen Zins-/Vermögenspreiskanal, keine vollständige Erklärung jeder beobachteten Preisbewegung.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [What is the pandemic emergency purchase programme (PEPP)?](https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/pepp.en.html) · Europäische Zentralbank · Stand: 28.07.2021; historischer Erklärtext.\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7050s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt."
+    },
+    {
+      "id": "C06-P07",
+      "chapter": 6,
+      "point": 7,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md",
+      "fileSha256": "4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3",
+      "section": "## Prüfpunkt 7\n\n- **Fundstelle:** [01:59:15–02:00:49 (Werbung)](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7155s)\n- **Zuordnung:** Ben\n- **Prüfgegenstand – unsere Beschreibung:** Mit Wasser oder Erdöl in üblichen Cremes könne Haut wenig anfangen; nur essbare Inhaltsstoffe seien geeignet; Rindertalg sei dem menschlichen Hautfett am nächsten, historisch bewährt und liefere Vitamine/Lipide.\n- **Bewertung:** irreführend / Überlegenheit nicht ausreichend belegt\n\n**Unsere Begründung und Grenzen:** Die AAD empfiehlt u.a. Cremes, Salben und Vaseline gegen trockene Haut. Damit ist die pauschale Abwertung mineralölbasierter Pflege nicht haltbar. Essbarkeit ist kein dermatologischer Sicherheitsnachweis; keine Chemie ist ein Werbeslogan. Die Übersicht zu Talg benennt wesentliche Forschungslücken. Sie beweist weder universelle Überlegenheit noch den höchsten Ähnlichkeitsgrad. Geschichte, konkrete Vitaminmengen und Wirkung des beworbenen Produkts wurden nicht analytisch überprüft.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Dermatologists’ top tips for relieving dry skin](https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin) · American Academy of Dermatology · Stand: undatierte fachärztliche Patienteninformation.\n- [Tallow, Rendered Animal Fat, and Its Biocompatibility With Skin: A Scoping Review](https://pubmed.ncbi.nlm.nih.gov/38910727/) · Studienautoren / Cureus, PubMed · Stand: 24.05.2024; DOI 10.7759/cureus.60981.",
+      "migrationNote": "Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt."
+    },
+    {
+      "id": "C06-P08",
+      "chapter": 6,
+      "point": 8,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md",
+      "fileSha256": "4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3",
+      "section": "## Prüfpunkt 8\n\n- **Fundstelle:** [02:00:00–02:00:49 (Werbung)](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7200s)\n- **Zuordnung:** Ben\n- **Prüfgegenstand – unsere Beschreibung:** Swiss Based: natürliche Schweizer Qualität, schneller Versand, Tausende positive Bewertungen, zehn Prozent Rabatt, 90 Tage Geld-zurück-Garantie.\n- **Bewertung:** nicht ausreichend belegbar (Handelsversprechen)\n\n**Unsere Begründung und Grenzen:** Diese einzelnen Hersteller-/Werbeversprechen wurden nicht durch Bestellung, Bewertungsprüfung und historische Geschäftsbedingungen verifiziert. Die Beschreibung dokumentiert die Aktion, ist aber kein unabhängiger Wirksamkeits- oder Herkunftsbeleg. Natürlich ist keine eigene Sicherheitsprüfung.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7200s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Händlerversprechen der Werbung als nicht unabhängig prüfbare Anbieterangaben geführt."
+    },
+    {
+      "id": "C06-P10",
+      "chapter": 6,
+      "point": 10,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md",
+      "fileSha256": "4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3",
+      "section": "## Prüfpunkt 10\n\n- **Fundstelle:** [02:01:00–02:04:15](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7260s)\n- **Zuordnung:** Lüning / Ben\n- **Prüfgegenstand – unsere Beschreibung:** Geldreiche Unternehmer hätten statt realer Investitionen Anlagen gekauft; Immobilienkäufer litten stärker unter Zinsen und Grundsteuer; mehr Staatsstellen verdeckten deshalb die Krise.\n- **Bewertung:** nicht ausreichend belegbar / heterogene Fälle\n\n**Unsere Begründung und Grenzen:** Es fehlt eine Unternehmensstichprobe für die behauptete allgemeine Investitionsverlagerung. Zinsbelastung hängt u.a. von Finanzierung und Zinsbindung ab; Barkäufe unterscheiden die Sprecher selbst. Regionale Grundsteueränderungen sind kein einheitlicher Fall. Die Vertuschungsthese ist eine Interpretation, kein Ergebnis der Renditedaten.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7260s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.\n- [Guidance on non-market output in the context of the COVID-19 crisis](https://ec.europa.eu/eurostat/documents/10186/10693286/Non-market_output_guidance.pdf) · Eurostat · Stand: 25.05.2020; ESA 2010, Abs. 3.49 und Volumenmessung.",
+      "migrationNote": "Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt."
+    },
+    {
+      "id": "C06-P11",
+      "chapter": 6,
+      "point": 11,
+      "path": "faktenchecks/mlxFA9T88I0/kapitel/06_geldpolitik.md",
+      "fileSha256": "4804dd8338391dd1b60ce4076b3ce0a4c58e9678221c2c7073513e99a9768bc3",
+      "section": "## Prüfpunkt 11\n\n- **Fundstelle:** [02:04:00–02:05:02](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7440s)\n- **Zuordnung:** Ben / Lüning\n- **Prüfgegenstand – unsere Beschreibung:** Deutsche Ukrainehilfe finanziere Bestellungen in Deutschland bzw. es würden Waffen geschenkt und das Geld gehe in die USA.\n- **Bewertung:** nicht ausreichend belegbar / zu pauschal\n\n**Unsere Begründung und Grenzen:** Im Gespräch korrigiert Lüning Bens vereinfachte Darstellung. Sachleistungen, Zuschüsse, Kredite und Beschaffung sind verschiedene Instrumente. Es wird keine einzelne Transaktion mit Betrag und Vertrag belegt. Eine vollständige Prüfung sämtlicher Ukrainehilfen ist offen; weder pauschale Geldrückleitung noch pauschale Weiterleitung aller Gelder an die USA gilt hier als bestätigt.\n\n**Quellen zu diesem Prüfpunkt** (Abruf des Erststands: 17.11.2026):\n\n- [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7440s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.",
+      "migrationNote": "Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt."
     }
   ],
   "sources": [
@@ -1272,6 +1372,54 @@
       "title": "FAQs on the digital euro",
       "url": "https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html",
       "details": "Europäische Zentralbank · aktualisiert 17.08.2026; Frage 20: kein programmierbares Geld; Frage 24: begrenzte Haltebeträge, getestet bis 3.000 Euro je Person, kein festgelegter Betrag.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S087",
+      "title": "Christine Lagarde – President of the European Central Bank (CV)",
+      "url": "https://www.ecb.europa.eu/ecb/decisions/html/cvlagarde.en.html",
+      "details": "Europäische Zentralbank · Lebenslauf; Ministerin für Wirtschaft und Finanzen Frankreichs 2007–2011. Angabe aus dem im Recherchewerkzeug zusammengefassten Seitenteil.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S088",
+      "title": "FAQ on the public sector purchase programme",
+      "url": "https://www.ecb.europa.eu/mopo/implement/app/html/ecb.faq_pspp.en.html",
+      "details": "Europäische Zentralbank · aktualisiert 09.08.2023; Emissionsanteilsgrenze 25 Prozent, ab 2015 bis 33 Prozent nach Einzelfallprüfung; Emittentengrenze 33 Prozent; keine Käufe am Primärmarkt.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S089",
+      "title": "Öffentlicher Dienst 2025: Mehr Beschäftigte in der Bildung und Kinderbetreuung",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/06/PD26_215_741.html",
+      "details": "Statistisches Bundesamt · Pressemitteilung 215 vom 22.06.2026; 30.06.2025 rund 5,48 Mio. Beschäftigte, plus 95.100 (1,8 Prozent) gegenüber Vorjahr, vorläufig.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S090",
+      "title": "Öffentlicher Dienst 2024: Mehr Beschäftigte für Bildung und Kinderbetreuung",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/06/PD25_212_741.html",
+      "details": "Statistisches Bundesamt · Pressemitteilung 212 vom 17.06.2025; 30.06.2024 rund 5,4 Mio. Beschäftigte, plus 95.900 (1,8 Prozent) gegenüber 2023, vorläufig.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S091",
+      "title": "ESA 2010, Chapter 3: Transactions in products",
+      "url": "https://ec.europa.eu/eurostat/esa2010/chapter/view/3/",
+      "details": "Eurostat · Europäisches System Volkswirtschaftlicher Gesamtrechnungen 2010; Randnummern 3.23 und 3.49: Nichtmarktproduktion wird zu den Produktionskosten bewertet.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Kapitelseite am 18.11.2026 im Recherchewerkzeug geöffnet (Claude); Randnummer 3.49 nur über die werkzeuginterne Zusammenfassung des langen Seitenteils gelesen, nicht wörtlich kontrolliert; keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S092",
+      "title": "Ukraine Support Tracker: Only EUR 41.7 Billion of Germany's EUR 100 Billion Went to Ukraine",
+      "url": "https://www.kielinstitut.de/media/news/ukraine-support-tracker-only-eur-417-billion-of-germanys-eur-100-billion-went-to-ukraine/",
+      "details": "Kiel Institut für Weltwirtschaft · Pressemitteilung vom 08.10.2026; Bundesregierung meldet 100 Mrd. Euro (57,6 Mrd. militärisch) bereitgestellt oder vorgesehen, Kiel verfolgt 56,3 Mrd. Euro Militärhilfe nach; keine Aussage zur Rückzahlungsfreiheit der Militärhilfe gefunden.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
     }
@@ -16327,6 +16475,1408 @@
               "endSeconds": 6509,
               "precision": "Ungefähr",
               "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C05-P13. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0273",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P01",
+      "kind": "Tatsachenbehauptung",
+      "description": "Regierungen dürfen der Europäischen Zentralbank offiziell keine Vorgaben zu Inflation oder Zinsen machen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Weisungsfreiheit der EZB ist im EU-Vertrag geregelt. Die EUR-Lex-Seiten mit dem Vertragstext lieferten beim Abruf keinen Inhalt; ohne gelesene Quelle keine Endbewertung.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Artikel 130 AEUV im Wortlaut lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0314",
+          "startSeconds": 6515,
+          "endSeconds": 6535,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Ben / Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6509,
+              "endSeconds": 6550,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0274",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P01",
+      "kind": "Tatsachenbehauptung",
+      "description": "Alle bisherigen Präsidenten der EZB seien politisch besetzt gewesen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Ernennung erfolgt durch ein politisches Gremium; ob daraus eine politische Besetzung im Sinne fehlender Unabhängigkeit folgt, ist eine Deutung. Der Ernennungsartikel des Vertrags wurde nicht erfolgreich gelesen. Keine Endbewertung.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Artikel 283 AEUV lesen; Ernennungsweg von der behaupteten Abhängigkeit trennen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0315",
+          "startSeconds": 6545,
+          "endSeconds": 6555,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Ben / Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6509,
+              "endSeconds": 6550,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P01. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0275",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P02",
+      "kind": "Tatsachenbehauptung",
+      "description": "Christine Lagarde war zuvor französische Finanzministerin.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Lebenslauf der EZB nennt sie als Ministerin für Wirtschaft und Finanzen Frankreichs (2007–2011).",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schuldspruch und Strafverzicht sind gesondert zu prüfen.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S087",
+          "note": "Ministerfunktion 2007–2011."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0316",
+          "startSeconds": 6555,
+          "endSeconds": 6560,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6550,
+              "endSeconds": 6590,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P02. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0276",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P02",
+      "kind": "Tatsachenbehauptung",
+      "description": "Lagarde sei wegen Veruntreuung von 400 Millionen rechtskräftig verurteilt; das Urteil sei wegen ihrer Persönlichkeit nie vollstreckt worden.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Gemeint ist das Verfahren um die Tapie-Schiedszahlung. Ein Bericht über den Schuldspruch von 2016 konnte nicht gelesen werden (Abruf blockiert); Tatvorwurf, Strafausspruch und Begründung sind daher nicht geprüft. Insbesondere ist offen, ob der Vorwurf Veruntreuung oder Fahrlässigkeit lautete. Keine Bewertung.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schuldspruch und Strafverzicht sind gesondert zu prüfen.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Urteil des Gerichtshofs der Republik vom Dezember 2016 oder seriösen Bericht lesen: Tatvorwurf, Summe, Strafe, Begründung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0317",
+          "startSeconds": 6560,
+          "endSeconds": 6585,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6550,
+              "endSeconds": 6590,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P02. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0277",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P03",
+      "kind": "Tatsachenbehauptung",
+      "description": "Die direkte Finanzierung des Staates durch die Zentralbank ist verboten.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Das Verbot der monetären Staatsfinanzierung ist im EU-Vertrag geregelt; der Vertragstext lieferte beim Abruf keinen Inhalt. Die EZB-FAQ bestätigt nur, dass im Ankaufprogramm nie am Primärmarkt gekauft wurde. Keine Endbewertung ohne gelesene Rechtsquelle.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S088",
+          "note": "Keine Primärmarktkäufe im PSPP."
+        }
+      ],
+      "openQuestions": [
+        "Artikel 123 AEUV im Wortlaut lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0318",
+          "startSeconds": 6630,
+          "endSeconds": 6640,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6600,
+              "endSeconds": 6810,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0278",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P03",
+      "kind": "Tatsachenbehauptung",
+      "description": "Staatsanleihen würden von Banken und Versicherern gegen eine Gebühr gekauft und an die Zentralbank weitergereicht, die dafür Zentralbankgeld ausgibt.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Die EZB kaufte im Ankaufprogramm Staatsanleihen nicht am Primärmarkt, also von anderen Marktteilnehmern. Dass Käufer Anleihen nur zum Weiterreichen gegen Gebühr erwerben, ist nicht belegt; die frühere Haltefrist vor dem Ankauf wurde nicht gelesen.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S088",
+          "note": "Ankauf nicht am Primärmarkt."
+        }
+      ],
+      "openQuestions": [
+        "Sperrfristen vor Ankäufen neu emittierter Anleihen und Rolle der Zwischenhändler in EZB-Unterlagen lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0319",
+          "startSeconds": 6595,
+          "endSeconds": 6650,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6600,
+              "endSeconds": 6810,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0279",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P03",
+      "kind": "Tatsachenbehauptung",
+      "description": "Über diesen Umweg könne eine Regierung praktisch unbegrenzt Geld drucken.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Moderator fasst so zusammen, der Gast stimmt zu. Die EZB entscheidet selbst über Ankäufe und begrenzte sie im Programm auf höchstens 33 Prozent je Emission und Emittent. Eine unbegrenzte Finanzierung nach Wunsch einer Regierung ist mit diesen Regeln nicht vereinbar.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S088",
+          "note": "Emissions- und Emittentengrenzen von 33 Prozent."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0320",
+          "startSeconds": 6690,
+          "endSeconds": 6778,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6600,
+              "endSeconds": 6810,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        },
+        {
+          "id": "mlxFA9T88I0-O0321",
+          "startSeconds": 6778,
+          "endSeconds": 6780,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Ausdrückliche Zustimmung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Ausdrückliche Zustimmung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Kurze ausdrückliche Bestätigung des Gastes; plausibler Kandidat.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6600,
+              "endSeconds": 6810,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0280",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P03",
+      "kind": "Meinung",
+      "description": "Die Zentralbank sei nur auf dem Papier unabhängig; politisch genehmigte Programme ermöglichten die Staatsfinanzierung über Bande.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Politische Deutung der institutionellen Praxis.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung der Wertung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0322",
+          "startSeconds": 6780,
+          "endSeconds": 6820,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "beide",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6600,
+              "endSeconds": 6810,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P03. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0281",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P04",
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Staat hat rund 100.000 neue Beamte bzw. Beschäftigte im öffentlichen Dienst eingestellt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Destatis meldet für 2024 ein Plus von 95.900 und für 2025 ein Plus von 95.100 Beschäftigten im öffentlichen Dienst, vor allem in Bildung und Kinderbetreuung. Die Größenordnung trifft zu; es handelt sich überwiegend nicht um Beamte, sondern um alle Beschäftigtengruppen.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Personalzuwachs im öffentlichen Dienst, Bewertung staatlicher Leistung zu Kosten und behaupteter Wachstumsbeitrag getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S089",
+          "note": "Plus 95.100 zum 30.06.2025."
+        },
+        {
+          "sourceId": "S090",
+          "note": "Plus 95.900 zum 30.06.2024."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0323",
+          "startSeconds": 6838,
+          "endSeconds": 6845,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning / Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6810,
+              "endSeconds": 7050,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0282",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P04",
+      "kind": "Tatsachenbehauptung",
+      "description": "In der Wirtschaftsleistung wird die Arbeit von Staatsbediensteten zu ihren Kosten wie Lohn, Amtsstube und Heizung angesetzt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Nach dem Europäischen System Volkswirtschaftlicher Gesamtrechnungen wird Nichtmarktproduktion des Staates zu den Produktionskosten bewertet (Arbeitnehmerentgelt, Vorleistungen, Abschreibungen, sonstige Produktionsabgaben). Die Beschreibung trifft im Kern zu.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Personalzuwachs im öffentlichen Dienst, Bewertung staatlicher Leistung zu Kosten und behaupteter Wachstumsbeitrag getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S091",
+          "note": "Randnummern 3.23 und 3.49 (über werkzeuginterne Zusammenfassung gelesen)."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0324",
+          "startSeconds": 6865,
+          "endSeconds": 6890,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning / Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6810,
+              "endSeconds": 7050,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0283",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P04",
+      "kind": "Tatsachenbehauptung",
+      "description": "Der öffentliche Dienst sei weniger produktiv; das geringe BIP-Wachstum stamme zu einem großen Teil aus zusätzlichen Staatsbeschäftigten.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Weil Staatsleistung zu Kosten gemessen wird, ist ihre Produktivität nicht direkt vergleichbar. Ein Wachstumsbeitrag des Staates ließe sich an der Entstehungsrechnung prüfen; keine solche Quelle gelesen.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Personalzuwachs im öffentlichen Dienst, Bewertung staatlicher Leistung zu Kosten und behaupteter Wachstumsbeitrag getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Wachstumsbeiträge nach Wirtschaftsbereichen (Destatis, Entstehungsrechnung 2025) lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0325",
+          "startSeconds": 6895,
+          "endSeconds": 6925,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning / Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6810,
+              "endSeconds": 7050,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P04. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0284",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P05",
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein untätiger Angestellter senke im Unternehmen die Leistung um seine Lohnkosten, beim Staat erhöhe derselbe Angestellte das BIP um diese Kosten.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Für den Staat trifft die Messlogik zu: Seine Leistung wird zu Kosten bewertet, Lohnzahlungen erhöhen daher die gemessene Produktion. Im Unternehmen senkt ein untätiger Mitarbeiter den Gewinn, aber nicht die gemessene Wertschöpfung um seinen Lohn; die Gegenüberstellung von minus und plus 200 Euro vermischt Gewinn und BIP.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Gedankenexperiment des Moderators mit Zustimmung des Gastes als eine Aussage zur Messlogik geführt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S091",
+          "note": "Bewertung der Nichtmarktproduktion zu Kosten."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0326",
+          "startSeconds": 6940,
+          "endSeconds": 7020,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Ben, von Lüning bestätigt",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6940,
+              "endSeconds": 7030,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        },
+        {
+          "id": "mlxFA9T88I0-O0327",
+          "startSeconds": 7040,
+          "endSeconds": 7045,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Ben, von Lüning bestätigt",
+          "role": "Ausdrückliche Zustimmung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Ausdrückliche Zustimmung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Ausdrückliche Bestätigung des Gastes; plausibler Kandidat.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 6940,
+              "endSeconds": 7030,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P05. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0285",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P06",
+      "kind": "Tatsachenbehauptung",
+      "description": "Mehr ausgezahltes Geld ohne zusätzliche Produktion führe ganz automatisch zu Preissteigerungen.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Allgemeiner ökonomischer Zusammenhang, den der Gast unmittelbar danach selbst einschränkt (Geld kann in Vermögenswerte fließen). Ein Automatismus ist zu absolut; ohne gelesene Fachquelle keine Endbewertung.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Empirische Literatur zum Zusammenhang von Geldmenge und Verbraucherpreisen lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0328",
+          "startSeconds": 7050,
+          "endSeconds": 7110,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7050,
+              "endSeconds": 7155,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P06. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0286",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P06",
+      "kind": "Tatsachenbehauptung",
+      "description": "In den letzten zehn bis zwanzig Jahren sei staatlich geschaffenes Geld vor allem in Aktien, Gold und Bitcoin geflossen und habe Vermögenspreise statt Verbraucherpreise steigen lassen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Behauptete Wirkungskette über einen langen Zeitraum. Vermögenspreisanstiege sind dokumentierbar, ihre Ursache in staatlicher Verschuldung nicht ohne Studien. Keine Quelle gelesen.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Studien zu Anleihekaufprogrammen und Vermögenspreisen lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0329",
+          "startSeconds": 7110,
+          "endSeconds": 7145,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7050,
+              "endSeconds": 7155,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P06. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0287",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P07",
+      "kind": "Tatsachenbehauptung",
+      "description": "Die meisten Feuchtigkeitscremes bestehen überwiegend aus Wasser oder Erdöl, mit denen die Haut wenig anfangen könne.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Werbeaussage des Moderators. Zusammensetzung handelsüblicher Cremes und deren Wirkung wären an dermatologischer Literatur zu prüfen; keine Quelle gelesen. Keine Bewertung.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Dermatologische Übersichtsarbeit zu Feuchtigkeitscremes lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0330",
+          "startSeconds": 7150,
+          "endSeconds": 7172,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7155,
+              "endSeconds": 7249,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0288",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P07",
+      "kind": "Tatsachenbehauptung",
+      "description": "Rindertalg sei in seiner Zusammensetzung dem menschlichen Hautfett am nächsten und liefere Fettsäuren, fettlösliche Vitamine und hautähnliche Lipide.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Werbeaussage. Eine Fachquelle zur Zusammensetzung von menschlichem Hautfett und Rindertalg wurde nicht gefunden bzw. nicht gelesen. Keine Bewertung.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Übersichtsarbeit zur Lipidzusammensetzung von Hautfett und Rindertalg lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0331",
+          "startSeconds": 7180,
+          "endSeconds": 7195,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7155,
+              "endSeconds": 7249,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0289",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P07",
+      "kind": "Tatsachenbehauptung",
+      "description": "Noch vor etwa hundert Jahren waren tierische Fette die gängigste Form der Hautpflege.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Historische Werbeaussage; keine Quelle gelesen. Keine Bewertung.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Kosmetikgeschichtliche Fachquelle lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0332",
+          "startSeconds": 7185,
+          "endSeconds": 7192,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7155,
+              "endSeconds": 7249,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0290",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P07",
+      "kind": "Meinung",
+      "description": "Man solle nichts auf die Haut geben, was man nicht auch essen könnte.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Werbe- und Lebensstilregel, keine prüfbare Tatsache. Essbarkeit ist kein dermatologisches Eignungskriterium.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung der Wertung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0333",
+          "startSeconds": 7210,
+          "endSeconds": 7215,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7155,
+              "endSeconds": 7249,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P07. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0291",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P08",
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Werbepartner biete hundertprozentig natürliche Schweizer Qualität, schnellen Versand, Tausende positive Bewertungen und eine 90-Tage-Geld-zurück-Garantie.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – Werbeangaben des Anbieters. Garantiebedingungen könnten auf der Anbieterseite nachgelesen werden; Natürlichkeit, Versandtempo und Bewertungen sind Selbstauskünfte ohne unabhängige Prüfgrundlage. Der Abschnitt ist als Werbung erkennbar.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Händlerversprechen der Werbung als nicht unabhängig prüfbare Anbieterangaben geführt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Garantiebedingungen auf der Anbieterseite lesen; Bewertungen sind nicht unabhängig prüfbar."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0334",
+          "startSeconds": 7213,
+          "endSeconds": 7235,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7200,
+              "endSeconds": 7249,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P08. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0292",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P09",
+      "kind": "Meinung",
+      "description": "Vermögende hätten unverändert konsumiert, der Überschuss sei in Finanzblasen geflossen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Deutung des Gastes zu Konsum- und Anlageverhalten; keine prüfbare Einzelangabe.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Bestehende Aussagen A0005–A0008 bleiben unverändert; zusätzlich nur die Deutung zum Konsumverhalten Vermögender.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung der Wertung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0335",
+          "startSeconds": 7265,
+          "endSeconds": 7295,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7249,
+              "endSeconds": 7405,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P09. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0293",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P10",
+      "kind": "Tatsachenbehauptung",
+      "description": "Wer Immobilien finanziert gekauft hat, muss jetzt höhere Zinsen zahlen und leidet unter höheren Grundsteuern.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Steigende Bauzinsen betreffen Anschlussfinanzierungen, nicht laufende Zinsbindungen; Grundsteuer hängt seit der Reform von Gemeinde und Grundstück ab. Keine Quelle gelesen; keine Bewertung.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Bauzinsentwicklung (Bundesbank) und Grundsteuerreform-Auswirkungen lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0336",
+          "startSeconds": 7290,
+          "endSeconds": 7310,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning / Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7260,
+              "endSeconds": 7455,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0294",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P10",
+      "kind": "Tatsachenbehauptung",
+      "description": "Etliche Unternehmen haben Geld an den Finanzmärkten statt im eigenen Betrieb angelegt und sind deshalb von der heimischen Lage unabhängig.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – unbenannte Unternehmen. Ohne benannte Fälle und Bilanzdaten lässt sich die Verallgemeinerung nicht prüfen.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Nur mit benannten Unternehmen prüfbar."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0337",
+          "startSeconds": 7320,
+          "endSeconds": 7330,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning / Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7260,
+              "endSeconds": 7455,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0295",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P10",
+      "kind": "Meinung",
+      "description": "Mit Geld für nicht produktive Kräfte erweise der Staat diesen Menschen einen Bärendienst; sie merkten nicht, dass das System brüchig werde.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Politische Wertung.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung der Wertung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0338",
+          "startSeconds": 7330,
+          "endSeconds": 7365,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning / Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7260,
+              "endSeconds": 7455,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0296",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P10",
+      "kind": "Tatsachenbehauptung",
+      "description": "Auto- und Fertigungsindustrie entlassen Beschäftigte, weil die gesunkene Produktivität nicht mehr genug Ertrag bringt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Kausalbehauptung zu Entlassungen. Produktivität ist nur einer von mehreren möglichen Gründen (Nachfrage, Kosten, Strukturwandel). Keine Quelle gelesen.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Branchenanalysen zu Stellenabbau in Automobil- und Fertigungsindustrie 2025/2026 lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0339",
+          "startSeconds": 7410,
+          "endSeconds": 7420,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning / Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7260,
+              "endSeconds": 7455,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0297",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P10",
+      "kind": "Meinung",
+      "description": "Deutschland befinde sich in einer gigantischen Wirtschaftskrise, die durch staatliche Einstellungen vertuscht werde.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Zuspitzende Deutung des Moderators aus dem Gespräch; Bewertung, keine prüfbare Einzelangabe.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine Sachprüfung der Wertung."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0340",
+          "startSeconds": 7420,
+          "endSeconds": 7450,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Lüning / Ben",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7260,
+              "endSeconds": 7455,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P10. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0298",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P11",
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutsche Ukrainehilfe fließe als Geld in die Ukraine und von dort für Panzerbestellungen nach Deutschland zurück.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Hypothese des Moderators, die der Gast unmittelbar zurückweist. Wie Lieferungen aus Deutschland finanziert werden, wurde nicht im Einzelnen geprüft. Keine Bewertung.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Finanzierungswege deutscher Rüstungslieferungen an die Ukraine prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0341",
+          "startSeconds": 7450,
+          "endSeconds": 7480,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Ben / Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7440,
+              "endSeconds": 7502,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        },
+        {
+          "id": "mlxFA9T88I0-O0342",
+          "startSeconds": 7480,
+          "endSeconds": 7484,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Ben / Lüning",
+          "role": "Zurückweisung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Zurückweisung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Der Gast weist die Annahme zurück.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7440,
+              "endSeconds": 7502,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "mlxFA9T88I0-A0299",
+      "videoId": "mlxFA9T88I0",
+      "chapter": 6,
+      "legacyId": "C06-P11",
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutschland schenke der Ukraine Waffen ohne Rückzahlungspflicht; Geld der Ukraine fließe für Waffenkäufe in die USA.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Das Kiel-Institut verfolgt rund 56 Milliarden Euro deutsche Militärhilfe, nennt im gelesenen Text aber keine Angabe zur Rückzahlungsfreiheit. Ukrainische Zahlungen für US-Waffen wurden nicht geprüft. Keine Endbewertung.",
+      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "migration": {
+        "changeType": "Kapitel 6 einzeln migriert",
+        "mapping": "Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt.",
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S092",
+          "note": "Umfang deutscher Militärhilfe; keine Angabe zu Zuschuss oder Darlehen."
+        }
+      ],
+      "openQuestions": [
+        "Kiel Policy Brief 10/2026 zur Form der deutschen Hilfe lesen; europäische Finanzierung von US-Waffenkäufen prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mlxFA9T88I0-O0343",
+          "startSeconds": 7484,
+          "endSeconds": 7500,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme.",
+          "legacySpeaker": "Ben / Lüning",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als Behauptung anhand des Gesprächskontexts eingeordnet. Sicherheit des Aussagebezugs bleibt von Identität und Sachurteil getrennt.",
+          "note": "Eigene Beschreibung einer Textfundstelle; keine unabhängige Ereignisbestätigung.",
+          "timeBasis": "Zeitgestempelte automatische Originaluntertitel vollständig im Kapitel gelesen; engere Textstelle eingegrenzt. Zeiten bleiben ungefähr, keine Hör- oder Sichtkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7440,
+              "endSeconds": 7502,
+              "precision": "Ungefähr",
+              "basis": "Bisheriger Suchbereich und Hinweis: Zeitbereiche und Sprecherzuordnungen beruhen auf dem privaten Erststand und sind teilweise ungefähr; Altpunkt C06-P11. Die Videofundstelle ist kein unabhängiger Wahrheitsbeleg."
             }
           ]
         }

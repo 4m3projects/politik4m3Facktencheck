@@ -76,3 +76,7 @@ Die Erkenntnisse aus Issue #1 sind berücksichtigt: keine künstlichen Aussagen 
 ## Erweiterung um Kapitel 5 am 18.11.2026
 
 [Migrationsbericht und Recherchegrenzen](KAPITEL05_MIGRATION.md): alle 13 Altpunkte. 57 von 99 übertragen, 42 verbleiben. A0221–A0272 sind 52 zusätzliche Datensätze; A0016–A0018 erhalten je ein Hauptgesprächsvorkommen ohne Änderung ihrer Bewertung. 272 Datensätze enthalten 270 eigene Aussageinhalte und zwei ausschließlich erörterte Inhalte.
+
+## Erweiterung um Kapitel 6 am 18.11.2026
+
+[Migrationsbericht und Recherchegrenzen](KAPITEL06_MIGRATION.md): die übrigen 10 Altpunkte (C06-P09 war mit A0005–A0008 bereits enthalten und bleibt unverändert). 67 von 99 übertragen, 32 verbleiben. A0273–A0299 sind 27 zusätzliche Datensätze. 299 Datensätze enthalten 297 eigene Aussageinhalte und zwei ausschließlich erörterte Inhalte.
