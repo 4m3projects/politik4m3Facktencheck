@@ -90,6 +90,10 @@ function verdictBadge(verdict, status, reason) {
   const key = status === 'In Bearbeitung' ? 'bearbeitung' : 'offen';
   return `<span class="badge plain"><i class="fill-${key}" aria-hidden="true"></i>${esc(status || 'Offen')} · noch ohne Bewertung</span>`;
 }
+/* Abgeschlossene Recherche: coverageNote beginnt mit „Recherche abgeschlossen“. */
+function researchDone(scope) {
+  return /^Recherche abgeschlossen\b/.test(scope?.coverageNote || '');
+}
 function bucketOf(c) {
   if (c.verdict) return VKEY[c.verdict] || 'offen';
   if (isUnverifiable(c)) return 'nichtpruefbar';
@@ -495,7 +499,7 @@ async function pageVideo(id, focusClaim) {
 
   setPage(`<div class="wrap">
     ${videoHeader(v, 'aussagen')}
-    ${scope.kind === 'Teilbestand' ? `<p class="notice warn"><strong>Teilbestand – keine Bilanz des ganzen Videos.</strong> ${esc(scope.coverageNote)}</p>` : `<p class="notice">${esc(scope.coverageNote)}</p>`}
+    ${scope.kind === 'Teilbestand' && !researchDone(scope) ? `<p class="notice warn"><strong>Teilbestand – keine Bilanz des ganzen Videos.</strong> ${esc(scope.coverageNote)}</p>` : `<p class="notice"><strong>Umfang der Prüfung.</strong> ${esc(scope.coverageNote)}</p>`}
     <div class="grid-2" style="margin-top:20px">
       <div>
         <section class="section" style="margin-bottom:28px">
