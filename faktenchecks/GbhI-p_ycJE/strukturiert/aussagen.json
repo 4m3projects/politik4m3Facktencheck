@@ -1,0 +1,2917 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "GbhI-p_ycJE",
+    "videoUrl": "https://www.youtube.com/watch?v=GbhI-p_ycJE",
+    "durationSeconds": 1051,
+    "asOf": "2026-11-18",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:02–00:17:10). Wiedergaben des Originalgesprächs wurden mit dessen ebenfalls vollständig gelesenen Untertiteln und Metadaten abgeglichen und nur insoweit bewertet. Die im Video genannten Rechts- und Pressequellen wurden noch nicht geöffnet; die zugehörigen Aussagen bleiben offen. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.",
+    "coverageNote": "Teilbestand: Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Alfred räumt auf: Gespräch von Sinan bei IT Camper",
+      "url": "https://www.youtube.com/watch?v=GbhI-p_ycJE",
+      "details": "Kanal Alfred räumt auf; laut Metadaten veröffentlicht am 18.11.2026, Laufzeit 1051 Sekunden. Laut Beschreibung ein Projekt von SinansWoche mit KI-erzeugten Texten, Stimmen und Bildern.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel vollständig gelesen; Metadaten und Beschreibung nur für bibliografische Angaben und die Quellenliste des Videos. Keine Hör-/Sichtkontrolle."
+    },
+    {
+      "id": "S002",
+      "title": "Talk mit SinansWoche (Campertalk)",
+      "url": "https://www.youtube.com/watch?v=bPXMY7Reeek",
+      "details": "Kanal IT Camper (Talks und Meinungen); laut Metadaten veröffentlicht am 23.08.2025, Laufzeit 11474 Sekunden; beim Abruf am 18.11.2026 wies der Kanal 6060 Abonnenten aus.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel vollständig gelesen; Metadaten (Datum, Laufzeit, Abonnentenzahl) über das Importskript abgerufen. Keine Hör-/Sichtkontrolle."
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Sinan (SinansWoche)",
+      "videoRole": "Kanalbetreiber im Eröffnungsanruf; Gast in den eingeblendeten Ausschnitten",
+      "identityBasis": "Selbstvorstellung als Erbauer der Kanalfigur im Eröffnungsanruf und Videobeschreibung. Kein Stimmabgleich; nicht als bestätigte Sprecheridentität verwendet."
+    },
+    {
+      "id": "SP02",
+      "name": "Alfred",
+      "videoRole": "KI-Erzählfigur des Kanals (Katze); synthetische Stimme laut Beschreibung",
+      "identityBasis": "Selbstbezeichnung im Video und Kanalname; laut Beschreibung KI-erzeugte Texte und Stimme. Bezeichnet eine Kanalfigur, keine natürliche Person; verantwortlich ist der Kanalbetreiber."
+    }
+  ],
+  "claims": [
+    {
+      "id": "GbhI-p_ycJE-A0001",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sinan sei vor ungefähr einem Jahr bei IT Camper in einem rund dreistündigen Gesprächspodcast zu Gast gewesen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das Gespräch erschien laut Metadaten am 23.08.2025 und dauert 3:11:14. Zwischen Veröffentlichung und diesem Video (18.11.2026) liegen knapp 15 Monate; „ungefähr ein Jahr“ ist daher nur grob zutreffend. Aufnahmedatum nicht festgestellt.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0001",
+          "startSeconds": 34,
+          "endSeconds": 46,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf im automatischen Text (Anruf an die Kanalfigur, Selbstbezüge); keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0002",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sinan habe die KI-Figur Alfred gebaut und bezahle ihren Betrieb; der Kanal Alfred räumt auf sei ein Projekt von SinansWoche.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – Selbstauskunft über interne Betriebsverhältnisse; die Beschreibung bestätigt nur dieselbe Selbstdarstellung. Für die Einordnung wichtig: Der geprüfte Gast ist zugleich Betreiber des prüfenden Kanals; das Video legt diesen Interessenkonflikt offen.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Impressum oder Kanalinformationen auf Angaben zum Betreiber prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0002",
+          "startSeconds": 46,
+          "endSeconds": 56,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf im automatischen Text (Anruf an die Kanalfigur, Selbstbezüge); keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "GbhI-p_ycJE-O0003",
+          "startSeconds": 76,
+          "endSeconds": 89,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Die Kanalfigur bezeichnet Sinan als ihren Erbauer.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0003",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Kanal SinansWoche behandle Politik, Gesellschaft und viel Philosophie und habe gut 50.000 Abonnenten.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Abonnentenzahl des Kanals SinansWoche zum Stand November 2026 feststellen."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0004",
+          "startSeconds": 93,
+          "endSeconds": 107,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0004",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Gespräch sei am 23. August 2025 im Campertalk des Kanals IT Camper erschienen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Metadaten des Originals nennen den 23.08.2025 als Veröffentlichungsdatum; Kanal und Format stimmen mit Titel und Begrüßung überein.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0005",
+          "startSeconds": 106,
+          "endSeconds": 113,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0005",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "IT Camper sei ein kleiner Kanal mit rund 6.000 Abonnenten.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Beim Abruf am 18.11.2026, dem Erscheinungstag dieses Videos, wies der Kanal 6060 Abonnenten aus. Die Zahl gilt für diesen Zeitpunkt, nicht für August 2025.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0006",
+          "startSeconds": 110,
+          "endSeconds": 115,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0006",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Gespräch dauere drei Stunden und elf Minuten.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Metadaten nennen eine Laufzeit von 11474 Sekunden, also 3:11:14.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0007",
+          "startSeconds": 115,
+          "endSeconds": 118,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0007",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Gastgeber sage gleich zu Beginn, dass das Format eigentlich dem Kennenlernen dienen solle.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den Untertiteln des Originals (etwa 00:00:00–00:00:30): Der Gastgeber beschreibt dort das Format so und kündigt eine ungewöhnlich diskussionsreiche Folge an.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0008",
+          "startSeconds": 118,
+          "endSeconds": 123,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0008",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Danach sei es etwa eine Dreiviertelstunde lang um Geschlechter und das Selbstbestimmungsgesetz gegangen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Nach den Untertiteln des Originals reicht der Themenblock zu Geschlecht, Sport und Selbstbestimmungsgesetz von etwa 01:08 bis 01:52 mit kurzer Unterbrechung (etwa 01:24–01:26), also rund 40 bis 44 Minuten. Er beginnt allerdings erst nach gut einer Stunde Kennenlernen, nicht unmittelbar nach dem Auftakt.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0009",
+          "startSeconds": 123,
+          "endSeconds": 128,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0009",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Darstellung von Sinans Angabe im Gespräch: Studium der Elektrotechnik und Diplomarbeit beim TÜV über ein Testverfahren für Verstärker.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den vollständig gelesenen automatischen Untertiteln des Originalgesprächs (bPXMY7Reeek, etwa 00:04:30–00:05:35): Die Wiedergabe trifft den Inhalt der dortigen Aussage. Die zugrunde liegende Sachangabe selbst ist damit nicht geprüft; siehe bPXMY7Reeek-A0006.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0010",
+          "startSeconds": 129,
+          "endSeconds": 138,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0010",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Darstellung von Sinans Angabe im Gespräch: Er mische heute Musik für andere Künstler und habe für die Tanzshow Let's Dance Musikstücken vor der Ausstrahlung den letzten Schliff gegeben.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den vollständig gelesenen automatischen Untertiteln des Originalgesprächs (bPXMY7Reeek, etwa 00:07:07–00:09:15): Die Wiedergabe trifft den Inhalt der dortigen Aussage. Die zugrunde liegende Sachangabe selbst ist damit nicht geprüft; siehe bPXMY7Reeek-A0012.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0011",
+          "startSeconds": 138,
+          "endSeconds": 146,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0011",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sinan sage im Gespräch, er mache seinen Kanal seit fünf Jahren.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den vollständig gelesenen automatischen Untertiteln des Originalgesprächs (bPXMY7Reeek, etwa 00:06:35–00:06:50): Die Wiedergabe trifft den Inhalt der dortigen Aussage. Die zugrunde liegende Sachangabe selbst ist damit nicht geprüft; siehe bPXMY7Reeek-A0009.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0012",
+          "startSeconds": 146,
+          "endSeconds": 151,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0012",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sinan sei Ingenieur, kein Jurist, und sage im Gespräch über Körper von Männern und Frauen selbst, er sei kein Biologe.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den Untertiteln des Originals (etwa 01:16:57–01:17:27): Sinan räumt dort ausdrücklich ein, kein Biologe zu sein; seine Ausbildung als Ingenieur nennt er zu Beginn. Die Selbsteinschätzung als Laie in Rechtsfragen ist eine Folgerung der Kanalfigur.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0013",
+          "startSeconds": 155,
+          "endSeconds": 166,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0013",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sinan bezeichne sich im Gespräch als links und liberal; Freiheit sei ihm wichtig.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den vollständig gelesenen automatischen Untertiteln des Originalgesprächs (bPXMY7Reeek, etwa 00:41:10–00:42:10): Die Wiedergabe trifft den Inhalt der dortigen Aussage. Die zugrunde liegende Sachangabe selbst ist damit nicht geprüft; siehe bPXMY7Reeek-A0033.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0014",
+          "startSeconds": 169,
+          "endSeconds": 174,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0014",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Auf die Frage, was er als Kanzler für einen Tag beschließen würde, nenne Sinan ein Tempolimit von 120 km/h auf allen Autobahnen und begründe es mit klaren Regeln für alle bei möglichst wenigen Ausnahmen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den vollständig gelesenen automatischen Untertiteln des Originalgesprächs (bPXMY7Reeek, etwa 01:55:18–01:56:30): Die Wiedergabe trifft den Inhalt der dortigen Aussage. Die zugrunde liegende Sachangabe selbst ist damit nicht geprüft; siehe bPXMY7Reeek-A0101.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0015",
+          "startSeconds": 174,
+          "endSeconds": 188,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0015",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Darstellung von Sinans Angabe: Die Sauna seines Fitnessstudios sei montags nur für Frauen offen, er gehe gern in die Sauna, und montags passe es ihm am besten; daraus entwickle er ein Gedankenspiel zum Selbstbestimmungsgesetz.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den vollständig gelesenen automatischen Untertiteln des Originalgesprächs (bPXMY7Reeek, etwa 01:25:40–01:29:50): Die Wiedergabe trifft den Inhalt der dortigen Aussage. Die zugrunde liegende Sachangabe selbst ist damit nicht geprüft; siehe bPXMY7Reeek-A0073.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0016",
+          "startSeconds": 197,
+          "endSeconds": 211,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0016",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Zusammenfassung von Sinans Gedankenspiel: Seit dem Selbstbestimmungsgesetz könne jeder beim Standesamt erklären, eine Frau zu sein, niemand dürfe nachfragen; damit könnte er montags in die Frauensauna, und wer ihn danach öffentlich als Mann anspreche, könne angezeigt werden und müsse Strafe zahlen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den vollständig gelesenen automatischen Untertiteln des Originalgesprächs (bPXMY7Reeek, etwa 01:29:20–01:30:51): Die Wiedergabe trifft den Inhalt der dortigen Aussage. Die zugrunde liegende Sachangabe selbst ist damit nicht geprüft; siehe bPXMY7Reeek-A0075. Weitere Teile: bPXMY7Reeek-A0076 und bPXMY7Reeek-A0078.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0017",
+          "startSeconds": 283,
+          "endSeconds": 303,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0017",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Selbstbestimmungsgesetz gelte seit November 2024.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Gesetzestext, https://www.gesetze-im-internet.de/sbgg/ (Inkrafttreten prüfen)."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0018",
+          "startSeconds": 303,
+          "endSeconds": 307,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0018",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Für eine Änderung des Geschlechtseintrags genüge eine Erklärung beim Standesamt mit der Versicherung, dass der neue Eintrag der eigenen Geschlechtsidentität entspricht; nachgeprüft werde das nicht, ein Gutachten sei nicht mehr nötig.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: § 2 SBGG, https://www.gesetze-im-internet.de/sbgg/."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0019",
+          "startSeconds": 307,
+          "endSeconds": 326,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0019",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sinan bejahe im Gespräch, dass man die Änderung auch nur zum Spaß vornehmen könne.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den vollständig gelesenen automatischen Untertiteln des Originalgesprächs (bPXMY7Reeek, etwa 01:30:10–01:30:30): Die Wiedergabe trifft den Inhalt der dortigen Aussage. Die zugrunde liegende Sachangabe selbst ist damit nicht geprüft; siehe bPXMY7Reeek-A0077.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0020",
+          "startSeconds": 326,
+          "endSeconds": 331,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0020",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Gesetzesbegründung der Bundesregierung nenne als Beispiel eine Änderung allein, um in einer öffentlichen Debatte Aufmerksamkeit zu erlangen; bemerke das Standesamt das nicht, bleibe die Änderung trotzdem voll wirksam, und ablehnen dürfe es nur bei offensichtlichem Missbrauch.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Gesetzentwurf mit Begründung, Bundestags-Drucksache 20/9049, https://dserver.bundestag.de/btd/20/090/2009049.pdf."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0021",
+          "startSeconds": 333,
+          "endSeconds": 354,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0021",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Änderung müsse drei Monate vorher beim Standesamt angemeldet werden.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: § 4 SBGG, https://www.gesetze-im-internet.de/sbgg/."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0022",
+          "startSeconds": 354,
+          "endSeconds": 358,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0022",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Wer eine Sauna betreten darf, bestimme ihr Betreiber; das stehe im Selbstbestimmungsgesetz selbst.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: § 6 SBGG zu Hausrecht und Vertragsfreiheit, https://www.gesetze-im-internet.de/sbgg/."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0023",
+          "startSeconds": 358,
+          "endSeconds": 366,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0023",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Gesetzesbegründung erwähne ausdrücklich die Sauna: Allein unter Berufung auf den Registereintrag könne niemand Zugang zu einer geschlechtsspezifischen Sauna verlangen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Bundestags-Drucksache 20/9049, Begründung zu § 6, https://dserver.bundestag.de/btd/20/090/2009049.pdf."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0024",
+          "startSeconds": 366,
+          "endSeconds": 385,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0024",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Studio dürfe Sinan montags weiterhin abweisen, wenn es einen sachlichen Grund hat, etwa dass die Frauen unter sich sein wollen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Was erlaubt das Allgemeine Gleichbehandlungsgesetz (§ 20 AGG, sachlicher Grund, Schutz der Intimsphäre)? Das Video nennt hierfür keine eigene Quelle."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0025",
+          "startSeconds": 387,
+          "endSeconds": 395,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0025",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine Geldbuße bis zu 10.000 Euro drohe, wer früheren Namen oder früheres Geschlecht eines Menschen offenbart, um ihm zu schaden.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: §§ 13 und 14 SBGG, https://www.gesetze-im-internet.de/sbgg/."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0026",
+          "startSeconds": 395,
+          "endSeconds": 407,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0026",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bloßes falsches Ansprechen sei nach dem Selbstbestimmungsgesetz nicht mit Strafe bedroht; strafbar könne es nur als Beleidigung nach allgemeinem Recht oder beim schädigenden Offenbaren der früheren Angaben vor anderen sein.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: §§ 13, 14 SBGG; ergänzend § 185 StGB prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0027",
+          "startSeconds": 407,
+          "endSeconds": 422,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "GbhI-p_ycJE-O0028",
+          "startSeconds": 437,
+          "endSeconds": 442,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Wiederholung im Abschnittsfazit.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0027",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine nur zum Spaß und ernsthaft klingend erklärte Änderung gehe zunächst durch; fliege der Spaß später auf, könne das Standesamt den Eintrag unter Umständen wieder berichtigen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Rechtsgrundlage für eine nachträgliche Berichtigung (Personenstandsgesetz, Begründung zum SBGG) prüfen; das Video nennt dafür keine eigene Quelle."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0029",
+          "startSeconds": 422,
+          "endSeconds": 437,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0028",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Beim Gedankenspiel zur Sauna liege Sinan nur teilweise richtig: Der Spaß komme zunächst durch, öffne aber nicht die Frauensauna, und bloßes Falschansprechen koste nach diesem Gesetz nichts.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Bewertung der Kanalfigur auf Grundlage der zuvor genannten Rechtsbehauptungen; diese sind gesondert erfasst und noch offen.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0030",
+          "startSeconds": 422,
+          "endSeconds": 442,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "GbhI-p_ycJE-O0031",
+          "startSeconds": 761,
+          "endSeconds": 767,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Im Gesamtfazit.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0029",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Zusammenfassung von Sinans Sorge: Ein Straftäter könne jedes Jahr ein anderer werden, und weil der alte Name in den Computern der Ämter nicht auftauchen dürfe, habe die Polizei Probleme, ihn zu finden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den vollständig gelesenen automatischen Untertiteln des Originalgesprächs (bPXMY7Reeek, etwa 01:32:52–01:33:35): Die Wiedergabe trifft den Inhalt der dortigen Aussage. Die zugrunde liegende Sachangabe selbst ist damit nicht geprüft; siehe bPXMY7Reeek-A0083. Siehe auch bPXMY7Reeek-A0082.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0032",
+          "startSeconds": 481,
+          "endSeconds": 492,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0030",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach einer Änderung müsse man ein Jahr warten, bevor man erneut ändern dürfe.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: § 5 SBGG, https://www.gesetze-im-internet.de/sbgg/."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0033",
+          "startSeconds": 492,
+          "endSeconds": 498,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0031",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Juni 2025, zwei Monate vor dem Gespräch, habe das Bundesinnenministerium vorgeschlagen, das frühere Geschlecht im Melderegister zu vermerken und zusammen mit dem früheren Vornamen an andere Behörden zu übermitteln.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Antwort der Bundesregierung, Bundestags-Drucksache 21/1340, https://dserver.bundestag.de/btd/21/013/2101340.pdf, und Verordnung Bundesrats-Drucksache 419/25, https://dserver.bundestag.de/brd/2025/0419-25.pdf."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0034",
+          "startSeconds": 500,
+          "endSeconds": 519,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0032",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Bundesregierung begründe den Vorschlag damit, dass eine unter altem Namen und Geschlecht gespeicherte Person bei einer Suche nach neuem Namen und Geschlecht in einem Register nicht gefunden werde.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Bundesrats-Drucksache 419/25 und Bundestags-Drucksache 21/1340."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0035",
+          "startSeconds": 521,
+          "endSeconds": 538,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0033",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Schon im Gesetzentwurf zum Selbstbestimmungsgesetz habe die Regierung vorgesehen, dass das Bundeskriminalamt, die Bundespolizei und weitere Behörden bei jeder Änderung automatisch informiert werden, weil erstmals eine bloße Erklärung genüge.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Bundestags-Drucksache 20/9049 (Entwurf), https://dserver.bundestag.de/btd/20/090/2009049.pdf."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0036",
+          "startSeconds": 540,
+          "endSeconds": 556,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0034",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Bundestag habe diese Benachrichtigungsregel vor dem Beschluss des Gesetzes gestrichen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Beschlussempfehlung, Bundestags-Drucksache 20/11004, https://dserver.bundestag.de/btd/20/110/2011004.pdf."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0037",
+          "startSeconds": 556,
+          "endSeconds": 560,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0035",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Verboten sei nicht das Speichern: Behörden dürften die früheren Angaben behalten und weiter nutzen; verboten sei, sie ohne Zustimmung zu offenbaren.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: § 13 SBGG und § 3 Bundesmeldegesetz, https://www.gesetze-im-internet.de/bmg/__3.html."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0038",
+          "startSeconds": 560,
+          "endSeconds": 572,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0036",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Für Polizei und Staatsanwaltschaft gelte eine Ausnahme: Sie dürften den früheren Namen erfahren, wenn sie ihn für ihre Aufgaben brauchen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Ausnahmen in § 13 SBGG, https://www.gesetze-im-internet.de/sbgg/."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0039",
+          "startSeconds": 572,
+          "endSeconds": 580,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0037",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Für die geplante Melderegelung brauche es kein neues Gesetz, wohl aber die Zustimmung der Länder im Bundesrat.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Bundesrats-Drucksache 419/25 (Rechtsgrundlage der Verordnung, Zustimmungsbedürftigkeit)."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0040",
+          "startSeconds": 580,
+          "endSeconds": 586,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0038",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Oktober 2025 hätte der Bundesrat darüber abstimmen sollen; die Abstimmung sei kurz vorher abgesetzt worden.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Plenarprotokoll 1058 des Bundesrats, https://dserver.bundestag.de/brp/1058.pdf."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0041",
+          "startSeconds": 586,
+          "endSeconds": 593,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0039",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im März 2026 habe das Ministerium noch immer mit den Ländern verhandelt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: queer.de vom 03.03.2026, https://www.queer.de/detail.php?article_id=57050; möglichst amtliche Bestätigung suchen."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0042",
+          "startSeconds": 593,
+          "endSeconds": 598,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0040",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Sinan habe ein Problem erkannt, das auch die Bundesregierung sehe; überzogen sei nur seine Annahme, der alte Name dürfe in den Ämtern nicht gespeichert werden.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Bewertung der Kanalfigur auf Grundlage der zuvor genannten, noch offenen Rechtsbehauptungen.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0043",
+          "startSeconds": 598,
+          "endSeconds": 610,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "GbhI-p_ycJE-O0044",
+          "startSeconds": 764,
+          "endSeconds": 767,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Im Gesamtfazit: im Wesentlichen zutreffend.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0041",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sinan habe sich das Thema Reaktanz für das Gespräch selbst gewünscht.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den Untertiteln des Originals (etwa 02:11:43–02:12:46): Der Gastgeber sagt dort, Sinan habe das Thema Reaktanz vorgeschlagen.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0045",
+          "startSeconds": 614,
+          "endSeconds": 621,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0042",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Reaktanz bedeute, dass jemand, der sich zu etwas gedrängt fühlt, erst recht das Gegenteil tut.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Fachdefinition psychologischer Reaktanz (Brehm) prüfen; die Kurzfassung lässt offen, dass Reaktanz eintreten kann, aber nicht muss."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0046",
+          "startSeconds": 621,
+          "endSeconds": 626,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0043",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sinans These, wer Menschen zu hart angehe, treibe sie eher weiter weg; als Beispiel falle ihm ein Arzt aus der Corona-Zeit ein, dessen Namen ihm erst Zuschauer des Livestreams nennen: Bodo Schiffmann.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den vollständig gelesenen automatischen Untertiteln des Originalgesprächs (bPXMY7Reeek, etwa 02:16:53–02:18:27): Die Wiedergabe trifft den Inhalt der dortigen Aussage. Die zugrunde liegende Sachangabe selbst ist damit nicht geprüft; siehe bPXMY7Reeek-A0126.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0047",
+          "startSeconds": 626,
+          "endSeconds": 642,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0044",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bodo Schiffmann sei Hals-Nasen-Ohren-Arzt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Berufsangabe in zeitgenössischen Berichten (z. B. t-online, Oktober 2020) prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0048",
+          "startSeconds": 637,
+          "endSeconds": 642,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0045",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im März 2020 sei Schiffmann einer der ersten Ärzte gewesen, die auf YouTube über Corona sprachen; er habe das Virus für harmlos gehalten und sich beschwert, dass die Regierung keinen Mundschutz an alle Haushalte verteilte.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: t-online vom 27.10.2020, https://www.t-online.de/nachrichten/deutschland/id_88805272/-querdenker-warum-laesst-die-aerztekammer-schwindel-arzt-schiffmann-agieren-.html."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0049",
+          "startSeconds": 666,
+          "endSeconds": 687,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0046",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Beschwerden über Schiffmann habe es seit seinen ersten Videos gegeben; von wem der Druck kam, sage Sinan nicht.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: t-online vom 27.10.2020 (Beschwerden bei der Ärztekammer).",
+        "Dass Sinan die Herkunft des Drucks nicht nennt, deckt sich mit den Untertiteln des Originals (etwa 02:18:27–02:18:57)."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0050",
+          "startSeconds": 687,
+          "endSeconds": 695,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0047",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Von Behörden sei lange wenig gekommen: Die zuständige Ärztekammer habe gegen seine Videos nichts unternehmen können und Beschwerdeführern sinngemäß mitgeteilt, auch unvernünftige Äußerungen fielen unter die Meinungsfreiheit.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: t-online vom 27.10.2020."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0051",
+          "startSeconds": 695,
+          "endSeconds": 710,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0048",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Ärztekammer habe mindestens zwei Verfahren gegen Schiffmann eingestellt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: t-online vom 27.10.2020."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0052",
+          "startSeconds": 710,
+          "endSeconds": 714,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0049",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bis zum Herbst 2020 habe Schiffmann wegen der Corona-Regeln zwei Parteien mitgegründet.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Parteien sind gemeint, und belegen zeitgenössische Berichte die Mitgründung?"
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0053",
+          "startSeconds": 712,
+          "endSeconds": 718,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0050",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Schiffmann sei mit einem Bus von Kundgebung zu Kundgebung gefahren.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Berichte über die Bustour 2020 prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0054",
+          "startSeconds": 718,
+          "endSeconds": 723,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0051",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Schiffmann habe die Geschichte von Kindern verbreitet, die an ihren Masken gestorben sein sollen; Belege dafür habe es keine gegeben.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: Correctiv vom 08.10.2020, https://correctiv.org/faktencheck/2020/10/08/es-gibt-keine-belege-fuer-die-geruechte-dass-kinder-gestorben-sind-weil-sie-masken-trugen."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0055",
+          "startSeconds": 723,
+          "endSeconds": 728,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0052",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Herbst 2020 habe die Polizei in mehreren Städten gegen Schiffmann ermittelt, unter anderem wegen Verstößen gegen Auflagen bei Demonstrationen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: evangelisch.de (epd) vom 28.10.2020, https://www.evangelisch.de/inhalte/177454/28-10-2020/falsche-atteste-gegen-maskenpflicht-polizei-durchsucht-arztpraxis."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0056",
+          "startSeconds": 730,
+          "endSeconds": 737,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0053",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ende Oktober 2020 habe die Polizei Schiffmanns Praxis wegen mutmaßlich falscher Atteste gegen die Maskenpflicht durchsucht.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die im Video als Beleg genannte Quelle ist noch nicht gelesen: evangelisch.de (epd) vom 28.10.2020."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0057",
+          "startSeconds": 738,
+          "endSeconds": 744,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0054",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Druck auf Schiffmann habe es von Anfang an aus der Öffentlichkeit gegeben, vom Staat erst spät; ob die Kritik ihn weiter weggetrieben habe, lasse sich nicht messen; Sinans Erinnerung an Schiffmanns Anfangsphase treffe zu.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Zusammenfassende Bewertung der Kanalfigur auf Grundlage der noch offenen Einzelbehauptungen. Die ausdrückliche Grenze bei der Kausalfrage entspricht der Einordnung bPXMY7Reeek-A0126.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0058",
+          "startSeconds": 744,
+          "endSeconds": 756,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "GbhI-p_ycJE-O0059",
+          "startSeconds": 767,
+          "endSeconds": 770,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Im Gesamtfazit: zutreffend, aber ergänzungsbedürftig.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0055",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Eindeutige Falschaussagen habe es im ganzen Gespräch kaum gegeben.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Zusammenfassende Bewertung ohne vollständige veröffentlichte Prüfliste; als Wertung eingeordnet. Der Faktencheck des Originals (bPXMY7Reeek) ist noch nicht recherchiert und kann sie derzeit weder stützen noch widerlegen.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0060",
+          "startSeconds": 770,
+          "endSeconds": 773,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0056",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Auf der Erde lebten über acht Milliarden Menschen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Aktuelle Bevölkerungsschätzung der Vereinten Nationen (World Population Prospects) prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0061",
+          "startSeconds": 783,
+          "endSeconds": 787,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0057",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach der eigenen Kategorie des Kanals (widerlegte oder nicht überprüfbare Aussagen einschließlich Andeutungen) enthalte das dreistündige Gespräch keine einzige solche Stelle von Sinan.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die Kategorie zählt ausdrücklich auch nicht überprüfbare Aussagen. Im Original finden sich mehrere Angaben Sinans, die auf anonymen oder nicht benannten Quellen beruhen, etwa bPXMY7Reeek-A0081, bPXMY7Reeek-A0089 und bPXMY7Reeek-A0084. Warum zählen sie nicht?",
+        "Die Kanalfigur selbst bewertet Sinans Annahme, frühere Namen dürften nicht gespeichert werden (bPXMY7Reeek-A0083), als zu streng. Wie verträgt sich das mit null widerlegten Stellen?",
+        "Die Liste der geprüften Stellen ist nicht veröffentlicht; ohne sie ist die Zählung nicht nachvollziehbar."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0062",
+          "startSeconds": 830,
+          "endSeconds": 838,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0058",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sinan sei Mitglied in einem Verein, der Behauptungen entgegentritt, die wissenschaftlichen Tatsachen widersprechen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Die Mitgliedschaft nennt Sinan im Original selbst (etwa 01:24:36–01:25:08, bPXMY7Reeek-A0070); sie bleibt Selbstauskunft.",
+        "Satzungszweck der GWUP auf deren Website prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0063",
+          "startSeconds": 838,
+          "endSeconds": 845,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0059",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die flache Erde sei im Gespräch einmal vorgekommen; Sinan habe mit ihren Anhängern reden, nicht ihre Ansicht übernehmen wollen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den Untertiteln des Originals (etwa 01:01:05–01:05:14): Das Thema kommt in einem zusammenhängenden Abschnitt vor; Sinan plädiert dort dafür, auch mit Anhängern solcher Ansichten zu reden, ohne sie zu teilen.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0064",
+          "startSeconds": 850,
+          "endSeconds": 859,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0060",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei einem Viertel seiner Streitfragen lasse Sinan keine andere Sicht gelten, beim Rest gestehe er der Gegenseite etwas zu.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – kanalinterne Zählung ohne veröffentlichte Liste der Streitfragen und Kriterien. Fehlende Bestätigung bedeutet nicht falsch.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Streitfragen wurden gezählt? Ohne Liste nicht nachvollziehbar."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0065",
+          "startSeconds": 865,
+          "endSeconds": 875,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0061",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Darstellung von Sinans Position: Er hätte das Gesetz anders gestaltet, weiterhin mit Gutachten, aber einfacher und günstiger; die früheren Fragebögen zur Sexualität halte er für erniedrigend und veraltet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den vollständig gelesenen automatischen Untertiteln des Originalgesprächs (bPXMY7Reeek, etwa 01:48:12–01:49:42): Die Wiedergabe trifft den Inhalt der dortigen Aussage. Die zugrunde liegende Sachangabe selbst ist damit nicht geprüft; siehe bPXMY7Reeek-A0099. Siehe auch bPXMY7Reeek-A0097.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0066",
+          "startSeconds": 880,
+          "endSeconds": 898,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0062",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Vor dem Selbstbestimmungsgesetz seien für eine Änderung zwei Gutachten nötig gewesen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "§ 4 Abs. 3 Transsexuellengesetz (zwei unabhängige Gutachten) prüfen; das Video nennt dafür keine eigene Quelle."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0067",
+          "startSeconds": 885,
+          "endSeconds": 890,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0063",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach der eigenen Kategorie des Kanals (pauschale Abwertung ganzer Gruppen) gebe es in drei Stunden genau eine solche Stelle bei Sinan.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Offen – Sachrecherche steht aus. Der Prüfgegenstand wurde aus den vollständig gelesenen automatischen Originaluntertiteln erfasst; die im Video genannten Quellen sind noch nicht gelesen und dienen nicht als Beleg.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Weitere mögliche Kandidaten im Original prüfen, etwa die Verallgemeinerung über Feministinnen (bPXMY7Reeek-A0064), die Aussage, Gegner von Geschlechtstests im Frauensport leugneten Biologie (bPXMY7Reeek-A0069), oder die Typisierung politischer Lager (bPXMY7Reeek-A0031).",
+        "Kriterien und Liste der geprüften Stellen sind nicht veröffentlicht."
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0068",
+          "startSeconds": 908,
+          "endSeconds": 912,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "GbhI-p_ycJE-O0069",
+          "startSeconds": 946,
+          "endSeconds": 950,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Wiederholung: ein einziges Mal in drei Stunden.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0064",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die gezählte Stelle falle in einem Spiel mit schnellen Ein-Wort-Urteilen über andere YouTuber: Über einen Livestreamer sage Sinan, dieser inszeniere sich als kämpferischer Linker, und linker Aktivismus erlaube aggressiv auftretenden Streamern, sich trotzdem moralisch auf der richtigen Seite zu sehen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abgleich mit den vollständig gelesenen automatischen Untertiteln des Originalgesprächs (bPXMY7Reeek, etwa 02:02:30–02:04:33): Die Wiedergabe trifft den Inhalt der dortigen Aussage. Die zugrunde liegende Sachangabe selbst ist damit nicht geprüft; siehe bPXMY7Reeek-A0108.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Grundlage; keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Abgleich mit Untertiteln bzw. Metadaten des Originals; bestätigt nur die Wiedergabe, nicht die zugrunde liegende Sachangabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0070",
+          "startSeconds": 912,
+          "endSeconds": 925,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0065",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Aus den drei Kategorien ergebe sich für Sinan ein Indexwert von 170 Punkten; so wenige habe noch kein Gast gehabt, er belege Platz vier von vier.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – kanalinterne Kennzahl ohne veröffentlichte Berechnung und Gewichtung; frühere Folgen wurden nicht abgeglichen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Ist die Berechnung des Index in früheren Folgen oder der Beschreibung offengelegt?"
+      ],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0071",
+          "startSeconds": 956,
+          "endSeconds": 974,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "GbhI-p_ycJE-A0066",
+      "videoId": "GbhI-p_ycJE",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Das Gespräch sei gut: Sinan räume Unsicherheiten ein, verbreite keine unbelegten Behauptungen, werte ganze Gruppen kaum ab, diskutiere beim Selbstbestimmungsgesetz hart, aber zugewandt, und liege häufiger richtig als von der Figur erwartet.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Gesamturteil der Kanalfigur; Meinung. Einige Teile lassen sich am Original nachvollziehen (z. B. Sinans Eingeständnis, kein Biologe zu sein), das Urteil insgesamt bleibt Wertung. Interessenkonflikt: Sinan betreibt den prüfenden Kanal.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "GbhI-p_ycJE-O0072",
+          "startSeconds": 981,
+          "endSeconds": 999,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Erzählerstimme der Kanalfigur nach Videokontext; keine Audio-/Videokontrolle.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    }
+  ]
+}

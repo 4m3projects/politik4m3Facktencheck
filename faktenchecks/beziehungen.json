@@ -1,5 +1,173 @@
 {
   "schemaVersion": 1,
   "note": "Zuordnungen von Reaktionsvideos zu Originalvideos. Aufbau und Prüfregeln: docs/REAKTIONSVIDEOS.md.",
-  "relations": []
+  "relations": [
+    {
+      "id": "R0001",
+      "reactionVideoId": "GbhI-p_ycJE",
+      "originalVideoId": "bPXMY7Reeek",
+      "certainty": "Belegt",
+      "basis": "Die Videobeschreibung nennt das Gespräch bei IT Camper vom 23.08.2025 mit Link als Quelle aller Ausschnitte; die eingeblendeten Passagen entsprechen nach den Untertiteln beider Videos Stellen des Originals. Hinweis: Der Reaktionskanal ist laut eigener Angabe ein Projekt des geprüften Gastes.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "change": "Zuordnung bei der Neuerfassung beider Videos durch Claude angelegt."
+        }
+      ],
+      "claimLinks": [
+        {
+          "id": "L0001",
+          "type": "gibt_wieder",
+          "originalClaimId": "bPXMY7Reeek-A0006",
+          "reactionClaimId": "GbhI-p_ycJE-A0009",
+          "reactionSeconds": 129,
+          "note": "Biografische Angabe zu Studium und Diplomarbeit korrekt wiedergegeben."
+        },
+        {
+          "id": "L0002",
+          "type": "gibt_wieder",
+          "originalClaimId": "bPXMY7Reeek-A0012",
+          "reactionClaimId": "GbhI-p_ycJE-A0010",
+          "reactionSeconds": 138,
+          "note": "Angabe zu Mischarbeiten und Let's Dance korrekt wiedergegeben."
+        },
+        {
+          "id": "L0003",
+          "type": "gibt_wieder",
+          "originalClaimId": "bPXMY7Reeek-A0009",
+          "reactionClaimId": "GbhI-p_ycJE-A0011",
+          "reactionSeconds": 146,
+          "note": "Dauer des Kanals ausdrücklich als Sinans Angabe wiedergegeben."
+        },
+        {
+          "id": "L0004",
+          "type": "gibt_wieder",
+          "originalClaimId": "bPXMY7Reeek-A0033",
+          "reactionClaimId": "GbhI-p_ycJE-A0013",
+          "reactionSeconds": 169,
+          "note": "Politische Selbstverortung korrekt wiedergegeben."
+        },
+        {
+          "id": "L0005",
+          "type": "gibt_wieder",
+          "originalClaimId": "bPXMY7Reeek-A0101",
+          "reactionClaimId": "GbhI-p_ycJE-A0014",
+          "reactionSeconds": 174,
+          "note": "Antwort auf die Kanzlerfrage korrekt wiedergegeben."
+        },
+        {
+          "id": "L0006",
+          "type": "gibt_wieder",
+          "originalClaimId": "bPXMY7Reeek-A0073",
+          "reactionClaimId": "GbhI-p_ycJE-A0015",
+          "reactionSeconds": 197,
+          "note": "Ausgangslage des Sauna-Gedankenspiels korrekt wiedergegeben."
+        },
+        {
+          "id": "L0007",
+          "type": "gibt_wieder",
+          "originalClaimId": "bPXMY7Reeek-A0075",
+          "reactionClaimId": "GbhI-p_ycJE-A0016",
+          "reactionSeconds": 283,
+          "note": "Zusammenfassung des Gedankenspiels, zusätzlich als Originalausschnitt eingeblendet."
+        },
+        {
+          "id": "L0008",
+          "type": "gegenbehauptung",
+          "originalClaimId": "bPXMY7Reeek-A0078",
+          "reactionClaimId": "GbhI-p_ycJE-A0022",
+          "reactionSeconds": 358,
+          "note": "Die Reaktion hält entgegen, dass der Betreiber über den Saunazugang entscheidet; beide Seiten sind noch nicht recherchiert."
+        },
+        {
+          "id": "L0009",
+          "type": "gegenbehauptung",
+          "originalClaimId": "bPXMY7Reeek-A0076",
+          "reactionClaimId": "GbhI-p_ycJE-A0026",
+          "reactionSeconds": 407,
+          "note": "Die Reaktion hält entgegen, dass bloßes Falschansprechen nach dem SBGG nicht mit Strafe bedroht ist."
+        },
+        {
+          "id": "L0010",
+          "type": "ergaenzt",
+          "originalClaimId": "bPXMY7Reeek-A0077",
+          "reactionClaimId": "GbhI-p_ycJE-A0020",
+          "reactionSeconds": 333,
+          "note": "Die Reaktion stützt die Möglichkeit einer Scherzänderung mit einem Beispiel aus der Gesetzesbegründung und nennt die Grenze des offensichtlichen Missbrauchs."
+        },
+        {
+          "id": "L0011",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "bPXMY7Reeek-A0082",
+          "reactionClaimId": "GbhI-p_ycJE-A0030",
+          "reactionSeconds": 492,
+          "note": "Beide beziehen sich auf die einjährige Sperrfrist für erneute Änderungen."
+        },
+        {
+          "id": "L0012",
+          "type": "gegenbehauptung",
+          "originalClaimId": "bPXMY7Reeek-A0083",
+          "reactionClaimId": "GbhI-p_ycJE-A0035",
+          "reactionSeconds": 560,
+          "note": "Die Reaktion hält entgegen, dass das Speichern früherer Angaben nicht verboten ist, nur deren Offenbaren."
+        },
+        {
+          "id": "L0013",
+          "type": "ergaenzt",
+          "originalClaimId": "bPXMY7Reeek-A0083",
+          "reactionClaimId": "GbhI-p_ycJE-A0031",
+          "reactionSeconds": 500,
+          "note": "Die Reaktion ergänzt, dass die Bundesregierung ein Auffindbarkeitsproblem selbst sah und eine Melderegelung plante."
+        },
+        {
+          "id": "L0014",
+          "type": "gibt_wieder",
+          "originalClaimId": "bPXMY7Reeek-A0126",
+          "reactionClaimId": "GbhI-p_ycJE-A0043",
+          "reactionSeconds": 626,
+          "note": "These und Beispiel Schiffmann korrekt wiedergegeben, zusätzlich als Originalausschnitt eingeblendet."
+        },
+        {
+          "id": "L0015",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "bPXMY7Reeek-A0123",
+          "reactionClaimId": "GbhI-p_ycJE-A0045",
+          "reactionSeconds": 666,
+          "note": "Beide beschreiben Schiffmanns frühe Positionen; die Reaktion stützt sich auf einen Pressebericht."
+        },
+        {
+          "id": "L0016",
+          "type": "ergaenzt",
+          "originalClaimId": "bPXMY7Reeek-A0125",
+          "reactionClaimId": "GbhI-p_ycJE-A0046",
+          "reactionSeconds": 687,
+          "note": "Die Reaktion ergänzt, von wem der Druck kam."
+        },
+        {
+          "id": "L0017",
+          "type": "gibt_wieder",
+          "originalClaimId": "bPXMY7Reeek-A0070",
+          "reactionClaimId": "GbhI-p_ycJE-A0058",
+          "reactionSeconds": 838,
+          "note": "Mitgliedschaft in einem wissenschaftsorientierten Verein nach Sinans eigener Angabe."
+        },
+        {
+          "id": "L0018",
+          "type": "gibt_wieder",
+          "originalClaimId": "bPXMY7Reeek-A0099",
+          "reactionClaimId": "GbhI-p_ycJE-A0061",
+          "reactionSeconds": 880,
+          "note": "Sinans Gegenvorschlag zum Gesetz korrekt wiedergegeben, mit Originalausschnitt."
+        },
+        {
+          "id": "L0019",
+          "type": "gibt_wieder",
+          "originalClaimId": "bPXMY7Reeek-A0108",
+          "reactionClaimId": "GbhI-p_ycJE-A0064",
+          "reactionSeconds": 912,
+          "note": "Die als Feindbild gezählte Stelle korrekt eingeordnet und als Ausschnitt eingeblendet."
+        }
+      ]
+    }
+  ]
 }
