@@ -1,6 +1,6 @@
 # Kapitel 11: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0248: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0249: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -128,6 +128,9 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 - [Meet the influencer who has Musk’s ear on Germany’s far-right](https://kfgo.com/2025/01/09/meet-the-influencer-who-has-musks-ear-on-germanys-far-right/) · Thomas Escritt/Reuters; 09.01.2025; verbreitet bei KFGO.
   Quellenzugriff am 2026-11-17. Reuters-Originalbericht in lizenzierter Veröffentlichung gelesen. Reuters prüfte öffentliche Interaktionen; private Nachrichten wurden laut Bericht nicht eingesehen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+
+- [German YouTube Personality Naomi Seibt Joins The Heartland Institute](https://heartland.org/opinion/press-release-german-youtube-personality-naomi-seibt-joins-the-heartland-institute/) · Jim Lakely, The Heartland Institute; Pressemitteilung 14.02.2020.
+  Quellenzugriff am 2026-11-18. Originale Personalmitteilung einschließlich damaliger Altersangabe und beschriebener Zusammenarbeit gelesen. Institutionelle Selbstauskunft, keine unabhängige Bewertung der wissenschaftlichen Aussagen oder vollständiger Zahlungsnachweis. Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen.
 
 ### Offene Fragen und Unsicherheiten
 

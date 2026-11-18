@@ -1,6 +1,6 @@
 # Kapitel 12: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0248: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zeitliche Sichtung des verfügbaren Textes von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38. Untertitellücke 02:10:47,880–02:12:43,970; letzte vier Sekunden ohne Inhaltsnachweis. Themenregister über die gesamte Laufzeit, Aussageinventar als überprüfbarer Teilbestand, keine erschöpfende Gesamtvideostatistik. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Erfassungsstand A0001–A0249: alle 25 Themenbereiche bis zum Abschluss vertreten. Das ist noch kein vollständiges Inventar aller Teilbehauptungen. Zwei Aussagen im Untertitellückenfenster stammen ausdrücklich nur aus ergänzendem, noch nicht synchronisiertem Podcasttext. Weitere Erfassung, Sachrecherche und bestätigte Sprecheridentifizierung bleiben erforderlich.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche und Sprecherbestätigung bleiben unvollständig. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -82,6 +82,9 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 - [The Heartlander, Winter 2020](https://heartland.org/wp-content/uploads/documents/HeartlanderWinter20.pdf) · The Heartland Institute; Ausgabe Winter 2020, enthält Rückblick Dezember 2019.
   Quellenzugriff am 2026-11-17. Originalpublikation online geöffnet; Abschnitte zu Seibts Auftritt in Madrid und Zusammenarbeit gelesen. Interessengeleitete Selbstauskunft, keine Kontrolle aller Finanzierungsquellen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+
+- [German YouTube Personality Naomi Seibt Joins The Heartland Institute](https://heartland.org/opinion/press-release-german-youtube-personality-naomi-seibt-joins-the-heartland-institute/) · Jim Lakely, The Heartland Institute; Pressemitteilung 14.02.2020.
+  Quellenzugriff am 2026-11-18. Originale Personalmitteilung einschließlich damaliger Altersangabe und beschriebener Zusammenarbeit gelesen. Institutionelle Selbstauskunft, keine unabhängige Bewertung der wissenschaftlichen Aussagen oder vollständiger Zahlungsnachweis. Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -217,7 +220,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe bei CPAC 2020 sowie in Sendungen von Fox News und Piers Morgan Auftritte gehabt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -236,7 +239,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Drei öffentliche Auftrittsbehauptungen; hier noch nicht jeweils mit Originalsendung oder Veranstalterprogramm belegt.
+Die drei Auftritte sind getrennt gestützt: Das Programm kündigt Seibts Heartland-Veranstaltung bei CPAC für den 28. Februar 2020 an; der zeitgenössische Monitoringbericht dokumentiert den Fox-Auftritt vom Vortag und anschließend die CPAC-Teilnahme. Der Express-Sendungsbericht stützt den Auftritt bei Good Morning Britain im März. Dies bestätigt öffentliche Auftritte, keine wissenschaftliche Richtigkeit ihrer Aussagen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -246,11 +249,21 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [German YouTube Personality Naomi Seibt Joins The Heartland Institute](https://heartland.org/opinion/press-release-german-youtube-personality-naomi-seibt-joins-the-heartland-institute/) · Jim Lakely, The Heartland Institute; Pressemitteilung 14.02.2020.
+  Quellenzugriff am 2026-11-18. Originale Personalmitteilung einschließlich damaliger Altersangabe und beschriebener Zusammenarbeit gelesen. Institutionelle Selbstauskunft, keine unabhängige Bewertung der wissenschaftlichen Aussagen oder vollständiger Zahlungsnachweis. Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen.
+
+- [Fox News just debuted the right's new climate denier darling](https://www.mediamatters.org/fox-news/fox-news-just-debuted-rights-new-climate-denier-darling) · Media Matters Staff; 28.02.2020, aktualisiert 17:00 Uhr EST.
+  Quellenzugriff am 2026-11-18. Zeitgenössischen Monitoringbericht und seine Datierung des Fox-Interviews vom 27.02.2020 sowie das Update zum erfolgten CPAC-Auftritt gelesen. Politische und wissenschaftliche Bewertungen nicht als Prüfergebnis übernommen; Originalsendung nicht selbst angehört. Zeitgenössischer Bericht zum Fox-Interview und Update zur CPAC-Teilnahme; Bewertungen des Mediums nicht übernommen.
+
+- [CPAC 2020: Veranstaltungsprogramm](https://www.thethinkingconservative.com/wp-content/uploads/2020/02/cpac-2020-agenda.pdf) · Historisches CPAC-Programm vom 26.–29.02.2020; Kopie bei The Thinking Conservative, PDF-Seite 19.
+  Quellenzugriff am 2026-11-18. Programmteil zu Freitag, 28.02.2020, mit angekündigter Heartland-Veranstaltung unter Beteiligung Seibts gelesen. Dokumentkopie auf fremdem Server, keine lückenlos geprüfte Archivherkunft; allein kein Nachweis tatsächlicher Durchführung. Historisches Veranstaltungsprogramm, PDF-Seite 19; Planungsbeleg mit archivischer Einschränkung.
+
+- [Piers Morgan forced to correct himself after viewers slam climate debate](https://www.express.co.uk/showbiz/tv-radio/1250665/Piers-morgan-good-morning-britain-correction-mistake-naomi-seibt-amy-bray-itv-video) · Emily Hennings, Daily Express; 05.03.2020, aktualisiert 09:26 Uhr.
+  Quellenzugriff am 2026-11-18. Zeitgenössischen Sendungsbericht mit der konkret beschriebenen Korrektur der Fragestellung gelesen. Originalsendung und eingebettetes Video nicht selbst angehört; die spätere WND-Fassung beruht auf diesem Bericht. Zeitgenössischer Sendungsbericht zum Auftritt bei Piers Morgan.
 
 ### Offene Fragen und Unsicherheiten
 
-- Datum und Format jedes Auftritts getrennt bestätigen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0103
 
@@ -258,7 +271,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Piers Morgan habe sich nach einer unzutreffenden Wiedergabe ihrer Position öffentlich entschuldigt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -277,7 +290,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Einzelfall im Gespräch; Originalsendung und tatsächlicher Anlass einer Entschuldigung ungeprüft.
+Der zeitgenössische Express-Bericht beschreibt eine nach der Werbepause erfolgte Korrektur: Morgan hatte seine eigene Fragestellung unzutreffend wiedergegeben. Die konkrete Richtigstellung ist damit journalistisch gestützt. Das war kein Widerruf der Klimaforschung oder eine Bestätigung aller Positionen Seibts; die Originalsendung wurde hier nicht angehört.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
@@ -287,11 +300,18 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Piers Morgan forced to correct himself after viewers slam climate debate](https://www.express.co.uk/showbiz/tv-radio/1250665/Piers-morgan-good-morning-britain-correction-mistake-naomi-seibt-amy-bray-itv-video) · Emily Hennings, Daily Express; 05.03.2020, aktualisiert 09:26 Uhr.
+  Quellenzugriff am 2026-11-18. Zeitgenössischen Sendungsbericht mit der konkret beschriebenen Korrektur der Fragestellung gelesen. Originalsendung und eingebettetes Video nicht selbst angehört; die spätere WND-Fassung beruht auf diesem Bericht. Frühere tatsächlich gelesene Berichtsquelle; Originalsendung nicht selbst kontrolliert.
+
+- [Piers Morgan apologizes after blasting teenage anti-Greta on his show](https://www.wnd.com/2020/03/piers-morgan-apologizes-blasting-teenage-anti-greta-show-quite-right/) · Erin Coates/The Western Journal, übernommen von WorldNetDaily; 07.03.2020.
+  Quellenzugriff am 2026-11-18. Bericht zur Moderationskorrektur gelesen und dessen frühere Express-Quelle S076 geöffnet. Kein unabhängiger zweiter Augenzeugenbeleg; erkennbare Übernahmekette. Politische und wissenschaftliche Wertungen des Mediums nicht übernommen. Spätere Übernahme desselben Vorgangs, kein unabhängiger zweiter Beleg.
+
+- [Weiterer Express-Beitrag zur Klimadebatte – erfolgloser Abruf](https://www.express.co.uk/showbiz/tv-radio/1250649/greta-thunberg-news-naomi-seibt-ITV-GMB-piers-morgan-climate-change-latest-study) · Daily Express; historischer Link aus WND, Abrufversuch 18.11.2026.
+  Quellenzugriff am 2026-11-18. Erfolgloser Abrufversuch – kein Sachbeleg: Recherchewerkzeug verweigerte die Adresse. Tatsächlich gelesene Ersatzgrundlage zur Moderationskorrektur ist der gesonderte Express-Beitrag S076. Erfolgloser Abrufversuch – kein Sachbeleg; Ersatz S076.
 
 ### Offene Fragen und Unsicherheiten
 
-- Ungekürzte betreffende Gesprächsstelle und Entschuldigung lesen beziehungsweise kontrollieren.
+- Originalsendung für genauen Umfang und Wortlaut der Korrektur kontrollieren; keine wörtliche Passage veröffentlichen.
 
 ## mdo14671BPE-A0104
 
