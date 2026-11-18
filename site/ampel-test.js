@@ -87,6 +87,16 @@ test('Gezielte Kleinauswahl aus langem Video: nicht bewertbar', () => {
   assert.equal(A.rate(s).key, 'rot', 'ohne Laufzeit keine Dichteprüfung');
 });
 
+test('Abgeschlossene Analyse zeigt nie „Noch in Prüfung“', () => {
+  const done = { workStatus: 'Abgeschlossen' };
+  assert.equal(A.rate(stats({ belegt: 5, open: 3 }), done).key, 'nicht_bewertbar', 'kleine Reaktion mit offenen Resten');
+  assert.match(A.rate(stats({ belegt: 5, open: 3 }), done).reason, /abgeschlossen; 3 Aussagen/);
+  assert.equal(A.rate(stats({ belegt: 10, open: 41 }), done).key, 'nicht_bewertbar', 'Anteil zu klein');
+  assert.equal(A.rate(stats({ belegt: 5, open: 3 })).key, 'vorlaeufig', 'ohne Arbeitsstand bleibt es vorläufig');
+  assert.equal(A.rate(stats({ belegt: 5, open: 3 }), { workStatus: 'Teilbestand geprüft' }).key, 'vorlaeufig');
+  assert.equal(A.rate(stats({ belegt: 30, open: 3 }), done).key, 'gruen', 'genug Grundlage: normale Ampel');
+});
+
 test('Echte Projektdaten: jede Ampel ist berechenbar und begründet', () => {
   for (const id of fs.readdirSync(BASE)) {
     const dir = path.join(BASE, id);
@@ -102,5 +112,6 @@ test('Echte Projektdaten: jede Ampel ist berechenbar und begründet', () => {
     assert.ok(r.reason, id);
     assert.ok(r.decided <= r.facts || !s, id);
     if (v?.workStatus === 'In Bearbeitung') assert.equal(r.key, 'vorlaeufig', id);
+    if (v?.workStatus === 'Abgeschlossen') assert.notEqual(r.key, 'vorlaeufig', id);
   }
 });

@@ -17,6 +17,9 @@
  *    und nicht überprüfbare Aussagen (docs/AGENTEN_PRUEFSTATUS.md).
  *  - Vorläufig (keine Ampel), solange die Analyse als „In Bearbeitung“ geführt wird oder bei zu
  *    kleiner Grundlage noch Prüfungen ausstehen (noch nicht geprüft oder in Bearbeitung).
+ *    Ist die Analyse in video.json als „Abgeschlossen“ geführt, gibt es nie „Vorläufig“: Bei zu
+ *    kleiner Grundlage heißt das Ergebnis dann „Nicht bewertbar“ (verbliebene offene Aussagen
+ *    werden im Grund genannt), damit ein fertiges Video nicht dauerhaft als „in Prüfung“ erscheint.
  *  - Darstellungshinweise (Rhetorik) gehen nie ein. Die Ampel beschreibt den geprüften Bestand,
  *    nicht das ganze Video und keine Person.
  */
@@ -68,8 +71,9 @@
     if (!stats) return out('nicht_bewertbar', 'Für dieses Video liegen keine strukturierten Prüfdaten vor.');
     const tooFew = decided < RULES.minDecided || !facts || decided / facts < RULES.minShare;
     if (tooFew) {
-      if (inProgress + unchecked > 0) return out('vorlaeufig', `Erst ${decided} Tatsachenbehauptungen entschieden, ${inProgress + unchecked} noch nicht fertig geprüft.`);
-      return out('nicht_bewertbar', `Nur ${decided} von ${facts} erfassten Tatsachenbehauptungen sind entschieden; nötig sind mindestens ${RULES.minDecided} und mindestens ${Math.round(RULES.minShare * 100)} %.`);
+      if (inProgress + unchecked > 0 && video?.workStatus !== 'Abgeschlossen') return out('vorlaeufig', `Erst ${decided} Tatsachenbehauptungen entschieden, ${inProgress + unchecked} noch nicht fertig geprüft.`);
+      const rest = inProgress + unchecked > 0 ? ` Die Analyse ist abgeschlossen; ${inProgress + unchecked} Aussagen bleiben als noch nicht geprüft vermerkt.` : '';
+      return out('nicht_bewertbar', `Nur ${decided} von ${facts} erfassten Tatsachenbehauptungen sind entschieden; nötig sind mindestens ${RULES.minDecided} und mindestens ${Math.round(RULES.minShare * 100)} %.${rest}`);
     }
     const hours = Number(durationSeconds) > 0 ? Number(durationSeconds) / 3600 : null;
     if (hours && facts / hours < RULES.minPerHour) {
