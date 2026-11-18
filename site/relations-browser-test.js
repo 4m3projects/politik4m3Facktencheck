@@ -103,13 +103,14 @@ async function step(name, fn) {
     return page.innerText('#inhalt');
   };
 
-  await step('Echte Daten: alle Videos ohne video.json erscheinen normal auf der Startseite', async () => {
+  await step('Echte Daten: Originale und Videos ohne video.json erscheinen normal auf der Startseite, die Reaktion nicht', async () => {
     const t = await open(urlOf(real), '#/');
     assert.match(t, /Geprüfte Videos/);
     assert.doesNotMatch(t, /Noch nicht eingeordnet/);
     const cards = await page.$$eval('.cards a.card', a => a.map(x => x.getAttribute('href')).sort());
-    assert.deepEqual(cards, ['#/video/mdo14671BPE', '#/video/mlxFA9T88I0']);
-    assert.match(t, /2 Videos/);
+    /* GbhI-p_ycJE ist als Reaktion auf bPXMY7Reeek eingeordnet und erscheint nur auf dessen Seite. */
+    assert.deepEqual(cards, ['#/video/bPXMY7Reeek', '#/video/mdo14671BPE', '#/video/mlxFA9T88I0']);
+    assert.match(t, /3 Videos/);
   });
 
   await step('Echte Daten: Detailseite ohne Rollenangabe zeigt keinen Reaktionsreiter, Direktlinks funktionieren', async () => {
@@ -251,7 +252,7 @@ async function step(name, fn) {
     await page.click('[data-thumbs="ja"]');
     await page.waitForSelector('img.card-thumb');
     const srcs = await page.$$eval('img.card-thumb', x => x.map(i => i.getAttribute('src')));
-    assert.deepEqual(srcs.sort(), ['https://i.ytimg.com/vi/mdo14671BPE/mqdefault.jpg', 'https://i.ytimg.com/vi/mlxFA9T88I0/mqdefault.jpg']);
+    assert.deepEqual(srcs.sort(), ['https://i.ytimg.com/vi/bPXMY7Reeek/mqdefault.jpg', 'https://i.ytimg.com/vi/mdo14671BPE/mqdefault.jpg', 'https://i.ytimg.com/vi/mlxFA9T88I0/mqdefault.jpg']);
     assert.equal(await page.$('.thumb-ask'), null, 'Abfrage nach Wahl verschwunden');
     assert.match(await page.innerText('#thumb-setting'), /an/);
     /* Fixture-Aufbau läuft auf eigenem Port und damit eigener Herkunft: Zustimmung dort erneut geben. */
