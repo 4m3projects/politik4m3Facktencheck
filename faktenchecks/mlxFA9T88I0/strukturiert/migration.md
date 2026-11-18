@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Teilbestand: 99 von 99 ursprünglichen Prüfpunkten übertragen, 0 nicht migriert. Kapitel 1 bis 10 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Abdeckung: Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
 Herkunftscommit: bb6e666961baf719d02671a7ad2f439086f3c530
 
@@ -38,12 +38,12 @@ Vier Aussagen: Registrierungsabstand und späterer Erwerb von whisky.de sind get
 | mlxFA9T88I0-A0003 | Abgeschlossen | Belegt | Übernommen: Erwerb und Kaufpreis von whisky.com sowie die dazugehörige Firmenmitteilung. Die alte Sammelbewertung teilweise belegt wird ausdrücklich zu einem engeren Einzelbefund differenziert. |
 | mlxFA9T88I0-A0004 | Offen | keine Endbewertung | Übernommen: die ungefähre Rangposition; zugeordnet: die bisherigen Einschränkungen zu Rangdefinition und Stichtag. |
 | mlxFA9T88I0-A0120 | Offen | keine Endbewertung | A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt. |
-| mlxFA9T88I0-A0121 | In Bearbeitung | keine Endbewertung | A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt. |
+| mlxFA9T88I0-A0121 | Offen | keine Endbewertung | A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt. |
 | mlxFA9T88I0-A0122 | Offen | keine Endbewertung | A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt. |
 | mlxFA9T88I0-A0123 | Abgeschlossen | Teilweise belegt | A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt. |
 | mlxFA9T88I0-A0124 | Offen | keine Endbewertung | A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0001: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+Bewertungsuebergang mlxFA9T88I0-A0001: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0002: Aktualisierung Kapitel 3: bisher Offen ohne eigenen Sachbeleg; nun Teilweise belegt aufgrund neu gelesener Firmenchronik und Lokalporträt. Frühere Entscheidung und vollständiger Altpunkt bleiben in Git-Historie beziehungsweise Herkunft erhalten.
@@ -52,22 +52,22 @@ Bewertungsuebergang mlxFA9T88I0-A0002: Aktualisierung Kapitel 3: bisher Offen oh
 Bewertungsuebergang mlxFA9T88I0-A0003: Die neue Einzelbewertung wird aus der bisherigen Begründung abgeleitet. Die historische Sammelbewertung bleibt im Herkunftstext erhalten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0004: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+Bewertungsuebergang mlxFA9T88I0-A0004: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0120: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0120: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0121: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0121: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0122: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0122: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0123: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0124: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0124: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
 ## C06-P09
@@ -99,22 +99,22 @@ Vier Aussagen: Die historische Renditebehauptung bleibt als eine modal formulier
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0005 | In Bearbeitung | keine Endbewertung | Übernommen: Renditespanne, fünfjährige Rückschau und die Anlagebeispiele als Kontext; erhalten: sämtliche bisherigen MSCI-Zahlen und Einschränkungen im Herkunftstext. Eine pauschale Irreführend-Bewertung wird nicht auf die unpräzise Modalbehauptung übertragen. |
-| mlxFA9T88I0-A0006 | Offen | keine Endbewertung | Übernommen: die Maschineninvestitionsbehauptung; zugeordnet: die bisher ausdrücklich nicht abgeschlossene Investitionsprüfung. |
-| mlxFA9T88I0-A0007 | In Bearbeitung | keine Endbewertung | Übernommen: Beginn und Stagnationsbehauptung; zugeordnet: die bisher offene längerfristige Produktivitätsprüfung. |
-| mlxFA9T88I0-A0008 | Offen | keine Endbewertung | Übernommen: die spätere Rückgangsbehauptung; erhalten: Destatis-Zahl, deren begrenzte Aussagekraft und Revisionsvorbehalt im Herkunftstext. Die überstarke Gegenüberstellung mit einem durchgehenden Rückgang wird nicht als Einzelurteil übernommen. |
+| mlxFA9T88I0-A0005 | Offen | keine Endbewertung | Übernommen: Renditespanne, fünfjährige Rückschau und die Anlagebeispiele als Kontext; erhalten: sämtliche bisherigen MSCI-Zahlen und Einschränkungen im Herkunftstext. Eine pauschale Irreführend-Bewertung wird nicht auf die unpräzise Modalbehauptung übertragen. |
+| mlxFA9T88I0-A0006 | Abgeschlossen | Irreführend / Kontext fehlt | Übernommen: die Maschineninvestitionsbehauptung; zugeordnet: die bisher ausdrücklich nicht abgeschlossene Investitionsprüfung. |
+| mlxFA9T88I0-A0007 | Abgeschlossen | Teilweise belegt | Übernommen: Beginn und Stagnationsbehauptung; zugeordnet: die bisher offene längerfristige Produktivitätsprüfung. |
+| mlxFA9T88I0-A0008 | Abgeschlossen | Belegt | Übernommen: die spätere Rückgangsbehauptung; erhalten: Destatis-Zahl, deren begrenzte Aussagekraft und Revisionsvorbehalt im Herkunftstext. Die überstarke Gegenüberstellung mit einem durchgehenden Rückgang wird nicht als Einzelurteil übernommen. |
 | mlxFA9T88I0-A0292 | Abgeschlossen | Meinung / Prognose | Bestehende Aussagen A0005–A0008 bleiben unverändert; zusätzlich nur die Deutung zum Konsumverhalten Vermögender. |
 
-Bewertungsuebergang mlxFA9T88I0-A0005: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+Bewertungsuebergang mlxFA9T88I0-A0005: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0006: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+Bewertungsuebergang mlxFA9T88I0-A0006: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Irreführend / Kontext fehlt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0007: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+Bewertungsuebergang mlxFA9T88I0-A0007: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0008: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+Bewertungsuebergang mlxFA9T88I0-A0008: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 
 Bewertungsuebergang mlxFA9T88I0-A0292: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -186,17 +186,17 @@ Getrennt werden Arbeitsmarkttrend (A0011), Leistungsanspruch für Wohnen/Heizen 
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0011 | In Bearbeitung | keine Endbewertung | Arbeitsmarkttrend aus C01-P01 getrennt von Leistungsanspruch und individuellen Erwerbsanreizen geprüft. |
-| mlxFA9T88I0-A0012 | In Bearbeitung | keine Endbewertung | Die in der Anreizargumentation enthaltene Leistungsannahme separat ausgewiesen; Wohn- und Heizkosten bleiben ein zusammenhängender Prüfgegenstand. |
-| mlxFA9T88I0-A0013 | In Bearbeitung | keine Endbewertung | Die mögliche Anreizwirkung wird weder mit der Existenz von Sozialleistungen gleichgesetzt noch als pauschale Überlegenheit von Nichtarbeit bewertet. |
+| mlxFA9T88I0-A0011 | Abgeschlossen | Belegt | Arbeitsmarkttrend aus C01-P01 getrennt von Leistungsanspruch und individuellen Erwerbsanreizen geprüft. |
+| mlxFA9T88I0-A0012 | Offen | keine Endbewertung | Die in der Anreizargumentation enthaltene Leistungsannahme separat ausgewiesen; Wohn- und Heizkosten bleiben ein zusammenhängender Prüfgegenstand. |
+| mlxFA9T88I0-A0013 | Offen | keine Endbewertung | Die mögliche Anreizwirkung wird weder mit der Existenz von Sozialleistungen gleichgesetzt noch als pauschale Überlegenheit von Nichtarbeit bewertet. |
 
-Bewertungsuebergang mlxFA9T88I0-A0011: Nach redaktioneller Kontextprüfung von Abgeschlossen / Belegt auf In Bearbeitung / null geändert. Der nachgewiesene Augustvergleich bleibt Teilbefund; die weiter gefasste Originalbehauptung ist damit noch nicht abschließend geprüft.
-
-
-Bewertungsuebergang mlxFA9T88I0-A0012: Nach Kontextprüfung von Abgeschlossen / Irreführend / Kontext fehlt auf In Bearbeitung / null geändert. Die gesetzliche Einordnung bleibt erhalten; die zuvor angenommene pauschale Auslegung wird nicht als gesichert behandelt.
+Bewertungsuebergang mlxFA9T88I0-A0011: Nach redaktioneller Kontextprüfung von Abgeschlossen / Belegt auf In Bearbeitung / null geändert. Der nachgewiesene Augustvergleich bleibt Teilbefund; die weiter gefasste Originalbehauptung ist damit noch nicht abschließend geprüft. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0013: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0012: Nach Kontextprüfung von Abgeschlossen / Irreführend / Kontext fehlt auf In Bearbeitung / null geändert. Die gesetzliche Einordnung bleibt erhalten; die zuvor angenommene pauschale Auslegung wird nicht als gesichert behandelt. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0013: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C01-P02
@@ -227,12 +227,12 @@ Getrennt werden die amtlich prüfbare Fortzugszahl für 2025 (A0014) und die meh
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0014 | Abgeschlossen | Belegt | Jahreszahl 2025 aus C01-P02 als eigener, zahlenmäßig prüfbarer Teil; kein automatisches Erben der alten Sammelbewertung. |
-| mlxFA9T88I0-A0015 | In Bearbeitung | keine Endbewertung | Jährliche Verallgemeinerung von der Jahreszahl getrennt; keine implizite Behauptung eines exakt konstanten Wertes oder einer bestimmten Auswanderungsmotivation ergänzt. |
+| mlxFA9T88I0-A0015 | Offen | keine Endbewertung | Jährliche Verallgemeinerung von der Jahreszahl getrennt; keine implizite Behauptung eines exakt konstanten Wertes oder einer bestimmten Auswanderungsmotivation ergänzt. |
 
 Bewertungsuebergang mlxFA9T88I0-A0014: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0015: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0015: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C01-P03
@@ -263,13 +263,13 @@ Die Produktivitätsstagnation ist bereits A0007 aus C06-P09 und wird nur um Vork
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0016 | Offen | keine Endbewertung | Baustellenbeobachtung separat; Produktivitätsstagnation desselben Altprüfpunkts wird als O0019 der vorhandenen A0007 zugerechnet, nicht erneut angelegt. |
-| mlxFA9T88I0-A0017 | In Bearbeitung | keine Endbewertung | Behauptete Agenturankündigung von der folgenden eigenen Krisenprognose getrennt. Neue Recherche liefert einen Teilbefund, noch kein abschließendes Urteil. |
+| mlxFA9T88I0-A0017 | Abgeschlossen | Irreführend / Kontext fehlt | Behauptete Agenturankündigung von der folgenden eigenen Krisenprognose getrennt. Neue Recherche liefert einen Teilbefund, noch kein abschließendes Urteil. |
 | mlxFA9T88I0-A0018 | Abgeschlossen | Meinung / Prognose | Zeitprognose separat klassifiziert; diese Einordnung ist keine faktische Verifikation und keine Übernahme des gemischten Alturteils. |
 
-Bewertungsuebergang mlxFA9T88I0-A0016: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0016: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0017: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0017: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Irreführend / Kontext fehlt).
 
 
 Bewertungsuebergang mlxFA9T88I0-A0018: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten.
@@ -313,10 +313,10 @@ Bewertungsuebergang mlxFA9T88I0-A0019: Neue Einzelentscheidung in Status, Begrü
 Bewertungsuebergang mlxFA9T88I0-A0020: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0021: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0021: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0022: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0022: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
 ## C02-P02
@@ -347,12 +347,12 @@ Referenzhash der Kapiteldatei: e38538f4babd3086eff295423c879e7027bbef36bb0cd9836
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0023 | Abgeschlossen | Irreführend / Kontext fehlt | Übungsdauer und behauptete Wirkung bloßer Wiederholung getrennt; die Einschränkung durch Begabung und die motivierende Gesprächsfunktion bleiben berücksichtigt. |
-| mlxFA9T88I0-A0024 | In Bearbeitung | keine Endbewertung | Übungsdauer und behauptete Wirkung bloßer Wiederholung getrennt; die Einschränkung durch Begabung und die motivierende Gesprächsfunktion bleiben berücksichtigt. |
+| mlxFA9T88I0-A0024 | Abgeschlossen | Meinung / Prognose | Übungsdauer und behauptete Wirkung bloßer Wiederholung getrennt; die Einschränkung durch Begabung und die motivierende Gesprächsfunktion bleiben berücksichtigt. |
 
 Bewertungsuebergang mlxFA9T88I0-A0023: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0024: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0024: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): von Tatsachenbehauptung zu Meinung umgestuft.
 
 
 ## C02-P03
@@ -384,27 +384,27 @@ Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter We
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0025 | Offen | keine Endbewertung | Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet. |
 | mlxFA9T88I0-A0026 | Offen | keine Endbewertung | Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet. |
-| mlxFA9T88I0-A0027 | In Bearbeitung | keine Endbewertung | Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet. |
-| mlxFA9T88I0-A0028 | In Bearbeitung | keine Endbewertung | Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet. |
+| mlxFA9T88I0-A0027 | Offen | keine Endbewertung | Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet. |
+| mlxFA9T88I0-A0028 | Offen | keine Endbewertung | Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet. |
 | mlxFA9T88I0-A0029 | Offen | keine Endbewertung | Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet. |
 | mlxFA9T88I0-A0030 | Offen | keine Endbewertung | Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet. |
 
-Bewertungsuebergang mlxFA9T88I0-A0025: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0025: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0026: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0026: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0027: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0027: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0028: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0028: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0029: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0029: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0030: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0030: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 ## C02-P04
@@ -436,7 +436,7 @@ Die selbst berichtete Auswahlpraxis ist kein objektiver Qualitätsbeweis und kei
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0031 | Offen | keine Endbewertung | Die selbst berichtete Auswahlpraxis ist kein objektiver Qualitätsbeweis und keine unabhängig geprüfte vollständige Archivbeschreibung. |
 
-Bewertungsuebergang mlxFA9T88I0-A0031: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0031: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
 ## C02-P05
@@ -466,33 +466,33 @@ Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail un
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0032 | In Bearbeitung | keine Endbewertung | Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten. |
-| mlxFA9T88I0-A0033 | In Bearbeitung | keine Endbewertung | Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten. |
+| mlxFA9T88I0-A0032 | Offen | keine Endbewertung | Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten. |
+| mlxFA9T88I0-A0033 | Offen | keine Endbewertung | Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten. |
 | mlxFA9T88I0-A0034 | Offen | keine Endbewertung | Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten. |
 | mlxFA9T88I0-A0035 | Offen | keine Endbewertung | Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten. |
 | mlxFA9T88I0-A0036 | Offen | keine Endbewertung | Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten. |
 | mlxFA9T88I0-A0037 | Offen | keine Endbewertung | Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten. |
-| mlxFA9T88I0-A0038 | In Bearbeitung | keine Endbewertung | Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten. |
+| mlxFA9T88I0-A0038 | Offen | keine Endbewertung | Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten. |
 
-Bewertungsuebergang mlxFA9T88I0-A0032: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
-
-
-Bewertungsuebergang mlxFA9T88I0-A0033: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0032: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0034: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0033: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0035: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0034: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0036: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0035: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0037: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0036: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0038: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0037: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0038: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
 ## C02-P06
@@ -524,12 +524,12 @@ Allgemeine Community-Strikes getrennt vom persönlichen Fall und von der Auslegu
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0039 | Abgeschlossen | Teilweise belegt | Allgemeine Community-Strikes getrennt vom persönlichen Fall und von der Auslegung der Alkoholregeln. Das Urheberrechtsbeispiel ist eine Rückfrage, keine gesicherte Behauptung gleicher Verfahren. |
-| mlxFA9T88I0-A0040 | In Bearbeitung | keine Endbewertung | Allgemeine Community-Strikes getrennt vom persönlichen Fall und von der Auslegung der Alkoholregeln. Das Urheberrechtsbeispiel ist eine Rückfrage, keine gesicherte Behauptung gleicher Verfahren. |
+| mlxFA9T88I0-A0040 | Offen | keine Endbewertung | Allgemeine Community-Strikes getrennt vom persönlichen Fall und von der Auslegung der Alkoholregeln. Das Urheberrechtsbeispiel ist eine Rückfrage, keine gesicherte Behauptung gleicher Verfahren. |
 
 Bewertungsuebergang mlxFA9T88I0-A0039: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0040: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0040: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C02-P07
@@ -560,16 +560,16 @@ Nicht näher bezeichnete Studienfälle, vermutete automatische Sanktionierung un
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0041 | Offen | keine Endbewertung | Nicht näher bezeichnete Studienfälle, vermutete automatische Sanktionierung und vermutete Wortfilter getrennt. Ein zugespitztes Rückfragebeispiel des Moderators wird nicht als eigene medizinische Behauptung erfasst. |
-| mlxFA9T88I0-A0042 | In Bearbeitung | keine Endbewertung | Nicht näher bezeichnete Studienfälle, vermutete automatische Sanktionierung und vermutete Wortfilter getrennt. Ein zugespitztes Rückfragebeispiel des Moderators wird nicht als eigene medizinische Behauptung erfasst. |
+| mlxFA9T88I0-A0042 | Offen | keine Endbewertung | Nicht näher bezeichnete Studienfälle, vermutete automatische Sanktionierung und vermutete Wortfilter getrennt. Ein zugespitztes Rückfragebeispiel des Moderators wird nicht als eigene medizinische Behauptung erfasst. |
 | mlxFA9T88I0-A0043 | Offen | keine Endbewertung | Nicht näher bezeichnete Studienfälle, vermutete automatische Sanktionierung und vermutete Wortfilter getrennt. Ein zugespitztes Rückfragebeispiel des Moderators wird nicht als eigene medizinische Behauptung erfasst. |
 
-Bewertungsuebergang mlxFA9T88I0-A0041: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0041: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0042: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0042: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0043: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0043: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
 ## C02-P08
@@ -599,21 +599,21 @@ Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkunge
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0044 | In Bearbeitung | keine Endbewertung | Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall. |
-| mlxFA9T88I0-A0045 | In Bearbeitung | keine Endbewertung | Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall. |
+| mlxFA9T88I0-A0044 | Abgeschlossen | Belegt | Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall. |
+| mlxFA9T88I0-A0045 | Offen | keine Endbewertung | Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall. |
 | mlxFA9T88I0-A0046 | Offen | keine Endbewertung | Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall. |
-| mlxFA9T88I0-A0047 | In Bearbeitung | keine Endbewertung | Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall. |
+| mlxFA9T88I0-A0047 | Offen | keine Endbewertung | Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall. |
 
-Bewertungsuebergang mlxFA9T88I0-A0044: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
-
-
-Bewertungsuebergang mlxFA9T88I0-A0045: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0044: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0046: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0045: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0047: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0046: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0047: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
 ## C02-P09
@@ -645,12 +645,12 @@ Politische Bezeichnung als Meinung getrennt von der überprüfbaren Annahme eine
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0048 | Abgeschlossen | Meinung / Prognose | Politische Bezeichnung als Meinung getrennt von der überprüfbaren Annahme einer konkreten gemeinsamen Steuerung durch EU und Unternehmen. |
-| mlxFA9T88I0-A0049 | In Bearbeitung | keine Endbewertung | Politische Bezeichnung als Meinung getrennt von der überprüfbaren Annahme einer konkreten gemeinsamen Steuerung durch EU und Unternehmen. |
+| mlxFA9T88I0-A0049 | Offen | keine Endbewertung | Politische Bezeichnung als Meinung getrennt von der überprüfbaren Annahme einer konkreten gemeinsamen Steuerung durch EU und Unternehmen. |
 
 Bewertungsuebergang mlxFA9T88I0-A0048: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0049: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0049: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
 ## C02-P10
@@ -681,9 +681,9 @@ Referenzhash der Kapiteldatei: e38538f4babd3086eff295423c879e7027bbef36bb0cd9836
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0050 | Abgeschlossen | Belegt | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
-| mlxFA9T88I0-A0051 | In Bearbeitung | keine Endbewertung | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
+| mlxFA9T88I0-A0051 | Abgeschlossen | Belegt | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
 | mlxFA9T88I0-A0052 | Abgeschlossen | Teilweise belegt | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
-| mlxFA9T88I0-A0053 | In Bearbeitung | keine Endbewertung | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
+| mlxFA9T88I0-A0053 | Offen | keine Endbewertung | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
 | mlxFA9T88I0-A0054 | Offen | keine Endbewertung | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
 | mlxFA9T88I0-A0055 | Abgeschlossen | Belegt | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
 | mlxFA9T88I0-A0056 | Abgeschlossen | Meinung / Prognose | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
@@ -691,16 +691,16 @@ Referenzhash der Kapiteldatei: e38538f4babd3086eff295423c879e7027bbef36bb0cd9836
 Bewertungsuebergang mlxFA9T88I0-A0050: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0051: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0051: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 
 Bewertungsuebergang mlxFA9T88I0-A0052: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0053: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0053: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0054: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0054: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0055: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
@@ -739,26 +739,26 @@ Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und A
 | mlxFA9T88I0-A0057 | Offen | keine Endbewertung | Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen. |
 | mlxFA9T88I0-A0058 | Offen | keine Endbewertung | Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen. |
 | mlxFA9T88I0-A0059 | Abgeschlossen | Meinung / Prognose | Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen. |
-| mlxFA9T88I0-A0060 | In Bearbeitung | keine Endbewertung | Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen. |
+| mlxFA9T88I0-A0060 | Offen | keine Endbewertung | Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen. |
 | mlxFA9T88I0-A0061 | Offen | keine Endbewertung | Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen. |
-| mlxFA9T88I0-A0062 | In Bearbeitung | keine Endbewertung | Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen. |
+| mlxFA9T88I0-A0062 | Offen | keine Endbewertung | Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen. |
 
-Bewertungsuebergang mlxFA9T88I0-A0057: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0057: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0058: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0058: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0059: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0060: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0060: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0061: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0061: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0062: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0062: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C02-P12
@@ -789,32 +789,32 @@ Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumverglei
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0063 | Offen | keine Endbewertung | Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt. |
-| mlxFA9T88I0-A0064 | In Bearbeitung | keine Endbewertung | Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt. |
+| mlxFA9T88I0-A0064 | Offen | keine Endbewertung | Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt. |
 | mlxFA9T88I0-A0065 | Offen | keine Endbewertung | Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt. |
 | mlxFA9T88I0-A0066 | Offen | keine Endbewertung | Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt. |
 | mlxFA9T88I0-A0067 | Abgeschlossen | Meinung / Prognose | Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt. |
 | mlxFA9T88I0-A0068 | Offen | keine Endbewertung | Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt. |
 | mlxFA9T88I0-A0069 | Offen | keine Endbewertung | Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0063: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0063: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0064: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0064: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0065: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0065: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0066: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0066: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0067: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0068: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0068: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0069: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0069: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
 ## C02-P13
@@ -845,7 +845,7 @@ Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getren
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0070 | Abgeschlossen | Teilweise belegt | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
-| mlxFA9T88I0-A0071 | In Bearbeitung | keine Endbewertung | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
+| mlxFA9T88I0-A0071 | Offen | keine Endbewertung | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
 | mlxFA9T88I0-A0072 | Abgeschlossen | Teilweise belegt | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
 | mlxFA9T88I0-A0073 | Abgeschlossen | Teilweise belegt | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
 | mlxFA9T88I0-A0074 | Abgeschlossen | Teilweise belegt | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
@@ -853,7 +853,7 @@ Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getren
 Bewertungsuebergang mlxFA9T88I0-A0070: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0071: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0071: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0072: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
@@ -893,13 +893,13 @@ Datenschutzbehauptung und Rabattaktion getrennt. Weder universelle Rechtmäßigk
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0075 | In Bearbeitung | keine Endbewertung | Datenschutzbehauptung und Rabattaktion getrennt. Weder universelle Rechtmäßigkeit noch tatsächlicher Checkout-Rabatt werden aus Werbung abgeleitet. |
+| mlxFA9T88I0-A0075 | Offen | keine Endbewertung | Datenschutzbehauptung und Rabattaktion getrennt. Weder universelle Rechtmäßigkeit noch tatsächlicher Checkout-Rabatt werden aus Werbung abgeleitet. |
 | mlxFA9T88I0-A0076 | Offen | keine Endbewertung | Datenschutzbehauptung und Rabattaktion getrennt. Weder universelle Rechtmäßigkeit noch tatsächlicher Checkout-Rabatt werden aus Werbung abgeleitet. |
 
-Bewertungsuebergang mlxFA9T88I0-A0075: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0075: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0076: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0076: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C03-P01
@@ -932,10 +932,10 @@ Segmentanteil und Anteil interessierter Einwohner getrennt; der begrifflich unkl
 | mlxFA9T88I0-A0077 | Offen | keine Endbewertung | Segmentanteil und Anteil interessierter Einwohner getrennt; der begrifflich unklare Bevölkerungsbezug bleibt erhalten. |
 | mlxFA9T88I0-A0078 | Offen | keine Endbewertung | Segmentanteil und Anteil interessierter Einwohner getrennt; der begrifflich unklare Bevölkerungsbezug bleibt erhalten. |
 
-Bewertungsuebergang mlxFA9T88I0-A0077: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0077: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0078: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0078: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 ## C03-P02
@@ -965,25 +965,25 @@ Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Modera
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0079 | In Bearbeitung | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
+| mlxFA9T88I0-A0079 | Offen | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
 | mlxFA9T88I0-A0080 | Offen | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
 | mlxFA9T88I0-A0081 | Offen | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
 | mlxFA9T88I0-A0082 | Abgeschlossen | Teilweise belegt | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
-| mlxFA9T88I0-A0083 | In Bearbeitung | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
+| mlxFA9T88I0-A0083 | Offen | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
 
-Bewertungsuebergang mlxFA9T88I0-A0079: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
-
-
-Bewertungsuebergang mlxFA9T88I0-A0080: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0079: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0081: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0080: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0081: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0082: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0083: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0083: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 ## C03-P03
@@ -1014,36 +1014,36 @@ Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortiment
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0084 | Abgeschlossen | Teilweise belegt | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
-| mlxFA9T88I0-A0085 | In Bearbeitung | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
+| mlxFA9T88I0-A0085 | Offen | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
 | mlxFA9T88I0-A0086 | Abgeschlossen | Teilweise belegt | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
 | mlxFA9T88I0-A0087 | Offen | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
-| mlxFA9T88I0-A0088 | In Bearbeitung | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
-| mlxFA9T88I0-A0089 | In Bearbeitung | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
+| mlxFA9T88I0-A0088 | Offen | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
+| mlxFA9T88I0-A0089 | Offen | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
 | mlxFA9T88I0-A0090 | Offen | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
 | mlxFA9T88I0-A0091 | Offen | keine Endbewertung | Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert. |
 
 Bewertungsuebergang mlxFA9T88I0-A0084: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0085: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0085: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0086: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0087: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0087: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0088: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0088: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0089: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0089: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0090: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0090: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0091: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0091: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
 ## C03-P04
@@ -1075,7 +1075,7 @@ Lagerfähigkeit, Kennzeichnung und behauptete Entsorgungspflicht getrennt. Minde
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0092 | Abgeschlossen | Teilweise belegt | Lagerfähigkeit, Kennzeichnung und behauptete Entsorgungspflicht getrennt. Mindesthaltbarkeit ist keine Garantie unveränderter Qualität und kein Verbrauchsdatum. |
 | mlxFA9T88I0-A0093 | Abgeschlossen | Irreführend / Kontext fehlt | Lagerfähigkeit, Kennzeichnung und behauptete Entsorgungspflicht getrennt. Mindesthaltbarkeit ist keine Garantie unveränderter Qualität und kein Verbrauchsdatum. |
-| mlxFA9T88I0-A0094 | In Bearbeitung | keine Endbewertung | Lagerfähigkeit, Kennzeichnung und behauptete Entsorgungspflicht getrennt. Mindesthaltbarkeit ist keine Garantie unveränderter Qualität und kein Verbrauchsdatum. |
+| mlxFA9T88I0-A0094 | Offen | keine Endbewertung | Lagerfähigkeit, Kennzeichnung und behauptete Entsorgungspflicht getrennt. Mindesthaltbarkeit ist keine Garantie unveränderter Qualität und kein Verbrauchsdatum. |
 
 Bewertungsuebergang mlxFA9T88I0-A0092: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
@@ -1083,7 +1083,7 @@ Bewertungsuebergang mlxFA9T88I0-A0092: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0093: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0094: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0094: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C03-P05
@@ -1117,12 +1117,12 @@ Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl get
 | mlxFA9T88I0-A0096 | Abgeschlossen | Teilweise belegt | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
 | mlxFA9T88I0-A0097 | Abgeschlossen | Teilweise belegt | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
 | mlxFA9T88I0-A0098 | Offen | keine Endbewertung | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
-| mlxFA9T88I0-A0099 | In Bearbeitung | keine Endbewertung | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
+| mlxFA9T88I0-A0099 | Offen | keine Endbewertung | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
 | mlxFA9T88I0-A0100 | Abgeschlossen | Teilweise belegt | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
 | mlxFA9T88I0-A0101 | Offen | keine Endbewertung | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
 | mlxFA9T88I0-A0102 | Offen | keine Endbewertung | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
 | mlxFA9T88I0-A0103 | Abgeschlossen | Teilweise belegt | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
-| mlxFA9T88I0-A0104 | In Bearbeitung | keine Endbewertung | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
+| mlxFA9T88I0-A0104 | Offen | keine Endbewertung | Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet. |
 
 Bewertungsuebergang mlxFA9T88I0-A0095: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
@@ -1133,25 +1133,25 @@ Bewertungsuebergang mlxFA9T88I0-A0096: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0097: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0098: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0098: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0099: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0099: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0100: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0101: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0101: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0102: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0102: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0103: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0104: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0104: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 ## C03-P06
@@ -1181,65 +1181,65 @@ Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherhei
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0105 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0105 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
 | mlxFA9T88I0-A0106 | Abgeschlossen | Teilweise belegt | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
-| mlxFA9T88I0-A0107 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0107 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
 | mlxFA9T88I0-A0108 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
 | mlxFA9T88I0-A0109 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
 | mlxFA9T88I0-A0110 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
-| mlxFA9T88I0-A0111 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0111 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
 | mlxFA9T88I0-A0112 | Abgeschlossen | Belegt | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
-| mlxFA9T88I0-A0113 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
-| mlxFA9T88I0-A0114 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
-| mlxFA9T88I0-A0115 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0113 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0114 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0115 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
 | mlxFA9T88I0-A0116 | Abgeschlossen | Belegt | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
-| mlxFA9T88I0-A0117 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0117 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
 | mlxFA9T88I0-A0118 | Abgeschlossen | Teilweise belegt | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
-| mlxFA9T88I0-A0119 | In Bearbeitung | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
+| mlxFA9T88I0-A0119 | Offen | keine Endbewertung | Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System. |
 
-Bewertungsuebergang mlxFA9T88I0-A0105: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0105: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0106: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0107: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0107: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0108: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0108: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0109: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0109: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0110: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0110: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0111: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0111: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0112: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0113: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0113: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0114: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0114: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0115: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0115: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0116: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0117: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0117: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0118: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0119: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0119: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 ## C03-P08
@@ -1270,41 +1270,41 @@ Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung un
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0125 | In Bearbeitung | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
-| mlxFA9T88I0-A0126 | In Bearbeitung | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+| mlxFA9T88I0-A0125 | Offen | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+| mlxFA9T88I0-A0126 | Offen | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
 | mlxFA9T88I0-A0127 | Offen | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
 | mlxFA9T88I0-A0128 | Abgeschlossen | Teilweise belegt | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
-| mlxFA9T88I0-A0129 | Offen | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+| mlxFA9T88I0-A0129 | Abgeschlossen | Meinung / Prognose | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
 | mlxFA9T88I0-A0130 | Offen | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
-| mlxFA9T88I0-A0131 | Offen | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+| mlxFA9T88I0-A0131 | Abgeschlossen | Meinung / Prognose | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
 | mlxFA9T88I0-A0132 | Abgeschlossen | Teilweise belegt | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
-| mlxFA9T88I0-A0133 | In Bearbeitung | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
+| mlxFA9T88I0-A0133 | Offen | keine Endbewertung | Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv. |
 
-Bewertungsuebergang mlxFA9T88I0-A0125: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
-
-
-Bewertungsuebergang mlxFA9T88I0-A0126: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0125: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0127: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0126: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0127: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0128: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0129: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0129: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): von Tatsachenbehauptung zu Meinung umgestuft.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0130: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0130: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0131: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0131: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): von Tatsachenbehauptung zu Meinung umgestuft.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0132: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0133: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0133: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 ## C03-P09
@@ -1335,23 +1335,23 @@ Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherc
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0134 | In Bearbeitung | keine Endbewertung | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
-| mlxFA9T88I0-A0135 | In Bearbeitung | keine Endbewertung | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
-| mlxFA9T88I0-A0136 | In Bearbeitung | keine Endbewertung | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
+| mlxFA9T88I0-A0134 | Offen | keine Endbewertung | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
+| mlxFA9T88I0-A0135 | Offen | keine Endbewertung | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
+| mlxFA9T88I0-A0136 | Offen | keine Endbewertung | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
 | mlxFA9T88I0-A0137 | Offen | keine Endbewertung | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
 | mlxFA9T88I0-A0138 | Abgeschlossen | Teilweise belegt | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
 | mlxFA9T88I0-A0139 | Abgeschlossen | Meinung / Prognose | Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet. |
 
-Bewertungsuebergang mlxFA9T88I0-A0134: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0134: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0135: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0135: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0136: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0136: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0137: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0137: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0138: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -1388,28 +1388,28 @@ Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbe
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0140 | Abgeschlossen | Irreführend / Kontext fehlt | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
-| mlxFA9T88I0-A0141 | In Bearbeitung | keine Endbewertung | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
+| mlxFA9T88I0-A0141 | Offen | keine Endbewertung | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
 | mlxFA9T88I0-A0142 | Abgeschlossen | Irreführend / Kontext fehlt | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
-| mlxFA9T88I0-A0143 | In Bearbeitung | keine Endbewertung | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
-| mlxFA9T88I0-A0144 | In Bearbeitung | keine Endbewertung | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
-| mlxFA9T88I0-A0145 | In Bearbeitung | keine Endbewertung | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
+| mlxFA9T88I0-A0143 | Offen | keine Endbewertung | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
+| mlxFA9T88I0-A0144 | Offen | keine Endbewertung | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
+| mlxFA9T88I0-A0145 | Offen | keine Endbewertung | Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel. |
 
 Bewertungsuebergang mlxFA9T88I0-A0140: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0141: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0141: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0142: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0143: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0143: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0144: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0144: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0145: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0145: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
 ## C03-P11
@@ -1446,10 +1446,10 @@ Historische Brandbehauptung von behauptetem Fassverbotsvorhaben und dessen verme
 Bewertungsuebergang mlxFA9T88I0-A0146: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0147: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0147: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0148: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0148: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
 ## C03-P12
@@ -1480,45 +1480,45 @@ Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Pos
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0149 | Offen | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
-| mlxFA9T88I0-A0150 | In Bearbeitung | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
-| mlxFA9T88I0-A0151 | In Bearbeitung | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+| mlxFA9T88I0-A0150 | Offen | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+| mlxFA9T88I0-A0151 | Offen | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
 | mlxFA9T88I0-A0152 | Offen | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
 | mlxFA9T88I0-A0153 | Abgeschlossen | Teilweise belegt | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
 | mlxFA9T88I0-A0154 | Offen | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
 | mlxFA9T88I0-A0155 | Abgeschlossen | Teilweise belegt | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
 | mlxFA9T88I0-A0156 | Offen | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
 | mlxFA9T88I0-A0157 | Abgeschlossen | Belegt | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
-| mlxFA9T88I0-A0158 | In Bearbeitung | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
+| mlxFA9T88I0-A0158 | Offen | keine Endbewertung | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
 | mlxFA9T88I0-A0159 | Abgeschlossen | Meinung / Prognose | Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen. |
 
-Bewertungsuebergang mlxFA9T88I0-A0149: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0149: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0150: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0150: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0151: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0151: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0152: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0152: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0153: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0154: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0154: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0155: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0156: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0156: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0157: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0158: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0158: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0159: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -1553,24 +1553,24 @@ Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und v
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0160 | Offen | keine Endbewertung | Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt. |
 | mlxFA9T88I0-A0161 | Offen | keine Endbewertung | Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt. |
-| mlxFA9T88I0-A0162 | In Bearbeitung | keine Endbewertung | Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt. |
+| mlxFA9T88I0-A0162 | Offen | keine Endbewertung | Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt. |
 | mlxFA9T88I0-A0163 | Offen | keine Endbewertung | Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt. |
 | mlxFA9T88I0-A0164 | Offen | keine Endbewertung | Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt. |
 | mlxFA9T88I0-A0165 | Abgeschlossen | Teilweise belegt | Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0160: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0160: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0161: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0161: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0162: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0162: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0163: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0163: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0164: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0164: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0165: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -1603,24 +1603,24 @@ Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeite
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0166 | In Bearbeitung | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
-| mlxFA9T88I0-A0167 | In Bearbeitung | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
-| mlxFA9T88I0-A0168 | In Bearbeitung | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0166 | Offen | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0167 | Offen | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0168 | Offen | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
 | mlxFA9T88I0-A0169 | Abgeschlossen | Meinung / Prognose | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
 | mlxFA9T88I0-A0170 | Abgeschlossen | Meinung / Prognose | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
 | mlxFA9T88I0-A0171 | Abgeschlossen | Teilweise belegt | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
-| mlxFA9T88I0-A0172 | In Bearbeitung | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0172 | Offen | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
 | mlxFA9T88I0-A0173 | Offen | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
 | mlxFA9T88I0-A0174 | Offen | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
-| mlxFA9T88I0-A0175 | In Bearbeitung | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
+| mlxFA9T88I0-A0175 | Offen | keine Endbewertung | Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben. |
 
-Bewertungsuebergang mlxFA9T88I0-A0166: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
-
-
-Bewertungsuebergang mlxFA9T88I0-A0167: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0166: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0168: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0167: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+
+
+Bewertungsuebergang mlxFA9T88I0-A0168: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0169: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -1632,16 +1632,16 @@ Bewertungsuebergang mlxFA9T88I0-A0170: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0171: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0172: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0172: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0173: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0173: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0174: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0174: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0175: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0175: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 
 ## C04-P01
@@ -1720,7 +1720,7 @@ Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichver
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0184 | Abgeschlossen | Meinung / Prognose | Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt. |
-| mlxFA9T88I0-A0185 | Offen | keine Endbewertung | Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt. |
+| mlxFA9T88I0-A0185 | Abgeschlossen | Teilweise belegt | Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt. |
 | mlxFA9T88I0-A0186 | Offen | keine Endbewertung | Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt. |
 | mlxFA9T88I0-A0187 | Abgeschlossen | Meinung / Prognose | Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt. |
 | mlxFA9T88I0-A0188 | Abgeschlossen | Meinung / Prognose | Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt. |
@@ -1728,7 +1728,7 @@ Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichver
 Bewertungsuebergang mlxFA9T88I0-A0184: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0185: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0185: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 
 Bewertungsuebergang mlxFA9T88I0-A0186: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -1767,17 +1767,17 @@ Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzel
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0189 | Offen | keine Endbewertung | Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt. |
+| mlxFA9T88I0-A0189 | Abgeschlossen | Teilweise belegt | Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt. |
 | mlxFA9T88I0-A0190 | Offen | keine Endbewertung | Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt. |
 | mlxFA9T88I0-A0191 | Offen | keine Endbewertung | Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0189: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0189: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0190: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0190: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0191: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0191: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C04-P04
@@ -1811,7 +1811,7 @@ Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktua
 | mlxFA9T88I0-A0193 | Offen | keine Endbewertung | Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten. |
 | mlxFA9T88I0-A0194 | Offen | keine Endbewertung | Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten. |
 | mlxFA9T88I0-A0195 | Abgeschlossen | Meinung / Prognose | Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten. |
-| mlxFA9T88I0-A0196 | In Bearbeitung | keine Endbewertung | Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten. |
+| mlxFA9T88I0-A0196 | Offen | keine Endbewertung | Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten. |
 | mlxFA9T88I0-A0197 | Abgeschlossen | Teilweise belegt | Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten. |
 
 Bewertungsuebergang mlxFA9T88I0-A0192: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -1826,7 +1826,7 @@ Bewertungsuebergang mlxFA9T88I0-A0194: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0195: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0196: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0196: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0197: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -1862,23 +1862,23 @@ Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Sch
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0198 | Offen | keine Endbewertung | Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs. |
 | mlxFA9T88I0-A0199 | Offen | keine Endbewertung | Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs. |
-| mlxFA9T88I0-A0200 | Offen | keine Endbewertung | Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs. |
-| mlxFA9T88I0-A0201 | In Bearbeitung | keine Endbewertung | Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs. |
+| mlxFA9T88I0-A0200 | Abgeschlossen | Belegt | Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs. |
+| mlxFA9T88I0-A0201 | Offen | keine Endbewertung | Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs. |
 | mlxFA9T88I0-A0202 | Offen | keine Endbewertung | Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs. |
 
-Bewertungsuebergang mlxFA9T88I0-A0198: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0198: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0199: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0199: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0200: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0200: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0201: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0201: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0202: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0202: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C04-P06
@@ -1990,7 +1990,7 @@ Bewertungsuebergang mlxFA9T88I0-A0207: Zunächst Offen; in der Kapitel-7-Prüfun
 Bewertungsuebergang mlxFA9T88I0-A0208: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0209: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0209: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C04-P09
@@ -2027,22 +2027,22 @@ Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verant
 | mlxFA9T88I0-A0214 | Offen | keine Endbewertung | Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt. |
 | mlxFA9T88I0-A0215 | Offen | keine Endbewertung | Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0210: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0210: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0211: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0212: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0212: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0213: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0214: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0214: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0215: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0215: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
 ## C04-P10
@@ -2308,29 +2308,29 @@ Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermi
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0232 | Offen | keine Endbewertung | Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung. |
-| mlxFA9T88I0-A0233 | In Bearbeitung | keine Endbewertung | Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung. |
-| mlxFA9T88I0-A0234 | In Bearbeitung | keine Endbewertung | Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung. |
-| mlxFA9T88I0-A0235 | Offen | keine Endbewertung | Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung. |
+| mlxFA9T88I0-A0233 | Offen | keine Endbewertung | Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung. |
+| mlxFA9T88I0-A0234 | Offen | keine Endbewertung | Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung. |
+| mlxFA9T88I0-A0235 | Abgeschlossen | Belegt | Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung. |
 | mlxFA9T88I0-A0236 | Offen | keine Endbewertung | Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung. |
 | mlxFA9T88I0-A0237 | Offen | keine Endbewertung | Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung. |
 | mlxFA9T88I0-A0238 | Offen | keine Endbewertung | Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung. |
 
-Bewertungsuebergang mlxFA9T88I0-A0232: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0232: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0233: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0233: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0234: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0234: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0235: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0235: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 
 Bewertungsuebergang mlxFA9T88I0-A0236: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0237: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0237: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0238: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -2365,7 +2365,7 @@ Schuldenquoten je Land getrennt und am selben Maßstab geprüft; die politische 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0239 | Abgeschlossen | Belegt | Schuldenquoten je Land getrennt und am selben Maßstab geprüft; die politische Folgerung einer deutschen Reserve als Wertung geführt. |
-| mlxFA9T88I0-A0240 | Offen | keine Endbewertung | Schuldenquoten je Land getrennt und am selben Maßstab geprüft; die politische Folgerung einer deutschen Reserve als Wertung geführt. |
+| mlxFA9T88I0-A0240 | Abgeschlossen | Widerlegt | Schuldenquoten je Land getrennt und am selben Maßstab geprüft; die politische Folgerung einer deutschen Reserve als Wertung geführt. |
 | mlxFA9T88I0-A0241 | Abgeschlossen | Teilweise belegt | Schuldenquoten je Land getrennt und am selben Maßstab geprüft; die politische Folgerung einer deutschen Reserve als Wertung geführt. |
 | mlxFA9T88I0-A0242 | Abgeschlossen | Teilweise belegt | Schuldenquoten je Land getrennt und am selben Maßstab geprüft; die politische Folgerung einer deutschen Reserve als Wertung geführt. |
 | mlxFA9T88I0-A0243 | Abgeschlossen | Meinung / Prognose | Schuldenquoten je Land getrennt und am selben Maßstab geprüft; die politische Folgerung einer deutschen Reserve als Wertung geführt. |
@@ -2373,7 +2373,7 @@ Schuldenquoten je Land getrennt und am selben Maßstab geprüft; die politische 
 Bewertungsuebergang mlxFA9T88I0-A0239: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0240: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0240: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Widerlegt).
 
 
 Bewertungsuebergang mlxFA9T88I0-A0241: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -2414,17 +2414,17 @@ USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele g
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0244 | Offen | keine Endbewertung | USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele getrennt. |
-| mlxFA9T88I0-A0245 | In Bearbeitung | keine Endbewertung | USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele getrennt. |
+| mlxFA9T88I0-A0245 | Offen | keine Endbewertung | USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele getrennt. |
 | mlxFA9T88I0-A0246 | Offen | keine Endbewertung | USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele getrennt. |
 | mlxFA9T88I0-A0247 | Offen | keine Endbewertung | USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0244: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0244: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0245: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0245: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0246: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0246: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0247: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -2464,7 +2464,7 @@ Bankbilanzwirkung, Finanzierungsstruktur USA/Europa, Pandemieprogramm, Inflation
 | mlxFA9T88I0-A0251 | Abgeschlossen | Meinung / Prognose | Bankbilanzwirkung, Finanzierungsstruktur USA/Europa, Pandemieprogramm, Inflationsstand und Prognose getrennt. |
 | mlxFA9T88I0-A0252 | Abgeschlossen | Teilweise belegt | Bankbilanzwirkung, Finanzierungsstruktur USA/Europa, Pandemieprogramm, Inflationsstand und Prognose getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0248: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0248: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0249: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -2514,10 +2514,10 @@ Geldmengenprognose, Staatsinsolvenz (Behauptung des Moderators und Zurückweisun
 Bewertungsuebergang mlxFA9T88I0-A0253: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0254: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0254: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (im Gespräch sofort zurückgewiesene Vermutung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0255: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0255: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C05-P10
@@ -2550,7 +2550,7 @@ Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkom
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0256 | Abgeschlossen | Belegt | Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt. |
 | mlxFA9T88I0-A0257 | Abgeschlossen | Teilweise belegt | Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt. |
-| mlxFA9T88I0-A0258 | In Bearbeitung | keine Endbewertung | Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt. |
+| mlxFA9T88I0-A0258 | Offen | keine Endbewertung | Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt. |
 | mlxFA9T88I0-A0259 | Offen | keine Endbewertung | Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt. |
 
 Bewertungsuebergang mlxFA9T88I0-A0256: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -2559,10 +2559,10 @@ Bewertungsuebergang mlxFA9T88I0-A0256: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0257: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0258: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0258: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0259: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0259: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C05-P11
@@ -2596,7 +2596,7 @@ Tankrabatt, Krankenkassenpaket, Beitragsbemessungsgrenze und allgemeine Entlastu
 | mlxFA9T88I0-A0260 | Abgeschlossen | Teilweise belegt | Tankrabatt, Krankenkassenpaket, Beitragsbemessungsgrenze und allgemeine Entlastungswertung getrennt. |
 | mlxFA9T88I0-A0261 | Abgeschlossen | Irreführend / Kontext fehlt | Tankrabatt, Krankenkassenpaket, Beitragsbemessungsgrenze und allgemeine Entlastungswertung getrennt. |
 | mlxFA9T88I0-A0262 | Abgeschlossen | Meinung / Prognose | Tankrabatt, Krankenkassenpaket, Beitragsbemessungsgrenze und allgemeine Entlastungswertung getrennt. |
-| mlxFA9T88I0-A0263 | In Bearbeitung | keine Endbewertung | Tankrabatt, Krankenkassenpaket, Beitragsbemessungsgrenze und allgemeine Entlastungswertung getrennt. |
+| mlxFA9T88I0-A0263 | Abgeschlossen | Belegt | Tankrabatt, Krankenkassenpaket, Beitragsbemessungsgrenze und allgemeine Entlastungswertung getrennt. |
 
 Bewertungsuebergang mlxFA9T88I0-A0260: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
@@ -2607,7 +2607,7 @@ Bewertungsuebergang mlxFA9T88I0-A0261: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0262: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0263: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0263: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 
 ## C05-P12
@@ -2642,21 +2642,21 @@ Frankreich-Prognose, Griechenlandrettung, Lastenverteilung, Sparforderung, Weima
 | mlxFA9T88I0-A0265 | Offen | keine Endbewertung | Frankreich-Prognose, Griechenlandrettung, Lastenverteilung, Sparforderung, Weimarer Personalabbau, Pensionen und Zeitrahmen (Vorkommen von A0018) getrennt. |
 | mlxFA9T88I0-A0266 | Abgeschlossen | Meinung / Prognose | Frankreich-Prognose, Griechenlandrettung, Lastenverteilung, Sparforderung, Weimarer Personalabbau, Pensionen und Zeitrahmen (Vorkommen von A0018) getrennt. |
 | mlxFA9T88I0-A0267 | Offen | keine Endbewertung | Frankreich-Prognose, Griechenlandrettung, Lastenverteilung, Sparforderung, Weimarer Personalabbau, Pensionen und Zeitrahmen (Vorkommen von A0018) getrennt. |
-| mlxFA9T88I0-A0268 | Offen | keine Endbewertung | Frankreich-Prognose, Griechenlandrettung, Lastenverteilung, Sparforderung, Weimarer Personalabbau, Pensionen und Zeitrahmen (Vorkommen von A0018) getrennt. |
+| mlxFA9T88I0-A0268 | Abgeschlossen | Teilweise belegt | Frankreich-Prognose, Griechenlandrettung, Lastenverteilung, Sparforderung, Weimarer Personalabbau, Pensionen und Zeitrahmen (Vorkommen von A0018) getrennt. |
 
 Bewertungsuebergang mlxFA9T88I0-A0264: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0265: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0265: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0266: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0267: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0267: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0268: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0268: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 
 ## C05-P13
@@ -2700,7 +2700,7 @@ Bewertungsuebergang mlxFA9T88I0-A0270: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0271: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0272: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0272: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C06-P01
@@ -2731,13 +2731,13 @@ Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0273 | Offen | keine Endbewertung | Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt. |
-| mlxFA9T88I0-A0274 | Offen | keine Endbewertung | Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt. |
+| mlxFA9T88I0-A0273 | Abgeschlossen | Belegt | Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt. |
+| mlxFA9T88I0-A0274 | Abgeschlossen | Irreführend / Kontext fehlt | Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0273: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0273: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0274: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0274: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Irreführend / Kontext fehlt).
 
 
 ## C06-P02
@@ -2768,12 +2768,12 @@ Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schulds
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0275 | Abgeschlossen | Belegt | Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schuldspruch und Strafverzicht sind gesondert zu prüfen. |
-| mlxFA9T88I0-A0276 | Offen | keine Endbewertung | Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schuldspruch und Strafverzicht sind gesondert zu prüfen. |
+| mlxFA9T88I0-A0276 | Abgeschlossen | Widerlegt | Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schuldspruch und Strafverzicht sind gesondert zu prüfen. |
 
 Bewertungsuebergang mlxFA9T88I0-A0275: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0276: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0276: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Widerlegt).
 
 
 ## C06-P03
@@ -2803,15 +2803,15 @@ Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, beha
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0277 | In Bearbeitung | keine Endbewertung | Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt. |
-| mlxFA9T88I0-A0278 | In Bearbeitung | keine Endbewertung | Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt. |
+| mlxFA9T88I0-A0277 | Abgeschlossen | Belegt | Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt. |
+| mlxFA9T88I0-A0278 | Abgeschlossen | Teilweise belegt | Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt. |
 | mlxFA9T88I0-A0279 | Abgeschlossen | Irreführend / Kontext fehlt | Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt. |
 | mlxFA9T88I0-A0280 | Abgeschlossen | Meinung / Prognose | Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0277: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0277: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0278: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0278: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 
 Bewertungsuebergang mlxFA9T88I0-A0279: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -2857,7 +2857,7 @@ Bewertungsuebergang mlxFA9T88I0-A0281: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0282: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0283: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0283: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C06-P05
@@ -2920,13 +2920,13 @@ Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0285 | In Bearbeitung | keine Endbewertung | Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt. |
-| mlxFA9T88I0-A0286 | Offen | keine Endbewertung | Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt. |
+| mlxFA9T88I0-A0285 | Abgeschlossen | Meinung / Prognose | Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt. |
+| mlxFA9T88I0-A0286 | Abgeschlossen | Meinung / Prognose | Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0285: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0285: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): von Tatsachenbehauptung zu Meinung umgestuft.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0286: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0286: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): von Tatsachenbehauptung zu Meinung umgestuft.
 
 
 ## C06-P07
@@ -2962,13 +2962,13 @@ Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer
 | mlxFA9T88I0-A0289 | Offen | keine Endbewertung | Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt. |
 | mlxFA9T88I0-A0290 | Abgeschlossen | Meinung / Prognose | Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0287: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0287: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0288: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0288: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0289: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0289: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0290: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3040,7 +3040,7 @@ Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsurs
 | mlxFA9T88I0-A0296 | Offen | keine Endbewertung | Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt. |
 | mlxFA9T88I0-A0297 | Abgeschlossen | Meinung / Prognose | Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0293: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0293: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0294: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3049,7 +3049,7 @@ Bewertungsuebergang mlxFA9T88I0-A0294: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0295: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0296: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0296: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0297: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3083,12 +3083,12 @@ Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur U
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0298 | Offen | keine Endbewertung | Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt. |
-| mlxFA9T88I0-A0299 | In Bearbeitung | keine Endbewertung | Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt. |
+| mlxFA9T88I0-A0299 | Offen | keine Endbewertung | Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0298: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0298: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (im Gespräch sofort zurückgewiesene Vermutung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0299: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0299: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C07-P01
@@ -3166,7 +3166,7 @@ Ehepartnerbeitrag, Privatversicherung und Umverteilungswertung getrennt.
 Bewertungsuebergang mlxFA9T88I0-A0303: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0304: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0304: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0305: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3241,10 +3241,10 @@ Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A
 | mlxFA9T88I0-A0310 | Abgeschlossen | Teilweise belegt | Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt. |
 | mlxFA9T88I0-A0311 | Abgeschlossen | Teilweise belegt | Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0308: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0308: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0309: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0309: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0310: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3321,10 +3321,10 @@ Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getr
 Bewertungsuebergang mlxFA9T88I0-A0313: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0314: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0314: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0315: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0315: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0316: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3362,7 +3362,7 @@ Kanzlerinterview, Einschätzung der Umfragezahl, Wahlergebnis Mecklenburg-Vorpom
 | mlxFA9T88I0-A0319 | Abgeschlossen | Belegt | Kanzlerinterview, Einschätzung der Umfragezahl, Wahlergebnis Mecklenburg-Vorpommern und Herkunftsland-Beispiel getrennt. |
 | mlxFA9T88I0-A0320 | Offen | keine Endbewertung | Kanzlerinterview, Einschätzung der Umfragezahl, Wahlergebnis Mecklenburg-Vorpommern und Herkunftsland-Beispiel getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0317: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0317: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0318: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3485,7 +3485,7 @@ Allgemeine Bürokratieaussage als prüfbare Tatsachenbehauptung offen gehalten.
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0327 | Offen | keine Endbewertung | Allgemeine Bürokratieaussage als prüfbare Tatsachenbehauptung offen gehalten. |
 
-Bewertungsuebergang mlxFA9T88I0-A0327: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0327: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 ## C08-P04
@@ -3516,11 +3516,11 @@ Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrol
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0328 | In Bearbeitung | keine Endbewertung | Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrolle getrennt. |
+| mlxFA9T88I0-A0328 | Abgeschlossen | Belegt | Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrolle getrennt. |
 | mlxFA9T88I0-A0329 | Abgeschlossen | Teilweise belegt | Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrolle getrennt. |
 | mlxFA9T88I0-A0330 | Abgeschlossen | Meinung / Prognose | Schweizer Bargeldabstimmung, Referendum zum EU-Paket und Wertung zur Parteienrolle getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0328: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0328: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 
 Bewertungsuebergang mlxFA9T88I0-A0329: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3559,7 +3559,7 @@ Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt.
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0331 | Offen | keine Endbewertung | Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt. |
 | mlxFA9T88I0-A0332 | Abgeschlossen | Meinung / Prognose | Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt. |
-| mlxFA9T88I0-A0333 | Offen | keine Endbewertung | Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt. |
+| mlxFA9T88I0-A0333 | Abgeschlossen | Widerlegt | Reiseangaben, Auswanderungsrat und historische Auswanderung getrennt. |
 
 Bewertungsuebergang mlxFA9T88I0-A0331: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
@@ -3567,7 +3567,7 @@ Bewertungsuebergang mlxFA9T88I0-A0331: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0332: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0333: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0333: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Widerlegt).
 
 
 ## C08-P06
@@ -3635,8 +3635,8 @@ Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-St
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0336 | Offen | keine Endbewertung | Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt. |
 | mlxFA9T88I0-A0337 | Abgeschlossen | Meinung / Prognose | Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt. |
-| mlxFA9T88I0-A0338 | Offen | keine Endbewertung | Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt. |
-| mlxFA9T88I0-A0339 | Offen | keine Endbewertung | Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt. |
+| mlxFA9T88I0-A0338 | Abgeschlossen | Nicht ausreichend belegbar | Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt. |
+| mlxFA9T88I0-A0339 | Abgeschlossen | Teilweise belegt | Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt. |
 | mlxFA9T88I0-A0340 | Offen | keine Endbewertung | Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt. |
 
 Bewertungsuebergang mlxFA9T88I0-A0336: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3645,13 +3645,13 @@ Bewertungsuebergang mlxFA9T88I0-A0336: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0337: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0338: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0338: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Nicht ausreichend belegbar).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0339: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0339: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0340: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0340: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
 ## C08-P08
@@ -3723,23 +3723,23 @@ Persönliche Angaben und externe Raumfahrtereignisse getrennt.
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0344 | Offen | keine Endbewertung | Persönliche Angaben und externe Raumfahrtereignisse getrennt. |
 | mlxFA9T88I0-A0345 | Offen | keine Endbewertung | Persönliche Angaben und externe Raumfahrtereignisse getrennt. |
-| mlxFA9T88I0-A0346 | Offen | keine Endbewertung | Persönliche Angaben und externe Raumfahrtereignisse getrennt. |
-| mlxFA9T88I0-A0347 | Offen | keine Endbewertung | Persönliche Angaben und externe Raumfahrtereignisse getrennt. |
-| mlxFA9T88I0-A0348 | Offen | keine Endbewertung | Persönliche Angaben und externe Raumfahrtereignisse getrennt. |
+| mlxFA9T88I0-A0346 | Abgeschlossen | Belegt | Persönliche Angaben und externe Raumfahrtereignisse getrennt. |
+| mlxFA9T88I0-A0347 | Abgeschlossen | Belegt | Persönliche Angaben und externe Raumfahrtereignisse getrennt. |
+| mlxFA9T88I0-A0348 | Abgeschlossen | Teilweise belegt | Persönliche Angaben und externe Raumfahrtereignisse getrennt. |
 
 Bewertungsuebergang mlxFA9T88I0-A0344: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0345: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0345: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0346: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0346: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0347: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0347: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0348: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0348: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 
 ## C08-P10
@@ -3770,14 +3770,14 @@ Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsreg
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0349 | Offen | keine Endbewertung | Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet. |
+| mlxFA9T88I0-A0349 | Abgeschlossen | Irreführend / Kontext fehlt | Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet. |
 | mlxFA9T88I0-A0350 | Offen | keine Endbewertung | Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet. |
 | mlxFA9T88I0-A0351 | Abgeschlossen | Meinung / Prognose | Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet. |
 
-Bewertungsuebergang mlxFA9T88I0-A0349: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0349: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Irreführend / Kontext fehlt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0350: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0350: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0351: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3864,19 +3864,19 @@ Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Ei
 | mlxFA9T88I0-A0360 | Offen | keine Endbewertung | Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt. |
 | mlxFA9T88I0-A0361 | Abgeschlossen | Meinung / Prognose | Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0356: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0356: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0357: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0358: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0358: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0359: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0360: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0360: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0361: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3916,7 +3916,7 @@ Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt.
 Bewertungsuebergang mlxFA9T88I0-A0362: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0363: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0363: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0364: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3985,9 +3985,9 @@ Behauptetes Kanzlerzitat zu Tafeln getrennt erfasst.
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0367 | Offen | keine Endbewertung | Behauptetes Kanzlerzitat zu Tafeln getrennt erfasst. |
+| mlxFA9T88I0-A0367 | Abgeschlossen | Nicht ausreichend belegbar | Behauptetes Kanzlerzitat zu Tafeln getrennt erfasst. |
 
-Bewertungsuebergang mlxFA9T88I0-A0367: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0367: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Nicht ausreichend belegbar).
 
 
 ## C08-P16
@@ -4142,7 +4142,7 @@ Bewertungsuebergang mlxFA9T88I0-A0375: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0376: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0377: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0377: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0378: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -4310,7 +4310,7 @@ Bewertungsuebergang mlxFA9T88I0-A0389: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0390: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0391: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0391: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nur wiedergegebene Fremderzählung); keine Bewertung geraten.
 
 
 ## C10-P01
@@ -4344,7 +4344,7 @@ Behauptete gleiche Antwort eines anderen Interviewgastes, persönliche Partnersc
 | mlxFA9T88I0-A0393 | Offen | keine Endbewertung | Behauptete gleiche Antwort eines anderen Interviewgastes, persönliche Partnerschaftsangabe und Rat getrennt. |
 | mlxFA9T88I0-A0394 | Abgeschlossen | Meinung / Prognose | Behauptete gleiche Antwort eines anderen Interviewgastes, persönliche Partnerschaftsangabe und Rat getrennt. |
 
-Bewertungsuebergang mlxFA9T88I0-A0392: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0392: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0393: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.

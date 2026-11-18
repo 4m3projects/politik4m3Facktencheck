@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 99 von 99 ursprünglichen Prüfpunkten übertragen, 0 nicht migriert. Kapitel 1 bis 10 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
-A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde.
+A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten.
 
 ## Übertragene Herkunftspunkte und Zuordnung
 
@@ -93,13 +93,13 @@ Frueherer Suchbereich: [00:56:20–00:58:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Erststand nennt für diesen Abstand keinen unabhängig geprüften Nachweis. Das Fehlen einer abgeschlossenen Recherche wird als Bearbeitungsstatus und nicht als Urteil über den Wahrheitsgehalt erfasst.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Der Erststand nennt für diesen Abstand keinen unabhängig geprüften Nachweis. Das Fehlen einer abgeschlossenen Recherche wird als Bearbeitungsstatus und nicht als Urteil über den Wahrheitsgehalt erfasst.
 
 Grundlage der Bewertung: Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.
 
 Uebernahme: Übernommen: die Acht-Wochen-Angabe; zugeordnet: der bisher ausdrücklich nicht belegte Registrierungsabstand.
 
-Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -253,13 +253,13 @@ Frueherer Suchbereich: [00:56:20–00:58:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Erststand lässt die Rangposition offen und nennt keinen abgegrenzten historischen Vergleichsdatensatz. Die bestätigte Preishöhe allein bestimmt keinen weltweiten Rang.
+Nicht überprüfbar – zu unbestimmt. Der Erststand lässt die Rangposition offen und nennt keinen abgegrenzten historischen Vergleichsdatensatz. Die bestätigte Preishöhe allein bestimmt keinen weltweiten Rang.
 
 Grundlage der Bewertung: Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.
 
 Uebernahme: Übernommen: die ungefähre Rangposition; zugeordnet: die bisherigen Einschränkungen zu Rangdefinition und Stichtag.
 
-Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -299,13 +299,13 @@ Frueherer Suchbereich: [00:36:58–00:38:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Quote wird im Gespräch aus Lieferanteninformationen abgeleitet. Definition des Absatzmarkts, Erhebungsjahr, Menge oder Wert und Abdeckung der Vertriebswege fehlen. Firmenchroniken ersetzen die zugrunde liegende Marktstudie nicht.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die Quote wird im Gespräch aus Lieferanteninformationen abgeleitet. Definition des Absatzmarkts, Erhebungsjahr, Menge oder Wert und Abdeckung der Vertriebswege fehlen. Firmenchroniken ersetzen die zugrunde liegende Marktstudie nicht.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Segmentanteil und Anteil interessierter Einwohner getrennt; der begrifflich unklare Bevölkerungsbezug bleibt erhalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -344,13 +344,13 @@ Frueherer Suchbereich: [00:36:58–00:38:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Es fehlen Erhebungsmethode und räumlicher Bezug. Interesse, tatsächlicher Kauf und regelmäßige Kundschaft sind unterschiedliche Größen. Aus einem Händleranteil lässt sich diese Bevölkerungsquote nicht ableiten.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Es fehlen Erhebungsmethode und räumlicher Bezug. Interesse, tatsächlicher Kauf und regelmäßige Kundschaft sind unterschiedliche Größen. Aus einem Händleranteil lässt sich diese Bevölkerungsquote nicht ableiten.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Segmentanteil und Anteil interessierter Einwohner getrennt; der begrifflich unklare Bevölkerungsbezug bleibt erhalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -366,7 +366,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die aktuell genutzte Lagerfläche liegt nach der Erinnerung ungefähr zwischen 600 und 800 Quadratmetern.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -389,13 +389,13 @@ Frueherer Suchbereich: [00:38:10–00:40:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die automatische Textstelle enthält eine unsichere Zahlenfolge. Die Firmenbesichtigung beschreibt eine frühere Halle mit 1.000 Quadratmetern; daraus folgt weder die Bestätigung noch eine Widerlegung der aktuellen Fläche. Standort, Flächenbegriff und Hörkontrolle fehlen.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die automatische Textstelle enthält eine unsichere Zahlenfolge. Die Firmenbesichtigung beschreibt eine frühere Halle mit 1.000 Quadratmetern; daraus folgt weder die Bestätigung noch eine Widerlegung der aktuellen Fläche. Standort, Flächenbegriff und Hörkontrolle fehlen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -435,13 +435,13 @@ Frueherer Suchbereich: [00:38:10–00:40:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ein Inventurstichtag fehlt. Versandmengen oder angebotene Artikel wären keine Bestandszählung; keine davon wird hier in einen Lagerbestand umgerechnet.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Ein Inventurstichtag fehlt. Versandmengen oder angebotene Artikel wären keine Bestandszählung; keine davon wird hier in einen Lagerbestand umgerechnet.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -480,13 +480,13 @@ Frueherer Suchbereich: [00:38:10–00:40:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Textstelle enthält einen erkennbaren Erkennungsfehler; Währung und Bewertungsmaßstab sind nicht sicher ausformuliert. Der Zusammenhang legt einen Geldwert nahe, bestätigt aber weder Einkaufs-/Verkaufswert noch den exakten Betrag.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die Textstelle enthält einen erkennbaren Erkennungsfehler; Währung und Bewertungsmaßstab sind nicht sicher ausformuliert. Der Zusammenhang legt einen Geldwert nahe, bestätigt aber weder Einkaufs-/Verkaufswert noch den exakten Betrag.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -548,7 +548,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Moderator vermutet einen Jahresumsatz von ungefähr 25 Millionen Euro.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -571,13 +571,13 @@ Frueherer Suchbereich: [00:38:10–00:40:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Zahl wird ausdrücklich als eigene Schätzung eingeführt. Sie wird nicht als Bestätigung des Gastes behandelt. Ein älterer Umsatzbericht für 2020 kann die aktuelle Schätzung nicht verifizieren.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die Zahl wird ausdrücklich als eigene Schätzung eingeführt. Sie wird nicht als Bestätigung des Gastes behandelt. Ein älterer Umsatzbericht für 2020 kann die aktuelle Schätzung nicht verifizieren.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -643,7 +643,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Zum Gesprächszeitpunkt wird das Unternehmen als etwa 32 Jahre alt beschrieben.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -666,13 +666,13 @@ Frueherer Suchbereich: [00:41:00–00:45:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-1993 und 32 Jahre passen rechnerisch eher zu 2025. Laut überliefertem Beschreibungskontext wurde 2026 aufgenommen; Beschreibung, Rundung und automatische Zahlenerkennung sind jedoch nicht unabhängig kontrolliert. Deshalb kein sicheres Falschurteil aus dieser Differenz.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. 1993 und 32 Jahre passen rechnerisch eher zu 2025. Laut überliefertem Beschreibungskontext wurde 2026 aufgenommen; Beschreibung, Rundung und automatische Zahlenerkennung sind jedoch nicht unabhängig kontrolliert. Deshalb kein sicheres Falschurteil aus dieser Differenz.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -758,13 +758,13 @@ Frueherer Suchbereich: [00:41:00–00:45:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Anzeigenbelege und Rechnungen fehlen. Bei einer Gründung 1993 wäre ein als Euro erinnerter historischer Preis außerdem auf Originalwährung oder spätere Umrechnung zu prüfen. Die unternehmerische Erinnerung allein liefert keine präzise Tarifhistorie.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Anzeigenbelege und Rechnungen fehlen. Bei einer Gründung 1993 wäre ein als Euro erinnerter historischer Preis außerdem auf Originalwährung oder spätere Umrechnung zu prüfen. Die unternehmerische Erinnerung allein liefert keine präzise Tarifhistorie.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -780,7 +780,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Aus wiederkehrenden Bestellungen wurde früh ein Jahresumsatz von einer Million hochgerechnet.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -803,13 +803,13 @@ Frueherer Suchbereich: [00:41:00–00:45:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Chronik ordnet die erreichte Umsatzmillion in DM dem späteren Keller-Ausbau zu; der Lokaltext nennt dafür 1997. Das Gespräch lässt Prognosezeitpunkt, Zieljahr und Währung offen. Eine frühe Hochrechnung ist nicht mit bereits erzieltem Erstjahresumsatz gleichzusetzen.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die Chronik ordnet die erreichte Umsatzmillion in DM dem späteren Keller-Ausbau zu; der Lokaltext nennt dafür 1997. Das Gespräch lässt Prognosezeitpunkt, Zieljahr und Währung offen. Eine frühe Hochrechnung ist nicht mit bereits erzieltem Erstjahresumsatz gleichzusetzen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -829,7 +829,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die erste eingestellte Mitarbeiterin verfügte nach der Erinnerung über gute Englischkenntnisse und erwies sich als wichtige Unterstützung.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -852,13 +852,13 @@ Frueherer Suchbereich: [00:41:00–00:45:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Firmenchronik erwähnt eine erste Mitarbeiterin, bestätigt aber nicht die persönliche Qualifikation oder den individuellen Lebenslauf. Die wertende Würdigung ist kein Leistungsnachweis. Private familiäre Details werden wegen fehlenden Sachbezugs nicht übernommen.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Die Firmenchronik erwähnt eine erste Mitarbeiterin, bestätigt aber nicht die persönliche Qualifikation oder den individuellen Lebenslauf. Die wertende Würdigung ist kein Leistungsnachweis. Private familiäre Details werden wegen fehlenden Sachbezugs nicht übernommen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -898,13 +898,13 @@ Frueherer Suchbereich: [00:41:00–00:45:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Für die genannte Ausbildung liegt in den gelesenen Firmen- und Lokaltexten kein Abschlussnachweis vor. Aus der späteren Geschäftsführung folgt diese Qualifikation nicht automatisch.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Für die genannte Ausbildung liegt in den gelesenen Firmen- und Lokaltexten kein Abschlussnachweis vor. Aus der späteren Geschäftsführung folgt diese Qualifikation nicht automatisch.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -960,13 +960,13 @@ Frueherer Suchbereich: [00:41:00–00:45:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Motivation ist eine rückblickende persönliche Erklärung. Der allgemeine Lagervergleich wird gesondert geprüft; daraus lässt sich der damalige Entscheidungsprozess nicht beweisen.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Die Motivation ist eine rückblickende persönliche Erklärung. Der allgemeine Lagervergleich wird gesondert geprüft; daraus lässt sich der damalige Entscheidungsprozess nicht beweisen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1094,7 +1094,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Moderator beschreibt die Pflege chargenbezogener Haltbarkeitsangaben im Onlineshop als zusätzlichen Aufwand beim Olivenölhandel.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1117,13 +1117,13 @@ Frueherer Suchbereich: [00:42:09–00:43:12](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Textstelle lässt offen, ob eine gesetzliche Vorabpflicht oder eine selbst gewählte Shoporganisation gemeint ist. Artikel 14 nimmt das Datum nach Artikel 9 Absatz 1 Buchstabe f von der verpflichtenden Vorabinformation im Fernabsatz aus; bei Lieferung müssen die Pflichtangaben vorliegen. Deshalb wird dem Moderator keine eindeutige falsche Rechtsbehauptung unterstellt. Der tatsächliche betriebliche Aufwand bleibt ohne Prozessunterlagen offen.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Die Textstelle lässt offen, ob eine gesetzliche Vorabpflicht oder eine selbst gewählte Shoporganisation gemeint ist. Artikel 14 nimmt das Datum nach Artikel 9 Absatz 1 Buchstabe f von der verpflichtenden Vorabinformation im Fernabsatz aus; bei Lieferung müssen die Pflichtangaben vorliegen. Deshalb wird dem Moderator keine eindeutige falsche Rechtsbehauptung unterstellt. Der tatsächliche betriebliche Aufwand bleibt ohne Prozessunterlagen offen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Lagerfähigkeit, Kennzeichnung und behauptete Entsorgungspflicht getrennt. Mindesthaltbarkeit ist keine Garantie unveränderter Qualität und kein Verbrauchsdatum.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1307,13 +1307,13 @@ Frueherer Suchbereich: [00:45:59–00:49:48](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die gelesenen Veröffentlichungen weisen weder den damaligen Personalbestand noch individuelle Übernahmevereinbarungen aus. Die Erinnerung bleibt eine nicht verifizierte Unternehmensangabe.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die gelesenen Veröffentlichungen weisen weder den damaligen Personalbestand noch individuelle Übernahmevereinbarungen aus. Die Erinnerung bleibt eine nicht verifizierte Unternehmensangabe.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1329,7 +1329,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der DHL-Standort sollte später aufgegeben werden; das war Anlass für die Suche nach Ersatzlogistik.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1352,13 +1352,13 @@ Frueherer Suchbereich: [00:45:59–00:49:48](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eine angekündigte Standortschließung ist vom eigenen Umzug verschieden. Für die konkrete Ankündigung oder Kündigung liegt kein DHL-Dokument vor; die Firmenbesichtigung belegt nur die spätere Standortfolge.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Eine angekündigte Standortschließung ist vom eigenen Umzug verschieden. Für die konkrete Ankündigung oder Kündigung liegt kein DHL-Dokument vor; die Firmenbesichtigung belegt nur die spätere Standortfolge.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1447,13 +1447,13 @@ Frueherer Suchbereich: [00:45:59–00:49:48](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der genaue Suchzeitraum und die Anforderungen fehlen. Aus heutiger Immobilienlage lässt sich ein damaliges fehlendes Angebot nicht rückwirkend ableiten. Die Entscheidung wird als persönliche Begründung erfasst.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Der genaue Suchzeitraum und die Anforderungen fehlen. Aus heutiger Immobilienlage lässt sich ein damaliges fehlendes Angebot nicht rückwirkend ableiten. Die Entscheidung wird als persönliche Begründung erfasst.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1492,13 +1492,13 @@ Frueherer Suchbereich: [00:45:59–00:49:48](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Gesprächskontext präzisiert die zuerst missverständliche Formulierung zur Eigenleistung auf die Bauherrenrolle. Es wird daraus keine eigenhändige Errichtung der Halle oder fachrechtliche Bauvorlageberechtigung konstruiert.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Der Gesprächskontext präzisiert die zuerst missverständliche Formulierung zur Eigenleistung auf die Bauherrenrolle. Es wird daraus keine eigenhändige Errichtung der Halle oder fachrechtliche Bauvorlageberechtigung konstruiert.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1560,7 +1560,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Heute arbeiten ungefähr zwanzig Personen in den eigenen Büroräumen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1583,13 +1583,13 @@ Frueherer Suchbereich: [00:45:59–00:49:48](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das Lokalporträt nennt 25 Beschäftigte für 2021, ohne diese auf heutige Büros und ausgelagerte Arbeit aufzuteilen. Gesamtbeschäftigte eines anderen Jahres sind kein Gegenbeweis zur Bürobelegung bei Aufnahme.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Das Lokalporträt nennt 25 Beschäftigte für 2021, ohne diese auf heutige Büros und ausgelagerte Arbeit aufzuteilen. Gesamtbeschäftigte eines anderen Jahres sind kein Gegenbeweis zur Bürobelegung bei Aufnahme.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1606,7 +1606,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Beim Geschäftsstart habe es noch kein Internet gegeben.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1629,13 +1629,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-CERN dokumentiert das Web von 1989/90 und die öffentliche Softwarefreigabe 1993. Die verkürzte Gesprächsform kann jedoch auf den eigenen frühen Versand ohne Webshop zielen. Allgemeine technische Existenz und Nutzung durch diesen Betrieb sind verschieden. Ohne eindeutige Klärung der gemeinten Reichweite wird aus der Kurzform kein abgeschlossenes Falsch- oder Irreführungsurteil abgeleitet.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. CERN dokumentiert das Web von 1989/90 und die öffentliche Softwarefreigabe 1993. Die verkürzte Gesprächsform kann jedoch auf den eigenen frühen Versand ohne Webshop zielen. Allgemeine technische Existenz und Nutzung durch diesen Betrieb sind verschieden. Ohne eindeutige Klärung der gemeinten Reichweite wird aus der Kurzform kein abgeschlossenes Falsch- oder Irreführungsurteil abgeleitet.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1701,7 +1701,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die frühe Website wurde vom Gast selbst nach eigener Unix-Erfahrung auf einer Sun-Workstation erstellt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1724,13 +1724,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Chronik schreibt ihm die Erweiterung um ein Shopsystem zu. Das bestätigt nicht den behaupteten Entwicklungsrechner, die frühere Unix-Praxis oder die alleinige Autorenschaft des ersten Auftritts. Entwicklungsunterlagen fehlen.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Die Chronik schreibt ihm die Erweiterung um ein Shopsystem zu. Das bestätigt nicht den behaupteten Entwicklungsrechner, die frühere Unix-Praxis oder die alleinige Autorenschaft des ersten Auftritts. Entwicklungsunterlagen fehlen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1770,13 +1770,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ob Palettenreduktion bei der damaligen Implementierung wie geschildert wirkte, hängt vom Bildformat und Encoder ab. Eine Verringerung ähnlicher Farben allein beweist keine bestimmte Kompressionsrate. Das konkrete frühere Bildmaterial wurde nicht untersucht.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Ob Palettenreduktion bei der damaligen Implementierung wie geschildert wirkte, hängt vom Bildformat und Encoder ab. Eine Verringerung ähnlicher Farben allein beweist keine bestimmte Kompressionsrate. Das konkrete frühere Bildmaterial wurde nicht untersucht.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1815,13 +1815,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Nachfrage des Moderators verwechselt zunächst Hostingtraffic mit eigenem Internetzugang; der Gast stellt ausdrücklich auf Abrufe der Website ab. Eine Telefon- oder ISDN-Rechnung wird deshalb nicht als Prüfgegenstand erfunden. Providerrechnung und Monat fehlen.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die Nachfrage des Moderators verwechselt zunächst Hostingtraffic mit eigenem Internetzugang; der Gast stellt ausdrücklich auf Abrufe der Website ab. Eine Telefon- oder ISDN-Rechnung wird deshalb nicht als Prüfgegenstand erfunden. Providerrechnung und Monat fehlen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1860,13 +1860,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Darstellung enthält Anbieter- und Tarifdetails ohne zugänglichen Vertrag. Ob wirklich jede Datenmenge oder nur damals übliche Nutzung umfasst war, bleibt offen. Der als Pfad beschriebene Auftritt ist keine eigene Subdomain.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die Darstellung enthält Anbieter- und Tarifdetails ohne zugänglichen Vertrag. Ob wirklich jede Datenmenge oder nur damals übliche Nutzung umfasst war, bleibt offen. Der als Pfad beschriebene Auftritt ist keine eigene Subdomain.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1882,7 +1882,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein gemeinsam programmiertes frühes Shopsystem bestand aus ungefähr tausend Zeilen und nutzte Unix-Werkzeuge.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1905,13 +1905,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die generelle Mitwirkung an einem Shopsystem wird in der Firmenchronik erwähnt. Zeilenzahl, Sprache, Rekursion und die in der Automatik unsicher erkannten Werkzeugnamen sind nicht durch Quellcode bestätigt.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die generelle Mitwirkung an einem Shopsystem wird in der Firmenchronik erwähnt. Zeilenzahl, Sprache, Rekursion und die in der Automatik unsicher erkannten Werkzeugnamen sind nicht durch Quellcode bestätigt.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1974,7 +1974,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Unternehmensshop nutzte später Schlund+Partner und zuletzt ungefähr fünf bis sieben eigene gestaffelte Server.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1997,13 +1997,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Geschäftsbeziehung und aktuelle Architektur lassen sich aus der Geschichte des Providers nicht ableiten. Eine unsichere mündliche Anzahl wird nicht in eine sicher geprüfte Topologie übersetzt. Es wurden keine aktiven Scans oder Sicherheitsabfragen durchgeführt.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Geschäftsbeziehung und aktuelle Architektur lassen sich aus der Geschichte des Providers nicht ableiten. Eine unsichere mündliche Anzahl wird nicht in eine sicher geprüfte Topologie übersetzt. Es wurden keine aktiven Scans oder Sicherheitsabfragen durchgeführt.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2020,7 +2020,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Betrieb war nach eigener Erfahrung DDoS-Angriffen und einer Bitcoin-Lösegeldforderung ausgesetzt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2043,13 +2043,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der allgemeine Angriffstyp ist bekannt. Für den individuellen Vorgang liegen jedoch weder Logs noch Erpressungsnachricht, Strafanzeige oder Anbieterbericht vor. Allgemeine Sicherheitsquellen bestätigen diesen Fall nicht.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Der allgemeine Angriffstyp ist bekannt. Für den individuellen Vorgang liegen jedoch weder Logs noch Erpressungsnachricht, Strafanzeige oder Anbieterbericht vor. Allgemeine Sicherheitsquellen bestätigen diesen Fall nicht.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2069,7 +2069,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Zusätzliche eigene Hardware führte im geschilderten Erpressungsfall schließlich zum Ende des Angriffs.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2092,13 +2092,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Dass ein Angriff aufhörte, belegt nicht ohne Messdaten den behaupteten Abwehrgrund. Abbruchentscheidung, Netzfilter, Ressourcenwechsel und Angreifermotive sind getrennte Möglichkeiten; keines davon ist hier nachgewiesen.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Dass ein Angriff aufhörte, belegt nicht ohne Messdaten den behaupteten Abwehrgrund. Abbruchentscheidung, Netzfilter, Ressourcenwechsel und Angreifermotive sind getrennte Möglichkeiten; keines davon ist hier nachgewiesen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2161,7 +2161,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Angreifer können gemietete Botnetzleistung einsetzen; endet ihr Budget, bricht der Angriff typischerweise ab.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2184,13 +2184,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Gesprächsablauf verbindet eine allgemeine Möglichkeit mit einer konkreten wirtschaftlichen Erklärung des Endes. Die gelesenen Texte bestätigen Botnetzangriffe, aber nicht Budget oder Mietverhältnis in diesem Fall. Ein universeller Ablauf wird daraus nicht abgeleitet.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Der Gesprächsablauf verbindet eine allgemeine Möglichkeit mit einer konkreten wirtschaftlichen Erklärung des Endes. Die gelesenen Texte bestätigen Botnetzangriffe, aber nicht Budget oder Mietverhältnis in diesem Fall. Ein universeller Ablauf wird daraus nicht abgeleitet.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2259,7 +2259,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Betrieb hat Cloudflare wegen zunehmender Angriffe vorgeschaltet.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2299,13 +2299,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Herstellerdokumentation belegt mögliche Funktionen, aber keine kundenspezifische Installation oder ihren Anlass. Eine heutige technische Konfiguration wäre zudem kein Beweis für den geschilderten historischen Entscheidungsgrund.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die Herstellerdokumentation belegt mögliche Funktionen, aber keine kundenspezifische Installation oder ihren Anlass. Eine heutige technische Konfiguration wäre zudem kein Beweis für den geschilderten historischen Entscheidungsgrund.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2348,13 +2348,13 @@ Frueherer Suchbereich: [00:56:20–00:58:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eine ausdrücklich berichtete Vertraulichkeitsklausel erklärt die verweigerte Zahl. Der Vertrag ist nicht öffentlich eingesehen; daraus folgt weder eine bestätigte Klausel noch ein bestimmter Preis.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Eine ausdrücklich berichtete Vertraulichkeitsklausel erklärt die verweigerte Zahl. Der Vertrag ist nicht öffentlich eingesehen; daraus folgt weder eine bestätigte Klausel noch ein bestimmter Preis.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2370,7 +2370,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Für whisky.com gab es nach der Erinnerung schon 1995 eine erste Kaufanfrage.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2393,13 +2393,13 @@ Frueherer Suchbereich: [00:56:20–00:58:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die neu gelesene Chronik beschreibt den späteren Erwerb, aber keine Anfrage von 1995. Domainbesitz und Kontaktversuche sind verschiedene historische Vorgänge.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die neu gelesene Chronik beschreibt den späteren Erwerb, aber keine Anfrage von 1995. Domainbesitz und Kontaktversuche sind verschiedene historische Vorgänge.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2442,13 +2442,13 @@ Frueherer Suchbereich: [00:56:20–00:58:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Erzählung benennt hier keinen eindeutig identifizierten Verkäufer und keine überprüfbare Liste von Vorgängen. Die Existenz von Domainhandel bestätigt keine konkrete Verkaufsgeschichte dieses Inhabers.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die Erzählung benennt hier keinen eindeutig identifizierten Verkäufer und keine überprüfbare Liste von Vorgängen. Die Existenz von Domainhandel bestätigt keine konkrete Verkaufsgeschichte dieses Inhabers.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2539,13 +2539,13 @@ Frueherer Suchbereich: [00:56:20–00:58:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Technische Registrierbarkeit und Markenberechtigung sind verschieden. Das im Gespräch verwendete Unternehmensbeispiel wird nicht als dokumentierter Fall verstanden. Eine historische Register- und Rechtsprüfung des Beispiels liegt nicht vor.
+Nicht überprüfbar – zu unbestimmt. Technische Registrierbarkeit und Markenberechtigung sind verschieden. Das im Gespräch verwendete Unternehmensbeispiel wird nicht als dokumentierter Fall verstanden. Eine historische Register- und Rechtsprüfung des Beispiels liegt nicht vor.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2561,7 +2561,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Früher erschien whisky.de bei einer einfachen Produktsuche sehr weit oben.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2584,13 +2584,13 @@ Frueherer Suchbereich: [00:58:59–01:00:36](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eine heutige Rankinghilfe rekonstruiert keine historischen personalisierten Suchergebnisse. Suchbegriff, Land, Datum, organische Position und Messreihe fehlen; die Erinnerung bleibt ohne belastbaren Rankingnachweis.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Eine heutige Rankinghilfe rekonstruiert keine historischen personalisierten Suchergebnisse. Suchbegriff, Land, Datum, organische Position und Messreihe fehlen; die Erinnerung bleibt ohne belastbaren Rankingnachweis.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2607,7 +2607,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die durch den Domainnamen gewonnenen Besuche machten bezahlte Google-Suchwerbung für den Betrieb damals entbehrlich.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2630,13 +2630,13 @@ Frueherer Suchbereich: [00:58:59–01:00:36](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eine gute Sichtbarkeit beweist nicht, dass tatsächlich keine Suchwerbekosten anfielen. Es fehlen Werbekonten und Kostenbelege; die unternehmensbezogene Aussage wird nicht zu einer allgemeinen SEO-Garantie erweitert.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Eine gute Sichtbarkeit beweist nicht, dass tatsächlich keine Suchwerbekosten anfielen. Es fehlen Werbekonten und Kostenbelege; die unternehmensbezogene Aussage wird nicht zu einer allgemeinen SEO-Garantie erweitert.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2676,13 +2676,13 @@ Frueherer Suchbereich: [00:58:59–01:00:36](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Welche Domaintransaktion gemeint ist und ob Deckungsbeitrag, Umsatz oder abgeschriebener Kaufpreis verglichen wird, bleibt unscharf. Ohne Erlös- und Kostenreihe ist die schnelle Amortisation nicht nachvollziehbar nachgewiesen.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Welche Domaintransaktion gemeint ist und ob Deckungsbeitrag, Umsatz oder abgeschriebener Kaufpreis verglichen wird, bleibt unscharf. Ohne Erlös- und Kostenreihe ist die schnelle Amortisation nicht nachvollziehbar nachgewiesen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2747,7 +2747,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Eine .com-Adresse sei für die internationale Expansion erforderlich.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -2770,13 +2770,13 @@ Frueherer Suchbereich: [00:58:59–01:00:36](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Aussage kann eine eigene Marketinganforderung meinen; als allgemeine technische Notwendigkeit wäre sie stärker. Ein verbindlicher technischer oder wirtschaftlicher Zwang wird im Gespräch nicht belegt und hier nicht erfunden.
+Eigene unternehmerische Einschätzung zur Marktansprache, keine technische Tatsachenbehauptung; technisch ist eine .com-Adresse nicht erforderlich.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): von Tatsachenbehauptung zu Meinung umgestuft.
 
 ### Zugeordnete Quellen
 
@@ -2784,7 +2784,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Eigene Zielvorstellung von einer allgemeinen technischen Zugangsvoraussetzung abgrenzen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0130
 
@@ -2815,13 +2815,13 @@ Frueherer Suchbereich: [00:58:59–01:00:36](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Aktuelle Websitewerbung würde ohne historische Verträge und Kostenrechnung weder den damaligen Erlös noch die Amortisation belegen. Anbieterwahl, Reichweite, Preise und tatsächlich zurechenbare Erträge bleiben offen.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Aktuelle Websitewerbung würde ohne historische Verträge und Kostenrechnung weder den damaligen Erlös noch die Amortisation belegen. Anbieterwahl, Reichweite, Preise und tatsächlich zurechenbare Erträge bleiben offen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2837,7 +2837,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ohne die besonders prägnante Domain hätten diese Unternehmen dort keine Werbung gebucht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -2860,13 +2860,13 @@ Frueherer Suchbereich: [00:58:59–01:00:36](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das ist eine kontrafaktische Aussage über Entscheidungen Dritter. Einzelne aktuelle Anzeigen können sie nicht beweisen; Aussagen der Werbekunden oder vergleichbare Buchungsdaten fehlen.
+Kontrafaktische Einschätzung über Entscheidungen Dritter; als Meinung eingeordnet.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): von Tatsachenbehauptung zu Meinung umgestuft.
 
 ### Zugeordnete Quellen
 
@@ -2874,7 +2874,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Werbekunden dokumentieren genau diese Ausschlussbedingung?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0132
 
@@ -2928,7 +2928,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der geschilderte Wandel der Suche führte beim Unternehmen erst zu Stagnation, die durch den eigenen Informationsumfang aufgefangen werden konnte.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2951,13 +2951,13 @@ Frueherer Suchbereich: [00:58:59–01:00:36](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die allgemeine Rankingbeschreibung beweist keine betriebliche Ursache oder Gegenwirkung. Dafür müssten Zugriffe, Konversion, Erlös und parallel geänderte Angebote gemeinsam untersucht werden.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die allgemeine Rankingbeschreibung beweist keine betriebliche Ursache oder Gegenwirkung. Dafür müssten Zugriffe, Konversion, Erlös und parallel geänderte Angebote gemeinsam untersucht werden.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2974,7 +2974,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Gast besuchte und fotografierte insgesamt 167 Brennereien.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2997,13 +2997,13 @@ Frueherer Suchbereich: [01:00:36–01:03:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Firmenchronik beschreibt Brennereireisen und Dokumentationen, bietet aber kein nach Person und Besuch eindeutig abgegrenztes Inventar von 167 Orten. Zahl der Websiteporträts, Zahl der Reisen und eigene Besuche wären nicht identisch.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Die Firmenchronik beschreibt Brennereireisen und Dokumentationen, bietet aber kein nach Person und Besuch eindeutig abgegrenztes Inventar von 167 Orten. Zahl der Websiteporträts, Zahl der Reisen und eigene Besuche wären nicht identisch.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3020,7 +3020,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die eigene Brennerei-Fotodatenbank sei umfangreicher als Wikipedia.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3043,13 +3043,13 @@ Frueherer Suchbereich: [01:00:36–01:03:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Weder Vergleichsmaß noch Sprachversion, Stichtag und Datenbestand sind benannt. Fotos, Artikel, Brennereien und Speicherumfang wären unterschiedliche Maßstäbe. Das Vorhandensein vieler Porträts bestätigt diesen Größenvergleich nicht.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Weder Vergleichsmaß noch Sprachversion, Stichtag und Datenbestand sind benannt. Fotos, Artikel, Brennereien und Speicherumfang wären unterschiedliche Maßstäbe. Das Vorhandensein vieler Porträts bestätigt diesen Größenvergleich nicht.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3066,7 +3066,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Fotoreisen begannen 1994 zunächst mit dem Ziel einer später verworfenen CD-Veröffentlichung.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3089,13 +3089,13 @@ Frueherer Suchbereich: [01:00:36–01:03:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die aktuelle Chronik beschreibt Reisen, aber keine datierte CD-Planung. Der als früh bezeichnete Projektbeginn und die spätere freie Werbenutzung benötigen eigene Nachweise; die Domainanschaffung erfolgte laut Gespräch erst danach.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Die aktuelle Chronik beschreibt Reisen, aber keine datierte CD-Planung. Der als früh bezeichnete Projektbeginn und die spätere freie Werbenutzung benötigen eigene Nachweise; die Domainanschaffung erfolgte laut Gespräch erst danach.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3135,13 +3135,13 @@ Frueherer Suchbereich: [01:00:36–01:03:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die gelesenen Firmen- und Lokaltexte weisen keine bestimmten Abmahnungen, Entscheidungen oder betroffenen Bilder aus. Ohne identifizierten Vorgang wird weder eine Rechtsverletzung noch der Erfolg eines Vorgehens als festgestellt ausgegeben.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die gelesenen Firmen- und Lokaltexte weisen keine bestimmten Abmahnungen, Entscheidungen oder betroffenen Bilder aus. Ohne identifizierten Vorgang wird weder eine Rechtsverletzung noch der Erfolg eines Vorgehens als festgestellt ausgegeben.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3297,7 +3297,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Für die besuchten Brennereien bestehen heute weitergehende Fotografiebeschränkungen als bei früheren Reisen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3320,13 +3320,13 @@ Frueherer Suchbereich: [01:00:50–01:01:50](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Betriebliche Hausregeln können enger sein als ein Gesetz. Die gelesenen Schutztexte dokumentieren keine Besuchsregeln der hier nicht benannten Brennereien und keinen historischen Vorher-Nachher-Vergleich.
+Nicht überprüfbar – zu unbestimmt. Betriebliche Hausregeln können enger sein als ein Gesetz. Die gelesenen Schutztexte dokumentieren keine Besuchsregeln der hier nicht benannten Brennereien und keinen historischen Vorher-Nachher-Vergleich.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3409,7 +3409,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die beschriebenen Fotoeinschränkungen könnten auf EU-Vorschriften zurückgehen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3432,13 +3432,13 @@ Frueherer Suchbereich: [01:00:50–01:01:50](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Dies wird als Frage nach der Herkunft einer Regel erörtert. HSE erläutert die EU-ATEX-Richtlinien und die Umsetzung durch DSEAR in Großbritannien. Das belegt einen europäischen Regelhintergrund, nicht die Ursache einer bestimmten Besucherordnung.
+Nicht überprüfbar – zu unbestimmt. Dies wird als Frage nach der Herkunft einer Regel erörtert. HSE erläutert die EU-ATEX-Richtlinien und die Umsetzung durch DSEAR in Großbritannien. Das belegt einen europäischen Regelhintergrund, nicht die Ursache einer bestimmten Besucherordnung.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3455,7 +3455,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Um das Jahr 2000 seien alle Brennereien zu Chemiewerken umklassifiziert worden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3478,13 +3478,13 @@ Frueherer Suchbereich: [01:00:50–01:01:50](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-DSEAR und ATEX betreffen gefährliche Stoffe und explosionsfähige Atmosphären. Die gelesene Erläuterung belegt keine einheitliche Umklassifizierung sämtlicher Brennereien als Chemiewerk zu einem Stichtag. Umgangssprache, Genehmigungsrecht und Schutzvorschrift müssen unterschieden werden.
+Nicht überprüfbar – zu unbestimmt. DSEAR und ATEX betreffen gefährliche Stoffe und explosionsfähige Atmosphären. Die gelesene Erläuterung belegt keine einheitliche Umklassifizierung sämtlicher Brennereien als Chemiewerk zu einem Stichtag. Umgangssprache, Genehmigungsrecht und Schutzvorschrift müssen unterschieden werden.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3504,7 +3504,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die damalige Regulierung habe den Brennereien Investitionen von mehreren Millionen in den Brandschutz auferlegt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3527,13 +3527,13 @@ Frueherer Suchbereich: [01:00:50–01:01:50](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Es fehlen benannte Betriebe, Währung, Zeitraum und Bescheide. Die Existenz von Schutzpflichten bestätigt nicht Höhe oder zusätzliche Verursachung konkreter Investitionen.
+Nicht überprüfbar – zu unbestimmt. Es fehlen benannte Betriebe, Währung, Zeitraum und Bescheide. Die Existenz von Schutzpflichten bestätigt nicht Höhe oder zusätzliche Verursachung konkreter Investitionen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3625,13 +3625,13 @@ Frueherer Suchbereich: [01:01:10–01:01:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Für diese konkrete Episode wurde kein identifizierter Entwurf, keine Aktennummer und kein Datum ermittelt. Eine heutige Lagerregel oder die übliche Fassreifung wäre kein Beweis für ein früheres Transportverbot. Die Behauptung bleibt gezielt offen.
+Nicht überprüfbar – zu unbestimmt. Für diese konkrete Episode wurde kein identifizierter Entwurf, keine Aktennummer und kein Datum ermittelt. Eine heutige Lagerregel oder die übliche Fassreifung wäre kein Beweis für ein früheres Transportverbot. Die Behauptung bleibt gezielt offen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Historische Brandbehauptung von behauptetem Fassverbotsvorhaben und dessen vermeintlicher Abwendung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3670,13 +3670,13 @@ Frueherer Suchbereich: [01:01:10–01:01:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Diese Ursache hängt vom unidentifizierten Vorhaben ab. Ohne dessen Fassungsgeschichte lässt sich auch der behauptete Erfolg des Protests nicht prüfen. Dass Holzfässer weiter genutzt werden, belegt nicht diesen politischen Ablauf.
+Nicht überprüfbar – zu unbestimmt. Diese Ursache hängt vom unidentifizierten Vorhaben ab. Ohne dessen Fassungsgeschichte lässt sich auch der behauptete Erfolg des Protests nicht prüfen. Dass Holzfässer weiter genutzt werden, belegt nicht diesen politischen Ablauf.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Historische Brandbehauptung von behauptetem Fassverbotsvorhaben und dessen vermeintlicher Abwendung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3732,13 +3732,13 @@ Frueherer Suchbereich: [01:04:00–01:09:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Arbeitsbelastung ist persönliche Erfahrung; die konkrete Besuchsfrequenz wäre anhand von Reisetagebüchern prüfbar. Solche Unterlagen fehlen. Daraus wird weder ein allgemeines Urteil über Geschäftsreisen noch eine objektive Belastungsmessung abgeleitet.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Die Arbeitsbelastung ist persönliche Erfahrung; die konkrete Besuchsfrequenz wäre anhand von Reisetagebüchern prüfbar. Solche Unterlagen fehlen. Daraus wird weder ein allgemeines Urteil über Geschäftsreisen noch eine objektive Belastungsmessung abgeleitet.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3754,7 +3754,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Bei den eigenen Besuchen 1994/95 standen Produktion und nicht touristische Verkostungsangebote im Vordergrund.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3777,13 +3777,13 @@ Frueherer Suchbereich: [01:04:00–01:09:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Aussage wird ausdrücklich relativiert und nicht auf jede Brennerei erstreckt. Der Herstellerbeitrag zu Glenfiddich nennt Besucheröffnung bereits 1969; er widerlegt die persönlichen Erfahrungen nicht, begrenzt aber eine pauschale Vorstellung touristisch völlig unerschlossener Brennereien.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Die Aussage wird ausdrücklich relativiert und nicht auf jede Brennerei erstreckt. Der Herstellerbeitrag zu Glenfiddich nennt Besucheröffnung bereits 1969; er widerlegt die persönlichen Erfahrungen nicht, begrenzt aber eine pauschale Vorstellung touristisch völlig unerschlossener Brennereien.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3800,7 +3800,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Steuerliche Kontrolle erfasste die Alkoholmengen so streng, dass freie Proben aus den kontrollierten Beständen damals kaum möglich waren.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3823,13 +3823,13 @@ Frueherer Suchbereich: [01:04:00–01:09:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-HMRC verlangt heute Aufzeichnungen zu Mengen und Proben, kennt aber zugleich Mess- und Abfülltoleranzen sowie versteuerte Verkostungen. Das stützt einen Kontrollkern, beweist jedoch weder millilitergenaue Einzelaufsicht noch die behauptete Besuchspraxis 1994/95. Der aktuelle Handbuchstand liegt teils nach dem angegebenen Aufnahmetag.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. HMRC verlangt heute Aufzeichnungen zu Mengen und Proben, kennt aber zugleich Mess- und Abfülltoleranzen sowie versteuerte Verkostungen. Das stützt einen Kontrollkern, beweist jedoch weder millilitergenaue Einzelaufsicht noch die behauptete Besuchspraxis 1994/95. Der aktuelle Handbuchstand liegt teils nach dem angegebenen Aufnahmetag.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3875,13 +3875,13 @@ Frueherer Suchbereich: [01:04:00–01:09:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Es handelt sich um eine nicht näher identifizierte persönliche Episode. Die aktuellen HMRC-Regeln beweisen weder einen damaligen Rechtsverstoß noch die Richtigkeit der Beschreibung des Fassstatus. Unbenannten Beschäftigten wird kein Fehlverhalten zugeschrieben.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Es handelt sich um eine nicht näher identifizierte persönliche Episode. Die aktuellen HMRC-Regeln beweisen weder einen damaligen Rechtsverstoß noch die Richtigkeit der Beschreibung des Fassstatus. Unbenannten Beschäftigten wird kein Fehlverhalten zugeschrieben.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -3969,13 +3969,13 @@ Frueherer Suchbereich: [01:04:00–01:09:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Bericht ist eine eigene Erfahrung und kein objektiver Vergleich der Arbeitsbedingungen. Ein identifizierter Auftrag, Reisezeitpunkt oder Produktionsnachweis fehlt; die persönliche Belastungswertung wird nicht als medizinisch oder statistisch überprüfte Aussage behandelt.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Der Bericht ist eine eigene Erfahrung und kein objektiver Vergleich der Arbeitsbedingungen. Ein identifizierter Auftrag, Reisezeitpunkt oder Produktionsnachweis fehlt; die persönliche Belastungswertung wird nicht als medizinisch oder statistisch überprüfte Aussage behandelt.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4060,13 +4060,13 @@ Frueherer Suchbereich: [01:04:00–01:09:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ein heutiges Firmenangebot oder ein Navigationslink zu Postern würde allein nicht beweisen, welches historische Motiv gemeint ist, wer die Aufnahmen fertigte und wann es verbreitet wurde. Diese Unterlagen wurden nicht inventarisiert.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Ein heutiges Firmenangebot oder ein Navigationslink zu Postern würde allein nicht beweisen, welches historische Motiv gemeint ist, wer die Aufnahmen fertigte und wann es verbreitet wurde. Diese Unterlagen wurden nicht inventarisiert.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4128,7 +4128,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Das eigene Poster hing bei Forsyths sowie in weiteren Brennereien und hängt dort nach der Erinnerung weiterhin.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4151,13 +4151,13 @@ Frueherer Suchbereich: [01:04:00–01:09:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Herstellerseite bestätigt Geschäftstätigkeit und Ort, aber keine Ausstellung dieses Posters. Historische Begegnung, damaliger Aushang und fortdauernder Aushang sind einzeln nicht extern belegt.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Die Herstellerseite bestätigt Geschäftstätigkeit und Ort, aber keine Ausstellung dieses Posters. Historische Begegnung, damaliger Aushang und fortdauernder Aushang sind einzeln nicht extern belegt.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4242,13 +4242,13 @@ Frueherer Suchbereich: [01:10:00–01:11:29](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Antwort erfolgt auf eine Frage zum Deckungsbeitrag. Ein positiver Deckungsbeitrag beweist keinen Nettogewinn nach sämtlichen Fixkosten. Die alte pauschale Profitabilitätsbeschreibung wird deshalb präzisiert; Kalkulationen liegen nicht vor.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die Antwort erfolgt auf eine Frage zum Deckungsbeitrag. Ein positiver Deckungsbeitrag beweist keinen Nettogewinn nach sämtlichen Fixkosten. Die alte pauschale Profitabilitätsbeschreibung wird deshalb präzisiert; Kalkulationen liegen nicht vor.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4287,13 +4287,13 @@ Frueherer Suchbereich: [01:10:00–01:11:29](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Welche Größe jeweils wächst, ist nicht eindeutig: Umsatz, Deckungsbeitrag und Gewinn dürfen nicht vertauscht werden. Eine vollständige jährliche Reihe wurde nicht geprüft. Die spätere Schilderung eines Rückgangs wird als Kontext erhalten und nicht still zu widerspruchsfreiem Dauerwachstum umformuliert.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Welche Größe jeweils wächst, ist nicht eindeutig: Umsatz, Deckungsbeitrag und Gewinn dürfen nicht vertauscht werden. Eine vollständige jährliche Reihe wurde nicht geprüft. Die spätere Schilderung eines Rückgangs wird als Kontext erhalten und nicht still zu widerspruchsfreiem Dauerwachstum umformuliert.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4309,7 +4309,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der erste Spatenstich für die eigene Halle fand am 11. September 2001 statt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4332,13 +4332,13 @@ Frueherer Suchbereich: [01:10:00–01:11:29](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die gelesene Firmenchronik nennt stattdessen den 9. November 2001; das Lokalporträt bestätigt nur das Jahr. Der Datumswiderspruch ist real; denkbar ist auch eine Verwechslung der Schreibweisen, weil 9.11. in deutscher Notation der 9. November, die US-Kurzform 9/11 aber der 11. September ist. Geprüft ist diese Erklärung nicht. Ohne Bauakte und Hörkontrolle lässt sich nicht entscheiden, welche Erinnerung oder Veröffentlichung fehlerhaft ist. Deshalb keine sichere Widerlegung allein durch die spätere Selbstauskunft.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die gelesene Firmenchronik nennt stattdessen den 9. November 2001; das Lokalporträt bestätigt nur das Jahr. Der Datumswiderspruch ist real; denkbar ist auch eine Verwechslung der Schreibweisen, weil 9.11. in deutscher Notation der 9. November, die US-Kurzform 9/11 aber der 11. September ist. Geprüft ist diese Erklärung nicht. Ohne Bauakte und Hörkontrolle lässt sich nicht entscheiden, welche Erinnerung oder Veröffentlichung fehlerhaft ist. Deshalb keine sichere Widerlegung allein durch die spätere Selbstauskunft.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4381,13 +4381,13 @@ Frueherer Suchbereich: [01:10:00–01:11:29](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Für den individuellen Verlauf fehlt eine monatliche Absatzreihe. Der berichtete Zeitraum kann nicht aus dem allgemeinen Ereignisdatum oder einer späteren Firmenchronik errechnet werden.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Für den individuellen Verlauf fehlt eine monatliche Absatzreihe. Der berichtete Zeitraum kann nicht aus dem allgemeinen Ereignisdatum oder einer späteren Firmenchronik errechnet werden.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4426,13 +4426,13 @@ Frueherer Suchbereich: [01:10:00–01:11:29](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der zeitliche Zusammenhang allein beweist diese Ursache nicht. Saison, Sortiment und andere betriebliche Faktoren sind nicht kontrolliert. Die Erklärung bleibt eine plausible persönliche Interpretation ohne Kausalnachweis.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Der zeitliche Zusammenhang allein beweist diese Ursache nicht. Saison, Sortiment und andere betriebliche Faktoren sind nicht kontrolliert. Die Erklärung bleibt eine plausible persönliche Interpretation ohne Kausalnachweis.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4494,7 +4494,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Pandemiephase brachte dem Unternehmen einen Zuwachs von ungefähr 40 Prozent.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4534,13 +4534,13 @@ Frueherer Suchbereich: [01:11:29–01:15:16](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Im Gespräch werden Bezugszeitraum und Ergebnisgröße nicht sauber definiert; der alte Bericht nennt Umsatz, doch das ersetzt keine Präzisierung der Originalstelle. Das Lokalporträt nennt 32 Millionen Euro Umsatz 2020 ohne passende Vorjahresreihe. Eine 40-Prozent-Rate ist daraus nicht nachgerechnet.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Im Gespräch werden Bezugszeitraum und Ergebnisgröße nicht sauber definiert; der alte Bericht nennt Umsatz, doch das ersetzt keine Präzisierung der Originalstelle. Das Lokalporträt nennt 32 Millionen Euro Umsatz 2020 ohne passende Vorjahresreihe. Eine 40-Prozent-Rate ist daraus nicht nachgerechnet.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4557,7 +4557,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Während pandemiebedingter Einschränkungen konnten Versandhandel und Paketauslieferung grundsätzlich weiterarbeiten.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4597,13 +4597,13 @@ Frueherer Suchbereich: [01:11:29–01:15:16](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Schilderung des eigenen weiterlaufenden Dienstleisters und das Lokalporträt stützen Betriebskontinuität dieses Händlers. Für eine allgemeine Aussage über alle Phasen und Orte wurden die damaligen Verordnungen nicht vollständig geprüft.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die Schilderung des eigenen weiterlaufenden Dienstleisters und das Lokalporträt stützen Betriebskontinuität dieses Händlers. Für eine allgemeine Aussage über alle Phasen und Orte wurden die damaligen Verordnungen nicht vollständig geprüft.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4620,7 +4620,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Geschlossene Freizeitangebote und Reisebeschränkungen verlagerten Nachfrage zu Whiskyvideos und heimischen Bestellungen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4643,13 +4643,13 @@ Frueherer Suchbereich: [01:11:29–01:15:16](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Moderator erklärt damit den Geschäftsschub. Weder der historische Gesamtumsatz noch allgemeine Einschränkungen beweisen den konkreten Wirkungsanteil von Videos, Freizeitverzicht und Bestellungen. Keine individuelle Kaufmotivanalyse liegt vor.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Der Moderator erklärt damit den Geschäftsschub. Weder der historische Gesamtumsatz noch allgemeine Einschränkungen beweisen den konkreten Wirkungsanteil von Videos, Freizeitverzicht und Bestellungen. Keine individuelle Kaufmotivanalyse liegt vor.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4805,7 +4805,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Sohn war bereits in der Pandemie stark beteiligt; der Vater erschien danach nur noch etwa einmal wöchentlich in einem Firmenvideo und betreute intern weiterhin Computeraufgaben.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4828,13 +4828,13 @@ Frueherer Suchbereich: [01:11:29–01:15:16](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Nachfolge ist veröffentlicht. Veröffentlichungsfrequenz, konkrete Aufgaben und damalige Arbeitsteilung werden von den gelesenen Texten nicht vollständig bestätigt. Ein heutiger Videokanal wäre kein rückwirkendes Arbeitszeitprotokoll.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Die Nachfolge ist veröffentlicht. Veröffentlichungsfrequenz, konkrete Aufgaben und damalige Arbeitsteilung werden von den gelesenen Texten nicht vollständig bestätigt. Ein heutiger Videokanal wäre kein rückwirkendes Arbeitszeitprotokoll.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4874,13 +4874,13 @@ Frueherer Suchbereich: [01:11:29–01:15:16](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die erzählte Arbeitsorganisation ist ohne Personal- oder Betriebsunterlagen nicht unabhängig nachvollzogen. Aus der weiterhin arbeitenden Fremdlogistik folgt keine Bestätigung über sämtliche eigenen Mitarbeiter.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Die erzählte Arbeitsorganisation ist ohne Personal- oder Betriebsunterlagen nicht unabhängig nachvollzogen. Aus der weiterhin arbeitenden Fremdlogistik folgt keine Bestätigung über sämtliche eigenen Mitarbeiter.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4936,13 +4936,13 @@ Frueherer Suchbereich: [01:11:29–01:15:16](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Zusatzaufwand ist persönliche Betriebserfahrung; sein Umfang und der Nettoeffekt gegenüber zusätzlicher Nachfrage sind nicht mit Stunden- oder Kostendaten belegt. Das spätere gewünschte Ende der Einschränkungen ist eine Wertung, kein Widerspruchsbeweis zum Umsatzanstieg.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Der Zusatzaufwand ist persönliche Betriebserfahrung; sein Umfang und der Nettoeffekt gegenüber zusätzlicher Nachfrage sind nicht mit Stunden- oder Kostendaten belegt. Das spätere gewünschte Ende der Einschränkungen ist eine Wertung, kein Widerspruchsbeweis zum Umsatzanstieg.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -4958,7 +4958,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Nach der Pandemie ging das Geschäft wieder ungefähr auf das frühere Niveau zurück und stabilisierte sich zuletzt mit leichtem Wachstum.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4981,13 +4981,13 @@ Frueherer Suchbereich: [01:11:29–01:15:16](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ein Anstieg um 40 Prozent und die Rückkehr zur Ausgangsbasis würden einen Rückgang um etwa 28,6 Prozent vom erhöhten Niveau bedeuten. Der Text erzwingt keine Abnahme um 40 Prozent. Die tatsächliche Reihe und Größe fehlen weiterhin; spätere Erholung ist nicht mit dauerhaft ungebrochenem Wachstum gleichzusetzen.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Ein Anstieg um 40 Prozent und die Rückkehr zur Ausgangsbasis würden einen Rückgang um etwa 28,6 Prozent vom erhöhten Niveau bedeuten. Der Text erzwingt keine Abnahme um 40 Prozent. Die tatsächliche Reihe und Größe fehlen weiterhin; spätere Erholung ist nicht mit dauerhaft ungebrochenem Wachstum gleichzusetzen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -5023,13 +5023,13 @@ Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im K
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Aussage ist eine gerundete Gesprächsgröße ohne klaren Begriff von Deutschen oder Einwohnern. Für eine exakte demografische Prüfung wären Staatsangehörigkeit, Wohnbevölkerung und Stichtag zu bestimmen. Sie wird nicht zur Berechnung einer bestätigten Kundenzahl verwendet.
+Nicht überprüfbar – zu unbestimmt. Die Aussage ist eine gerundete Gesprächsgröße ohne klaren Begriff von Deutschen oder Einwohnern. Für eine exakte demografische Prüfung wären Staatsangehörigkeit, Wohnbevölkerung und Stichtag zu bestimmen. Sie wird nicht zur Berechnung einer bestätigten Kundenzahl verwendet.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Zusätzlich im vollständig gelesenen Kapitel erfasster Inhalt; im Altpunktverzeichnis nicht eigenständig enthalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -5064,13 +5064,13 @@ Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im K
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die konkrete Lieferpraxis und die unterstellte Controllerentscheidung sind ohne benannte Fälle nicht extern geprüft. Ein Lagerproblem des Händlers beweist nicht die interne Entscheidungsursache beim Lieferanten.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Die konkrete Lieferpraxis und die unterstellte Controllerentscheidung sind ohne benannte Fälle nicht extern geprüft. Ein Lagerproblem des Händlers beweist nicht die interne Entscheidungsursache beim Lieferanten.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Zusätzlich im vollständig gelesenen Kapitel erfasster Inhalt; im Altpunktverzeichnis nicht eigenständig enthalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -5105,13 +5105,13 @@ Zeitgrundlage: Zeitgestempelte automatische Originaluntertitel vollständig im K
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Sortimentsstrategie und tatsächlicher Lagerumschlag sind eigene betriebliche Angaben. Die bildhafte Aussage über jeden Handelstag wird nicht als buchstäblich geprüfte Tagesstatistik behandelt.
+Nicht überprüfbar – nicht öffentlicher Vorgang oder interne Daten. Sortimentsstrategie und tatsächlicher Lagerumschlag sind eigene betriebliche Angaben. Die bildhafte Aussage über jeden Handelstag wird nicht als buchstäblich geprüfte Tagesstatistik behandelt.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Zusätzlich im vollständig gelesenen Kapitel erfasster Inhalt; im Altpunktverzeichnis nicht eigenständig enthalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 

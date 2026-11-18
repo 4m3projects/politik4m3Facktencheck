@@ -1,8 +1,8 @@
 # Kapitel 05: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 99 von 99 ursprünglichen Prüfpunkten übertragen, 0 nicht migriert. Kapitel 1 bis 10 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
-A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde.
+A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten.
 
 ## Übertragene Herkunftspunkte und Zuordnung
 
@@ -633,13 +633,13 @@ Frueherer Suchbereich: [01:30:50–01:33:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Brücke wird nicht benannt. In der gelesenen Projektübersicht der Autobahn GmbH wurde keine passende Sperrung gefunden; die Übersicht wurde nicht vollständig durchgesehen. Keine Bewertung.
+Nicht überprüfbar – zu unbestimmt. Die Brücke wird nicht benannt. In der gelesenen Projektübersicht der Autobahn GmbH wurde keine passende Sperrung gefunden; die Übersicht wurde nicht vollständig durchgesehen.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -655,7 +655,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Eine Düsseldorfer Brücke sei für Fahrzeuge über 3,5 Tonnen gesperrt, sodass der Ministerpräsident mit seiner schweren Dienstlimousine sie nicht mehr befahren dürfe.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -678,13 +678,13 @@ Frueherer Suchbereich: [01:30:50–01:33:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die gelesene Projektseite zur Fleher Brücke nennt Betrieb mit je zwei Fahrstreifen, aber keine Gewichtsbeschränkung. Ob eine andere Düsseldorfer Brücke gemeint ist, bleibt offen; Gewicht und Nutzung der Dienstlimousine sind nicht geprüft. Keine Bewertung.
+Nicht überprüfbar – zu unbestimmt. Die gelesene Projektseite zur Fleher Brücke nennt Betrieb mit je zwei Fahrstreifen, aber keine Gewichtsbeschränkung. Ob eine andere Düsseldorfer Brücke gemeint ist, bleibt offen; Gewicht und Nutzung der Dienstlimousine sind nicht geprüft.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -701,7 +701,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die neue Brücke wird erst 2040 fertig.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -724,13 +724,13 @@ Frueherer Suchbereich: [01:30:50–01:33:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Für die Fleher Brücke nennt die Autobahn GmbH Baubeginn ab 2029, aber keinen Fertigstellungstermin. Da die gemeinte Brücke nicht sicher bestimmt ist, bleibt die Jahresangabe offen.
+Nicht überprüfbar – zu unbestimmt. Für die Fleher Brücke nennt die Autobahn GmbH Baubeginn ab 2029, aber keinen Fertigstellungstermin. Da die gemeinte Brücke nicht sicher bestimmt ist, bleibt die Jahresangabe offen.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -747,7 +747,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Für die eingestürzte Dresdner Carolabrücke ist ein Ersatzbau beschlossen, dessen Fertigstellung noch lange dauern wird.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -770,21 +770,22 @@ Frueherer Suchbereich: [01:30:50–01:33:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Seite der Stadt Dresden war beim Abruf nicht erreichbar (HTTP 503). Keine Bewertung.
+Der Dresdner Stadtrat entschied sich 2025 für einen Ersatzneubau. Laut Bericht vom August 2025 ist der Baubeginn für das zweite Quartal 2028 und die Fertigstellung bis 2031 geplant; das trägt die Aussage, dass es noch lange dauert. Die städtische Projektseite war für das Recherchewerkzeug gesperrt.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Neubau der Carolabrücke: Fertigstellung bis 2031](https://www.verkehrsrundschau.de/nachrichten/transport-logistik/neubau-der-carolabruecke-fertigstellung-bis-2031-3699635) · VerkehrsRundschau · 18.08.2025; Stadtratsentscheidung für Ersatzneubau im Sommer 2025, Baubeginn geplant 2. Quartal 2028, Fertigstellung bis 2031.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Beschluss und Zeitplan.
 
 ### Offene Fragen und Unsicherheiten
 
-- Beschluss und Zeitplan auf dresden.de lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0236
 
@@ -860,13 +861,13 @@ Frueherer Suchbereich: [01:30:50–01:33:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-An Beschäftigungsstatistiken nach Staatsangehörigkeit prüfbar; keine solche Quelle gelesen.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. An Beschäftigungsstatistiken nach Staatsangehörigkeit prüfbar; keine solche Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -973,7 +974,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Großbritannien liegt bei rund 114 Prozent Schulden im Verhältnis zum BIP.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -996,21 +997,22 @@ Frueherer Suchbereich: [01:33:00–01:34:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Seiten des britischen Statistikamts waren beim Abruf nicht erreichbar (HTTP 404). Britische Netto- und Bruttomaße sind nicht austauschbar. Keine Bewertung.
+Laut ONS lag die britische Nettoschuld des öffentlichen Sektors ohne öffentliche Banken Ende Juni 2026 bei 94,9 Prozent des BIP. Auch der ausgewiesene Bruttoschuldstand liegt rechnerisch (Verhältnis zur Nettoschuld) bei rund 101 Prozent. Ein Maß bei 114 Prozent findet sich in der gelesenen Veröffentlichung nicht.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Schuldenquoten je Land getrennt und am selben Maßstab geprüft; die politische Folgerung einer deutschen Reserve als Wertung geführt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Widerlegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Public sector finances, UK: June 2026](https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/june2026/pdf) · Office for National Statistics · Juni 2026, vorläufig; Nettoschuld ohne öffentliche Banken 94,9 % des BIP; Bruttoschuldstand in Pfund (Tabelle 9).
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Schuldenquote Juni 2026.
 
 ### Offene Fragen und Unsicherheiten
 
-- ONS-Wert und Maßstab (Nettoschuld oder Maastricht-Bruttoschuld) für Mitte 2026 lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0241
 
@@ -1178,13 +1180,13 @@ Frueherer Suchbereich: [01:33:30–01:34:50](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Konkrete Programme, Jahre und Beträge fehlen; keine Quelle gelesen. Keine Bewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Konkrete Programme, Jahre und Beträge fehlen; keine Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1200,7 +1202,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Deutschland sei an die UN vertraglich zu etwa 0,5 bis 1 Milliarde verpflichtet, zahle aber freiwillig ein Vielfaches, etwa fünf Milliarden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1223,13 +1225,13 @@ Frueherer Suchbereich: [01:33:30–01:34:50](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Laut Auswärtigem Amt trägt Deutschland 5,69 Prozent des regulären UN-Haushalts von knapp 3,75 Milliarden US-Dollar (2025), also rund 0,2 Milliarden, dazu 5,69 Prozent der Friedensmissionen. Pflicht- und freiwillige Beiträge sind verschiedene Kategorien. Die Höhe der freiwilligen Beiträge nennt die Seite nicht; die Größenordnung von fünf Milliarden ist damit nicht geprüft.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Laut Auswärtigem Amt trägt Deutschland 5,69 Prozent des regulären UN-Haushalts von knapp 3,75 Milliarden US-Dollar (2025), also rund 0,2 Milliarden, dazu 5,69 Prozent der Friedensmissionen. Pflicht- und freiwillige Beiträge sind verschiedene Kategorien. Die Höhe der freiwilligen Beiträge nennt die Seite nicht; die Größenordnung von fünf Milliarden ist damit nicht geprüft.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1269,13 +1271,13 @@ Frueherer Suchbereich: [01:33:30–01:34:50](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Was mit freiwilligen Zahlungen gemeint ist, bleibt unklar (Eigenmittel, Fonds, Garantien). Keine Quelle gelesen; keine Bewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Was mit freiwilligen Zahlungen gemeint ist, bleibt unklar (Eigenmittel, Fonds, Garantien). Keine Quelle gelesen; keine Bewertung.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1376,13 +1378,13 @@ Frueherer Suchbereich: [01:34:50–01:36:40](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Kreditausfälle können Banken belasten; das Ausmaß hängt von Sicherheiten, Risikovorsorge und Finanzierungsstruktur ab. Keine Quelle zur aktuellen Belastung gelesen.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Kreditausfälle können Banken belasten; das Ausmaß hängt von Sicherheiten, Risikovorsorge und Finanzierungsstruktur ab. Keine Quelle zur aktuellen Belastung gelesen.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Bankbilanzwirkung, Finanzierungsstruktur USA/Europa, Pandemieprogramm, Inflationsstand und Prognose getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1666,13 +1668,13 @@ Frueherer Suchbereich: [01:35:00–01:37:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Moderator vermutet dies im Rahmen seiner Kreditkartenanalogie; der Gast widerspricht sofort mit dem Hinweis auf Argentinien. Staatsinsolvenzen sind grundsätzlich bekannt, wurden in dieser Prüfung aber nicht anhand einer gelesenen Quelle belegt. Die gelesenen IWF-Seiten nennen keine Ausfalljahre. Keine Endbewertung.
+Nicht überprüfbar – im Gespräch sofort zurückgewiesene Vermutung. Der Moderator vermutet dies im Rahmen seiner Kreditkartenanalogie; der Gast widerspricht sofort mit dem Hinweis auf Argentinien. Staatsinsolvenzen sind grundsätzlich bekannt, wurden in dieser Prüfung aber nicht anhand einer gelesenen Quelle belegt. Die gelesenen IWF-Seiten nennen keine Ausfalljahre.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Geldmengenprognose, Staatsinsolvenz (Behauptung des Moderators und Zurückweisung des Gastes) und Refinanzierung getrennt. Die Kreditkartenanalogie ist ein Gedankenmodell, keine Tatsachenbehauptung.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (im Gespräch sofort zurückgewiesene Vermutung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1711,13 +1713,13 @@ Frueherer Suchbereich: [01:35:00–01:37:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Anschlussfinanzierung fälliger Schulden ist üblich und Teil der Bruttokreditaufnahme. Für den hier konkret behaupteten Umfang wurde keine Zahl geprüft; als allgemeiner Mechanismus unstrittig, aber ohne gelesene Quelle keine Endbewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Die Anschlussfinanzierung fälliger Schulden ist üblich und Teil der Bruttokreditaufnahme. Für den hier konkret behaupteten Umfang wurde keine Zahl geprüft; als allgemeiner Mechanismus unstrittig, aber ohne gelesene Quelle keine Endbewertung.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Geldmengenprognose, Staatsinsolvenz (Behauptung des Moderators und Zurückweisung des Gastes) und Refinanzierung getrennt. Die Kreditkartenanalogie ist ein Gedankenmodell, keine Tatsachenbehauptung.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1825,7 +1827,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Früher waren Bundesauktionen zwei- bis dreifach überzeichnet, heute nicht mehr.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1848,13 +1850,13 @@ Frueherer Suchbereich: [01:41:00–01:42:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die gelesene Liste 2026 zeigt für Bundesanleihen meist Bid-to-Cover-Werte zwischen 1,0 und 1,8, bei Geldmarktpapieren auch über 3. Historische Vergleichswerte wurden nicht gelesen. Keine Endbewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Die gelesene Liste 2026 zeigt für Bundesanleihen meist Bid-to-Cover-Werte zwischen 1,0 und 1,8, bei Geldmarktpapieren auch über 3. Historische Vergleichswerte wurden nicht gelesen.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1894,13 +1896,13 @@ Frueherer Suchbereich: [01:41:00–01:42:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Allgemeine Erfahrungsregel ohne Belege; keine Studie zu Folgeherabstufungen gelesen. Keine Bewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Allgemeine Erfahrungsregel ohne Belege; keine Studie zu Folgeherabstufungen gelesen.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2053,7 +2055,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Beitragsbemessungsgrenzen wurden bereits angehoben.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2076,22 +2078,25 @@ Frueherer Suchbereich: [01:42:10–01:43:35](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Gesetzentwurf sieht eine zusätzliche einmalige Anhebung für 2027 vor; die jährliche Anpassung wurde nicht gelesen. Ob eine Anhebung zum Aufnahmezeitpunkt schon beschlossen war, bleibt offen.
+Die Beitragsbemessungsgrenzen wurden zum 1. Januar 2026 angehoben, in der Rentenversicherung von 8.050 auf 8.450 Euro und in der Krankenversicherung von 5.512,50 auf 5.812,50 Euro im Monat.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Tankrabatt, Krankenkassenpaket, Beitragsbemessungsgrenze und allgemeine Entlastungswertung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 ### Zugeordnete Quellen
+
+- [Rechengrößen in der Sozialversicherung](https://www.bundesregierung.de/breg-de/aktuelles/beitragsgemessungsgrenzen-2386514) · Bundesregierung · Werte 2026 gegenüber 2025; Beitragsbemessungsgrenzen in Renten- und Krankenversicherung angehoben.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Werte 2025 und 2026.
 
 - [FAQ zum GKV-Beitragssatzstabilisierungsgesetz](https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-21-lp/gkv-beitragssatzstabilisierungsgesetz-faq) · Bundesministerium für Gesundheit · Stand 10.07.2026, Gesetzentwurf; rund 70 Prozent der Entlastung 2030 aus Ausgabenbegrenzungen bei Leistungserbringern, daneben höhere Zuzahlungen, Beitragszuschlag und einmalige Anhebung der Beitragsbemessungsgrenze 2027. Gesetzgebungsstand auf der Seite nicht ausgewiesen.
   Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Geplante einmalige Anhebung 2027 im Entwurf.
 
 ### Offene Fragen und Unsicherheiten
 
-- Sozialversicherungsrechengrößen 2026 und Gesetzgebungsstand lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0264
 
@@ -2184,13 +2189,13 @@ Frueherer Suchbereich: [01:43:00–01:47:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Strittige Deutung der Rettungsprogramme; Anteile der Mittel, die an private Gläubiger flossen, wären an Studien prüfbar. Keine Quelle gelesen.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Strittige Deutung der Rettungsprogramme; Anteile der Mittel, die an private Gläubiger flossen, wären an Studien prüfbar. Keine Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Frankreich-Prognose, Griechenlandrettung, Lastenverteilung, Sparforderung, Weimarer Personalabbau, Pensionen und Zeitrahmen (Vorkommen von A0018) getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2274,13 +2279,13 @@ Frueherer Suchbereich: [01:43:00–01:47:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Gemeint ist vermutlich die Personal-Abbau-Verordnung von 1923. Auf den gelesenen Seiten des Deutschen Historischen Museums wurde sie nicht behandelt; keine Zahlen gelesen. Keine Bewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Gemeint ist vermutlich die Personal-Abbau-Verordnung von 1923. Auf den gelesenen Seiten des Deutschen Historischen Museums wurde sie nicht behandelt; keine Zahlen gelesen.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Frankreich-Prognose, Griechenlandrettung, Lastenverteilung, Sparforderung, Weimarer Personalabbau, Pensionen und Zeitrahmen (Vorkommen von A0018) getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -2296,7 +2301,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Beamtenpensionen sind höher als Renten; Beamte haben typischerweise eine höhere Ausbildung als der Bevölkerungsdurchschnitt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2319,21 +2324,22 @@ Frueherer Suchbereich: [01:43:00–01:47:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-An Versorgungs- und Rentenberichten prüfbar; der Gast relativiert den Vergleich selbst mit der Qualifikation. Keine Quelle gelesen.
+Laut Alterssicherungsbericht 2024 lagen die durchschnittlichen Ruhegehälter von Bundes- und Landesbeamten ab 65 je nach Gruppe zwischen rund 3.000 und 3.800 Euro brutto und damit deutlich über typischen gesetzlichen Renten. Ein amtlicher Rentendurchschnitt und die Qualifikationsstruktur wurden nicht gelesen.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Frankreich-Prognose, Griechenlandrettung, Lastenverteilung, Sparforderung, Weimarer Personalabbau, Pensionen und Zeitrahmen (Vorkommen von A0018) getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Pensionen liegen meist deutlich über 3000 Euro](https://www.ihre-vorsorge.de/altersvorsorge/nachrichten/pensionen-liegen-meist-deutlich-ueber-3000-euro) · Ihre Vorsorge (Deutsche Rentenversicherung) · 09.12.2024 nach Alterssicherungsbericht 2024; durchschnittliche Ruhegehälter von Bund und Ländern ab 65.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Ruhegehälter laut Alterssicherungsbericht.
 
 ### Offene Fragen und Unsicherheiten
 
-- Versorgungsbericht der Bundesregierung und Rentenstatistik vergleichen, Qualifikationsstruktur einbeziehen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0269
 
@@ -2501,13 +2507,13 @@ Frueherer Suchbereich: [01:47:10–01:48:29](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Historische Aussage zu Kaufkraftüberhang und Währungsunion 1990; keine Quelle gelesen. Keine Bewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Historische Aussage zu Kaufkraftüberhang und Währungsunion 1990; keine Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Funktionen des digitalen Euro laut veröffentlichtem Entwurf, unterstellte Motive und DDR-Vergleich getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 

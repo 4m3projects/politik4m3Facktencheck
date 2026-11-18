@@ -1,8 +1,8 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 99 von 99 ursprünglichen Prüfpunkten übertragen, 0 nicht migriert. Kapitel 1 bis 10 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
-A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde.
+A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten.
 
 ## Übertragene Herkunftspunkte und Zuordnung
 
@@ -58,7 +58,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** An den genannten Finanzmärkten seien in den vergangenen fünf Jahren Renditen von 20 bis 40 Prozent jährlich möglich gewesen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -81,13 +81,13 @@ Frueherer Suchbereich: [02:00:49–02:03:25](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Erststand nennt einen MSCI-World-Vergleich, aber keinen einheitlichen Nachweis für das tatsächliche Fünfjahresfenster und die übrigen Anlagebeispiele. Die Modalität möglich wird erhalten; daraus wird weder ein allgemeines Renditeversprechen noch eine Behauptung gleicher Renditen aller Märkte gemacht.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Der Erststand nennt einen MSCI-World-Vergleich, aber keinen einheitlichen Nachweis für das tatsächliche Fünfjahresfenster und die übrigen Anlagebeispiele. Die Modalität möglich wird erhalten; daraus wird weder ein allgemeines Renditeversprechen noch eine Behauptung gleicher Renditen aller Märkte gemacht.
 
 Grundlage der Bewertung: Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.
 
 Uebernahme: Übernommen: Renditespanne, fünfjährige Rückschau und die Anlagebeispiele als Kontext; erhalten: sämtliche bisherigen MSCI-Zahlen und Einschränkungen im Herkunftstext. Eine pauschale Irreführend-Bewertung wird nicht auf die unpräzise Modalbehauptung übertragen.
 
-Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -108,7 +108,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Deutsche Unternehmen hätten seit 2017 nicht mehr in Maschinen investiert.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -131,24 +131,28 @@ Frueherer Suchbereich: [02:00:49–02:03:25](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Erststand enthält keine abgeschlossene Investitionszeitreihe. Eine eigenständige Recherche muss Umfang und gemeinte Definition der Aussage klären, bevor eine abschließende Bewertung möglich ist.
+Unternehmen haben weiter investiert: Laut KfW lagen die Unternehmensinvestitionen 2025 bei rund 487 Milliarden Euro, knapp die Hälfte davon Ausrüstungen. Richtig ist, dass die Ausrüstungsinvestitionen real 2024 um 5,4 und 2025 um 2,3 Prozent sanken und die Investitionsquote so niedrig ist wie seit der Finanzkrise nicht mehr. Ein Investitionsstopp seit 2017 ist nicht belegt; eine schwache Entwicklung schon.
 
 Grundlage der Bewertung: Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.
 
 Uebernahme: Übernommen: die Maschineninvestitionsbehauptung; zugeordnet: die bisher ausdrücklich nicht abgeschlossene Investitionsprüfung.
 
-Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Irreführend / Kontext fehlt).
 
 ### Zugeordnete Quellen
+
+- [KfW-Research Chartbook Investitionsmonitor Herbst 2026](https://www.kfw.de/PDF/Download-Center/Konzernthemen/Research/KfW-Research-Chartbook/KfW-Research-Chartbook-Investitionsmonitor-Herbst-2026.pdf) · KfW Research · 17.09.2026; Unternehmensinvestitionen 2025 rund 487 Mrd. Euro nominal, knapp die Hälfte Ausrüstungen; Investitionsquote niedrig.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Investitionsniveau und Quote.
+
+- [Pressemitteilung Nr. 017 vom 15. Januar 2026 (BIP 2025)](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/01/PD26%5F017%5F811.html) · Statistisches Bundesamt · 15.01.2026; Ausrüstungsinvestitionen real 2024 −5,4 %, 2025 −2,3 %; Tabelle zur Arbeitsproduktivität je Erwerbstätigen und je Stunde.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Reale Veränderung der Ausrüstungsinvestitionen 2024 und 2025.
 
 - [Originalvideo und zugehörige Zeitmarke](https://www.youtube.com/watch?v=mlxFA9T88I0&t=7249s) · {ungeskriptet} by Ben / YouTube · veröffentlicht 14.11.2026; Aufnahme laut damaliger Beschreibung 23.09.2026. Nur Nachweis der Fundstelle, keine unabhängige Bestätigung.
   Quellenzugriff am 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Fundstellennachweis aus dem Erststand, keine unabhängige Bestätigung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Klären, ob eine absolute Investitionspause oder ausbleibende zusätzliche Investitionen gemeint ist.
-
-- Passende Investitionsreihe mit Definition und Revisionsstand prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0007
 
@@ -156,7 +160,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die deutsche Arbeitsproduktivität habe ab etwa 2017 stagniert.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -196,24 +200,28 @@ Frueherer Suchbereich: [00:00:30–00:00:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der übernommene Destatis-Einzelquartalsbefund ersetzt keine vollständige Produktivitätsreihe seit 2017. Definition, Abgrenzung und Zeitraum der Stagnationsbehauptung sind noch redaktionell und inhaltlich zu klären.
+Die Arbeitsproduktivität je Stunde und je Erwerbstätigem stagniert seit einigen Jahren; Destatis weist 2022 +0,3, 2023 −1,2, 2024 −0,3 und 2025 +0,4 Prozent je Stunde aus. Den Beginn der Stagnation um 2017 belegen die gelesenen Quellen nicht ausdrücklich.
 
 Grundlage der Bewertung: Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.
 
 Uebernahme: Übernommen: Beginn und Stagnationsbehauptung; zugeordnet: die bisher offene längerfristige Produktivitätsprüfung.
 
-Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 ### Zugeordnete Quellen
+
+- [Pressemitteilung Nr. 017 vom 15. Januar 2026 (BIP 2025)](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/01/PD26%5F017%5F811.html) · Statistisches Bundesamt · 15.01.2026; Ausrüstungsinvestitionen real 2024 −5,4 %, 2025 −2,3 %; Tabelle zur Arbeitsproduktivität je Erwerbstätigen und je Stunde.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Jahresveränderungen der Produktivität 2022–2025.
+
+- [Reales BIP je Erwerbstätigem und je Erwerbstätigenstunde in Deutschland](https://de.statista.com/infografik/33692/reales-bip-je-erwerbstaetigem-und-je-erwerbstaetigenstunde-in-deutschland) · Statista-Infografik nach Bundesbankdaten · nur Begleittext gelesen; beide Produktivitätsmaße stagnieren in den letzten Jahren.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Stagnation beider Maße in den letzten Jahren.
 
 - [Bruttoinlandsprodukt: Ausführliche Ergebnisse im 2. Quartal 2026](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_303_811.html) · Statistisches Bundesamt · Stand: August 2026; vorläufige Daten.
   Quellenzugriff am 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Übernommener Kontext: Stundenproduktivität Q2 2026, kein vollständiger Nachweis der Reihe seit 2017.
 
 ### Offene Fragen und Unsicherheiten
 
-- Stunden- gegenüber Kopfproduktivität sowie nominale gegenüber realer Messung abgrenzen.
-
-- Vollständige Reihe und damaligen Revisionsstand prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0008
 
@@ -221,7 +229,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** In späteren Jahren sei die deutsche Arbeitsproduktivität gesunken.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -244,24 +252,25 @@ Frueherer Suchbereich: [02:00:49–02:03:25](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die bisherige Begründung nennt ein Quartal mit Wachstum, lässt aber den gesamten Zeitraum und dessen Revisionen offen. Ein einzelnes positives Quartal widerlegt nicht, dass es in anderen Jahren Rückgänge gab. Es wird keine Behauptung eines ausnahmslos fortlaufenden Rückgangs hinzuerfunden.
+Destatis weist für 2023 (−1,2 % je Stunde, −1,5 % je Erwerbstätigem) und 2024 (−0,3 % bzw. −0,6 %) Rückgänge der realen Arbeitsproduktivität aus. Das trägt die Aussage, dass sie in späteren Jahren gesunken ist; ein durchgehender Rückgang wird nicht behauptet.
 
 Grundlage der Bewertung: Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.
 
 Uebernahme: Übernommen: die spätere Rückgangsbehauptung; erhalten: Destatis-Zahl, deren begrenzte Aussagekraft und Revisionsvorbehalt im Herkunftstext. Die überstarke Gegenüberstellung mit einem durchgehenden Rückgang wird nicht als Einzelurteil übernommen.
 
-Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen.
+Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 ### Zugeordnete Quellen
+
+- [Pressemitteilung Nr. 017 vom 15. Januar 2026 (BIP 2025)](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/01/PD26%5F017%5F811.html) · Statistisches Bundesamt · 15.01.2026; Ausrüstungsinvestitionen real 2024 −5,4 %, 2025 −2,3 %; Tabelle zur Arbeitsproduktivität je Erwerbstätigen und je Stunde.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Tabelle der Produktivitätsentwicklung.
 
 - [Bruttoinlandsprodukt: Ausführliche Ergebnisse im 2. Quartal 2026](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_303_811.html) · Statistisches Bundesamt · Stand: August 2026; vorläufige Daten.
   Quellenzugriff am 2026-11-17. Aus dem Erststand übernommen; bei der Strukturübernahme nicht erneut abgerufen. Bisheriger Einzelbefund +1,5 Prozent im Vorjahresvergleich von Q2 2026; zeitlich begrenzter Kontext.
 
 ### Offene Fragen und Unsicherheiten
 
-- Gemeinte Jahre und Bezugsmaß bestimmen.
-
-- Rückgänge in Teilperioden von einem durchgehenden Abwärtstrend unterscheiden.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0273
 
@@ -269,7 +278,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Regierungen dürfen der Europäischen Zentralbank offiziell keine Vorgaben zu Inflation oder Zinsen machen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -292,21 +301,22 @@ Frueherer Suchbereich: [01:48:29–01:49:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Weisungsfreiheit der EZB ist im EU-Vertrag geregelt. Die EUR-Lex-Seiten mit dem Vertragstext lieferten beim Abruf keinen Inhalt; ohne gelesene Quelle keine Endbewertung.
+Artikel 130 AEUV untersagt der EZB und den nationalen Zentralbanken, Weisungen von Regierungen einzuholen oder entgegenzunehmen; die Regierungen verpflichten sich, keine Einflussnahme zu versuchen.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Art. 130 AEUV](https://lxgesetze.de/aeuv/130) · Vertrag über die Arbeitsweise der EU, Artikel 130 (Wiedergabe lxgesetze.de); Weisungsfreiheit von EZB und nationalen Zentralbanken.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Vertragstext.
 
 ### Offene Fragen und Unsicherheiten
 
-- Artikel 130 AEUV im Wortlaut lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0274
 
@@ -314,7 +324,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Alle bisherigen Präsidenten der EZB seien politisch besetzt gewesen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -337,21 +347,25 @@ Frueherer Suchbereich: [01:48:29–01:49:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Ernennung erfolgt durch ein politisches Gremium; ob daraus eine politische Besetzung im Sinne fehlender Unabhängigkeit folgt, ist eine Deutung. Der Ernennungsartikel des Vertrags wurde nicht erfolgreich gelesen. Keine Endbewertung.
+Die EZB-Präsidenten werden vom Europäischen Rat, also von den Staats- und Regierungschefs, mit qualifizierter Mehrheit ernannt; insofern ist die Besetzung ein politischer Vorgang. Danach sind sie für acht Jahre ohne Wiederernennung im Amt und weisungsfrei. Die Aussage verschweigt diese vertraglichen Sicherungen.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Weisungsfreiheit der Zentralbank und politische Besetzung ihrer Leitung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Irreführend / Kontext fehlt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Art. 283 AEUV](https://lxgesetze.de/aeuv/283) · Vertrag über die Arbeitsweise der EU, Artikel 283 (Wiedergabe lxgesetze.de); Ernennung des EZB-Direktoriums durch den Europäischen Rat, Amtszeit acht Jahre ohne Wiederernennung.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Ernennungsverfahren.
+
+- [Art. 130 AEUV](https://lxgesetze.de/aeuv/130) · Vertrag über die Arbeitsweise der EU, Artikel 130 (Wiedergabe lxgesetze.de); Weisungsfreiheit von EZB und nationalen Zentralbanken.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Weisungsfreiheit.
 
 ### Offene Fragen und Unsicherheiten
 
-- Artikel 283 AEUV lesen; Ernennungsweg von der behaupteten Abhängigkeit trennen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0275
 
@@ -405,7 +419,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Lagarde sei wegen Veruntreuung von 400 Millionen rechtskräftig verurteilt; das Urteil sei wegen ihrer Persönlichkeit nie vollstreckt worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -428,21 +442,22 @@ Frueherer Suchbereich: [01:49:10–01:49:50](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Gemeint ist das Verfahren um die Tapie-Schiedszahlung. Ein Bericht über den Schuldspruch von 2016 konnte nicht gelesen werden (Abruf blockiert); Tatvorwurf, Strafausspruch und Begründung sind daher nicht geprüft. Insbesondere ist offen, ob der Vorwurf Veruntreuung oder Fahrlässigkeit lautete. Keine Bewertung.
+Lagarde wurde im Dezember 2016 vom Gerichtshof der Republik wegen Fahrlässigkeit im Zusammenhang mit der Tapie-Schiedszahlung über 403 Millionen Euro schuldig gesprochen, nicht wegen Veruntreuung. Das Gericht verhängte keine Strafe und ordnete keinen Registereintrag an; es gab deshalb nichts zu vollstrecken.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Frühere Ministerfunktion und behauptete Verurteilung getrennt; Vorwurf, Schuldspruch und Strafverzicht sind gesondert zu prüfen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Widerlegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [IMF Chief Lagarde Keeps Job Despite Conviction](https://occrp.org/en/news/imf-chief-lagarde-keeps-job-despite-conviction) · OCCRP · 20.12.2016; Schuldspruch wegen Fahrlässigkeit im Tapie-Schiedsverfahren (403 Mio. Euro), ohne Strafe und ohne Registereintrag.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Schuldspruch, Summe und Strafverzicht.
 
 ### Offene Fragen und Unsicherheiten
 
-- Urteil des Gerichtshofs der Republik vom Dezember 2016 oder seriösen Bericht lesen: Tatvorwurf, Summe, Strafe, Begründung.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0277
 
@@ -450,7 +465,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die direkte Finanzierung des Staates durch die Zentralbank ist verboten.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -473,22 +488,25 @@ Frueherer Suchbereich: [01:50:00–01:53:30](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das Verbot der monetären Staatsfinanzierung ist im EU-Vertrag geregelt; der Vertragstext lieferte beim Abruf keinen Inhalt. Die EZB-FAQ bestätigt nur, dass im Ankaufprogramm nie am Primärmarkt gekauft wurde. Keine Endbewertung ohne gelesene Rechtsquelle.
+Artikel 123 AEUV verbietet der EZB und den nationalen Zentralbanken Kreditfazilitäten für öffentliche Stellen und den unmittelbaren Erwerb ihrer Schuldtitel.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 ### Zugeordnete Quellen
 
+- [Art. 123 AEUV](https://lxgesetze.de/aeuv/123) · Vertrag über die Arbeitsweise der EU, Artikel 123 (Wiedergabe lxgesetze.de); Verbot von Kreditfazilitäten und unmittelbarem Erwerb öffentlicher Schuldtitel durch EZB und nationale Zentralbanken.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Vertragstext.
+
 - [FAQ on the public sector purchase programme](https://www.ecb.europa.eu/mopo/implement/app/html/ecb.faq_pspp.en.html) · Europäische Zentralbank · aktualisiert 09.08.2023; Emissionsanteilsgrenze 25 Prozent, ab 2015 bis 33 Prozent nach Einzelfallprüfung; Emittentengrenze 33 Prozent; keine Käufe am Primärmarkt.
-  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Keine Primärmarktkäufe im PSPP.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Ankaufprogramm nur am Sekundärmarkt.
 
 ### Offene Fragen und Unsicherheiten
 
-- Artikel 123 AEUV im Wortlaut lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0278
 
@@ -496,7 +514,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Staatsanleihen würden von Banken und Versicherern gegen eine Gebühr gekauft und an die Zentralbank weitergereicht, die dafür Zentralbankgeld ausgibt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -519,22 +537,25 @@ Frueherer Suchbereich: [01:50:00–01:53:30](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die EZB kaufte im Ankaufprogramm Staatsanleihen nicht am Primärmarkt, also von anderen Marktteilnehmern. Dass Käufer Anleihen nur zum Weiterreichen gegen Gebühr erwerben, ist nicht belegt; die frühere Haltefrist vor dem Ankauf wurde nicht gelesen.
+Die EZB darf öffentliche Schuldtitel nicht unmittelbar erwerben und kaufte im Ankaufprogramm nur am Sekundärmarkt von anderen Marktteilnehmern gegen Zentralbankgeld. Dass Banken und Versicherer Anleihen nur gegen eine Gebühr zum Weiterreichen kaufen, belegen die gelesenen Quellen nicht.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Ankaufweg über den Sekundärmarkt, Verbot der direkten Staatsfinanzierung, behauptete unbegrenzte Geldschöpfung und Unabhängigkeitswertung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 ### Zugeordnete Quellen
 
 - [FAQ on the public sector purchase programme](https://www.ecb.europa.eu/mopo/implement/app/html/ecb.faq_pspp.en.html) · Europäische Zentralbank · aktualisiert 09.08.2023; Emissionsanteilsgrenze 25 Prozent, ab 2015 bis 33 Prozent nach Einzelfallprüfung; Emittentengrenze 33 Prozent; keine Käufe am Primärmarkt.
-  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Ankauf nicht am Primärmarkt.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Ankäufe am Sekundärmarkt.
+
+- [Art. 123 AEUV](https://lxgesetze.de/aeuv/123) · Vertrag über die Arbeitsweise der EU, Artikel 123 (Wiedergabe lxgesetze.de); Verbot von Kreditfazilitäten und unmittelbarem Erwerb öffentlicher Schuldtitel durch EZB und nationale Zentralbanken.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Verbot des unmittelbaren Erwerbs.
 
 ### Offene Fragen und Unsicherheiten
 
-- Sperrfristen vor Ankäufen neu emittierter Anleihen und Rolle der Zwischenhändler in EZB-Unterlagen lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0279
 
@@ -768,13 +789,13 @@ Frueherer Suchbereich: [01:53:30–01:57:30](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Weil Staatsleistung zu Kosten gemessen wird, ist ihre Produktivität nicht direkt vergleichbar. Ein Wachstumsbeitrag des Staates ließe sich an der Entstehungsrechnung prüfen; keine solche Quelle gelesen.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Weil Staatsleistung zu Kosten gemessen wird, ist ihre Produktivität nicht direkt vergleichbar. Ein Wachstumsbeitrag des Staates ließe sich an der Entstehungsrechnung prüfen; keine solche Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Personalzuwachs im öffentlichen Dienst, Bewertung staatlicher Leistung zu Kosten und behaupteter Wachstumsbeitrag getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -853,7 +874,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Mehr ausgezahltes Geld ohne zusätzliche Produktion führe ganz automatisch zu Preissteigerungen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -876,13 +897,13 @@ Frueherer Suchbereich: [01:57:30–01:59:15](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Allgemeiner ökonomischer Zusammenhang, den der Gast unmittelbar danach selbst einschränkt (Geld kann in Vermögenswerte fließen). Ein Automatismus ist zu absolut; ohne gelesene Fachquelle keine Endbewertung.
+Allgemeine ökonomische These, die der Gast unmittelbar selbst einschränkt; als Meinung eingeordnet. Ein Automatismus ist in der Fachdiskussion nicht unumstritten.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): von Tatsachenbehauptung zu Meinung umgestuft.
 
 ### Zugeordnete Quellen
 
@@ -890,7 +911,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Empirische Literatur zum Zusammenhang von Geldmenge und Verbraucherpreisen lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0286
 
@@ -898,7 +919,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** In den letzten zehn bis zwanzig Jahren sei staatlich geschaffenes Geld vor allem in Aktien, Gold und Bitcoin geflossen und habe Vermögenspreise statt Verbraucherpreise steigen lassen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -921,13 +942,13 @@ Frueherer Suchbereich: [01:57:30–01:59:15](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Behauptete Wirkungskette über einen langen Zeitraum. Vermögenspreisanstiege sind dokumentierbar, ihre Ursache in staatlicher Verschuldung nicht ohne Studien. Keine Quelle gelesen.
+Deutung einer langfristigen Wirkungskette; Vermögenspreisanstiege sind dokumentierbar, ihre Ursache ist eine Interpretation. Als Meinung eingeordnet.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Allgemeiner Preismechanismus und behauptete Vermögenspreisinflation der letzten Jahrzehnte getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): von Tatsachenbehauptung zu Meinung umgestuft.
 
 ### Zugeordnete Quellen
 
@@ -935,7 +956,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Studien zu Anleihekaufprogrammen und Vermögenspreisen lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0287
 
@@ -966,13 +987,13 @@ Frueherer Suchbereich: [01:59:15–02:00:49](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Werbeaussage des Moderators. Zusammensetzung handelsüblicher Cremes und deren Wirkung wären an dermatologischer Literatur zu prüfen; keine Quelle gelesen. Keine Bewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Werbeaussage des Moderators. Zusammensetzung handelsüblicher Cremes und deren Wirkung wären an dermatologischer Literatur zu prüfen; keine Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1011,13 +1032,13 @@ Frueherer Suchbereich: [01:59:15–02:00:49](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Werbeaussage. Eine Fachquelle zur Zusammensetzung von menschlichem Hautfett und Rindertalg wurde nicht gefunden bzw. nicht gelesen. Keine Bewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Werbeaussage. Eine Fachquelle zur Zusammensetzung von menschlichem Hautfett und Rindertalg wurde nicht gefunden bzw. nicht gelesen.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1056,13 +1077,13 @@ Frueherer Suchbereich: [01:59:15–02:00:49](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Historische Werbeaussage; keine Quelle gelesen. Keine Bewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Historische Werbeaussage; keine Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1236,13 +1257,13 @@ Frueherer Suchbereich: [02:01:00–02:04:15](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Steigende Bauzinsen betreffen Anschlussfinanzierungen, nicht laufende Zinsbindungen; Grundsteuer hängt seit der Reform von Gemeinde und Grundstück ab. Keine Quelle gelesen; keine Bewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Steigende Bauzinsen betreffen Anschlussfinanzierungen, nicht laufende Zinsbindungen; Grundsteuer hängt seit der Reform von Gemeinde und Grundstück ab. Keine Quelle gelesen; keine Bewertung.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1371,13 +1392,13 @@ Frueherer Suchbereich: [02:01:00–02:04:15](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Kausalbehauptung zu Entlassungen. Produktivität ist nur einer von mehreren möglichen Gründen (Nachfrage, Kosten, Strukturwandel). Keine Quelle gelesen.
+Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Kausalbehauptung zu Entlassungen. Produktivität ist nur einer von mehreren möglichen Gründen (Nachfrage, Kosten, Strukturwandel). Keine Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1478,13 +1499,13 @@ Frueherer Suchbereich: [02:04:00–02:05:02](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Hypothese des Moderators, die der Gast unmittelbar zurückweist. Wie Lieferungen aus Deutschland finanziert werden, wurde nicht im Einzelnen geprüft. Keine Bewertung.
+Nicht überprüfbar – im Gespräch sofort zurückgewiesene Vermutung. Hypothese des Moderators, die der Gast unmittelbar zurückweist. Wie Lieferungen aus Deutschland finanziert werden, wurde nicht im Einzelnen geprüft.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (im Gespräch sofort zurückgewiesene Vermutung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1500,7 +1521,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Deutschland schenke der Ukraine Waffen ohne Rückzahlungspflicht; Geld der Ukraine fließe für Waffenkäufe in die USA.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1523,13 +1544,13 @@ Frueherer Suchbereich: [02:04:00–02:05:02](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das Kiel-Institut verfolgt rund 56 Milliarden Euro deutsche Militärhilfe, nennt im gelesenen Text aber keine Angabe zur Rückzahlungsfreiheit. Ukrainische Zahlungen für US-Waffen wurden nicht geprüft. Keine Endbewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Das Kiel-Institut verfolgt rund 56 Milliarden Euro deutsche Militärhilfe, nennt im gelesenen Text aber keine Angabe zur Rückzahlungsfreiheit. Ukrainische Zahlungen für US-Waffen wurden nicht geprüft.
 
 Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Hypothese des Moderators mit Zurückweisung und Gegenbehauptung des Gastes zur Ukrainehilfe getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 

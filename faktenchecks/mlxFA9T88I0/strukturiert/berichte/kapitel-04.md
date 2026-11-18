@@ -1,8 +1,8 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Teilbestand: 99 von 99 ursprünglichen Prüfpunkten übertragen, 0 nicht migriert. Kapitel 1 bis 10 sind hinsichtlich ihrer Altpunkte vollständig übertragen; einzelne spätere Altpunkte sind gesondert gekennzeichnet. Ab Kapitel 3 wurden die abgegrenzten Textzeiträume vollständig auf Prüfgegenstände gelesen; Migration ist keine vollständige Sachverifikation. Zusätzliche Inhalte ohne Altpunkt gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
-A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde.
+A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten.
 
 ## Übertragene Herkunftspunkte und Zuordnung
 
@@ -328,7 +328,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Es gibt einen Megatrend zu alkoholfreien und alkoholärmeren Getränken, der bereits während der Pandemie bestand.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -351,21 +351,22 @@ Frueherer Suchbereich: [01:15:40–01:16:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die allgemeine Trendbehauptung ist grundsätzlich an Verbrauchs- und Steuerstatistiken prüfbar. Im Rahmen dieser Prüfung wurde dazu keine Quelle gelesen; daher keine Endbewertung.
+Der Bierabsatz sank 2025 um 6 Prozent und liegt fast 19 Prozent unter 2015; das stützt einen Rückgang des Alkoholkonsums. Zahlen zu alkoholfreien Getränken und zur Pandemiezeit wurden nicht gelesen.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [6,0 % weniger Bier im Jahr 2025 abgesetzt](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/02/PD26_037_73.html) · Statistisches Bundesamt · 02.02.2026; Bierabsatz 2025 −6,0 %, 18,9 % unter 2015; alkoholfreies Bier nicht enthalten.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Bierabsatz 2025.
 
 ### Offene Fragen und Unsicherheiten
 
-- Pro-Kopf-Alkoholkonsum und Marktanteile alkoholfreier Getränke (z. B. Destatis, Jahrbuch Sucht) für die Jahre vor, während und nach der Pandemie lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0186
 
@@ -508,7 +509,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die schottische Whiskyindustrie erhöhte nach dem Verkaufsboom die Preise und stellte dann fest, dass dies dem Absatz schadete.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -531,21 +532,22 @@ Frueherer Suchbereich: [01:17:29–01:18:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Prüfbar wären Preis- und Exportreihen der Branche. Ein Abruf der Pressemitteilungsübersicht der Scotch Whisky Association scheiterte (HTTP 404); andere Branchenquellen wurden nicht gelesen. Keine Endbewertung.
+Die Scotch-Exporte sanken 2024 und 2025 nach Wert und Menge. Der Branchenverband führt das auf Zölle, Kosten und schwächere Nachfrage zurück, nicht auf eigene Preiserhöhungen. Der Rückgang ist belegt, die behauptete Ursache nicht.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [2025 export figures](https://scotch-whisky.org.uk/newsroom/2025-export-figures/) · Scotch Whisky Association · 12.02.2026; Exportwert 2025 −1,8 %, Menge −4,3 %, nach −3,7 % Wert 2024; Begründung Zölle, Kosten, schwächere Nachfrage.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Exportzahlen 2025.
 
 ### Offene Fragen und Unsicherheiten
 
-- Exportwert- und Mengenreihen der Scotch Whisky Association 2021–2025 sowie Preisangaben großer Hersteller lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0190
 
@@ -576,13 +578,13 @@ Frueherer Suchbereich: [01:17:29–01:18:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Mengenanteile nach Vertriebsweg stammen meist aus kommerziellen Handelspanels. Eine solche Quelle wurde nicht gelesen. Unklar bleibt außerdem, ob Spirituosen oder alle alkoholischen Getränke gemeint sind.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Mengenanteile nach Vertriebsweg stammen meist aus kommerziellen Handelspanels. Eine solche Quelle wurde nicht gelesen. Unklar bleibt außerdem, ob Spirituosen oder alle alkoholischen Getränke gemeint sind.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -621,13 +623,13 @@ Frueherer Suchbereich: [01:17:29–01:18:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Discounterpreise ändern sich laufend; ohne Datum und Produkt kann ein Einzelpreis nicht nachgeprüft werden. Der eigene Preisbereich des Händlers ist eine Sortimentsangabe. Keine Preisquelle gelesen.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Discounterpreise ändern sich laufend; ohne Datum und Produkt kann ein Einzelpreis nicht nachgeprüft werden. Der eigene Preisbereich des Händlers ist eine Sortimentsangabe. Keine Preisquelle gelesen.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -840,7 +842,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Bei Inflation steigen alle Kosten; ohne Umsatzwachstum bleibt nichts übrig, und Beschäftigte können dann per Definition nicht einmal einen Inflationsausgleich erhalten.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -863,13 +865,13 @@ Frueherer Suchbereich: [01:18:00–01:21:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Rechnerisch trifft zu: Bleibt der nominale Umsatz bei steigenden Kosten gleich, schrumpft die Marge. Der Gast schränkt selbst ein, dass ein Ausgleich aus der Marge kommen kann. Produktivität, Preisgestaltung und vorhandene Marge können Lohnerhöhungen dennoch ermöglichen; eine Definition schließt das nicht aus. Ohne gelesene Lohn- und Ertragsdaten keine Endbewertung der Verallgemeinerung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Rechnerisch trifft zu: Bleibt der nominale Umsatz bei steigenden Kosten gleich, schrumpft die Marge. Der Gast schränkt selbst ein, dass ein Ausgleich aus der Marge kommen kann. Produktivität, Preisgestaltung und vorhandene Marge können Lohnerhöhungen dennoch ermöglichen; eine Definition schließt das nicht aus. Ohne gelesene Lohn- und Ertragsdaten keine Endbewertung der Verallgemeinerung.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -954,13 +956,13 @@ Frueherer Suchbereich: [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Allgemeine Standortbehauptung. Energiepreise und Sozialversicherungsbeiträge sind an amtlichen Daten prüfbar; dazu wurde in dieser Prüfung keine Quelle gelesen. Keine Endbewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Allgemeine Standortbehauptung. Energiepreise und Sozialversicherungsbeiträge sind an amtlichen Daten prüfbar; dazu wurde in dieser Prüfung keine Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -999,13 +1001,13 @@ Frueherer Suchbereich: [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Verallgemeinerung über Investitionsentscheidungen. Prüfbar wären Direktinvestitionsdaten der Bundesbank und Unternehmensbefragungen; keine solche Quelle gelesen.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Verallgemeinerung über Investitionsentscheidungen. Prüfbar wären Direktinvestitionsdaten der Bundesbank und Unternehmensbefragungen; keine solche Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1021,7 +1023,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** BMW und Mercedes bauen Werke in Ungarn.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1044,21 +1046,25 @@ Frueherer Suchbereich: [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Werke in Debrecen und Kecskemét sind bekannt, wurden in dieser Prüfung aber nicht anhand einer gelesenen Quelle bestätigt: Die Mercedes-Standortseite verweigerte den Zugriff (HTTP 403), im BMW-Newsroom wurde keine Debrecen-Meldung gefunden. Ob die Werke als Folge der Standortlage in Deutschland entstanden, ist eine eigene Frage.
+BMW startete im Werk Debrecen Ende Oktober 2025 die Serienproduktion; Mercedes-Benz betreibt seit 2012 ein Werk in Kecskemét und baut es weiter aus. Beide Hersteller produzieren also in Ungarn und haben dort investiert.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Serienstart des BMW iX3](https://www.bmwgroup.com/de/news/allgemein/2025/serienstart-des-BMW-iX3.html) · BMW Group · 30.09.2025; Serienproduktion im Werk Debrecen ab Ende Oktober 2025.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Serienstart Debrecen.
+
+- [Ungarns Autoindustrie: BMW, Audi, Mercedes](https://industriemagazin.at/automobil/ungarn-autoindustrie-bmw-audi-mercedes/) · Industriemagazin · 13.07.2026; Mercedes-Benz Kecskemét seit 2012 und im Ausbau, BMW Debrecen mit Serienstart Ende 2025.
+  Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Mercedes Kecskemét und BMW Debrecen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Primärquellen zu Bauentscheidung und Produktionsbeginn von BMW Debrecen und Mercedes-Benz Kecskemét lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0201
 
@@ -1066,7 +1072,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Viele Unternehmen sind in die Schweiz gegangen; STIHL gehe ebenfalls dorthin.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1089,13 +1095,13 @@ Frueherer Suchbereich: [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-STIHL fertigt Sägeketten bereits seit 1974 in Wil; laut eigener Zeitleiste wurde die Kettenfertigung damals aus Waiblingen verlagert und seither ausgebaut (zweites Werk 2008, Erweiterungen bis 2021). Das ist kein Beleg für einen neuen, krisenbedingten Wegzug. Eine jüngere Standortentscheidung zugunsten der Schweiz wurde auf den gelesenen Seiten nicht gefunden, ist damit aber nicht ausgeschlossen. Die Verallgemeinerung auf viele Unternehmen ist ungeprüft.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. STIHL fertigt Sägeketten bereits seit 1974 in Wil; laut eigener Zeitleiste wurde die Kettenfertigung damals aus Waiblingen verlagert und seither ausgebaut (zweites Werk 2008, Erweiterungen bis 2021). Das ist kein Beleg für einen neuen, krisenbedingten Wegzug. Eine jüngere Standortentscheidung zugunsten der Schweiz wurde auf den gelesenen Seiten nicht gefunden, ist damit aber nicht ausgeschlossen. Die Verallgemeinerung auf viele Unternehmen ist ungeprüft.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1140,13 +1146,13 @@ Frueherer Suchbereich: [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ein Produktivitätsvergleich hängt von Kennzahl (je Stunde oder je Beschäftigtem), Währungsumrechnung und Branche ab. Keine OECD- oder Eurostat-Daten gelesen; der Kausalschluss auf Rentabilität berücksichtigt Lohn- und Kostenniveau nicht. Keine Endbewertung.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Ein Produktivitätsvergleich hängt von Kennzahl (je Stunde oder je Beschäftigtem), Währungsumrechnung und Branche ab. Keine OECD- oder Eurostat-Daten gelesen; der Kausalschluss auf Rentabilität berücksichtigt Lohn- und Kostenniveau nicht.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1464,13 +1470,13 @@ Frueherer Suchbereich: [01:23:20–01:24:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-An Verbraucherpreisdaten prüfbar; keine solche Quelle gelesen. Zeitraum und Vergleichsbasis fehlen.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. An Verbraucherpreisdaten prüfbar; keine solche Quelle gelesen. Zeitraum und Vergleichsbasis fehlen.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1509,13 +1515,13 @@ Frueherer Suchbereich: [01:24:20–01:26:39](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ein veröffentlichtes gemeinsames Video wäre öffentlich prüfbar; danach wurde nicht gesucht. Der Inhalt des privaten Gesprächs ist nicht prüfbar.
+Nicht überprüfbar – persönliche Darstellung ohne öffentlichen Beleg. Ein veröffentlichtes gemeinsames Video wäre öffentlich prüfbar; danach wurde nicht gesucht. Der Inhalt des privaten Gesprächs ist nicht prüfbar.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1616,13 +1622,13 @@ Frueherer Suchbereich: [01:24:20–01:26:39](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Erinnertes Zitat mit ausdrücklich unsicherem Namen. Weder Person noch Äußerung wurden in einer Quelle gefunden oder gelesen. Keine Bewertung; die anschließende Kritik am Amtsträger ist eine Wertung.
+Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Erinnertes Zitat mit ausdrücklich unsicherem Namen. Weder Person noch Äußerung wurden in einer Quelle gefunden oder gelesen. Keine Bewertung; die anschließende Kritik am Amtsträger ist eine Wertung.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1706,13 +1712,13 @@ Frueherer Suchbereich: [01:24:20–01:26:39](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-An Unternehmensstatistik prüfbar (Anteil an Wertschöpfung und Beschäftigung); keine solche Quelle gelesen. Der Begriff Kern ist zudem wertend.
+Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. An Unternehmensstatistik prüfbar (Anteil an Wertschöpfung und Beschäftigung); keine solche Quelle gelesen. Der Begriff Kern ist zudem wertend.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
@@ -1751,13 +1757,13 @@ Frueherer Suchbereich: [01:24:20–01:26:39](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Allgemeine Beschreibung ohne benannten Zulieferer. Einzelne Abbaumeldungen wären prüfbar, belegen aber nicht den behaupteten Ursachenweg für alle Betriebe. Keine Quelle gelesen.
+Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Allgemeine Beschreibung ohne benannten Zulieferer. Einzelne Abbaumeldungen wären prüfbar, belegen aber nicht den behaupteten Ursachenweg für alle Betriebe. Keine Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
 
 ### Zugeordnete Quellen
 
