@@ -68,7 +68,7 @@ function vcItem(entry, c, o, v, ctx) {
   return `<li class="vc-item" id="vc-${esc(entry.key)}" data-key="${esc(entry.key)}">
     <div class="vc-item-top">
       ${entry.untimed ? '<span class="time">ohne Zeitmarke</span>' : `<button type="button" class="vc-seek" data-key="${esc(entry.key)}" aria-label="${esc(label)}"><span class="time">▶ ${range}</span></button>`}
-      ${verdictBadge(c.verdict, c.status)}
+      ${verdictBadge(c.verdict, c.status, c.reason)}
       <span class="vc-flag" aria-hidden="true"></span>
     </div>
     <p class="vc-desc">${esc(c.description)}</p>
@@ -90,8 +90,8 @@ function vcItem(entry, c, o, v, ctx) {
           <dt>Zeitgrundlage</dt><dd>${esc(o.timeBasis)}</dd>
           ${o.note ? `<dt>Hinweis</dt><dd>${esc(o.note)}</dd>` : ''}
         </dl>
-        <div><h4>Quellen</h4>${srcs ? `<ul class="sources">${srcs}</ul>` : '<p class="small">Dieser Aussage sind noch keine Sachquellen zugeordnet.</p>'}</div>
-        ${q ? `<div><h4>Offene Fragen</h4><ul class="questions">${q}</ul></div>` : ''}
+        <div><h4>Quellen</h4>${srcs ? `<ul class="sources">${srcs}</ul>` : '<p class="small">Dieser Aussage sind keine Sachquellen zugeordnet.</p>'}</div>
+        ${q ? `<div><h4>${isUnverifiable(c) ? 'Was für eine Prüfung fehlt' : 'Offene Fragen'}</h4><ul class="questions">${q}</ul></div>` : ''}
         <p class="small"><a href="#/video/${esc(v.id)}/aussage/${esc(c.id)}">Vollständige Prüfung ${esc(shortId)}</a>${ext ? ` · ${extLink(ext, 'Stelle auf YouTube öffnen')}` : ''}</p>
       </div>
     </details>
@@ -269,7 +269,7 @@ async function pageVideoSync(id) {
         info.matches.map(m => {
           const c = byClaim[m.entry.claimId];
           return `<li class="${m.match === 'genau' ? 'is-current' : 'is-near'}"><button type="button" class="linkish" data-goto="${esc(m.entry.key)}">${esc(c.description)}</button>
-            <span class="vc-now-badges">${verdictBadge(c.verdict, c.status)}${m.match === 'nahe' ? '<span class="badge plain">in der Nähe</span>' : ''}</span></li>`;
+            <span class="vc-now-badges">${verdictBadge(c.verdict, c.status, c.reason)}${m.match === 'nahe' ? '<span class="badge plain">in der Nähe</span>' : ''}</span></li>`;
         }).join('') + '</ul>';
     } else {
       const n = info.next;

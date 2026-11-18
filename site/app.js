@@ -18,6 +18,7 @@ const VERDICTS = [
   { name: 'Meinung / Prognose', key: 'meinung', text: 'Wertung oder Vorhersage; nicht als wahr oder falsch bewertbar. Überprüfbare Voraussetzungen werden gesondert betrachtet.' }
 ];
 const STATUS = [
+  { name: 'Nicht überprüfbar', key: 'nichtpruefbar', text: 'Abschließend eingeordnet: Mit öffentlich zugänglichen Quellen nicht überprüfbar, der Grund steht in der Begründung. Es wird keine Bewertung geraten; nicht überprüfbar heißt nicht falsch.' },
   { name: 'In Bearbeitung', key: 'bearbeitung', text: 'Die Prüfung läuft; noch keine Endbewertung.' },
   { name: 'Offen', key: 'offen', text: 'Erfasst, aber noch nicht abschließend recherchiert; noch keine Endbewertung.' }
 ];
@@ -74,15 +75,24 @@ function blobUrl(repoPath) {
   return repoUrl() + '/blob/' + ref + '/' + repoPath.split('/').map(encodeURIComponent).join('/');
 }
 
-function verdictBadge(verdict, status) {
+/* Offene Aussagen, deren Begründung mit „Nicht überprüfbar“/„Nicht überprüft“ beginnt, sind nach
+   abgeschlossener Recherche bewusst ohne Bewertung eingeordnet und werden als solche angezeigt. */
+function isUnverifiable(c) {
+  return !!c && !c.verdict && c.status !== 'Abgeschlossen' && /^Nicht überprüf(bar|t)\b/.test(c.reason || '');
+}
+function verdictBadge(verdict, status, reason) {
   if (verdict) {
     return `<span class="badge"><i class="fill-${VKEY[verdict] || 'offen'}" aria-hidden="true"></i>${esc(verdict)}</span>`;
+  }
+  if (isUnverifiable({ verdict, status, reason })) {
+    return `<span class="badge"><i class="fill-nichtpruefbar" aria-hidden="true"></i>Nicht überprüfbar</span>`;
   }
   const key = status === 'In Bearbeitung' ? 'bearbeitung' : 'offen';
   return `<span class="badge plain"><i class="fill-${key}" aria-hidden="true"></i>${esc(status || 'Offen')} · noch ohne Bewertung</span>`;
 }
 function bucketOf(c) {
   if (c.verdict) return VKEY[c.verdict] || 'offen';
+  if (isUnverifiable(c)) return 'nichtpruefbar';
   return c.status === 'In Bearbeitung' ? 'bearbeitung' : 'offen';
 }
 
@@ -353,7 +363,7 @@ function claimCard(c, v, chapterTitles) {
   const speakers = Object.fromEntries((d.speakers || []).map(s => [s.id, s]));
   const sources = Object.fromEntries((d.sources || []).map(s => [s.id, s]));
   const shortId = c.id.replace(v.id + '-', '');
-  const color = c.verdict ? `var(--v-${VKEY[c.verdict]})` : (c.status === 'In Bearbeitung' ? 'var(--s-bearbeitung)' : 'var(--s-offen)');
+  const color = c.verdict ? `var(--v-${VKEY[c.verdict]})` : isUnverifiable(c) ? 'var(--s-nichtpruefbar)' : (c.status === 'In Bearbeitung' ? 'var(--s-bearbeitung)' : 'var(--s-offen)');
   const spk = id => (id && speakers[id] ? (speakers[id].name || 'Unbenannte Stimme ' + id) : id);
 
   const occ = (c.occurrences || []).map(o => {
@@ -393,7 +403,7 @@ function claimCard(c, v, chapterTitles) {
     <div class="claim-head">
       <span class="claim-stripe" style="background:${color}" aria-hidden="true"></span>
       <div class="claim-main">
-        <div class="claim-top">${verdictBadge(c.verdict, c.status)}
+        <div class="claim-top">${verdictBadge(c.verdict, c.status, c.reason)}
           <span class="badge kind">${esc(c.kind)}</span>
           <span class="badge kind">Kapitel ${esc(c.chapter)}${chapter ? ' · ' + esc(chapter) : ''}</span>
           <a class="claim-id" href="#/video/${esc(v.id)}/aussage/${esc(c.id)}" title="Direktlink zu dieser Aussage">${esc(shortId)}</a></div>
@@ -407,8 +417,8 @@ function claimCard(c, v, chapterTitles) {
       <div class="claim-body">
         <div><h4>Grundlage der Bewertung</h4><p class="small" style="color:var(--text-2)">${esc(c.assessmentBasis)}</p></div>
         <div><h4>Fundstellen im Video (${(c.occurrences || []).length})</h4>${occ}</div>
-        <div><h4>Quellen</h4>${srcs ? `<ul class="sources">${srcs}</ul>` : '<p class="small">Dieser Aussage sind noch keine Sachquellen zugeordnet.</p>'}</div>
-        ${q ? `<div><h4>Offene Fragen</h4><ul class="questions">${q}</ul></div>` : ''}
+        <div><h4>Quellen</h4>${srcs ? `<ul class="sources">${srcs}</ul>` : '<p class="small">Dieser Aussage sind keine Sachquellen zugeordnet.</p>'}</div>
+        ${q ? `<div><h4>${isUnverifiable(c) ? 'Was für eine Prüfung fehlt' : 'Offene Fragen'}</h4><ul class="questions">${q}</ul></div>` : ''}
         ${rel ? `<div><h4>Beziehungen</h4><ul class="questions">${rel}</ul></div>` : ''}
         <div><h4>Herkunft</h4><dl class="kv">
           <dt>Erfassung</dt><dd>${esc(c.migration?.changeType)}${c.legacyId ? ' · früherer Prüfpunkt ' + esc(c.legacyId) : ''}</dd>
@@ -465,12 +475,16 @@ async function pageVideo(id, focusClaim) {
   await fillChapterTitles(v, titles);
   const chapters = [...new Set(d.claims.map(c => c.chapter))].sort((a, b) => a - b);
 
+  const nUnver = d.claims.filter(isUnverifiable).length;
+  const nWork = d.claims.filter(c => c.status === 'In Bearbeitung' && !isUnverifiable(c)).length;
+  const nOpen = d.claims.filter(c => c.status === 'Offen' && !isUnverifiable(c)).length;
   const statBlock = s ? `
     <dl class="stats">
       <div class="stat"><dt>Eigenständige Aussagen</dt><dd>${num(s.uniqueStatements)}</dd></div>
-      <div class="stat"><dt>Abgeschlossen</dt><dd>${num(s.statusCounts?.Abgeschlossen ?? 0)}</dd></div>
-      <div class="stat"><dt>In Bearbeitung</dt><dd>${num(s.statusCounts?.['In Bearbeitung'] ?? 0)}</dd></div>
-      <div class="stat"><dt>Offen</dt><dd>${num(s.statusCounts?.Offen ?? 0)}</dd></div>
+      <div class="stat"><dt>Bewertet oder Meinung</dt><dd>${num(s.statusCounts?.Abgeschlossen ?? 0)}</dd></div>
+      ${nUnver ? `<div class="stat"><dt>Nicht überprüfbar</dt><dd>${num(nUnver)}</dd></div>` : ''}
+      ${nWork ? `<div class="stat"><dt>In Bearbeitung</dt><dd>${num(nWork)}</dd></div>` : ''}
+      ${nOpen ? `<div class="stat"><dt>Offen</dt><dd>${num(nOpen)}</dd></div>` : ''}
       <div class="stat"><dt>Quellen</dt><dd>${num(d.sources.length)}</dd></div>
     </dl>` : '';
 
@@ -494,7 +508,7 @@ async function pageVideo(id, focusClaim) {
           <select id="f-v" aria-label="Nach Bewertung filtern">
             <option value="">Alle Bewertungen</option>
             ${VERDICTS.map(x => `<option value="${x.key}">${esc(x.name)}</option>`).join('')}
-            ${STATUS.map(x => `<option value="${x.key}">${esc(x.name)} (ohne Bewertung)</option>`).join('')}
+            ${STATUS.map(x => `<option value="${x.key}">${esc(x.name)}${x.key === 'nichtpruefbar' ? '' : ' (ohne Bewertung)'}</option>`).join('')}
           </select>
           <select id="f-c" aria-label="Nach Kapitel filtern">
             <option value="">Alle Kapitel</option>

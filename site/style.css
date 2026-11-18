@@ -29,6 +29,7 @@
   --v-meinung: #e87ba4;
   --s-bearbeitung: #a9a598;
   --s-offen: #d6d3c9;
+  --s-nichtpruefbar: #8a8576;
 
   --font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   --font-serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
@@ -60,6 +61,7 @@
     --v-meinung: #e87ba4;
     --s-bearbeitung: #6c6a62;
     --s-offen: #3e3d38;
+    --s-nichtpruefbar: #8f8a7c;
   }
 }
 :root[data-theme="dark"] {
@@ -86,6 +88,7 @@
   --v-meinung: #e87ba4;
   --s-bearbeitung: #6c6a62;
   --s-offen: #3e3d38;
+  --s-nichtpruefbar: #8f8a7c;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -214,6 +217,7 @@ a.card:hover { transform: translateY(-2px); border-color: var(--line-strong); }
 .fill-meinung { background: var(--v-meinung); }
 .fill-bearbeitung { background: repeating-linear-gradient(135deg, var(--s-bearbeitung) 0 3px, var(--s-offen) 3px 6px); }
 .fill-offen { background: var(--s-offen); }
+.fill-nichtpruefbar { background: var(--s-nichtpruefbar); }
 
 /* Bewertungs- und Statusabzeichen: Farbe nur als Zusatz zum Text */
 .badge {
