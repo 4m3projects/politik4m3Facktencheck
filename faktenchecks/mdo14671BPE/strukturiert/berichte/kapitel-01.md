@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Gast ist zum Zeitpunkt des Gesprächs 26 Jahre alt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,21 +29,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Altersangabe der Moderation; ein datierter amtlicher oder vergleichbar belastbarer Geburtsnachweis ist noch nicht geprüft.
+Nach der Tertiärquelle ist Seibt am 18.08.2000 geboren; ein Bericht vom 29.10.2025 nennt sie 25 Jahre alt, das passt dazu. 26 Jahre alt wäre sie ab dem 18.08.2026. Das Video wurde am 16.11.2026 veröffentlicht, der Aufnahmetermin ist unbekannt; das Gespräch behandelt den Ende Oktober 2025 bekannt gewordenen Asylantrag. Die Altersangabe stimmt also nur bei einer Aufnahme zwischen August und November 2026. Das lässt sich nicht feststellen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Naomi Seibt](https://en.wikipedia.org/wiki/Naomi_Seibt) · Wikipedia (englisch), Gemeinschaftsartikel ohne Datum; Tertiärquelle, nur ergänzend verwendet.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen: Geburtsdatum 18.08.2000 (Fußnotenzuordnung dort fehlerhaft), Mutter Rechtsanwältin (Fußnote Guardian 25.02.2020), Gedicht mit 16 bei Philosophia Perennis (Fußnoten Guardian, CORRECTIV). Die Fußnotenquellen selbst nicht gelesen. Keine Quellenkopie veröffentlicht. Geburtsdatum 18.08.2000; Tertiärquelle mit fehlerhafter Fußnotenzuordnung.
+
+- [Keine Meinungsfreiheit in Deutschland? AfD-Influencerin Naomi Seibt beantragt Asyl in den USA](https://www.berliner-zeitung.de/article/naomi-seibt-afd-influencerin-beantragt-asyl-in-den-usa-10003111) · Berliner Zeitung, Eva Maria Braungart · 29.10.2025; gibt Seibts Angaben aus einem Fox-News-Video wieder, nennt sie 25 Jahre alt.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; keine Bestätigung durch Behörde oder Anwalt. Keine Quellenkopie veröffentlicht. Altersangabe 25 am 29.10.2025.
 
 ### Offene Fragen und Unsicherheiten
 
-- Geburtsdatum und Aufnahmezeit unabhängig sichern.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0002
 
@@ -83,13 +87,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vereidigungszeremonie, öffentliche Begleitveranstaltungen und Ball sind zu unterscheiden. Die genaue Veranstaltung ist noch nicht unabhängig nachgewiesen.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Vereidigungszeremonie, öffentliche Begleitveranstaltungen und Ball sind zu unterscheiden. Die genaue Veranstaltung ist noch nicht unabhängig nachgewiesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -98,6 +102,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Welche Veranstaltung und welche Zugangskategorie sind durch zeitgenössische Belege bestätigt?
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0003
 
@@ -124,13 +130,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Mengenbehauptung braucht eine definierte Veranstaltung und einen belastbaren Vergleichsnenner.
+Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Die Mengenbehauptung braucht eine definierte Veranstaltung und einen belastbaren Vergleichsnenner.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -140,13 +146,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Gästeliste, Veranstaltung und Bezugsgruppe feststellen.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – zu unbestimmt gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0004
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe das Gespräch zwischen Alice Weidel und Elon Musk organisiert.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -165,13 +173,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Öffentliche Musk-Interaktionen sind dokumentiert, belegen aber nicht die konkrete Organisation des Weidel-Gesprächs.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Öffentliche Musk-Interaktionen sind dokumentiert, belegen aber nicht die konkrete Organisation des Weidel-Gesprächs.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -181,6 +189,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Zeitgenössische Bestätigung der Beteiligten oder organisatorische Nachweise finden.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0005
 
@@ -207,13 +217,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Gemeint ist offenbar das kostenlose Folgen, nicht Bezahlabonnements oder Datenkosten. Plattformbedingungen sind für diese konkrete Aussage noch zu prüfen.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Gemeint ist offenbar das kostenlose Folgen, nicht Bezahlabonnements oder Datenkosten. Plattformbedingungen sind für diese konkrete Aussage noch zu prüfen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -222,6 +232,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Kostenfreie Follow-Funktionen zum Veröffentlichungszeitpunkt belegen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0006
 

@@ -29,13 +29,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Wiederherstellung eines Kanals, neuer Kanal und einzelne freigegebene Videos müssen auseinandergehalten werden.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Wiederherstellung eines Kanals, neuer Kanal und einzelne freigegebene Videos müssen auseinandergehalten werden.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -44,6 +44,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Kanal-ID, Moderationsentscheidung und ursprüngliche Sperrhistorie vergleichen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0143
 
@@ -112,13 +114,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Autobiografischer Verknüpfungsbericht; konkrete Beiträge, Einladungen und Gruppen nicht unabhängig kontrolliert.
+Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Autobiografischer Verknüpfungsbericht; konkrete Beiträge, Einladungen und Gruppen nicht unabhängig kontrolliert.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -127,6 +129,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Öffentlich datierte Beiträge und Auftritte als Grundlage prüfen; private Gruppen nicht auslesen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – zu unbestimmt gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0145
 
@@ -176,7 +180,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Musk habe ihr wenige Tage nach der öffentlichen Reaktion privat geschrieben und sie habe ihm ihre AfD-Sicht erklärt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -195,13 +199,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Reuters berichtet dieselbe Selbstauskunft, hatte die privaten Nachrichten aber nicht gesehen. Eine zweite Veröffentlichung derselben Eigenangabe ist keine unabhängige Bestätigung.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Reuters berichtet dieselbe Selbstauskunft, hatte die privaten Nachrichten aber nicht gesehen. Eine zweite Veröffentlichung derselben Eigenangabe ist keine unabhängige Bestätigung.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -211,6 +215,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Authentischen privaten Austausch nur anhand freiwillig freigegebener belastbarer Bestätigung prüfen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0147
 
@@ -250,13 +256,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Einzelne hohe Aufrufzahlen beweisen keine allgemein veränderte Algorithmusgewichtung. Nutzer- und Zeitvergleich fehlen.
+Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Einzelne hohe Aufrufzahlen beweisen keine allgemein veränderte Algorithmusgewichtung. Nutzer- und Zeitvergleich fehlen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -265,6 +271,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Damals/heute vergleichbare Daten, Algorithmusversion und alternative Ursachen prüfen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – zu unbestimmt gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0148
 
@@ -354,7 +362,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe in der Aufbauphase täglich eigene politische Videos veröffentlicht und Musk einzelne Beiträge zugeschickt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -373,13 +381,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Tägliche Veröffentlichung und private Weitergabe sind getrennt nachzuweisen. Reuters bestätigt viele öffentliche Interaktionen, aber weder jeden Tagesupload noch private Nachrichten.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Tägliche Veröffentlichung und private Weitergabe sind getrennt nachzuweisen. Reuters bestätigt viele öffentliche Interaktionen, aber weder jeden Tagesupload noch private Nachrichten.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -389,5 +397,7 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Öffentliche Beitragshistorie für den gemeinten Zeitraum prüfen; private Weitergabe nur mit freiwillig zugänglicher Bestätigung.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

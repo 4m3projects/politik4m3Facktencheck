@@ -129,13 +129,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Retrospektiver Erlebnisbericht über eine nicht identifizierte Veranstaltung. Wortlaut, Bedeutung und Kontext sind ohne Originaldokumentation offen.
+Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Retrospektiver Erlebnisbericht über eine nicht identifizierte Veranstaltung. Wortlaut, Bedeutung und Kontext sind ohne Originaldokumentation offen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -144,6 +144,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Datum, Veranstaltung und überprüfbare damalige Dokumentation finden; keinen Gewaltaufruf aus der Erinnerung ableiten.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0041
 
@@ -257,21 +259,24 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Unbestimmte Aussage über parteiinterne Erwartungen; konkrete damalige Stimmen fehlen.
+Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Unbestimmte Aussage über parteiinterne Erwartungen; konkrete damalige Stimmen fehlen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Philipp Mißfelder](https://en.wikipedia.org/wiki/Philipp_Mi%C3%9Ffelder) · Wikipedia (englisch), ohne Datum; Tod am 13.07.2015 an einer Lungenembolie (Fußnoten Spiegel, Tagesschau).
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; nennt keine Nachfolgespekulation. Keine Quellenkopie veröffentlicht. Nennt keine Nachfolgespekulation.
 
 ### Offene Fragen und Unsicherheiten
 
 - Zeitgenössische, namentlich zurechenbare Äußerungen statt nachträglicher Spekulation suchen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0044
 
@@ -298,13 +303,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Konkrete Rede und ihr Datum sind nicht identifiziert. Daraus wird kein nachgewiesenes Vorwissen abgeleitet.
+Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Konkrete Rede und ihr Datum sind nicht identifiziert. Daraus wird kein nachgewiesenes Vorwissen abgeleitet.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -313,6 +318,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Originalrede oder zeitgenössischen Veranstaltungsbericht finden; genaue Aussage und damalige Lage prüfen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0045
 
@@ -446,7 +453,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die im Gespräch genannte künstliche Herbeiführung sei eine einfache Erklärung für die berichtete Todesursache.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -465,18 +472,21 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Diese Spekulation ersetzt keine forensische Prüfung; unterschiedliche Emboliearten und konkrete Todesursachen dürfen nicht gleichgesetzt werden. Keine Handlungsdetails werden wiedergegeben.
+Spekulation über eine mögliche Ursache, keine prüfbare Tatsachenbehauptung. Für eine Fremdeinwirkung gibt es keinen Beleg; öffentlich berichtet ist ein Tod durch Lungenembolie. Unterschiedliche Emboliearten und konkrete Todesursachen dürfen nicht gleichgesetzt werden. Von Claude am 18.11.2026 als Meinung bzw. Deutung eingeordnet.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
 - [Venous Thromboembolism: Causes and Risk Factors](https://www.nhlbi.nih.gov/health/venous-thromboembolism/causes) · NHLBI/NIH; aktualisiert 19.09.2022.
   Quellenzugriff am 2026-11-17. Erklärung zu Thrombose, Lungenembolie und familiären/genetischen Risiken gelesen; kein Einzelfallgutachten. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+
+- [Philipp Mißfelder](https://en.wikipedia.org/wiki/Philipp_Mi%C3%9Ffelder) · Wikipedia (englisch), ohne Datum; Tod am 13.07.2015 an einer Lungenembolie (Fußnoten Spiegel, Tagesschau).
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; nennt keine Nachfolgespekulation. Keine Quellenkopie veröffentlicht. Öffentlich berichtete Todesursache Lungenembolie, 13.07.2015.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -507,13 +517,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Persönlicher Bericht über ein Mandat; keine öffentlich überprüfbare Mandats- oder Verfahrensbestätigung gelesen.
+Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Persönlicher Bericht über ein Mandat; keine öffentlich überprüfbare Mandats- oder Verfahrensbestätigung gelesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -522,6 +532,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Freiwillig öffentlich belegte Mandatsbestätigung oder Aktenzeichen finden; Berufsgeheimnisse achten.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0050
 
@@ -548,13 +560,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ungeprüfter Einzelfallvorwurf; weder Berechtigung zur Einsicht noch konkrete Ablehnung dokumentiert.
+Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Ungeprüfter Einzelfallvorwurf; weder Berechtigung zur Einsicht noch konkrete Ablehnung dokumentiert.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -563,6 +575,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Zugriffsberechtigung, Antrag, Ablehnung und zeitlichen Ablauf klären, ohne private Gesundheitsakten zu veröffentlichen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0051
 
@@ -589,13 +603,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ein subjektiver Zusammenhang wird behauptet; keine unabhängigen Unterlagen zur Verfolgung oder Verfahrensbeendigung gelesen.
+Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Ein subjektiver Zusammenhang wird behauptet; keine unabhängigen Unterlagen zur Verfolgung oder Verfahrensbeendigung gelesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -604,6 +618,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Akteure, konkrete Handlungen und belastbare unabhängige Bestätigung fehlen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0052
 
@@ -630,13 +646,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Verwandtschaftsbeziehung ist im automatischen Text nicht eindeutig. Nicht als Tod von Mißfelders Bruder ausgegeben; Person und Ereignis unbestätigt.
+Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Die Verwandtschaftsbeziehung ist im automatischen Text nicht eindeutig. Nicht als Tod von Mißfelders Bruder ausgegeben; Person und Ereignis unbestätigt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -645,6 +661,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Gemeinte Person und Beziehung zunächst an der Originalstelle kontrollieren; erst danach Ereignis und medizinische Angaben recherchieren.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0053
 

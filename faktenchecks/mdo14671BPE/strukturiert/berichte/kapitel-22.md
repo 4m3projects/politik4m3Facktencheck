@@ -29,13 +29,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Rechtliche Gründung, organisatorische Arbeit und Zeitbedarf sind getrennt. Keine eindeutig zugeordnete Register- oder Gründungsbestätigung gelesen.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Rechtliche Gründung, organisatorische Arbeit und Zeitbedarf sind getrennt. Keine eindeutig zugeordnete Register- oder Gründungsbestätigung gelesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -44,6 +44,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Jurisdiktion, Rechtsform, Eintragungsdatum und tatsächliche Organisation prüfen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0218
 
@@ -112,13 +114,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Konkrete Teamzusammensetzung und Kampagnenerfahrung ungeprüft; keine Personen aus bloßen Andeutungen identifiziert.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Konkrete Teamzusammensetzung und Kampagnenerfahrung ungeprüft; keine Personen aus bloßen Andeutungen identifiziert.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -128,13 +130,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Offiziell veröffentlichte Teamangaben und nachprüfbare Rollen statt spekulativer Namenszuordnung sichern.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0220
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Allianz habe bereits einen Antrag auf staatliche US-Förderung gestellt und warte auf eine Entscheidung.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -153,13 +157,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Antrag, zuständige Ausschreibung und Verfahrensstand nicht unabhängig bestätigt. Existenz eines Förderprogramms beweist weder Bewerbung noch Bewilligung.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Antrag, zuständige Ausschreibung und Verfahrensstand nicht unabhängig bestätigt. Existenz eines Förderprogramms beweist weder Bewerbung noch Bewilligung.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -169,6 +173,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Authentische freiwillige Antrags-/Eingangsbestätigung und Ergebnis fehlen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0221
 
@@ -236,13 +242,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Bericht über private Gespräche; eine mögliche Kooperation ist keine bereits geschlossene Vereinbarung.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Bericht über private Gespräche; eine mögliche Kooperation ist keine bereits geschlossene Vereinbarung.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -252,13 +258,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Freiwillig veröffentlichte Bestätigung oder offizielle Partnerschaftsmitteilung fehlt.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0223
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine neue Übersetzungsfunktion auf X ermögliche Amerikanern das Lesen deutscher Beiträge ohne ihre eigene Übersetzungsarbeit.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -277,21 +285,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Existenz, Einführung und Leistungsumfang der gemeinten Funktion sind noch nicht anhand Plattformdokumentation geprüft.
+X führte im April 2026 weltweit eine automatische Übersetzung von Beiträgen mit Grok ein. Ob sie für alle Nutzer ohne Abo gilt, sagt der Bericht nicht.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [X is rolling out automatic translation and photo editing powered by Grok](https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/) · TechCrunch, Ivan Mehta · 08.04.2026; weltweite automatische Übersetzung von Beiträgen.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen. Keine Quellenkopie veröffentlicht. Weltweite automatische Übersetzung von Beiträgen, April 2026.
 
 ### Offene Fragen und Unsicherheiten
 
-- Funktionsname, Einführungsdatum und Grenzen der maschinellen Übersetzung feststellen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0224
 

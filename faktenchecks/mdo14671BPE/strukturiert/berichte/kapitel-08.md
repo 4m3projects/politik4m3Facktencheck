@@ -55,13 +55,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Persönlicher Missbrauchsbericht, kein öffentlich überprüfter Tatnachweis. Die Prüfung veröffentlicht keine zusätzlichen Identifizierungsdetails und zieht aus fehlender externer Bestätigung keinen Gegenbeweis.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Persönlicher Missbrauchsbericht, kein öffentlich überprüfter Tatnachweis. Die Prüfung veröffentlicht keine zusätzlichen Identifizierungsdetails und zieht aus fehlender externer Bestätigung keinen Gegenbeweis.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -70,6 +70,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Eine unabhängige Prüfung würde freiwillig zugängliche belastbare Einzelfallbelege voraussetzen; keine Recherche in privaten Daten unbeteiligter Angehöriger.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0077
 
@@ -109,13 +111,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zeitpunkt des Erinnerns, Einordnens und Mitteilens sind verschiedene Unterbehauptungen. Der persönliche Bericht lässt sich aus der Textfassung nicht unabhängig bestätigen oder widerlegen.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Zeitpunkt des Erinnerns, Einordnens und Mitteilens sind verschiedene Unterbehauptungen. Der persönliche Bericht lässt sich aus der Textfassung nicht unabhängig bestätigen oder widerlegen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -124,6 +126,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Erinnerungsentwicklung und erste Mitteilung nicht aus nachträglichen Formulierungsunterschieden als Falschaussage bewerten.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0078
 
@@ -150,13 +154,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Privater finanzieller Vorgang ohne geprüfte Unterlagen; keine Schuldzuweisung als festgestellte Tatsache.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Privater finanzieller Vorgang ohne geprüfte Unterlagen; keine Schuldzuweisung als festgestellte Tatsache.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -165,6 +169,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Freiwillig zugängliche Belege wären nötig; keine privaten Vermögensverhältnisse Dritter ausforschen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0079
 
@@ -191,13 +197,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Persönliche Angabe; Person und Todesdatum nicht unabhängig geprüft.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Persönliche Angabe; Person und Todesdatum nicht unabhängig geprüft.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -206,6 +212,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Keine Identität oder Todesursache aus ungesicherten Namensähnlichkeiten ableiten.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0080
 
@@ -232,13 +240,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Privater familienrechtlicher Sachverhalt; kein Nachweis eines Adoptions- oder Namensverfahrens gelesen.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Privater familienrechtlicher Sachverhalt; kein Nachweis eines Adoptions- oder Namensverfahrens gelesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -247,5 +255,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Bei notwendiger Fortführung datenschutzgerecht zwischen Namensführung und Abstammung unterscheiden.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

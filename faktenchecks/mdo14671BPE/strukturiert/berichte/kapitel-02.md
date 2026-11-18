@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine jetzige Ausreise würde für Seibt eine zehnjährige Wiedereinreisesperre auslösen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,13 +29,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die gesetzliche Sperre hängt unter anderem von anrechenbarem unerlaubtem Aufenthalt ab; ein Asylantrag allein löst sie nicht aus. Die persönlichen Voraussetzungen sind nicht nachgewiesen.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Die gesetzliche Sperre hängt unter anderem von anrechenbarem unerlaubtem Aufenthalt ab; ein Asylantrag allein löst sie nicht aus. Die persönlichen Voraussetzungen sind nicht nachgewiesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -48,6 +48,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Einreise-, Antrags- und Arbeitsberechtigungsdaten sowie einschlägige Entscheidung sichern. Keine individuelle Rechtsberatung aus allgemeinen Normen ableiten.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0008
 
@@ -100,21 +102,27 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Im Gespräch bejaht; ein Antrag oder eine verifizierbare Bestätigung des konkreten Verfahrens liegt dieser Prüfung nicht vor.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Im Gespräch bejaht; ein Antrag oder eine verifizierbare Bestätigung des konkreten Verfahrens liegt dieser Prüfung nicht vor.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Keine Meinungsfreiheit in Deutschland? AfD-Influencerin Naomi Seibt beantragt Asyl in den USA](https://www.berliner-zeitung.de/article/naomi-seibt-afd-influencerin-beantragt-asyl-in-den-usa-10003111) · Berliner Zeitung, Eva Maria Braungart · 29.10.2025; gibt Seibts Angaben aus einem Fox-News-Video wieder, nennt sie 25 Jahre alt.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; keine Bestätigung durch Behörde oder Anwalt. Keine Quellenkopie veröffentlicht. Gibt nur Seibts eigene Angabe (Fox-Video) wieder; keine Behörden- oder Anwaltsbestätigung.
+
+- [Naomi Seibt: Anti-Greta beantragt Asyl in den USA – auch wegen Musk](https://www.t-online.de/nachrichten/deutschland/gesellschaft/id_100977220/naomi-seibt-anti-greta-beantragt-asyl-in-den-usa-auch-wegen-musk.html) · t-online, Julian Alexander Fischer · 29.10.2025; gibt Seibts eigene Angaben wieder.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; keine unabhängige Bestätigung. Keine Quellenkopie veröffentlicht. Gibt nur Seibts eigene Angabe wieder.
 
 ### Offene Fragen und Unsicherheiten
 
 - Existenz und Zeitpunkt des Antrags datenschutzgerecht durch belastbare Bestätigung prüfen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0009
 
@@ -183,13 +191,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vom Volksverhetzungspost zu trennen; keine Erledigungsentscheidung oder Aktenzuordnung gelesen.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Vom Volksverhetzungspost zu trennen; keine Erledigungsentscheidung oder Aktenzuordnung gelesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -198,6 +206,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Einstellungs-/Erledigungsentscheidung des konkret gemeinten zweiten Verfahrens finden.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0011
 
@@ -224,13 +234,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der konkrete Artikel und das betreffende Bild wurden nicht eingesehen. Aus Herkunft aus einer Zeitung folgt allein keine Rechtmäßigkeit jeder Weiterverwendung.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Der konkrete Artikel und das betreffende Bild wurden nicht eingesehen. Aus Herkunft aus einer Zeitung folgt allein keine Rechtmäßigkeit jeder Weiterverwendung.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -239,6 +249,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Artikel, Datum und beanstandete Weiterverwendung identifizieren; fremdes Bild nicht ins Repository übernehmen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0012
 
@@ -265,13 +277,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ohne Originalabbildung und rechtlichen Kontext ist die Einzelfalldeutung nicht verifiziert.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Ohne Originalabbildung und rechtlichen Kontext ist die Einzelfalldeutung nicht verifiziert.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -280,6 +292,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Bildkontext und behördliche Begründung kontrollieren, keine Gestenbeurteilung aus Untertiteln.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0013
 
@@ -306,13 +320,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Moderationsangabe und anschließende autobiografische Einordnung; Zeugnis oder belastbarer zeitgenössischer Nachweis ungeprüft.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Moderationsangabe und anschließende autobiografische Einordnung; Zeugnis oder belastbarer zeitgenössischer Nachweis ungeprüft.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -321,6 +335,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Schulabschluss und konkrete Note unabhängig belegen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0014
 
@@ -360,13 +376,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zunächst als Vermutung formuliert, später als Voraussetzung verwendet. Kein Testnachweis gelesen; Schulleistungen bestätigen keinen bestimmten IQ.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Zunächst als Vermutung formuliert, später als Voraussetzung verwendet. Kein Testnachweis gelesen; Schulleistungen bestätigen keinen bestimmten IQ.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -375,6 +391,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Liegt eine freiwillig veröffentlichte diagnostische Bestätigung vor?
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0015
 
@@ -427,13 +445,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Autobiografischer Bericht; Bewerbung, Einladung und genaue Programmart fehlen. Ein Gespräch ist keine Zulassung.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Autobiografischer Bericht; Bewerbung, Einladung und genaue Programmart fehlen. Ein Gespräch ist keine Zulassung.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -442,6 +460,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Datum, Alter und Art des Cambridge-Programms klären.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0016
 
@@ -510,13 +530,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zwei zusammenhängende Schulbiografiedaten; beide ohne unabhängigen Schulnachweis.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Zwei zusammenhängende Schulbiografiedaten; beide ohne unabhängigen Schulnachweis.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -525,6 +545,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Einschulungsalter und Zeitpunkt des Überspringens aus belastbarer Quelle feststellen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0018
 
@@ -551,13 +573,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eigenbericht; kein Abschlussdokument geprüft.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Eigenbericht; kein Abschlussdokument geprüft.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -566,6 +588,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Abschlussjahr und Alter belegen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0019
 

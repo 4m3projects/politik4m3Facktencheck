@@ -29,21 +29,24 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Öffentliche datierbare Publikationsbehauptung; Originalbeiträge und ursprüngliche Datierung noch nicht gelesen.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Öffentliche datierbare Publikationsbehauptung; Originalbeiträge und ursprüngliche Datierung noch nicht gelesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Naomi Seibt](https://en.wikipedia.org/wiki/Naomi_Seibt) · Wikipedia (englisch), Gemeinschaftsartikel ohne Datum; Tertiärquelle, nur ergänzend verwendet.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen: Geburtsdatum 18.08.2000 (Fußnotenzuordnung dort fehlerhaft), Mutter Rechtsanwältin (Fußnote Guardian 25.02.2020), Gedicht mit 16 bei Philosophia Perennis (Fußnoten Guardian, CORRECTIV). Die Fußnotenquellen selbst nicht gelesen. Keine Quellenkopie veröffentlicht. Gedicht mit 16 bei Philosophia Perennis laut Tertiärquelle (Fußnoten nicht selbst gelesen).
 
 ### Offene Fragen und Unsicherheiten
 
 - Erstveröffentlichungen, Autorinnenzuordnung und Verhältnis zum Abschlussjahr prüfen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0245
 
@@ -92,7 +95,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Jostein Gaarders Literatur habe ihre Lebensbejahung geprägt; in seinem Roman über einen Vaterbrief stehe die Entscheidung für das Leben im Mittelpunkt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -111,21 +114,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Persönliche Wirkung ist eine Selbstauskunft, Inhaltsbeschreibung des Romans dagegen extern prüfbar. Das Buch wurde für diese Prüfung noch nicht gelesen.
+Der Roman „Das Orangenmädchen“ handelt laut Verlag von einem Abschiedsbrief des verstorbenen Vaters an seinen Sohn mit Gedanken über Leben und Tod. Dass die Entscheidung für das Leben im Mittelpunkt steht, nennt der gelesene Verlagstext nicht ausdrücklich; das Buch selbst hat Claude nicht gelesen. Die Prägung Seibts durch Gaarder ist eine persönliche Angabe und nicht überprüfbar.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Jostein Gaarder: Das Orangenmädchen (Hörbuch)](https://www.penguin.de/buecher/jostein-gaarder-das-orangenmaedchen/hoerbuch-download-gekuerzt/9783844502886) · Penguin Random House / der Hörverlag · Verlagsseite mit Klappentext; Verlagsangabe.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen; das Buch selbst nicht gelesen. Keine Quellenkopie veröffentlicht. Abschiedsbrief des Vaters, Gedanken über Leben und Tod; Verlagsangabe.
 
 ### Offene Fragen und Unsicherheiten
 
-- Verlags- oder Originalquelle zum Buchinhalt lesen; subjektive Wirkung nicht als objektive Literaturauslegung verifizieren.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0247
 
@@ -174,7 +178,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein Newsletter garantiere Informationen unabhängig von jeder Plattformentscheidung.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -193,13 +197,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Direkte E-Mail-Verteilung kann die Abhängigkeit von Podcastplattformen reduzieren, ist aber weiterhin von Versand, Zustellung und Infrastruktur abhängig. Konkrete technische und vertragliche Bedingungen ungeprüft.
+Werbende Einschätzung: Ein Newsletter ist unabhängiger von einzelnen Plattformen, eine Garantie ist eine Wertung. Von Claude am 18.11.2026 als Meinung bzw. Deutung eingeordnet.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 

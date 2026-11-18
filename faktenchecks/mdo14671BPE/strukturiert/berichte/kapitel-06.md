@@ -70,13 +70,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ohne Liste konkreter Thesen, Beweismaßstab und Datum ist die pauschale Erfolgsbehauptung nicht überprüft.
+Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Ohne Liste konkreter Thesen, Beweismaßstab und Datum ist die pauschale Erfolgsbehauptung nicht überprüft.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -85,6 +85,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Welche einzelnen Thesen sind gemeint und welche neuen Belege ändern deren damalige Bewertung?
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – zu unbestimmt gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0056
 
@@ -111,13 +113,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Formal ist kein Zusammenschluss belegt; Seibt erklärte 2020 selbst, keine aktive Teilnehmerin zu sein. Zugleich behandelte sie 2020 QAnon-Themen in eigenen Videos und bewertete die Bewegung positiv. Der gelesene Bericht spricht von Annäherung, nicht von einem Beitritt. Ob „Medien“ einen Zusammenschluss behaupteten, ist mit den bisher gelesenen Quellen nicht belegt.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Formal ist kein Zusammenschluss belegt; Seibt erklärte 2020 selbst, keine aktive Teilnehmerin zu sein. Zugleich behandelte sie 2020 QAnon-Themen in eigenen Videos und bewertete die Bewegung positiv. Der gelesene Bericht spricht von Annäherung, nicht von einem Beitritt. Ob „Medien“ einen Zusammenschluss behaupteten, ist mit den bisher gelesenen Quellen nicht belegt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -127,6 +129,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Welche Medienberichte sind gemeint? Weitere zeitgenössische Berichte (z. B. Teen Vogue, 24.09.2020) lesen, bevor die Medienbehauptung bewertet wird.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0057
 
@@ -221,7 +225,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Q-Anhänger hätten Trumps Wahlerfolg als Erfüllung einer Vorhersage Qs gedeutet.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -240,13 +244,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die erneute Lektüre des Nahkontexts zeigt eine Beschreibung der Deutung durch Anhänger, verbunden mit einem Vergleich zu unbestimmten Vorhersagen. Das ist keine eindeutige eigene Bestätigung einer zutreffenden Prophezeiung. Die Forschung datiert erste Q-Beiträge auf Oktober 2017. Ohne genanntes Wahljahr und konkrete Fundstelle lässt sich damit die tatsächliche Zuschreibung nicht abschließend prüfen.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Die erneute Lektüre des Nahkontexts zeigt eine Beschreibung der Deutung durch Anhänger, verbunden mit einem Vergleich zu unbestimmten Vorhersagen. Das ist keine eindeutige eigene Bestätigung einer zutreffenden Prophezeiung. Die Forschung datiert erste Q-Beiträge auf Oktober 2017. Ohne genanntes Wahljahr und konkrete Fundstelle lässt sich damit die tatsächliche Zuschreibung nicht abschließend prüfen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -262,6 +266,8 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Welche Wahl und welcher konkrete Beitrag sind gemeint? Zeitgenössische Belege für die beschriebene Anhängerdeutung fehlen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0060
 
@@ -388,13 +394,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Veröffentlichungsjahr und Originalvideo ungeprüft; spätere Bekanntheit ersetzt keinen Nachweis.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Veröffentlichungsjahr und Originalvideo ungeprüft; spätere Bekanntheit ersetzt keinen Nachweis.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -403,6 +409,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Ursprüngliche Veröffentlichung und Datum finden; nicht allein aus heutigen Reuploads datieren.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0063
 

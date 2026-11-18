@@ -52,7 +52,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die behaupteten Strikes gegen ungelistete Videos bewiesen eine gezielte Intervention von höherer Stelle.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -71,13 +71,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Aus dem Ergebnis allein folgt kein bestimmter Verursacher. Die Plattform beschreibt reguläre Moderation auch nicht öffentlicher Inhalte.
+Schlussfolgerung aus Moderationsentscheidungen auf einen Verursacher. Aus dem Ergebnis allein folgt kein bestimmter Verursacher; die Plattform beschreibt reguläre Moderation auch nicht öffentlicher Inhalte. Als Deutung eingeordnet. Von Claude am 18.11.2026 als Meinung bzw. Deutung eingeordnet.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -145,7 +145,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -568,13 +568,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eigenbericht über Veranstaltungsabsprachen, keine geprüfte Einladung oder Korrespondenz.
+Nicht überprüfbar – nicht öffentlicher Vorgang. Betrifft nicht öffentliche Verfahren, Behördenvorgänge, Verträge, private Nachrichten oder Kontakte. Prüfbar wäre das nur mit Akten, Bescheiden oder freiwillig freigegebenen Dokumenten; diese liegen nicht vor. Öffentliche Berichte geben, soweit vorhanden, nur Seibts eigene Darstellung wieder. Bisheriger Prüfstand: Eigenbericht über Veranstaltungsabsprachen, keine geprüfte Einladung oder Korrespondenz.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -583,6 +583,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Einladung und Programm statt nachträglicher Motivzuschreibung prüfen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – nicht öffentlicher Vorgang gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0120
 
@@ -609,13 +611,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Reichweite und Moderationsvorgänge sind eigenständige Unterbehauptungen; konkrete Uploads und Zeitstände fehlen.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Reichweite und Moderationsvorgänge sind eigenständige Unterbehauptungen; konkrete Uploads und Zeitstände fehlen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -624,6 +626,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Betroffene Uploads, historische Zähler und Löschentscheidungen einzeln dokumentieren.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0121
 

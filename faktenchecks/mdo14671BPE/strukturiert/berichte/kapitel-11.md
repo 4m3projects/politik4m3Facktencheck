@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe bei einem Schülerforschungsprojekt den Flüssigkeitstransport in sehr dünnen Glasröhrchen untersucht.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,13 +29,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Schulbericht bestätigt eine erfolgreiche Arbeit zur Viskosität von Spülmitteln. Kapillarmethode, konkrete Rezeptur und behauptete Einzigartigkeit sind damit noch nicht nachgewiesen.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Der Schulbericht bestätigt eine erfolgreiche Arbeit zur Viskosität von Spülmitteln. Kapillarmethode, konkrete Rezeptur und behauptete Einzigartigkeit sind damit noch nicht nachgewiesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -49,13 +49,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 - Originale eigene Projektdokumentation oder unabhängige fachliche Grundlage für die Detailbehauptung prüfen; keine Versuchsdurchführung als erfolgt behauptet.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0095
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein bestimmtes Spülmittel werde bei hälftiger Wasserzugabe dicker und dieser Effekt trete nur bei diesem Produkt und Verhältnis auf.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -74,13 +76,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Schulbericht bestätigt eine erfolgreiche Arbeit zur Viskosität von Spülmitteln. Kapillarmethode, konkrete Rezeptur und behauptete Einzigartigkeit sind damit noch nicht nachgewiesen.
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Der Schulbericht bestätigt eine erfolgreiche Arbeit zur Viskosität von Spülmitteln. Kapillarmethode, konkrete Rezeptur und behauptete Einzigartigkeit sind damit noch nicht nachgewiesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -91,13 +93,15 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 
 - Originale eigene Projektdokumentation oder unabhängige fachliche Grundlage für die Detailbehauptung prüfen; keine Versuchsdurchführung als erfolgt behauptet.
 
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
+
 ## mdo14671BPE-A0096
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe 2019 mit einem klimakritischen YouTube-Video größere Aufmerksamkeit erhalten.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -116,13 +120,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Öffentliche spätere Bekanntheit ist belegt, ursprüngliches Video und damalige Reichweite aber noch nicht direkt kontrolliert.
+Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Öffentliche spätere Bekanntheit ist belegt, ursprüngliches Video und damalige Reichweite aber noch nicht direkt kontrolliert.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
 
 ### Zugeordnete Quellen
 
@@ -135,5 +139,7 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Erstveröffentlichung und historischer Aufrufstand des konkret gemeinten Videos sichern.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
