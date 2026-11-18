@@ -144,6 +144,12 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 - [Einspruch im Verfahren Oliver Janich](https://www.haintz-legal.de/fileadmin/user_upload/230127_an_AG_M%C3%BCnchen_Einspruch_Janich_geschw%C3%A4rzt_final.pdf) · Haintz Legal; Schriftsatz 27.01.2023.
   Quellenzugriff am 2026-11-18. Öffentlich veröffentlichten Verteidigungsschriftsatz in einschlägigen Abschnitten zu philippinischem Verfahren und deutscher Botschaft gelesen. Parteivortrag mit Verweisen, kein von uns geprüfter vollständiger Behördenaktenbestand. Öffentlicher Verteidigungsvortrag; Parteiquelle, keine unabhängige Bestätigung aller Schlussfolgerungen.
 
+- [German fugitive nabbed in Romblon](https://newsinfo.inquirer.net/1649672/german-fugitive-nabbed-in-romblon) · Philippine Daily Inquirer · 19.08.2022; Festnahme am 17.08.2022 auf Grundlage eines Haftbefehls des AG München.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Festnahme 17.08.2022 auf Grundlage eines Münchner Haftbefehls.
+
+- [Germany's 'Biggest QAnon Mouthpiece' Arrested in the Philippines](https://vice.com/en/article/oliver-janich-germany-philippines) · VICE, T. Hume, JC Gotinga · 18.08.2022; Festnahme in Abstimmung mit der deutschen Botschaft.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Festnahme in Abstimmung mit der deutschen Botschaft; nichts zur Freilassung.
+
 ### Offene Fragen und Unsicherheiten
 
 - Deutschen Haftbefehl, philippinische Originalentscheidungen, Freilassung und behauptete Regierungssteuerung gesondert verifizieren.

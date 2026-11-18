@@ -55,7 +55,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Polenz sei ein Berater Merkels und politisch besonders einflussreich gewesen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -87,21 +87,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Formelles Amt, informelle Beratung und politische Wertung werden nicht gleichgesetzt. Eine dokumentierte konkrete Beraterfunktion fehlt.
+Belegt sind herausgehobene Ämter: CDU-Generalsekretär von April bis November 2000 auf Vorschlag der Parteivorsitzenden Merkel, Bundestagsabgeordneter 1994–2013 und Vorsitzender des Auswärtigen Ausschusses 2005–2013. Eine formelle oder dokumentierte Beraterfunktion für Merkel nennt die gelesene Biografie nicht. „Besonders einflussreich“ ist eine Wertung, die durch diese Ämter bis 2013 gestützt wird. Für 2014, den Zeitpunkt der in A0040 erzählten Veranstaltung, nennt die Quelle kein Mandat und keinen Vorsitz mehr.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Ruprecht Polenz (Biogramm)](https://www.kas.de/web/geschichte-der-cdu/personen/biogramm-detail/-/content/ruprecht-polenz-v1) · Konrad-Adenauer-Stiftung · Geschichte der CDU, Biogramm; parteinahe Stiftung, Ämter mit Zeiträumen.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen: Generalsekretär 2000, MdB 1994–2013, Vorsitz Auswärtiger Ausschuss 2005–2013; keine Beraterfunktion für Merkel genannt. Keine Quellenkopie veröffentlicht. Ämter und Zeiträume; keine Beraterfunktion für Merkel genannt; parteinahe Stiftung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Funktion und welcher Zeitraum sind mit Personal- oder Amtsangaben belegt?
+- Eine informelle Beratung Merkels wäre nur mit zeitgenössischen, zurechenbaren Belegen prüfbar.
 
 ## mdo14671BPE-A0040
 
@@ -150,7 +151,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die AfD sei 2014 ausschließlich als EU-kritische Partei und noch nicht über Migrationspolitik bekannt gewesen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -169,21 +170,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Ausschließlichkeit geht über die Feststellung europapolitischer Gründungsthemen hinaus. Programm und zeitgenössische Außendarstellung sind noch zu prüfen.
+Der Kern ist gestützt: Die AfD trat 2013/2014 vorrangig mit Euro- und EU-Kritik auf, Migration spielte im Europawahlkampf 2014 laut Programmanalyse nur eine untergeordnete Rolle. Die Ausschließlichkeit trifft nicht zu: Das Europawahlprogramm 2014 enthielt nach der begutachteten Analyse einen eigenen Abschnitt zu Einwanderung und Asyl, unter anderem ein Punktesystem für Zuwanderung aus Drittstaaten und Sozialleistungen für EU-Bürger erst nach längerem Aufenthalt. Der Autor ordnet ihn als für deutsche Verhältnisse eher gemäßigt ein. Ob die Partei in der Öffentlichkeit schon über Migrationspolitik bekannt war, ist eine Wahrnehmungsfrage und mit diesen Quellen nicht messbar.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [The AfD: Finally a Successful Right-Wing Populist Eurosceptic Party for Germany?](https://www.kai-arzheimer.com/afd-right-wing-populist-eurosceptic-germany.pdf) · Kai Arzheimer · West European Politics 38 (2015), Autorenfassung; Inhaltsanalyse des AfD-Europawahlprogramms 2014. Begutachtete Sekundärquelle, nicht das Programm selbst.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen: Abschnitte zu Einwanderung, Asyl und Euro-Positionen des Programms 2014 im Wortlaut; Teile zur Web-/Facebook-Auswertung nur zusammengefasst und nicht verwendet. Keine Quellenkopie veröffentlicht. Begutachtete Analyse des Programms 2014: Abschnitt zu Einwanderung und Asyl, gemäßigter Ton; Euro-Kritik im Vordergrund.
+
+- [Die Macht der Ohnmacht. Der (angebliche) Radikalisierungsprozess der AfD](https://www.zukunft-braucht-erinnerung.de/radikalisierungsprozess-der-afd/) · V. Tsagianni, S. A. Reboldi, N. Luzzatto · Zukunft braucht Erinnerung, 31.10.2024; interpretierende Programmanalyse 2014/2024 mit eigener Positionierung.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; verwendet nur für die Einordnung der Themengewichtung im Europawahlkampf 2014, nicht für Wertungen. Keine Quellenkopie veröffentlicht. Themengewichtung im Europawahlkampf 2014: Migration untergeordnet; interpretierende Sekundärquelle.
 
 ### Offene Fragen und Unsicherheiten
 
-- Europawahlprogramm 2014 und zeitgenössische Migrationspositionen vergleichen.
+- Den Originaltext des Europawahlprogramms 2014 hat Claude nicht gelesen; zwei gefundene PDFs waren das Programm 2019 bzw. ein FDP-Programm. Die Bewertung stützt sich auf die Sekundäranalyse.
 
 ## mdo14671BPE-A0042
 

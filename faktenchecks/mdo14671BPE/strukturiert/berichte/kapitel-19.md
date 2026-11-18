@@ -166,6 +166,9 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 - [Angela Merkel: Biography](https://www.bundeskanzler.de/bk-en/federal-chancellery/federal-chancellors-since-1949/angela-merkel) · Bundesregierung; historische Biografieseite, teilweise nicht fortgeschriebene Amtsangaben.
   Quellenzugriff am 2026-11-18. Geburtsort und Stationen einschließlich Templin und Regierungssprecherinnenrolle gelesen. Nicht alle späteren Amtszeitangaben als aktuell übernommen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
+- [Gegen den Strom. Warum Theologen in den fünfziger Jahren in die DDR gingen](https://www.evangelisch.de/inhalte/132027/29-02-2016/warum-theologen-den-fuenfziger-jahren-von-der-bundesrepublik-die-ddr-gingen) · evangelisch.de, Claudia Lepp · 29.02.2016; kirchliche Vermittlung und Motive übergesiedelter Theologen allgemein, Kasner nur namentlich.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Kirchliche Vermittlung; Theologen nannten meist kirchliche Motive. Kasner nur namentlich, kein individueller Motivbeleg.
+
 ### Offene Fragen und Unsicherheiten
 
 - Zeitgenössische Quellen zu Horst Kasners Tätigkeit und dokumentierten Motiven prüfen; nicht von Wohnort auf Stasi-Nähe schließen.
@@ -271,7 +274,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Merkel sei tatsächlich eine Mitarbeiterin der Staatssicherheit gewesen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -290,22 +293,28 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das Gespräch leitet einen Verdacht aus Kontakten, Lebensumständen und vermutetem Aktenwissen ab. Die gelesene Gerichtsmitteilung bestätigt diese Tätigkeit nicht und nennt fehlende Anhaltspunkte für gezielte Begünstigung. Das beweist nicht jeden denkbaren historischen Negativsachverhalt.
+Für eine Tätigkeit Merkels als Mitarbeiterin der Staatssicherheit liegt kein Akten- oder Gerichtsbeleg vor. Das Bundesarchiv nannte im Verfahren vor dem VG Berlin keine herausgabefähigen Unterlagen, das Gericht sah keine Anhaltspunkte für eine gezielte Begünstigung durch das MfS. Merkel selbst schilderte 2009 eine abgelehnte Anwerbung Ende der 1970er-Jahre; das ist eine Selbstauskunft. Diese Indizien sprechen gegen die Behauptung, widerlegen einen historischen Negativsachverhalt aber nicht beweiskräftig. Deshalb kein „Widerlegt“.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert.
 
 ### Zugeordnete Quellen
 
 - [Stasi-Unterlagen zu Angela Merkel: Kein Herausgabeanspruch für ein Publikationsprojekt](https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2026/pressemitteilung.1656474.php) · Verwaltungsgericht Berlin; Pressemitteilung 19/2026 vom 26.03.2026.
-  Quellenzugriff am 2026-11-17. Gerichtliche Pressemitteilung einschließlich Begründung und Merkels Rollenzeitpunkten gelesen; nicht der vollständige Urteilsaktenbestand. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+  Quellenzugriff am 2026-11-17. Gerichtliche Pressemitteilung einschließlich Begründung und Merkels Rollenzeitpunkten gelesen; nicht der vollständige Urteilsaktenbestand. Gerichtsmitteilung: keine Anhaltspunkte für gezielte MfS-Begünstigung.
+
+- [Bundesarchiv darf Herausgabe verweigern](https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/vg-berlin-vg1k29723-stasi-unterlagen-angela-merkel-bundesarchiv-herausgabe-sachbuchautor-2026-03-26) · beck-aktuell, Redaktion · 26.03.2026; Bericht zu VG Berlin, Urteil vom 12.03.2026, VG 1 K 297/23. Ergänzt S025.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Bericht zum Urteil: keine herausgabefähigen Unterlagen; keine Aussage über Vernichtung oder Kopien.
+
+- [East German Stasi tried to recruit Merkel as a spy](https://www.historynewsnetwork.org/article/86272) · History News Network, Nachdruck eines Deutsche-Welle-Berichts · 19.05.2009; Merkels eigene Schilderung einer abgelehnten Anwerbung, Selbstauskunft.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Merkels eigene Schilderung einer abgelehnten Anwerbung; Selbstauskunft, kein Aktenbeleg.
 
 ### Offene Fragen und Unsicherheiten
 
-- Konkrete belastbare Mitarbeiterunterlagen oder entsprechende gerichtliche Feststellungen fehlen; Verdacht und Tatsachenbehauptung an der Originalstelle abgrenzen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0186
 
@@ -400,7 +409,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Schnur sei ein enger Freund von Merkels Vater gewesen und habe ihre politische Karriere gezielt ermöglicht.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -419,25 +428,34 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Freundschaft, beruflicher Einstieg und eine weitreichende Karriereursache sind nicht identisch. Die bislang gelesenen Quellen belegen nicht alle diese Verbindungen.
+Belegt ist, dass Schnur Merkel 1990 als Pressesprecherin des Demokratischen Aufbruchs einstellte, was als Beginn ihrer politischen Laufbahn gilt, und dass er Horst Kasner aus kirchlichen Zusammenhängen kannte. Nicht belegt sind eine enge Freundschaft und eine gezielte Karriereplanung; die gelesene Zeitungsdarstellung gibt die Förderthese nur als Frage bzw. als Schnurs eigene Sicht wieder.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert.
 
 ### Zugeordnete Quellen
 
 - [Schnur, Wolfgang](https://www.chronik-der-mauer.de/material/179927/schnur-wolfgang?letter=S) · Chronik der Mauer (Zentrum für Zeithistorische Forschung/bpb/Deutschlandradio); undatiertes Personenlexikon.
-  Quellenzugriff am 2026-11-17. Biografischen Eintrag mit IM-Erfassung 1965–1989 und Rücktritt am 14.03.1990 gelesen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+  Quellenzugriff am 2026-11-17. Biografischen Eintrag mit IM-Erfassung 1965–1989 und Rücktritt am 14.03.1990 gelesen. Biografischer Kontext zu Schnur.
 
 - [Angela Merkel: Biography](https://www.bundeskanzler.de/bk-en/federal-chancellery/federal-chancellors-since-1949/angela-merkel) · Bundesregierung; historische Biografieseite, teilweise nicht fortgeschriebene Amtsangaben.
   Quellenzugriff am 2026-11-18. Geburtsort und Stationen einschließlich Templin und Regierungssprecherinnenrolle gelesen. Nicht alle späteren Amtszeitangaben als aktuell übernommen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
+- [Merkels Zeit in Adlershof](https://www.wista.de/aktuelles/news/merkels-zeit-in-adlershof) · WISTA Management · 11.08.2008; berufliche Stationen bis 1990, Einstieg beim Demokratischen Aufbruch.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Merkels Wechsel zum Demokratischen Aufbruch und Freistellung 1990.
+
+- [DDR-Oppositionspolitiker und Stasi-Spitzel Schnur tot](https://www.tagesspiegel.de/potsdam/brandenburg/ddr-oppositionspolitiker-und-stasi-spitzel-schnur-tot-7201975.html) · Tagesspiegel/dpa · 20.01.2016; Schnur stellte Merkel als Pressesprecherin des DA ein.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Schnur stellte Merkel als Pressesprecherin ein.
+
+- [Zum Tod von Wolfgang Schnur: Der Schattenmann, der Angela Merkel erfand](https://www.berliner-zeitung.de/article/zum-tod-von-wolfgang-schnur-der-schattenmann-der-angela-merkel-erfand-14273) · Berliner Zeitung · 20.01.2016; nennt Kasner als langjährigen kirchlichen Bekannten Schnurs, Förderthese nur als Frage bzw. Selbstsicht Schnurs.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Kirchliche Bekanntschaft Schnur–Kasner; Förderthese ohne Beleg.
+
 ### Offene Fragen und Unsicherheiten
 
-- Beziehung zum Vater, konkrete Personalentscheidung und behauptete strategische Absicht anhand historischer Quellen prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0189
 
@@ -527,7 +545,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Obama habe Merkel langjährig überwachen lassen, was als Indiz einer geheimen Vorgeschichte zu verstehen sei.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -546,21 +564,28 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Überwachungsvorgang, Präsidentenwissen und angeblicher Zweck sind getrennt. Der Schluss auf Stasi-Tätigkeit folgt aus dem bloßen Abhörvorwurf nicht.
+Ein Kern trifft zu: 2013 wurde über eine NSA-Überwachung von Merkels Mobiltelefon berichtet, die bis 2002 zurückreichen soll. Der Generalbundesanwalt stellte 2015 ein, weil der Vorwurf nicht gerichtsfest beweisbar war. Dass Obama die Überwachung veranlasste oder wissentlich fortführte, ist umstritten: Einem anonymen Zeitungsbericht stehen ein NSA-Dementi und Obamas eigene Aussage gegenüber. Die Überwachung begann nach diesen Berichten vor seiner Amtszeit. Ein Indiz für eine Stasi-Vergangenheit ergibt sich daraus nicht; diese Schlussfolgerung ist nicht belegt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Angela Merkel's phone 'tracked since 2002'](https://www.irishtimes.com/news/world/europe/angela-merkel-s-phone-tracked-since-2002-1.1574957) · Irish Times · 27.10.2013; gibt Spiegel- und Bild-am-Sonntag-Berichte sowie die Kanzleramtsdarstellung wieder.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Bericht über Überwachung seit 2002 und die widersprüchlichen Darstellungen zu Obamas Wissen.
+
+- [U.S. officials deny reports that Obama knew about NSA spying in Germany](https://www.pbs.org/newshour/nation/us-officials-deny-reports-that-obama-knew-about-nsa-spying-in-germany) · PBS NewsHour · 28.10.2013; NSA-Dementi zu einem angeblichen Gespräch 2010.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. NSA-Dementi zu einem Gespräch mit Obama 2010.
+
+- [Merkels Handy: Ermittlungen zu Ausforschung eingestellt](https://www.lto.de/recht/nachrichten/n/ermittlungen-handy-merkel-nsa-spionage-eingestellt) · Legal Tribune Online · 12.06.2015; Einstellung durch den Generalbundesanwalt nach § 170 Abs. 2 StPO.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Einstellung der Ermittlungen 2015 mangels gerichtsfester Beweise.
 
 ### Offene Fragen und Unsicherheiten
 
-- Amtliche Untersuchung und zeitliche Reichweite lesen; Motivannahme nicht aus dem Ergebnis ableiten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0192
 
@@ -610,7 +635,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Belastende Merkel-Unterlagen seien vermutlich vernichtet worden, aber Kopien befänden sich in Russland und den USA.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -629,21 +654,24 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Mehrere spekulative Existenz-, Vernichtungs- und Besitzbehauptungen. Die CIA-Herkunft anderer Stasi-Karteien bestätigt keinen konkreten Merkel-Bestand.
+Es gibt keine gelesene Quelle, die belastende Merkel-Unterlagen, deren Vernichtung oder Kopien in Russland oder den USA benennt. Die Berichte zum Verfahren vor dem VG Berlin nennen keine herausgabefähigen Unterlagen und sagen nichts über Vernichtung oder Kopien. Die Rosenholz-Dateien betreffen andere Bestände und belegen keinen Merkel-Bestand.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert.
 
 ### Zugeordnete Quellen
 
 - [Die Rosenholz-Dateien](https://www.bundesarchiv.de/themen-entdecken/online-entdecken/themenbeitraege/die-rosenholz-dateien/) · Bundesarchiv; undatierter Themenbeitrag, Abrufstand 18.11.2026.
-  Quellenzugriff am 2026-11-18. Archivdarstellung zur Herkunft bei der CIA, Rückgabe 1999–2003, Bedeutung und quellenkritischen Grenzen gelesen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+  Quellenzugriff am 2026-11-18. Archivdarstellung zur Herkunft bei der CIA, Rückgabe 1999–2003, Bedeutung und quellenkritischen Grenzen gelesen. Herkunft anderer Stasi-Karteien; kein Merkel-Bestand.
+
+- [Bundesarchiv darf Herausgabe verweigern](https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/vg-berlin-vg1k29723-stasi-unterlagen-angela-merkel-bundesarchiv-herausgabe-sachbuchautor-2026-03-26) · beck-aktuell, Redaktion · 26.03.2026; Bericht zu VG Berlin, Urteil vom 12.03.2026, VG 1 K 297/23. Ergänzt S025.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Keine herausgabefähigen Unterlagen; keine Angaben zu Vernichtung oder Kopien.
 
 ### Offene Fragen und Unsicherheiten
 
-- Konkrete Aktenidentifikatoren, Provenienz und Inhaltsnachweise fehlen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
