@@ -518,7 +518,7 @@ async function pageHome() {
     <div class="wrap">
       <p class="eyebrow">Offenes Lernprojekt · Quellen statt Schlagworte</p>
       <h1>Was stimmt an den Aussagen – und was ist noch offen?</h1>
-      <p class="lead">Wir prüfen einzelne Tatsachenbehauptungen aus politischen und wirtschaftlichen YouTube-Gesprächen: in eigenen Worten, mit direkt verlinkten Quellen, Zeitmarken zum Original und ehrlich ausgewiesenen Grenzen. Jede Prüfung entsteht offen auf GitHub und wird von mehreren KI-Systemen gegenseitig kontrolliert.</p>
+      <p class="lead">Wir prüfen einzelne Tatsachenbehauptungen aus politischen und wirtschaftlichen YouTube-Gesprächen: in eigenen Worten, mit direkt verlinkten Quellen, Zeitmarken zum Original und ehrlich ausgewiesenen Grenzen. Jede Prüfung entsteht offen auf GitHub und ist dort nachvollziehbar.</p>
       <ul class="hero-facts">
         <li>${videos.length} ${videos.length === 1 ? 'Video' : 'Videos'}</li>
         <li>${allClaims.length} strukturierte Aussagen</li>
@@ -535,20 +535,16 @@ async function pageHome() {
       <div class="cards">${cards || '<p class="muted">Noch keine Faktenchecks veröffentlicht.</p>'}</div>
     </section>
     <section class="section" aria-labelledby="h-team">
-      <div class="section-head"><h2 id="h-team">Wer prüft hier?</h2><p><a href="#/methodik">Ausführlich zur Methodik →</a></p></div>
+      <div class="section-head"><h2 id="h-team">Menschen hinter dem Projekt</h2></div>
       <div class="roles">
-        <div class="role"><span class="tag">Erstellt</span><h3>Codex</h3><p>Erfasst Aussagen, recherchiert Quellen, formuliert Bewertungen und pflegt Daten und Werkzeuge. Entscheidet begründet über Hinweise.</p></div>
-        <div class="role"><span class="tag">Prüft unabhängig</span><h3>ChatGPT</h3><p>Hinterfragt Aussagen, Quellen, Bewertungen und Technik. Rückmeldungen öffentlich in GitHub-Issues und Reviews.</p></div>
-        <div class="role"><span class="tag">Prüft unabhängig</span><h3>Claude</h3><p>Zusätzliche Gegenprüfung: Was wurde übersehen, zu streng oder zu milde bewertet? Darf allen widersprechen.</p></div>
-        <div class="role"><span class="tag">Gibt frei</span><h3>Projektverantwortlicher</h3><p>Trifft die Grundsatzentscheidungen. Nur mit ausdrücklicher Freigabe gelangt eine Änderung in den veröffentlichten Stand.</p></div>
+        <a class="role person-link" href="#/jens">
+          <span class="tag">Initiator und Projektverantwortlicher</span>
+          <h3>Jens der Christ</h3>
+          <p>Christ, politisch interessiert und Entwickler von Politik4M3. Er hat dieses unabhängige Faktencheck-Projekt ins Leben gerufen und verantwortet jede Veröffentlichung.</p>
+          <span class="person-more">Mehr über Jens der Christ →</span>
+        </a>
       </div>
-      <ol class="flow">
-        <li>Codex erarbeitet einen Faktencheck auf einem eigenen Branch und öffnet einen Entwurfs-Pull-Request.</li>
-        <li>ChatGPT und Claude prüfen unabhängig voneinander und kommentieren öffentlich – Widerspruch ist ausdrücklich erwünscht.</li>
-        <li>Codex übernimmt, stellt zurück oder lehnt begründet ab; bei Bedarf wird erneut geprüft.</li>
-        <li>Erst nach Freigabe wird der Stand übernommen und diese Seite automatisch neu erzeugt.</li>
-      </ol>
-      <p class="small" style="margin-top:16px">Die gesamte Diskussion ist nachlesbar: <a href="${esc(repoUrl())}/issues?q=is%3Aissue" rel="noopener noreferrer" target="_blank">Issues</a> · <a href="${esc(repoUrl())}/pulls?q=is%3Apr" rel="noopener noreferrer" target="_blank">Pull Requests</a></p>
+      <p class="small" style="margin-top:16px">Für Recherche und technische Umsetzung werden auch KI-Werkzeuge eingesetzt. Wie Aussagen überprüft werden, steht in der <a href="#/methodik">Methodik</a>.</p>
     </section>
   </div>`, 'start');
   document.title = 'Politik4M3 Faktencheck';
@@ -968,13 +964,33 @@ function pageMethod() {
       <p>Prüfen Original und Reaktion dieselbe Behauptung mit gegensätzlichem Ergebnis, erscheint ein sichtbarer <strong>Prüfkonflikt</strong> mit Gegenüberstellung der Quellen und einer offenen Review-Aufgabe, bis die Abweichung begründet geklärt ist. Bewertungen werden nie nur angeglichen, damit sie übereinstimmen.</p>
     </section>
 
-    <section class="section prose-plain"><h2>Mehrere KI-Systeme, ein offener Prozess</h2>
-      <p>Codex erstellt die Faktenchecks. ChatGPT und Claude prüfen sie unabhängig und kommentieren öffentlich auf GitHub; sie dürfen einander und Codex widersprechen. Codex entscheidet begründet, was übernommen wird. Ein Mensch gibt jede Veröffentlichung frei. Alle Beiträge sind mit dem jeweiligen KI-System gekennzeichnet, auch wenn mehrere denselben GitHub-Account nutzen.</p>
-      <p>Auch mehrere KI-Systeme können irren. Wenn du einen Fehler findest, eröffne gern ein <a href="${esc(repoUrl())}/issues" rel="noopener noreferrer" target="_blank">Issue auf GitHub</a>.</p>
+    <section class="section prose-plain"><h2>Wer arbeitet daran – und mit welchen Werkzeugen?</h2>
+      <p>Hinter dem Projekt steht derzeit eine Person: <a href="#/jens">Jens der Christ</a>. Er verantwortet die Inhalte und gibt jede Veröffentlichung frei. Bei Recherche, Datenaufbereitung, Gegenprüfung und Programmierung setzt er KI-Werkzeuge ein (derzeit ChatGPT, Claude und Codex). Ihre Beiträge sind auf GitHub als KI-Beiträge gekennzeichnet; sie sind Hilfsmittel, keine Mitarbeitenden.</p>
+      <p>Auch mit sorgfältiger Prüfung und KI-Unterstützung können Fehler passieren. Wenn du einen Fehler findest, eröffne gern ein <a href="${esc(repoUrl())}/issues" rel="noopener noreferrer" target="_blank">Issue auf GitHub</a>.</p>
       <p>Die verbindlichen Regeln stehen in <a href="${esc(blobUrl('AGENTS.md'))}" rel="noopener noreferrer" target="_blank">AGENTS.md</a>, das Datenmodell in <a href="${esc(blobUrl('docs/STRUKTURIERTE_DATEN.md'))}" rel="noopener noreferrer" target="_blank">docs/STRUKTURIERTE_DATEN.md</a>.</p>
     </section>
   </div>`, 'methodik');
   document.title = 'Methodik – Politik4M3 Faktencheck';
+  window.scrollTo(0, 0);
+}
+
+function pageJens() {
+  setPage(`<div class="wrap">
+    <nav class="crumbs" aria-label="Brotkrumennavigation"><a href="#/">Faktenchecks</a> / Jens der Christ</nav>
+    <section class="section prose">
+      <p class="eyebrow">Über den Projektgründer</p>
+      <h1>Jens der Christ</h1>
+      <p class="lead">Hinter Politik4M3 Faktencheck steht Jens der Christ – Initiator, Entwickler und Projektverantwortlicher.</p>
+      <h2>Wer ist Jens?</h2>
+      <p>Jens interessiert sich für Politik und gesellschaftliche Debatten. Als Christ ist ihm wichtig, Menschen respektvoll zu begegnen und unterschiedliche Standpunkte ernst zu nehmen. Er beschäftigt sich außerdem mit Webentwicklung und digitalen Projekten.</p>
+      <h2>Warum dieses Projekt?</h2>
+      <p>Politische und wirtschaftliche Aussagen in YouTube-Videos sollen nachvollziehbar überprüft werden können. Dafür werden Behauptungen, Quellen, Zeitmarken und Unsicherheiten transparent dokumentiert – auch dann, wenn eine Aussage zutrifft oder sich nicht abschließend prüfen lässt.</p>
+      <h2>Wie wird gearbeitet?</h2>
+      <p>Jens verantwortet das Projekt. Bei Recherche, Datenaufbereitung und technischer Entwicklung kommen KI-Werkzeuge wie ChatGPT, Claude und Codex zum Einsatz. Ihre Ergebnisse sind nicht automatisch richtig und ersetzen keine sorgfältige Prüfung. Hinweise und Korrekturen sind willkommen.</p>
+      <p><a href="#/methodik">Mehr zur Prüfmethode</a> · <a href="${esc(repoUrl())}/issues" rel="noopener noreferrer" target="_blank">Fehler oder Ergänzungen auf GitHub melden</a></p>
+    </section>
+  </div>`, 'jens');
+  document.title = 'Jens der Christ – Politik4M3 Faktencheck';
   window.scrollTo(0, 0);
 }
 
@@ -1038,6 +1054,7 @@ async function routePage() {
       return await pageVideo(parts[1]);
     }
     if (parts[0] === 'methodik') return pageMethod();
+    if (parts[0] === 'jens') return pageJens();
     return await pageHome();
   } catch (e) {
     console.error(e);
