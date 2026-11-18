@@ -36,15 +36,17 @@ jobs:
             }
           }
 
+      # Test-Factcheck und Test-Publication prüfen auch den Git-Index, daher zuerst vormerken.
+      - name: Erzeugte Artefakte vormerken
+        run: git add -A faktenchecks
+
       - name: Faktencheck-Tests
         shell: pwsh
         run: ./scripts/Test-Factcheck.ps1
 
       - name: Publikationsprüfung
         shell: pwsh
-        run: |
-          git add -A faktenchecks
-          ./scripts/Test-Publication.ps1
+        run: ./scripts/Test-Publication.ps1
 
       - name: Zurückschreiben
         run: |
