@@ -11,7 +11,7 @@
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
     "researchNote": "Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.",
-    "coverageNote": "Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text."
+    "coverageNote": "Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text."
   },
   "legacyPoints": [],
   "sources": [
@@ -480,12 +480,12 @@
       "description": "Der Creator Hamabu (Schreibweise laut Untertitel) sei früher Cutter des Streamers Papaplatte gewesen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Angabe zur Biografie eines Creators; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Angabe zur Biografie eines Creators; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -520,14 +520,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan sei zum Aufnahmezeitpunkt seit wenigen Wochen 40 Jahre alt.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -561,14 +561,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan habe das Abitur mit der Note 3,2 und den Leistungskursen Mathematik und Physik abgelegt.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -602,14 +602,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan habe Elektrotechnik studiert und mit der Note 1,9 abgeschlossen.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -643,14 +643,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Während des Studiums habe Sinan ein halbes Jahr bei RTL in der Programmverbreitung (Satellitentechnik, IT) gearbeitet.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -684,14 +684,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan habe seine Diplomarbeit beim TÜV Rheinland in Köln geschrieben und dabei ein Testverfahren für Audioverstärker entwickelt.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -725,14 +725,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Nach dem Studium habe Sinan mit einem Studienkollegen eine Firma für Image- und Werbefilme gegründet und sie später allein weitergeführt.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -766,14 +766,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan habe um 2011/2012 mit einem Musikformat auf YouTube begonnen und später eine Online-Schule für Musikproduktion betrieben.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -809,12 +809,12 @@
       "description": "Sinan betreibe seit etwa fünf Jahren (also seit etwa 2020) hauptsächlich den YouTube-Kanal SinansWoche.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Selbstauskunft zum eigenen Kanal; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Selbstauskunft zum eigenen Kanal; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -850,14 +850,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan mische neben dem Kanal weiterhin Musik für andere Künstler und sei darin über Jahre zum Experten geworden.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -893,12 +893,12 @@
       "description": "Sinan habe Musik unter anderem für den Dance-Act Neptunica und für 89ers abgemischt, vielfach aus dem Umfeld des Hamburger Dance-Labels Contor.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – berufliche Selbstauskunft ohne öffentlich gelesenen Nachweis (Credits der genannten Produktionen nicht geprüft). Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – berufliche Selbstauskunft ohne öffentlich gelesenen Nachweis (Credits der genannten Produktionen nicht geprüft). Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -934,14 +934,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan habe vor etwa zwei Jahren das Mastering zahlreicher eigens für die RTL-Show Let's Dance produzierter Musikstücke übernommen, weil das Studio des bisherigen Dienstleisters bei einer Flutkatastrophe überflutet worden sei.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – berufliche Selbstauskunft zu einem Auftrag; Produktionsunterlagen sind nicht öffentlich, keine Quelle gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -979,12 +979,12 @@
       "description": "Sinan veröffentliche elektronische Musik unter dem Künstlernamen Tavengo, unter anderem auf Spotify.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Selbstauskunft zum Künstlernamen; Streamingdienste sind aus der Prüfumgebung nicht geprüft worden. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Selbstauskunft zum Künstlernamen; Streamingdienste sind aus der Prüfumgebung nicht geprüft worden. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1019,14 +1019,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der SinansWoche-Kanal zeige ein altes Erstellungsdatum, weil er zuvor für Kundenvideos der Filmfirma genutzt worden sei; die alten Videos seien ausgeblendet.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – interne Kanalhistorie (ausgeblendete Videos) ist öffentlich nicht einsehbar. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1063,12 +1063,12 @@
       "description": "Das älteste heute öffentlich sichtbare Video des SinansWoche-Kanals behandle Querdenker.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Kanalinhalt; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Kanalinhalt; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1103,14 +1103,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan sei verbal scharf und polemisch, körperlich aber nie aggressiv gewesen und habe sich nie geprügelt.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1144,14 +1144,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan erhalte vergleichsweise wenig Hass; in der Vergangenheit habe es phasenweise Auseinandersetzungen unter anderem mit dem Streamer Dekarldent gegeben.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1185,14 +1185,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan habe sein Twitter/X-Konto mit rund 65.000 Followern gelöscht, weil er dort suchtartig ein bis zwei Stunden täglich verbracht habe; das Konto sei nicht monetarisiert gewesen.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1267,12 +1267,12 @@
       "description": "Ein Influencer (laut Untertitel Laser Luca) habe vor etwa sechs bis sieben Jahren in einem Video geschildert, nicht in den Kölner Club Bootshaus eingelassen worden zu sein, obwohl er seine Reichweite anbot; das Video habe heftige Gegenreaktionen ausgelöst.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – älteres Creator-Video und Reaktionen darauf; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – älteres Creator-Video und Reaktionen darauf; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1309,12 +1309,12 @@
       "description": "Sinans Antwortvideo darauf habe aus dem Stand etwa 50.000 bis 60.000 Aufrufe erreicht.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Abrufzahl eines eigenen Videos; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Abrufzahl eines eigenen Videos; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1349,14 +1349,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "In der Corona-Zeit seien viele Kanäle entstanden, die mit PayPal-Links und Kontonummern um Spenden baten; als Beispiel wird Ken Jebsen mit einer Joker-Maske genannt.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – zu unbestimmt: Die gemeinten Kanäle werden nicht benannt; das Beispiel wurde nicht anhand einer gelesenen Quelle geprüft. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1409,14 +1409,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Nach einem scherzhaften Spendenhinweis in der ersten Folge seien in der ersten Woche etwa 60 Euro eingegangen; nach der transparenten Nennung danach einige hundert Euro.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – interne Einnahmen des Kanals, öffentlich nicht nachprüfbar. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1453,12 +1453,12 @@
       "description": "Sinan habe früher unter anderem mit Dara und etwa vier Jahre zuvor in einem Format namens Redereien FM (Schreibweise laut Untertitel) Gespräche geführt.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – frühere Gesprächsformate; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – frühere Gesprächsformate; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1705,14 +1705,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinans Eltern hätten Agrarwissenschaften studiert; in der Familie seien nur Grüne, Linke oder SPD gewählt worden.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1787,12 +1787,12 @@
       "description": "Die Soziologie unterscheide vier Sozialisationsphasen: primär im Elternhaus, sekundär in der Schule, tertiär im Beruf und quartär im Alter.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Lehrbuchfrage, zu der keine soziologische Fachquelle gelesen wurde; das Vierphasenmodell wird nicht geraten. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Lehrbuchfrage, zu der keine soziologische Fachquelle gelesen wurde; das Vierphasenmodell wird nicht geraten. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1868,12 +1868,12 @@
       "description": "Sinan habe vor wenigen Jahren in Videos Wahlwerbung für die Grünen gemacht und habe heute keine Parteipräferenz mehr.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Selbstauskunft zu früheren eigenen Videos und heutiger Haltung; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Selbstauskunft zu früheren eigenen Videos und heutiger Haltung; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1908,14 +1908,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan gehe immer wählen und habe schon Grüne, Linke, SPD, die Humanisten und Die PARTEI gewählt.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – Wahlverhalten unterliegt dem Wahlgeheimnis; nur Selbstauskunft.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -1988,14 +1988,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan stehe ohne Wecker meist zwischen 7 und 7:30 Uhr auf und mache täglich eine Duolingo-Lektion; seine Serie umfasse rund 800 Tage.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2046,14 +2046,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Gastgeber habe kürzlich zwei Wochen Campingurlaub in Dänemark als Vorbereitung auf einen Mammutmarsch gemacht.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2131,14 +2131,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinans Wochenablauf: montags Themensuche, Mittwoch/Donnerstag Skript, Donnerstag Aufnahme vor Greenscreen, Freitag Schnitt und Veröffentlichung.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2172,14 +2172,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Vor rund zehn Jahren habe Sinan einen schweren familiären Konflikt offen angesprochen, statt sich von der Familie zu distanzieren; daraus leite er seine Haltung ab, Probleme anzusprechen.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – private Familienangelegenheit; Einzelheiten bewusst nicht genannt. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2269,14 +2269,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Gastgeber habe Ben Ungeskriptet um ein Interview gebeten und von einer Mitarbeiterin eine Absage erhalten.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2312,12 +2312,12 @@
       "description": "Ben Ungeskriptet habe zuletzt nahezu das gesamte rechte bis rechtsradikale Spektrum zu Gast gehabt, darunter Schlomo, und sei damit sehr erfolgreich.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Wertung und Sammelbehauptung über die Gästeliste eines Kanals; „rechts bis rechtsradikal“ ist eine Einordnung, und die Gästeliste wurde nicht abgerufen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Wertung und Sammelbehauptung über die Gästeliste eines Kanals; „rechts bis rechtsradikal“ ist eine Einordnung, und die Gästeliste wurde nicht abgerufen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2355,12 +2355,12 @@
       "description": "Ben Ungeskriptet habe auch Otto Bulletproof interviewt.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Gästeliste eines Kanals; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Gästeliste eines Kanals; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2397,12 +2397,12 @@
       "description": "Der Waffen-YouTuber Schlomo habe eine CO2-Pistole entwickelt, die sechs lange Nadeln verschießt und unter 7,5 Joule bleiben sollte; die Physikalisch-Technische Bundesanstalt habe sie nicht als erlaubnisfreie Waffe zugelassen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Ein konkretes Produkt und eine PTB-Entscheidung dazu fanden sich in keiner gelesenen Quelle. Kontext: Die Bundesregierung hat 2025 eine Erlaubnispflicht für bestimmte Druckluftwaffen mit Hartnadelgeschossen unter 7,5 Joule eingeführt; ob das gemeinte Produkt darunter fiel, bleibt offen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Ein konkretes Produkt und eine PTB-Entscheidung dazu fanden sich in keiner gelesenen Quelle. Kontext: Die Bundesregierung hat 2025 eine Erlaubnispflicht für bestimmte Druckluftwaffen mit Hartnadelgeschossen unter 7,5 Joule eingeführt; ob das gemeinte Produkt darunter fiel, bleibt offen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [
         {
@@ -2489,12 +2489,12 @@
       "description": "Schlomo schieße in seinen Videos auf Zombieköpfe und inszeniere die Vorbereitung auf eine Zombie-Apokalypse.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Inhalt fremder Videos; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Inhalt fremder Videos; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2612,14 +2612,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "In einem Reddit-Thread werde Sinan Transfeindlichkeit vorgeworfen.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – zu unbestimmt: Person, Quelle oder Fundstelle werden nicht so benannt, dass eine Sachprüfung möglich ist. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2655,12 +2655,12 @@
       "description": "Biologisch gebe es zwei Geschlechter; Varianten der Geschlechtsentwicklung (DSD) seien Diagnosen und begründeten keine weiteren Geschlechter.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde. Ob man von zwei Geschlechtern mit Varianten oder von einem Spektrum spricht, hängt von der Definition ab; das Gespräch enthält dazu selbst gegensätzliche Positionen (siehe A0055). Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde. Ob man von zwei Geschlechtern mit Varianten oder von einem Spektrum spricht, hängt von der Definition ab; das Gespräch enthält dazu selbst gegensätzliche Positionen (siehe A0055). Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2741,14 +2741,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein Creator (Name im Untertitel unsicher transkribiert) habe vor ein bis zwei Jahren in einem Sketch ein Instagram-Foto von Sinans Mutter sexualisierend kommentiert und rege sich häufig über Sinan auf.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – zu unbestimmt: Person, Quelle oder Fundstelle werden nicht so benannt, dass eine Sachprüfung möglich ist. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2784,12 +2784,12 @@
       "description": "Biologisch-medizinisch gebe es im Regelfall zwei Geschlechter, mit Ausnahmen bei Intergeschlechtlichkeit (etwa XX-Chromosomen mit Y-Anteilen oder Androgenresistenz); deshalb sei das biologische Geschlecht nach der Recherche des Gastgebers kein striktes Binär, sondern ein Spektrum.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde; Gegenposition zu A0052 im selben Gespräch. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde; Gegenposition zu A0052 im selben Gespräch. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2875,12 +2875,12 @@
       "description": "In manchen Kulturen gebe es weitere Geschlechterrollen, etwa Hijras in Südasien und Two-Spirit-Personen in indigenen Kulturen Nordamerikas.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – ethnologische Angabe, zu der keine Fachquelle gelesen wurde. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – ethnologische Angabe, zu der keine Fachquelle gelesen wurde. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2998,14 +2998,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein Körper, der eine vollständige männliche Pubertät durchlaufen hat, entwickle im Durchschnitt höhere Knochendichte, mehr Körpergröße, mehr Muskelkraft und ein anderes Verhältnis von Fett- zu Muskelmasse.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – sportmedizinische Fachfrage; außer Roberts u. a. (Unterschiede vor Hormonbehandlung) wurde keine Übersichtsarbeit zu Knochendichte und Körperzusammensetzung gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -3184,14 +3184,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Feministinnen hätten die Tests kritisiert, weil Frauen wieder beweisen müssten, Frauen zu sein, und nach Tests für Männer gefragt.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – zu unbestimmt: Person, Quelle oder Fundstelle werden nicht so benannt, dass eine Sachprüfung möglich ist. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -3227,12 +3227,12 @@
       "description": "Ohne Geschlechtertrennung sei die Männerklasse faktisch eine offene Klasse; in Kraft-, Sprung- und Laufdisziplinen erzielten biologische Männer die Spitzenleistungen, deshalb müsse man Männer nicht auf ihr Geschlecht testen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – zusammengesetzte sportpolitische Einordnung; Leistungsvergleiche und Regelwerke der Verbände wurden nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – zusammengesetzte sportpolitische Einordnung; Leistungsvergleiche und Regelwerke der Verbände wurden nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -3532,14 +3532,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Rund 80 Prozent der bisher interviewten Creator hätten angegeben, keine Hobbys zu haben.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – eigene, nicht veröffentlichte Zählung des Gastgebers. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -3573,14 +3573,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan spiele Basketball in einer Ligamannschaft (laut Untertitel in Bonn; zuvor nennt er Hessen als Wohnort) mit zweimal Training pro Woche und gehe drei- bis viermal pro Woche ins Fitnessstudio.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -3614,14 +3614,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Sauna in Sinans Fitnessstudio sei montags nur für Frauen geöffnet; montags passe ihm ein Saunabesuch am besten.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -3999,14 +3999,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Strafverfolgungsbehörden hätten nach Sinan vertraulich bekannten Informationen große Probleme mit dem Selbstbestimmungsgesetz.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – Berufung auf nicht öffentliche, anonyme Informationen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -4132,14 +4132,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine Kanzlei habe sich darauf spezialisiert, bei Erbschaften oder Immobilienübertragungen Vorteile durch eine Änderung des Geschlechtseintrags zu nutzen.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – zu unbestimmt: Person, Quelle oder Fundstelle werden nicht so benannt, dass eine Sachprüfung möglich ist. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -4265,14 +4265,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan sei sein eigenes Geschlecht weitgehend egal; seine Identität hänge nicht davon ab.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -4350,14 +4350,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan kenne Fälle, in denen Personen ihren Geschlechtseintrag geändert hätten, um wegen Paritätsregeln befördert zu werden.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -4391,14 +4391,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "In technischen Berufen mit großem Männerüberschuss sei es klar vorteilhaft, als Frau geführt zu werden; eine Bewerberin bekomme die Stelle wegen Paritätsregeln in jedem Fall.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – zu pauschal: Es wird weder eine konkrete Paritätsregel noch ein Arbeitgeber genannt; eine allgemeine Regel, nach der eine Bewerberin die Stelle in jedem Fall bekommt, wurde in keiner gelesenen Quelle gefunden. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -4456,14 +4456,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Für IT-Stellen bei Daimler, Vodafone und den vom Gastgeber betreuten Unternehmen gebe es keine Frauenquote oder Stellenschlüssel.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – interne Personalpraxis und persönliche Berufserfahrung; nicht öffentlich dokumentiert. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -4499,12 +4499,12 @@
       "description": "Der öffentliche Dienst mache nur einen Bruchteil der IT-Stellen in Deutschland aus.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – keine Beschäftigtenstatistik zu IT-Stellen gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – keine Beschäftigtenstatistik zu IT-Stellen gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -4541,12 +4541,12 @@
       "description": "Vom Selbstbestimmungsgesetz seien nur sehr wenige Menschen betroffen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – keine Fallzahlen zu Änderungen nach dem SBGG gelesen; die Gesetzesbegründung nennt nur eingesparte Verfahrenskosten. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – keine Fallzahlen zu Änderungen nach dem SBGG gelesen; die Gesetzesbegründung nennt nur eingesparte Verfahrenskosten. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -4625,14 +4625,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Außer zwei Fällen habe der Gastgeber in den Medien keinen Missbrauch des Selbstbestimmungsgesetzes gesehen.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Medienwahrnehmung ohne genannte Fälle. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -5019,14 +5019,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Bei einer 160-km-Fahrt sei der Sohn des Gastgebers mit teils 170–200 km/h nur rund zehn Minuten früher angekommen als der Gastgeber mit einem Lkw bei 100–110 km/h.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -5138,14 +5138,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Papaplatte sei einer der erfolgreichsten Streamer Deutschlands und verdiene vermutlich mehr als die nächsten zwei, drei zusammen.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – Einnahmen von Streamern sind nicht öffentlich belegt. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -5221,12 +5221,12 @@
       "description": "Es gebe ältere Clips, in denen Dekarldent heftig ausgeteilt und dafür viel Gegenwind bekommen habe.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – ältere Clips eines Creators; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – ältere Clips eines Creators; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -5300,14 +5300,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinans Nachbarin nenne ihn scherzhaft mit einem Spitznamen, der Provozieren und seinen Vornamen verbindet.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -5343,12 +5343,12 @@
       "description": "Eine Streamerin (Name im Untertitel als „Lehrenfrau“ transkribiert, Schreibweise ungeklärt) sei nach rund fünf Monaten Pause am Vortag mit einem Stream zurückgekehrt, ohne konkret auf Vorwürfe gegen sie einzugehen; der Chat sei zu etwa 90 Prozent negativ gewesen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Streamverlauf und Chatstimmung an einem bestimmten Tag; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Streamverlauf und Chatstimmung an einem bestimmten Tag; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -5386,12 +5386,12 @@
       "description": "Nach einem Video eines anderen Creators hätten sich etwa acht bis zwölf Creator, darunter nach Angabe des Gastgebers KevinITS, JustNero, KuchenTV und eine Thumbnail-Designerin, mit belastenden Erfahrungen mit dieser Streamerin öffentlich gemeldet.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Videos und Aussagen mehrerer Creator; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Videos und Aussagen mehrerer Creator; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -5426,14 +5426,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinans eigener Austausch mit dieser Streamerin über Instagram und Sprachnachrichten sei freundlich und völlig unauffällig gewesen.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -5467,14 +5467,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Auch der WhatsApp-Kontakt des Gastgebers mit dieser Streamerin zur Vorbereitung eines geplanten Talks sei höflich und unauffällig gewesen.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -5508,14 +5508,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan sei erst der dritte von fast 30 Campertalk-Gästen, der eigene Themen eingebracht habe.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – interne Vorbereitung der Sendung; nicht öffentlich dokumentiert. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -5612,12 +5612,12 @@
       "description": "SinansWoche habe anfangs vor allem Corona-Verschwörungsinhalte aus Telegram-Gruppen und von Personen wie Attila Hildmann oder Michael Wendler unterhaltsam aufgegriffen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – frühe Kanalinhalte; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – frühe Kanalinhalte; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -6042,14 +6042,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Schiffmann sei infolge dieses Drucks immer weiter abgedriftet.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – Kausalaussage über die innere Entwicklung einer Einzelperson; die zeitliche Abfolge ist prüfbar, die Ursache nicht. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -6124,12 +6124,12 @@
       "description": "In Japan sei es bei Grippewellen üblich, Masken zu tragen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – keine Quelle zu Maskengewohnheiten in Japan gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – keine Quelle zu Maskengewohnheiten in Japan gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -6166,12 +6166,12 @@
       "description": "Masken seien offensichtlich eine wirksame Schutzmaßnahme.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – medizinische Wirksamkeitsfrage, zu der keine Übersichtsarbeit gelesen wurde; „offensichtlich“ lässt sich ohne Studienlage nicht bewerten. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – medizinische Wirksamkeitsfrage, zu der keine Übersichtsarbeit gelesen wurde; „offensichtlich“ lässt sich ohne Studienlage nicht bewerten. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -6206,14 +6206,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Studien zeigten, dass die Reaktanz in der Pandemie bereits bestehende staats- und autoritätskritische Strömungen verstärkt habe; andere Studien fänden keinen zusätzlichen Effekt.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – die gemeinten Studien werden nicht benannt und wurden nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -6473,12 +6473,12 @@
       "description": "Die Satirikerin Sarah Bosetti habe Ungeimpfte mit dem Blinddarm der Gesellschaft verglichen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – die Fernsehsendung selbst ist nicht zugänglich, und es wurden nur Berichte mit deutlicher eigener Tendenz gefunden, keine neutrale Quelle. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – die Fernsehsendung selbst ist nicht zugänglich, und es wurden nur Berichte mit deutlicher eigener Tendenz gefunden, keine neutrale Quelle. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -6530,14 +6530,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "In den Tagesthemen habe es einen Kommentar gegeben, in dem Frust über Ungeimpfte abgelassen worden sei.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – zu unbestimmt: Datum und Kommentator werden nicht genannt. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -6703,14 +6703,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan habe sich nach Durchsicht von Studien bewusst und nicht aus Druck impfen lassen.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -6744,14 +6744,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine Journalistin der Zeit (Vorname laut Untertitel Jasmin) habe vom Tragen von Camouflage-Mustern abgeraten; der Instagram-Kanal von Quarks arbeite häufig mit Sollen-Formulierungen.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – Journalistin und Beitrag sind nicht eindeutig benannt; Social-Media-Inhalte wurden nicht geprüft. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -7095,14 +7095,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Gastgeber habe als erste Impfung AstraZeneca erhalten, sei danach zwei Wochen krank gewesen und habe sich wegen chronischer Bronchitis impfen lassen.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -7282,12 +7282,12 @@
       "description": "Der Creator KevinITS sei Intensivpfleger gewesen und habe den Beruf wegen der vielen Toten in der Pandemie aufgegeben; er habe derzeit rechtliche Auseinandersetzungen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Berufsbiografie eines Creators und laufende Rechtsstreitigkeiten; keine öffentliche Quelle gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Berufsbiografie eines Creators und laufende Rechtsstreitigkeiten; keine öffentliche Quelle gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -7322,14 +7322,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Gastgeber habe in der Pandemie gute Freunde verloren; die 30-jährige Ehefrau eines Kollegen sei an Corona gestorben.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -7694,14 +7694,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "In Sinans Freundeskreis sei es zum Streit gekommen, weil manche ungetestete Familienmitglieder nicht hereinlassen wollten; Sinan habe Kontrollen abgelehnt.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -7783,14 +7783,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Gastgeber habe einen Sohn mit Asthma und selbst chronische Bronchitis; er hätte ungetestete Gäste von einer Feier ausgeschlossen.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – persönliche Darstellung ohne öffentlich zugänglichen Nachweis. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; Sachrecherche noch nicht durchgeführt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -7841,14 +7841,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Corona habe in vielen Familien zu Konflikten und auch zu dauerhaften Brüchen geführt.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – zu allgemein; keine Erhebung zu Familienkonflikten gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -8039,14 +8039,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Impfskepsis habe es in Deutschland schon vor der Pandemie in ähnlichem Umfang gegeben.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – zum Umfang der Impfskepsis vor der Pandemie fand sich nur eine BZgA-Zeitreihe zur allgemeinen Wichtigkeit von Impfungen (2012: 61 %, 2021: 81 %), die keinen gleich hohen Anteil belegt oder widerlegt. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -8129,14 +8129,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Es habe Szenen gegeben, in denen Polizisten Jugendliche durch Parks gejagt hätten.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – zu unbestimmt: Ort und Zeit werden nicht genannt. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [

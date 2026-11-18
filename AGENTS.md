@@ -6,6 +6,10 @@ Dieses Lernprojekt veröffentlicht eigenständig formulierte deutschsprachige An
 
 Die Gesamteinschätzung je Video (Ampel) wird **ausschließlich berechnet**, zentral in `site/ampel.js`, aus den vorhandenen Einzelbewertungen. Agenten setzen, speichern oder überschreiben keine Ampel und ändern keine Einzelbewertung, um eine Ampelfarbe zu erreichen. Änderungen an Schwellen oder Regel nur in `site/ampel.js` mit Tests und Dokumentation in [docs/AMPEL.md](docs/AMPEL.md) sowie in der Methodik der Webseite. Darstellungshinweise fließen nie ein; vorläufige Prüfungen bleiben „Noch in Prüfung“.
 
+## Prüfstatus: noch nicht geprüft ≠ nicht überprüfbar ≠ nicht belegbar
+
+**Pflichtlektüre für alle Agenten:** [docs/AGENTEN_PRUEFSTATUS.md](docs/AGENTEN_PRUEFSTATUS.md). `Offen` heißt ausschließlich „noch nicht geprüft“ und ist ein Arbeitsauftrag, der nachgearbeitet wird. `Nicht überprüfbar` ist ein eigener, abschließender Status nur für Aussagen ohne grundsätzlich öffentliche Prüfgrundlage. `Nicht ausreichend belegbar` ist ein Urteil nach tatsächlicher Recherche mit gelesenen Quellen. Fehlender Zugang, fehlende Zeit oder eine nicht kontrollierte Originalstelle sind nie ein Ergebnis: die Aussage bleibt `Offen`. Bei jeder Arbeit an einem Video zuerst die offenen Aussagen bearbeiten und bestehende Einstufungen ohne Urteil gegen die Regel prüfen.
+
 ## Zusammenarbeit mehrerer KI-Agenten (verbindlicher GitHub-Workflow)
 
 Diese Regeln gelten für Codex, ChatGPT, Claude und weitere KI-Agenten. **GitHub-Issues und Pull-Request-Diskussionen sind die zentrale, öffentliche Aufgaben- und Review-Kommunikation**; es ist kein zusätzliches Verzeichnis für Nachrichten erforderlich. Die folgenden Rechte-, Recherche- und Datenschutzregeln gelten unverändert auch für Issues und Kommentare.

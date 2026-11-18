@@ -11,7 +11,7 @@
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
     "researchNote": "Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:02–00:17:10). Wiedergaben des Originalgesprächs wurden mit dessen ebenfalls vollständig gelesenen Untertiteln und Metadaten abgeglichen. Die im Video genannten Gesetzestexte, Drucksachen und Presseberichte wurden am 18.11.2026 selbst geöffnet und gelesen; nur der Besondere Teil der Begründung zu BT-Drucksache 20/9049 war nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.",
-    "coverageNote": "Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, oder mit Grund als nicht überprüfbar gekennzeichnet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext. Die Urteile der Kanalfigur über Sinan sind wegen ihres prüfbaren Kerns als Tatsachenbehauptungen bewertet, nicht als Meinung."
+    "coverageNote": "Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle sechs Abschnitte (00:00:00–00:17:31) sind erfasst; der Abschnitt ab 00:16:41 enthält keine prüfbare Tatsachenbehauptung. Methodenerklärungen des Kanals (Definitionen der eigenen Messkategorien) werden in der Analyse beschrieben, nicht als Tatsachen gezählt. Die eingeblendeten Originalausschnitte sind Aussagen aus bPXMY7Reeek und dort erfasst. Keine Statistik des gesamten Videos. Die letzten rund 20 Sekunden enthalten keinen Untertiteltext. Die Urteile der Kanalfigur über Sinan sind wegen ihres prüfbaren Kerns als Tatsachenbehauptungen bewertet, nicht als Meinung."
   },
   "legacyPoints": [],
   "sources": [
@@ -242,14 +242,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan habe die KI-Figur Alfred gebaut und bezahle ihren Betrieb; der Kanal Alfred räumt auf sei ein Projekt von SinansWoche.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – Selbstauskunft über interne Betriebsverhältnisse; die Beschreibung bestätigt nur dieselbe Selbstdarstellung. Für die Einordnung wichtig: Der geprüfte Gast ist zugleich Betreiber des prüfenden Kanals; das Video legt diesen Interessenkonflikt offen.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -302,12 +302,12 @@
       "description": "Der Kanal SinansWoche behandle Politik, Gesellschaft und viel Philosophie und habe gut 50.000 Abonnenten.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Kanalangaben und Abonnentenzahl; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Kanalangaben und Abonnentenzahl; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2792,12 +2792,12 @@
       "description": "Auf der Erde lebten über acht Milliarden Menschen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – die UN-Bevölkerungsschätzung konnte nicht abgerufen werden (Client-Fehler); die Zahl wird nicht aus dem Gedächtnis bewertet. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – die UN-Bevölkerungsschätzung konnte nicht abgerufen werden (Client-Fehler); die Zahl wird nicht aus dem Gedächtnis bewertet. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -2968,14 +2968,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Bei einem Viertel seiner Streitfragen lasse Sinan keine andere Sicht gelten, beim Rest gestehe er der Gegenseite etwas zu.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – kanalinterne Zählung ohne veröffentlichte Liste der Streitfragen und Kriterien. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -3097,14 +3097,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Nach der eigenen Kategorie des Kanals (pauschale Abwertung ganzer Gruppen) gebe es in drei Stunden genau eine solche Stelle bei Sinan.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – kanalinterne Zählung ohne veröffentlichte Kriterien und Liste. Ob weitere Stellen darunter fallen, etwa pauschale Aussagen über Feministinnen (bPXMY7Reeek-A0064), lässt sich ohne die Kriterien nicht entscheiden. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -3201,14 +3201,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Aus den drei Kategorien ergebe sich für Sinan ein Indexwert von 170 Punkten; so wenige habe noch kein Gast gehabt, er belege Platz vier von vier.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
       "reason": "Nicht überprüfbar – kanalinterne Kennzahl ohne veröffentlichte Berechnung und Gewichtung; frühere Folgen wurden nicht abgeglichen. Fehlende Bestätigung bedeutet nicht falsch.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
