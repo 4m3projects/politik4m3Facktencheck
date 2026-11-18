@@ -170,8 +170,9 @@ async function step(name, fn) {
   await step('Brotkrumen: Titel statt Video-ID, bei Reaktionen mit Original dazwischen', async () => {
     await open(urlOf(real), '#/video/mlxFA9T88I0');
     let c = await page.innerText('.crumbs');
-    assert.match(c, /^Faktenchecks \/ Horst Lüning bei Ben/);
-    assert.doesNotMatch(c, /mlxFA9T88I0/);
+    assert.equal(c.trim(), 'Faktenchecks / Horst Lüning bei Ben', 'nur der Titel, ohne Zusatz');
+    await open(urlOf(real), '#/video/mdo14671BPE');
+    assert.equal((await page.innerText('.crumbs')).trim(), 'Faktenchecks / Naomi Seibt bei Ben', 'ohne „unabhängiger Faktencheck“');
     await open(B, '#/video/' + F.RB + '/reaktionen');
     c = await page.innerText('.crumbs');
     const links = await page.$$eval('.crumbs a', a => a.map(x => x.getAttribute('href')));

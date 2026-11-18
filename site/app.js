@@ -722,12 +722,17 @@ async function fillChapterTitles(v, titles) {
   }));
 }
 
-/* Brotkrumen mit Videotiteln statt IDs; bei Reaktionen steht das geprüfte Original dazwischen. */
+/* Brotkrumen: nur der Videotitel, ohne Zusätze. Ohne video.json dient der Berichtstitel ohne den Teil nach dem
+   Doppelpunkt (z. B. „: unabhängiger Faktencheck“). Bei Reaktionen steht das geprüfte Original dazwischen. */
+function crumbTitle(id, v) {
+  const e = v || entryOf(id);
+  return e?.video?.title || String(e?.title || id).replace(/:\s.*$/, '');
+}
 function videoCrumbs(v) {
   const origs = v.video?.role === 'reaction'
-    ? (state.rel.byReaction.get(v.id) || []).map(r => `<a href="#/video/${esc(r.originalVideoId)}">${esc(entryOf(r.originalVideoId)?.title || videoName(r.originalVideoId))}</a>`)
+    ? (state.rel.byReaction.get(v.id) || []).map(r => `<a href="#/video/${esc(r.originalVideoId)}">${esc(crumbTitle(r.originalVideoId))}</a>`)
     : [];
-  return `<nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / ${origs.length ? origs.join(' · ') + ' / ' : ''}<span aria-current="page">${esc(v.title || v.id)}</span></nav>`;
+  return `<nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / ${origs.length ? origs.join(' · ') + ' / ' : ''}<span aria-current="page">${esc(crumbTitle(v.id, v))}</span></nav>`;
 }
 
 function videoHeader(v, tab) {
