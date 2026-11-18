@@ -854,6 +854,54 @@
       "details": "evangelisch.de, Claudia Lepp · 29.02.2016; kirchliche Vermittlung und Motive übergesiedelter Theologen allgemein, Kasner nur namentlich.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S106",
+      "title": "Stefan Molyneux (Extremist Files)",
+      "url": "https://www.splcenter.org/resources/extremist-files/stefan-molyneux/",
+      "details": "Southern Poverty Law Center · Profilseite ohne Datum im Text, letzte Änderung laut Seitenmetadaten 19.03.2025; Organisation mit eigener politischer Einordnung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 vollständig gelesen: erster Auftritt in Alex Jones' Radioprogramm 2011; Interview-Zeitleiste 2015–2017 ohne Peterson, Yiannopoulos oder Jones. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S107",
+      "title": "Rechte Youtuberin verbreitet irreführende Behauptungen zu Coronavirus und PCR-Tests",
+      "url": "https://correctiv.org/faktencheck/2020/11/05/rechte-youtuberin-verbreitet-irrefuehrende-behauptungen-zu-coronavirus-und-pcr-tests/",
+      "details": "CORRECTIV, Sarah Thust · 05.11.2020; Faktencheck zu Seibts PCR-Vortrag auf der 2. Konferenz der Freien Medien am 10.10.2020 in Berlin auf Einladung der AfD.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 vollständig gelesen (inklusive Quellenliste); nennt keinen Raum oder Gebäudeteil und keine YouTube-Aufrufzahlen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S108",
+      "title": "YouTube Deletes German Activist Naomi Seibt, Nicknamed 'Anti-Greta'",
+      "url": "https://reclaimthenet.org/youtube-deletes-german-activist-naomi-seibt",
+      "details": "Reclaim The Net, Cindy Harper · 03.05.2021; Netzpolitik-Seite mit eigener meinungsfreiheitlicher Ausrichtung, beruft sich auf Seibts Bestätigung auf Twitter.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 vollständig gelesen: Kanallöschung nach zwei Strikes für COVID-19-Videos; keine Angabe zu einer Wiederherstellung, kein gelöschtes Klimavideo. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S109",
+      "title": "Bundesnetzagentur lässt erstmalig Trusted Flagger für Online-Plattformen in Deutschland zu",
+      "url": "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2024/20240927_DSC_TrustedFlagger.html",
+      "details": "Bundesnetzagentur (Digital Services Coordinator) · Pressemitteilung 01.10.2024 mit späterer Präzisierung; Zulassung von REspect! nach dem EU-Gesetz über digitale Dienste (DSA).",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 vollständig gelesen; Trusted Flagger melden, Plattformen müssen Meldungen vorrangig prüfen; laut Präsident entscheiden weder Trusted Flagger noch Bundesnetzagentur, was illegal ist. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S110",
+      "title": "AfD: Was „gesichert rechtsextremistisch“ für die Partei bedeutet",
+      "url": "https://www.zdfheute.de/politik/deutschland/afd-gesichert-rechtsextremistisch-verfassungsschutz-faq-100.html",
+      "details": "ZDFheute, O. Klein, D. Rzepka, D. Heymann · 02.05.2025; FAQ zur Einstufung durch das Bundesamt für Verfassungsschutz.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 vollständig gelesen; enthält keine Angaben zu Beobachtungsbeginn und Stillhaltezusage. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S111",
+      "title": "Verfassungsschutz gibt Stillhaltezusage fürs Eilverfahren ab",
+      "url": "https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/afd-rechtsextrem-einstufung-verfassungsschutz-stillhaltezusage-eilverfahren-2025-05-08",
+      "details": "beck-aktuell, Redaktion mit dpa · 08.05.2025; Einstufung vom 02.05.2025 vorläufig ausgesetzt, Beobachtung als Verdachtsfall geht weiter; OVG-Münster-Urteil nicht rechtskräftig.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 vollständig gelesen. Späterer Verfahrensstand (Teaser zu einer Verhandlung im März) nicht gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "speakers": [
@@ -4193,18 +4241,23 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Molyneux habe Peterson, Milo Yiannopoulos und Alex Jones interviewt.",
-      "status": "Offen",
+      "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Drei separat nachweisbare Gesprächsvorkommen; in diesem Stand noch nicht einzeln verifiziert.",
+      "reason": "Eine Verbindung zu Alex Jones ist belegt, allerdings als Auftritt Molyneux' in Jones' Sendung ab 2011, nicht ausdrücklich als von Molyneux geführtes Interview. Für Gespräche mit Jordan Peterson und Milo Yiannopoulos liegt bisher keine gelesene Quelle vor; die gelesene Interview-Zeitleiste 2015–2017 nennt beide nicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S106",
+          "note": "Erster Auftritt bei Alex Jones 2011 (umgekehrte Richtung: Molyneux als Gast); Peterson und Yiannopoulos nicht genannt."
+        }
+      ],
       "openQuestions": [
-        "Für jede der drei Personen Originalsendung und Datum belegen."
+        "Primär- oder Sekundärnachweise für Molyneux-Gespräche mit Peterson und Yiannopoulos (Episodenlisten, zeitgenössische Berichte) suchen."
       ],
       "occurrences": [
         {
@@ -5731,18 +5784,23 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibts YouTube-Kanal sei 2020 wegen impfkritischer Inhalte dauerhaft abgeschaltet worden.",
-      "status": "Offen",
+      "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Jahr, Dauer, betroffene Inhalte und konkrete Regelverstöße sind nicht durch eine Originalentscheidung belegt. Andere zeitliche Angaben in der öffentlichen Berichterstattung müssen unabhängig geprüft werden.",
+      "reason": "Eine Kanallöschung wegen COVID-19-Inhalten ist berichtet, nach dem gelesenen Bericht aber Anfang Mai 2021 und nicht 2020. Ob die beanstandeten Videos impfkritisch waren und ob die Abschaltung dauerhaft blieb, sagt die Quelle nicht; A0142 behauptet eine Wiederherstellung 2024.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S108",
+          "note": "Kanallöschung gemeldet am 03.05.2021 nach zwei Strikes für COVID-19-Videos; nichts zu Impfinhalten oder Wiederherstellung."
+        }
+      ],
       "openQuestions": [
-        "Kanalhistorie und Originalmitteilungen zu Sperren 2020/2021 abgleichen; mehrere Eingriffe nicht zusammenziehen."
+        "Zeitpunkt (2020 oder 2021), Inhalt der beanstandeten Videos und Dauer der Sperre mit einer zweiten, möglichst neutralen Quelle klären; Zusammenhang mit A0142."
       ],
       "occurrences": [
         {
@@ -5864,18 +5922,23 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibt habe im September 2020 bei einer AfD-Veranstaltung im Bundestagsgebäude über PCR gesprochen, nicht in einer Plenardebatte.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Die spätere Nachfrage grenzt den Veranstaltungsrahmen ein. Ort und Veranstalter sind von einem parlamentarischen Rederecht zu unterscheiden; Originalprogramm noch ungeprüft.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der Kern trifft zu: Der PCR-Vortrag war keine Plenardebatte, sondern ein Beitrag auf einer Veranstaltung auf Einladung der AfD; das Video stammt vom Kanal der AfD-Bundestagsfraktion. Das Datum weicht ab: Der gelesene Faktencheck nennt die 2. Konferenz der Freien Medien am 10. Oktober 2020 in Berlin, nicht September. Dass sie im Bundestagsgebäude stattfand, nennt die Quelle nicht ausdrücklich.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S107",
+          "note": "Konferenz der Freien Medien, 10.10.2020, Berlin, auf Einladung der AfD; kein Plenum; Gebäude nicht genannt."
+        }
+      ],
       "openQuestions": [
-        "Datum, Raum und Programm der Fraktionsveranstaltung nachweisen."
+        "Veranstaltungsort im Bundestag (Gebäude/Saal) ist mit einer amtlichen oder zeitgenössischen Quelle noch zu bestätigen."
       ],
       "occurrences": [
         {
@@ -11453,18 +11516,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Deutschland führe Meldestellen ein und lasse oppositionelle Parteien vom Verfassungsschutz beobachten.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Zwei institutionell verschiedene Unterbehauptungen: Meldestrukturen und nachrichtendienstliche Parteibeobachtung. Konkrete Stellen, Befugnisse, Partei und Gerichtsstand sind noch zu benennen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Beide Sachverhalte haben einen belegten Kern, die Darstellung lässt aber wesentlichen Kontext weg. Meldestellen: Die Bundesnetzagentur ließ am 01.10.2024 mit REspect! erstmals einen Trusted Flagger zu. Rechtsgrundlage ist das EU-Gesetz über digitale Dienste, keine eigenständige deutsche Einführung. Trusted Flagger melden Inhalte, die Plattformen vorrangig prüfen müssen; laut Bundesnetzagentur entscheiden weder sie noch die Behörde, was illegal ist. Verfassungsschutz: Die AfD wird als Verdachtsfall beobachtet; das Bundesamt stufte sie am 02.05.2025 als gesichert rechtsextremistisch ein, setzte das wegen einer Stillhaltezusage im gerichtlichen Eilverfahren aber vorläufig aus. Die Beobachtung unterliegt gerichtlicher Kontrolle. Belegt ist dies für die AfD; für „oppositionelle Parteien“ allgemein liegt keine gelesene Quelle vor.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
         "assessmentChange": "Keine frühere KI-Bewertung übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S109",
+          "note": "Zulassung REspect! 01.10.2024 nach DSA; melden statt entscheiden."
+        },
+        {
+          "sourceId": "S110",
+          "note": "Einstufung als gesichert rechtsextremistisch 02.05.2025."
+        },
+        {
+          "sourceId": "S111",
+          "note": "Stillhaltezusage, Einstufung vorläufig ausgesetzt, Beobachtung als Verdachtsfall fortgesetzt; OVG-Urteil nicht rechtskräftig."
+        }
+      ],
       "openQuestions": [
-        "Meldestellen ohne Ermittlungsbefugnisse nicht mit Geheimpolizei gleichsetzen; konkrete behördliche Einstufung und gerichtliche Grenzen prüfen."
+        "Der weitere Verfahrensstand nach Mai 2025 (Hauptsache, Verhandlungstermin) wurde nicht gelesen und ist für die Bewertung des Kerns nicht entscheidend."
       ],
       "occurrences": [
         {
