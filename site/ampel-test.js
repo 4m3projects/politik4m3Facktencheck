@@ -63,6 +63,17 @@ test('YouTube Shorts: Vollerhebung, daher ab 3 entschiedenen und mindestens der 
   assert.equal(A.rate(stats({ belegt: 3 }), { workStatus: 'Abgeschlossen' }, 58).key, 'nicht_bewertbar');
 });
 
+test('Musikvideos: ganzes Lied erfasst, daher dieselbe Mindestgrundlage wie bei Shorts', () => {
+  const m = { format: 'musikvideo', workStatus: 'Abgeschlossen' };
+  assert.equal(A.rate(stats({ belegt: 3 }), m, 240).key, 'gruen');
+  assert.equal(A.rate(stats({ belegt: 2, irre: 1 }), m, 240).key, 'rot');
+  assert.equal(A.rate(stats({ belegt: 2 }), m, 240).key, 'nicht_bewertbar');
+  assert.match(A.rate(stats({ belegt: 2 }), m, 240).reason, /bei einem Musikvideo mindestens 3/);
+  assert.equal(A.rate(stats({ belegt: 3, unver: 4 }), m, 240).key, 'nicht_bewertbar', '3 von 7 < 50 %');
+  assert.equal(A.rate(stats({ belegt: 3 }), { format: 'musikvideo', workStatus: 'In Bearbeitung' }, 240).key, 'vorlaeufig');
+  assert.equal(A.RULES.musikvideo.minDecided, 3);
+});
+
 test('Teilweise belegt zählt nicht als Fehler', () => {
   const r = A.rate(stats({ teilweise: 20 }));
   assert.equal(r.key, 'gruen');

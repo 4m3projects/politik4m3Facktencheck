@@ -80,6 +80,18 @@ test('Videoformat: optional video oder short; Shorts auch an der Adresse erkennb
   assert.equal(R.isShort(null, 'https://evil.example/shorts/gVQeb83GHDQ'), false);
 });
 
+test('Videoformat musikvideo: gültig und nur über video.json erkennbar', () => {
+  const ok = F.VIDEOS[F.O1].meta;
+  assert.deepEqual(R.validateVideoMeta({ ...ok, format: 'musikvideo' }, F.O1), []);
+  has(R.validateVideoMeta({ ...ok, format: 'Musikvideo' }, F.O1), /format/);
+  has(R.validateVideoMeta({ ...ok, format: 'music' }, F.O1), /format/);
+  assert.equal(R.isMusic({ ...ok, format: 'musikvideo' }), true);
+  assert.equal(R.isMusic(ok), false);
+  assert.equal(R.isMusic(null), false);
+  assert.equal(R.isShort({ ...ok, format: 'musikvideo' }, 'https://www.youtube.com/shorts/gVQeb83GHDQ'), false, 'video.json geht vor');
+  assert.equal(R.FORMATS.musikvideo, 'Musikvideo');
+});
+
 test('Fehlende Referenzen werden erkannt', () => {
   let rel = clone(F.RELATIONS); rel.relations[0].originalVideoId = 'FEHLTXXXXXX';
   has(errs(rel), /Original FEHLTXXXXXX existiert nicht/);

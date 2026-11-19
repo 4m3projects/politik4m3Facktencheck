@@ -135,6 +135,7 @@ async function pageVideoSync(id, opts = {}) {
 
   setPage(`<div class="wrap">
     ${videoHeader(v, 'video')}
+    ${typeof musicNotice === 'function' ? musicNotice(v) : ''}
     ${d.scope.kind === 'Teilbestand' && !researchDone(d.scope) ? `<p class="notice warn"><strong>Teilbestand:</strong> Nur ein Teil der Aussagen dieses Videos ist strukturiert geprüft. Stellen ohne Eintrag sind nicht automatisch unproblematisch.</p>` : ''}
   </div>
   <section class="vc" id="vc" data-layout="${prefs.layout === 'stack' ? 'stack' : 'side'}" data-format="${FactRelations.isShort(v.video, d.scope.videoUrl) ? 'short' : 'video'}" aria-label="Video mit Faktencheck">
