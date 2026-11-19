@@ -1,8 +1,8 @@
 # Kapitel 05: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die deutsche YouTube-Untertitelspur wurde vollständig ausgewertet. Die öffentliche Mediathekfassung dauert ebenfalls 703 Sekunden. Ihre 293 deutschen Untertitel stimmen im Text mit der YouTube-Spur überein, bei höchstens einer Millisekunde Zeitabweichung. Beide Fassungen zeigen die historische Texttafel bei 08:40 und 08:55. Zusätzlich wurden Standbilder im Abstand von vier Sekunden über die gesamte Laufzeit und an 67 vom Schnittfilter erkannten Bildwechseln sowie die Symbolpassage ab 09:24 in Halbschritten gesichtet. Sehr kurze oder subtile Bildeinblendungen bleiben bei diesem Verfahren grundsätzlich erfassungsbegrenzt. Die Tonebene und die Sprecheridentität wurden nicht durchgehend unabhängig kontrolliert.
 
-Die Nachprüfung hat alle zwölf offenen Sachdatensätze der Erstfassung bearbeitet und zwei zusätzliche Prüfgegenstände erfasst. Alle erfassten Aussagen haben ein Prüfergebnis. Bei nicht ausreichend belegbaren Aussagen dokumentiert der Bericht zwei Prüfwege und die verbleibende Beleglücke. Eine vollständige Sichtung der Bild- und Tonebene war nicht möglich.
+Alle 76 erfassten Prüfpunkte sind abgeschlossen. Drei Punkte stammen aus dem nachträglichen Bildabgleich. Er umfasst über die Laufzeit verteilte Einzelbilder, erkannte Schnitte und eine dichtere Bildreihe zur Symbolpassage. Der genaue Ton wurde nicht unabhängig angehört.
 
 ## nrnpcqzhd44-A0030
 
@@ -29,13 +29,13 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eurostat meldete für Ende 2025 Griechenland mit 146,1, Italien mit 137,1 und Frankreich mit 115,6 Prozent des BIP. In den erst nach dem Video veröffentlichten Zahlen für das zweite Quartal 2026 bleibt die Reihenfolge gleich.
+Die gezeigte Rangfolge bezieht sich auf das erste Quartal 2026. Eurostat veröffentlichte dafür Griechenland mit 143,5, Italien mit 138,9 und Frankreich mit 117,6 Prozent des BIP. Auch Ende 2025 und in den erst nach der Videoveröffentlichung gemeldeten Zahlen für das zweite Quartal 2026 war Frankreich Dritter. Weitere Zahlen aus der Grafik sind in A0074 geprüft.
 
 Grundlage der Bewertung: Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Ergänzender Bildabgleich 19.11.2026 (Codex). Das bestehende Sachurteil bleibt bestehen.
 
 ### Zugeordnete Quellen
 
@@ -44,6 +44,12 @@ Bewertungsuebergang: Erstprüfung.
 
 - [Government debt at 88.8% of GDP in euro area](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp) · Eurostat, 21.10.2026, Ende des zweiten Quartals 2026
   Quellenzugriff am 2026-11-19. Gelesen. Quoten und Rangfolge nach EU-Staaten. Späterer Quartalsstand.
+
+- [Proteste & Gewalt! Was ist los in Frankreich? – Mediathekfassung](https://www.zdf.de/video/explainer/funk-collection-funk-8423-1222/funk-proteste--gewalt-was-ist-los-in-frankreich-102) · MrWissen2go, funk und ZDF, 19.10.2026, 703 Sekunden
+  Quellenzugriff am 2026-11-19. Offiziellen Stream lokal auf Bildinhalt geprüft. Deutsche Untertitel und zwei historische Bildanker mit der YouTube-Fassung abgeglichen. Grafik bei 06:32 direkt gelesen.
+
+- [Government debt at 88.9% of GDP in euro area](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21072026-ap) · Eurostat, 21.07.2026, Staatsschuld Ende des ersten Quartals 2026
+  Quellenzugriff am 2026-11-19. Rangfolge, Beträge und Anteile am BIP der fünf dargestellten Staaten in der Primärtabelle gelesen. Vor dem Video verfügbare Primärquelle zum gezeigten ersten Quartal 2026.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -116,18 +122,21 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das reale BIP wuchs 2025 nach Insee um 0,8 Prozent, nach 1,5 Prozent 2024 und 1,6 Prozent 2023. Die Verlangsamung ist belegt. Die Daten zeigen weiterhin Wachstum und decken nicht allein die laufende Entwicklung bis Oktober ab.
+Das reale BIP wuchs 2025 nach Insee um 0,8 Prozent, nach 1,5 Prozent 2024 und 1,6 Prozent 2023. Die vor dem Video verfügbare Augustrechnung zeigt zusätzlich einen Rückgang um 0,2 Prozent im ersten und Stagnation im zweiten Quartal 2026. Die Verlangsamung ist damit belegt. Für die Monate von Juli bis zum Erscheinungstag waren in dieser Veröffentlichung noch keine Quartalsdaten enthalten. In der Einblendung steht eine frühere Schätzung. Sie ist in A0075 gesondert geprüft.
 
 Grundlage der Bewertung: Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Ergänzender Bildabgleich 19.11.2026 (Codex). Das bestehende Sachurteil bleibt bestehen.
 
 ### Zugeordnete Quellen
 
 - [Les comptes de la Nation en 2025](https://www.insee.fr/fr/statistiques/8996855?sommaire=8071406) · Insee, Jahresrechnung 2025, Stand 2026
   Quellenzugriff am 2026-11-19. Gelesen. Revisionshinweise zur realen BIP-Entwicklung. Reale Jahresraten und Revisionen.
+
+- [Comptes nationaux trimestriels au deuxième trimestre 2026](https://www.insee.fr/fr/statistiques/9007859) · Insee, 28.08.2026, detaillierte Ergebnisse für das zweite Quartal 2026
+  Quellenzugriff am 2026-11-19. Vor Videoveröffentlichung verfügbare Revision des ersten Quartals und Ergebnis des zweiten Quartals gelesen. Reales BIP der ersten zwei Quartale 2026 nach dem vor Veröffentlichung verfügbaren Auguststand.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -639,6 +648,99 @@ Bewertungsuebergang: Erstprüfung.
 ### Zugeordnete Quellen
 
 Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## nrnpcqzhd44-A0074
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** In der eingeblendeten Schuldenübersicht für das erste Quartal 2026 liegen Griechenland, Italien, Frankreich, Belgien und Spanien in dieser Reihenfolge vorne.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:06:29–00:06:33](https://www.youtube.com/watch?v=nrnpcqzhd44&t=389s) · nicht bestaetigt · Fremdbezug · Kontrolliert
+  Zeitpraezision: Kontrolliert. Sprecherzuordnung: **Ungeklärt**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Visuelle Einblendung ohne Sprecherzuordnung für die konkreten Grafikwerte.
+
+Grundlage des Aussagebezugs: Die Redaktion zeigt eine Grafik mit externer Quellenangabe.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung des sichtbaren Prüfgegenstands.
+
+Zeitgrundlage: Abgleich des öffentlichen ZDF-Players mit der YouTube-Fassung. Beide deutschen Untertitelspuren haben 293 identische Textblöcke bei höchstens 1 ms Abweichung. Die im YouTube-Player gesichtete historische Texttafel erscheint bei denselben beiden Zeitmarken.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Eurostat bestätigt alle fünf Quoten aus der Grafik. In dieser Reihenfolge betragen sie 143,5, 138,9, 117,6, 109,1 und 101,6 Prozent des BIP. Auch die eingeblendeten gerundeten Schuldenstände stimmen mit den amtlichen Beträgen überein. Für Frankreich sind 3,54 Billionen Euro und 117,6 Prozent zwei verschiedene Darstellungen desselben Quartalsstands.
+
+Grundlage der Bewertung: Direkte Sichtung der Mediathekfassung und Abgleich mit den gelesenen Primärdaten.
+
+Uebernahme: Eigenständige, nur im Bild gezeigte Datenangabe.
+
+Bewertungsuebergang: Erstbewertung nach Bildabgleich 19.11.2026 (Codex).
+
+### Zugeordnete Quellen
+
+- [Proteste & Gewalt! Was ist los in Frankreich? – Mediathekfassung](https://www.zdf.de/video/explainer/funk-collection-funk-8423-1222/funk-proteste--gewalt-was-ist-los-in-frankreich-102) · MrWissen2go, funk und ZDF, 19.10.2026, 703 Sekunden
+  Quellenzugriff am 2026-11-19. Offiziellen Stream lokal auf Bildinhalt geprüft. Deutsche Untertitel und zwei historische Bildanker mit der YouTube-Fassung abgeglichen. Direkt gelesene Quartalsgrafik bei 06:32.
+
+- [Government debt at 88.9% of GDP in euro area](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21072026-ap) · Eurostat, 21.07.2026, Staatsschuld Ende des ersten Quartals 2026
+  Quellenzugriff am 2026-11-19. Rangfolge, Beträge und Anteile am BIP der fünf dargestellten Staaten in der Primärtabelle gelesen. Amtliche Vergleichszahlen als Prozentsatz des BIP und als Nominalbeträge.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## nrnpcqzhd44-A0075
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die eingeblendete Grafik zum realen französischen Quartals-BIP weist Anfang 2026 eine Stagnation gegenüber dem Vorquartal aus.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:06:49–00:06:54](https://www.youtube.com/watch?v=nrnpcqzhd44&t=409s) · nicht bestaetigt · Fremdbezug · Kontrolliert
+  Zeitpraezision: Kontrolliert. Sprecherzuordnung: **Ungeklärt**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Visuelle Einblendung ohne Sprecherzuordnung für die konkreten Grafikwerte.
+
+Grundlage des Aussagebezugs: Die Redaktion zeigt eine Grafik mit externer Quellenangabe.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung des sichtbaren Prüfgegenstands.
+
+Zeitgrundlage: Abgleich des öffentlichen ZDF-Players mit der YouTube-Fassung. Beide deutschen Untertitelspuren haben 293 identische Textblöcke bei höchstens 1 ms Abweichung. Die im YouTube-Player gesichtete historische Texttafel erscheint bei denselben beiden Zeitmarken.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Grafik kennzeichnet ihre Basis als erste Schätzung. Die Kurve für Ende 2025 und Anfang 2026 sowie die dargestellten Beiträge stimmen in der Größenordnung mit dem Insee-Stand vom April überein. Insee revidierte die Q1-Rate bereits vor der Videoveröffentlichung auf −0,2 Prozent. Für Q2 meldete Insee 0,0 Prozent. Die Abbildung zeigt damit einen echten älteren Datenstand, ohne den im Oktober bereits verfügbaren neueren Stand einzuordnen. Die Einordnung betrifft die Aktualität der gezeigten Schätzung.
+
+Grundlage der Bewertung: Direkte Sichtung der Mediathekfassung und Abgleich mit den gelesenen Primärdaten.
+
+Uebernahme: Eigenständige, nur im Bild gezeigte Datenangabe.
+
+Bewertungsuebergang: Erstbewertung nach Bildabgleich 19.11.2026 (Codex).
+
+### Zugeordnete Quellen
+
+- [Proteste & Gewalt! Was ist los in Frankreich? – Mediathekfassung](https://www.zdf.de/video/explainer/funk-collection-funk-8423-1222/funk-proteste--gewalt-was-ist-los-in-frankreich-102) · MrWissen2go, funk und ZDF, 19.10.2026, 703 Sekunden
+  Quellenzugriff am 2026-11-19. Offiziellen Stream lokal auf Bildinhalt geprüft. Deutsche Untertitel und zwei historische Bildanker mit der YouTube-Fassung abgeglichen. Direkt gelesene BIP-Grafik bei 06:52.
+
+- [Le PIB marque le pas au premier trimestre 2026](https://www.insee.fr/fr/statistiques/8986227) · Insee, 30.04.2026, erste Schätzung für das erste Quartal 2026
+  Quellenzugriff am 2026-11-19. Reale BIP-Reihe und Tabelle zu Wachstumsbeiträgen im ursprünglichen Schätzstand gelesen. Veröffentlichte Erstschätzung mit 0,0 Prozent im ersten Quartal.
+
+- [Comptes nationaux trimestriels au deuxième trimestre 2026](https://www.insee.fr/fr/statistiques/9007859) · Insee, 28.08.2026, detaillierte Ergebnisse für das zweite Quartal 2026
+  Quellenzugriff am 2026-11-19. Vor Videoveröffentlichung verfügbare Revision des ersten Quartals und Ergebnis des zweiten Quartals gelesen. Vor dem Video veröffentlichter neuerer Quartalsstand mit −0,2 Prozent für Q1 und 0,0 Prozent für Q2.
 
 ### Offene Fragen und Unsicherheiten
 

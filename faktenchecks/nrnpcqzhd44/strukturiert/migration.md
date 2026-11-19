@@ -2,6 +2,6 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab.
+Abdeckung: Die deutsche YouTube-Untertitelspur wurde vollständig ausgewertet. Die öffentliche Mediathekfassung dauert ebenfalls 703 Sekunden. Ihre 293 deutschen Untertitel stimmen im Text mit der YouTube-Spur überein, bei höchstens einer Millisekunde Zeitabweichung. Beide Fassungen zeigen die historische Texttafel bei 08:40 und 08:55. Zusätzlich wurden Standbilder im Abstand von vier Sekunden über die gesamte Laufzeit und an 67 vom Schnittfilter erkannten Bildwechseln sowie die Symbolpassage ab 09:24 in Halbschritten gesichtet. Sehr kurze oder subtile Bildeinblendungen bleiben bei diesem Verfahren grundsätzlich erfassungsbegrenzt. Die Tonebene und die Sprecheridentität wurden nicht durchgehend unabhängig kontrolliert.
 
 Keine Altpunkte migriert; dieser Datenbestand erfasst Aussagen direkt.

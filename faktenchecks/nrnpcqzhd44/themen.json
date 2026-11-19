@@ -436,6 +436,24 @@
       "topics": [
         "frankreich"
       ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0074",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0075",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0076",
+      "topics": [
+        "frankreich"
+      ]
     }
   ],
   "history": [
@@ -448,6 +466,11 @@
       "date": "2026-11-19",
       "agent": "Codex",
       "change": "Zwei zusätzliche Prüfgegenstände der Nachprüfung dem bestehenden Thema zugeordnet."
+    },
+    {
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Drei eigenständige visuelle Prüfpunkte zu Frankreich ergänzt."
     }
   ]
 }

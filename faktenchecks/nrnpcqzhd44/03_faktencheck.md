@@ -1,6 +1,6 @@
 # Faktencheck zum Frankreich-Video
 
-**Aktualisierte Prüfung vom 19. November 2026.** Alle 73 erfassten Datensätze in sieben Kapiteln sind abgeschlossen. Darunter sind Tatsachenbehauptungen, Meinungen, Prognosen und ausdrücklich wiedergegebene Fremdpositionen. Neun Tatsachenbehauptungen sind nach zwei dokumentierten Recherchewegen nicht ausreichend belegbar. Die Einordnung bezieht sich auf die erfassten Aussagen. Die Bild- und Tonebene wurde nur in Teilen kontrolliert.
+**Aktualisierte Prüfung vom 19. November 2026.** Alle 76 erfassten Datensätze in sieben Kapiteln sind abgeschlossen. Darunter sind Tatsachenbehauptungen, Meinungen, Prognosen und ausdrücklich wiedergegebene Fremdpositionen. Neun Tatsachenbehauptungen sind nach zwei dokumentierten Recherchewegen nicht ausreichend belegbar. Die Einordnung bezieht sich auf die erfassten Aussagen. Drei Prüfpunkte stammen aus dem ergänzenden Bildabgleich. Die Tonebene wurde nicht unabhängig angehört.
 
 ## Wichtigste Befunde
 
@@ -11,9 +11,17 @@
 
 - **Gewaltbilder und Symbole.** Im untersuchten französischen TikTok-Material entfielen im Zeitraum vom 1. September bis zum 29. Oktober 14 Prozent der Aufrufe auf Beiträge mit Gewalt. Die Studie erfasst weder einzelne persönliche Feeds noch die gesamte Nachrichtenberichterstattung. Palästinensische Fahnen sind in mehreren Protestzügen dokumentiert. Ihre Präsenz belegt keine Beteiligung an konkreten Gewalthandlungen und kein organisatorisches Bündnis. [CEPREMAP, November 2026](https://www.cepremap.fr/2026/11/violences-sur-tiktok/) · [Le Repère, Oktober 2026](https://lerepe.re/articles/mobilisation-17-octobre-vie-chere-gilets-jaunes-lyceens-violences/)
 
+## Bildabgleich
+
+- [**04:40**](https://www.youtube.com/watch?v=nrnpcqzhd44&t=280s) Die Mediathekfassung zeigt den JD Vance zugeschriebenen Beitrag. Andere Berichte geben denselben Beitrag wieder. Der direkte Abruf bei X war gesperrt. [ZDF-Fassung](https://www.zdf.de/video/explainer/funk-collection-funk-8423-1222/funk-proteste--gewalt-was-ist-los-in-frankreich-102)
+- [**06:32**](https://www.youtube.com/watch?v=nrnpcqzhd44&t=392s) Die Schuldenübersicht zeigt für Frankreich im ersten Quartal 2026 eine Quote von 117,6 Prozent des BIP. Die fünf Rangplätze und Werte stimmen mit der amtlichen Quelle überein. [Eurostat, 21. Juli 2026](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21072026-ap)
+- [**06:52**](https://www.youtube.com/watch?v=nrnpcqzhd44&t=412s) Die Wachstumsgrafik zeigt für das erste Quartal 2026 die erste Schätzung von 0,0 Prozent. Vor Veröffentlichung des Videos war bereits die revidierte Rate von −0,2 Prozent verfügbar. [Insee, erste Schätzung](https://www.insee.fr/fr/statistiques/8986227) · [Insee, Auguststand](https://www.insee.fr/fr/statistiques/9007859)
+- [**08:16**](https://www.youtube.com/watch?v=nrnpcqzhd44&t=496s) Die sechs Balken der Wahlgrafik einschließlich Restkategorie ergeben zusammen nur 95,5 Prozent. Die Reihenfolge der drei größten Gruppen stimmt mit der amtlichen Auszählung überein. [Französisches Innenministerium, Wahlergebnis 2024](https://www.archives-resultats-elections.interieur.gouv.fr/resultats/legislatives2024/ensemble_geographique/)
+- [**09:30–09:37**](https://www.youtube.com/watch?v=nrnpcqzhd44&t=570s) In der dichter gesichteten Bildreihe ist nur der Moderator zu sehen. Aus der Passage geht nicht hervor, welche Symbole oder Protestaufnahmen er meint. [ZDF-Fassung](https://www.zdf.de/video/explainer/funk-collection-funk-8423-1222/funk-proteste--gewalt-was-ist-los-in-frankreich-102)
+
 ## Grenzen der Ergebnisse
 
-Alle zwölf offenen Prüfpunkte der Erstfassung sind bewertet. Für neun Punkte geben die jeweils gelesenen Quellen weder eine tragfähige Bestätigung noch eine Widerlegung her. Das betrifft unter anderem die behaupteten Bündnisse und Zusammenhänge zwischen sozialer Lage, Radikalisierung und Wahlverhalten. Die Einzelprüfungen benennen die fehlenden Belege. Die Texttafel wurde bei der Erstfassung im Originalplayer eingesehen. Für die konkrete Symbolpassage und andere Bildinhalte gab es bei der Nachprüfung keine zusätzliche direkte Wiedergabeprüfung. Die später veröffentlichten Quellen sind als solche datiert.
+Alle zwölf offenen Prüfpunkte der Erstfassung sind bewertet. Für neun Punkte geben die jeweils gelesenen Quellen weder eine tragfähige Bestätigung noch eine Widerlegung her. Das betrifft unter anderem die behaupteten Bündnisse und Zusammenhänge zwischen sozialer Lage, Radikalisierung und Wahlverhalten. Die Einzelprüfungen benennen die fehlenden Belege. Für den Abgleich wurden Standbilder in Vier-Sekunden-Abständen, 67 durch den Schnittfilter erkannte Übergänge und die Symbolpassage in Halbschritten betrachtet. Die 293 Untertitelblöcke lagen in beiden Fassungen auf derselben Zeitachse. Grenzen bleiben bei sehr kurzen oder subtilen visuellen Änderungen, der unabhängigen Herkunftsprüfung von Archivbildern und dem Ton. Die später veröffentlichten Quellen sind als solche datiert.
 
 ## Kapitelprüfungen
 

@@ -1,6 +1,6 @@
 # Analyse nach Zeitabschnitten
 
-Grundlage sind die vollständig gelesenen deutschen Untertitel und zwei Sichtproben der ergänzenden Texttafel. Die Kapitelgrenzen folgen erkennbaren Themenwechseln und sind auf ganze Sekunden gerundet. Die Beschreibung und Einordnung sind eigene Paraphrasen. Aktualisierung vom 19. November 2026. Alle erfassten Sachpunkte wurden nachgeprüft. Aussagen, die ausschließlich in weiteren Bildeinblendungen vorkommen könnten, sind von der Untertitelauswertung nicht abgedeckt. Die [Übersicht](03_faktencheck.md) fasst die Prüfergebnisse zusammen.
+Grundlage sind die vollständig gelesenen deutschen Untertitel, Sichtproben im YouTube-Player und der zusätzliche Bildabgleich anhand der zeitlich abgeglichenen Mediathekfassung. Die Kapitelgrenzen folgen erkennbaren Themenwechseln und sind auf ganze Sekunden gerundet. Die Beschreibung und Einordnung sind eigene Paraphrasen. Aktualisierung vom 19. November 2026. Alle erfassten Sachpunkte wurden nachgeprüft. Der Bildabgleich erfasst die gesichteten Standbilder und Bildwechsel. Sehr kurze oder wenig auffällige Einblendungen können zwischen den Prüfpunkten liegen. Die [Übersicht](03_faktencheck.md) fasst die Prüfergebnisse zusammen.
 
 ## 01 Gewalt und erste Bilanzen
 
@@ -38,7 +38,7 @@ Das Video erklärt die politische Lage über das Verhältnis von Präsident, Reg
 
 [00:06:18–00:07:50](https://www.youtube.com/watch?v=nrnpcqzhd44&t=378s)
 
-Der Beitrag verbindet Schulden und geringeres Wachstum mit eingeschränkten staatlichen Handlungsmöglichkeiten. Er verknüpft diese Ebene mit der Belastung privater Haushalte. Die Zahlen lassen sich anhand unterschiedlicher Messgrößen prüfen, während die geforderte Ausgabenkürzung eine politische Entscheidung betrifft.
+Der Beitrag verbindet Schulden und geringeres Wachstum mit eingeschränkten staatlichen Handlungsmöglichkeiten. Er verknüpft diese Ebene mit der Belastung privater Haushalte. Die Schulden- und Wachstumszahlen werden auch in Grafiken gezeigt. Die Schuldenübersicht entspricht der amtlichen Quartalsmeldung. Die BIP-Grafik verwendet einen älteren Schätzstand. Die geforderte Ausgabenkürzung betrifft eine politische Entscheidung.
 
 [Kapitelprüfung](kapitel/05_wirtschaft.md)
 
@@ -46,7 +46,7 @@ Der Beitrag verbindet Schulden und geringeres Wachstum mit eingeschränkten staa
 
 [00:07:50–00:10:55](https://www.youtube.com/watch?v=nrnpcqzhd44&t=470s)
 
-Das Video verbindet Einkommensungleichheit und die Geschichte benachteiligter Viertel mit einer Deutung politischer Radikalisierung. Bei 08:40 und 08:55 war im Original eine historische Texttafel der bpb sichtbar. Anschließend behandelt der Beitrag auch den RN, Wahlumfragen und die Gelbwesten.
+Das Video verbindet Einkommensungleichheit und die Geschichte benachteiligter Viertel mit einer Deutung politischer Radikalisierung. Bei 08:40 und 08:55 war im Original eine historische Texttafel der bpb sichtbar. Daneben zeigt der Beitrag eine Wahlgrafik mit Stimmenanteilen des ersten Wahlgangs 2024. An der Stelle zur Symbolzuschreibung erscheint in der gesichteten Bildreihe die Moderation. Später behandelt der Beitrag auch den RN, Wahlumfragen und die Gelbwesten.
 
 [Kapitelprüfung](kapitel/06_ungleichheit.md)
 

@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Die Nachprüfung hat alle zwölf offenen Sachdatensätze der Erstfassung bearbeitet und zwei zusätzliche Prüfgegenstände erfasst. Alle erfassten Aussagen haben ein Prüfergebnis. Bei nicht ausreichend belegbaren Aussagen dokumentiert der Bericht zwei Prüfwege und die verbleibende Beleglücke. Eine vollständige Sichtung der Bild- und Tonebene war nicht möglich.",
-    "coverageNote": "Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab."
+    "researchNote": "Alle 76 erfassten Prüfpunkte sind abgeschlossen. Drei Punkte stammen aus dem nachträglichen Bildabgleich. Er umfasst über die Laufzeit verteilte Einzelbilder, erkannte Schnitte und eine dichtere Bildreihe zur Symbolpassage. Der genaue Ton wurde nicht unabhängig angehört.",
+    "coverageNote": "Die deutsche YouTube-Untertitelspur wurde vollständig ausgewertet. Die öffentliche Mediathekfassung dauert ebenfalls 703 Sekunden. Ihre 293 deutschen Untertitel stimmen im Text mit der YouTube-Spur überein, bei höchstens einer Millisekunde Zeitabweichung. Beide Fassungen zeigen die historische Texttafel bei 08:40 und 08:55. Zusätzlich wurden Standbilder im Abstand von vier Sekunden über die gesamte Laufzeit und an 67 vom Schnittfilter erkannten Bildwechseln sowie die Symbolpassage ab 09:24 in Halbschritten gesichtet. Sehr kurze oder subtile Bildeinblendungen bleiben bei diesem Verfahren grundsätzlich erfassungsbegrenzt. Die Tonebene und die Sprecheridentität wurden nicht durchgehend unabhängig kontrolliert."
   },
   "legacyPoints": [],
   "sources": [
@@ -454,6 +454,46 @@
       "details": "Démosphère Gard, Aufruf zur Veranstaltung am 17.10.2026 in Nîmes, gespiegelt bei Maintenant!",
       "accessedOn": "2026-11-19",
       "accessBasis": "Öffentlichen Veranstaltungsaufruf mit Anlass und aufrufenden Organisationen gelesen. Selbstauskunft zu dieser Kundgebung."
+    },
+    {
+      "id": "S056",
+      "title": "Proteste & Gewalt! Was ist los in Frankreich? – Mediathekfassung",
+      "url": "https://www.zdf.de/video/explainer/funk-collection-funk-8423-1222/funk-proteste--gewalt-was-ist-los-in-frankreich-102",
+      "details": "MrWissen2go, funk und ZDF, 19.10.2026, 703 Sekunden",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Offiziellen Stream lokal auf Bildinhalt geprüft. Deutsche Untertitel und zwei historische Bildanker mit der YouTube-Fassung abgeglichen."
+    },
+    {
+      "id": "S057",
+      "title": "Government debt at 88.9% of GDP in euro area",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21072026-ap",
+      "details": "Eurostat, 21.07.2026, Staatsschuld Ende des ersten Quartals 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Rangfolge, Beträge und Anteile am BIP der fünf dargestellten Staaten in der Primärtabelle gelesen."
+    },
+    {
+      "id": "S058",
+      "title": "Le PIB marque le pas au premier trimestre 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8986227",
+      "details": "Insee, 30.04.2026, erste Schätzung für das erste Quartal 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Reale BIP-Reihe und Tabelle zu Wachstumsbeiträgen im ursprünglichen Schätzstand gelesen."
+    },
+    {
+      "id": "S059",
+      "title": "Comptes nationaux trimestriels au deuxième trimestre 2026",
+      "url": "https://www.insee.fr/fr/statistiques/9007859",
+      "details": "Insee, 28.08.2026, detaillierte Ergebnisse für das zweite Quartal 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Vor Videoveröffentlichung verfügbare Revision des ersten Quartals und Ergebnis des zweiten Quartals gelesen."
+    },
+    {
+      "id": "S060",
+      "title": "Stellungnahme zu den französischen Ausschreitungen auf X",
+      "url": "https://x.com/JDVance/status/2111628668044759453",
+      "details": "JD Vance, Oktober 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Erfolgloser Abrufversuch – kein Sachbeleg. Direktzugriff auf X ergab HTTP 403. Gelesene Ersatzbelege sind die Einblendung in der ZDF-Fassung und der Eintrag bei Le Figaro."
     }
   ],
   "speakers": [
@@ -1658,17 +1698,25 @@
       "description": "Die Rolle von Einwanderung wurde nach den Ausschreitungen politisch und in sozialen Medien diskutiert. JD Vance äußerte sich dazu.",
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
-      "reason": "Le Figaro berichtet über einen X-Beitrag von Vance, in dem er den Brand mit Einwanderungspolitik in Verbindung bringt. Der Bericht trägt die Zuschreibung. Der ursprüngliche Beitrag und die Verbreitung der These über mehrere Plattformen bleiben ungeprüft.",
+      "reason": "In der Mediathekfassung wird um 04:40 ein JD Vance zugeschriebener X-Beitrag gezeigt. Darin verbindet er die Gewalt mit westlicher Einwanderungspolitik und überträgt seine Deutung auf die US-Innenpolitik. Le Figaro gibt denselben Beitrag wieder. Der Originalabruf bei X scheiterte. Die Einblendung und die Berichterstattung belegen die berichtete Äußerung, geben aber keine Auskunft darüber, wie verbreitet die These über Plattformen hinweg war.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Ergänzender Bildabgleich 19.11.2026 (Codex). Das bestehende Sachurteil bleibt bestehen."
       },
       "sourceRefs": [
         {
           "sourceId": "S010",
           "note": "Zeitgenössische Wiedergabe der Stellungnahme."
+        },
+        {
+          "sourceId": "S056",
+          "note": "Die Darstellung des Beitrags war bei 04:40 direkt sichtbar."
+        },
+        {
+          "sourceId": "S060",
+          "note": "Erfolgloser Abrufversuch – kein Sachbeleg. Ersatzbelege S010 und S056."
         }
       ],
       "openQuestions": [
@@ -2195,12 +2243,12 @@
       "description": "Frankreich hatte unter den EU-Mitgliedstaaten die dritthöchste staatliche Schuldenquote, hinter Griechenland und Italien.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "Eurostat meldete für Ende 2025 Griechenland mit 146,1, Italien mit 137,1 und Frankreich mit 115,6 Prozent des BIP. In den erst nach dem Video veröffentlichten Zahlen für das zweite Quartal 2026 bleibt die Reihenfolge gleich.",
+      "reason": "Die gezeigte Rangfolge bezieht sich auf das erste Quartal 2026. Eurostat veröffentlichte dafür Griechenland mit 143,5, Italien mit 138,9 und Frankreich mit 117,6 Prozent des BIP. Auch Ende 2025 und in den erst nach der Videoveröffentlichung gemeldeten Zahlen für das zweite Quartal 2026 war Frankreich Dritter. Weitere Zahlen aus der Grafik sind in A0074 geprüft.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Ergänzender Bildabgleich 19.11.2026 (Codex). Das bestehende Sachurteil bleibt bestehen."
       },
       "sourceRefs": [
         {
@@ -2210,6 +2258,14 @@
         {
           "sourceId": "S017",
           "note": "Späterer Quartalsstand."
+        },
+        {
+          "sourceId": "S056",
+          "note": "Grafik bei 06:32 direkt gelesen."
+        },
+        {
+          "sourceId": "S057",
+          "note": "Vor dem Video verfügbare Primärquelle zum gezeigten ersten Quartal 2026."
         }
       ],
       "openQuestions": [],
@@ -2287,17 +2343,21 @@
       "description": "Die französische Wirtschaftsleistung wuchs seit einiger Zeit schwächer.",
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
-      "reason": "Das reale BIP wuchs 2025 nach Insee um 0,8 Prozent, nach 1,5 Prozent 2024 und 1,6 Prozent 2023. Die Verlangsamung ist belegt. Die Daten zeigen weiterhin Wachstum und decken nicht allein die laufende Entwicklung bis Oktober ab.",
+      "reason": "Das reale BIP wuchs 2025 nach Insee um 0,8 Prozent, nach 1,5 Prozent 2024 und 1,6 Prozent 2023. Die vor dem Video verfügbare Augustrechnung zeigt zusätzlich einen Rückgang um 0,2 Prozent im ersten und Stagnation im zweiten Quartal 2026. Die Verlangsamung ist damit belegt. Für die Monate von Juli bis zum Erscheinungstag waren in dieser Veröffentlichung noch keine Quartalsdaten enthalten. In der Einblendung steht eine frühere Schätzung. Sie ist in A0075 gesondert geprüft.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Ergänzender Bildabgleich 19.11.2026 (Codex). Das bestehende Sachurteil bleibt bestehen."
       },
       "sourceRefs": [
         {
           "sourceId": "S019",
           "note": "Reale Jahresraten und Revisionen."
+        },
+        {
+          "sourceId": "S059",
+          "note": "Reales BIP der ersten zwei Quartale 2026 nach dem vor Veröffentlichung verfügbaren Auguststand."
         }
       ],
       "openQuestions": [],
@@ -3687,12 +3747,12 @@
       "description": "Bei den Ausschreitungen seien regelmäßig Symbole zu sehen, die zu den behaupteten Verbindungen passen.",
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
-      "reason": "Bei den Protesten am 17. Oktober sind palästinensische Fahnen an mehreren Orten journalistisch dokumentiert. Die Untertitel benennen das gemeinte Symbol nicht. Falls diese Fahnen gemeint sind, stützen die dokumentierten Einzelfälle ihr Auftreten in Protestzügen. Eine Häufigkeit bei Gewalthandlungen und eine Bedeutung als Zeichen eines Bündnisses sind daraus nicht abzuleiten. VerificaRTVE identifizierte zudem gefälschte Fahnenmotive in sozialen Netzwerken. Die konkrete Bildauswahl des YouTube-Videos ließ sich bei dieser Nachprüfung nicht zusätzlich ansehen.",
-      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
+      "reason": "Der Untertitel lässt offen, welches Symbol gemeint ist. In den im Abstand von einer halben Sekunde gesichteten Bildern der ZDF-Fassung von 09:24 bis 09:39,5 ist an dieser Stelle ausschließlich der Moderator zu sehen. Der Abgleich der Fassung ergab deckungsgleiche Untertitel und Texttafel-Zeitmarken. Palästinensische Fahnen sind unabhängig davon in mehreren Protestzügen journalistisch dokumentiert. Das stützt die Aussage nur, falls diese Fahnen gemeint sind. Die Häufigkeit bei konkreten Gewalthandlungen und der behauptete Zusammenhang mit einem Bündnis bleiben unbelegt. Die Bildkontrolle ist keine Prüfung der Herkunft jedes früher im Beitrag gezeigten Ausschnitts.",
+      "assessmentBasis": "Originaluntertitel, direkte Bildsichtung der abgeglichenen Mediathekfassung und externe Recherche zu den Protesten.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen."
+        "assessmentChange": "Ergänzender Bildabgleich 19.11.2026 (Codex). Das bestehende Sachurteil bleibt bestehen."
       },
       "sourceRefs": [
         {
@@ -3706,10 +3766,14 @@
         {
           "sourceId": "S049",
           "note": "Recherche zu zwei konkreten künstlich erzeugten Fahnenmotiven gelesen. Kein Abgleich dieser Motive mit dem Video von MrWissen2go."
+        },
+        {
+          "sourceId": "S056",
+          "note": "Direkte Sichtung der ZDF-Bildfolge mit zwei Bildern pro Sekunde im Bereich 09:24–09:39,5."
         }
       ],
       "openQuestions": [
-        "Welche Bilder, Symbole, Aufnahmeorte und Daten lassen sich verifizieren?"
+        "Welche konkret datierten und verorteten Protestaufnahmen hat der Moderator gemeint?"
       ],
       "occurrences": [
         {
@@ -3753,6 +3817,15 @@
               "S049"
             ],
             "result": "Es gibt auch nachweislich falsche Umlaufbilder. Eine Zuordnung zum Video wurde nicht vorgenommen."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Öffentliche Mediathekfassung anhand ihrer Untertitelzeitachse und zwei Bildankern abgeglichen. Dann Bildreihe um 09:30 betrachtet.",
+            "sourceIds": [
+              "S056"
+            ],
+            "result": "Bei den gesichteten Bildern ist nur der Moderator zu sehen. Die Stelle benennt das gemeinte Symbol nicht."
           }
         ],
         "missingInformation": null,
@@ -4620,6 +4693,154 @@
           "roleBasis": "Als fremde Wiedergabe gekennzeichnete Texttafel.",
           "note": "Sichtprobe der Tafel am angegebenen Playerzeitpunkt.",
           "timeBasis": "Direkte Sichtkontrolle im YouTube-Player bei 08:40 und 08:55, keine Kontrolle der exakten Einblendgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0074",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In der eingeblendeten Schuldenübersicht für das erste Quartal 2026 liegen Griechenland, Italien, Frankreich, Belgien und Spanien in dieser Reihenfolge vorne.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Eurostat bestätigt alle fünf Quoten aus der Grafik. In dieser Reihenfolge betragen sie 143,5, 138,9, 117,6, 109,1 und 101,6 Prozent des BIP. Auch die eingeblendeten gerundeten Schuldenstände stimmen mit den amtlichen Beträgen überein. Für Frankreich sind 3,54 Billionen Euro und 117,6 Prozent zwei verschiedene Darstellungen desselben Quartalsstands.",
+      "assessmentBasis": "Direkte Sichtung der Mediathekfassung und Abgleich mit den gelesenen Primärdaten.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige, nur im Bild gezeigte Datenangabe.",
+        "assessmentChange": "Erstbewertung nach Bildabgleich 19.11.2026 (Codex)."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S056",
+          "note": "Direkt gelesene Quartalsgrafik bei 06:32."
+        },
+        {
+          "sourceId": "S057",
+          "note": "Amtliche Vergleichszahlen als Prozentsatz des BIP und als Nominalbeträge."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0092",
+          "startSeconds": 389,
+          "endSeconds": 393,
+          "precision": "Kontrolliert",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Visuelle Einblendung ohne Sprecherzuordnung für die konkreten Grafikwerte.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Redaktion zeigt eine Grafik mit externer Quellenangabe.",
+          "note": "Eigene Beschreibung des sichtbaren Prüfgegenstands.",
+          "timeBasis": "Abgleich des öffentlichen ZDF-Players mit der YouTube-Fassung. Beide deutschen Untertitelspuren haben 293 identische Textblöcke bei höchstens 1 ms Abweichung. Die im YouTube-Player gesichtete historische Texttafel erscheint bei denselben beiden Zeitmarken.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0075",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die eingeblendete Grafik zum realen französischen Quartals-BIP weist Anfang 2026 eine Stagnation gegenüber dem Vorquartal aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die Grafik kennzeichnet ihre Basis als erste Schätzung. Die Kurve für Ende 2025 und Anfang 2026 sowie die dargestellten Beiträge stimmen in der Größenordnung mit dem Insee-Stand vom April überein. Insee revidierte die Q1-Rate bereits vor der Videoveröffentlichung auf −0,2 Prozent. Für Q2 meldete Insee 0,0 Prozent. Die Abbildung zeigt damit einen echten älteren Datenstand, ohne den im Oktober bereits verfügbaren neueren Stand einzuordnen. Die Einordnung betrifft die Aktualität der gezeigten Schätzung.",
+      "assessmentBasis": "Direkte Sichtung der Mediathekfassung und Abgleich mit den gelesenen Primärdaten.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige, nur im Bild gezeigte Datenangabe.",
+        "assessmentChange": "Erstbewertung nach Bildabgleich 19.11.2026 (Codex)."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S056",
+          "note": "Direkt gelesene BIP-Grafik bei 06:52."
+        },
+        {
+          "sourceId": "S058",
+          "note": "Veröffentlichte Erstschätzung mit 0,0 Prozent im ersten Quartal."
+        },
+        {
+          "sourceId": "S059",
+          "note": "Vor dem Video veröffentlichter neuerer Quartalsstand mit −0,2 Prozent für Q1 und 0,0 Prozent für Q2."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0093",
+          "startSeconds": 409,
+          "endSeconds": 414,
+          "precision": "Kontrolliert",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Visuelle Einblendung ohne Sprecherzuordnung für die konkreten Grafikwerte.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Redaktion zeigt eine Grafik mit externer Quellenangabe.",
+          "note": "Eigene Beschreibung des sichtbaren Prüfgegenstands.",
+          "timeBasis": "Abgleich des öffentlichen ZDF-Players mit der YouTube-Fassung. Beide deutschen Untertitelspuren haben 293 identische Textblöcke bei höchstens 1 ms Abweichung. Die im YouTube-Player gesichtete historische Texttafel erscheint bei denselben beiden Zeitmarken.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0076",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Wahleinblendung stellt Stimmenanteile des ersten Wahlgangs 2024 einschließlich einer Restkategorie dar.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die drei größten Gruppen sind in der Rangfolge richtig dargestellt. Aus den amtlichen Kandidatenetiketten ergeben sich 33,22 Prozent für RN und UXD zusammen, 28,06 Prozent für die Union der Linken und 20,04 Prozent für Ensemble. LR liegt bei 6,57 Prozent, Reconquête bei 0,75 Prozent. Die sechs angezeigten Balken ergeben zusammen nur 95,5 Prozent, obwohl eine Restkategorie beschriftet ist. Auch im amtlichen Endstand verbleiben bei derselben Gruppierung rund 11,36 Prozent für alle übrigen Etiketten. Die Grafik nennt einen vorläufigen Auszählungsstand. Die Differenz zur vollständigen Verteilung ist zu groß für bloße Rundung.",
+      "assessmentBasis": "Direkte Sichtung der Mediathekfassung und Abgleich mit den gelesenen Primärdaten.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige, nur im Bild gezeigte Datenangabe.",
+        "assessmentChange": "Erstbewertung nach Bildabgleich 19.11.2026 (Codex)."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S056",
+          "note": "Direkt gelesene Grafik bei 08:16. Stand in der Einblendung 01.07.2024 mittags."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Amtlicher Endstand des ersten Wahlgangs nach Kandidatenetikett."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0094",
+          "startSeconds": 494,
+          "endSeconds": 498,
+          "precision": "Kontrolliert",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Visuelle Einblendung ohne Sprecherzuordnung für die konkreten Grafikwerte.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Redaktion zeigt eine Grafik mit externer Quellenangabe.",
+          "note": "Eigene Beschreibung des sichtbaren Prüfgegenstands.",
+          "timeBasis": "Abgleich des öffentlichen ZDF-Players mit der YouTube-Fassung. Beide deutschen Untertitelspuren haben 293 identische Textblöcke bei höchstens 1 ms Abweichung. Die im YouTube-Player gesichtete historische Texttafel erscheint bei denselben beiden Zeitmarken.",
           "timeHistory": []
         }
       ],

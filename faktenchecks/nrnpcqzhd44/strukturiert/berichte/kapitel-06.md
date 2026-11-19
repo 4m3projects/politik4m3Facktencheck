@@ -1,8 +1,8 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die deutsche YouTube-Untertitelspur wurde vollständig ausgewertet. Die öffentliche Mediathekfassung dauert ebenfalls 703 Sekunden. Ihre 293 deutschen Untertitel stimmen im Text mit der YouTube-Spur überein, bei höchstens einer Millisekunde Zeitabweichung. Beide Fassungen zeigen die historische Texttafel bei 08:40 und 08:55. Zusätzlich wurden Standbilder im Abstand von vier Sekunden über die gesamte Laufzeit und an 67 vom Schnittfilter erkannten Bildwechseln sowie die Symbolpassage ab 09:24 in Halbschritten gesichtet. Sehr kurze oder subtile Bildeinblendungen bleiben bei diesem Verfahren grundsätzlich erfassungsbegrenzt. Die Tonebene und die Sprecheridentität wurden nicht durchgehend unabhängig kontrolliert.
 
-Die Nachprüfung hat alle zwölf offenen Sachdatensätze der Erstfassung bearbeitet und zwei zusätzliche Prüfgegenstände erfasst. Alle erfassten Aussagen haben ein Prüfergebnis. Bei nicht ausreichend belegbaren Aussagen dokumentiert der Bericht zwei Prüfwege und die verbleibende Beleglücke. Eine vollständige Sichtung der Bild- und Tonebene war nicht möglich.
+Alle 76 erfassten Prüfpunkte sind abgeschlossen. Drei Punkte stammen aus dem nachträglichen Bildabgleich. Er umfasst über die Laufzeit verteilte Einzelbilder, erkannte Schnitte und eine dichtere Bildreihe zur Symbolpassage. Der genaue Ton wurde nicht unabhängig angehört.
 
 ## nrnpcqzhd44-A0044
 
@@ -695,13 +695,13 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Bei den Protesten am 17. Oktober sind palästinensische Fahnen an mehreren Orten journalistisch dokumentiert. Die Untertitel benennen das gemeinte Symbol nicht. Falls diese Fahnen gemeint sind, stützen die dokumentierten Einzelfälle ihr Auftreten in Protestzügen. Eine Häufigkeit bei Gewalthandlungen und eine Bedeutung als Zeichen eines Bündnisses sind daraus nicht abzuleiten. VerificaRTVE identifizierte zudem gefälschte Fahnenmotive in sozialen Netzwerken. Die konkrete Bildauswahl des YouTube-Videos ließ sich bei dieser Nachprüfung nicht zusätzlich ansehen.
+Der Untertitel lässt offen, welches Symbol gemeint ist. In den im Abstand von einer halben Sekunde gesichteten Bildern der ZDF-Fassung von 09:24 bis 09:39,5 ist an dieser Stelle ausschließlich der Moderator zu sehen. Der Abgleich der Fassung ergab deckungsgleiche Untertitel und Texttafel-Zeitmarken. Palästinensische Fahnen sind unabhängig davon in mehreren Protestzügen journalistisch dokumentiert. Das stützt die Aussage nur, falls diese Fahnen gemeint sind. Die Häufigkeit bei konkreten Gewalthandlungen und der behauptete Zusammenhang mit einem Bündnis bleiben unbelegt. Die Bildkontrolle ist keine Prüfung der Herkunft jedes früher im Beitrag gezeigten Ausschnitts.
 
-Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.
+Grundlage der Bewertung: Originaluntertitel, direkte Bildsichtung der abgeglichenen Mediathekfassung und externe Recherche zu den Protesten.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen.
+Bewertungsuebergang: Ergänzender Bildabgleich 19.11.2026 (Codex). Das bestehende Sachurteil bleibt bestehen.
 
 ### Zugeordnete Quellen
 
@@ -714,9 +714,12 @@ Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil.
 - [Desinformación sobre las protestas en Francia: vídeos descontextualizados e imágenes generadas con IA](https://www.rtve.es/noticias/20261019/desinformacion-protestas-francia-videos-imagenes-ia/17273662.shtml) · VerificaRTVE, 19.10.2026
   Quellenzugriff am 2026-11-19. Recherche zu zwei konkreten künstlich erzeugten Fahnenmotiven gelesen. Kein Abgleich dieser Motive mit dem Video von MrWissen2go. Recherche zu zwei konkreten künstlich erzeugten Fahnenmotiven gelesen. Kein Abgleich dieser Motive mit dem Video von MrWissen2go.
 
+- [Proteste & Gewalt! Was ist los in Frankreich? – Mediathekfassung](https://www.zdf.de/video/explainer/funk-collection-funk-8423-1222/funk-proteste--gewalt-was-ist-los-in-frankreich-102) · MrWissen2go, funk und ZDF, 19.10.2026, 703 Sekunden
+  Quellenzugriff am 2026-11-19. Offiziellen Stream lokal auf Bildinhalt geprüft. Deutsche Untertitel und zwei historische Bildanker mit der YouTube-Fassung abgeglichen. Direkte Sichtung der ZDF-Bildfolge mit zwei Bildern pro Sekunde im Bereich 09:24–09:39,5.
+
 ### Offene Fragen und Unsicherheiten
 
-- Welche Bilder, Symbole, Aufnahmeorte und Daten lassen sich verifizieren?
+- Welche konkret datierten und verorteten Protestaufnahmen hat der Moderator gemeint?
 
 ### Recherchedokumentation
 
@@ -725,6 +728,8 @@ Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 - Durchgang 1 am 2026-11-19 (Codex): Zeitnahe Berichte und separat zusammengestellte Bildbeschreibungen zu mehreren Städten verglichen Gepruefte Quellen: S047, S048. Ergebnis: Palästinensische Fahnen wurden in verschiedenen Protestzügen beschrieben. Das sagt noch nichts über konkrete Gewaltakte aus.
 
 - Durchgang 2 am 2026-11-19 (Codex): Bildbehauptungen zum selben Datum anhand einer gezielten visuellen Verifikation durch RTVE abgegrenzt Gepruefte Quellen: S049. Ergebnis: Es gibt auch nachweislich falsche Umlaufbilder. Eine Zuordnung zum Video wurde nicht vorgenommen.
+
+- Durchgang 3 am 2026-11-19 (Codex): Öffentliche Mediathekfassung anhand ihrer Untertitelzeitachse und zwei Bildankern abgeglichen. Dann Bildreihe um 09:30 betrachtet. Gepruefte Quellen: S056. Ergebnis: Bei den gesichteten Bildern ist nur der Moderator zu sehen. Die Stelle benennt das gemeinte Symbol nicht.
 
 ## nrnpcqzhd44-A0058
 
@@ -1299,6 +1304,51 @@ Bewertungsuebergang: Erstbewertung 19.11.2026 (Codex).
 
 - [Problemgebiet Banlieue: Konflikte und Ausgrenzung in den französischen Vorstädten](https://www.bpb.de/themen/europa/frankreich/152511/problemgebiet-banlieue-konflikte-und-ausgrenzung-in-den-franzoesischen-vorstaedten/) · Simona Gnade, Bundeszentrale für politische Bildung, 21.01.2013, u. a. Daten 2009/2010
   Quellenzugriff am 2026-11-19. Gelesen. Historischer Kontext der im Video sichtbaren Tafel, Begriff und Stadtpolitik. Historische Darstellung zur sozialen Zusammensetzung der behandelten Großwohnsiedlungen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## nrnpcqzhd44-A0076
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die Wahleinblendung stellt Stimmenanteile des ersten Wahlgangs 2024 einschließlich einer Restkategorie dar.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:08:14–00:08:18](https://www.youtube.com/watch?v=nrnpcqzhd44&t=494s) · nicht bestaetigt · Fremdbezug · Kontrolliert
+  Zeitpraezision: Kontrolliert. Sprecherzuordnung: **Ungeklärt**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Visuelle Einblendung ohne Sprecherzuordnung für die konkreten Grafikwerte.
+
+Grundlage des Aussagebezugs: Die Redaktion zeigt eine Grafik mit externer Quellenangabe.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Beschreibung des sichtbaren Prüfgegenstands.
+
+Zeitgrundlage: Abgleich des öffentlichen ZDF-Players mit der YouTube-Fassung. Beide deutschen Untertitelspuren haben 293 identische Textblöcke bei höchstens 1 ms Abweichung. Die im YouTube-Player gesichtete historische Texttafel erscheint bei denselben beiden Zeitmarken.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die drei größten Gruppen sind in der Rangfolge richtig dargestellt. Aus den amtlichen Kandidatenetiketten ergeben sich 33,22 Prozent für RN und UXD zusammen, 28,06 Prozent für die Union der Linken und 20,04 Prozent für Ensemble. LR liegt bei 6,57 Prozent, Reconquête bei 0,75 Prozent. Die sechs angezeigten Balken ergeben zusammen nur 95,5 Prozent, obwohl eine Restkategorie beschriftet ist. Auch im amtlichen Endstand verbleiben bei derselben Gruppierung rund 11,36 Prozent für alle übrigen Etiketten. Die Grafik nennt einen vorläufigen Auszählungsstand. Die Differenz zur vollständigen Verteilung ist zu groß für bloße Rundung.
+
+Grundlage der Bewertung: Direkte Sichtung der Mediathekfassung und Abgleich mit den gelesenen Primärdaten.
+
+Uebernahme: Eigenständige, nur im Bild gezeigte Datenangabe.
+
+Bewertungsuebergang: Erstbewertung nach Bildabgleich 19.11.2026 (Codex).
+
+### Zugeordnete Quellen
+
+- [Proteste & Gewalt! Was ist los in Frankreich? – Mediathekfassung](https://www.zdf.de/video/explainer/funk-collection-funk-8423-1222/funk-proteste--gewalt-was-ist-los-in-frankreich-102) · MrWissen2go, funk und ZDF, 19.10.2026, 703 Sekunden
+  Quellenzugriff am 2026-11-19. Offiziellen Stream lokal auf Bildinhalt geprüft. Deutsche Untertitel und zwei historische Bildanker mit der YouTube-Fassung abgeglichen. Direkt gelesene Grafik bei 08:16. Stand in der Einblendung 01.07.2024 mittags.
+
+- [Législatives 2024 – Résultats tour 2](https://www.archives-resultats-elections.interieur.gouv.fr/resultats/legislatives2024/ensemble_geographique/) · Französisches Innenministerium, Wahl vom 30.06. und 07.07.2024
+  Quellenzugriff am 2026-11-19. Gelesen. Amtliche Gesamtsitze nach Kandidatenetikett. Amtlicher Endstand des ersten Wahlgangs nach Kandidatenetikett.
 
 ### Offene Fragen und Unsicherheiten
 

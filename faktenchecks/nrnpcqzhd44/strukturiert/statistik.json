@@ -1,18 +1,18 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab.",
+  "coverageNote": "Die deutsche YouTube-Untertitelspur wurde vollständig ausgewertet. Die öffentliche Mediathekfassung dauert ebenfalls 703 Sekunden. Ihre 293 deutschen Untertitel stimmen im Text mit der YouTube-Spur überein, bei höchstens einer Millisekunde Zeitabweichung. Beide Fassungen zeigen die historische Texttafel bei 08:40 und 08:55. Zusätzlich wurden Standbilder im Abstand von vier Sekunden über die gesamte Laufzeit und an 67 vom Schnittfilter erkannten Bildwechseln sowie die Symbolpassage ab 09:24 in Halbschritten gesichtet. Sehr kurze oder subtile Bildeinblendungen bleiben bei diesem Verfahren grundsätzlich erfassungsbegrenzt. Die Tonebene und die Sprecheridentität wurden nicht durchgehend unabhängig kontrolliert.",
   "videoId": "nrnpcqzhd44",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 73,
+  "statementRecords": 76,
   "uniqueStatements": 67,
-  "referenceOnlyStatements": 6,
+  "referenceOnlyStatements": 9,
   "unresolvedRoleOnlyStatements": 0,
   "assertionOccurrences": 82,
   "additionalAssertionOccurrences": 15,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
-  "referenceOccurrences": 9,
+  "referenceOccurrences": 12,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
     "Offen": 0,
@@ -117,10 +117,10 @@
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
       "Plausibel": 84,
-      "Ungeklärt": 7
+      "Ungeklärt": 10
     },
     "occurrenceRoleStatusCounts": {
-      "Bestätigt": 91,
+      "Bestätigt": 94,
       "Plausibel": 0,
       "Ungeklärt": 0
     }
