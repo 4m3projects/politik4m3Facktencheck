@@ -2,6 +2,10 @@
 
 Dieses Lernprojekt veröffentlicht eigenständig formulierte deutschsprachige Analysen und recherchierte Faktenchecks zu einzelnen YouTube-Videos. Arbeite selbstständig bis zu einem nachvollziehbaren Ergebnis. Eine einzelne Video-URL ist ein Auftrag zur Analyse, nicht zum Herunterladen von Video oder Audio.
 
+## Zuständigkeit für Ungeskriptet
+
+Interviews von {ungeskriptet} by Ben und die dazugehörigen Reaktionsprüfungen werden ausschließlich im Repository [Politik4M3 Faktencheck Ungeskriptet](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet) erstellt, nachgeprüft und veröffentlicht. Lege dafür in diesem Repository keine neue Prüfung an. Die historischen Kopien sind von der Webseite ausgeschlossen.
+
 ## Startseite nach Aktualität
 
 - Bei neuen Folgen das belegte YouTube-Veröffentlichungsdatum in `faktenchecks/<ID>/README.md` als `- Veröffentlichung: JJJJ-MM-TT` erfassen. Ist das Datum ungeklärt, bleibt es ohne Datumswert.
