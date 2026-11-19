@@ -623,17 +623,12 @@ a.person-link:hover { border-color: var(--accent); transform: translateY(-2px); 
 }
 .ampel-tip[hidden] { display: none; }
 .ampel-tip p { margin: 6px 0 0; }
-.ampel-tip-head { display: flex; align-items: center; gap: 10px; font-size: .95rem; }
-.ampel-tip .ampel-lights { flex-direction: row; padding: 3px; }
-.ampel-tip .ampel-lights i { width: 9px; height: 9px; }
+.ampel-tip p:first-child { margin-top: 0; }
 .ampel-tip-sub { font-weight: 600; }
 .ampel-tip-note { color: var(--text-2); font-size: .82rem; }
 .ampel-tip-rot { border-top-color: #e34948; }
 .ampel-tip-gelb { border-top-color: #f2b300; }
 .ampel-tip-gruen { border-top-color: #1fa040; }
-.ampel-tip-rot .ampel-lights i:nth-child(1) { background: #e34948; box-shadow: 0 0 6px #e34948; }
-.ampel-tip-gelb .ampel-lights i:nth-child(2) { background: #f2b300; box-shadow: 0 0 6px #f2b300; }
-.ampel-tip-gruen .ampel-lights i:nth-child(3) { background: #1fa040; box-shadow: 0 0 6px #1fa040; }
 @keyframes ampel-tip-in { from { opacity: 0; clip-path: inset(0 0 100% 0 round var(--radius-s)); transform: translateY(-6px); } to { opacity: 1; clip-path: inset(0 0 -40px 0 round var(--radius-s)); transform: none; } }
 @media (prefers-reduced-motion: reduce) { .ampel-tip { animation: none; } }
 .ampel[data-ampel-key] { cursor: help; }
