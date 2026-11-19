@@ -12,7 +12,7 @@
     {
       "topic": "corona",
       "relevance": "Schwerpunkt",
-      "basis": "37 von 170 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "42 von 170 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
       "segments": []
     },
     {
@@ -32,9 +32,21 @@
       "relevance": "Behandelt",
       "basis": "3 von 170 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
       "segments": []
+    },
+    {
+      "topic": "extremismus",
+      "relevance": "Erwähnt",
+      "basis": "1 von 170 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
     }
   ],
   "claims": [
+    {
+      "claimId": "bPXMY7Reeek-A0028",
+      "topics": [
+        "extremismus"
+      ]
+    },
     {
       "claimId": "bPXMY7Reeek-A0046",
       "topics": [
@@ -306,6 +318,12 @@
       ]
     },
     {
+      "claimId": "bPXMY7Reeek-A0118",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
       "claimId": "bPXMY7Reeek-A0119",
       "topics": [
         "corona/massnahmen",
@@ -322,6 +340,12 @@
       "claimId": "bPXMY7Reeek-A0121",
       "topics": [
         "reaktanz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0122",
+      "topics": [
+        "corona"
       ]
     },
     {
@@ -465,6 +489,24 @@
       ]
     },
     {
+      "claimId": "bPXMY7Reeek-A0150",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0151",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0152",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
       "claimId": "bPXMY7Reeek-A0155",
       "topics": [
         "corona"
@@ -549,6 +591,11 @@
       "date": "2026-11-19",
       "agent": "Claude",
       "change": "Erstzuordnung von 84 Aussagen zu Themen; keine Bewertung geändert."
+    },
+    {
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Nachzuordnung: fünf übersehene Corona-Aussagen (A0118, A0122, A0150–A0152, u. a. Maskenbeschaffung) und A0028 (AfD/Rechtsextremismus, Thema Extremismus) ergänzt. Keine Bewertung geändert."
     }
   ]
 }

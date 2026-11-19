@@ -103,6 +103,12 @@ jobs:
             [[ "$id" =~ ^[A-Za-z0-9_-]{11}$ ]] || continue
             [[ -f "$dir/README.md" ]] || continue
             if [[ "$ausgeblendet" == *" $id "* ]]; then echo "Ausgeblendet: $id"; continue; fi
+            # Jedes sichtbare Video mit strukturierten Aussagen braucht eine Themenzuordnung (AGENTS.md, „Themen bei jedem Video prüfen“).
+            # Eine leere Zuordnung ist erlaubt, wenn das Video kein öffentliches Sachthema hat; sie muss dann in „basis“ begründet sein.
+            if [[ -f "$dir/strukturiert/aussagen.json" && ! -f "$dir/themen.json" ]]; then
+              echo "::error file=faktenchecks/$id::Video $id hat keine themen.json. Themen zuordnen (docs/AGENTEN_WISSEN.md, Abschnitt 3)."
+              exit 1
+            fi
             mkdir -p "$OUT/daten/$id"
             files=$(cd "$dir" && find . -type f -name '*.md' | sed 's|^\./||' | LC_ALL=C sort)
             while IFS= read -r f; do
