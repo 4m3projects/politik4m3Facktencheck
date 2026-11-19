@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "topics": [
+    {
+      "id": "corona",
+      "name": "Corona",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Pandemie",
+        "Covid"
+      ],
+      "description": "Corona-Pandemie, Tests und Maßnahmen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks (gleiche IDs wie in Ungeskriptet)."
+        }
+      ]
+    },
+    {
+      "id": "corona/impfung",
+      "name": "Impfung",
+      "level": "Unterthema",
+      "parent": "corona",
+      "aliases": [
+        "Impfpflicht",
+        "Impfprämie"
+      ],
+      "description": "Corona-Impfung, Impfdruck, Impfpflicht und Anreize.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks (gleiche IDs wie in Ungeskriptet)."
+        }
+      ]
+    },
+    {
+      "id": "corona/massnahmen",
+      "name": "Maßnahmen",
+      "level": "Unterthema",
+      "parent": "corona",
+      "aliases": [
+        "2G",
+        "3G",
+        "Lockdown",
+        "Ausgangssperre",
+        "Masken"
+      ],
+      "description": "Corona-Regeln wie 2G/3G, Ausgangssperren, Masken und Tests.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks (gleiche IDs wie in Ungeskriptet)."
+        }
+      ]
+    },
+    {
+      "id": "geschlecht",
+      "name": "Geschlecht",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Geschlechter",
+        "Transgender",
+        "Geschlechtsidentität"
+      ],
+      "description": "Biologisches und rechtliches Geschlecht, Geschlechtseintrag.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks (gleiche IDs wie in Ungeskriptet)."
+        }
+      ]
+    },
+    {
+      "id": "geschlecht/selbstbestimmungsgesetz",
+      "name": "Selbstbestimmungsgesetz",
+      "level": "Unterthema",
+      "parent": "geschlecht",
+      "aliases": [
+        "SBGG",
+        "Geschlechtseintrag",
+        "Transsexuellengesetz"
+      ],
+      "description": "Änderung von Geschlechtseintrag und Vornamen, früheres Transsexuellengesetz.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks (gleiche IDs wie in Ungeskriptet)."
+        }
+      ]
+    },
+    {
+      "id": "geschlecht/sport",
+      "name": "Sport",
+      "level": "Unterthema",
+      "parent": "geschlecht",
+      "aliases": [
+        "Frauensport",
+        "Geschlechtstests"
+      ],
+      "description": "Geschlechterklassen und Geschlechtstests im Leistungssport.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks (gleiche IDs wie in Ungeskriptet)."
+        }
+      ]
+    },
+    {
+      "id": "reaktanz",
+      "name": "Reaktanz",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Trotzreaktion"
+      ],
+      "description": "Psychologische Reaktanz: Gegenwehr gegen erlebten Druck.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks (gleiche IDs wie in Ungeskriptet)."
+        }
+      ]
+    },
+    {
+      "id": "tempolimit",
+      "name": "Tempolimit",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Geschwindigkeitsbegrenzung"
+      ],
+      "description": "Tempolimit auf Autobahnen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks (gleiche IDs wie in Ungeskriptet)."
+        }
+      ]
+    },
+    {
+      "id": "waffenrecht",
+      "name": "Waffenrecht",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Waffengesetz"
+      ],
+      "description": "Erlaubnisfreie Waffen und Waffengesetz.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks (gleiche IDs wie in Ungeskriptet)."
+        }
+      ]
+    }
+  ]
+}

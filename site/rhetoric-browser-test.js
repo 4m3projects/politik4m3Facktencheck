@@ -15,7 +15,7 @@ const { chromium } = require('playwright');
 const FX = require('./rhetoric-fixtures.js');
 
 const ROOT = path.join(__dirname, '..');
-const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'ampel.js'];
+const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'ampel.js', 'wissen.js', 'themen.js'];
 const V = 'mlxFA9T88I0';
 const FACTS = JSON.parse(fs.readFileSync(path.join(ROOT, 'faktenchecks', V, 'strukturiert', 'aussagen.json'), 'utf8'));
 const RHET = FX.build(FACTS);
@@ -51,6 +51,8 @@ function buildSite(withRhetoric) {
     if (withRhetoric && id === V) { fs.writeFileSync(path.join(out, 'daten', id, 'rhetorik.json'), JSON.stringify(RHET)); rhetoric = true; }
     else if (withRhetoric && fs.existsSync(rp)) { fs.copyFileSync(rp, path.join(out, 'daten', id, 'rhetorik.json')); rhetoric = true; }
     const mp = path.join(dir, 'video.json');
+  /* Wissensverzeichnis wie im Workflow (node scripts/wissen.js export). */
+  require('node:child_process').execFileSync(process.execPath, [path.join(__dirname, '..', 'scripts', 'wissen.js'), 'export', path.join(out, 'daten', 'wissen.json')]);
     const title = (/^# (.+)$/m.exec(fs.readFileSync(path.join(dir, 'README.md'), 'utf8')) || [])[1] || id;
     videos.push({ id, title, structured, rhetoric, files: files.sort(), video: fs.existsSync(mp) ? JSON.parse(fs.readFileSync(mp, 'utf8')) : null });
   }

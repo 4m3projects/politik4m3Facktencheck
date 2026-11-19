@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 1,
+  "videoId": "GbhI-p_ycJE",
+  "basis": "Zuordnung aus den erfassten Aussagen des strukturierten Faktenchecks (Beschreibung), nicht aus dem Titel. KI-gestützt von Claude erstellt; Aussagen ohne öffentliches Sachthema (z. B. Biografisches, Aussagen über Creator) bleiben ohne Thema.",
+  "topics": [
+    {
+      "topic": "geschlecht",
+      "relevance": "Schwerpunkt",
+      "basis": "28 von 66 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "corona",
+      "relevance": "Schwerpunkt",
+      "basis": "11 von 66 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "reaktanz",
+      "relevance": "Behandelt",
+      "basis": "2 von 66 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "tempolimit",
+      "relevance": "Erwähnt",
+      "basis": "1 von 66 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "GbhI-p_ycJE-A0014",
+      "topics": [
+        "tempolimit"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0015",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0016",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0017",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0018",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0019",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0020",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0021",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0022",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0023",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0024",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0025",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0026",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0027",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0028",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0029",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0030",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0031",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0032",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0033",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0034",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0035",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0036",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0037",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0038",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0039",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0040",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0042",
+      "topics": [
+        "reaktanz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0043",
+      "topics": [
+        "reaktanz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0044",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0045",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0046",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0047",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0048",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0049",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0050",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0051",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0052",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0053",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0054",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0061",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "GbhI-p_ycJE-A0062",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Erstzuordnung von 42 Aussagen zu Themen; keine Bewertung geändert."
+    }
+  ]
+}
