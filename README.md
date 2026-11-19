@@ -1,81 +1,56 @@
-# Politik 4M3 Faktencheck
+# Politik4M3 Faktencheck
 
-Ein offenes Lernprojekt für quellenbasierte deutschsprachige Faktenchecks zu einzelnen YouTube-Videos. Wir veröffentlichen eigene Beschreibungen, Interpretationen und begründete Bewertungen mit Zeitstempeln und Quellenlinks.
+**Unabhängige, quellenorientierte Faktenchecks zu politischen YouTube-Gesprächen und den Reaktionen darauf.**
 
-## Vorhandener Datenbestand
+## Zur Webseite
 
-Hinweis: Die Faktenchecks zu Interviews bei „{ungeskriptet} by Ben“ (Horst Lüning, Naomi Seibt) erscheinen seit 18.11.2026 nur noch auf der Schwesterseite [Faktencheck Ungeskriptet](https://4m3projects.github.io/politik4m3FaktencheckUngeskriptet/). Ihre Daten bleiben hier im Repository, siehe [WEBSEITE.md](docs/WEBSEITE.md), Abschnitt „Ausgeblendete Videos“.
+### **[Faktenchecks ansehen →](https://4m3projects.github.io/politik4m3Facktencheck/)**
 
-- [Bisherige Auswertung: Horst Lüning bei Ben](faktenchecks/mlxFA9T88I0/README.md): 14 unveränderte Berichtdateien mit 99 ursprünglichen Prüfpunkten; übernommener Arbeitsstand mit offenen Teilprüfungen.
-- [Strukturierte Auswertung desselben Videos](faktenchecks/mlxFA9T88I0/strukturiert/README.md): **99 von 99** ursprünglichen Prüfpunkten übertragen (alle Kapitel). 395 Datensätze enthalten 392 Inhalte mit eigenem Aussagebezug und drei ausschließlich erörterte Inhalte. Die Sachrecherche bleibt eine Teilprüfung; der Bestand ist weiterhin als Teilbestand gekennzeichnet. **Keine Statistik des vollständigen Videos.**
-- [Redaktioneller Prüfbericht zu Kapitel 1](docs/KAPITEL01_MIGRATION.md).
-- [Migration und Recherchegrenzen von Kapitel 2](docs/KAPITEL02_MIGRATION.md).
-- [Migration, Einzelentscheidungen und Recherchegrenzen von Kapitel 3](docs/KAPITEL03_MIGRATION.md), Aktualisierung 18.11.2026. Baut auf dem noch ungeprüften Kapitel-2-Draft auf; unabhängige Gegenprüfung ausstehend.
-- [Migration und Recherchegrenzen von Kapitel 4](docs/KAPITEL04_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
-- [Migration und Recherchegrenzen von Kapitel 5](docs/KAPITEL05_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
-- [Migration und Recherchegrenzen von Kapitel 6](docs/KAPITEL06_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
-- [Migration und Recherchegrenzen von Kapitel 7](docs/KAPITEL07_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
-- [Migration und Recherchegrenzen von Kapitel 8](docs/KAPITEL08_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
-- [Migration und Recherchegrenzen von Kapitel 9](docs/KAPITEL09_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
-- [Kapitel 10 und Gesamtstand der Migration](docs/KAPITEL10_MIGRATION.md), 18.11.2026, bearbeitet von Claude; unabhängige Gegenprüfung ausstehend.
-- [Herkunft und Migration](docs/MIGRATION.md) und [Datenmodell / Entwickleranleitung](docs/STRUKTURIERTE_DATEN.md).
+Die Webseite ist der zentrale Zugang zu allen Videoanalysen, Aussagen, Quellen und Berichten. Sie wird bei jeder Änderung automatisch aus den Dateien dieses Repositorys erzeugt.
 
-## Ein Video hinzufügen und bearbeiten
+## Was die Webseite zeigt
 
-1. Eine einzelne YouTube-URL im Projekt öffnen und nach [AGENTS.md](AGENTS.md) analysieren. Private Quellen mit dem Importskript außerhalb des Repositorys erfassen.
-2. Die gesamte verfügbare Grundlage lesen. Prüffähige Aussagen in eigenen Worten unter `faktenchecks/<Video-ID>/strukturiert/aussagen.json` erfassen. Die Entwickleranleitung enthält ein vollständiges Beispiel für neue Videos ohne Altpunkte.
-3. Sprecher und Aussagebezug getrennt prüfen. Unsichere Kandidaten bleiben plausibel oder ungeklärt. Für jede Tatsachenbewertung tatsächliche Belege lesen, zuordnen und den Bearbeitungsstatus ehrlich führen.
-4. Übersicht, Kapitelberichte und Statistik aus JSON erzeugen; die generierten Dateien nicht unabhängig bearbeiten.
-5. Tests und Veröffentlichungsschutz prüfen. Commit und Push nur im Rahmen eines entsprechenden Auftrags.
+- **Jede geprüfte Aussage einzeln**, in eigenen Worten zusammengefasst, mit Zeitmarke zum Original, Sprecherzuordnung, Bewertung und Begründung.
+- **Sechs feste Bewertungen** mit Farbe und Text. Meinungen und Prognosen werden als solche gekennzeichnet, nicht als richtig oder falsch. Was sich nicht prüfen lässt, steht als „Nicht überprüfbar“ mit Grund da. Eine nicht belegte Aussage gilt nicht automatisch als falsch.
+- **Quellen mit direktem Link**, Datenstand und Abrufdatum. Als Beleg zählt nur, was tatsächlich gelesen wurde.
+- **Video mit Faktencheck:** Auf Wunsch spielt die Seite das Originalvideo ab und blendet die passenden Aussagen zeitgleich ein. YouTube wird erst nach einem Klick geladen.
+- **Faktenampel** je Video, berechnet aus den Einzelbewertungen und nie von Hand gesetzt ([Regeln](docs/AMPEL.md)).
+- **Originale und Reaktionen:** Reaktionsvideos erscheinen beim jeweiligen Original, mit eigener Prüfung und Abgleich der Aussagen ([Erklärung](docs/REAKTIONSVIDEOS.md)).
+- **Themen:** Aussagen verschiedener Videos zum selben Thema sind gebündelt ([Wissensdatenbank](docs/WISSENSDATENBANK.md)).
+
+## Projektstand
+
+- **Campertalk mit Sinan (SinansWoche) bei IT Camper:** 170 erfasste Aussagen; 104 abgeschlossen, 48 mit Grund nicht überprüfbar, 18 noch nicht geprüft.
+- **Reaktion „Alfred räumt auf“ über dieses Gespräch:** 66 erfasste Aussagen; 62 abgeschlossen, 4 mit Grund nicht überprüfbar.
+- Beide Prüfungen sind **Teilbestände**: Nicht jede Nebenbemerkung ist erfasst, deshalb gibt es keine Bilanz des ganzen Videos.
+- Faktenchecks zu Interviews bei „{ungeskriptet} by Ben“ (Horst Lüning, Naomi Seibt) stehen auf der Schwesterseite **[Faktencheck Ungeskriptet](https://4m3projects.github.io/politik4m3FaktencheckUngeskriptet/)**. Beide Seiten sind über das Menü am Seitentitel verbunden. Die älteren Daten dazu bleiben hier im Repository ([Begründung](docs/WEBSEITE.md), Abschnitt „Ausgeblendete Videos“).
+- Bewertungen und Berichte können überarbeitet und korrigiert werden.
+
+## Mitwirken
+
+Fehlerhinweise und Verbesserungsvorschläge sind über [GitHub Issues](https://github.com/4m3projects/politik4m3Facktencheck/issues) willkommen, am besten mit der Aussage-ID (zum Beispiel `bPXMY7Reeek-A0001`) und einer Quelle.
+
+Die Prüfungen entstehen KI-gestützt. Mehrere KI-Agenten prüfen sich gegenseitig öffentlich auf GitHub; Änderungen kommen über Pull Requests, die endgültige Freigabe liegt beim Projektverantwortlichen. KI-gestützte Auswertungen können Fehler enthalten. Jede Auswertung nennt Grundlage, Datum, Rechercheumfang und offene Punkte.
+
+[Agentenanweisungen und Methodik](AGENTS.md) · [Datenmodell](docs/STRUKTURIERTE_DATEN.md) · [Webseite](docs/WEBSEITE.md) · [Rhetorik-Ebene](docs/RHETORIK.md) · [Veröffentlichung und Rechte](docs/VEROEFFENTLICHUNG.md) · [Beispielauftrag](docs/BEISPIELAUFTRAG.md)
+
+## Technik
+
+Jedes Video liegt unter `faktenchecks/<Video-ID>/`. Gepflegt wird nur `strukturiert/aussagen.json`; Übersicht, Berichte und Statistik werden daraus erzeugt und nicht von Hand bearbeitet. Die Webseite (`site/`) ist eigener Code ohne Fremdbibliotheken, Tracker oder externe Schriften und wird über GitHub Pages aus `main` veröffentlicht.
 
 ```powershell
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Import-YouTubeTranscript.ps1 -Url "https://www.youtube.com/watch?v=VIDEO_ID"
-powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Build-Factcheck.ps1 -VideoId mlxFA9T88I0
-powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Build-Factcheck.ps1 -VideoId mlxFA9T88I0 -Check
+powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Build-Factcheck.ps1 -VideoId VIDEO_ID
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Test-Factcheck.ps1
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Test-Publication.ps1
 ```
 
-Der Import nutzt externes [yt-dlp](https://github.com/yt-dlp/yt-dlp) und [Deno](https://github.com/denoland/deno), beispielsweise aus dem benachbarten Downloadprojekt. Andere Installationen lassen sich mit -YtDlpPath und -DenoPath angeben; Werkzeuge werden nicht mitgeliefert. Er lädt nur Untertitel und Arbeitsmetadaten in eine externe private Ablage. Keine Video-, Audio- oder Bilddateien. Keine globalen PATH- oder ExecutionPolicy-Änderungen. Generator und Tests benötigen lediglich PowerShell und Git, keine Datenbank, keinen Server und keine zusätzlichen Pakete. Windows PowerShell 5.1 und PowerShell 7 werden unterstützt.
+Der Import nutzt externes [yt-dlp](https://github.com/yt-dlp/yt-dlp) und [Deno](https://github.com/denoland/deno) und legt Untertitel nur in einer privaten Ablage außerhalb des Repositorys ab. Generator und Tests benötigen nur PowerShell (5.1 oder 7) und Git.
 
-[Beispielauftrag für eine unabhängige Analyse](docs/BEISPIELAUFTRAG.md)
+## Veröffentlichung, Rechte und Lizenz
 
-## Projektstruktur
+Öffentlich sind nur eigene Projekttexte, eigener Code, knappe bibliografische Angaben, Zeitmarken und externe Links. Transkripte, Untertitel, Originalbeschreibungen, Artikel, Audio, Video, Bilder und PDFs werden nicht veröffentlicht, auch keine wörtlichen Quellpassagen. Der [Publikationsprüfer](scripts/Test-Publication.ps1) kontrolliert das automatisch, ersetzt aber keine inhaltliche Rechteprüfung.
 
-```text
-AGENTS.md
-README.md
-LICENSE
-docs/
-  STRUKTURIERTE_DATEN.md
-  MIGRATION.md
-  VEROEFFENTLICHUNG.md
-scripts/
-  Import-YouTubeTranscript.ps1
-  Factcheck-Common.ps1
-  Build-Factcheck.ps1
-  Test-Factcheck.ps1
-  Test-Publication.ps1
-faktenchecks/<Video-ID>/
-  ... vorhandene Berichte bleiben erhalten ...
-  strukturiert/
-    aussagen.json
-    README.md
-    statistik.json
-    migration.md
-    berichte/kapitel-<Nummer>.md
-```
+Die [MIT-Lizenz](LICENSE) gilt für eigene Beiträge. Sie lizenziert keine Drittquellen, verlinkten Videos oder Persönlichkeitsrechte.
 
-## Veröffentlichung und Rechte
-
-Öffentlich sind eigene Projekttexte, eigener Code, knappe bibliografische Angaben, Zeitmarken und externe Links. Private Transkripte, Untertitel, Rohmetadaten, Originalbeschreibungen, Artikel, Audio/Video, Bilder und PDFs bleiben außerhalb des Git-Arbeitsbaums. Auch wörtliche kurze Quellpassagen gehören nicht in öffentliche Berichte oder JSON. Keine versteckten Anhänge oder Rohdaten in der Git-Historie.
-
-Der [Publikationsprüfer](scripts/Test-Publication.ps1) kontrolliert Arbeitsbaum und Git-Index getrennt. Nur die beiden ausdrücklich vorgesehenen JSON-Dateien pro strukturiertem Video sind erlaubt. Der Prüfer ersetzt keine inhaltliche Quellen- und Rechteprüfung. [Details zu Veröffentlichung und Grenzen](docs/VEROEFFENTLICHUNG.md).
-
-## Lizenz und Mitarbeit
-
-Die [MIT-Lizenz](LICENSE) gilt für eigene Beiträge im Umfang der vorhandenen Rechte. Sie lizenziert keine Drittquellen, verlinkten Videos oder Persönlichkeitsrechte um. Eine Zustimmung oder Verbindung der untersuchten Kanäle wird nicht behauptet.
-
-KI-unterstützte Auswertungen können Fehler enthalten. Jede Auswertung nennt Grundlage, Datum, Rechercheumfang und offene Punkte. Korrekturen mit konkreter Aussage-ID und Quelle sind willkommen. Die Ersterfassung wurde aus einer vorhandenen privaten Arbeitsauswertung übernommen; dabei erfolgte keine erneute vollständige Sachrecherche.
-
-Weitere Kapitel werden auf einem eigenen Branch bearbeitet und als Draft Pull Request gegen main zur unabhängigen Prüfung vorgelegt. Die Review-Diskussion erfolgt öffentlich auf GitHub. Ein Merge setzt die ausdrückliche Freigabe des Auftraggebers voraus. Kapitel 3 wurde im gesonderten Auftrag ergänzt; Kapitel 4 ist nicht begonnen.
+*Ein unabhängiges Projekt von Politik4M3; keine offizielle Zusammenarbeit mit den untersuchten Kanälen oder den besprochenen Personen.*
