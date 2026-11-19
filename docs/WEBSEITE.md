@@ -137,3 +137,7 @@ Erstellt von: Claude, auf Auftrag des Nutzers (18.11.2026). Faktenchecks zu Inte
 - Die Daten unter `faktenchecks/<Video-ID>/` bleiben unverändert im Repository; Tests und Generator-Prüfung laufen weiter. Nur der Schritt „Webseite zusammenstellen“ in `.github/workflows/pages.yml` überspringt die Videos der Liste `ausgeblendet` und prüft anschließend, dass weder Dateien noch Index- oder Beziehungseinträge davon auf die Seite gelangen.
 - Rückweg: die Video-ID aus der Liste `ausgeblendet` entfernen.
 - Alte Direktlinks wie `#/video/<Video-ID>` führen danach ins Leere; die Ungeskriptet-Seite bleibt über das Menü am Seitentitel erreichbar.
+
+## YouTube Shorts
+
+Videos mit `"format": "short"` in `video.json` (oder ohne `video.json` mit einer `/shorts/`-Adresse) tragen auf der Startseitenkarte und im Videokopf das Kennzeichen „Short“. In der Video-Ansicht steht der Player im Hochformat 9:16 und ist höchstens so hoch wie das Fenster; nebeneinander bekommt die Aussagenliste den übrigen Platz, untereinander ist der Player schmal und mittig. Die Faktenampel nutzt für Shorts eine eigene Mindestgrundlage (docs/AMPEL.md). Erfassung und Datenmodell: [SHORTS.md](SHORTS.md).
