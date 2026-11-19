@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "videoId": "gVQeb83GHDQ",
+  "basis": "Zuordnung aus den erfassten Aussagen (Beschreibung), nicht aus dem Titel. KI-gestützt von Claude erstellt. Der Short behandelt einen Kommentarwechsel, die eigene KI-Nutzung, die Länge von YouTube Shorts und die eigenen Faktencheck-Seiten; keine Aussage gehört zu einem der vorhandenen öffentlichen Sachthemen, daher bleibt die Zuordnung bewusst leer.",
+  "topics": [],
+  "claims": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Erstprüfung der 12 Aussagen auf Themen: keine passt zu einem vorhandenen Sachthema, Zuordnung bewusst leer; keine Bewertung geändert."
+    }
+  ]
+}
