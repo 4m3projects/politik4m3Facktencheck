@@ -1,0 +1,5 @@
+# Kurzbeschreibung
+
+MrWissen2go ordnet die Protestwelle in Frankreich im Herbst 2026 ein. Der Beitrag beginnt mit den Ausschreitungen des Wochenendes um den 17. Oktober. Danach beschreibt er die unterschiedlichen Anliegen der Menschen, die demonstrierten. Dazu zählen Unterrichtsausfall, der Zustand vieler Schulen und die Belastung durch steigende Preise. Der Moderator stellt politische Zuschreibungen zur Gewalt vor und verbindet die Ereignisse mit dem Streit um den Staatshaushalt, schwierigen Mehrheiten in der Nationalversammlung und sozialer Benachteiligung. Er endet mit der Reaktion der Regierung und einem Blick nach Italien.
+
+Die Stärke der Darstellung liegt darin, dass sie friedliche Mobilisierung und Gewaltereignisse sichtbar auseinanderhält. Bei einzelnen Ursachen geht ihre Deutung weiter, als die verfügbaren Belege tragen. Die amtliche und zeitgenössische Chronologie setzt die ersten Schulblockaden bereits im September an. Bei den Staatsfinanzen verwechselt der Beitrag die Defizitwerte zweier Kalenderjahre. Der [Faktencheck](03_faktencheck.md) führt die Einzelbefunde, die jeweils gelesenen Quellen und die offenen Fragen auf.

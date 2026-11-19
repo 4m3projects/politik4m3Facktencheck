@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "scope": "Teilbestand",
+  "coverageNote": "Die deutsche Originaluntertitelspur wurde vollständig gelesen. Sie reicht von 00:00:00 bis kurz vor 00:11:43. Die Untertitelpause 00:08:34–00:09:04 enthält eine bei 00:08:40 und 00:08:55 visuell kontrollierte Texttafel. Weitere Bildinhalte und die genaue Sprecheridentität wurden nicht systematisch überprüft. Keine Statistik des vollständigen Videos.",
+  "videoId": "nrnpcqzhd44",
+  "selectedLegacyPoints": 0,
+  "totalLegacyPoints": 0,
+  "statementRecords": 71,
+  "uniqueStatements": 66,
+  "referenceOnlyStatements": 5,
+  "unresolvedRoleOnlyStatements": 0,
+  "assertionOccurrences": 81,
+  "additionalAssertionOccurrences": 15,
+  "sameSpeakerRepeatedAssertionOccurrences": 0,
+  "referenceOccurrences": 8,
+  "unresolvedRoleOccurrences": 0,
+  "statusCounts": {
+    "Offen": 11,
+    "In Bearbeitung": 0,
+    "Nicht überprüfbar": 0,
+    "Abgeschlossen": 55
+  },
+  "kindCounts": {
+    "Tatsachenbehauptung": 56,
+    "Meinung": 6,
+    "Prognose": 4
+  },
+  "completedFacts": 45,
+  "openFacts": 11,
+  "inProgressFacts": 0,
+  "unverifiableFacts": 0,
+  "percentageDenominator": 45,
+  "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
+  "categories": [
+    {
+      "category": "Belegt",
+      "completedCount": 17,
+      "completedFactPercent": 37.8
+    },
+    {
+      "category": "Teilweise belegt",
+      "completedCount": 20,
+      "completedFactPercent": 44.4
+    },
+    {
+      "category": "Irreführend / Kontext fehlt",
+      "completedCount": 6,
+      "completedFactPercent": 13.3
+    },
+    {
+      "category": "Widerlegt",
+      "completedCount": 2,
+      "completedFactPercent": 4.4
+    },
+    {
+      "category": "Nicht ausreichend belegbar",
+      "completedCount": 0,
+      "completedFactPercent": 0.0
+    },
+    {
+      "category": "Meinung / Prognose",
+      "completedCount": 10,
+      "completedFactPercent": null
+    }
+  ],
+  "speakerStatistics": {
+    "definition": "Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.",
+    "persons": [
+      {
+        "speakerId": "SP01",
+        "name": null,
+        "uniqueFacts": 0,
+        "completedFacts": 0,
+        "openFacts": 0,
+        "inProgressFacts": 0,
+        "unverifiableFacts": 0,
+        "percentageDenominator": 0,
+        "categories": [
+          {
+            "category": "Belegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Teilweise belegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Irreführend / Kontext fehlt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Widerlegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Nicht ausreichend belegbar",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Meinung / Prognose",
+            "completedCount": 0,
+            "completedFactPercent": null
+          }
+        ]
+      }
+    ],
+    "eligibleFacts": 56,
+    "reliablyAssignedFacts": 0,
+    "factsWithoutReliablePerson": 56,
+    "factsWithUncertainAttribution": 56,
+    "factsWithUncertainOwnRole": 0,
+    "occurrenceAttributionCounts": {
+      "Bestätigt": 0,
+      "Plausibel": 83,
+      "Ungeklärt": 6
+    },
+    "occurrenceRoleStatusCounts": {
+      "Bestätigt": 89,
+      "Plausibel": 0,
+      "Ungeklärt": 0
+    }
+  }
+}

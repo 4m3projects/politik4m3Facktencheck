@@ -1,0 +1,436 @@
+{
+  "schemaVersion": 1,
+  "videoId": "nrnpcqzhd44",
+  "basis": "Zuordnung anhand der Fundstellen zu Protesten, Institutionen, öffentlichen Finanzen und gesellschaftlichen Entwicklungen in Frankreich.",
+  "topics": [
+    {
+      "topic": "frankreich",
+      "relevance": "Schwerpunkt",
+      "basis": "Die Proteste in Frankreich und ihre Einordnung bilden den Gegenstand von sechs Kapiteln sowie des französischen Teils des Ausblicks.",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "nrnpcqzhd44-A0001",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0002",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0003",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0004",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0005",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0006",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0007",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0008",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0009",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0010",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0011",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0012",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0013",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0014",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0015",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0016",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0017",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0018",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0019",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0020",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0021",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0022",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0023",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0024",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0025",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0026",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0027",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0028",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0029",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0030",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0031",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0032",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0033",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0034",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0035",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0036",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0037",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0038",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0039",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0040",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0041",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0042",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0043",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0044",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0045",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0046",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0047",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0048",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0049",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0050",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0051",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0052",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0053",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0054",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0055",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0056",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0057",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0058",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0059",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0060",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0061",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0062",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0063",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0064",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0065",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0066",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0067",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0068",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0069",
+      "topics": [
+        "frankreich"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Erstzuordnung für den Faktencheck zu den französischen Protesten."
+    }
+  ]
+}
