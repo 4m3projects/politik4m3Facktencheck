@@ -2,11 +2,11 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab.
+**Abdeckung: Teilbestand.** Die deutsche YouTube-Untertitelspur wurde vollständig ausgewertet. Die öffentliche Mediathekfassung dauert ebenfalls 703 Sekunden. Ihre 293 deutschen Untertitel stimmen im Text mit der YouTube-Spur überein, bei höchstens einer Millisekunde Zeitabweichung. Beide Fassungen zeigen die historische Texttafel bei 08:40 und 08:55. Zusätzlich wurden Standbilder im Abstand von vier Sekunden über die gesamte Laufzeit und an 67 vom Schnittfilter erkannten Bildwechseln sowie die Symbolpassage ab 09:24 in Halbschritten gesichtet. Sehr kurze oder subtile Bildeinblendungen bleiben bei diesem Verfahren grundsätzlich erfassungsbegrenzt. Die Tonebene und die Sprecheridentität wurden nicht durchgehend unabhängig kontrolliert.
 
 Stand: 2026-11-19 · Video: nrnpcqzhd44
 
-Die Nachprüfung hat alle zwölf offenen Sachdatensätze der Erstfassung bearbeitet und zwei zusätzliche Prüfgegenstände erfasst. Alle erfassten Aussagen haben ein Prüfergebnis. Bei nicht ausreichend belegbaren Aussagen dokumentiert der Bericht zwei Prüfwege und die verbleibende Beleglücke. Eine vollständige Sichtung der Bild- und Tonebene war nicht möglich.
+Alle 76 erfassten Prüfpunkte sind abgeschlossen. Drei Punkte stammen aus dem nachträglichen Bildabgleich. Er umfasst über die Laufzeit verteilte Einzelbilder, erkannte Schnitte und eine dichtere Bildreihe zur Symbolpassage. Der genaue Ton wurde nicht unabhängig angehört.
 
 ## Umfang und Bearbeitungsstand
 
@@ -20,10 +20,10 @@ Die Nachprüfung hat alle zwölf offenen Sachdatensätze der Erstfassung bearbei
 - Erfasste Behauptungsvorkommen: 82
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 15
 - Davon bestaetigte Wiederholungen derselben Person: 0
-- Rueckfragen/Fremdbezuege/Zurueckweisungen: 9
+- Rueckfragen/Fremdbezuege/Zurueckweisungen: 12
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 0
 - Aussagen ausschliesslich mit ungeklaertem eigenem Bezug: 0
-- Nur referenzierte Aussagen ohne eigene Behauptung: 6
+- Nur referenzierte Aussagen ohne eigene Behauptung: 9
 - Meinungen: 6; Prognosen: 4
 
 Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen. Nur erneut derselben Person mit bestaetigter Zuordnung und bestaetigtem eigenem Bezug zugerechnete Vorkommen zaehlen als bestaetigte Personenwiederholung. Null bedeutet nur: im dokumentierten Datenbestand keine solchen Faelle erfasst.
@@ -55,9 +55,9 @@ Regulaer einer Person zugeordnete Tatsachen: 0 von 57. Ohne verlaessliche Person
 
 Tatsachen mit unsicherer Sprecherzuordnung: 57; mit unsicherem eigenem Aussagebezug: 0. Diese Mengen koennen sich ueberschneiden.
 
-- Bestätigt: Sprecherzuordnung 0, Aussagebezug 91 Vorkommen.
+- Bestätigt: Sprecherzuordnung 0, Aussagebezug 94 Vorkommen.
 - Plausibel: Sprecherzuordnung 84, Aussagebezug 0 Vorkommen.
-- Ungeklärt: Sprecherzuordnung 7, Aussagebezug 0 Vorkommen.
+- Ungeklärt: Sprecherzuordnung 10, Aussagebezug 0 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |

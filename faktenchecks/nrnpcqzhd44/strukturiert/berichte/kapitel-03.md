@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die deutsche YouTube-Untertitelspur wurde vollständig ausgewertet. Die öffentliche Mediathekfassung dauert ebenfalls 703 Sekunden. Ihre 293 deutschen Untertitel stimmen im Text mit der YouTube-Spur überein, bei höchstens einer Millisekunde Zeitabweichung. Beide Fassungen zeigen die historische Texttafel bei 08:40 und 08:55. Zusätzlich wurden Standbilder im Abstand von vier Sekunden über die gesamte Laufzeit und an 67 vom Schnittfilter erkannten Bildwechseln sowie die Symbolpassage ab 09:24 in Halbschritten gesichtet. Sehr kurze oder subtile Bildeinblendungen bleiben bei diesem Verfahren grundsätzlich erfassungsbegrenzt. Die Tonebene und die Sprecheridentität wurden nicht durchgehend unabhängig kontrolliert.
 
-Die Nachprüfung hat alle zwölf offenen Sachdatensätze der Erstfassung bearbeitet und zwei zusätzliche Prüfgegenstände erfasst. Alle erfassten Aussagen haben ein Prüfergebnis. Bei nicht ausreichend belegbaren Aussagen dokumentiert der Bericht zwei Prüfwege und die verbleibende Beleglücke. Eine vollständige Sichtung der Bild- und Tonebene war nicht möglich.
+Alle 76 erfassten Prüfpunkte sind abgeschlossen. Drei Punkte stammen aus dem nachträglichen Bildabgleich. Er umfasst über die Laufzeit verteilte Einzelbilder, erkannte Schnitte und eine dichtere Bildreihe zur Symbolpassage. Der genaue Ton wurde nicht unabhängig angehört.
 
 ## nrnpcqzhd44-A0016
 
@@ -231,18 +231,24 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Le Figaro berichtet über einen X-Beitrag von Vance, in dem er den Brand mit Einwanderungspolitik in Verbindung bringt. Der Bericht trägt die Zuschreibung. Der ursprüngliche Beitrag und die Verbreitung der These über mehrere Plattformen bleiben ungeprüft.
+In der Mediathekfassung wird um 04:40 ein JD Vance zugeschriebener X-Beitrag gezeigt. Darin verbindet er die Gewalt mit westlicher Einwanderungspolitik und überträgt seine Deutung auf die US-Innenpolitik. Le Figaro gibt denselben Beitrag wieder. Der Originalabruf bei X scheiterte. Die Einblendung und die Berichterstattung belegen die berichtete Äußerung, geben aber keine Auskunft darüber, wie verbreitet die These über Plattformen hinweg war.
 
 Grundlage der Bewertung: Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Ergänzender Bildabgleich 19.11.2026 (Codex). Das bestehende Sachurteil bleibt bestehen.
 
 ### Zugeordnete Quellen
 
 - [Manifestations du 17 octobre : Sébastien Lecornu annonce 1 200 interpellations, 150 policiers et gendarmes blessés](https://www.lefigaro.fr/actualite-france/en-direct-gilets-jaunes-lyceens-syndicats-suivez-les-manifestations-et-les-blocages-du-17-octobre-20261017) · Le Figaro, 17.–18.10.2026, aktualisiert 19.10.2026
   Quellenzugriff am 2026-11-19. Gelesen. Liveticker-Eintrag vom 18. Oktober, 04:37 Uhr, und Reportage zur Plünderung. Originalpost von Vance ungeprüft. Zeitgenössische Wiedergabe der Stellungnahme.
+
+- [Proteste & Gewalt! Was ist los in Frankreich? – Mediathekfassung](https://www.zdf.de/video/explainer/funk-collection-funk-8423-1222/funk-proteste--gewalt-was-ist-los-in-frankreich-102) · MrWissen2go, funk und ZDF, 19.10.2026, 703 Sekunden
+  Quellenzugriff am 2026-11-19. Offiziellen Stream lokal auf Bildinhalt geprüft. Deutsche Untertitel und zwei historische Bildanker mit der YouTube-Fassung abgeglichen. Die Darstellung des Beitrags war bei 04:40 direkt sichtbar.
+
+- [Stellungnahme zu den französischen Ausschreitungen auf X](https://x.com/JDVance/status/2111628668044759453) · JD Vance, Oktober 2026
+  Quellenzugriff am 2026-11-19. Erfolgloser Abrufversuch – kein Sachbeleg. Direktzugriff auf X ergab HTTP 403. Gelesene Ersatzbelege sind die Einblendung in der ZDF-Fassung und der Eintrag bei Le Figaro. Erfolgloser Abrufversuch – kein Sachbeleg. Ersatzbelege S010 und S056.
 
 ### Offene Fragen und Unsicherheiten
 
