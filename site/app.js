@@ -528,7 +528,8 @@ function ampelView(v, variant = '') {
   </div>`;
 }
 
-/* Übersicht auf der Startseite: alle Videos mit ihrer Faktenampel, Originale zuerst. */
+/* Methodik, Abschnitt Faktenampel: aktuelle Einstufung aller Videos, Originale zuerst.
+   Steht nicht auf der Startseite, damit dort direkt die geprüften Videos folgen. */
 function ampelOverview(all) {
   const list = all.filter(v => v.data).sort((a, b) => (a.video?.role === 'reaction') - (b.video?.role === 'reaction') || FactRelations.compareVideoRecency(a, b));
   if (!list.length) return '';
@@ -536,11 +537,11 @@ function ampelOverview(all) {
     const role = v.video?.role === 'reaction' ? `Reaktion von ${v.video.channel}` : (v.video?.channel || v.meta?.Kanal && stripMd(v.meta.Kanal) || 'Faktencheck');
     return `<li><a class="ampel-row" href="#/video/${esc(v.id)}">${ampelView(v, 'big')}<span class="ampel-row-title"><strong>${esc(v.video?.title || v.title)}</strong><span class="small">${esc(role)}</span></span></a></li>`;
   };
-  return `<section class="section" id="ampel-uebersicht" aria-labelledby="h-ampel">
-      <div class="section-head"><h2 id="h-ampel">Faktenampel: alle Videos auf einen Blick</h2>
-      <p>Grün, Gelb oder Rot ergibt sich nur aus dem Anteil widerlegter oder irreführender Aussagen unter den bereits entschiedenen Tatsachenbehauptungen. Grau heißt: noch nicht bewertbar. Die Ampeln der Reaktionsvideos stehen auf der Seite des jeweiligen Interviews. <a href="#/methodik">So wird gerechnet</a></p></div>
+  return `<div id="ampel-uebersicht">
+      <h3 id="h-ampel">Alle Videos auf einen Blick</h3>
+      <p>So stehen die Ampeln nach dieser Regel gerade. Die Ampeln der Reaktionsvideos stehen zusätzlich auf der Seite des jeweiligen Interviews.</p>
       <ul class="ampel-overview">${list.map(item).join('')}</ul>
-    </section>`;
+    </div>`;
 }
 
 async function pageHome() {
@@ -593,9 +594,8 @@ async function pageHome() {
     </div>
   </section>
   <div class="wrap">
-    ${ampelOverview(shown)}
     <section class="section" aria-labelledby="h-videos">
-      <div class="section-head"><h2 id="h-videos">Geprüfte Videos</h2><p>Zuletzt veröffentlichte oder geprüfte Videos zuerst. Reaktionen auf ein bereits geprüftes Video stehen auf dessen Seite im Reiter „Reaktionen“.</p></div>
+      <div class="section-head"><h2 id="h-videos">Geprüfte Videos</h2><p>Zuletzt veröffentlichte oder geprüfte Videos zuerst. Reaktionen auf ein bereits geprüftes Video stehen auf dessen Seite im Reiter „Reaktionen“. Was die Faktenampel auf jeder Karte bedeutet, erklärt die <a href="#/methodik#ampel">Methodik</a>.</p></div>
       ${cards ? thumbPrompt() : ''}
       <div class="cards">${cards || '<p class="muted">Noch keine Faktenchecks veröffentlicht.</p>'}</div>
     </section>
@@ -1071,7 +1071,8 @@ async function pageRelations(id) {
   window.scrollTo(0, 0);
 }
 
-function pageMethod() {
+async function pageMethod() {
+  const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
   setPage(`<div class="wrap">
     <nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / Methodik</nav>
     <header class="video-head"><h1>So prüfen wir</h1>
@@ -1109,6 +1110,7 @@ function pageMethod() {
         <li>${ampelDemo('vorlaeufig')}<p>${esc(FactAmpel.LEVELS.vorlaeufig.text)} Das gilt bei laufender Analyse oder wenn Einzelprüfungen ausstehen und die Grundlage noch zu klein ist, etwa gemessen an der Videolaufzeit. Ist sie als abgeschlossen gekennzeichnet, steht bei zu kleiner Grundlage „Nicht bewertbar“ statt „Noch in Prüfung“.</p></li>
       </ul>
       <p class="small">Die Ampel beschreibt nur den geprüften Bestand, nicht das ganze Video, und ist keine Glaubwürdigkeitsnote für Personen. Neben ihr steht immer, auf wie vielen Aussagen sie beruht. Darstellungshinweise (Maßstab 2) verändern sie nie. Die Ampel wird nirgends gespeichert und von niemandem gesetzt: Sie wird bei jedem Aufruf nach einer einzigen, hier beschriebenen Regel berechnet. Ändert sich eine Einzelbewertung oder die Regel selbst, werden alle Videos automatisch neu eingestuft, ohne neue Prüfung.</p>
+      ${ampelOverview(all)}
     </section>
 
     <section class="section prose-plain" id="gegendarstellung"><h2>Gegendarstellung aus einem anderen Video</h2>
@@ -1318,7 +1320,7 @@ async function routePage() {
       return await pageVideo(parts[1]);
     }
     if (parts[0].split('#')[0] === 'methodik') {
-      pageMethod();
+      await pageMethod();
       const anchor = parts[0].split('#')[1];
       if (anchor) document.getElementById(anchor)?.scrollIntoView();
       return;
