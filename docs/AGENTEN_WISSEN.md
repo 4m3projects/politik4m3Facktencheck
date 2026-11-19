@@ -25,6 +25,8 @@ Im Feld `research.rounds[].strategy` einer Aussage vermerken, welche Einträge o
 ## 3. Themen und Wissenseinträge pflegen
 
 - Themen nur aus dem **Inhalt** (Aussagen, Fundstellen) zuordnen, nicht aus dem Titel. Vor einem neuen Thema prüfen, ob es schon ein Thema oder einen Alias gibt (`node scripts/wissen.js themen`). Hauptthemen heißen möglichst mit einem Wort. Unterthemen nur bei echtem Mehrwert. Ähnliche Themen zusammenführen (`mergedInto`), nicht löschen.
+- **Bei jedem neuen oder geänderten Video** (auch Shorts) die Themen im selben PR zuordnen bzw. nachziehen; die Zuordnung ist nicht automatisch (AGENTS.md, „Themen bei jedem Video prüfen“). Ohne öffentliches Sachthema eine leere `themen.json` mit begründeter `basis`. Die Webseiten-CI bricht ab, wenn ein sichtbares Video mit strukturierten Aussagen keine `themen.json` hat.
+- Länder- oder Ereignisthemen (z. B. `frankreich`) zusätzlich mit übergreifenden Sachthemen (z. B. `staatsfinanzen`, `migration`) kombinieren; IDs aus dem Schwesterprojekt übernehmen, wenn es das Thema dort schon gibt.
 - Im Hauptprojekt ausgeblendete Videos (docs/WEBSEITE.md, derzeit `mdo14671BPE`, `mlxFA9T88I0`) erhalten hier keine `themen.json`; ihre Themen pflegt das Schwesterprojekt.
 - Relevanz je Video: `Schwerpunkt`, `Behandelt` oder `Erwähnt`. Eine beiläufige Erwähnung ist `Erwähnt` und zählt nicht für die öffentliche Kategorie.
 - Ein Wissenseintrag hat eine eigene, präzise Behauptung, den zeitlichen und sachlichen Gültigkeitsbereich, Originalquellen und für jede Verknüpfung eine Begründung. `gleichwertig` nur, wenn Inhalt, Zeitbezug und Geltungsbereich übereinstimmen; sonst `teilaspekt`, `verwandt` oder `widerspricht`.

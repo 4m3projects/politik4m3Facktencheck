@@ -199,6 +199,225 @@
           "change": "Erstzuordnung für den Faktencheck zu den französischen Protesten."
         }
       ]
+    },
+    {
+      "id": "frankreich/proteste",
+      "name": "Proteste 2026",
+      "level": "Unterthema",
+      "parent": "frankreich",
+      "aliases": [
+        "Ausschreitungen",
+        "Schülerproteste"
+      ],
+      "description": "Proteste, Ausschreitungen und Gewalt in Frankreich im Oktober 2026 und frühere Protestbewegungen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Neu angelegt bei der Feinzuordnung des Frankreich-Videos nrnpcqzhd44."
+        }
+      ]
+    },
+    {
+      "id": "frankreich/politik",
+      "name": "Politisches System",
+      "level": "Unterthema",
+      "parent": "frankreich",
+      "aliases": [
+        "Fünfte Republik",
+        "Nationalversammlung"
+      ],
+      "description": "Fünfte Republik, Mehrheitsverhältnisse, Parteienlager und Wahlen in Frankreich.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Neu angelegt bei der Feinzuordnung des Frankreich-Videos nrnpcqzhd44."
+        }
+      ]
+    },
+    {
+      "id": "frankreich/vorstaedte",
+      "name": "Vorstädte",
+      "level": "Unterthema",
+      "parent": "frankreich",
+      "aliases": [
+        "Banlieue",
+        "Banlieues"
+      ],
+      "description": "Lage, Geschichte und Unruhen in benachteiligten französischen Vorstädten.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Neu angelegt bei der Feinzuordnung des Frankreich-Videos nrnpcqzhd44."
+        }
+      ]
+    },
+    {
+      "id": "staatsfinanzen",
+      "name": "Staatsfinanzen",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Haushalt",
+        "Staatsschulden"
+      ],
+      "description": "Haushalt, Schulden, Zinsausgaben und Bonität des Staates.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Übernommen aus dem Schwesterprojekt Ungeskriptet (gleiche ID) bei der Feinzuordnung des Frankreich-Videos nrnpcqzhd44."
+        }
+      ]
+    },
+    {
+      "id": "staatsfinanzen/schulden",
+      "name": "Schulden und Bonität",
+      "level": "Unterthema",
+      "parent": "staatsfinanzen",
+      "aliases": [
+        "Schuldenquote",
+        "Rating"
+      ],
+      "description": "Schuldenstand, Schuldenquoten, Sondervermögen und Kreditwürdigkeit.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Übernommen aus dem Schwesterprojekt Ungeskriptet (gleiche ID) bei der Feinzuordnung des Frankreich-Videos nrnpcqzhd44."
+        }
+      ]
+    },
+    {
+      "id": "staatsfinanzen/ausgaben",
+      "name": "Ausgaben",
+      "level": "Unterthema",
+      "parent": "staatsfinanzen",
+      "aliases": [
+        "Staatsausgaben",
+        "Haushaltskürzungen"
+      ],
+      "description": "Staatsausgaben, Kürzungsvorschläge und Auslandszahlungen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Übernommen aus dem Schwesterprojekt Ungeskriptet (gleiche ID) bei der Feinzuordnung des Frankreich-Videos nrnpcqzhd44."
+        }
+      ]
+    },
+    {
+      "id": "wirtschaft",
+      "name": "Wirtschaft",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Konjunktur",
+        "Wirtschaftskrise"
+      ],
+      "description": "Wirtschaftslage, Unternehmen, Produktivität und Arbeitsmarkt.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Übernommen aus dem Schwesterprojekt Ungeskriptet (gleiche ID) bei der Feinzuordnung des Frankreich-Videos nrnpcqzhd44."
+        }
+      ]
+    },
+    {
+      "id": "geld",
+      "name": "Geld",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Geldpolitik",
+        "Währung"
+      ],
+      "description": "Geldwert, Inflation, Zentralbanken, Geldschöpfung und digitales Zentralbankgeld.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Übernommen aus dem Schwesterprojekt Ungeskriptet (gleiche ID) bei der Feinzuordnung des Frankreich-Videos nrnpcqzhd44."
+        }
+      ]
+    },
+    {
+      "id": "geld/inflation",
+      "name": "Inflation und Kaufkraft",
+      "level": "Unterthema",
+      "parent": "geld",
+      "aliases": [
+        "Kaufkraftverlust",
+        "Geldentwertung"
+      ],
+      "description": "Preissteigerung und Kaufkraft von Geld.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Übernommen aus dem Schwesterprojekt Ungeskriptet (gleiche ID) bei der Feinzuordnung des Frankreich-Videos nrnpcqzhd44."
+        }
+      ]
+    },
+    {
+      "id": "migration",
+      "name": "Migration",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Aussagen zu Zuwanderung, Bevölkerung und Staatsangehörigkeit.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Übernommen aus dem Schwesterprojekt Ungeskriptet (gleiche ID) bei der Feinzuordnung des Frankreich-Videos nrnpcqzhd44."
+        }
+      ]
+    },
+    {
+      "id": "extremismus",
+      "name": "Extremismus",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Radikalisierung",
+        "Linksextremismus",
+        "Rechtsextremismus",
+        "Islamismus"
+      ],
+      "description": "Politischer und religiöser Extremismus, Radikalisierung und extremistische Gruppen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Neu angelegt bei der Feinzuordnung des Frankreich-Videos nrnpcqzhd44."
+        }
+      ]
     }
   ]
 }
