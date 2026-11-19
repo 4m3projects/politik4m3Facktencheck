@@ -6,6 +6,8 @@
 2. Nutze nach Möglichkeit die Originalsprachspur. Von YouTube als automatisch gekennzeichnete Untertitel können Wörter, Zahlen und Namen verwechseln. Sie weisen Personen häufig nicht zuverlässig zu. Nutze sie für die Suche nach Stellen und prüfe strittige Passagen, Sprecherwechsel, Rückfragen, Zitate und Wiederholungen am Originalton und, wo nötig, im Bild.
 3. Halte je Aussage fest, welche Textfassung und welche Originalstelle du tatsächlich geprüft hast. Übernimm nur eigene Paraphrasen, Quellenlinks, Zeitmarken und Prüfergebnisse in das Projekt. Wenn die Originalstelle weder im Video noch im Originaltranskript kontrolliert werden konnte, bleibt die Aussage offen. Kennzeichne eine allein aus dem Gesprächskontext abgeleitete Sprecherzuordnung im Datenmodell als plausibel oder ungeklärt.
 
+Wenn die Originalwiedergabe fehlt oder du eine visuelle Angabe überprüfen musst, folge der [Anleitung zum Bild- und Tonabgleich](AGENTEN_VIDEOABGLEICH.md).
+
 ## Lokaler Ersatz mit Whisper
 
 Wenn der Player und der optionale Import vorhandener YouTube-Untertitel keine ausreichende Textfassung liefern, verwende eine rechtmäßig bezogene lokale Audiodatei, zum Beispiel eine vom Herausgeber im Podcast-Feed angebotene MP3. Eine einzelne Video-URL ist kein Auftrag zum Herunterladen von Medien. Lege Audio und Transkripte außerhalb aller Git-Arbeitsbäume ab.
