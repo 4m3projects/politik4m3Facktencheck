@@ -619,7 +619,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ohne Geschlechtertrennung sei die Männerklasse faktisch eine offene Klasse; in Kraft-, Sprung- und Laufdisziplinen erzielten biologische Männer die Spitzenleistungen, deshalb müsse man Männer nicht auf ihr Geschlecht testen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -651,23 +651,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – zusammengesetzte sportpolitische Einordnung; Leistungsvergleiche und Regelwerke der Verbände wurden nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.
+Bei den Weltbestleistungen liegen Männer in Lauf- und Sprungdisziplinen durchgehend vor Frauen; eine Auswertung der jeweils 50 besten Leistungen zeigt je nach Disziplin einen Abstand von grob 8 bis 16 Prozent, im Gewichtheben ist er noch größer. Dieser Teil ist belegt. Ob die Männerklasse deshalb faktisch eine offene Klasse ist und Männer nicht getestet werden müssen, ist eine sportpolitische Schlussfolgerung; die Regelwerke der Verbände wurden nicht gelesen.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Eine sportwissenschaftliche Fachveröffentlichung (Carroll 2019) gelesen; keine Verbandsregeln zu Startklassen und Geschlechtstests.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Studie zum Leistungsabstand gelesen; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [The Performance Gap in Sport Can Help Determine Which Movements Were Most Essential to Human Evolution](https://pmc.ncbi.nlm.nih.gov/articles/PMC6877502/) · Cameron Carroll, Frontiers in Physiology, 19.11.2019 (DOI 10.3389/fphys.2019.01412); Leistungsabstand zwischen Männern und Frauen anhand der Top-50-Weltbestleistungen im Laufen und Springen.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Durchgehender Leistungsvorsprung der Männer im Laufen und Springen; im Gewichtheben größer.
 
 ### Offene Fragen und Unsicherheiten
 
-- Vergleich der Weltrekorde und Spitzenleistungen von Männern und Frauen in Kraft-, Sprung- und Laufdisziplinen prüfen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0066
 

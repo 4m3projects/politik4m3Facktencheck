@@ -597,7 +597,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Masken seien offensichtlich eine wirksame Schutzmaßnahme.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -616,23 +616,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – medizinische Wirksamkeitsfrage, zu der keine Übersichtsarbeit gelesen wurde; „offensichtlich“ lässt sich ohne Studienlage nicht bewerten. Fehlende Bestätigung bedeutet nicht falsch.
+Die Studienlage ist uneinheitlich. Der Cochrane-Review von 2023 fand für Maßnahmen zur Förderung des Maskentragens in randomisierten Studien keine eindeutige Wirkung; Cochrane stellte aber klar, dies sei kein Beleg, dass Masken nicht wirken, und über den Schutz für Einzelne sage der Review nichts. Beobachtungsstudien und eine große Studie aus Bangladesch sprechen für einen Nutzen, eine dänische Studie fand keinen statistisch signifikanten Effekt. Eine Schutzwirkung ist damit plausibel und teilweise gestützt, „offensichtlich“ ist sie nach der Studienlage nicht.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Cochrane-Stellungnahme (03/2023) und AFP-Faktencheck (03/2023) gelesen; den Review selbst und Einzelstudien nicht gelesen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Cochrane-Stellungnahme und Faktencheck gelesen; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Statement on ‘Physical interventions to interrupt or reduce the spread of respiratory viruses’ review](https://www.cochrane.org/news/statement-physical-interventions-interrupt-or-reduce-spread-respiratory-viruses-review) · Cochrane, Karla Soares-Weiser (Chefredakteurin der Cochrane Library), 10.03.2023; Einordnung des Reviews von 2023 zur Förderung des Maskentragens.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Ergebnisse zur Förderung des Maskentragens nicht eindeutig; „Masken wirken nicht“ sei eine Fehldeutung.
+
+- [Posts mislead on study of mask effectiveness for Covid-19](https://belux.edmo.eu/posts-mislead-on-study-of-mask-effectiveness-for-covid-19/) · AFP-Faktencheck, veröffentlicht von EDMO Belux, 28.03.2023; Einordnung randomisierter und beobachtender Studien zu Masken.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Uneinheitliche Einzelstudien; Beobachtungsdaten sprechen für Nutzen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Stand der Evidenz zu Masken gegen Atemwegsinfektionen (randomisierte Studien, Beobachtungsstudien, Cochrane-Review 2023 und Kritik daran) prüfen; Maskentyp und Setting unterscheiden.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0130
 
