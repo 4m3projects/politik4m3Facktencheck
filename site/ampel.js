@@ -69,15 +69,18 @@
 
     if (video?.workStatus === 'In Bearbeitung') return out('vorlaeufig', 'Die Analyse dieses Videos ist als „In Bearbeitung“ gekennzeichnet.');
     if (!stats) return out('nicht_bewertbar', 'Für dieses Video liegen keine strukturierten Prüfdaten vor.');
+    const rest = inProgress + unchecked > 0 ? ` Die Analyse ist abgeschlossen; ${inProgress + unchecked} Aussagen bleiben als noch nicht geprüft vermerkt.` : '';
     const tooFew = decided < RULES.minDecided || !facts || decided / facts < RULES.minShare;
     if (tooFew) {
       if (inProgress + unchecked > 0 && video?.workStatus !== 'Abgeschlossen') return out('vorlaeufig', `Erst ${decided} Tatsachenbehauptungen entschieden, ${inProgress + unchecked} noch nicht fertig geprüft.`);
-      const rest = inProgress + unchecked > 0 ? ` Die Analyse ist abgeschlossen; ${inProgress + unchecked} Aussagen bleiben als noch nicht geprüft vermerkt.` : '';
       return out('nicht_bewertbar', `Nur ${decided} von ${facts} erfassten Tatsachenbehauptungen sind entschieden; nötig sind mindestens ${RULES.minDecided} und mindestens ${Math.round(RULES.minShare * 100)} %.${rest}`);
     }
     const hours = Number(durationSeconds) > 0 ? Number(durationSeconds) / 3600 : null;
     if (hours && facts / hours < RULES.minPerHour) {
-      return out('nicht_bewertbar', `Nur ${facts} Tatsachenbehauptungen bei ${hours.toLocaleString('de-DE', { maximumFractionDigits: 1 })} Stunden Laufzeit erfasst – eine kleine Auswahl, kein Querschnitt des Videos; nötig sind mindestens ${RULES.minPerHour} je Stunde.`);
+      if (inProgress + unchecked > 0 && video?.workStatus !== 'Abgeschlossen') {
+        return out('vorlaeufig', `${decided} von ${facts} erfassten Tatsachenbehauptungen entschieden, ${inProgress + unchecked} noch nicht fertig geprüft. Bei dieser Laufzeit müssen mindestens ${Math.ceil(hours * RULES.minPerHour)} Tatsachenbehauptungen erfasst sein.`);
+      }
+      return out('nicht_bewertbar', `Nur ${facts} Tatsachenbehauptungen bei ${hours.toLocaleString('de-DE', { maximumFractionDigits: 1 })} Stunden Laufzeit erfasst – eine kleine Auswahl, kein Querschnitt des Videos; nötig sind mindestens ${RULES.minPerHour} je Stunde.${rest}`);
     }
     const share = errors / decided;
     const key = share >= RULES.redFrom ? 'rot' : share >= RULES.yellowFrom ? 'gelb' : 'gruen';
