@@ -1,6 +1,6 @@
 # YouTube Shorts prüfen
 
-Erstellt von: Claude, auf Auftrag von Jens (19.11.2026). Erstes Beispiel: [gVQeb83GHDQ](../faktenchecks/gVQeb83GHDQ/README.md).
+Erstellt von: Claude, auf Auftrag von Jens (19.11.2026). Erstes Beispiel: der Short gVQeb83GHDQ.
 
 Shorts sind kurze Hochkantvideos (höchstens drei Minuten). Sie werden wie jedes andere Video geprüft: gleiche Ablage, gleiches Datenmodell (Schema 2), gleiche Bewertungskategorien und Rechteregeln aus [AGENTS.md](../AGENTS.md). Diese Datei beschreibt nur, was bei Shorts anders ist.
 
