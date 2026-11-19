@@ -19,6 +19,15 @@
 - [**08:16**](https://www.youtube.com/watch?v=nrnpcqzhd44&t=496s) Die sechs Balken der Wahlgrafik einschließlich Restkategorie ergeben zusammen nur 95,5 Prozent. Die Reihenfolge der drei größten Gruppen stimmt mit der amtlichen Auszählung überein. [Französisches Innenministerium, Wahlergebnis 2024](https://www.archives-resultats-elections.interieur.gouv.fr/resultats/legislatives2024/ensemble_geographique/)
 - [**09:30–09:37**](https://www.youtube.com/watch?v=nrnpcqzhd44&t=570s) In der dichter gesichteten Bildreihe ist nur der Moderator zu sehen. Aus der Passage geht nicht hervor, welche Symbole oder Protestaufnahmen er meint. [ZDF-Fassung](https://www.zdf.de/video/explainer/funk-collection-funk-8423-1222/funk-proteste--gewalt-was-ist-los-in-frankreich-102)
 
+## Darstellung · teilweise geprüft
+
+Die deutschen Untertitel wurden über die gesamte Laufzeit auf sprachliche Mittel und Argumentationsweise geprüft. Dazu kamen die dokumentierten Befunde aus den Bildstichproben. Sechs KI-Hinweise stehen bei den jeweiligen Aussagen im strukturierten Faktencheck.
+
+- Der Einstieg erzeugt mit drastischen Beispielen und einer Brandmetapher den Eindruck einer umfassenden Eskalation. Die spätere Passage über friedliche Demonstrationen erweitert den Blick um Anliegen wie Bildung und Lebenshaltungskosten. [Einstieg bei 00:00](https://www.youtube.com/watch?v=nrnpcqzhd44&t=0s) · [Perspektivwechsel bei 01:28](https://www.youtube.com/watch?v=nrnpcqzhd44&t=88s)
+- In der Symbolpassage verbindet der Beitrag die Präsenz von Zeichen mit einem behaupteten politischen Bündnis. Für diese Deutung fehlen eine eindeutige Zuordnung der gemeinten Zeichen und Belege für die Zusammenarbeit der konkret gemeinten Gruppen. [Symbolpassage bei 09:22](https://www.youtube.com/watch?v=nrnpcqzhd44&t=562s)
+
+Für die vollständige Darstellungsprüfung stehen die durchgehende Sichtung von Bild und Schnitt sowie die Kontrolle von Originalton, Stimmführung und Musik aus.
+
 ## Grenzen der Ergebnisse
 
 Alle zwölf offenen Prüfpunkte der Erstfassung sind bewertet. Für neun Punkte geben die jeweils gelesenen Quellen weder eine tragfähige Bestätigung noch eine Widerlegung her. Das betrifft unter anderem die behaupteten Bündnisse und Zusammenhänge zwischen sozialer Lage, Radikalisierung und Wahlverhalten. Die Einzelprüfungen benennen die fehlenden Belege. Für den Abgleich wurden Standbilder in Vier-Sekunden-Abständen, 67 durch den Schnittfilter erkannte Übergänge und die Symbolpassage in Halbschritten betrachtet. Die 293 Untertitelblöcke lagen in beiden Fassungen auf derselben Zeitachse. Grenzen bleiben bei sehr kurzen oder subtilen visuellen Änderungen, der unabhängigen Herkunftsprüfung von Archivbildern und dem Ton. Die später veröffentlichten Quellen sind als solche datiert.

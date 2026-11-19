@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "videoId": "nrnpcqzhd44",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-19",
+    "by": "Codex",
+    "basis": "Vollständige deutsche Originaluntertitel und dokumentierte Befunde aus den Bildstichproben der zeitlich abgeglichenen offiziellen Mediathekfassung.",
+    "coverage": "Sprachliche Rahmung über die gesamte Laufzeit von 11 Minuten und 43 Sekunden durchgesehen. Sechs Hinweise zu sechs Sachpunkten erfasst und mit den vorhandenen Bildbefunden abgeglichen, soweit einschlägig.",
+    "limits": [
+      "Originalton über die gesamte Laufzeit anhören und Stimmführung, akustische Akzente, Musik und mögliche Ironie kontrollieren.",
+      "Bilder und Schnitt über die gesamte Laufzeit in Bewegung prüfen. Kurze Einblendungen und die genaue Abfolge von Ton und Bild sind mit den vorhandenen Stichproben nicht vollständig beurteilbar."
+    ],
+    "history": [
+      {
+        "date": "2026-11-19",
+        "by": "Codex",
+        "change": "Erste Durchsicht der vollständigen Untertitel und Auswertung der vorhandenen Bildbefunde für die Darstellungsprüfung."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "nrnpcqzhd44-R0001",
+      "claimId": "nrnpcqzhd44-A0001",
+      "feature": "emotionalisierung",
+      "startSeconds": 0,
+      "endSeconds": 14,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Die Untertitel und der Aufbau weisen auf die Moderation hin. Die Stimme wurde für diese Einordnung nicht unabhängig gehört."
+      },
+      "observation": "Der Auftakt verdichtet Auseinandersetzungen und Sachschäden zu einem landesweiten Bedrohungsbild.",
+      "reason": "Die Häufung drastischer Beispiele und die anschließende Brandmetapher ziehen den Blick auf die Eskalation.",
+      "context": "Der Auftakt setzt den Rahmen. Friedlicher Protest erhält später einen eigenen Abschnitt.",
+      "assessment": "Erkennbar",
+      "reliability": "Hoch",
+      "uncertainty": "Der Befund betrifft die sprachliche Rahmung. Der Beitrag von Ton und Montage bleibt offen.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Deutsche Originaluntertitel mit Zeitmarken.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erster Hinweis nach Durchsicht der Untertitel und der bisherigen Bildbefunde."
+        }
+      ]
+    },
+    {
+      "id": "nrnpcqzhd44-R0002",
+      "claimId": "nrnpcqzhd44-A0006",
+      "feature": "pauschalisierung",
+      "startSeconds": 18,
+      "endSeconds": 43,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Die Untertitel und der Aufbau weisen auf die Moderation hin. Die Stimme wurde für diese Einordnung nicht unabhängig gehört."
+      },
+      "observation": "Die Moderation überträgt den wiederkehrenden Eindruck von Gewaltbildern auf unterschiedliche Medien und soziale Netzwerke.",
+      "reason": "Die Darstellung wechselt von einem plausiblen Eindruck einzelner Feeds zu einer breit formulierten Aussage über die Mediennutzung des Publikums.",
+      "context": "Die Stelle leitet vom Einstieg zur Frage über, wie die Proteste öffentlich wahrgenommen wurden.",
+      "assessment": "Erkennbar",
+      "reliability": "Hoch",
+      "uncertainty": "Das Ausmaß der Verbreitung ist Gegenstand der zugehörigen Sachprüfung.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Deutsche Originaluntertitel mit Zeitmarken.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erster Hinweis nach Durchsicht der Untertitel und der bisherigen Bildbefunde."
+        }
+      ]
+    },
+    {
+      "id": "nrnpcqzhd44-R0003",
+      "claimId": "nrnpcqzhd44-A0008",
+      "feature": "gegenposition",
+      "startSeconds": 88,
+      "endSeconds": 118,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Die Untertitel und der Aufbau weisen auf die Moderation hin. Die Stimme wurde für diese Einordnung nicht unabhängig gehört."
+      },
+      "observation": "Der Beitrag wechselt nach der Gewaltschilderung zu friedlichem Protest und benennt konkrete Anliegen, darunter Lebenshaltungskosten und Bildung.",
+      "reason": "Die Abfolge gibt den Demonstrierenden eigene Anliegen und erweitert die Perspektive auf die Proteste über die Ausschreitungen hinaus.",
+      "context": "Der Hinweis beschreibt den Perspektivwechsel im Beitrag. Er bewertet keine einzelne Gruppe als repräsentativ.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Bildauswahl und Umfang weiterer Perspektiven konnten nur stichprobenartig kontrolliert werden.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Deutsche Originaluntertitel und dokumentierte Befunde aus den Bildstichproben der abgeglichenen Mediathekfassung.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erster Hinweis nach Durchsicht der Untertitel und der bisherigen Bildbefunde."
+        }
+      ]
+    },
+    {
+      "id": "nrnpcqzhd44-R0004",
+      "claimId": "nrnpcqzhd44-A0019",
+      "feature": "pauschalisierung",
+      "startSeconds": 237,
+      "endSeconds": 261,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Die Untertitel und der Aufbau weisen auf die Moderation hin. Die Stimme wurde für diese Einordnung nicht unabhängig gehört."
+      },
+      "observation": "Nach der Zuschreibung durch die Regierung im vorangehenden Abschnitt dehnt die Moderation das Muster auf die Zeit seit Beginn der Schulproteste aus.",
+      "reason": "Aus einer Zuschreibung für Ausschreitungen wird eine weiter reichende Erklärung der frühen Protestphase. Die zeitliche und örtliche Eingrenzung tritt dabei zurück.",
+      "context": "Zuvor unterscheidet der Beitrag zwischen friedlicher Mobilisierung, Gewalt und Plünderungen.",
+      "assessment": "Erkennbar",
+      "reliability": "Hoch",
+      "uncertainty": "Die fehlende Begrenzung im Beitrag sagt für sich genommen nichts über die Täterschaft aus.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Deutsche Originaluntertitel mit Zeitmarken.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erster Hinweis nach Durchsicht der Untertitel und der bisherigen Bildbefunde."
+        }
+      ]
+    },
+    {
+      "id": "nrnpcqzhd44-R0005",
+      "claimId": "nrnpcqzhd44-A0057",
+      "feature": "tunnelblick",
+      "startSeconds": 562,
+      "endSeconds": 576,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Die Untertitel und der Aufbau weisen auf die Moderation hin. Die Stimme wurde für diese Einordnung nicht unabhängig gehört."
+      },
+      "observation": "Die Moderation verbindet ein behauptetes Bündnis mit Symbolen bei den Protesten, ohne die gemeinten Symbole in dieser Passage eindeutig zu identifizieren.",
+      "reason": "Ein sichtbares Zeichen kann sehr verschiedene politische oder andere Motive ausdrücken. Für die gezogene Verbindung fehlt die Unterscheidung zwischen Symbolpräsenz, Beteiligung an Gewalt und Zusammenarbeit.",
+      "context": "In den eng getakteten Bildstichproben der Symbolpassage ist der Moderator zu sehen. Der Abschnitt folgt auf die Erörterung des Nahostkonflikts.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Ohne genaue Identifizierung der Zeichen und ihrer Träger bleibt offen, welche konkrete Deutung belegt werden könnte.",
+      "missingInformation": {
+        "what": "Eindeutige Zuordnung der gezeigten oder gemeinten Symbole sowie Belege für Kontakte oder gemeinsame Organisation der konkret gemeinten Gruppen.",
+        "reasoning": "Ein bei einer Demonstration sichtbares Zeichen reicht nicht aus, um Kooperation oder Beteiligung an Gewalt nachzuweisen."
+      },
+      "status": "KI-Vorschlag",
+      "basis": "Deutsche Originaluntertitel und dokumentierte Befunde aus den Bildstichproben der abgeglichenen Mediathekfassung.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erster Hinweis nach Durchsicht der Untertitel und der bisherigen Bildbefunde."
+        }
+      ]
+    },
+    {
+      "id": "nrnpcqzhd44-R0006",
+      "claimId": "nrnpcqzhd44-A0058",
+      "feature": "emotionalisierung",
+      "startSeconds": 576,
+      "endSeconds": 594,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Die Untertitel und der Aufbau weisen auf die Moderation hin. Die Stimme wurde für diese Einordnung nicht unabhängig gehört."
+      },
+      "observation": "Der Beitrag leitet von der Symbolpassage mit einer Explosionsmetapher zu Risiken politischer Radikalisierung über.",
+      "reason": "Die sprachliche Zuspitzung vermittelt Dringlichkeit und verbindet danach mehrere Radikalisierungsrisiken mit der zuvor skizzierten sozialen Lage.",
+      "context": "Der Abschnitt nennt unterschiedliche Richtungen der Radikalisierung, bevor er zu den Wahlchancen des RN übergeht.",
+      "assessment": "Erkennbar",
+      "reliability": "Hoch",
+      "uncertainty": "Der Hinweis betrifft die Wortwahl und die Reihenfolge. Stimme und musikalische Akzente sind offen.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Deutsche Originaluntertitel mit Zeitmarken.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erster Hinweis nach Durchsicht der Untertitel und der bisherigen Bildbefunde."
+        }
+      ]
+    }
+  ]
+}

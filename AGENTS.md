@@ -77,6 +77,8 @@ Diese Regeln gelten für Codex, ChatGPT, Claude und weitere KI-Agenten. **GitHub
 
 **Pflichtlektüre für alle Agenten:** [docs/AGENTEN_RHETORIK.md](docs/AGENTEN_RHETORIK.md). Die bestehende sachliche Faktenprüfung (einschließlich Meinung/Prognose und aller bisherigen Kategorien) bleibt unverändert. Zusätzlich können Aussagen mit begründeten Rhetorik-Hinweisen wie Abwertung, Ironie oder möglichem Tunnelblick versehen werden. Rhetorische Hinweise verändern weder Wahr/Falsch-Bewertungen noch bestehende Fehlerstatistiken und dürfen nicht automatisch als Fehlerpunkte zählen. Datenmodell: [docs/RHETORIK.md](docs/RHETORIK.md).
 
+**Gesamtprüfung abgeschlossen** oder **alles abgeschlossen** bedeutet: Die Sachprüfung deckt die ganze Folge ab und alle Prüfpunkte sind abschließend eingeordnet. Die Darstellung wurde über die gesamte Laufzeit anhand einer geeigneten Bild- und Tongrundlage geprüft und in `rhetorik.json` als `Vollständig geprüft` dokumentiert. Fehlt eine dieser Voraussetzungen, nenne in Bericht, Website und Abschlussmeldung den Stand beider Prüfungen und die offenen Teile. `video.json.workStatus` und die Faktenampel beschreiben die Sachprüfung. Die [Regeln zum Bild- und Tonabgleich](docs/AGENTEN_VIDEOABGLEICH.md) gelten auch für die Darstellungsprüfung.
+
 ## 1. Veröffentlichung und Rechte – oberste Projektregel
 
 - In dieses Repository gehören nur eigene Projekttexte, eigene Analyse/Interpretation, eigener Programmcode und knappe bibliografische Angaben mit externen Quellenlinks.

@@ -1,6 +1,8 @@
 # Proteste & Gewalt! Was ist los in Frankreich?
 
-**Status: Abgeschlossen**
+**Status: Erfasste Faktenpunkte geprüft. Darstellung teilweise geprüft.**
+
+**Statuskorrektur vom 19. November 2026.** Die Kurzangabe zum Abschluss bezog sich auf die 76 erfassten Sachpunkte. Für die Darstellungsprüfung wurden die vollständigen Untertitel und die Befunde aus den Bildstichproben auf sprachliche und visuelle Mittel überprüft. Die kontinuierliche Bild- und Tonkontrolle steht aus. [Faktencheck und Darstellung](03_faktencheck.md)
 
 - Auswertungsstand: 19.11.2026
 - Kanal: MrWissen2go (funk)

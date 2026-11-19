@@ -78,6 +78,20 @@ test('Fehlende Rhetorikdatei bricht nichts und gilt als „noch nicht geprüft�
   assert.deepEqual(Object.values(R.featureCounts(null)), Object.keys(R.FEATURES).map(() => 0));
 });
 
+test('Gesamtabschluss erfordert vollständige Fakten- und Darstellungsprüfung', () => {
+  const video = { workStatus: 'Abgeschlossen' };
+  const facts = { ...FACTS, scope: { ...FACTS.scope, kind: 'Vollbestand' } };
+  const complete = { ...RHET, review: { ...RHET.review, status: 'Vollständig geprüft', limits: [] }, annotations: [] };
+  assert.equal(R.overallReviewComplete(facts, video, complete), true);
+  assert.equal(R.overallReviewComplete(facts, video, null), false);
+  assert.equal(R.overallReviewComplete(facts, video, RHET), false);
+  assert.equal(R.overallReviewComplete(FACTS, video, complete), false);
+  assert.equal(R.overallReviewComplete(facts, { workStatus: 'In Bearbeitung' }, complete), false);
+  const open = { ...facts, claims: [...facts.claims, claim(4, 'Tatsachenbehauptung', null)] };
+  assert.equal(R.overallReviewComplete(open, video, complete), false);
+  assert.equal(R.overallReviewComplete(facts, video, { ...complete, review: { ...complete.review, limits: [NOTE] } }), false);
+});
+
 test('Rhetorik verändert keine Faktendaten (Ebene 1 bleibt unverändert)', () => {
   const facts = deepFreeze(clone(FACTS)), rhet = deepFreeze(clone(RHET));
   const before = JSON.stringify(facts);
