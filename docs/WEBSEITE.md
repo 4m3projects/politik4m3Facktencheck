@@ -141,3 +141,7 @@ Erstellt von: Claude, auf Auftrag des Nutzers (18.11.2026). Faktenchecks zu Inte
 ## YouTube Shorts
 
 Videos mit `"format": "short"` in `video.json` (oder ohne `video.json` mit einer `/shorts/`-Adresse) tragen auf der Startseitenkarte und im Videokopf das Kennzeichen „Short“. In der Video-Ansicht steht der Player im Hochformat 9:16 und ist höchstens so hoch wie das Fenster; nebeneinander bekommt die Aussagenliste den übrigen Platz, untereinander ist der Player schmal und mittig. Die Faktenampel nutzt für Shorts eine eigene Mindestgrundlage (docs/AMPEL.md). Erfassung und Datenmodell: [SHORTS.md](SHORTS.md).
+
+## Musikvideos
+
+Videos mit `"format": "musikvideo"` in `video.json` tragen auf der Startseitenkarte und im Videokopf das Kennzeichen „♪ Musikvideo“. Über der Aussagenliste und in der Ansicht „Video mit Faktencheck“ erklärt ein fester Hinweis, dass nur Tatsachenkerne bewertet werden, künstlerische Zuspitzung keine Falschaussage ist und der Liedtext nicht wiedergegeben wird. Der Player bleibt 16:9. Die Faktenampel nutzt dieselbe Mindestgrundlage wie bei Shorts (docs/AMPEL.md). Erkennung und Prüfregeln: [MUSIKVIDEOS.md](MUSIKVIDEOS.md).

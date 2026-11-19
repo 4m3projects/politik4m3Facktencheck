@@ -485,8 +485,16 @@ async function relationsSection(v) {
 
 /* Kurze Rolle im Kopf jeder Videoseite, bei Reaktionen mit Rückverlinkung. */
 /* Kennzeichen für YouTube Shorts (docs/SHORTS.md): kurzes Hochkantvideo. */
+/* Kennzeichen für Musikvideos (docs/MUSIKVIDEOS.md): Lied mit Bild, nur Tatsachenkerne geprüft. */
 function shortBadge(v) {
+  if (FactRelations.isMusic(v?.video)) return '<span class="badge format-music" title="Musikvideo: Das ganze Lied ist erfasst; geprüft werden nur die darin enthaltenen Tatsachenbehauptungen, nicht die künstlerische Gestaltung">♪ Musikvideo</span> ';
   return FactRelations.isShort(v?.video, v?.data?.scope?.videoUrl) ? '<span class="badge format-short" title="Kurzes Hochkantvideo von YouTube; der ganze Short ist erfasst">Short</span> ' : '';
+}
+
+/* Hinweis über der Aussagenliste eines Musikvideos: Was geprüft wird und was nicht. */
+function musicNotice(v) {
+  if (!FactRelations.isMusic(v?.video)) return '';
+  return `<p class="notice music"><strong>♪ Musikvideo – Kunst mit Tatsachenkern.</strong> Ein Lied darf zuspitzen, übertreiben und in Bildern sprechen. Geprüft werden nur Stellen, die eine nachprüfbare Tatsache behaupten oder unterstellen (Zahlen, Ereignisse, Gesetze, Handlungen benannter Personen); bewertet wird dieser Kern, nicht die Wortwahl. Bilder, Ironie und Gefühle ohne Tatsachenkern sind keine Falschaussagen; politische Wertungen stehen als Meinung. Der Liedtext selbst wird hier nicht wiedergegeben. <a href="#/methodik#musikvideos">Mehr dazu in der Methodik</a></p>`;
 }
 
 function roleLine(v) {
@@ -972,6 +980,7 @@ async function pageVideo(id, focusClaim) {
 
   setPage(`<div class="wrap">
     ${videoHeader(v, 'aussagen')}
+    ${musicNotice(v)}
     ${scope.kind === 'Teilbestand' && !researchDone(scope) ? `<p class="notice warn"><strong>Teilbestand – keine Bilanz des ganzen Videos.</strong> ${esc(scope.coverageNote)}</p>` : `<p class="notice"><strong>Umfang der Prüfung.</strong> ${esc(scope.coverageNote)}</p>`}
     ${nOpen ? `<p class="notice todo"><strong>${num(nOpen)} ${nOpen === 1 ? 'Aussage ist' : 'Aussagen sind'} noch nicht geprüft.</strong> Sie wären mit öffentlichen Quellen prüfbar, die Recherche steht aber noch aus; sie werden nachgearbeitet. Das ist etwas anderes als „nicht überprüfbar“ oder „nicht ausreichend belegbar“ – <a href="#/methodik#pruefstatus">zur Erklärung</a>.</p>` : ''}
     <div class="grid-2" style="margin-top:20px">
@@ -1152,6 +1161,7 @@ async function pageMethod() {
         <li><strong>Grundlage:</strong> nur abgeschlossen bewertete Tatsachenbehauptungen mit dem Ergebnis belegt, teilweise belegt, irreführend oder widerlegt („entschieden“). Meinungen, Prognosen, offene, laufende, nicht überprüfbare und nicht ausreichend belegbare Aussagen zählen nicht mit.</li>
         <li><strong>Fehleranteil</strong> = (widerlegt + irreführend) ÷ entschiedene Tatsachenbehauptungen. Teilweise belegt zählt nicht als Fehler.</li>
         <li><strong>YouTube Shorts:</strong> Ein Short wird immer vollständig erfasst, nicht nur in Auswahl. Weil er meist nur wenige Aussagen enthält, reichen dort ${FactAmpel.RULES.short.minDecided} entschiedene Tatsachenbehauptungen, wenn mindestens die Hälfte der erfassten entschieden ist. Bei so wenigen Aussagen kann schon eine einzige widerlegte die Farbe ändern; die Basis steht deshalb immer daneben.</li>
+        <li id="musikvideos"><strong>Musikvideos:</strong> Ein Lied darf zuspitzen, übertreiben und in Bildern sprechen. Erfasst werden nur Stellen mit nachprüfbarem Tatsachenkern (bewertet wird der Kern, nicht die Wortwahl) und politische Wertungen als Meinung; reine Kunstsprache ohne Tatsachenkern zählt nicht und ist keine Falschaussage. Das ganze Lied wird erfasst, deshalb gilt dieselbe Mindestgrundlage wie bei Shorts (${FactAmpel.RULES.musikvideo.minDecided} entschiedene, mindestens die Hälfte). Den Liedtext geben wir nicht wieder.</li>
       </ul>
       <ul class="verdict-list">
         <li>${ampelDemo('gruen')}<p>${esc(FactAmpel.LEVELS.gruen.text)}</p></li>

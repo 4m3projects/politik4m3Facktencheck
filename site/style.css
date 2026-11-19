@@ -514,6 +514,7 @@ body.vc-lock { overflow: hidden; }
   .vc.is-expanded[data-format="short"][data-layout="stack"] .vc-player-col { max-width: max(240px, calc((100vh - 360px) * 9 / 16)); }
   .vc.is-expanded[data-format="short"][data-layout="stack"] .vc-frame { width: 100%; }
 }
+.badge.format-music { background: var(--accent-soft); color: var(--accent-ink); border-color: transparent; font-weight: 600; }
 .badge.format-short { background: var(--accent-soft); color: var(--accent-ink); border-color: transparent; font-weight: 600; }
 .vc-frame > .vc-consent { position: static; min-height: 100%; }
 @media (max-width: 899px) { .vc .seg { display: none; } }

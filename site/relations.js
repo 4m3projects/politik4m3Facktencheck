@@ -28,8 +28,10 @@
     einordnung: 'Journalistische Einordnung'
   };
   /* Videoformat (optional in video.json): fehlt es, gilt das Video als normales Video.
-     Shorts sind hochkant und kurz; Seite, Player und Faktenampel berücksichtigen das (docs/SHORTS.md). */
-  const FORMATS = { video: 'Video', short: 'YouTube Short' };
+     Shorts sind hochkant und kurz; Seite, Player und Faktenampel berücksichtigen das (docs/SHORTS.md).
+     Musikvideos sind Lieder mit Bild; geprüft werden nur Tatsachenkerne, künstlerische Zuspitzung
+     wird gesondert eingeordnet (docs/MUSIKVIDEOS.md). */
+  const FORMATS = { video: 'Video', short: 'YouTube Short', musikvideo: 'Musikvideo' };
   const WORK_STATUS = ['Erfasst', 'In Bearbeitung', 'Teilbestand geprüft', 'Abgeschlossen'];
   const CERTAINTY = ['Belegt', 'Plausibel'];
   /* Art der Verknüpfung zweier Aussagen. Nur die beiden ersten werden automatisch verglichen. */
@@ -60,6 +62,12 @@
     if (meta && meta.format != null) return meta.format === 'short';
     const u = String(url || (meta && meta.videoUrl) || '');
     return /^https:\/\/(?:www\.|m\.)?youtube\.com\/shorts\/[A-Za-z0-9_-]{11}(?:[?#/]|$)/.test(u);
+  }
+
+  /* Ist das Video ein Musikvideo? Nur video.json entscheidet (format: "musikvideo"); eine Adresse
+     verrät das nicht. Die Agenten erkennen Musikvideos beim Erfassen (docs/MUSIKVIDEOS.md). */
+  function isMusic(meta) {
+    return !!meta && meta.format === 'musikvideo';
   }
 
   function videoPublication(meta) {
@@ -101,7 +109,7 @@
     if (!text(m.title)) e.push(at + ': title fehlt.');
     if (!https(m.videoUrl)) e.push(at + ': videoUrl muss eine HTTPS-Adresse sein.');
     if (!WORK_STATUS.includes(m.workStatus)) e.push(at + ': unbekannter workStatus.');
-    if (m.format != null && !Object.hasOwn(FORMATS, m.format)) e.push(at + ': format muss video oder short sein (oder fehlen).');
+    if (m.format != null && !Object.hasOwn(FORMATS, m.format)) e.push(at + ': format muss video, short oder musikvideo sein (oder fehlen).');
     const idf = m.identification;
     if (!isObj(idf) || !text(idf.basis) || !CERTAINTY.includes(idf.certainty) || !isoDate(idf.checkedOn)) {
       e.push(at + ': identification braucht basis, certainty (Belegt/Plausibel) und checkedOn.');
@@ -213,6 +221,6 @@
     geklaert: 'Abweichung begründet geklärt'
   };
 
-  return { ROLES, REACTION_TYPES, FORMATS, isShort, WORK_STATUS, LINK_TYPES, RESOLUTIONS, POLARITY, STATE_TEXT,
+  return { ROLES, REACTION_TYPES, FORMATS, isShort, isMusic, WORK_STATUS, LINK_TYPES, RESOLUTIONS, POLARITY, STATE_TEXT,
     validateVideoMeta, validateRelations, compareLink, buildIndex, findClaim, videoPublication, compareVideoRecency };
 });
