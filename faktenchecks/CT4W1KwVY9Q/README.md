@@ -6,7 +6,8 @@ Stand: 19.11.2026.
 
 - Original: [YouTube, Video-ID CT4W1KwVY9Q](https://www.youtube.com/watch?v=CT4W1KwVY9Q)
 - Format: Musikvideo (Art-Track: Lied mit quadratischem Standbild, ohne Untertitel und ohne Kapitelmarken)
-- Kanal und Urheber: Politik4m3; über den Musikvertrieb DistroKid veröffentlicht, laut Vertriebsangabe mit generativer KI komponiert
+- Kanal: Politik4m3
+- Urheber: Politik4m3; über den Musikvertrieb DistroKid veröffentlicht, laut Vertriebsangabe mit generativer KI komponiert
 - Beim Abruf angezeigter Titel: Ihr klaut uns den Protest: Wenn aus Forderungen Gewalt wird
 - Veröffentlichung: 2026-10-21
 - Veröffentlichung laut Vertriebsangabe: 2026-10-22
