@@ -2,45 +2,45 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Die deutsche Originaluntertitelspur wurde vollständig gelesen. Sie reicht von 00:00:00 bis kurz vor 00:11:43. Die Untertitelpause 00:08:34–00:09:04 enthält eine bei 00:08:40 und 00:08:55 visuell kontrollierte Texttafel. Weitere Bildinhalte und die genaue Sprecheridentität wurden nicht systematisch überprüft. Keine Statistik des vollständigen Videos.
+**Abdeckung: Teilbestand.** Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab.
 
 Stand: 2026-11-19 · Video: nrnpcqzhd44
 
-Amtliche Daten, zeitgenössische Berichte und später veröffentlichte Auswertungen werden je Fundstelle zugeordnet. Einige Akteurs-, Wirkungs- und Bildaussagen bleiben offen. Keine durchgehende Ton- oder Bildprüfung.
+Die Nachprüfung hat alle zwölf offenen Sachdatensätze der Erstfassung bearbeitet und zwei zusätzliche Prüfgegenstände erfasst. Alle erfassten Aussagen haben ein Prüfergebnis. Bei nicht ausreichend belegbaren Aussagen dokumentiert der Bericht zwei Prüfwege und die verbleibende Beleglücke. Eine vollständige Sichtung der Bild- und Tonebene war nicht möglich.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 66
-- Abgeschlossen: 55
-- Offen (noch nicht geprueft): 11
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 67
+- Abgeschlossen: 67
+- Offen (noch nicht geprueft): 0
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
-- Erfasste Behauptungsvorkommen: 81
+- Erfasste Behauptungsvorkommen: 82
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 15
 - Davon bestaetigte Wiederholungen derselben Person: 0
-- Rueckfragen/Fremdbezuege/Zurueckweisungen: 8
+- Rueckfragen/Fremdbezuege/Zurueckweisungen: 9
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 0
 - Aussagen ausschliesslich mit ungeklaertem eigenem Bezug: 0
-- Nur referenzierte Aussagen ohne eigene Behauptung: 5
+- Nur referenzierte Aussagen ohne eigene Behauptung: 6
 - Meinungen: 6; Prognosen: 4
 
 Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen. Nur erneut derselben Person mit bestaetigter Zuordnung und bestaetigtem eigenem Bezug zugerechnete Vorkommen zaehlen als bestaetigte Personenwiederholung. Null bedeutet nur: im dokumentierten Datenbestand keine solchen Faelle erfasst.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 45 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 57 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 17 | 37.8 % |
-| Teilweise belegt | 20 | 44.4 % |
-| Irreführend / Kontext fehlt | 6 | 13.3 % |
-| Widerlegt | 2 | 4.4 % |
-| Nicht ausreichend belegbar | 0 | 0.0 % |
+| Belegt | 18 | 31.6 % |
+| Teilweise belegt | 22 | 38.6 % |
+| Irreführend / Kontext fehlt | 7 | 12.3 % |
+| Widerlegt | 2 | 3.5 % |
+| Nicht ausreichend belegbar | 8 | 14.0 % |
 | Meinung / Prognose | 10 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
@@ -51,13 +51,13 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 56. Ohne verlaessliche Personenzuordnung: 56.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 57. Ohne verlaessliche Personenzuordnung: 57.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 56; mit unsicherem eigenem Aussagebezug: 0. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 57; mit unsicherem eigenem Aussagebezug: 0. Diese Mengen koennen sich ueberschneiden.
 
-- Bestätigt: Sprecherzuordnung 0, Aussagebezug 89 Vorkommen.
-- Plausibel: Sprecherzuordnung 83, Aussagebezug 0 Vorkommen.
-- Ungeklärt: Sprecherzuordnung 6, Aussagebezug 0 Vorkommen.
+- Bestätigt: Sprecherzuordnung 0, Aussagebezug 91 Vorkommen.
+- Plausibel: Sprecherzuordnung 84, Aussagebezug 0 Vorkommen.
+- Ungeklärt: Sprecherzuordnung 7, Aussagebezug 0 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |

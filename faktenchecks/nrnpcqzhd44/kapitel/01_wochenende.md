@@ -10,6 +10,6 @@ Der Einstieg schildert Schäden und Zusammenstöße rund um den 17. Oktober. Er 
 
 ## Fazit und offene Punkte
 
-Die Festnahmezahl hängt vom Meldestand ab. Der frühe Zwischenstand lag im Hunderterbereich, schon vor Veröffentlichung war eine Zahl von mehr als 2.000 bekannt. Für Verletzte unter Zivilpersonen und vollständig zerstörte Geschäfte fehlen vergleichbare Gesamtzahlen.
+Die Festnahmezahl hängt vom Meldestand ab. Der frühe Zwischenstand lag im Hunderterbereich, schon vor Veröffentlichung war eine Zahl von mehr als 2.000 bekannt. Für Verletzte unter Zivilpersonen und vollständig zerstörte Geschäfte fehlen vergleichbare Gesamtzahlen. Eine spätere TikTok-Studie zeigt, dass Gewaltbilder im untersuchten Material deutlich weniger Aufrufe erhielten als Beiträge mit Forderungen.
 
 [Alle Kapitelprüfungen](../03_faktencheck.md)

@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die deutsche Originaluntertitelspur wurde vollständig gelesen. Sie reicht von 00:00:00 bis kurz vor 00:11:43. Die Untertitelpause 00:08:34–00:09:04 enthält eine bei 00:08:40 und 00:08:55 visuell kontrollierte Texttafel. Weitere Bildinhalte und die genaue Sprecheridentität wurden nicht systematisch überprüft. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab.
 
-Amtliche Daten, zeitgenössische Berichte und später veröffentlichte Auswertungen werden je Fundstelle zugeordnet. Einige Akteurs-, Wirkungs- und Bildaussagen bleiben offen. Keine durchgehende Ton- oder Bildprüfung.
+Die Nachprüfung hat alle zwölf offenen Sachdatensätze der Erstfassung bearbeitet und zwei zusätzliche Prüfgegenstände erfasst. Alle erfassten Aussagen haben ein Prüfergebnis. Bei nicht ausreichend belegbaren Aussagen dokumentiert der Bericht zwei Prüfwege und die verbleibende Beleglücke. Eine vollständige Sichtung der Bild- und Tonebene war nicht möglich.
 
 ## nrnpcqzhd44-A0016
 
@@ -254,7 +254,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** In der Debatte wird ein ursächlicher Zusammenhang zwischen Einwanderung und der konkreten Gewalt im Oktober hergestellt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -273,13 +273,13 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die politische Äußerung ist als Position dokumentiert. Protest- und Festnahmestatistiken sowie die Studie zu früher vorgeführten Minderjährigen liefern keinen belastbaren Kausalnachweis für den 17. Oktober. Herkunft, Staatsangehörigkeit, Motiv und Tatbeteiligung sind jeweils eigene Größen.
+Der Vance zugeschriebene Beitrag formuliert eine politische Deutung. Für eine Kausalprüfung reichen weder die amtlichen Ereigniszahlen noch die Untersuchung zu früher vorgeführten Minderjährigen. Die nachträgliche Auswertung zu einer vorläufigen Stichprobe von 186 Inhaftierten beschreibt überwiegend französische Staatsangehörige. Nationalität, Einwanderungsgeschichte, Tatmotiv und Ursache sind verschiedene Merkmale. Auch die spätere parlamentarische Anhörung behandelt Akteure und Einsatzablauf, liefert aber keinen vergleichenden Kausalnachweis für Einwanderung.
 
-Grundlage der Bewertung: Politische Zuschreibung und Datenumfang geprüft. Fallbezogene Kausalprüfung steht aus.
+Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen.
 
 ### Zugeordnete Quellen
 
@@ -292,8 +292,24 @@ Bewertungsuebergang: Erstprüfung.
 - [Bilan de la journée de mobilisation nationale du 24 octobre 2026](https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-nationale-du-24-octobre-2026) · Französisches Innenministerium, 25.10.2026
   Quellenzugriff am 2026-11-19. Gelesen. Amtlicher Rückvergleich mit dem 17. Oktober. Ereigniszahlen ohne Kausalanalyse.
 
+- [Mobilisation du 17 octobre : l’immigration a-t-elle été la cause des violences urbaines ?](https://lessurligneurs.eu/mobilisation-du-17-octobre-limmigration-a-t-elle-ete-la-cause-des-violences-urbaines/) · Les Surligneurs, Oktober 2026
+  Quellenzugriff am 2026-11-19. Recherche zur vorläufigen Ministeriumsnotiz via AFP und zu den Grenzen der Nationalitätsdaten gelesen. Die zugrunde liegende Notiz wurde nicht direkt eingesehen. Recherche zur vorläufigen Ministeriumsnotiz via AFP und zu den Grenzen der Nationalitätsdaten gelesen. Die zugrunde liegende Notiz wurde nicht direkt eingesehen.
+
+- [Audition de Laurent Nuñez sur les événements du 17 octobre 2026](https://www.assemblee-nationale.fr/dyn/docs/CRCANR5L17S2027PO59051N012.raw) · Assemblée nationale, 17. Legislaturperiode, Anhörungsprotokoll nach dem 17.10.2026
+  Quellenzugriff am 2026-11-19. Einleitende Fragen und Angaben des Innenministers zu beobachteten Gruppen gelesen. Amtliche Zuschreibung, keine unabhängige Feststellung der Täterschaft. Einleitende Fragen und Angaben des Innenministers zu beobachteten Gruppen gelesen. Amtliche Zuschreibung, keine unabhängige Feststellung der Täterschaft.
+
 ### Offene Fragen und Unsicherheiten
 
 - Welche fallbezogenen Daten und welcher Vergleich könnten die Kausalhypothese prüfen?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Repräsentativ erhobene Tatbeteiligung, eindeutig definierter Migrationsbezug und geeignete Vergleichsdaten für das Ereignis fehlen.
+
+- Durchgang 1 am 2026-11-19 (Codex): Die zeitgenössische Zuschreibung und den Zuschnitt amtlicher Erhebungen geprüft Gepruefte Quellen: S010, S007, S003. Ergebnis: Die Zuschreibung ist dokumentiert. Die Erhebungen sind nach Zeitraum und Gegenstand für einen Ursachentest ungeeignet.
+
+- Durchgang 2 am 2026-11-19 (Codex): Nach justiziellen Profilen zum konkreten Wochenende und einer amtlichen Rekonstruktion des 17. Oktober gesucht Gepruefte Quellen: S039, S040. Ergebnis: Die später veröffentlichten Angaben sind selektiv und identifizieren keinen ursächlichen Effekt.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

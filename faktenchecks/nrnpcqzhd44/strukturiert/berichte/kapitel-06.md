@@ -1,8 +1,8 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die deutsche Originaluntertitelspur wurde vollständig gelesen. Sie reicht von 00:00:00 bis kurz vor 00:11:43. Die Untertitelpause 00:08:34–00:09:04 enthält eine bei 00:08:40 und 00:08:55 visuell kontrollierte Texttafel. Weitere Bildinhalte und die genaue Sprecheridentität wurden nicht systematisch überprüft. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab.
 
-Amtliche Daten, zeitgenössische Berichte und später veröffentlichte Auswertungen werden je Fundstelle zugeordnet. Einige Akteurs-, Wirkungs- und Bildaussagen bleiben offen. Keine durchgehende Ton- oder Bildprüfung.
+Die Nachprüfung hat alle zwölf offenen Sachdatensätze der Erstfassung bearbeitet und zwei zusätzliche Prüfgegenstände erfasst. Alle erfassten Aussagen haben ein Prüfergebnis. Bei nicht ausreichend belegbaren Aussagen dokumentiert der Bericht zwei Prüfwege und die verbleibende Beleglücke. Eine vollständige Sichtung der Bild- und Tonebene war nicht möglich.
 
 ## nrnpcqzhd44-A0044
 
@@ -493,7 +493,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Islamistische Gruppen nutzten soziale Benachteiligung in den betroffenen Vierteln zur Radikalisierung.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -512,13 +512,13 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die Quellen zu räumlicher Benachteiligung betreffen andere Fragen. Für die behauptete Rekrutierung im konkreten Kontext fehlen identifizierte Fälle und Daten zu Mechanismen und Häufigkeit.
+Historische Stadtdaten belegen soziale Benachteiligung. Die Forschung zu in der Jugendjustiz erfassten Fällen zeigt unterschiedliche Wege in islamistische Milieus. Die ausgewerteten Fälle erfassen verschiedene soziale Profile und ermöglichen keine Aussage zur Häufigkeit gezielter Rekrutierung in den im Video angesprochenen Vierteln. Auch der Senatsbericht zu den Unruhen 2023 untersucht einen anderen Gegenstand.
 
-Grundlage der Bewertung: Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.
+Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen.
 
 ### Zugeordnete Quellen
 
@@ -528,9 +528,25 @@ Bewertungsuebergang: Erstprüfung.
 - [Émeutes de juin 2023 : comprendre, évaluer, réagir](https://www.senat.fr/rap/r23-521/r23-521_mono.html) · Französischer Senat, Bericht Nr. 521, April 2024
   Quellenzugriff am 2026-11-19. Gelesen. Vergleich 2005 und 2023 sowie Anhörung zu 2007. Untersuchung früherer Unruhen.
 
+- [Radicalité engagée, radicalités révoltées – fiche synthétique](https://www.cnape.fr/documents/rapport-bonelli_-fiche-synthetique_-rapport-radicalite-engagee-radicalites-revoltees/) · CNAPE, Zusammenfassung der Untersuchung von Laurent Bonelli und Fabien Carrié, 2018
+  Quellenzugriff am 2026-11-19. Methodik zu 133 Fällen aus der Jugendjustiz und verschiedene Verläufe in der Zusammenfassung gelesen. Methodik zu 133 Fällen aus der Jugendjustiz und verschiedene Verläufe in der Zusammenfassung gelesen.
+
+- [Psychiatrie et radicalisation](https://www.cipdr.gouv.fr/wp-content/uploads/2020/07/FFP-rapport-Psychiatrie-et-Radicalisation-Janvier2020-valide%CC%81-MB-26022020.pdf) · Fédération française de psychiatrie, Januar 2020, veröffentlicht durch CIPDR
+  Quellenzugriff am 2026-11-19. Abschnitt zu unterschiedlichen sozialen Profilen in Jugendjustiz und bei verübten Taten gelesen. Abschnitt zu unterschiedlichen sozialen Profilen in Jugendjustiz und bei verübten Taten gelesen.
+
 ### Offene Fragen und Unsicherheiten
 
 - Welche Gruppen, Orte, Zeiträume und dokumentierten Rekrutierungsfälle sind gemeint?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Datierte Fallbelege zu handelnden Gruppen, betroffenen Vierteln und beobachteten Rekrutierungswegen.
+
+- Durchgang 1 am 2026-11-19 (Codex): Historische Stadtanalyse und die parlamentarische Untersuchung früherer Unruhen auf Ortsbezug und Gegenstand geprüft Gepruefte Quellen: S027, S028. Ergebnis: Benachteiligung ist dokumentiert. Die Quellen erfassen keine gezielte Rekrutierung im Oktober 2026.
+
+- Durchgang 2 am 2026-11-19 (Codex): Forschung zu Jugendjustiz, Sozialprofilen und Radikalisierung in Frankreich verglichen Gepruefte Quellen: S045, S046. Ergebnis: Die Studien zeigen heterogene Verläufe und keine direkte Zuordnung zu den Protesten oder zu bestimmten Gruppen und Vierteln.
 
 ## nrnpcqzhd44-A0055
 
@@ -538,7 +554,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Linksextreme Bewegungen gingen Bündnisse mit islamistischen Gruppen ein.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -557,22 +573,41 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Im Untertitelabschnitt werden keine beteiligten Organisationen oder belegten gemeinsamen Entscheidungen benannt. Die zeitnahe Regierungszuschreibung zu ultralinken Gruppen dokumentiert ein anderes Merkmal und kann ein solches Bündnis nicht belegen.
+Die Regierung legte dem Untersuchungsausschuss ihre Zuschreibung an ultralinke Gruppen dar. Die Anhörung belegt diese Zuschreibung, aber kein gemeinsames Vorgehen mit einer identifizierten islamistischen Organisation. Zeitgenössische Berichte und spätere Deutungen enthalten gegensätzliche Interpretationen. Das Auftreten mehrerer Gruppen am selben Tag reicht für einen Bündnisnachweis nicht aus.
 
-Grundlage der Bewertung: Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.
+Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen.
 
 ### Zugeordnete Quellen
 
 - [Schwere Ausschreitungen bei Massenprotesten in Frankreich](https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html) · ARD-aktuell, 18.10.2026
   Quellenzugriff am 2026-11-19. Gelesen. Regierungsangaben, Brand in Limoges und frühere Gelbwestenbewegung. Regierungsposition zu den Ausschreitungen.
 
+- [Audition de Laurent Nuñez sur les événements du 17 octobre 2026](https://www.assemblee-nationale.fr/dyn/docs/CRCANR5L17S2027PO59051N012.raw) · Assemblée nationale, 17. Legislaturperiode, Anhörungsprotokoll nach dem 17.10.2026
+  Quellenzugriff am 2026-11-19. Einleitende Fragen und Angaben des Innenministers zu beobachteten Gruppen gelesen. Amtliche Zuschreibung, keine unabhängige Feststellung der Täterschaft. Einleitende Fragen und Angaben des Innenministers zu beobachteten Gruppen gelesen. Amtliche Zuschreibung, keine unabhängige Feststellung der Täterschaft.
+
+- [En Israël, les violences du 17 octobre en France associées à l’islam et au soutien des Palestiniens](https://www.lemonde.fr/international/article/2026/10/21/en-israel-les-violences-en-france-associees-a-l-islam-et-au-soutien-des-palestiniens_6798206_3210.html) · Le Monde, 21.10.2026
+  Quellenzugriff am 2026-11-19. Zugängliche Passagen zu unterschiedlichen Deutungen und berichteten Fahnen gelesen. Zugängliche Passagen zu unterschiedlichen Deutungen und berichteten Fahnen gelesen.
+
+- [17 octobre : entre 550 000 et 800 000 manifestants contre la vie chère, des affrontements à Paris, Lyon et Marseille](https://lerepe.re/articles/mobilisation-17-octobre-vie-chere-gilets-jaunes-lyceens-violences/) · Le Repère, Oktober 2026
+  Quellenzugriff am 2026-11-19. Abschnitt mit den von der Redaktion beschriebenen Bildbelegen und Meldungen für Paris, Lille und Marseille gelesen. Abschnitt mit den von der Redaktion beschriebenen Bildbelegen und Meldungen für Paris, Lille und Marseille gelesen.
+
 ### Offene Fragen und Unsicherheiten
 
 - Welche Organisationen sollen wann koordiniert gehandelt haben und was dokumentiert das?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Namen beider Organisationen und datierte Belege für Absprachen oder koordinierte Handlungen im gemeinten Kontext.
+
+- Durchgang 1 am 2026-11-19 (Codex): Regierungsaussage aus der zeitgenössischen Berichterstattung mit dem späteren Anhörungsprotokoll verglichen Gepruefte Quellen: S002, S040. Ergebnis: Beide behandeln ultralinke Akteure. Ein konkreter islamistischer Bündnispartner ist daraus nicht belegt.
+
+- Durchgang 2 am 2026-11-19 (Codex): Nach berichteten gemeinsamen Aktionen und benannten Partnern über getrennte Berichterstattungswege gesucht Gepruefte Quellen: S047, S048. Ergebnis: Es finden sich politische Deutungen und Berichte über verschiedene Beteiligte, aber kein überprüfbarer Nachweis eines gemeinsamen Vorgehens.
 
 ## nrnpcqzhd44-A0056
 
@@ -580,7 +615,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine geteilte Position zum Nahostkonflikt sei das Bindeglied solcher Bündnisse.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -599,21 +634,41 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Für diese Motivzuschreibung fehlen konkrete gemeinsame Erklärungen oder Handlungen identifizierter Organisationen.
+Einzelne Aufrufe und Fotos zeigen, dass Palästinasolidarität für manche Beteiligte ein Anliegen war. Der veröffentlichte Aufruf für Nîmes dokumentiert eine eigene Kundgebung mit einem konkret benannten Anliegen. Weder dieser Aufruf noch die Berichte zu anderen Orten zeigen, dass eine gemeinsame Nahostposition das Motiv eines Bündnisses zwischen den im Video beschriebenen Gruppen war.
 
-Grundlage der Bewertung: Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.
+Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [En Israël, les violences du 17 octobre en France associées à l’islam et au soutien des Palestiniens](https://www.lemonde.fr/international/article/2026/10/21/en-israel-les-violences-en-france-associees-a-l-islam-et-au-soutien-des-palestiniens_6798206_3210.html) · Le Monde, 21.10.2026
+  Quellenzugriff am 2026-11-19. Zugängliche Passagen zu unterschiedlichen Deutungen und berichteten Fahnen gelesen. Zugängliche Passagen zu unterschiedlichen Deutungen und berichteten Fahnen gelesen.
+
+- [17 octobre : entre 550 000 et 800 000 manifestants contre la vie chère, des affrontements à Paris, Lyon et Marseille](https://lerepe.re/articles/mobilisation-17-octobre-vie-chere-gilets-jaunes-lyceens-violences/) · Le Repère, Oktober 2026
+  Quellenzugriff am 2026-11-19. Abschnitt mit den von der Redaktion beschriebenen Bildbelegen und Meldungen für Paris, Lille und Marseille gelesen. Abschnitt mit den von der Redaktion beschriebenen Bildbelegen und Meldungen für Paris, Lille und Marseille gelesen.
+
+- [AFPS – STOP génocide et colonisation – Sanctions contre Israël](https://www.maintenant-le-mouvement.org/mobiliser/mobilisations/afps-stop-genocide-et-colonisation-sanctions-contre-israel-ds10375) · Démosphère Gard, Aufruf zur Veranstaltung am 17.10.2026 in Nîmes, gespiegelt bei Maintenant!
+  Quellenzugriff am 2026-11-19. Öffentlichen Veranstaltungsaufruf mit Anlass und aufrufenden Organisationen gelesen. Selbstauskunft zu dieser Kundgebung. Öffentlichen Veranstaltungsaufruf mit Anlass und aufrufenden Organisationen gelesen. Selbstauskunft zu dieser Kundgebung.
+
+- [Audition de Laurent Nuñez sur les événements du 17 octobre 2026](https://www.assemblee-nationale.fr/dyn/docs/CRCANR5L17S2027PO59051N012.raw) · Assemblée nationale, 17. Legislaturperiode, Anhörungsprotokoll nach dem 17.10.2026
+  Quellenzugriff am 2026-11-19. Einleitende Fragen und Angaben des Innenministers zu beobachteten Gruppen gelesen. Amtliche Zuschreibung, keine unabhängige Feststellung der Täterschaft. Einleitende Fragen und Angaben des Innenministers zu beobachteten Gruppen gelesen. Amtliche Zuschreibung, keine unabhängige Feststellung der Täterschaft.
 
 ### Offene Fragen und Unsicherheiten
 
 - Welche konkreten Organisationen, Stellungnahmen und gemeinsamen Aktionen sind gemeint?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Gemeinsame Erklärungen oder dokumentierte Absprachen eindeutig identifizierter Gruppen.
+
+- Durchgang 1 am 2026-11-19 (Codex): Zeitnahe Berichte auf genannte Ziele und Zuschreibungen geprüft Gepruefte Quellen: S047, S048. Ergebnis: Palästinasolidarität erscheint neben anderen Anliegen. Die beobachteten Motive beziehen sich auf Einzelpersonen oder konkrete Kundgebungen.
+
+- Durchgang 2 am 2026-11-19 (Codex): Direkten Veranstaltungsaufruf vom selben Tag und amtliche Einordnung der Gewalt getrennt herangezogen Gepruefte Quellen: S055, S040. Ergebnis: Der Aufruf belegt ein konkretes Anliegen. Das Protokoll bestätigt keine gemeinsame Bündnismotivation.
 
 ## nrnpcqzhd44-A0057
 
@@ -621,7 +676,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Bei den Ausschreitungen seien regelmäßig Symbole zu sehen, die zu den behaupteten Verbindungen passen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -640,21 +695,36 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Der Untertitel benennt die Symbole nicht eindeutig. Selbst ein sichtbares Symbol müsste einem Ort, einem Ereignis und einer Person zugeordnet werden. Seine Verwendung allein würde keine organisatorische Zusammenarbeit nachweisen.
+Bei den Protesten am 17. Oktober sind palästinensische Fahnen an mehreren Orten journalistisch dokumentiert. Die Untertitel benennen das gemeinte Symbol nicht. Falls diese Fahnen gemeint sind, stützen die dokumentierten Einzelfälle ihr Auftreten in Protestzügen. Eine Häufigkeit bei Gewalthandlungen und eine Bedeutung als Zeichen eines Bündnisses sind daraus nicht abzuleiten. VerificaRTVE identifizierte zudem gefälschte Fahnenmotive in sozialen Netzwerken. Die konkrete Bildauswahl des YouTube-Videos ließ sich bei dieser Nachprüfung nicht zusätzlich ansehen.
 
-Grundlage der Bewertung: Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.
+Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [En Israël, les violences du 17 octobre en France associées à l’islam et au soutien des Palestiniens](https://www.lemonde.fr/international/article/2026/10/21/en-israel-les-violences-en-france-associees-a-l-islam-et-au-soutien-des-palestiniens_6798206_3210.html) · Le Monde, 21.10.2026
+  Quellenzugriff am 2026-11-19. Zugängliche Passagen zu unterschiedlichen Deutungen und berichteten Fahnen gelesen. Zugängliche Passagen zu unterschiedlichen Deutungen und berichteten Fahnen gelesen.
+
+- [17 octobre : entre 550 000 et 800 000 manifestants contre la vie chère, des affrontements à Paris, Lyon et Marseille](https://lerepe.re/articles/mobilisation-17-octobre-vie-chere-gilets-jaunes-lyceens-violences/) · Le Repère, Oktober 2026
+  Quellenzugriff am 2026-11-19. Abschnitt mit den von der Redaktion beschriebenen Bildbelegen und Meldungen für Paris, Lille und Marseille gelesen. Abschnitt mit den von der Redaktion beschriebenen Bildbelegen und Meldungen für Paris, Lille und Marseille gelesen.
+
+- [Desinformación sobre las protestas en Francia: vídeos descontextualizados e imágenes generadas con IA](https://www.rtve.es/noticias/20261019/desinformacion-protestas-francia-videos-imagenes-ia/17273662.shtml) · VerificaRTVE, 19.10.2026
+  Quellenzugriff am 2026-11-19. Recherche zu zwei konkreten künstlich erzeugten Fahnenmotiven gelesen. Kein Abgleich dieser Motive mit dem Video von MrWissen2go. Recherche zu zwei konkreten künstlich erzeugten Fahnenmotiven gelesen. Kein Abgleich dieser Motive mit dem Video von MrWissen2go.
 
 ### Offene Fragen und Unsicherheiten
 
 - Welche Bilder, Symbole, Aufnahmeorte und Daten lassen sich verifizieren?
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-19 (Codex): Zeitnahe Berichte und separat zusammengestellte Bildbeschreibungen zu mehreren Städten verglichen Gepruefte Quellen: S047, S048. Ergebnis: Palästinensische Fahnen wurden in verschiedenen Protestzügen beschrieben. Das sagt noch nichts über konkrete Gewaltakte aus.
+
+- Durchgang 2 am 2026-11-19 (Codex): Bildbehauptungen zum selben Datum anhand einer gezielten visuellen Verifikation durch RTVE abgegrenzt Gepruefte Quellen: S049. Ergebnis: Es gibt auch nachweislich falsche Umlaufbilder. Eine Zuordnung zum Video wurde nicht vorgenommen.
 
 ## nrnpcqzhd44-A0058
 
@@ -662,7 +732,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die beschriebenen sozialen Bedingungen erhöhten bei jungen Menschen die Anfälligkeit für islamistischen und linksextremen Aktivismus.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -681,25 +751,38 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die zugänglichen Quellen zu Ungleichheit und Ausschreitungen messen keine Rekrutierung oder Einstellungsänderung für die beiden Ideologien. Die pauschale Ursache bleibt offen.
+Die Studien zeigen heterogene soziale und biografische Konstellationen. Die Jugendjustizuntersuchung verarbeitet ausgewählte Fälle und liefert keine Risikorate in der Gesamtbevölkerung. Die Interviewstudie zur außerparlamentarischen Linken untersucht unterschiedliche Lebensläufe. Aus beiden Quellen folgt keine gemeinsame Ursache für islamistische und linksextreme Hinwendung bei jungen Menschen im Herbst 2026.
 
-Grundlage der Bewertung: Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.
+Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen.
 
 ### Zugeordnete Quellen
 
-- [Émeutes de juin 2023 : comprendre, évaluer, réagir](https://www.senat.fr/rap/r23-521/r23-521_mono.html) · Französischer Senat, Bericht Nr. 521, April 2024
-  Quellenzugriff am 2026-11-19. Gelesen. Vergleich 2005 und 2023 sowie Anhörung zu 2007. Kontext früherer Unruhen.
+- [Radicalité engagée, radicalités révoltées – fiche synthétique](https://www.cnape.fr/documents/rapport-bonelli_-fiche-synthetique_-rapport-radicalite-engagee-radicalites-revoltees/) · CNAPE, Zusammenfassung der Untersuchung von Laurent Bonelli und Fabien Carrié, 2018
+  Quellenzugriff am 2026-11-19. Methodik zu 133 Fällen aus der Jugendjustiz und verschiedene Verläufe in der Zusammenfassung gelesen. Methodik zu 133 Fällen aus der Jugendjustiz und verschiedene Verläufe in der Zusammenfassung gelesen.
 
-- [Niveau de vie et pauvreté en 2024](https://www.insee.fr/fr/statistiques/9019316) · Insee Première Nr. 2117, Juli 2026, Daten bis 2024
-  Quellenzugriff am 2026-11-19. Gelesen. Zeitreihen und Definitionen der Verteilungsmaße. Einkommensverteilung ohne Extremismusmaß.
+- [Psychiatrie et radicalisation](https://www.cipdr.gouv.fr/wp-content/uploads/2020/07/FFP-rapport-Psychiatrie-et-Radicalisation-Janvier2020-valide%CC%81-MB-26022020.pdf) · Fédération française de psychiatrie, Januar 2020, veröffentlicht durch CIPDR
+  Quellenzugriff am 2026-11-19. Abschnitt zu unterschiedlichen sozialen Profilen in Jugendjustiz und bei verübten Taten gelesen. Abschnitt zu unterschiedlichen sozialen Profilen in Jugendjustiz und bei verübten Taten gelesen.
+
+- [Engagement radical, extrême ou violent](https://www.sens-public.org/articles/1254/) · Sens public, 2017, qualitative Interviewstudie
+  Quellenzugriff am 2026-11-19. Studienanlage und Schlussfolgerungen zu heterogenen Lebensläufen in der französischen außerparlamentarischen Linken gelesen. Studienanlage und Schlussfolgerungen zu heterogenen Lebensläufen in der französischen außerparlamentarischen Linken gelesen.
 
 ### Offene Fragen und Unsicherheiten
 
 - Welche Verlaufsdaten stützen den angenommenen Zusammenhang jeweils für beide Ideologien?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Getrennte, vergleichbare Verlaufsdaten und eine für beide Phänomene nachvollziehbare Messung der sozialen Belastungen.
+
+- Durchgang 1 am 2026-11-19 (Codex): Fallauswahl und soziale Profile in der Forschung zu islamistischer Radikalisierung geprüft Gepruefte Quellen: S045, S046. Ergebnis: Unterschiedliche Lebenslagen und Selektionsgrenzen verhindern eine allgemeine Risikozuschreibung.
+
+- Durchgang 2 am 2026-11-19 (Codex): Unabhängig davon empirische Forschung zu außerparlamentarischem linkem Aktivismus und Gewalt in Frankreich gelesen Gepruefte Quellen: S050. Ergebnis: Qualitative Lebensläufe erklären Einzelfälle, erlauben aber keine Schätzung des behaupteten gemeinsamen Risikos.
 
 ## nrnpcqzhd44-A0059
 
@@ -707,7 +790,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Auch Teile der sozial benachteiligten Bevölkerung mit starkem nationalem Selbstverständnis würden sich radikalisieren.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -726,21 +809,35 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die Aussage nennt keine untersuchte Population oder Zeitreihe. Nationale Selbstbeschreibung und Radikalisierung bräuchten voneinander unabhängige Kriterien.
+Die Ipsos-Erhebung nach dem Oktoberwochenende untersucht gesellschaftliche und politische Einstellungen. Die Wahlbefragung 2024 weist Unterschiede nach sozialer Lage aus. Eine Wahlpräferenz, eine nationale Selbstbeschreibung und die Billigung politischer Gewalt sind jedoch verschiedene Merkmale. Die Erhebungen identifizieren keine im Video klar umrissene Gruppe, deren Radikalisierung über Zeit gemessen wurde.
 
-Grundlage der Bewertung: Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.
+Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Fractures françaises 2026](https://www.ipsos.com/fr-fr/fractures-francaises-2026?trk=article-ssr-frontend-pulse_little-text-block) · Ipsos bva–CESI und Partner, November 2026, Feldzeit 30.10.–03.11.2026
+  Quellenzugriff am 2026-11-19. Untersuchungsziel, Stichprobe und Bericht zu politischen Einstellungen gelesen. Untersuchungsziel, Stichprobe und Bericht zu politischen Einstellungen gelesen.
+
+- [Sociologie des électorats – Législatives 2024](https://www.ipsos.com/fr-fr/legislatives-2024/sociologie-des-electorats-legislatives-2024) · Ipsos und Talan, 2024, erster Wahlgang der Parlamentswahl
+  Quellenzugriff am 2026-11-19. Befragungsbefunde zu sozialer Zusammensetzung und Wahlverhalten gelesen. Befragungsbefunde zu sozialer Zusammensetzung und Wahlverhalten gelesen.
 
 ### Offene Fragen und Unsicherheiten
 
 - Welche Erhebung misst den behaupteten Trend und bei welcher Gruppe?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Definierte Untersuchungsgruppe und vergleichbare Zeitreihen zu politischer Gewaltbereitschaft oder Handlungen.
+
+- Durchgang 1 am 2026-11-19 (Codex): In der Ipsos-Erhebung nach Messgrößen zu politischen Einstellungen und Gewalt gesucht Gepruefte Quellen: S051. Ergebnis: Die Befragung bietet Kontext, misst aber nicht den behaupteten Verlauf in der genannten Gruppe.
+
+- Durchgang 2 am 2026-11-19 (Codex): Frühere Wahlbefragung nach sozialer Lage als getrennten Prüfweg herangezogen Gepruefte Quellen: S052. Ergebnis: Die Wahlsoziologie belegt unterschiedliche Parteipräferenzen, aber keine Radikalisierung der beschriebenen Menschen.
 
 ## nrnpcqzhd44-A0060
 
@@ -789,7 +886,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Rassemblement National profitiere politisch von der beschriebenen gesellschaftlichen Radikalisierung.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -808,13 +905,13 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Ipsos dokumentiert bereits vor dem Oktoberwochenende einen Vorsprung Le Pens und danach weiter hohe Werte. Das ist kein Wirkungsnachweis für die genannte Ursache.
+Marine Le Pen führte bereits in der Ipsos-Befragung im September und blieb nach dem Protestwochenende in der dort geprüften Umfrage vorne. Die neue Befragung zu gesellschaftlichen Einstellungen und die Wahlsoziologie 2024 liefern Kontext. Sie verknüpfen die behauptete Radikalisierung aber nicht ursächlich mit zusätzlichen Stimmen oder Wahlabsichten für den RN.
 
-Grundlage der Bewertung: Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.
+Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen.
 
 ### Zugeordnete Quellen
 
@@ -824,9 +921,25 @@ Bewertungsuebergang: Erstprüfung.
 - [Présidentielle 2027 : Mélenchon progresse, Le Pen reste en tête](https://www.ipsos.com/fr-fr/presidentielle-2027-melenchon-progresse-le-pen-reste-en-tete) · Ipsos bva–CESI für Le Parisien, Feldzeit 21.–22.10.2026
   Quellenzugriff am 2026-11-19. Gelesen. Spätere Anbietererhebung. Erhebung nach dem Video.
 
+- [Fractures françaises 2026](https://www.ipsos.com/fr-fr/fractures-francaises-2026?trk=article-ssr-frontend-pulse_little-text-block) · Ipsos bva–CESI und Partner, November 2026, Feldzeit 30.10.–03.11.2026
+  Quellenzugriff am 2026-11-19. Untersuchungsziel, Stichprobe und Bericht zu politischen Einstellungen gelesen. Untersuchungsziel, Stichprobe und Bericht zu politischen Einstellungen gelesen.
+
+- [Sociologie des électorats – Législatives 2024](https://www.ipsos.com/fr-fr/legislatives-2024/sociologie-des-electorats-legislatives-2024) · Ipsos und Talan, 2024, erster Wahlgang der Parlamentswahl
+  Quellenzugriff am 2026-11-19. Befragungsbefunde zu sozialer Zusammensetzung und Wahlverhalten gelesen. Befragungsbefunde zu sozialer Zusammensetzung und Wahlverhalten gelesen.
+
 ### Offene Fragen und Unsicherheiten
 
 - Welche Daten verbinden Einstellungsänderungen kausal mit zusätzlichen Stimmen für den RN?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Vergleichbare Daten über individuelle Einstellungsänderungen, Wahlabsicht und alternative Erklärungen.
+
+- Durchgang 1 am 2026-11-19 (Codex): Umfrageberichte vor und nach dem Ereignis abgeglichen Gepruefte Quellen: S029, S030. Ergebnis: Der Vorsprung ist auf beiden Seiten des Stichtags sichtbar. Eine bloße Abfolge bestimmt seine Ursache nicht.
+
+- Durchgang 2 am 2026-11-19 (Codex): Separate Erhebungen zu gesellschaftlichen Einstellungen und sozialer Zusammensetzung des RN-Elektorats geprüft Gepruefte Quellen: S051, S052. Ergebnis: Die Erhebungen bieten keine Identifikation eines Effekts der beschriebenen Radikalisierung.
 
 ## nrnpcqzhd44-A0062
 
@@ -921,7 +1034,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Entwicklung sei international sichtbar und in Frankreich unter anderem aufgrund seiner Kolonialgeschichte besonders ausgeprägt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -940,22 +1053,38 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die historische Einordnung beschreibt Verbindungen zwischen Migration und französischer Kolonialgeschichte. Für einen internationalen Intensitätsvergleich und eine kausale Erklärung fehlen definierte Indikatoren und Vergleichsfälle.
+Historische Verbindungen zwischen Frankreichs Kolonialgeschichte und Einwanderung sind dokumentiert. Vergleichende Arbeiten zeigen auch urbane Unruhen in Großbritannien. Sie vergleichen jeweils konkrete Episoden und setzen weder einen gemeinsamen Maßstab für Gesellschaftsspaltung und Radikalisierung noch bestimmen sie einen französischen Sonderfall im Oktober 2026. Das Video lässt zudem offen, welche der zuvor genannten Entwicklungen verglichen wird.
 
-Grundlage der Bewertung: Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.
+Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen.
 
 ### Zugeordnete Quellen
 
 - [Problemgebiet Banlieue: Konflikte und Ausgrenzung in den französischen Vorstädten](https://www.bpb.de/themen/europa/frankreich/152511/problemgebiet-banlieue-konflikte-und-ausgrenzung-in-den-franzoesischen-vorstaedten/) · Simona Gnade, Bundeszentrale für politische Bildung, 21.01.2013, u. a. Daten 2009/2010
   Quellenzugriff am 2026-11-19. Gelesen. Historischer Kontext der im Video sichtbaren Tafel, Begriff und Stadtpolitik. Historischer Frankreich-Kontext.
 
+- [Riots and public policy: a comparative socio-territorial analysis of the 2023 riots](https://www.sciencespo.fr/liepp/en/content/riots-and-public-policy-comparative-socio-territorial-analysis-2023-riots.html) · Sciences Po, LIEPP, Projektbeschreibung zur Untersuchung der Unruhen 2023
+  Quellenzugriff am 2026-11-19. Fragestellung und räumlichen Vergleichsansatz gelesen. Projektbeschreibung ohne Nachweis für einen Ländervergleich 2026. Fragestellung und räumlichen Vergleichsansatz gelesen. Projektbeschreibung ohne Nachweis für einen Ländervergleich 2026.
+
+- [Riots in the UK and France](https://kclpure.kcl.ac.uk/ws/files/35114921/moranwaddington_OnlineFirst.pdf) · Matthew Moran und David Waddington, vergleichende Studie zu französischen und britischen Unruhen, 2016
+  Quellenzugriff am 2026-11-19. Einleitung, historische Vergleichsfälle und geografische Grenzen gelesen. Einleitung, historische Vergleichsfälle und geografische Grenzen gelesen.
+
 ### Offene Fragen und Unsicherheiten
 
 - Welche Entwicklung ist gemeint, wie wird sie gemessen und welche Vergleichsländer sind einschlägig?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Gemeinsame Indikatoren für klar bezeichnete Entwicklungen, Vergleichsländer und ein nachvollziehbarer Test der behaupteten historischen Ursache.
+
+- Durchgang 1 am 2026-11-19 (Codex): Historischen Frankreich-Kontext und sozialräumliche Forschung zu den Ausschreitungen 2023 geprüft Gepruefte Quellen: S027, S053. Ergebnis: Beide liefern Kontext innerhalb Frankreichs und keinen zeitgleichen internationalen Maßstab.
+
+- Durchgang 2 am 2026-11-19 (Codex): Ländervergleich mit britischen Unruhen gesucht und die Anlage eines direkten historischen Vergleichs gelesen Gepruefte Quellen: S054. Ergebnis: Die Vergleichsfälle zeigen übernationale Parallelen, messen aber nicht die behauptete besondere Stärke Frankreichs 2026.
 
 ## nrnpcqzhd44-A0065
 
@@ -1086,6 +1215,90 @@ Bewertungsuebergang: Erstprüfung.
 ### Zugeordnete Quellen
 
 Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## nrnpcqzhd44-A0072
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Banlieue bezeichnet im Französischen die Vororte einer Großstadt.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:08:26–00:08:31](https://www.youtube.com/watch?v=nrnpcqzhd44&t=506s) · nicht bestaetigt; Kandidat: SP01 · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.
+
+Grundlage des Aussagebezugs: Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle der eigenen Paraphrase.
+
+Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die historische Quelle erläutert, dass der Ausdruck geografisch die Vororte insgesamt umfasst und im öffentlichen Sprachgebrauch häufig auf benachteiligte Großwohnsiedlungen verengt wird. Der Begriff allein bezeichnet weder eine Einkommensklasse noch einen Einwanderungsstatus.
+
+Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und der gelesenen bpb-Fundstelle.
+
+Uebernahme: Als eigener Prüfgegenstand bei der Nachprüfung ergänzt.
+
+Bewertungsuebergang: Erstbewertung 19.11.2026 (Codex).
+
+### Zugeordnete Quellen
+
+- [Problemgebiet Banlieue: Konflikte und Ausgrenzung in den französischen Vorstädten](https://www.bpb.de/themen/europa/frankreich/152511/problemgebiet-banlieue-konflikte-und-ausgrenzung-in-den-franzoesischen-vorstaedten/) · Simona Gnade, Bundeszentrale für politische Bildung, 21.01.2013, u. a. Daten 2009/2010
+  Quellenzugriff am 2026-11-19. Gelesen. Historischer Kontext der im Video sichtbaren Tafel, Begriff und Stadtpolitik. Begriffsklärung der historischen bpb-Darstellung.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## nrnpcqzhd44-A0073
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die eingeblendete historische Darstellung beschreibt eine zunehmende Konzentration sozial benachteiligter Menschen in den behandelten Vorstädten.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:08:55–00:08:56](https://www.youtube.com/watch?v=nrnpcqzhd44&t=535s) · nicht bestaetigt · Fremdbezug · Kontrolliert
+  Zeitpraezision: Kontrolliert. Sprecherzuordnung: **Ungeklärt**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Stumm erfasste Texttafel ohne zugeordneten Sprecher.
+
+Grundlage des Aussagebezugs: Als fremde Wiedergabe gekennzeichnete Texttafel.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Sichtprobe der Tafel am angegebenen Playerzeitpunkt.
+
+Zeitgrundlage: Direkte Sichtkontrolle im YouTube-Player bei 08:40 und 08:55, keine Kontrolle der exakten Einblendgrenzen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die in der Einblendung genannte historische Darstellung beschreibt Wegzug, Zuzug und Arbeitslosigkeit als zusammenhängende Prozesse in bestimmten Großwohnsiedlungen. Sie dokumentiert einen historischen Erklärungsansatz. Sie erlaubt keinen Schluss auf sämtliche Vororte und ersetzt keine Messung der heutigen Verteilung.
+
+Grundlage der Bewertung: Nachprüfung der bereits direkt kontrollierten Texttafel und der gelesenen bpb-Fundstelle.
+
+Uebernahme: Als eigener Prüfgegenstand bei der Nachprüfung ergänzt.
+
+Bewertungsuebergang: Erstbewertung 19.11.2026 (Codex).
+
+### Zugeordnete Quellen
+
+- [Problemgebiet Banlieue: Konflikte und Ausgrenzung in den französischen Vorstädten](https://www.bpb.de/themen/europa/frankreich/152511/problemgebiet-banlieue-konflikte-und-ausgrenzung-in-den-franzoesischen-vorstaedten/) · Simona Gnade, Bundeszentrale für politische Bildung, 21.01.2013, u. a. Daten 2009/2010
+  Quellenzugriff am 2026-11-19. Gelesen. Historischer Kontext der im Video sichtbaren Tafel, Begriff und Stadtpolitik. Historische Darstellung zur sozialen Zusammensetzung der behandelten Großwohnsiedlungen.
 
 ### Offene Fragen und Unsicherheiten
 

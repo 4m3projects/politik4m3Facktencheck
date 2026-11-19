@@ -10,6 +10,6 @@ Der Beitrag nennt Gewalt von Beteiligten und Polizeieinsätze. Auf die Regierung
 
 ## Fazit und offene Punkte
 
-Die Regierungsposition und einzelne Plünderungen sind dokumentiert. Wer frühe Gewalt organisierte oder ausübte und welche Motive dahinterstanden, bedarf konkreter fallbezogener Belege.
+Die Regierungsposition und einzelne Plünderungen sind dokumentiert. Wer frühe Gewalt organisierte oder ausübte und welche Motive dahinterstanden, bedarf konkreter fallbezogener Belege. Die spätere Untersuchung zu einer Auswahl Inhaftierter bildet weder alle Gewalttaten noch einen ursächlichen Zusammenhang mit Einwanderung ab.
 
 [Alle Kapitelprüfungen](../03_faktencheck.md)

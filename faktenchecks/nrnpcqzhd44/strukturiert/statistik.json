@@ -1,61 +1,61 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Die deutsche Originaluntertitelspur wurde vollständig gelesen. Sie reicht von 00:00:00 bis kurz vor 00:11:43. Die Untertitelpause 00:08:34–00:09:04 enthält eine bei 00:08:40 und 00:08:55 visuell kontrollierte Texttafel. Weitere Bildinhalte und die genaue Sprecheridentität wurden nicht systematisch überprüft. Keine Statistik des vollständigen Videos.",
+  "coverageNote": "Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab.",
   "videoId": "nrnpcqzhd44",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 71,
-  "uniqueStatements": 66,
-  "referenceOnlyStatements": 5,
+  "statementRecords": 73,
+  "uniqueStatements": 67,
+  "referenceOnlyStatements": 6,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 81,
+  "assertionOccurrences": 82,
   "additionalAssertionOccurrences": 15,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
-  "referenceOccurrences": 8,
+  "referenceOccurrences": 9,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 11,
+    "Offen": 0,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 0,
-    "Abgeschlossen": 55
+    "Abgeschlossen": 67
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 56,
+    "Tatsachenbehauptung": 57,
     "Meinung": 6,
     "Prognose": 4
   },
-  "completedFacts": 45,
-  "openFacts": 11,
+  "completedFacts": 57,
+  "openFacts": 0,
   "inProgressFacts": 0,
   "unverifiableFacts": 0,
-  "percentageDenominator": 45,
+  "percentageDenominator": 57,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 17,
-      "completedFactPercent": 37.8
+      "completedCount": 18,
+      "completedFactPercent": 31.6
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 20,
-      "completedFactPercent": 44.4
+      "completedCount": 22,
+      "completedFactPercent": 38.6
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 6,
-      "completedFactPercent": 13.3
+      "completedCount": 7,
+      "completedFactPercent": 12.3
     },
     {
       "category": "Widerlegt",
       "completedCount": 2,
-      "completedFactPercent": 4.4
+      "completedFactPercent": 3.5
     },
     {
       "category": "Nicht ausreichend belegbar",
-      "completedCount": 0,
-      "completedFactPercent": 0.0
+      "completedCount": 8,
+      "completedFactPercent": 14.0
     },
     {
       "category": "Meinung / Prognose",
@@ -109,18 +109,18 @@
         ]
       }
     ],
-    "eligibleFacts": 56,
+    "eligibleFacts": 57,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 56,
-    "factsWithUncertainAttribution": 56,
+    "factsWithoutReliablePerson": 57,
+    "factsWithUncertainAttribution": 57,
     "factsWithUncertainOwnRole": 0,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 83,
-      "Ungeklärt": 6
+      "Plausibel": 84,
+      "Ungeklärt": 7
     },
     "occurrenceRoleStatusCounts": {
-      "Bestätigt": 89,
+      "Bestätigt": 91,
       "Plausibel": 0,
       "Ungeklärt": 0
     }

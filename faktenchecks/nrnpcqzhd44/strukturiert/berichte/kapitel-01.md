@@ -1,8 +1,8 @@
 # Kapitel 01: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die deutsche Originaluntertitelspur wurde vollständig gelesen. Sie reicht von 00:00:00 bis kurz vor 00:11:43. Die Untertitelpause 00:08:34–00:09:04 enthält eine bei 00:08:40 und 00:08:55 visuell kontrollierte Texttafel. Weitere Bildinhalte und die genaue Sprecheridentität wurden nicht systematisch überprüft. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab.
 
-Amtliche Daten, zeitgenössische Berichte und später veröffentlichte Auswertungen werden je Fundstelle zugeordnet. Einige Akteurs-, Wirkungs- und Bildaussagen bleiben offen. Keine durchgehende Ton- oder Bildprüfung.
+Die Nachprüfung hat alle zwölf offenen Sachdatensätze der Erstfassung bearbeitet und zwei zusätzliche Prüfgegenstände erfasst. Alle erfassten Aussagen haben ein Prüfergebnis. Bei nicht ausreichend belegbaren Aussagen dokumentiert der Bericht zwei Prüfwege und die verbleibende Beleglücke. Eine vollständige Sichtung der Bild- und Tonebene war nicht möglich.
 
 ## nrnpcqzhd44-A0001
 
@@ -319,7 +319,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Gewaltbilder dominierten schon vor und am Wochenende in den sozialen Netzwerken und den Medien.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -351,13 +351,13 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die gelesenen Berichte enthalten solche Szenen. Beispiele erlauben keine Verallgemeinerung über plattformabhängige Feeds und die gesamte Berichterstattung.
+Die pauschale Aussage geht über die überprüfbare Reichweite hinaus. AP und ARD zeigen gewaltsame Szenen, sind aber ausgewählte Berichte. In der im November veröffentlichten Analyse öffentlicher französischer TikTok-Videos über die Mobilisierungen entfielen vom 1. September bis zum 29. Oktober 14 Prozent der Aufrufe auf Beiträge mit Gewalt. Beiträge mit Forderungen erreichten 32 Prozent. Medienkonten erzielten einen überproportionalen Teil der Aufrufe von Gewaltvideos. Die Studie bildet weder ein einzelnes Wochenende noch persönliche Feeds, andere Plattformen oder alle Nachrichtenangebote ab.
 
-Grundlage der Bewertung: Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.
+Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen.
 
 ### Zugeordnete Quellen
 
@@ -367,9 +367,20 @@ Bewertungsuebergang: Erstprüfung.
 - [Schwere Ausschreitungen bei Massenprotesten in Frankreich](https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html) · ARD-aktuell, 18.10.2026
   Quellenzugriff am 2026-11-19. Gelesen. Regierungsangaben, Brand in Limoges und frühere Gelbwestenbewegung. Beispiel eines Berichts mit Schwerpunkt Ausschreitungen.
 
+- [Violences sur TikTok](https://www.cepremap.fr/2026/11/violences-sur-tiktok/) · Benjamin Guinaudeau, Isabelle Guinaudeau und Hugo Subtil, CEPREMAP, November 2026, Daten 1. September bis 29. Oktober
+  Quellenzugriff am 2026-11-19. Methodik, Zeitraum und Aufrufe nach Inhaltskategorien gelesen. Methodik, Zeitraum und Aufrufe nach Inhaltskategorien gelesen.
+
 ### Offene Fragen und Unsicherheiten
 
 - Wie häufig waren diese Motive in einer repräsentativen Medien- und Plattformstichprobe?
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-19 (Codex): Zeitgenössische Berichte auf die behandelten Motive geprüft Gepruefte Quellen: S001, S002. Ergebnis: Gewalt ist sichtbar, doch eine Auswahl von Berichten ergibt keine Häufigkeitsmessung.
+
+- Durchgang 2 am 2026-11-19 (Codex): Mit französischen Plattformdaten nach einem quantitativen Gegencheck gesucht Gepruefte Quellen: S038. Ergebnis: Gewaltvideos wurden im untersuchten Gesamtzeitraum deutlich seltener aufgerufen als Beiträge mit Forderungen.
 
 ## nrnpcqzhd44-A0007
 
