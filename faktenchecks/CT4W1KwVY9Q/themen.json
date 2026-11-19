@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "videoId": "CT4W1KwVY9Q",
+  "basis": "Zuordnung aus den erfassten Aussagen, nicht aus dem Titel. KI-gestützt von Claude erstellt. Das Lied nennt kein Land; der Urheber gab an, es greife vor allem die Schülerproteste in Frankreich im Herbst 2026 auf. Deshalb sind nur die an französischen Ereignissen geprüften Aussagen dem Thema Frankreich/Proteste zugeordnet, die Aussagen zu Gewalttätern zusätzlich dem übergreifenden Thema Extremismus. Rechtsfragen (Versammlungsfreiheit, Diebstahl) und reine Wertungen haben kein vorhandenes Sachthema.",
+  "topics": [
+    {
+      "topic": "frankreich",
+      "relevance": "Schwerpunkt",
+      "basis": "5 von 11 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "frankreich/proteste",
+      "relevance": "Schwerpunkt",
+      "basis": "5 von 11 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "extremismus",
+      "relevance": "Behandelt",
+      "basis": "2 von 11 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "CT4W1KwVY9Q-A0001",
+      "topics": [
+        "frankreich/proteste"
+      ]
+    },
+    {
+      "claimId": "CT4W1KwVY9Q-A0002",
+      "topics": [
+        "frankreich/proteste"
+      ]
+    },
+    {
+      "claimId": "CT4W1KwVY9Q-A0005",
+      "topics": [
+        "frankreich/proteste",
+        "extremismus"
+      ]
+    },
+    {
+      "claimId": "CT4W1KwVY9Q-A0006",
+      "topics": [
+        "frankreich/proteste"
+      ]
+    },
+    {
+      "claimId": "CT4W1KwVY9Q-A0009",
+      "topics": [
+        "frankreich/proteste"
+      ]
+    },
+    {
+      "claimId": "CT4W1KwVY9Q-A0011",
+      "topics": [
+        "extremismus"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Erstzuordnung der 11 Aussagen des Musikvideos: 5 zu Frankreich/Proteste, 2 zu Extremismus, übrige ohne vorhandenes Sachthema. Keine Bewertung geändert."
+    }
+  ]
+}
