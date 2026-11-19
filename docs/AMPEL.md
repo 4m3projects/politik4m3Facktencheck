@@ -26,4 +26,4 @@ Die Faktenampel zeigt auf einen Blick, wie die bisher entschiedenen Tatsachenbeh
 
 - Kein Urteil über das ganze Video: Sie beschreibt nur den geprüften Bestand und nennt immer ihre Grundlage („Basis: x entschiedene von y erfassten Tatsachenbehauptungen“).
 - Keine Glaubwürdigkeitsnote für Personen, kein Ranking.
-- **Darstellungshinweise (Rhetorik, `rhetorik.json`) gehen nie ein.** `rate()` erhält sie gar nicht.
+- **Darstellungshinweise (Rhetorik, `rhetorik.json`) gehen nie ein.** `rate()` erhält sie gar nicht. „Gesamtprüfung abgeschlossen“ ist ein eigener Hinweis zum Abschluss beider Prüfungen. Die Berechnung der Ampel verwendet den Arbeitsstand der Sachprüfung.

@@ -472,6 +472,14 @@ function videoFacts(v) {
   return items.join('');
 }
 
+function reviewLabel(v) {
+  if (FactRhetoric.overallReviewComplete(v.data, v.video, v.rhet)) return 'Gesamtprüfung abgeschlossen';
+  if (v.video?.workStatus !== 'Abgeschlossen') return v.meta.Status;
+  if (v.data?.claims?.some(c => c.status === 'Offen' || c.status === 'In Bearbeitung')) return 'Faktenprüfung mit offenen Punkten';
+  if (v.data?.scope?.kind === 'Vollbestand') return 'Faktenprüfung abgeschlossen';
+  return 'Erfasste Faktenpunkte geprüft';
+}
+
 /* Übersicht der Darstellungshinweise eines Videos: Anzahl je Merkmal, getrennt von der Faktenstatistik.
    interactive: Merkmale als Filterknöpfe (Detailseite); sonst reine Anzeige (Startseitenkarte). */
 function rhetSummary(v, interactive) {
@@ -546,11 +554,12 @@ async function pageHome() {
     const claims = v.data?.claims || [];
     const nReact = (state.rel.byOriginal.get(v.id) || []).length;
     const scope = v.data?.scope;
+    const status = reviewLabel(v);
     return `<a class="card" href="#/video/${esc(v.id)}">
       ${thumbImg(v.id, v.video?.videoUrl || scope?.videoUrl, 'card-thumb')}
       ${ampelView(v)}
       <div class="claim-top">${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}
-      ${v.meta.Status ? `<span class="small">${esc(v.meta.Status)}</span>` : ''}</div>
+      ${status ? `<span class="small">${esc(status)}</span>` : ''}</div>
       <h3>${esc(v.title)}</h3>
       <ul class="facts">${videoFacts(v)}</ul>
       ${claims.length ? `<div>${distribution(claims)}</div>
@@ -818,7 +827,7 @@ function videoHeader(v, tab) {
     ${roleLine(v)}
     ${typeof videoTopicLine === 'function' ? videoTopicLine(v.id) : ''}
     ${ampelView(v, 'big')}
-    ${v.video?.workStatus === 'Abgeschlossen' ? '<p class="meta">Prüfstatus: <strong>Abgeschlossen</strong></p>' : ''}
+    ${v.video?.workStatus === 'Abgeschlossen' ? `<p class="meta"><strong>${esc(reviewLabel(v))}</strong> · Darstellung: ${esc(FactRhetoric.reviewState(v.rhet).status)}</p>` : ''}
     <p class="small ampel-note">Die Faktenampel fasst nur die bereits entschiedenen Tatsachenbehauptungen zusammen, nicht das ganze Video und keine Person. Darstellungshinweise fließen nicht ein. <a href="#/methodik">Regel in der Methodik</a></p>
     <ul class="facts">${videoFacts(v)}</ul>
     <div class="btn-row">
@@ -1016,7 +1025,7 @@ function pageMethod() {
     <nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / Methodik</nav>
     <header class="video-head"><h1>So prüfen wir</h1>
       <p class="lead" style="color:var(--text-2);max-width:70ch">Wir bewerten einzelne, überprüfbare Aussagen – nie ein ganzes Video pauschal. Die Faktenampel je Video ist nur eine offengelegte Rechnung aus diesen Einzelbewertungen. Entscheidend sind nachvollziehbare Quellen und die Trennung von Tatsachen, Meinungen und Prognosen.</p>
-      <p style="color:var(--text-2);max-width:70ch">Dafür gibt es zwei getrennte Maßstäbe: die <strong>Faktenbewertung</strong> (stimmt die Aussage?) und die <strong>Darstellung</strong> (wie wird sie gesagt?). Die Darstellung ändert nie die Faktenbewertung.</p></header>
+      <p style="color:var(--text-2);max-width:70ch">Dafür gibt es zwei getrennte Maßstäbe: die <strong>Faktenbewertung</strong> (stimmt die Aussage?) und die <strong>Darstellung</strong> (wie wird sie gesagt?). „Gesamtprüfung abgeschlossen“ setzt eine vollständige Fakten- und Darstellungsprüfung voraus. Die Darstellung ändert nie die Faktenbewertung.</p></header>
 
     <section class="section" id="methodik-fakten"><h2>Maßstab 1: Sechs feste Faktenbewertungen</h2>
       <ul class="verdict-list">${VERDICTS.map(x => `<li><span class="badge"><i class="fill-${x.key}" aria-hidden="true"></i>${esc(x.name)}</span><p>${esc(x.text)}</p></li>`).join('')}</ul>

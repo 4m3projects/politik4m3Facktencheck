@@ -1,6 +1,13 @@
 # Dauerhafte Agentenregel: Zwei getrennte Bewertungsebenen
 
-Diese Anleitung gilt für alle künftigen Video- und Aussageprüfungen. **Die bestehende Faktenbewertung bleibt vollständig erhalten.** Die rhetorische Einordnung wird **zusätzlich**, unabhängig und optional pro Aussage dokumentiert. Diese Datei legt die fachliche Regel fest; sie behauptet nicht, dass die Webseite oder das Datenschema bereits erweitert sind.
+Diese Anleitung gilt für alle Video- und Aussageprüfungen. Die Darstellungsprüfung wird unabhängig von der Faktenbewertung dokumentiert. Konkrete Hinweise werden bei Bedarf einzelnen Aussagen oder weiteren Videostellen zugeordnet.
+
+## Wann die Gesamtprüfung abgeschlossen ist
+
+- Prüfe die Sachpunkte über die gesamte Folge. Der strukturierte Vollbestand hat weder offene noch laufende Prüfpunkte. Eine begründete abschließende Einordnung kann Beleggrenzen enthalten.
+- Prüfe die Darstellung über die gesamte Laufzeit einschließlich Vor- und Abspann auf sprachliche Mittel, Stimmführung, Bildauswahl, Einblendungen, Schnitt und Ton, soweit sie die Aussage oder den Eindruck beeinflussen. Dokumentiere tatsächliche Grundlage und Abdeckung in `rhetorik.json`. Bei geprüfter Darstellung ohne Hinweise kann `annotations` leer sein.
+- Bei einer bloßen Untertiteldurchsicht, Bildstichproben oder konkreten offenen Abdeckungslücken gilt eine begonnene Darstellungsprüfung als `Teilweise geprüft`. Halte in `review.limits` fest, was noch kontrolliert werden muss. Bei `Vollständig geprüft` sind diese Kontrollen durchgeführt und `review.limits` ist leer.
+- Berichte den Gesamtabschluss erst, wenn beide Ebenen vollständig geprüft sind. Nenne sonst beide Stände ausdrücklich, zum Beispiel „Erfasste Faktenpunkte geprüft. Darstellung teilweise geprüft.“
 
 ## Ebene 1: Sachliche Faktenprüfung (unverändert)
 

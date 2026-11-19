@@ -71,7 +71,7 @@ Regeln, die der Validator durchsetzt:
 
 ## Prüfstand je Video
 
-Stand 18.11.2026: In diesem Repository gibt es noch keine `rhetorik.json`. Die Webseite zeigt deshalb bei jedem Video „noch nicht geprüft“. Die Einordnungen aus dem Schwesterprojekt wurden bewusst nicht übernommen, weil sich die Faktenebene hier unabhängig weiterentwickelt.
+Stand 19.11.2026: Für [das Frankreich-Video](../faktenchecks/nrnpcqzhd44/README.md) liegt eine teilweise Darstellungsprüfung vor. Bei Videos ohne `rhetorik.json` zeigt die Webseite „Noch nicht geprüft“. „Gesamtprüfung abgeschlossen“ verlangt einen abgeschlossenen Faktencheck im Vollbestand und eine vollständige Darstellungsprüfung ohne offene Abdeckungslücken.
 
 ## Weiterarbeit
 

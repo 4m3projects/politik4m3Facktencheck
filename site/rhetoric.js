@@ -158,6 +158,17 @@
     return { status: data.review.status, annotations: v.length, claims: new Set(v.map(a => a.claimId).filter(Boolean)).size };
   }
 
+  function overallReviewComplete(facts, video, rhetoric) {
+    return video?.workStatus === 'Abgeschlossen'
+      && facts?.scope?.kind === 'Vollbestand'
+      && !(facts.scope.unmigratedLegacyPoints > 0)
+      && facts.claims?.length > 0
+      && facts.claims.every(c => c.status === 'Abgeschlossen' || c.status === 'Nicht überprüfbar')
+      && rhetoric?.review?.status === 'Vollständig geprüft'
+      && Array.isArray(rhetoric.review.limits)
+      && rhetoric.review.limits.length === 0;
+  }
+
   return { FEATURES, ASSESSMENTS, RELIABILITY, STATUS, REVIEW_STATUS, ATTRIBUTION,
-    validate, visible, byClaim, featureCounts, reviewState };
+    validate, visible, byClaim, featureCounts, reviewState, overallReviewComplete };
 });
