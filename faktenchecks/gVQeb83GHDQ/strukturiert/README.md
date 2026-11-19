@@ -6,15 +6,15 @@ Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
 Stand: 2026-11-19 · Video: gVQeb83GHDQ
 
-Unabhängige Erfassung durch Claude am 19.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–00:02:59). Quellen zur Shorts-Länge, die beiden GitHub-Repositorys und die Beschreibungen und Untertitel der in Frage kommenden Alfred-Videos wurden selbst gelesen. Keine Audio-/Videokontrolle; der Sprecher ist nur plausibel zugeordnet (Selbstvorstellung, eigener Kanal).
+Unabhängige Erfassung durch Claude am 19.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–00:02:59). Quellen zur Shorts-Länge, die beiden GitHub-Repositorys und die Beschreibungen und Untertitel der in Frage kommenden Alfred-Videos wurden selbst gelesen. Den Kommentarverlauf unter dem Alfred-Video BOIqGtGuShM belegen vom Sprecher bereitgestellte Bildschirmfotos; die Kommentare wurden nicht selbst abgerufen, Namen anderer Nutzer werden nicht veröffentlicht. Keine Audio-/Videokontrolle; der Sprecher ist nur plausibel zugeordnet (Selbstvorstellung, eigener Kanal).
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 12
-- Abgeschlossen: 7
-- Offen (noch nicht geprueft): 3
+- Abgeschlossen: 10
+- Offen (noch nicht geprueft): 0
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 2
 - Erfasste Behauptungsvorkommen: 12
@@ -30,14 +30,14 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 5 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 8 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 4 | 80.0 % |
-| Teilweise belegt | 1 | 20.0 % |
+| Belegt | 7 | 87.5 % |
+| Teilweise belegt | 1 | 12.5 % |
 | Irreführend / Kontext fehlt | 0 | 0.0 % |
 | Widerlegt | 0 | 0.0 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |

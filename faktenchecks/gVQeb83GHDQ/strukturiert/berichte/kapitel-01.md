@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Vollbestand. Vollständige Erfassung des Shorts (00:00:00–00:02:58): Jede prüfbare Tatsachenbehauptung ist aufgenommen. Bewusst nicht aufgenommen wurden Begrüßung, Segenswunsch, die Frage an die Zuschauer, ob sie mehr solcher Kommentare wollen, und die Bemerkung, der Zusatz sei nachträglich angehängt (als Kontext bei A0010 vermerkt).
 
-Unabhängige Erfassung durch Claude am 19.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–00:02:59). Quellen zur Shorts-Länge, die beiden GitHub-Repositorys und die Beschreibungen und Untertitel der in Frage kommenden Alfred-Videos wurden selbst gelesen. Keine Audio-/Videokontrolle; der Sprecher ist nur plausibel zugeordnet (Selbstvorstellung, eigener Kanal).
+Unabhängige Erfassung durch Claude am 19.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–00:02:59). Quellen zur Shorts-Länge, die beiden GitHub-Repositorys und die Beschreibungen und Untertitel der in Frage kommenden Alfred-Videos wurden selbst gelesen. Den Kommentarverlauf unter dem Alfred-Video BOIqGtGuShM belegen vom Sprecher bereitgestellte Bildschirmfotos; die Kommentare wurden nicht selbst abgerufen, Namen anderer Nutzer werden nicht veröffentlicht. Keine Audio-/Videokontrolle; der Sprecher ist nur plausibel zugeordnet (Selbstvorstellung, eigener Kanal).
 
 ## gVQeb83GHDQ-A0001
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Sprecher habe unter dem neuesten Video von Alfred räumt auf einen Kommentar hinterlassen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -23,13 +23,13 @@ Grundlage des Aussagebezugs: Ich-Erzählung im Monolog; als eigene Aussage ersch
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+Fundstellenhinweis: Im automatischen Text als „Alfred von Zinan“ und „bei den neuesten Video“ erfasst. Keine Audio-/Videokontrolle.
 
 Zeitgrundlage: Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die öffentlichen Kommentare unter dem Video sind grundsätzlich einsehbar, wurden aber noch nicht gelesen.
+Unter dem jüngsten Alfred-Video vom 19.11.2026 (Naomi Seibt) steht ein langer Kommentar des Kanals Politik4m3 vom selben Tag. Darin lobt er die Folge, spielt ironisch auf den im Video erwähnten langen Brief an und verweist auf die eigenen KI-gestützten Faktenchecks. Grundlage sind vom Sprecher bereitgestellte Bildschirmfotos; die Kommentare selbst haben wir nicht abgerufen.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
@@ -39,11 +39,15 @@ Bewertungsuebergang: Erstbewertung durch Claude am 19.11.2026.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Öffentlicher Kommentarverlauf unter dem Alfred-Video BOIqGtGuShM](https://www.youtube.com/watch?v=BOIqGtGuShM) · Kommentar des Kanals Politik4m3 vom 19.11.2026 mit Antworten eines anderen Nutzers und weiteren Antworten von Politik4m3; Zeitangaben relativ (vor 30 Minuten bis vor 5 Stunden zum Zeitpunkt der Aufnahme). Der Name des anderen Nutzers wird hier bewusst nicht genannt.
+  Quellenzugriff am 2026-11-19. Elf Bildschirmfotos des Kommentarverlaufs und der YouTube-Benachrichtigungen, am 19.11.2026 vom Kanalbetreiber (zugleich Sprecher des Shorts und Auftraggeber) bereitgestellt und vollständig gelesen. Kein eigener Abruf der Kommentare; der Inhalt ist daher nicht unabhängig von der Seite des Sprechers erhoben. Bildschirmfotos des öffentlichen Kommentarverlaufs, vom Sprecher selbst bereitgestellt; kein eigener Abruf.
+
+- [Alfred räumt auf: Hatte Musk keine Zeit für Epsteins Insel? Naomi Seibt bei Ungeskriptet](https://www.youtube.com/watch?v=BOIqGtGuShM) · Kanal Alfred räumt auf, veröffentlicht am 19.11.2026, Laufzeit 944 Sekunden; das jüngste Video des Kanals zum Erstelldatum des Shorts.
+  Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel gezielt nach Stichwörtern durchsucht und die Fundstellen im Zusammenhang gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Video, unter dem der Kommentar steht; jüngstes Video des Kanals am 19.11.2026.
 
 ### Offene Fragen und Unsicherheiten
 
-- Kommentare unter dem neuesten Alfred-Video zum Zeitpunkt des Shorts (BOIqGtGuShM vom 19.11.2026 oder GbhI-p_ycJE vom 18.11.2026) lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## gVQeb83GHDQ-A0002
 
@@ -112,7 +116,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel (Fassung de-orig); Sekun
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Im jüngsten Alfred-Video vom 19.11.2026 (Naomi Seibt) sagt die KI-Figur gleich zu Beginn, mehrere Zuschauer hätten sich diesen Gast gewünscht, einer sogar mit einem langen Brief, den sie gelesen habe. Dass in der Sendung ein langer Brief angesprochen wurde, ist damit belegt. Den Absender nennt das Video nicht; dass es der Brief des Sprechers war, ist aus dem Video allein nicht belegbar. Der Sprecher formuliert das selbst nur als Vermutung. In zwei früheren Alfred-Videos (14.11. und 18.11.2026) kommt kein Brief vor.
+Im jüngsten Alfred-Video vom 19.11.2026 sagt die KI-Figur gleich zu Beginn, mehrere Zuschauer hätten sich diesen Gast gewünscht, einer sogar mit einem langen Brief, den sie gelesen habe. Dass in der Sendung ein langer Brief angesprochen wurde, ist damit belegt. Den Absender nennt das Video nicht. Der Sprecher schreibt in seinen Kommentaren, er habe das Naomi-Seibt-Interview zuvor in einem ausführlichen YouTube-Kommentar vorgeschlagen, und hält es selbst nur für eine starke Vermutung, dass dieser gemeint war; bestätigen könnte das nur der Kanal. In zwei früheren Alfred-Videos (14.11. und 18.11.2026) kommt kein Brief vor.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
@@ -125,6 +129,9 @@ Bewertungsuebergang: Erstbewertung durch Claude am 19.11.2026.
 - [Alfred räumt auf: Hatte Musk keine Zeit für Epsteins Insel? Naomi Seibt bei Ungeskriptet](https://www.youtube.com/watch?v=BOIqGtGuShM) · Kanal Alfred räumt auf, veröffentlicht am 19.11.2026, Laufzeit 944 Sekunden; das jüngste Video des Kanals zum Erstelldatum des Shorts.
   Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel gezielt nach Stichwörtern durchsucht und die Fundstellen im Zusammenhang gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Erwähnung eines langen Zuschauerbriefs zu Beginn (etwa 00:00:17–00:00:21, automatische Untertitel); Absender nicht genannt.
 
+- [Öffentlicher Kommentarverlauf unter dem Alfred-Video BOIqGtGuShM](https://www.youtube.com/watch?v=BOIqGtGuShM) · Kommentar des Kanals Politik4m3 vom 19.11.2026 mit Antworten eines anderen Nutzers und weiteren Antworten von Politik4m3; Zeitangaben relativ (vor 30 Minuten bis vor 5 Stunden zum Zeitpunkt der Aufnahme). Der Name des anderen Nutzers wird hier bewusst nicht genannt.
+  Quellenzugriff am 2026-11-19. Elf Bildschirmfotos des Kommentarverlaufs und der YouTube-Benachrichtigungen, am 19.11.2026 vom Kanalbetreiber (zugleich Sprecher des Shorts und Auftraggeber) bereitgestellt und vollständig gelesen. Kein eigener Abruf der Kommentare; der Inhalt ist daher nicht unabhängig von der Seite des Sprechers erhoben. Bildschirmfotos des öffentlichen Kommentarverlaufs, vom Sprecher selbst bereitgestellt; kein eigener Abruf.
+
 - [Alfred räumt auf: Hat er recht beim Selbstbestimmungsgesetz? Sinan bei IT Camper](https://www.youtube.com/watch?v=GbhI-p_ycJE) · Kanal Alfred räumt auf, veröffentlicht am 18.11.2026. Die Beschreibung bezeichnet den Kanal als Projekt von SinansWoche und nennt Sinan als Erbauer der KI-Figur.
   Quellenzugriff am 2026-11-19. Beschreibung und Metadaten aus der privaten Ablage gelesen (Projekt-Importskript, Abruf 18.11.2026); automatische deutsche Untertitel am 19.11.2026 gezielt nach Stichwörtern durchsucht. Keine Hör-/Sichtkontrolle. Untertitel gezielt durchsucht: kein Bezug auf einen Brief.
 
@@ -133,7 +140,7 @@ Bewertungsuebergang: Erstbewertung durch Claude am 19.11.2026.
 
 ### Offene Fragen und Unsicherheiten
 
-- Ob der erwähnte Brief vom Sprecher stammt, ließe sich nur über die Kommentare unter dem Video oder eine Bestätigung des Kanals klären.
+- Ob der erwähnte Brief der frühere Vorschlagskommentar des Sprechers war, kann nur der Kanal Alfred räumt auf bestätigen; der frühere Kommentar selbst wurde nicht gelesen.
 
 ## gVQeb83GHDQ-A0004
 
@@ -141,7 +148,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein anderer Nutzer habe ihm geraten, sein Gehirn zu benutzen, und auf Nachfrage geantwortet, die Frage sei zugleich die Antwort, er solle seine KI fragen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -160,7 +167,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel (Fassung de-orig); Sekun
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Kommentarwechsel öffentlich einsehbar, aber noch nicht gelesen.
+Der Kommentarverlauf zeigt genau diese Abfolge: Ein anderer Nutzer antwortet auf den Kommentar von Politik4m3 mit dem Rat, einmal das eigene Hirn zu benutzen; Politik4m3 fragt kurz nach, was damit gemeint sei; der Nutzer antwortet, die Frage sei zugleich die Antwort, er solle seine KI fragen. Danach folgt, wie im Short erwähnt, eine lange Antwort von Politik4m3. Grundlage sind vom Sprecher bereitgestellte Bildschirmfotos.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
@@ -170,11 +177,12 @@ Bewertungsuebergang: Erstbewertung durch Claude am 19.11.2026.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Öffentlicher Kommentarverlauf unter dem Alfred-Video BOIqGtGuShM](https://www.youtube.com/watch?v=BOIqGtGuShM) · Kommentar des Kanals Politik4m3 vom 19.11.2026 mit Antworten eines anderen Nutzers und weiteren Antworten von Politik4m3; Zeitangaben relativ (vor 30 Minuten bis vor 5 Stunden zum Zeitpunkt der Aufnahme). Der Name des anderen Nutzers wird hier bewusst nicht genannt.
+  Quellenzugriff am 2026-11-19. Elf Bildschirmfotos des Kommentarverlaufs und der YouTube-Benachrichtigungen, am 19.11.2026 vom Kanalbetreiber (zugleich Sprecher des Shorts und Auftraggeber) bereitgestellt und vollständig gelesen. Kein eigener Abruf der Kommentare; der Inhalt ist daher nicht unabhängig von der Seite des Sprechers erhoben. Bildschirmfotos des öffentlichen Kommentarverlaufs, vom Sprecher selbst bereitgestellt; kein eigener Abruf.
 
 ### Offene Fragen und Unsicherheiten
 
-- Kommentarstrang lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## gVQeb83GHDQ-A0005
 
@@ -445,9 +453,9 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Der Kommentator habe nach der Aufnahme noch eine weitere Antwort nachgelegt.
+**Eigene Beschreibung:** Der Kommentator habe nach der Aufnahme noch eine weitere, ausfallende Antwort nachgelegt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -460,13 +468,13 @@ Grundlage des Aussagebezugs: Ich-Erzählung im Monolog; als eigene Aussage ersch
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+Fundstellenhinweis: Schlüsselwort im automatischen Text unklar erkannt; Deutung als „ausfallend“ aus dem Zusammenhang. Keine Audio-/Videokontrolle.
 
 Zeitgrundlage: Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Wortlaut im automatischen Text an dieser Stelle unklar.
+Das entscheidende Wort ist im automatischen Text unklar erkannt; nach dem Zusammenhang ist eine weitere, beleidigende Antwort gemeint. Der Kommentarverlauf zeigt eine solche spätere Antwort des Nutzers, die die lange Antwort als Wortschwall abtut und den Sprecher herabsetzt, und danach eine kurze Gegenfrage von Politik4m3. Grundlage sind vom Sprecher bereitgestellte Bildschirmfotos.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
@@ -476,11 +484,12 @@ Bewertungsuebergang: Erstbewertung durch Claude am 19.11.2026.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Öffentlicher Kommentarverlauf unter dem Alfred-Video BOIqGtGuShM](https://www.youtube.com/watch?v=BOIqGtGuShM) · Kommentar des Kanals Politik4m3 vom 19.11.2026 mit Antworten eines anderen Nutzers und weiteren Antworten von Politik4m3; Zeitangaben relativ (vor 30 Minuten bis vor 5 Stunden zum Zeitpunkt der Aufnahme). Der Name des anderen Nutzers wird hier bewusst nicht genannt.
+  Quellenzugriff am 2026-11-19. Elf Bildschirmfotos des Kommentarverlaufs und der YouTube-Benachrichtigungen, am 19.11.2026 vom Kanalbetreiber (zugleich Sprecher des Shorts und Auftraggeber) bereitgestellt und vollständig gelesen. Kein eigener Abruf der Kommentare; der Inhalt ist daher nicht unabhängig von der Seite des Sprechers erhoben. Bildschirmfotos des öffentlichen Kommentarverlaufs, vom Sprecher selbst bereitgestellt; kein eigener Abruf.
 
 ### Offene Fragen und Unsicherheiten
 
-- Kommentarstrang lesen.
+- Wortlaut der Stelle im Short (etwa 00:02:32) ohne Hörkontrolle unsicher.
 
 ## gVQeb83GHDQ-A0012
 
