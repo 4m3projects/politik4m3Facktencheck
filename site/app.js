@@ -818,6 +818,7 @@ function videoHeader(v, tab) {
     ${roleLine(v)}
     ${typeof videoTopicLine === 'function' ? videoTopicLine(v.id) : ''}
     ${ampelView(v, 'big')}
+    ${v.video?.workStatus === 'Abgeschlossen' ? '<p class="meta">Prüfstatus: <strong>Abgeschlossen</strong></p>' : ''}
     <p class="small ampel-note">Die Faktenampel fasst nur die bereits entschiedenen Tatsachenbehauptungen zusammen, nicht das ganze Video und keine Person. Darstellungshinweise fließen nicht ein. <a href="#/methodik">Regel in der Methodik</a></p>
     <ul class="facts">${videoFacts(v)}</ul>
     <div class="btn-row">
@@ -1090,7 +1091,7 @@ function pageMethod() {
     <section class="section prose-plain"><h2>Wer arbeitet daran – und mit welchen Werkzeugen?</h2>
       <p>Hinter dem Projekt steht derzeit eine Person: <a href="#/jens">Jens der Christ</a>. Er verantwortet die Inhalte und gibt jede Veröffentlichung frei. Bei Recherche, Datenaufbereitung, Gegenprüfung und Programmierung setzt er KI-Werkzeuge ein (derzeit ChatGPT, Claude und Codex). Ihre Beiträge sind auf GitHub als KI-Beiträge gekennzeichnet; sie sind Hilfsmittel, keine Mitarbeitenden.</p>
       <p>Auch mit sorgfältiger Prüfung und KI-Unterstützung können Fehler passieren. Wenn du einen Fehler findest, melde ihn gern über ein <a href="${esc(repoUrl())}/issues/new?template=korrektur.md" rel="noopener noreferrer" target="_blank">Korrektur-Issue auf GitHub</a>.</p>
-      <p>Die verbindlichen Regeln stehen in <a href="${esc(blobUrl('AGENTS.md'))}" rel="noopener noreferrer" target="_blank">AGENTS.md</a>, das Datenmodell in <a href="${esc(blobUrl('docs/STRUKTURIERTE_DATEN.md'))}" rel="noopener noreferrer" target="_blank">docs/STRUKTURIERTE_DATEN.md</a>.</p>
+      <p>Die verbindlichen Regeln stehen in <a href="${esc(blobUrl('AGENTS.md'))}" rel="noopener noreferrer" target="_blank">AGENTS.md</a>, das Datenmodell in <a href="${esc(blobUrl('docs/STRUKTURIERTE_DATEN.md'))}" rel="noopener noreferrer" target="_blank">docs/STRUKTURIERTE_DATEN.md</a>. Ergänzend gibt es eine <a href="${esc(blobUrl('docs/AGENTEN_VIDEOABGLEICH.md'))}" rel="noopener noreferrer" target="_blank">Anleitung zum Bild- und Tonabgleich</a>.</p>
     </section>
   </div>`, 'methodik');
   document.title = 'Methodik – Politik4M3 Faktencheck';

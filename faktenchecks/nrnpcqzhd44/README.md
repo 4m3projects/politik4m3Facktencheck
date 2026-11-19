@@ -1,6 +1,6 @@
 # Proteste & Gewalt! Was ist los in Frankreich?
 
-**Status: Alle 76 erfassten Punkte bearbeitet. Bildstichproben über die gesamte Laufzeit.**
+**Status: Abgeschlossen**
 
 - Auswertungsstand: 19.11.2026
 - Kanal: MrWissen2go (funk)
