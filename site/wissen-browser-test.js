@@ -112,6 +112,19 @@ async function step(name, fn) {
     if (await page.locator('#empfehlungen').count()) assert.match(await page.locator('#empfehlungen').innerText(), /Warum:/);
     await shot('thema-sbgg');
   });
+  await step('Themenseite: Faktenampel des ganzen Videos bei jeder Herkunft, berechnet wie auf der Videoseite', async () => {
+    await page.goto(url + '#/thema/geschlecht/selbstbestimmungsgesetz');
+    await page.waitForSelector('h1');
+    const items = page.locator('#belegt .kb-item, #falsch .kb-item, #teilweise .kb-item, #unbelegt .kb-item').filter({ has: page.locator('.kb-origin') });
+    assert.ok(await items.count() > 0);
+    assert.equal(await items.locator('.occ-ampel .ampel').count(), await items.count(), 'Video-Ampel je Aussage');
+    const checks = await page.locator('.kb-origin').evaluateAll(ps => ps.map(p => {
+      const vid = p.querySelector('a[href^="#/video/"]').getAttribute('href').split('/')[2];
+      const v = state.videos.get(vid);
+      return [vid, p.nextElementSibling.querySelector('.ampel').className, FactAmpel.rate(v.stats, v.video, v.data?.scope?.durationSeconds).key];
+    }));
+    for (const [vid, cls, key] of checks) assert.match(cls, new RegExp('ampel-' + key + '\\b'), vid);
+  });
   await step('Unbelegt steht nie unter „falsch“', async () => {
     for (const id of ['geschlecht', 'geschlecht/selbstbestimmungsgesetz', 'geschlecht/sport', 'corona', 'reaktanz']) {
       await page.goto(url + '#/thema/' + id);
@@ -144,6 +157,7 @@ async function step(name, fn) {
       await occ.locator('summary').click();
       const hrefs = await occ.locator('.occ-item a[href^="#/video/"]').evaluateAll(as => as.map(a => a.getAttribute('href')));
       assert.ok(hrefs.length && hrefs.every(h => /\/aussage\//.test(h)), hrefs.join(', '));
+      assert.equal(await occ.locator('.occ-item .occ-ampel .ampel').count(), await occ.locator('.occ-item').count(), 'Video-Ampel je Eintrag');
     }
     await page.evaluate(() => { localStorage.removeItem('p4m3.ytVorschaubilder'); state.thumbChoice = null; });
   });
