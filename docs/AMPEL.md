@@ -20,7 +20,7 @@ Die Faktenampel zeigt auf einen Blick, wie die bisher entschiedenen Tatsachenbeh
    - weniger als 10 Tatsachenbehauptungen entschieden sind, oder
    - weniger als 20 % aller erfassten Tatsachenbehauptungen entschieden sind, oder
    - insgesamt weniger als 20 Tatsachenbehauptungen je Stunde Laufzeit erfasst sind (gezielte Kleinauswahl statt Querschnitt; eine solche Auswahl würde die Quote verzerren).
-5. **Vorläufig / Noch in Prüfung** (keine Ampel), wenn `video.json` den Arbeitsstand „In Bearbeitung“ trägt oder die Grundlage zu klein ist und noch Prüfungen ausstehen (Aussagen noch nicht geprüft oder in Bearbeitung). Trägt `video.json` den Arbeitsstand „Abgeschlossen“, gilt das nicht: Dann ist eine zu kleine Grundlage „Nicht bewertbar“, und verbliebene noch nicht geprüfte Aussagen werden in der Begründung genannt. Ein fertig geprüftes Video erscheint so nie als „Noch in Prüfung“.
+5. **Vorläufig / Noch in Prüfung** (keine Ampel), wenn `video.json` den Arbeitsstand „In Bearbeitung“ trägt oder die Grundlage zu klein ist und noch Prüfungen ausstehen (Aussagen noch nicht geprüft oder in Bearbeitung). Trägt `video.json` den Arbeitsstand „Abgeschlossen“, gilt das nicht: Dann ist eine zu kleine Grundlage „Nicht bewertbar“, und verbliebene noch nicht geprüfte Aussagen werden in der Begründung genannt. Ein fertig geprüftes Video erscheint so nie als „Noch in Prüfung“. Bei laufenden Einzelprüfungen und zu geringer Abdeckung nennt die Begründung die ausstehende Zahl und die für die Laufzeit erforderliche Mindestzahl an Tatsachenbehauptungen.
 
 ## Was die Ampel nicht ist
 
