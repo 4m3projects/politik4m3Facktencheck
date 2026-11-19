@@ -158,8 +158,11 @@ function showAmpelTip(el) {
   }
   const d = el.dataset;
   tip.className = 'ampel-tip ampel-tip-' + (d.ampelKey || '');
-  tip.innerHTML = `<div class="ampel-tip-head"><span class="ampel-lights"><i></i><i></i><i></i></span><strong>${esc(d.ampelTitle)}</strong></div>
-    <p class="ampel-tip-sub">${esc(d.ampelSub)}</p><p>${esc(d.ampelText)}</p><p class="ampel-tip-note">${esc(AMPEL_TIP_NOTE)}</p>`;
+  /* Nichts doppelt: Titel und Basis stehen schon in der Ampel selbst (die Basis nur nicht in der kompakten
+     Form), der Hinweis „nur geprüfte Aussagen“ steht auf der Videoseite schon unter der Ampel. */
+  const showSub = el.classList.contains('compact');
+  const showNote = !el.closest('.video-head');
+  tip.innerHTML = `${showSub ? `<p class="ampel-tip-sub">${esc(d.ampelSub)}</p>` : ''}<p>${esc(d.ampelText)}</p>${showNote ? `<p class="ampel-tip-note">${esc(AMPEL_TIP_NOTE)}</p>` : ''}`;
   tip.hidden = false;
   tip.style.animation = 'none'; void tip.offsetWidth; tip.style.animation = '';
   state.ampelTipFor = el;
