@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "videoId": "CT4W1KwVY9Q",
+  "role": "original",
+  "reactionType": null,
+  "format": "musikvideo",
+  "channel": "Politik4m3",
+  "title": "Ihr klaut uns den Protest: Wenn aus Forderungen Gewalt wird",
+  "videoUrl": "https://www.youtube.com/watch?v=CT4W1KwVY9Q",
+  "workStatus": "Abgeschlossen",
+  "identification": {
+    "basis": "Musikvideo nach docs/MUSIKVIDEOS.md automatisch erkannt: starke Kennzeichen sind die gefüllten Metadatenfelder Track, Interpret und Album sowie der Vertriebstext eines Musikvertriebs (DistroKid, von YouTube automatisch erzeugt) in der Beschreibung; dazu Kategorie Musik und ein quadratisches Standbild (Art-Track). Eigenes Lied des Kanals Politik4m3, laut Vertriebsangabe mit generativer KI komponiert.",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-19"
+  }
+}

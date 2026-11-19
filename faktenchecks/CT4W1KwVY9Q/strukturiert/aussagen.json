@@ -1,0 +1,750 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Vollbestand",
+    "videoId": "CT4W1KwVY9Q",
+    "videoUrl": "https://www.youtube.com/watch?v=CT4W1KwVY9Q",
+    "durationSeconds": 234,
+    "asOf": "2026-11-19",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "Unabhängige Erfassung durch Claude am 19.11.2026. Erstes Musikvideo im Projekt (docs/MUSIKVIDEOS.md). YouTube bietet keine Untertitel; Grundlage ist der vom Urheber bereitgestellte, vollständig gelesene Liedtext, nicht veröffentlicht. Der Urheber gab an, das Lied greife vor allem die Schülerproteste in Frankreich im Herbst 2026 auf und sei bewusst allgemein gehalten, weil auch in Deutschland Schülerproteste erwartet wurden. Maßstab ist der Wissensstand bei Veröffentlichung (21./22.10.2026). Mehrere Medien- und Behördenseiten (AP, Tagesschau, Innenministerium, Ouest-France, Légifrance) waren für den Abruf gesperrt und sind nicht verwendet. Keine Hörkontrolle; Zeitbereiche geschätzt.",
+    "coverageNote": "Vollständige Erfassung des Liedes (00:00:00–00:03:54): Jede Stelle mit Tatsachenkern und jede erkennbare politische Wertung ist aufgenommen. Bewusst nicht aufgenommen wurden reine Kunstsprache wie Beschimpfungen, Bilder (Rauch, Schlachtfeld), Gefühlsausdrücke und die Wiederholungen der Refrains und Schlussrufe ohne neuen Inhalt."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Ihr klaut uns den Protest: Wenn aus Forderungen Gewalt wird (Musikvideo)",
+      "url": "https://www.youtube.com/watch?v=CT4W1KwVY9Q",
+      "details": "Kanal Politik4m3; hochgeladen am 21.10.2026, Veröffentlichung laut Vertriebsangabe 22.10.2026; Laufzeit 234 Sekunden, quadratisches Standbild (1080 × 1080), Kategorie Musik, über DistroKid vertrieben, als Komponist ist generative KI angegeben.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Projekt-Importskript: Metadaten und Beschreibung abgerufen, keine Untertitel vorhanden (auch keine automatischen). Liedtext am 19.11.2026 vom Urheber im Projektchat bereitgestellt und vollständig gelesen; er wird nicht veröffentlicht. Keine Hörkontrolle."
+    },
+    {
+      "id": "S002",
+      "title": "Étude sur les mineurs déférés dans le cadre du mouvement lycéen",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2026-11/etude_mouvement_lyceen_2026.pdf",
+      "details": "Französisches Justizministerium (Jugendgerichtshilfe PJJ), Kurzstudie vom 30.10.2026; Akten bis 9.10.2026, 1.504 vorgeführte Minderjährige; nach eigener Angabe nicht repräsentativ für alle Teilnehmenden.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF tatsächlich geöffnet und gelesen."
+    },
+    {
+      "id": "S003",
+      "title": "Frankreich: Worum es bei den Protesten geht",
+      "url": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-bildung-lebenshaltungskosten-schueler-gelbwesten-100.html",
+      "details": "ZDFheute, 17.10.2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Seite tatsächlich geöffnet und gelesen."
+    },
+    {
+      "id": "S004",
+      "title": "17 octobre : le bilan d’une journée de chaos",
+      "url": "https://www.lejdd.fr/Societe/1-200-interpellations-policiers-blesses-mairie-de-limoges-en-grande-partie-perdue-le-bilan-dune-journee-de-chaos-186339",
+      "details": "Le JDD, 18.10.2026; Angaben des Innenministers, der Pariser Staatsanwaltschaft und des Präfekten.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Seite tatsächlich geöffnet und gelesen."
+    },
+    {
+      "id": "S005",
+      "title": "Colère des lycéens : déjà six enquêtes pour de possibles violences policières ouvertes au sein de l’IGPN",
+      "url": "https://fr.news.yahoo.com/sport/col%C3%A8re-lyc%C3%A9ens-d%C3%A9j%C3%A0-six-enqu%C3%AAtes-160720650.html",
+      "details": "20 Minutes mit AFP, über Yahoo Actualités, 5.10.2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Seite tatsächlich geöffnet und gelesen."
+    },
+    {
+      "id": "S006",
+      "title": "Europäische Menschenrechtskonvention, Art. 11",
+      "url": "https://www.echr.coe.int/documents/d/echr/convention_deu",
+      "details": "Europarat; nicht amtliche deutsche Übersetzung, verbindlich sind die englische und französische Fassung. Gilt für Frankreich und Deutschland.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF tatsächlich geöffnet; Art. 11 gelesen."
+    },
+    {
+      "id": "S007",
+      "title": "Grundgesetz, Art. 8",
+      "url": "https://www.gesetze-im-internet.de/gg/art_8.html",
+      "details": "Bundesministerium der Justiz, gesetze-im-internet.de; geltende Fassung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Seite tatsächlich geöffnet und gelesen."
+    },
+    {
+      "id": "S008",
+      "title": "Strafgesetzbuch, § 242 Diebstahl",
+      "url": "https://www.gesetze-im-internet.de/stgb/__242.html",
+      "details": "gesetze-im-internet.de; geltende Fassung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Seite tatsächlich geöffnet und gelesen."
+    },
+    {
+      "id": "S009",
+      "title": "Strafgesetzbuch, § 125a Besonders schwerer Fall des Landfriedensbruchs",
+      "url": "https://www.gesetze-im-internet.de/stgb/__125a.html",
+      "details": "gesetze-im-internet.de; geltende Fassung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Seite tatsächlich geöffnet und gelesen."
+    },
+    {
+      "id": "S010",
+      "title": "Strafgesetzbuch, § 340 Körperverletzung im Amt",
+      "url": "https://www.gesetze-im-internet.de/stgb/__340.html",
+      "details": "gesetze-im-internet.de; geltende Fassung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Seite tatsächlich geöffnet und gelesen."
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Politik4m3",
+      "videoRole": "Urheber und Kanal; Gesang laut Vertriebsangabe KI-generiert, gesungen als Chor von Schülerinnen und Schülern (Rollenlyrik)",
+      "identityBasis": "Kanal- und Interpretenangabe in den YouTube-Metadaten, Vertriebsangabe und Auskunft des Urhebers. Keine Stimmzuordnung möglich oder nötig."
+    }
+  ],
+  "claims": [
+    {
+      "id": "CT4W1KwVY9Q-A0001",
+      "videoId": "CT4W1KwVY9Q",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die protestierenden Schülerinnen und Schüler forderten bessere Schulen, vor allem mehr Lehrkräfte und bessere Räume.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Für die Schülerbewegung in Frankreich ab September 2026, die das Lied laut Urheber vor allem aufgreift, nennt die Studie des französischen Justizministeriums vom 30.10.2026 als Forderungen mehr Mittel und Personal, Ersatz für ausgefallene Lehrkräfte und bessere Gebäude. ZDFheute nennt am 17.10.2026 Missstände und schlechte Ausstattung der Schulen als Anlass. Das Lied nennt kein Land; der Kern passt zu diesem dokumentierten Anlass.",
+      "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Hintergrundteil der Studie: Forderungen der Bewegung."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Missstände an Schulen als Protestanlass am 17.10.2026."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "CT4W1KwVY9Q-O0001",
+          "startSeconds": 0,
+          "endSeconds": 34,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Einstieg und erste Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "CT4W1KwVY9Q-O0002",
+          "startSeconds": 200,
+          "endSeconds": 234,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Schlussrufe greifen die Forderung wieder auf.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "CT4W1KwVY9Q-A0002",
+      "videoId": "CT4W1KwVY9Q",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Schulen seien in schlechtem Zustand, die Klassen überfüllt und die Lehrkräfte überlastet; es fehle an Geld für Bildung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Schlechte Ausstattung und Gebäude sowie ausfallender Unterricht wegen fehlender Vertretung sind als Anlass der französischen Schülerproteste belegt. Überfüllte Klassen und überlastete Lehrkräfte nennen die gelesenen Quellen nicht ausdrücklich; dafür fehlen in dieser Prüfung eigene Zahlen. Dass Schulen buchstäblich auseinanderfallen, ist erkennbar künstlerische Zuspitzung und wird nicht als Tatsache gewertet.",
+      "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Forderungen nach Personal, Vertretung und Gebäuden."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Schlechte Schulausstattung als Anlass."
+        }
+      ],
+      "openQuestions": [
+        "Belastbare Zahlen zu Klassengrößen und Lehrkräftemangel in Frankreich (und Deutschland) im Herbst 2026 wurden nicht gesondert recherchiert."
+      ],
+      "occurrences": [
+        {
+          "id": "CT4W1KwVY9Q-O0003",
+          "startSeconds": 15,
+          "endSeconds": 34,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Erste Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "CT4W1KwVY9Q-A0003",
+      "videoId": "CT4W1KwVY9Q",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die Politik höre den Schülerinnen und Schülern nicht zu und schiebe angeblichen Geldmangel vor.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Politische Wertung aus Sicht der Protestierenden ohne konkret prüfbaren Tatsachenkern: Es wird weder eine bestimmte Regierung noch eine bestimmte Aussage benannt.",
+      "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "CT4W1KwVY9Q-O0004",
+          "startSeconds": 15,
+          "endSeconds": 34,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Erste Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "CT4W1KwVY9Q-A0004",
+      "videoId": "CT4W1KwVY9Q",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Schülerinnen und Schüler haben das Recht, für ihre Forderungen auf die Straße zu gehen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Europäische Menschenrechtskonvention schützt in Art. 11 in Frankreich wie in Deutschland das Recht, sich friedlich zu versammeln; Einschränkungen sind nur per Gesetz und aus eng umrissenen Gründen zulässig. Das Grundgesetz garantiert in Art. 8 Deutschen dieses Recht ohne Anmeldung oder Erlaubnis, wenn die Versammlung friedlich und ohne Waffen ist. Das Lied betont selbst den friedlichen Protest. Kontext: Ob die Teilnahme während der Unterrichtszeit von der Schulpflicht befreit, ist eine eigene Frage, die das Lied nicht aufwirft.",
+      "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Art. 11 EMRK, nicht amtliche deutsche Übersetzung."
+        },
+        {
+          "sourceId": "S007",
+          "note": "Art. 8 GG."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "CT4W1KwVY9Q-O0005",
+          "startSeconds": 25,
+          "endSeconds": 34,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Ende der ersten Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "CT4W1KwVY9Q-A0005",
+      "videoId": "CT4W1KwVY9Q",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Gewalt bei den Schülerprotesten sei von Außenstehenden mit Steinen ausgegangen, die Polizisten angriffen und die Lage eskalieren ließen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Angriffe auf Einsatzkräfte sind belegt: Nach dem Protesttag am 17.10.2026 meldete der Innenminister mehr als 600 verletzte Polizisten, Gendarmen und Feuerwehrleute. Die Regierung und Medien schrieben die schwersten Ausschreitungen Randalierern und der extremen Linken zu, ZDFheute berichtet, dass sich Randalierer regelmäßig unter die Demonstrierenden mischten. Das Bild, die Gewalt komme nur von außen, greift aber zu kurz: Unter den 1.504 bis zum 9.10.2026 vorgeführten Minderjährigen der Schülerbewegung waren rund 1.000 Gymnasiasten, häufigster Vorwurf war Gewalt gegen Amtsträger. Steinwürfe im engeren Sinn machen in dieser Studie nur einen kleinen Teil aus; die Studie sagt ausdrücklich nicht, wer die Gewalt ausgelöst hat. Die Zuspitzung trifft also einen belegten Teil, nicht das ganze Geschehen.",
+      "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Zahlen des Innenministers vom 18.10.2026 und Täterbeschreibung."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Randalierer unter den Demonstrierenden."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Vorgeführte Minderjährige, überwiegend Schüler, und Deliktarten bis 9.10.2026."
+        }
+      ],
+      "openQuestions": [
+        "Wie groß der Anteil von Schülerinnen und Schülern an den Gewalttaten des 17.10.2026 war, ist mit den gelesenen Quellen nicht bestimmbar."
+      ],
+      "occurrences": [
+        {
+          "id": "CT4W1KwVY9Q-O0006",
+          "startSeconds": 28,
+          "endSeconds": 34,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Ende der ersten Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "CT4W1KwVY9Q-O0007",
+          "startSeconds": 73,
+          "endSeconds": 102,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Zweite Hälfte der zweiten Strophe und dritte Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "CT4W1KwVY9Q-A0006",
+      "videoId": "CT4W1KwVY9Q",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Polizei ging bei den Protesten auch gegen Jugendliche mit Gewalt vor, die nur friedlich demonstrierten.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Belegt sind schwere Verletzungen Jugendlicher bei Polizeieinsätzen und Ermittlungen dazu: Bis zum 5.10.2026 hatte die französische Polizeiaufsicht IGPN sechs Verfahren wegen möglicher Polizeigewalt im Zusammenhang mit der Schülerbewegung übernommen, unter anderem nach Augenverletzungen durch Polizeimunition; nach dem 17.10.2026 ermittelte sie auch wegen eines schwer verletzten 17-Jährigen in Saint-Étienne. Ob die Betroffenen jeweils friedlich waren und ob die Einsätze rechtswidrig waren, klären die Verfahren erst; das ist zum Veröffentlichungszeitpunkt offen.",
+      "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S005",
+          "note": "Sechs IGPN-Verfahren und Verletzungen Jugendlicher, Stand 5.10.2026."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Ermittlung wegen eines verletzten 17-Jährigen in Saint-Étienne."
+        }
+      ],
+      "openQuestions": [
+        "Ausgang der IGPN-Verfahren zum Zeitpunkt der Veröffentlichung nicht bekannt."
+      ],
+      "occurrences": [
+        {
+          "id": "CT4W1KwVY9Q-O0008",
+          "startSeconds": 63,
+          "endSeconds": 73,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Erste Hälfte der zweiten Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "CT4W1KwVY9Q-A0007",
+      "videoId": "CT4W1KwVY9Q",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Polizisten, die grundlos auf friedlich Demonstrierende einschlagen, müssen dafür zur Rechenschaft gezogen werden.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Rechtspolitische Forderung. Ihre Voraussetzung ist gegeben: In Deutschland ist Körperverletzung durch Amtsträger im Dienst nach § 340 StGB strafbar; in Frankreich prüft die IGPN solche Vorwürfe (siehe vorige Aussage). Ob und wie konsequent das geschieht, bewertet das Lied, ohne einen konkreten Fall zu nennen.",
+      "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "§ 340 StGB als rechtliche Voraussetzung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "CT4W1KwVY9Q-O0009",
+          "startSeconds": 63,
+          "endSeconds": 73,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Zweite Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "CT4W1KwVY9Q-A0008",
+      "videoId": "CT4W1KwVY9Q",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Wegen der Gewalt würden friedlich Protestierende mit den Randalierern gleichgesetzt und ihre Forderungen gingen unter.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Einschätzung der öffentlichen Wirkung von Ausschreitungen. Ob die Forderungen der Schüler tatsächlich in den Hintergrund traten, ist eine Deutung der Berichterstattung ohne festen Messpunkt.",
+      "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "CT4W1KwVY9Q-O0010",
+          "startSeconds": 73,
+          "endSeconds": 83,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Zweite Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "CT4W1KwVY9Q-O0011",
+          "startSeconds": 161,
+          "endSeconds": 180,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Fünfte Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "CT4W1KwVY9Q-A0009",
+      "videoId": "CT4W1KwVY9Q",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Am Rand der Proteste wurden Schaufenster eingeschlagen, Geschäfte geplündert und Feuer gelegt; Ladeninhaber blieben auf dem Schaden sitzen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Für den 17.10.2026 berichtet das JDD unter Berufung auf amtliche Stellen von rund 1.500 betroffenen Händlern mit Schäden in vermutlich dreistelliger Millionenhöhe, erheblichen Plünderungen und dem Brand des Rathauses von Limoges, das teilweise zerstört wurde. ZDFheute zeigt brennende Mülltonnen in Paris. Die Studie zu den Minderjährigen nennt außerdem Brandstiftungen, meist an Mülltonnen.",
+      "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Schäden, Plünderungen und Brand in Limoges."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Ausschreitungen am 17.10.2026."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Brandstiftungsdelikte bei Minderjährigen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "CT4W1KwVY9Q-O0012",
+          "startSeconds": 83,
+          "endSeconds": 102,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Dritte Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "CT4W1KwVY9Q-O0013",
+          "startSeconds": 122,
+          "endSeconds": 141,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Vierte Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "CT4W1KwVY9Q-A0010",
+      "videoId": "CT4W1KwVY9Q",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Plündern ist schlicht Diebstahl und keine Revolution.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Rechtlich ist das Wegnehmen fremder Sachen mit Zueignungsabsicht Diebstahl (§ 242 StGB). Wer im Rahmen eines Landfriedensbruchs plündert, wird nach deutschem Recht sogar strenger bestraft: Plündern ist ein Regelbeispiel des besonders schweren Landfriedensbruchs mit sechs Monaten bis zehn Jahren Freiheitsstrafe (§ 125a Nr. 4 StGB). „Banal“ ist daher eine Untertreibung, der Kern, dass Plündern eine Straftat und kein politisches Recht ist, stimmt. Das französische Strafrecht wurde für diese Prüfung nicht gelesen (Abruf von Légifrance gescheitert).",
+      "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Definition Diebstahl."
+        },
+        {
+          "sourceId": "S009",
+          "note": "Plündern als Regelbeispiel."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "CT4W1KwVY9Q-O0014",
+          "startSeconds": 131,
+          "endSeconds": 141,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Vierte Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "CT4W1KwVY9Q-A0011",
+      "videoId": "CT4W1KwVY9Q",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Gewaltbereite Gruppen gäben sich als solidarisch aus, schadeten aber den Schülern und sprächen nicht für sie; die Schüler bräuchten sie nicht.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Kernbotschaft des Liedes: eine politische Wertung gegenüber Gewalttätern und selbst ernannten Unterstützern. Wer konkret gemeint ist, bleibt offen; die Frage, wer tatsächlich Gewalt ausübte, ist bei der Aussage zu den Außenstehenden geprüft.",
+      "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "CT4W1KwVY9Q-O0015",
+          "startSeconds": 34,
+          "endSeconds": 44,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Vor dem ersten Refrain.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "CT4W1KwVY9Q-O0016",
+          "startSeconds": 83,
+          "endSeconds": 102,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Dritte Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        },
+        {
+          "id": "CT4W1KwVY9Q-O0017",
+          "startSeconds": 141,
+          "endSeconds": 180,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenlyrik: Das Lied spricht durchgehend als Chor protestierender Schülerinnen und Schüler, gesungen von einer KI-Stimme. Urheber laut Vertriebsangabe und eigener Auskunft ist der Kanal Politik4m3; die Positionen des lyrischen Wir werden erkennbar vom Lied vertreten und deshalb als eigene Aussagen des Liedes geführt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Gesungene Aussage des lyrischen Wir; das Lied vertritt sie erkennbar als eigene Position (keine Ironie oder Gegenrede erkennbar).",
+          "note": "Gesprochener Mittelteil und fünfte Strophe.",
+          "timeBasis": "Vom Urheber bereitgestellter Liedtext ohne Zeitangaben; Zeitbereich aus der Reihenfolge der Liedteile und der Laufzeit von 234 Sekunden geschätzt, nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    }
+  ]
+}
