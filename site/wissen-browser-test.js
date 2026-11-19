@@ -74,6 +74,9 @@ async function step(name, fn) {
   page.on('pageerror', e => errors.push(e.message));
   page.on('console', m => { if (m.type() === 'error') errors.push(m.text()); });
   await page.route(/^https?:\/\/(?!127\.0\.0\.1)/, r => r.abort());
+  // Vorschaubilder nicht aus dem Netz laden: ein graues Ersatzbild statt YouTube.
+  const png = Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN8+v9/PQAJaAPNQ6R2HgAAAABJRU5ErkJggg==', 'base64');
+  await page.route(/^https:\/\/i\.ytimg\.com\//, r => r.fulfill({ status: 200, contentType: 'image/png', body: png }));
   const shot = async name => { if (process.env.SCREENSHOTS) await page.screenshot({ path: path.join(process.env.SCREENSHOTS, name + '.png'), fullPage: true }); };
 
   await step('Navigation enthält „Themen“', async () => {
@@ -128,6 +131,21 @@ async function step(name, fn) {
     for (const id of linked) assert.ok(!ids.includes(id), id + ' doppelt');
     assert.match(txt, /Wissenseintrag/);
     await shot('thema-geschlecht');
+  });
+  await step('Videos zu Aussagen: Vorschaubild nur nach Zustimmung, Videoliste bei Wissenseinträgen', async () => {
+    await page.goto(url + '#/thema/geschlecht');
+    await page.waitForSelector('h1');
+    assert.equal(await page.locator('img[src*="ytimg"]').count(), 0, 'ohne Zustimmung keine Vorschaubilder');
+    assert.equal(await page.locator('.thumb-ask').count(), 1, 'Frage nach Vorschaubildern');
+    await page.click('[data-thumbs="ja"]');
+    await page.waitForSelector('.kb-origin img.origin-thumb');
+    const occ = page.locator('.kb-entry .kb-occ').first();
+    if (await occ.count()) {
+      await occ.locator('summary').click();
+      const hrefs = await occ.locator('.occ-item a[href^="#/video/"]').evaluateAll(as => as.map(a => a.getAttribute('href')));
+      assert.ok(hrefs.length && hrefs.every(h => /\/aussage\//.test(h)), hrefs.join(', '));
+    }
+    await page.evaluate(() => { localStorage.removeItem('p4m3.ytVorschaubilder'); state.thumbChoice = null; });
   });
   await step('Korrekturprotokoll: Übersicht und betroffene Themenseite, nicht auf fremden Themen', async () => {
     await page.goto(url + '#/themen');
