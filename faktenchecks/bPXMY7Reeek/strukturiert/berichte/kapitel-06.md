@@ -181,7 +181,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Sinan habe vor wenigen Jahren in Videos Wahlwerbung für die Grünen gemacht und habe heute keine Parteipräferenz mehr.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -200,23 +200,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Selbstauskunft zu früheren eigenen Videos und heutiger Haltung; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.
+Um die Bundestagswahl 2021 erschienen auf dem Kanal politische Videos, darunter „Planspiel Bundesregierung“, das die Grünen überwiegend wohlwollend, aber auch kritisch darstellt. Eine ausdrückliche Wahlempfehlung für die Grünen fand sich in Titeln und in der Stichwortsuche nicht. Ob er heute keine Parteipräferenz mehr hat, ist eine Selbstauskunft und nicht prüfbar.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen. Stichwortsuche in den Untertiteln eines Videos.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): YouTube-Kanaldaten über Jens' Rechner geprüft; von Offen auf Nicht ausreichend belegbar.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [YouTube-Kanal SinansWoche](https://www.youtube.com/channel/UC_dw469M9fc3nraC7rIaF5Q) · Kanal von Sinan; 284 sichtbare Videos, ältestes vom 16.12.2020 (Attila Hildmann), „SinansWoche – Die Show #01“ vom 15.01.2021; rund 50.400 Abonnenten (19.11.2026).
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht. Videos um die Bundestagswahl 2021.
 
 ### Offene Fragen und Unsicherheiten
 
-- Gibt es entsprechende ältere SinansWoche-Videos, etwa zur Bundestagswahl 2021?
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0035
 

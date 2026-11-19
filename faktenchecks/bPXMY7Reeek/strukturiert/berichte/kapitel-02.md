@@ -297,7 +297,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Sinan betreibe seit etwa fünf Jahren (also seit etwa 2020) hauptsächlich den YouTube-Kanal SinansWoche.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -316,25 +316,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Selbstauskunft zum eigenen Kanal; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.
+Der heutige Kanal SinansWoche beginnt mit Videos ab Dezember 2020; die Sendung „SinansWoche – Die Show #01“ erschien im Januar 2021. Das passt zu „seit etwa 2020“. Eine musikalische Reihe gleichen Namens gab es schon 2019 auf seinem früheren Kanal.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): YouTube-Kanaldaten über Jens' Rechner geprüft; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [YouTube-Kanal SinansWoche](https://www.youtube.com/channel/UC_dw469M9fc3nraC7rIaF5Q) · Kanal von Sinan; 284 sichtbare Videos, ältestes vom 16.12.2020 (Attila Hildmann), „SinansWoche – Die Show #01“ vom 15.01.2021; rund 50.400 Abonnenten (19.11.2026).
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht. Älteste Videos ab 16.12.2020.
+
+- [YouTube-Kanal futorial](https://www.youtube.com/channel/UCES01Gvu_3JkQE6ZU44na6A) · Früherer Kanal desselben Creators (Musikproduktion, „Die Klangküche“); musikalische Reihe „Sinans Woche“ ab 29.08.2019.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht. Reihe „Sinans Woche“ ab 2019 auf dem Vorgängerkanal.
 
 ### Offene Fragen und Unsicherheiten
 
-- Datum der ersten öffentlich sichtbaren SinansWoche-Folge auf dem Kanal feststellen.
-
-- Passt der Beginn zur Darstellung, der Kanal sei in der Corona-Zeit entstanden?
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0010
 

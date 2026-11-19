@@ -105,7 +105,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ben Ungeskriptet habe zuletzt nahezu das gesamte rechte bis rechtsradikale Spektrum zu Gast gehabt, darunter Schlomo, und sei damit sehr erfolgreich.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -124,25 +124,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Wertung und Sammelbehauptung über die Gästeliste eines Kanals; „rechts bis rechtsradikal“ ist eine Einordnung, und die Gästeliste wurde nicht abgerufen. Fehlende Bestätigung bedeutet nicht falsch.
+Unter den Gästen von Februar bis August 2025 sind Personen aus dem rechten Spektrum, etwa Frauke Petry und Aron Pielka (Shlomo Finkelstein, 13.08.2025), und die Folgen erreichen teils Millionen Aufrufe. Die Gästeliste ist aber breit gemischt und reicht von Christian Lindner und Sahra Wagenknecht bis zu Psychologen, Unternehmern und Sportlern. „Nahezu das gesamte rechte bis rechtsradikale Spektrum“ ist damit eine starke Zuspitzung. Ob mit „Schlomo“ Shlomo Finkelstein oder der Waffen-YouTuber Jörg Sprave (Gast am 10.05.2025) gemeint ist, bleibt unklar.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): YouTube-Kanaldaten über Jens' Rechner geprüft; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [YouTube-Kanal Ungeskriptet (Ben)](https://www.youtube.com/channel/UCjkSqbf8E4MybdYmfhlW10A) · Gästeliste Februar bis August 2025; Folge mit Otto Bulletproof vom 02.08.2025; Folge mit Aron Pielka (Shlomo Finkelstein) vom 13.08.2025.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht. Gästeliste Februar bis August 2025.
 
 ### Offene Fragen und Unsicherheiten
 
-- Gästeliste des Kanals im Zeitraum vor August 2025 und politische Einordnung der Gäste prüfen.
-
-- Woran lässt sich Erfolg messen (Aufrufe, Abonnenten)?
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0045
 
@@ -150,7 +147,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ben Ungeskriptet habe auch Otto Bulletproof interviewt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -169,23 +166,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Gästeliste eines Kanals; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.
+Auf dem Kanal Ungeskriptet erschien am 02.08.2025 eine Folge mit Otto Bulletproof; eine zweite folgte im Juli 2026.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): YouTube-Kanaldaten über Jens' Rechner geprüft; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [YouTube-Kanal Ungeskriptet (Ben)](https://www.youtube.com/channel/UCjkSqbf8E4MybdYmfhlW10A) · Gästeliste Februar bis August 2025; Folge mit Otto Bulletproof vom 02.08.2025; Folge mit Aron Pielka (Shlomo Finkelstein) vom 13.08.2025.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht. Folge mit Otto Bulletproof vom 02.08.2025.
 
 ### Offene Fragen und Unsicherheiten
 
-- Gibt es eine entsprechende Folge?
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0046
 
@@ -227,11 +223,7 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 
 ### Offene Fragen und Unsicherheiten
 
-- Gibt es Berichte oder Bescheide der PTB zu diesem Produkt?
-
-- Wie heißt das Produkt genau, und wer hat es entwickelt?
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+- Kanalsuche 19.11.2026: Gemeint ist vermutlich Jörg Sprave („Six Needler“, Video vom 02.02.2025: Bestellung erst nach PTB-Bestätigung). Ob die PTB die Zulassung als erlaubnisfreie Waffe verweigert hat, ist noch nicht belegt; Folgevideos und PTB-Angaben lesen.
 
 ## bPXMY7Reeek-A0047
 
@@ -281,7 +273,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Schlomo schieße in seinen Videos auf Zombieköpfe und inszeniere die Vorbereitung auf eine Zombie-Apokalypse.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -300,23 +292,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Inhalt fremder Videos; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.
+Einen Waffen-YouTuber namens „Schlomo“ gibt es nach der Kanalsuche nicht. Die Beschreibung passt aber genau auf Jörg Sprave, der im Mai 2025 bei Ungeskriptet zu Gast war: Auf seinem Kanal sind Zombie-Ziele und Zombie-Apokalypse-Szenarien seit Jahren ein wiederkehrendes Motiv. Der Inhalt ist damit belegt, die Namenszuordnung vermutlich ein Hör- oder Transkriptionsfehler.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): YouTube-Kanaldaten über Jens' Rechner geprüft; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [YouTube-Kanal JoergSprave](https://www.youtube.com/channel/UCVZlxkKqlvVqzRJXhAGq42Q) · Kanal des Waffen-YouTubers Jörg Sprave; wiederkehrende Zombie-Ziele (z. B. 2016, 2017, 2021, 2023); Video „Der ‚Six Needler‘ ändert ALLES!“ vom 02.02.2025 mit Hinweis auf ausstehende PTB-Bestätigung.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht. Wiederkehrende Zombie-Ziele in Videotiteln 2016–2023.
+
+- [YouTube-Kanal Ungeskriptet (Ben)](https://www.youtube.com/channel/UCjkSqbf8E4MybdYmfhlW10A) · Gästeliste Februar bis August 2025; Folge mit Otto Bulletproof vom 02.08.2025; Folge mit Aron Pielka (Shlomo Finkelstein) vom 13.08.2025.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht. Jörg Sprave Gast am 10.05.2025.
 
 ### Offene Fragen und Unsicherheiten
 
-- Stichprobe der Kanalvideos prüfen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0049
 
