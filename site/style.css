@@ -124,11 +124,8 @@ p { margin: 0 0 1em; }
 }
 .topbar-inner { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 60px; flex-wrap: wrap; }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--text); text-decoration: none; }
-.brand-mark {
-  display: grid; place-items: center; width: 34px; height: 34px; border-radius: 10px;
-  background: linear-gradient(135deg, var(--hero-2), var(--hero-1)); color: #fff;
-  font-weight: 700; font-size: 13px; letter-spacing: -.04em;
-}
+/* Logo vor dem Titel = Favicon (site/favicon.svg); Klick führt zur Startseite dieses Projekts. */
+.brand-mark { display: block; flex: none; width: 30px; height: 30px; }
 .brand-text { font-size: 1.02rem; letter-spacing: -.005em; }
 /* Dropdown am Titel: weitere Faktenchecks. Hover nur auf Geräten mit Maus; per Tippen/Tastatur über den Pfeil-Knopf. */
 .brand-menu { position: relative; display: flex; align-items: center; gap: 2px; }
