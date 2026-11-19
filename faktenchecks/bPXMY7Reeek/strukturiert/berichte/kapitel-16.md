@@ -467,22 +467,35 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Belegt ist ein deutlicher Anstieg: Bei der Aufzeichnung hatte Clownswelt laut Böhmermann rund 227.000 Abonnenten, zwei Tage später über 293.000 (etwa plus 29 %). Eine Verdopplung ist in den gelesenen Quellen nicht belegt; spätere Zahlen fehlen.
+Belegt ist ein deutlicher Anstieg: Bei der Aufzeichnung hatte Clownswelt laut Böhmermann rund 227.000 Abonnenten, zwei Tage später über 293.000 (etwa plus 29 %). Eine Verdopplung ist in den gelesenen Quellen nicht belegt; spätere Zahlen fehlen. Eine zweite Recherche ergab 331.000 Abonnenten am 12.05.2025, also rund plus 46 %; eine Verdopplung ist bis dahin nicht belegt.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
 
 ### Zugeordnete Quellen
 
 - [Clownswelt-Doxxing durch Böhmermann: Reichweite von rechtem YouTuber massiv gestiegen](https://www.berliner-zeitung.de/article/clownswelt-doxxing-durch-boehmermann-reichweite-von-rechtem-youtuber-massiv-gestiegen-2323963) · Berliner Zeitung, 11.05.2025.
   Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
+- [Nach Böhmermann-Doxxing: Clownswelt gewinnt 100.000 neue Abonnenten auf YouTube](https://apollo-news.net/nach-bhmermann-doxxing-clownswelt-gewinnt-100-000-neue-abonnenten-auf-youtube/) · Apollo News, 12.05.2025; nennt 227.000 Abonnenten laut Sendung und 331.000 am 12.05.2025.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. 331.000 am 12.05.2025, rund plus 46 %; keine Verdopplung.
+
 ### Offene Fragen und Unsicherheiten
 
-Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+- Abonnentenzahl des Kanals im August 2025, etwa über ein Archiv der Kanalseite.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Die Abonnentenzahl zum Zeitpunkt der Aufnahme (August 2025).
+
+- Durchgang 1 am 2026-11-18 (Claude): Pressebericht zur Abonnentenentwicklung gelesen. Gepruefte Quellen: S042. Ergebnis: Rund 227.000 auf über 293.000 nach zwei Tagen.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: weitere Berichte mit späteren Abonnentenzahlen gesucht. Gepruefte Quellen: S072. Ergebnis: 331.000 am 12.05.2025, also rund plus 46 %; ein Bericht, der eine Verdopplung im Titel nennt, war nicht abrufbar. Spätere Zahlen bis zur Videoveröffentlichung fehlen.
 
 ## bPXMY7Reeek-A0146
 

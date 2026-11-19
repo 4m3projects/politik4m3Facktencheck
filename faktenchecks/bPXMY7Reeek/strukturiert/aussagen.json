@@ -574,6 +574,22 @@
       "details": "Kanal des Waffen-YouTubers Jörg Sprave; wiederkehrende Zombie-Ziele (z. B. 2016, 2017, 2021, 2023); Video „Der ‚Six Needler‘ ändert ALLES!“ vom 02.02.2025 mit Hinweis auf ausstehende PTB-Bestätigung.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S071",
+      "title": "Boxer Imane Khelif reveals hormone treatments before Paris Olympics",
+      "url": "https://www.malaymail.com/news/sports/2026/02/05/boxer-imane-khelif-reveals-hormone-treatments-before-paris-olympics/208136",
+      "details": "AFP-Meldung, veröffentlicht von Malay Mail, 05.02.2026; Khelif bejaht im L'Équipe-Interview das SRY-Gen und berichtet von testosteronsenkender Behandlung. Später bekannt, nach der Veröffentlichung des Videos.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S072",
+      "title": "Nach Böhmermann-Doxxing: Clownswelt gewinnt 100.000 neue Abonnenten auf YouTube",
+      "url": "https://apollo-news.net/nach-bhmermann-doxxing-clownswelt-gewinnt-100-000-neue-abonnenten-auf-youtube/",
+      "details": "Apollo News, 12.05.2025; nennt 227.000 Abonnenten laut Sendung und 331.000 am 12.05.2025.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
     }
   ],
   "speakers": [
@@ -3191,12 +3207,12 @@
       "description": "Bei der Boxerin Imane Khelif liege eine Variante der Geschlechtsentwicklung mit innenliegenden Hoden vor, und sie habe teilweise eine männliche Pubertät durchlaufen.",
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
-      "reason": "Eine Variante der Geschlechtsentwicklung oder innenliegende Hoden sind bei Imane Khelif nicht offiziell bestätigt. Der Boxverband IBA schloss sie 2023 nach einem nicht offengelegten Test aus; das IOC berief sich auf Pass und Werdegang, und der ORF stellte fest, dass eine Diagnose nicht nachgewiesen ist. Das Gesagte ist damit weder belegt noch widerlegt.",
+      "reason": "Eine Variante der Geschlechtsentwicklung oder innenliegende Hoden sind bei Imane Khelif nicht offiziell bestätigt. Der Boxverband IBA schloss sie 2023 nach einem nicht offengelegten Test aus; das IOC berief sich auf Pass und Werdegang, und der ORF stellte fest, dass eine Diagnose nicht nachgewiesen ist. Das Gesagte ist damit weder belegt noch widerlegt. Später bekannt: Im Februar 2026 bejahte Khelif in einem Interview das SRY-Gen und berichtete von einer testosteronsenkenden Behandlung. Die konkret genannten innenliegenden Hoden und eine männliche Pubertät sind auch danach nicht bestätigt.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt."
       },
       "sourceRefs": [
         {
@@ -3206,9 +3222,15 @@
         {
           "sourceId": "S009",
           "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S071",
+          "note": "Später bekannt, ändert die Bewertung nach damaligem Stand nicht: SRY-Gen und testosteronsenkende Behandlung bejaht, kein Befund zu Hoden oder Pubertät."
         }
       ],
-      "openQuestions": [],
+      "openQuestions": [
+        "Offizielle medizinische Angaben oder Testergebnisse, die den genannten Befund bestätigen oder ausschließen."
+      ],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0065",
@@ -3228,7 +3250,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-18",
+            "agent": "Claude",
+            "strategy": "Berichte und IOC-Stellungnahme zur Geschlechterdebatte gelesen.",
+            "sourceIds": [
+              "S008",
+              "S009"
+            ],
+            "result": "Keine offizielle Bestätigung einer Variante der Geschlechtsentwicklung."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Zweiter Durchgang: Lexikon und spätere Interviews Khelifs gesucht.",
+            "sourceIds": [
+              "S071"
+            ],
+            "result": "Später bekannt (Februar 2026): Khelif bejaht das SRY-Gen und testosteronsenkende Behandlung. Innenliegende Hoden oder eine männliche Pubertät sind weiterhin nicht bestätigt."
+          }
+        ],
+        "missingInformation": "Eine offizielle oder medizinische Bestätigung des konkreten Befunds (innenliegende Hoden, männliche Pubertät).",
+        "conflicts": null
+      }
     },
     {
       "id": "bPXMY7Reeek-A0062",
@@ -7081,20 +7130,26 @@
       "description": "Nachdem Jan Böhmermann in seiner Sendung den YouTuber Clownswelt thematisiert habe, habe sich dessen Abonnentenzahl mehr als verdoppelt.",
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
-      "reason": "Belegt ist ein deutlicher Anstieg: Bei der Aufzeichnung hatte Clownswelt laut Böhmermann rund 227.000 Abonnenten, zwei Tage später über 293.000 (etwa plus 29 %). Eine Verdopplung ist in den gelesenen Quellen nicht belegt; spätere Zahlen fehlen.",
+      "reason": "Belegt ist ein deutlicher Anstieg: Bei der Aufzeichnung hatte Clownswelt laut Böhmermann rund 227.000 Abonnenten, zwei Tage später über 293.000 (etwa plus 29 %). Eine Verdopplung ist in den gelesenen Quellen nicht belegt; spätere Zahlen fehlen. Eine zweite Recherche ergab 331.000 Abonnenten am 12.05.2025, also rund plus 46 %; eine Verdopplung ist bis dahin nicht belegt.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt."
       },
       "sourceRefs": [
         {
           "sourceId": "S042",
           "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S072",
+          "note": "331.000 am 12.05.2025, rund plus 46 %; keine Verdopplung."
         }
       ],
-      "openQuestions": [],
+      "openQuestions": [
+        "Abonnentenzahl des Kanals im August 2025, etwa über ein Archiv der Kanalseite."
+      ],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0165",
@@ -7114,7 +7169,33 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-18",
+            "agent": "Claude",
+            "strategy": "Pressebericht zur Abonnentenentwicklung gelesen.",
+            "sourceIds": [
+              "S042"
+            ],
+            "result": "Rund 227.000 auf über 293.000 nach zwei Tagen."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Zweiter Durchgang: weitere Berichte mit späteren Abonnentenzahlen gesucht.",
+            "sourceIds": [
+              "S072"
+            ],
+            "result": "331.000 am 12.05.2025, also rund plus 46 %; ein Bericht, der eine Verdopplung im Titel nennt, war nicht abrufbar. Spätere Zahlen bis zur Videoveröffentlichung fehlen."
+          }
+        ],
+        "missingInformation": "Die Abonnentenzahl zum Zeitpunkt der Aufnahme (August 2025).",
+        "conflicts": null
+      }
     },
     {
       "id": "bPXMY7Reeek-A0146",

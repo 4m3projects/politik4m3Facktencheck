@@ -190,6 +190,14 @@
       "details": "Kanal von Sinan; rund 50.400 Abonnenten (19.11.2026); Themen laut Titeln Politik, Gesellschaft, Verschwörungsszene und Philosophie.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S023",
+      "title": "Marla-Svenja Liebich und das Selbstbestimmungsgesetz: Der Fehler liegt schon beim Standesamt",
+      "url": "https://www.lto.de/recht/hintergruende/h/liebich-selbstbestimmungsgesetz-sbgg-missbrauch-kontrolle",
+      "details": "Legal Tribune Online, Gastbeitrag Salomon J. Gehring, 29.08.2025; nach der Gesetzesbegründung kann das Standesamt bei offensichtlichem Missbrauch ablehnen; kein Beispiel zur Aufmerksamkeit in öffentlicher Debatte genannt.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
     }
   ],
   "speakers": [
@@ -1066,12 +1074,12 @@
       "description": "Die Gesetzesbegründung der Bundesregierung nenne als Beispiel eine Änderung allein, um in einer öffentlichen Debatte Aufmerksamkeit zu erlangen; bemerke das Standesamt das nicht, bleibe die Änderung trotzdem voll wirksam, und ablehnen dürfe es nur bei offensichtlichem Missbrauch.",
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
-      "reason": "Im gelesenen Teil der Gesetzesbegründung (bis S. 27) fand sich kein solches Beispiel; der Besondere Teil der Begründung war nicht abrufbar. Das SBGG selbst enthält keine Ablehnungsbefugnis; Missbrauchsprüfung bei offensichtlichem Missbrauch erwähnt die Begründung nur im Rechtsvergleich mit der Schweiz.",
+      "reason": "Im gelesenen Teil der Gesetzesbegründung (bis S. 27) fand sich kein solches Beispiel; der Besondere Teil der Begründung war nicht abrufbar. Das SBGG selbst enthält keine Ablehnungsbefugnis; Missbrauchsprüfung bei offensichtlichem Missbrauch erwähnt die Begründung nur im Rechtsvergleich mit der Schweiz. Eine zweite Recherche bestätigt über einen Fachbeitrag, dass das Standesamt nach der Begründung bei offensichtlichem Missbrauch ablehnen kann; das genannte Beispiel bleibt unbelegt.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen."
+        "assessmentChange": "Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt."
       },
       "sourceRefs": [
         {
@@ -1081,9 +1089,15 @@
         {
           "sourceId": "S003",
           "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
+        },
+        {
+          "sourceId": "S023",
+          "note": "Ablehnung bei offensichtlichem Missbrauch laut Begründung; kein Beispiel zur Aufmerksamkeit."
         }
       ],
-      "openQuestions": [],
+      "openQuestions": [
+        "Besonderen Teil der Begründung in BT-Drs. 20/9049 vollständig lesen, etwa über eine lokale Kopie der Drucksache."
+      ],
       "occurrences": [
         {
           "id": "GbhI-p_ycJE-O0021",
@@ -1103,7 +1117,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-18",
+            "agent": "Claude",
+            "strategy": "Gesetzentwurf mit Begründung bis S. 27 und Gesetzestext gelesen.",
+            "sourceIds": [
+              "S004",
+              "S003"
+            ],
+            "result": "Kein solches Beispiel im gelesenen Teil; Besonderer Teil nicht abrufbar."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Zweiter Durchgang: erneuter Abruf des Entwurfs (Besonderer Teil wieder nicht lesbar) und juristische Fachbeiträge zur Missbrauchskontrolle gesucht.",
+            "sourceIds": [
+              "S023"
+            ],
+            "result": "Fachbeitrag bestätigt nach der Begründung eine Ablehnung bei offensichtlichem Missbrauch; ein Beispiel zur Aufmerksamkeit in einer öffentlichen Debatte wird nicht genannt."
+          }
+        ],
+        "missingInformation": "Der Wortlaut des Besonderen Teils der Begründung (BT-Drs. 20/9049).",
+        "conflicts": null
+      }
     },
     {
       "id": "GbhI-p_ycJE-A0021",
