@@ -239,13 +239,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Im gelesenen Teil der Gesetzesbegründung (bis S. 27) fand sich kein solches Beispiel; der Besondere Teil der Begründung war nicht abrufbar. Das SBGG selbst enthält keine Ablehnungsbefugnis; Missbrauchsprüfung bei offensichtlichem Missbrauch erwähnt die Begründung nur im Rechtsvergleich mit der Schweiz.
+Im gelesenen Teil der Gesetzesbegründung (bis S. 27) fand sich kein solches Beispiel; der Besondere Teil der Begründung war nicht abrufbar. Das SBGG selbst enthält keine Ablehnungsbefugnis; Missbrauchsprüfung bei offensichtlichem Missbrauch erwähnt die Begründung nur im Rechtsvergleich mit der Schweiz. Eine zweite Recherche bestätigt über einen Fachbeitrag, dass das Standesamt nach der Begründung bei offensichtlichem Missbrauch ablehnen kann; das genannte Beispiel bleibt unbelegt.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
 
 ### Zugeordnete Quellen
 
@@ -255,9 +255,22 @@ Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannt
 - [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html) · Bundesministerium der Justiz / Bundesamt für Justiz; Ausfertigung 19.06.2024, BGBl. 2024 I Nr. 206; Inkrafttreten laut Fußnote 01.11.2024, § 4 ab 01.08.2024.
   Quellenzugriff am 2026-11-18. Gesetzestext vollständig gelesen (§§ 1–15 einschließlich Fußnote zum Inkrafttreten). Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
+- [Marla-Svenja Liebich und das Selbstbestimmungsgesetz: Der Fehler liegt schon beim Standesamt](https://www.lto.de/recht/hintergruende/h/liebich-selbstbestimmungsgesetz-sbgg-missbrauch-kontrolle) · Legal Tribune Online, Gastbeitrag Salomon J. Gehring, 29.08.2025; nach der Gesetzesbegründung kann das Standesamt bei offensichtlichem Missbrauch ablehnen; kein Beispiel zur Aufmerksamkeit in öffentlicher Debatte genannt.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. Ablehnung bei offensichtlichem Missbrauch laut Begründung; kein Beispiel zur Aufmerksamkeit.
+
 ### Offene Fragen und Unsicherheiten
 
-Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+- Besonderen Teil der Begründung in BT-Drs. 20/9049 vollständig lesen, etwa über eine lokale Kopie der Drucksache.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Der Wortlaut des Besonderen Teils der Begründung (BT-Drs. 20/9049).
+
+- Durchgang 1 am 2026-11-18 (Claude): Gesetzentwurf mit Begründung bis S. 27 und Gesetzestext gelesen. Gepruefte Quellen: S004, S003. Ergebnis: Kein solches Beispiel im gelesenen Teil; Besonderer Teil nicht abrufbar.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: erneuter Abruf des Entwurfs (Besonderer Teil wieder nicht lesbar) und juristische Fachbeiträge zur Missbrauchskontrolle gesucht. Gepruefte Quellen: S022. Ergebnis: Fachbeitrag bestätigt nach der Begründung eine Ablehnung bei offensichtlichem Missbrauch; ein Beispiel zur Aufmerksamkeit in einer öffentlichen Debatte wird nicht genannt.
 
 ## GbhI-p_ycJE-A0021
 

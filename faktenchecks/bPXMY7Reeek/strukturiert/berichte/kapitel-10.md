@@ -462,13 +462,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eine Variante der Geschlechtsentwicklung oder innenliegende Hoden sind bei Imane Khelif nicht offiziell bestätigt. Der Boxverband IBA schloss sie 2023 nach einem nicht offengelegten Test aus; das IOC berief sich auf Pass und Werdegang, und der ORF stellte fest, dass eine Diagnose nicht nachgewiesen ist. Das Gesagte ist damit weder belegt noch widerlegt.
+Eine Variante der Geschlechtsentwicklung oder innenliegende Hoden sind bei Imane Khelif nicht offiziell bestätigt. Der Boxverband IBA schloss sie 2023 nach einem nicht offengelegten Test aus; das IOC berief sich auf Pass und Werdegang, und der ORF stellte fest, dass eine Diagnose nicht nachgewiesen ist. Das Gesagte ist damit weder belegt noch widerlegt. Später bekannt: Im Februar 2026 bejahte Khelif in einem Interview das SRY-Gen und berichtete von einer testosteronsenkenden Behandlung. Die konkret genannten innenliegenden Hoden und eine männliche Pubertät sind auch danach nicht bestätigt.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen.
+Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannten, tatsächlich gelesenen Quellen; keine frühere Bewertung übernommen. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
 
 ### Zugeordnete Quellen
 
@@ -478,9 +478,22 @@ Bewertungsuebergang: Erstbewertung durch Claude am 18.11.2026 anhand der genannt
 - [IOC defends Algerian boxer Imane Khelif after gender row](https://www.africanews.com/2024/08/02/ioc-defends-algerian-boxer-imane-khelif-after-gender-row/) · Africanews, 02.08.2024.
   Quellenzugriff am 2026-11-18. Artikel gelesen. Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage.
 
+- [Boxer Imane Khelif reveals hormone treatments before Paris Olympics](https://www.malaymail.com/news/sports/2026/02/05/boxer-imane-khelif-reveals-hormone-treatments-before-paris-olympics/208136) · AFP-Meldung, veröffentlicht von Malay Mail, 05.02.2026; Khelif bejaht im L'Équipe-Interview das SRY-Gen und berichtet von testosteronsenkender Behandlung. Später bekannt, nach der Veröffentlichung des Videos.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. Später bekannt, ändert die Bewertung nach damaligem Stand nicht: SRY-Gen und testosteronsenkende Behandlung bejaht, kein Befund zu Hoden oder Pubertät.
+
 ### Offene Fragen und Unsicherheiten
 
-Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+- Offizielle medizinische Angaben oder Testergebnisse, die den genannten Befund bestätigen oder ausschließen.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Eine offizielle oder medizinische Bestätigung des konkreten Befunds (innenliegende Hoden, männliche Pubertät).
+
+- Durchgang 1 am 2026-11-18 (Claude): Berichte und IOC-Stellungnahme zur Geschlechterdebatte gelesen. Gepruefte Quellen: S008, S009. Ergebnis: Keine offizielle Bestätigung einer Variante der Geschlechtsentwicklung.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: Lexikon und spätere Interviews Khelifs gesucht. Gepruefte Quellen: S067. Ergebnis: Später bekannt (Februar 2026): Khelif bejaht das SRY-Gen und testosteronsenkende Behandlung. Innenliegende Hoden oder eine männliche Pubertät sind weiterhin nicht bestätigt.
 
 ## bPXMY7Reeek-A0062
 
