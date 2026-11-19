@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "scope": "Vollbestand",
+  "coverageNote": "Vollständige Erfassung des Shorts (00:00:00–00:02:58): Jede prüfbare Tatsachenbehauptung ist aufgenommen. Bewusst nicht aufgenommen wurden Begrüßung, Segenswunsch, die Frage an die Zuschauer, ob sie mehr solcher Kommentare wollen, und die Bemerkung, der Zusatz sei nachträglich angehängt (als Kontext bei A0010 vermerkt).",
+  "videoId": "gVQeb83GHDQ",
+  "selectedLegacyPoints": 0,
+  "totalLegacyPoints": 0,
+  "statementRecords": 12,
+  "uniqueStatements": 12,
+  "referenceOnlyStatements": 0,
+  "unresolvedRoleOnlyStatements": 0,
+  "assertionOccurrences": 12,
+  "additionalAssertionOccurrences": 0,
+  "sameSpeakerRepeatedAssertionOccurrences": 0,
+  "referenceOccurrences": 0,
+  "unresolvedRoleOccurrences": 0,
+  "statusCounts": {
+    "Offen": 0,
+    "In Bearbeitung": 0,
+    "Nicht überprüfbar": 2,
+    "Abgeschlossen": 10
+  },
+  "kindCounts": {
+    "Tatsachenbehauptung": 10,
+    "Meinung": 2,
+    "Prognose": 0
+  },
+  "completedFacts": 8,
+  "openFacts": 0,
+  "inProgressFacts": 0,
+  "unverifiableFacts": 2,
+  "percentageDenominator": 8,
+  "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
+  "categories": [
+    {
+      "category": "Belegt",
+      "completedCount": 7,
+      "completedFactPercent": 87.5
+    },
+    {
+      "category": "Teilweise belegt",
+      "completedCount": 1,
+      "completedFactPercent": 12.5
+    },
+    {
+      "category": "Irreführend / Kontext fehlt",
+      "completedCount": 0,
+      "completedFactPercent": 0.0
+    },
+    {
+      "category": "Widerlegt",
+      "completedCount": 0,
+      "completedFactPercent": 0.0
+    },
+    {
+      "category": "Nicht ausreichend belegbar",
+      "completedCount": 0,
+      "completedFactPercent": 0.0
+    },
+    {
+      "category": "Meinung / Prognose",
+      "completedCount": 2,
+      "completedFactPercent": null
+    }
+  ],
+  "speakerStatistics": {
+    "definition": "Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.",
+    "persons": [
+      {
+        "speakerId": "SP01",
+        "name": "Jens Christ",
+        "uniqueFacts": 0,
+        "completedFacts": 0,
+        "openFacts": 0,
+        "inProgressFacts": 0,
+        "unverifiableFacts": 0,
+        "percentageDenominator": 0,
+        "categories": [
+          {
+            "category": "Belegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Teilweise belegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Irreführend / Kontext fehlt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Widerlegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Nicht ausreichend belegbar",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Meinung / Prognose",
+            "completedCount": 0,
+            "completedFactPercent": null
+          }
+        ]
+      }
+    ],
+    "eligibleFacts": 10,
+    "reliablyAssignedFacts": 0,
+    "factsWithoutReliablePerson": 10,
+    "factsWithUncertainAttribution": 10,
+    "factsWithUncertainOwnRole": 10,
+    "occurrenceAttributionCounts": {
+      "Bestätigt": 0,
+      "Plausibel": 12,
+      "Ungeklärt": 0
+    },
+    "occurrenceRoleStatusCounts": {
+      "Bestätigt": 0,
+      "Plausibel": 12,
+      "Ungeklärt": 0
+    }
+  }
+}

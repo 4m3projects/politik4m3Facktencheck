@@ -1,0 +1,663 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Vollbestand",
+    "videoId": "gVQeb83GHDQ",
+    "videoUrl": "https://www.youtube.com/watch?v=gVQeb83GHDQ",
+    "durationSeconds": 178,
+    "asOf": "2026-11-19",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "Unabhängige Erfassung durch Claude am 19.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–00:02:59). Quellen zur Shorts-Länge, die beiden GitHub-Repositorys und die Beschreibungen und Untertitel der in Frage kommenden Alfred-Videos wurden selbst gelesen. Den Kommentarverlauf unter dem Alfred-Video BOIqGtGuShM belegen vom Sprecher bereitgestellte Bildschirmfotos; die Kommentare wurden nicht selbst abgerufen, Namen anderer Nutzer werden nicht veröffentlicht. Keine Audio-/Videokontrolle; der Sprecher ist nur plausibel zugeordnet (Selbstvorstellung, eigener Kanal).",
+    "coverageNote": "Vollständige Erfassung des Shorts (00:00:00–00:02:58): Jede prüfbare Tatsachenbehauptung ist aufgenommen. Bewusst nicht aufgenommen wurden Begrüßung, Segenswunsch, die Frage an die Zuschauer, ob sie mehr solcher Kommentare wollen, und die Bemerkung, der Zusatz sei nachträglich angehängt (als Kontext bei A0010 vermerkt)."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "„Frag doch deine KI!“ (YouTube Short)",
+      "url": "https://www.youtube.com/watch?v=gVQeb83GHDQ",
+      "details": "Kanal Politik4m3; laut Metadaten veröffentlicht am 19.11.2026, Laufzeit 178 Sekunden, Hochformat (2160 × 3840), ohne Kapitelmarken; als Short über youtube.com/shorts/gVQeb83GHDQ verbreitet.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel (de-orig) vollständig gelesen; Metadaten und Beschreibung nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle."
+    },
+    {
+      "id": "S002",
+      "title": "Understand three-minute YouTube Shorts (YouTube-Hilfe)",
+      "url": "https://support.google.com/youtube/answer/15424877?hl=en",
+      "details": "Google, YouTube-Hilfe; ohne Datumsangabe auf der Seite. Shorts bis drei Minuten bei quadratischem oder hochkantem Format für Uploads ab 15.10.2024; ältere Uploads bleiben Langvideos.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Seite tatsächlich geöffnet und gelesen (HTTP 200)."
+    },
+    {
+      "id": "S003",
+      "title": "Tall updates coming to Shorts (YouTube Official Blog)",
+      "url": "https://blog.youtube/news-and-events/tall-updates-coming-to-shorts/",
+      "details": "YouTube Official Blog, Todd Sherman, 03.10.2024: Ab 15.10.2024 können Shorts bis drei Minuten lang sein (quadratisch oder hochkant).",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Seite tatsächlich geöffnet und gelesen (HTTP 200)."
+    },
+    {
+      "id": "S004",
+      "title": "Repository politik4m3Facktencheck (GitHub)",
+      "url": "https://github.com/4m3projects/politik4m3Facktencheck",
+      "details": "Öffentliches Repository des Kontos 4m3projects mit Faktencheck-Daten, Webseite (GitHub Pages) und den verbindlichen Agentenanweisungen AGENTS.md (Codex, ChatGPT und Claude als KI-Agenten).",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Repository geklont und README.md, AGENTS.md sowie die Webseitendateien gelesen (Stand main 85e0d4a)."
+    },
+    {
+      "id": "S005",
+      "title": "Repository politik4m3FaktencheckUngeskriptet (GitHub)",
+      "url": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet",
+      "details": "Zweites öffentliches Faktencheck-Repository desselben Kontos mit eigener Webseite (GitHub Pages) für Interviews von {ungeskriptet} by Ben und Reaktionen darauf.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Repository geklont und AGENTS.md sowie die Faktencheck-Verzeichnisse gelesen (Stand main 01432a0)."
+    },
+    {
+      "id": "S006",
+      "title": "Alfred räumt auf: Hat er recht beim Selbstbestimmungsgesetz? Sinan bei IT Camper",
+      "url": "https://www.youtube.com/watch?v=GbhI-p_ycJE",
+      "details": "Kanal Alfred räumt auf, veröffentlicht am 18.11.2026. Die Beschreibung bezeichnet den Kanal als Projekt von SinansWoche und nennt Sinan als Erbauer der KI-Figur.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Beschreibung und Metadaten aus der privaten Ablage gelesen (Projekt-Importskript, Abruf 18.11.2026); automatische deutsche Untertitel am 19.11.2026 gezielt nach Stichwörtern durchsucht. Keine Hör-/Sichtkontrolle."
+    },
+    {
+      "id": "S007",
+      "title": "Alfred räumt auf: Wächst das Eis am Südpol? Markus Krall bei Ungeskriptet",
+      "url": "https://www.youtube.com/watch?v=qQAcmDzd9O8",
+      "details": "Kanal Alfred räumt auf, veröffentlicht am 14.11.2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Automatische deutsche Untertitel aus der privaten Ablage am 19.11.2026 gezielt nach Stichwörtern durchsucht (Brief, Zuschauer, Kommentar, Jens, Politik, Nachricht, Mail u. a.). Keine Hör-/Sichtkontrolle."
+    },
+    {
+      "id": "S008",
+      "title": "Alfred räumt auf: Hatte Musk keine Zeit für Epsteins Insel? Naomi Seibt bei Ungeskriptet",
+      "url": "https://www.youtube.com/watch?v=BOIqGtGuShM",
+      "details": "Kanal Alfred räumt auf, veröffentlicht am 19.11.2026, Laufzeit 944 Sekunden; das jüngste Video des Kanals zum Erstelldatum des Shorts.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel gezielt nach Stichwörtern durchsucht und die Fundstellen im Zusammenhang gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle."
+    },
+    {
+      "id": "S009",
+      "title": "Öffentlicher Kommentarverlauf unter dem Alfred-Video BOIqGtGuShM",
+      "url": "https://www.youtube.com/watch?v=BOIqGtGuShM",
+      "details": "Kommentar des Kanals Politik4m3 vom 19.11.2026 mit Antworten eines anderen Nutzers und weiteren Antworten von Politik4m3; Zeitangaben relativ (vor 30 Minuten bis vor 5 Stunden zum Zeitpunkt der Aufnahme). Der Name des anderen Nutzers wird hier bewusst nicht genannt.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Elf Bildschirmfotos des Kommentarverlaufs und der YouTube-Benachrichtigungen, am 19.11.2026 vom Kanalbetreiber (zugleich Sprecher des Shorts und Auftraggeber) bereitgestellt und vollständig gelesen. Kein eigener Abruf der Kommentare; der Inhalt ist daher nicht unabhängig von der Seite des Sprechers erhoben."
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Jens Christ",
+      "videoRole": "Einziger Sprecher; Betreiber des Kanals Politik4m3",
+      "identityBasis": "Selbstvorstellung zu Beginn des Shorts und Kanalname Politik4m3. Kein Stimmabgleich; nicht als bestätigte Sprecheridentität verwendet."
+    }
+  ],
+  "claims": [
+    {
+      "id": "gVQeb83GHDQ-A0001",
+      "videoId": "gVQeb83GHDQ",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Sprecher habe unter dem neuesten Video von Alfred räumt auf einen Kommentar hinterlassen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Unter dem jüngsten Alfred-Video vom 19.11.2026 (Naomi Seibt) steht ein langer Kommentar des Kanals Politik4m3 vom selben Tag. Darin lobt er die Folge, spielt ironisch auf den im Video erwähnten langen Brief an und verweist auf die eigenen KI-gestützten Faktenchecks. Grundlage sind vom Sprecher bereitgestellte Bildschirmfotos; die Kommentare selbst haben wir nicht abgerufen.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Bildschirmfotos des öffentlichen Kommentarverlaufs, vom Sprecher selbst bereitgestellt; kein eigener Abruf."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Video, unter dem der Kommentar steht; jüngstes Video des Kanals am 19.11.2026."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "gVQeb83GHDQ-O0001",
+          "startSeconds": 3,
+          "endSeconds": 15,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Einziger Sprecher des Shorts; stellt sich zu Beginn selbst als Jens Christ vor, das Video erscheint auf seinem Kanal Politik4m3. Kein Stimmabgleich.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Ich-Erzählung im Monolog; als eigene Aussage erschlossen.",
+          "note": "Im automatischen Text als „Alfred von Zinan“ und „bei den neuesten Video“ erfasst. Keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "gVQeb83GHDQ-A0002",
+      "videoId": "gVQeb83GHDQ",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Kanal Alfred räumt auf gehöre zu Sinan (SinansWoche).",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Beschreibung des Alfred-Videos vom 18.11.2026 bezeichnet den Kanal ausdrücklich als Projekt von SinansWoche und nennt Sinan als denjenigen, der die KI-Figur gebaut hat. Die Zugehörigkeit ist damit vom Kanal selbst öffentlich erklärt. Wie Betrieb und Finanzierung intern geregelt sind, behauptet der Short nicht und ist hier nicht geprüft (vgl. GbhI-p_ycJE-A0002).",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Kanalbeschreibung als öffentliche Selbstauskunft zur Zugehörigkeit; keine Prüfung interner Verhältnisse."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "gVQeb83GHDQ-O0002",
+          "startSeconds": 8,
+          "endSeconds": 11,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Einziger Sprecher des Shorts; stellt sich zu Beginn selbst als Jens Christ vor, das Video erscheint auf seinem Kanal Politik4m3. Kein Stimmabgleich.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Ich-Erzählung im Monolog; als eigene Aussage erschlossen.",
+          "note": "Im automatischen Text als „Alfred von Zinan“ geschrieben; gemeint ist erkennbar Sinan. Keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "gVQeb83GHDQ-A0003",
+      "videoId": "gVQeb83GHDQ",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein früherer langer Brief des Sprechers an Alfred sei vermutlich in einer Sendung angesprochen worden.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Im jüngsten Alfred-Video vom 19.11.2026 sagt die KI-Figur gleich zu Beginn, mehrere Zuschauer hätten sich diesen Gast gewünscht, einer sogar mit einem langen Brief, den sie gelesen habe. Dass in der Sendung ein langer Brief angesprochen wurde, ist damit belegt. Den Absender nennt das Video nicht. Der Sprecher schreibt in seinen Kommentaren, er habe das Naomi-Seibt-Interview zuvor in einem ausführlichen YouTube-Kommentar vorgeschlagen, und hält es selbst nur für eine starke Vermutung, dass dieser gemeint war; bestätigen könnte das nur der Kanal. In zwei früheren Alfred-Videos (14.11. und 18.11.2026) kommt kein Brief vor.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Erwähnung eines langen Zuschauerbriefs zu Beginn (etwa 00:00:17–00:00:21, automatische Untertitel); Absender nicht genannt."
+        },
+        {
+          "sourceId": "S009",
+          "note": "Bildschirmfotos des öffentlichen Kommentarverlaufs, vom Sprecher selbst bereitgestellt; kein eigener Abruf."
+        },
+        {
+          "sourceId": "S006",
+          "note": "Untertitel gezielt durchsucht: kein Bezug auf einen Brief."
+        },
+        {
+          "sourceId": "S007",
+          "note": "Untertitel gezielt durchsucht: kein Bezug auf einen Brief, nur allgemeiner Aufruf zu Gastwünschen in den Kommentaren."
+        }
+      ],
+      "openQuestions": [
+        "Ob der erwähnte Brief der frühere Vorschlagskommentar des Sprechers war, kann nur der Kanal Alfred räumt auf bestätigen; der frühere Kommentar selbst wurde nicht gelesen."
+      ],
+      "occurrences": [
+        {
+          "id": "gVQeb83GHDQ-O0003",
+          "startSeconds": 18,
+          "endSeconds": 30,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Einziger Sprecher des Shorts; stellt sich zu Beginn selbst als Jens Christ vor, das Video erscheint auf seinem Kanal Politik4m3. Kein Stimmabgleich.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Ich-Erzählung im Monolog; als eigene Aussage erschlossen.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "gVQeb83GHDQ-A0004",
+      "videoId": "gVQeb83GHDQ",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein anderer Nutzer habe ihm geraten, sein Gehirn zu benutzen, und auf Nachfrage geantwortet, die Frage sei zugleich die Antwort, er solle seine KI fragen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Kommentarverlauf zeigt genau diese Abfolge: Ein anderer Nutzer antwortet auf den Kommentar von Politik4m3 mit dem Rat, einmal das eigene Hirn zu benutzen; Politik4m3 fragt kurz nach, was damit gemeint sei; der Nutzer antwortet, die Frage sei zugleich die Antwort, er solle seine KI fragen. Danach folgt, wie im Short erwähnt, eine lange Antwort von Politik4m3. Grundlage sind vom Sprecher bereitgestellte Bildschirmfotos.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Bildschirmfotos des öffentlichen Kommentarverlaufs, vom Sprecher selbst bereitgestellt; kein eigener Abruf."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "gVQeb83GHDQ-O0004",
+          "startSeconds": 46,
+          "endSeconds": 66,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Einziger Sprecher des Shorts; stellt sich zu Beginn selbst als Jens Christ vor, das Video erscheint auf seinem Kanal Politik4m3. Kein Stimmabgleich.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Ich-Erzählung im Monolog; als eigene Aussage erschlossen.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "gVQeb83GHDQ-A0005",
+      "videoId": "gVQeb83GHDQ",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Sprecher arbeite viel mit KI.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die beiden öffentlichen Faktencheck-Projekte seines Kontos 4m3projects werden nach den verbindlichen Agentenanweisungen (AGENTS.md) von mehreren KI-Agenten (Codex, ChatGPT, Claude) erstellt und geprüft; die Arbeit ist im Verlauf der Repositorys nachvollziehbar. Das belegt eine umfangreiche KI-Nutzung in diesem Bereich. Wie viel er darüber hinaus mit KI arbeitet, ist nicht geprüft. Hinweis: Auch dieser Faktencheck wurde von Claude erstellt.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "AGENTS.md beschreibt die Zusammenarbeit der KI-Agenten im Projekt."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Zweites Projekt mit derselben KI-gestützten Arbeitsweise."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "gVQeb83GHDQ-O0005",
+          "startSeconds": 67,
+          "endSeconds": 71,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Einziger Sprecher des Shorts; stellt sich zu Beginn selbst als Jens Christ vor, das Video erscheint auf seinem Kanal Politik4m3. Kein Stimmabgleich.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Ich-Erzählung im Monolog; als eigene Aussage erschlossen.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "gVQeb83GHDQ-A0006",
+      "videoId": "gVQeb83GHDQ",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seine Nachfrage an den Kommentator habe er bewusst ohne KI selbst geschrieben.",
+      "status": "Nicht überprüfbar",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – Ob ein Text mit oder ohne KI-Hilfe entstanden ist, lässt sich aus öffentlich zugänglichen Angaben nicht feststellen; es gibt keine verlässliche Prüfgrundlage. Fehlende Bestätigung bedeutet nicht falsch.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine öffentliche Prüfgrundlage für die Entstehung eines einzelnen Kommentars vorhanden."
+      ],
+      "occurrences": [
+        {
+          "id": "gVQeb83GHDQ-O0006",
+          "startSeconds": 73,
+          "endSeconds": 80,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Einziger Sprecher des Shorts; stellt sich zu Beginn selbst als Jens Christ vor, das Video erscheint auf seinem Kanal Politik4m3. Kein Stimmabgleich.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Ich-Erzählung im Monolog; als eigene Aussage erschlossen.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "gVQeb83GHDQ-A0007",
+      "videoId": "gVQeb83GHDQ",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Mit KI geschriebene Texte von ihm würden ausführlicher und sachlicher.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Selbsteinschätzung des eigenen Schreibens mit und ohne KI. Ein allgemein prüfbarer Tatsachenkern fehlt; es geht um seine persönliche Erfahrung.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "gVQeb83GHDQ-O0007",
+          "startSeconds": 78,
+          "endSeconds": 86,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Einziger Sprecher des Shorts; stellt sich zu Beginn selbst als Jens Christ vor, das Video erscheint auf seinem Kanal Politik4m3. Kein Stimmabgleich.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Ich-Erzählung im Monolog; als eigene Aussage erschlossen.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "gVQeb83GHDQ-A0008",
+      "videoId": "gVQeb83GHDQ",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "YouTube Shorts seien höchstens drei Minuten lang.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Seit dem 15.10.2024 können Shorts bis zu drei Minuten lang sein, sofern das Video quadratisch oder hochkant ist; das galt zum Erstelldatum des Shorts (19.11.2026) laut YouTube-Hilfe unverändert. Der Short selbst dauert 178 Sekunden und liegt damit knapp unter der Grenze.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Aktuelle Regel zur Höchstlänge und zum Stichtag."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Ankündigung der Verlängerung auf drei Minuten (03.10.2024)."
+        },
+        {
+          "sourceId": "S001",
+          "note": "Laufzeit des Shorts laut Metadaten: 178 Sekunden."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "gVQeb83GHDQ-O0008",
+          "startSeconds": 114,
+          "endSeconds": 121,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Einziger Sprecher des Shorts; stellt sich zu Beginn selbst als Jens Christ vor, das Video erscheint auf seinem Kanal Politik4m3. Kein Stimmabgleich.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Ich-Erzählung im Monolog; als eigene Aussage erschlossen.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "gVQeb83GHDQ-A0009",
+      "videoId": "gVQeb83GHDQ",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Sprecher baue gerade mehrere Faktencheck-Seiten auf GitHub auf.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Sein Konto 4m3projects betreibt auf GitHub zwei öffentliche Faktencheck-Repositorys mit je eigener Webseite (GitHub Pages), an denen zum Erstelldatum täglich gearbeitet wurde. Die inhaltliche und technische Umsetzung übernehmen nach den veröffentlichten Projektregeln überwiegend KI-Agenten; der Sprecher steuert das Projekt und gibt Änderungen frei. Seine Darstellung, er nutze dafür sein eigenes Gehirn, steht dazu nicht im Widerspruch, ist aber durch diesen Kontext zu ergänzen.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Erstes Faktencheck-Repository mit Webseite und Agentenregeln."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Zweites Faktencheck-Repository mit eigener Webseite."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "gVQeb83GHDQ-O0009",
+          "startSeconds": 122,
+          "endSeconds": 132,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Einziger Sprecher des Shorts; stellt sich zu Beginn selbst als Jens Christ vor, das Video erscheint auf seinem Kanal Politik4m3. Kein Stimmabgleich.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Ich-Erzählung im Monolog; als eigene Aussage erschlossen.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "gVQeb83GHDQ-A0010",
+      "videoId": "gVQeb83GHDQ",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Short sei ohne Skript spontan gesprochen.",
+      "status": "Nicht überprüfbar",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – Ob ein Skript vorlag, ist nur dem Sprecher bekannt. Der automatische Text mit vielen Füllwörtern, Abbrüchen und einer Selbstkorrektur passt zu frei gesprochener Rede, beweist sie aber nicht. Laut eigener Angabe wurde am Ende ein Zusatz nachträglich aufgenommen und angehängt.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Keine öffentliche Prüfgrundlage für die Entstehung des Videos."
+      ],
+      "occurrences": [
+        {
+          "id": "gVQeb83GHDQ-O0010",
+          "startSeconds": 132,
+          "endSeconds": 137,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Einziger Sprecher des Shorts; stellt sich zu Beginn selbst als Jens Christ vor, das Video erscheint auf seinem Kanal Politik4m3. Kein Stimmabgleich.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Ich-Erzählung im Monolog; als eigene Aussage erschlossen.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "gVQeb83GHDQ-A0011",
+      "videoId": "gVQeb83GHDQ",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Kommentator habe nach der Aufnahme noch eine weitere, ausfallende Antwort nachgelegt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das entscheidende Wort ist im automatischen Text unklar erkannt; nach dem Zusammenhang ist eine weitere, beleidigende Antwort gemeint. Der Kommentarverlauf zeigt eine solche spätere Antwort des Nutzers, die die lange Antwort als Wortschwall abtut und den Sprecher herabsetzt, und danach eine kurze Gegenfrage von Politik4m3. Grundlage sind vom Sprecher bereitgestellte Bildschirmfotos.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Bildschirmfotos des öffentlichen Kommentarverlaufs, vom Sprecher selbst bereitgestellt; kein eigener Abruf."
+        }
+      ],
+      "openQuestions": [
+        "Wortlaut der Stelle im Short (etwa 00:02:32) ohne Hörkontrolle unsicher."
+      ],
+      "occurrences": [
+        {
+          "id": "gVQeb83GHDQ-O0011",
+          "startSeconds": 152,
+          "endSeconds": 158,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Einziger Sprecher des Shorts; stellt sich zu Beginn selbst als Jens Christ vor, das Video erscheint auf seinem Kanal Politik4m3. Kein Stimmabgleich.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Ich-Erzählung im Monolog; als eigene Aussage erschlossen.",
+          "note": "Schlüsselwort im automatischen Text unklar erkannt; Deutung als „ausfallend“ aus dem Zusammenhang. Keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "gVQeb83GHDQ-A0012",
+      "videoId": "gVQeb83GHDQ",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Der Kommentator sollte vielleicht selbst einmal sein Gehirn benutzen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Ironische Erwiderung des Sprechers auf den Rat des Kommentators; eine Wertung ohne prüfbaren Tatsachenkern.",
+      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "gVQeb83GHDQ-O0012",
+          "startSeconds": 155,
+          "endSeconds": 163,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Einziger Sprecher des Shorts; stellt sich zu Beginn selbst als Jens Christ vor, das Video erscheint auf seinem Kanal Politik4m3. Kein Stimmabgleich.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Ich-Erzählung im Monolog; als eigene Aussage erschlossen.",
+          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
+          "timeBasis": "Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    }
+  ]
+}
