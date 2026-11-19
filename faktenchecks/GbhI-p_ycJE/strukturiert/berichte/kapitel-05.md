@@ -55,7 +55,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Auf der Erde lebten über acht Milliarden Menschen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -74,23 +74,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die UN-Bevölkerungsschätzung konnte nicht abgerufen werden (Client-Fehler); die Zahl wird nicht aus dem Gedächtnis bewertet. Fehlende Bestätigung bedeutet nicht falsch.
+Nach der Bevölkerungsabteilung der Vereinten Nationen erreichte die Weltbevölkerung am 15. November 2022 rechnerisch 8 Milliarden Menschen; seither ist sie weiter gewachsen. „Über acht Milliarden“ trifft damit zu.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: UN-DESA-Seite zum „Day of Eight Billion“ gelesen; aktuelle World Population Prospects nicht gelesen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): UN-Bevölkerungsangabe gelesen; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Day of Eight Billion, 15 November 2022](https://www.un.org/development/desa/pd/node/4259) · Vereinte Nationen, DESA Population Division; Projektion der 8-Milliarden-Marke für den 15.11.2022.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. 8 Milliarden am 15.11.2022 (Projektion).
 
 ### Offene Fragen und Unsicherheiten
 
-- Aktuelle Bevölkerungsschätzung der Vereinten Nationen (World Population Prospects) prüfen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0057
 

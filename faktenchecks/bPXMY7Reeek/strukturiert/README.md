@@ -13,8 +13,8 @@ Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollstän
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 170
-- Abgeschlossen: 88
-- Offen (noch nicht geprueft): 28
+- Abgeschlossen: 89
+- Offen (noch nicht geprueft): 27
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 54
 - Erfasste Behauptungsvorkommen: 197
@@ -30,17 +30,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 50 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 51 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 13 | 26.0 % |
-| Teilweise belegt | 28 | 56.0 % |
-| Irreführend / Kontext fehlt | 3 | 6.0 % |
-| Widerlegt | 4 | 8.0 % |
-| Nicht ausreichend belegbar | 2 | 4.0 % |
+| Belegt | 14 | 27.5 % |
+| Teilweise belegt | 28 | 54.9 % |
+| Irreführend / Kontext fehlt | 3 | 5.9 % |
+| Widerlegt | 4 | 7.8 % |
+| Nicht ausreichend belegbar | 2 | 3.9 % |
 | Meinung / Prognose | 38 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
