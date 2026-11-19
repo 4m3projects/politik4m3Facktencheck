@@ -552,7 +552,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** In Japan sei es bei Grippewellen üblich, Masken zu tragen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -571,23 +571,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine Quelle zu Maskengewohnheiten in Japan gelesen. Fehlende Bestätigung bedeutet nicht falsch.
+Maskentragen ist in Japan seit der Spanischen Grippe 1918 verbreitet und wurde bei späteren Grippewellen (1968, SARS 2003, Schweinegrippe 2009) verstärkt; schon vor COVID galt es als üblich und höflich, bei Krankheit eine Maske zu tragen.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Gavi-Artikel (2021) und Webmagazin der japanischen Regierung (2022) gelesen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Maskengewohnheit in Japan recherchiert; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [100 years and counting of mask wearing in Japan](https://www.gavi.org/vaccineswork/100-years-and-counting-mask-wearing-japan) · Gavi VaccinesWork, Anyiam-Osigwe/Schmitz, 19.02.2021; Geschichte des Maskentragens in Japan seit 1918.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Masken bei Grippewellen seit 1918.
+
+- [Masks in the Context of COVID-19](https://japanupclose.web-japan.org/techculture/c20220630_4.html) · Japan Up Close (Webmagazin der japanischen Regierung), 30.06.2022; Maskengewohnheit vor COVID.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Maskengewohnheit vor COVID, Maske bei Krankheit aus Höflichkeit.
 
 ### Offene Fragen und Unsicherheiten
 
-- Kulturwissenschaftliche oder gesundheitsbezogene Quellen zur Maskenpraxis in Japan vor 2020 prüfen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0129
 

@@ -272,7 +272,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** In manchen Kulturen gebe es weitere Geschlechterrollen, etwa Hijras in Südasien und Two-Spirit-Personen in indigenen Kulturen Nordamerikas.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -291,23 +291,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – ethnologische Angabe, zu der keine Fachquelle gelesen wurde. Fehlende Bestätigung bedeutet nicht falsch.
+Ethnologische Darstellungen der bpb beschreiben Hijras in Südasien als „drittes Geschlecht“, in Indien auch rechtlich anerkannt, und dritte, teils vierte Geschlechterrollen in vielen indigenen Gesellschaften Nordamerikas, heute meist als „Two Spirits“ bezeichnet. Wie diese Rollen zu deuten sind, ist in der Fachliteratur umstritten; ihr Bestehen ist belegt.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Zwei ethnologische Beiträge der bpb (2012, 2018) gelesen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): ethnologische Fachbeiträge gelesen; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Kulturelle Alternativen zur Zweigeschlechterordnung – Vielfalt statt Universalismus](https://www.bpb.de/themen/gender-diversitaet/geschlechtliche-vielfalt-trans/245271/kulturelle-alternativen-zur-zweigeschlechterordnung-vielfalt-statt-universalismus/) · Bundeszentrale für politische Bildung, LaGata/Balzer, 08.08.2018; Hijras, dritte und vierte Geschlechter in indigenen Gesellschaften Nordamerikas.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Hijras als drittes Geschlecht; dritte/vierte Geschlechter in 155 nordamerikanischen Gesellschaften.
+
+- [Grenzverläufe zwischen den Geschlechtern aus ethnologischer Perspektive](https://www.bpb.de/shop/zeitschriften/apuz/135446/grenzverlaeufe-zwischen-den-geschlechtern-aus-ethnologischer-perspektive/) · Susanne Schröter, Aus Politik und Zeitgeschichte, bpb, 08.05.2012; Hijras und Two Spirits, kritische Einordnung.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Hijras und Two Spirits, kritische Einordnung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Ethnologische Fachliteratur zu Hijras und Two-Spirit-Konzepten prüfen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0058
 
