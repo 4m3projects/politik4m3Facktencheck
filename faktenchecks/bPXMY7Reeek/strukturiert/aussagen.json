@@ -462,6 +462,38 @@
       "details": "Statistisches Bundesamt, 11.11.2026; gemeldete Änderungen des Geschlechtseintrags nach Monaten und Ländern.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S057",
+      "title": "100 years and counting of mask wearing in Japan",
+      "url": "https://www.gavi.org/vaccineswork/100-years-and-counting-mask-wearing-japan",
+      "details": "Gavi VaccinesWork, Anyiam-Osigwe/Schmitz, 19.02.2021; Geschichte des Maskentragens in Japan seit 1918.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S058",
+      "title": "Masks in the Context of COVID-19",
+      "url": "https://japanupclose.web-japan.org/techculture/c20220630_4.html",
+      "details": "Japan Up Close (Webmagazin der japanischen Regierung), 30.06.2022; Maskengewohnheit vor COVID.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S059",
+      "title": "Kulturelle Alternativen zur Zweigeschlechterordnung – Vielfalt statt Universalismus",
+      "url": "https://www.bpb.de/themen/gender-diversitaet/geschlechtliche-vielfalt-trans/245271/kulturelle-alternativen-zur-zweigeschlechterordnung-vielfalt-statt-universalismus/",
+      "details": "Bundeszentrale für politische Bildung, LaGata/Balzer, 08.08.2018; Hijras, dritte und vierte Geschlechter in indigenen Gesellschaften Nordamerikas.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S060",
+      "title": "Grenzverläufe zwischen den Geschlechtern aus ethnologischer Perspektive",
+      "url": "https://www.bpb.de/shop/zeitschriften/apuz/135446/grenzverlaeufe-zwischen-den-geschlechtern-aus-ethnologischer-perspektive/",
+      "details": "Susanne Schröter, Aus Politik und Zeitgeschichte, bpb, 08.05.2012; Hijras und Two Spirits, kritische Einordnung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "speakers": [
@@ -2881,20 +2913,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "In manchen Kulturen gebe es weitere Geschlechterrollen, etwa Hijras in Südasien und Two-Spirit-Personen in indigenen Kulturen Nordamerikas.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – ethnologische Angabe, zu der keine Fachquelle gelesen wurde. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Ethnologische Darstellungen der bpb beschreiben Hijras in Südasien als „drittes Geschlecht“, in Indien auch rechtlich anerkannt, und dritte, teils vierte Geschlechterrollen in vielen indigenen Gesellschaften Nordamerikas, heute meist als „Two Spirits“ bezeichnet. Wie diese Rollen zu deuten sind, ist in der Fachliteratur umstritten; ihr Bestehen ist belegt.",
+      "assessmentBasis": "Zwei ethnologische Beiträge der bpb (2012, 2018) gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): ethnologische Fachbeiträge gelesen; von Offen auf Belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Ethnologische Fachliteratur zu Hijras und Two-Spirit-Konzepten prüfen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S059",
+          "note": "Hijras als drittes Geschlecht; dritte/vierte Geschlechter in 155 nordamerikanischen Gesellschaften."
+        },
+        {
+          "sourceId": "S060",
+          "note": "Hijras und Two Spirits, kritische Einordnung."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0061",
@@ -6132,20 +6170,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "In Japan sei es bei Grippewellen üblich, Masken zu tragen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine Quelle zu Maskengewohnheiten in Japan gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Maskentragen ist in Japan seit der Spanischen Grippe 1918 verbreitet und wurde bei späteren Grippewellen (1968, SARS 2003, Schweinegrippe 2009) verstärkt; schon vor COVID galt es als üblich und höflich, bei Krankheit eine Maske zu tragen.",
+      "assessmentBasis": "Gavi-Artikel (2021) und Webmagazin der japanischen Regierung (2022) gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Maskengewohnheit in Japan recherchiert; von Offen auf Belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Kulturwissenschaftliche oder gesundheitsbezogene Quellen zur Maskenpraxis in Japan vor 2020 prüfen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S057",
+          "note": "Masken bei Grippewellen seit 1918."
+        },
+        {
+          "sourceId": "S058",
+          "note": "Maskengewohnheit vor COVID, Maske bei Krankheit aus Höflichkeit."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0144",
