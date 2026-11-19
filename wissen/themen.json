@@ -182,6 +182,23 @@
           "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks (gleiche IDs wie in Ungeskriptet)."
         }
       ]
+    },
+    {
+      "id": "frankreich",
+      "name": "Frankreich",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Politik, Gesellschaft und wirtschaftliche Entwicklung in Frankreich.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Codex",
+          "change": "Erstzuordnung für den Faktencheck zu den französischen Protesten."
+        }
+      ]
     }
   ]
 }

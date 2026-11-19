@@ -1,0 +1,3960 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "nrnpcqzhd44",
+    "videoUrl": "https://www.youtube.com/watch?v=nrnpcqzhd44",
+    "durationSeconds": 703,
+    "asOf": "2026-11-19",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "Amtliche Daten, zeitgenössische Berichte und später veröffentlichte Auswertungen werden je Fundstelle zugeordnet. Einige Akteurs-, Wirkungs- und Bildaussagen bleiben offen. Keine durchgehende Ton- oder Bildprüfung.",
+    "coverageNote": "Die deutsche Originaluntertitelspur wurde vollständig gelesen. Sie reicht von 00:00:00 bis kurz vor 00:11:43. Die Untertitelpause 00:08:34–00:09:04 enthält eine bei 00:08:40 und 00:08:55 visuell kontrollierte Texttafel. Weitere Bildinhalte und die genaue Sprecheridentität wurden nicht systematisch überprüft. Keine Statistik des vollständigen Videos."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Clashes, fires and looting break out as protesters rally across France, joining students",
+      "url": "https://apnews.com/article/france-school-protests-yellow-vest-44b9d3ba91ffad4029f975dced7e31cb",
+      "details": "AP, 17.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Reportage aus Paris, Forderungen und zwei Teilnehmerzählungen."
+    },
+    {
+      "id": "S002",
+      "title": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
+      "details": "ARD-aktuell, 18.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Regierungsangaben, Brand in Limoges und frühere Gelbwestenbewegung."
+    },
+    {
+      "id": "S003",
+      "title": "Bilan de la journée de mobilisation nationale du 24 octobre 2026",
+      "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-nationale-du-24-octobre-2026",
+      "details": "Französisches Innenministerium, 25.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Amtlicher Rückvergleich mit dem 17. Oktober."
+    },
+    {
+      "id": "S004",
+      "title": "Près de 800 000 manifestantes et manifestants partout en France pour la justice sociale",
+      "url": "https://www.cgt.fr/comm-de-presse/pres-de-800-000-manifestantes-et-manifestants-partout-en-france-pour-la-justice-sociale-le",
+      "details": "CGT, 17.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Eigenzählung und Forderungen der mitmobilisierenden Gewerkschaft."
+    },
+    {
+      "id": "S005",
+      "title": "17 octobre : jusqu'à 800 000 manifestants, 1 200 interpellations et des scènes de chaos dans plusieurs villes",
+      "url": "https://www.estrepublicain.fr/social/2026/10/17/mobilisation-du-17-octobre-gilets-jaunes-lyceens-c-est-parti-pour-un-samedi-a-haut-risque",
+      "details": "L’Est républicain und AFP, 17.–18.10.2026, aktualisiert 21.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Chronik und vorläufige Schadens- und Einsatzzahlen."
+    },
+    {
+      "id": "S006",
+      "title": "Schülerproteste erreichen neuen Höhepunkt",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-schulen-100.html",
+      "details": "ARD-aktuell, 06.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Forderungen, Polizeieinsätze und Gewerkschaftsbeteiligung."
+    },
+    {
+      "id": "S007",
+      "title": "Étude sur les mineurs déférés dans le cadre du mouvement lycéen",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2026-11/etude_mouvement_lyceen_2026.pdf",
+      "details": "Französisches Justizministerium, November 2026, Untersuchung bis 09.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Chronologie, Methoden und Grenzen der amtlichen Untersuchung."
+    },
+    {
+      "id": "S008",
+      "title": "Le blocage des lycées prend de l’ampleur et oppose La France insoumise et le gouvernement",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/28/le-blocus-des-lycees-prend-de-l-ampleur-et-oppose-la-france-insoumise-et-le-gouvernement_6785108_3224.html",
+      "details": "Le Monde, 28.09.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Zugänglicher Artikelabschnitt zu Schulblockaden und Forderungen."
+    },
+    {
+      "id": "S009",
+      "title": "Frankreich: Worum es bei den Protesten geht",
+      "url": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-bildung-lebenshaltungskosten-schueler-gelbwesten-100.html",
+      "details": "ZDFheute und dpa, 17.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Anliegen und Zusammensetzung der Proteste."
+    },
+    {
+      "id": "S010",
+      "title": "Manifestations du 17 octobre : Sébastien Lecornu annonce 1 200 interpellations, 150 policiers et gendarmes blessés",
+      "url": "https://www.lefigaro.fr/actualite-france/en-direct-gilets-jaunes-lyceens-syndicats-suivez-les-manifestations-et-les-blocages-du-17-octobre-20261017",
+      "details": "Le Figaro, 17.–18.10.2026, aktualisiert 19.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Liveticker-Eintrag vom 18. Oktober, 04:37 Uhr, und Reportage zur Plünderung. Originalpost von Vance ungeprüft."
+    },
+    {
+      "id": "S011",
+      "title": "Constitution du 4 octobre 1958",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356/2026-10-18",
+      "details": "Légifrance, Fassung vom 18.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Artikel zur Ernennung, zum Regierungsauftrag und zum Parlament."
+    },
+    {
+      "id": "S012",
+      "title": "Législatives 2024 – Résultats tour 2",
+      "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/legislatives2024/ensemble_geographique/",
+      "details": "Französisches Innenministerium, Wahl vom 30.06. und 07.07.2024",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Amtliche Gesamtsitze nach Kandidatenetikett."
+    },
+    {
+      "id": "S013",
+      "title": "Législatives 2022 – France entière",
+      "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/legislatives-2022/FE.php",
+      "details": "Französisches Innenministerium, Wahl vom 12. und 19.06.2022",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Amtliche Sitzverteilung."
+    },
+    {
+      "id": "S014",
+      "title": "Modifications à la composition des groupes – 2026",
+      "url": "https://www2.assemblee-nationale.fr/17/les-groupes-politiques/modifications-a-la-composition-des-groupes/2026",
+      "details": "Assemblée nationale, datierte Änderungen der 17. Legislatur aus 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Einträge vor und nach dem Videostichtag."
+    },
+    {
+      "id": "S015",
+      "title": "Motions de censure depuis 1958",
+      "url": "https://www.assemblee-nationale.fr/dyn/engagements_responsabilite-motions_censures/motions-de-censure-depuis-1958",
+      "details": "Assemblée nationale, Abstimmungsregister seit 1958",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Getrennte Misstrauensanträge und Abstimmungen zur Regierung Lecornu."
+    },
+    {
+      "id": "S016",
+      "title": "Structure of government debt",
+      "url": "https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/1486.pdf?v=9190469984989858",
+      "details": "Eurostat, 08.06.2026, Jahresende 2025",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Vergleich der staatlichen Bruttoschulden."
+    },
+    {
+      "id": "S017",
+      "title": "Government debt at 88.8% of GDP in euro area",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp",
+      "details": "Eurostat, 21.10.2026, Ende des zweiten Quartals 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Quoten und Rangfolge nach EU-Staaten."
+    },
+    {
+      "id": "S018",
+      "title": "Dépenses et recettes publiques",
+      "url": "https://www.insee.fr/fr/statistiques/2381414",
+      "details": "Insee, 28.08.2026, Jahresdaten 2020–2025",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Tabelle zum Maastricht-Defizit und zu Ausgaben. 2025 vorläufig."
+    },
+    {
+      "id": "S019",
+      "title": "Les comptes de la Nation en 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8996855?sommaire=8071406",
+      "details": "Insee, Jahresrechnung 2025, Stand 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Revisionshinweise zur realen BIP-Entwicklung."
+    },
+    {
+      "id": "S020",
+      "title": "EU and euro area tax-to-GDP ratio up in 2025",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261029-3",
+      "details": "Eurostat, 29.10.2026, Jahresdaten 2025",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Steuern und Sozialbeiträge im EU-Vergleich."
+    },
+    {
+      "id": "S021",
+      "title": "Comparative price levels of consumer goods and services",
+      "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Comparative_price_levels_of_consumer_goods_and_services",
+      "details": "Eurostat, Preisniveaus für 2025, Ausgabe Juni 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Preisniveau der privaten Konsumausgaben, Abbildung 1."
+    },
+    {
+      "id": "S022",
+      "title": "Indice des prix à la consommation – septembre 2026",
+      "url": "https://www.insee.fr/fr/statistiques/9080209",
+      "details": "Insee, endgültige Septemberergebnisse vom 15.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Inflation, Energie und Mineralölprodukte."
+    },
+    {
+      "id": "S023",
+      "title": "Oil Market Report – October 2026",
+      "url": "https://www.iea.org/reports/oil-market-report-october-2026?language=de",
+      "details": "Internationale Energieagentur, 14.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Öffentliche Zusammenfassung zu Angebotsstörungen und Ölpreis."
+    },
+    {
+      "id": "S024",
+      "title": "Pouvoir d’achat, inégalités de revenu et pauvreté",
+      "url": "https://www.insee.fr/fr/statistiques/8996928",
+      "details": "Insee, Ausgabe 2026, Daten 2024 und Anfang 2025",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Materielle Entbehrung, Geldsorgen und Armut nach Einwanderungsstatus."
+    },
+    {
+      "id": "S025",
+      "title": "Niveau de vie et pauvreté en 2024",
+      "url": "https://www.insee.fr/fr/statistiques/9019316",
+      "details": "Insee Première Nr. 2117, Juli 2026, Daten bis 2024",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Zeitreihen und Definitionen der Verteilungsmaße."
+    },
+    {
+      "id": "S026",
+      "title": "Liberté, Égalité, Fraternité",
+      "url": "https://www.elysee.fr/la-presidence/liberte-egalite-fraternite",
+      "details": "Élysée, undatierte historische Übersicht",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Entwicklung der Formel von 1790 bis 1848."
+    },
+    {
+      "id": "S027",
+      "title": "Problemgebiet Banlieue: Konflikte und Ausgrenzung in den französischen Vorstädten",
+      "url": "https://www.bpb.de/themen/europa/frankreich/152511/problemgebiet-banlieue-konflikte-und-ausgrenzung-in-den-franzoesischen-vorstaedten/",
+      "details": "Simona Gnade, Bundeszentrale für politische Bildung, 21.01.2013, u. a. Daten 2009/2010",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Historischer Kontext der im Video sichtbaren Tafel, Begriff und Stadtpolitik."
+    },
+    {
+      "id": "S028",
+      "title": "Émeutes de juin 2023 : comprendre, évaluer, réagir",
+      "url": "https://www.senat.fr/rap/r23-521/r23-521_mono.html",
+      "details": "Französischer Senat, Bericht Nr. 521, April 2024",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Vergleich 2005 und 2023 sowie Anhörung zu 2007."
+    },
+    {
+      "id": "S029",
+      "title": "Présidentielle 2027 : Marine Le Pen conserve une avance nette dans les intentions de vote",
+      "url": "https://www.ipsos.com/fr-fr/presidentielle-2027-marine-le-pen-conserve-une-avance-nette-dans-les-intentions-de-vote",
+      "details": "Ipsos bva–CESI für Le Parisien, 05.09.2026, Feldzeit 31.08.–02.09.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Anbieterbericht, sechs Szenarien im ersten Wahlgang."
+    },
+    {
+      "id": "S030",
+      "title": "Présidentielle 2027 : Mélenchon progresse, Le Pen reste en tête",
+      "url": "https://www.ipsos.com/fr-fr/presidentielle-2027-melenchon-progresse-le-pen-reste-en-tete",
+      "details": "Ipsos bva–CESI für Le Parisien, Feldzeit 21.–22.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Spätere Anbietererhebung."
+    },
+    {
+      "id": "S031",
+      "title": "L’élection présidentielle",
+      "url": "https://www.elections.interieur.gouv.fr/scrutins/lelection-presidentielle",
+      "details": "Französisches Innenministerium, Terminübersicht für 2027",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Amtliche Termine und Wahlverfahren."
+    },
+    {
+      "id": "S032",
+      "title": "Édition spéciale – Allocution d’Emmanuel Macron du 18 octobre 2026",
+      "url": "https://www.dailymotion.com/video/xbpe1bi",
+      "details": "LCP, Ansprache vom 18.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Zeitmarkierte Wiedergabe der Ansprache, etwa 09:10–09:31."
+    },
+    {
+      "id": "S033",
+      "title": "Frankreich: Neue Unruhen – Macron kündigt Runden Tisch an",
+      "url": "https://www.zdfheute.de/politik/ausland/frankreich-ausschreitungen-proteste-macron-100.html",
+      "details": "ZDFheute, 18.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Teilnehmerkreis, Ankündigung und damalige Einsatzzahlen."
+    },
+    {
+      "id": "S034",
+      "title": "Ausschreitungen in Mailand: Mehr als 200 Festnahmen",
+      "url": "https://www.zdfheute.de/politik/ausland/italien-mailand-proteste-ausschreitungen-100.html",
+      "details": "ZDFheute mit Reuters und AFP, 19.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Mailand und weitere norditalienische Städte."
+    },
+    {
+      "id": "S035",
+      "title": "Lycéens, étudiants, ce qui change pour vous",
+      "url": "https://www.education.gouv.fr/lyceens-etudiants-ce-qui-change-pour-vous-506143?trk=article-ssr-frontend-pulse_little-text-block",
+      "details": "Französisches Bildungsministerium, mit Bilanz vom 26.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gelesen. Bildungskonsultation und angekündigte Maßnahmen."
+    },
+    {
+      "id": "S036",
+      "title": "EU and euro area tax-to-GDP ratio up in 2024",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251031-2",
+      "details": "Eurostat, 31.10.2025, Jahresdaten 2024 in der damaligen Ausgabe",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Amtliche Veröffentlichung und damalige Rangfolge gelesen."
+    },
+    {
+      "id": "S037",
+      "title": "Sur les moyens mis en place pour faire face aux nouveaux actes de violence et de vandalisme commis à Paris",
+      "url": "https://www.senat.fr/rap/r18-450/r18-4501.pdf",
+      "details": "Philippe Bas für den französischen Senat, Bericht Nr. 450, 10.04.2019",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Einleitung mit den dokumentierten Vorfällen vom Dezember 2018 und März 2019 gelesen."
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": null,
+      "videoRole": "Moderation des Beitrags auf MrWissen2go",
+      "identityBasis": "Zusammenhängende Moderationspassagen in der deutschen Untertitelspur. Der Kanalname identifiziert das Angebot. Die konkrete Stimme wurde nicht durchgehend im Original geprüft."
+    }
+  ],
+  "claims": [
+    {
+      "id": "nrnpcqzhd44-A0001",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Beim Protestwochenende kam es in Paris und weiteren Städten, darunter Lyon und Marseille, zu schweren Zusammenstößen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "AP beobachtete Zusammenstöße in Paris. Die AFP-Chronik dokumentiert Eskalationen auch in Lyon und Marseille.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Beobachtungen in Paris."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Ortsübergreifende Chronik."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0001",
+          "startSeconds": 0,
+          "endSeconds": 9,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0002",
+          "startSeconds": 25,
+          "endSeconds": 33,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0003",
+          "startSeconds": 49,
+          "endSeconds": 60,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0002",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Hunderte wurden verletzt, darunter viele Sicherheitskräfte.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "ZDFheute berichtete am 18. Oktober von 600 verletzten Einsatzkräften. Das Ministerium nannte später 1.144 für den 17. Oktober. Das ist keine Gesamtzahl einschließlich Zivilpersonen.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S033",
+          "note": "Zeitgenössischer Stand."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Amtlicher Rückvergleich."
+        }
+      ],
+      "openQuestions": [
+        "Wie hoch war die Zahl verletzter Zivilpersonen im gleichen Zeitraum?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0004",
+          "startSeconds": 60,
+          "endSeconds": 64,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0003",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Zahl der landesweiten Festnahmen am Wochenende lag im Hunderterbereich.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Im Verlauf des Samstags meldete der Innenminister etwa 400. Schon in der Nacht nannte der Premierminister 1.200. ZDFheute berichtete vor Veröffentlichung des Videos über mehr als 2.000. Der spätere amtliche Rückvergleich nennt 2.628 für den 17. Oktober.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Früher Tagesstand."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Später Samstag."
+        },
+        {
+          "sourceId": "S033",
+          "note": "Stand vom Sonntag."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Späterer Rückvergleich."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0005",
+          "startSeconds": 62,
+          "endSeconds": 66,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0004",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Zahlreiche Geschäfte wurden beschädigt oder geplündert.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "AP beobachtete Plünderungen in Paris. Das Ministerium nannte später 1.522 betroffene Geschäfte am 17. Oktober. Die Zahlen unterscheiden nicht zwischen Beschädigung und Totalverlust.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Beobachtete Fälle."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Sammelzahl der betroffenen Betriebe."
+        }
+      ],
+      "openQuestions": [
+        "Wie viele Geschäfte wurden vollständig zerstört?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0006",
+          "startSeconds": 5,
+          "endSeconds": 9,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0007",
+          "startSeconds": 28,
+          "endSeconds": 33,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0008",
+          "startSeconds": 64,
+          "endSeconds": 69,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0009",
+          "startSeconds": 118,
+          "endSeconds": 125,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0005",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Auch öffentliche Gebäude waren betroffen. Das historische Rathaus von Limoges wurde in Brand gesetzt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "AP und AFP dokumentieren den Brand. AFP nennt weitere Angriffe auf Rathäuser, unter anderem in Marseille und Lille.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Bericht aus Limoges."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Brand und weitere Gebäude."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0010",
+          "startSeconds": 6,
+          "endSeconds": 10,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0011",
+          "startSeconds": 68,
+          "endSeconds": 75,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0006",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Gewaltbilder dominierten schon vor und am Wochenende in den sozialen Netzwerken und den Medien.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die gelesenen Berichte enthalten solche Szenen. Beispiele erlauben keine Verallgemeinerung über plattformabhängige Feeds und die gesamte Berichterstattung.",
+      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Beispiel einer Reportage."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Beispiel eines Berichts mit Schwerpunkt Ausschreitungen."
+        }
+      ],
+      "openQuestions": [
+        "Wie häufig waren diese Motive in einer repräsentativen Medien- und Plattformstichprobe?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0012",
+          "startSeconds": 18,
+          "endSeconds": 44,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0013",
+          "startSeconds": 77,
+          "endSeconds": 84,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0007",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Auch vor dem 17. Oktober hatte es im Umfeld der Proteste größere Gewaltvorfälle gegeben.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der ARD-Bericht vom 6. Oktober beschreibt Zusammenstöße in mehreren Städten und Ermittlungen. Ein Vergleich der Schwere über die verschiedenen Tage fehlt.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Frühere Auseinandersetzungen."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Eigenständiger Befund zum 17. Oktober."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0014",
+          "startSeconds": 84,
+          "endSeconds": 88,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0008",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die überwiegende Mehrheit der Menschen auf der Straße protestierte friedlich.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Reportagen dokumentieren friedliche Züge und schwere Vorfälle. Auch die CGT bezeichnet ihre Mobilisierung als friedlich. Teilnehmer- und Festnahmezahlen haben unterschiedliche Erfassungsgrundlagen und ergeben keine Quote friedlicher Personen.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Beobachtungen zu Zügen und Ausschreitungen."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Perspektive einer mitmobilisierenden Gewerkschaft."
+        }
+      ],
+      "openQuestions": [
+        "Gibt es eine landesweit vergleichbare Erhebung zum Verhalten der Teilnehmenden?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0015",
+          "startSeconds": 88,
+          "endSeconds": 96,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0016",
+          "startSeconds": 174,
+          "endSeconds": 182,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0017",
+          "startSeconds": 222,
+          "endSeconds": 230,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0009",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Am Wochenende protestierten landesweit schätzungsweise 500.000 bis 800.000 Menschen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Für Samstag meldeten das Innenministerium 550.000 und die CGT knapp 800.000. Die Größenordnung passt. Die Spanne vereint zwei Zählungen und beziffert den Aktionstag am 17. Oktober. Eine eigene Summe für das Wochenende bleibt offen.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Amtliche Zählung zum 17. Oktober."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Eigenangabe vom 17. Oktober."
+        },
+        {
+          "sourceId": "S001",
+          "note": "Zeitgenössische Gegenüberstellung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0018",
+          "startSeconds": 96,
+          "endSeconds": 105,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0010",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Lebenshaltung und Kraftstoffpreise sowie Sorgen über die eigene wirtschaftliche Lage prägten die Forderungen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "AP beschreibt den Aufruf gegen hohe Lebenshaltungskosten. ZDFheute und CGT dokumentieren zusätzliche Anliegen zu Preisen, Löhnen und Kaufkraft.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Bericht zum Aktionstag."
+        },
+        {
+          "sourceId": "S009",
+          "note": "Öffentliche Anliegen."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Eigene Forderungen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0019",
+          "startSeconds": 105,
+          "endSeconds": 116,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0011",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Schulproteste verlangten mehr Mittel, bessere Gebäude und mehr Lehrkräfte gegen Unterrichtsausfall.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Schon am 28. September wurden Forderungen nach Vertretung und besseren Räumen berichtet. Die ARD dokumentiert diese Themen am 6. Oktober. Die Quellen belegen die Forderungen und beziffern keine landesweite Finanzierungslücke.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Zeitgenössische Forderungen."
+        },
+        {
+          "sourceId": "S006",
+          "note": "Schulbedingungen und Vertretung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0020",
+          "startSeconds": 116,
+          "endSeconds": 128,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0021",
+          "startSeconds": 149,
+          "endSeconds": 159,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0012",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Mobilisierung war auch Ausdruck allgemeiner politischer Unzufriedenheit.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Unzufriedenheit mit staatlichen Leistungen und politischen Entscheidungen erscheint in Forderungen mehrerer Gruppen. Eine repräsentative Aussage über sämtliche Demonstrierende oder die Bevölkerung lässt sich daraus nicht ableiten.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Politische Forderungen."
+        },
+        {
+          "sourceId": "S009",
+          "note": "Zusammensetzung und Anliegen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0022",
+          "startSeconds": 122,
+          "endSeconds": 136,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0013",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Schülerproteste begannen Anfang Oktober 2026.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Das Justizministerium datiert eine Schülerblockade in Créteil auf den 18. September, nach einem Lehrerstreik am Vortag. Am 28. September waren laut Ministerium Schulen landesweit betroffen. Le Monde berichtete schon an diesem Tag über die Ausbreitung.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Spätere amtliche Chronologie."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Zeitgenössischer Bericht aus dem September."
+        },
+        {
+          "sourceId": "S006",
+          "note": "Ausweitung Anfang Oktober."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0023",
+          "startSeconds": 142,
+          "endSeconds": 151,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0014",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Schulmobilisierung weitete sich aus und andere Gruppen brachten eigene Anliegen ein.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die ARD dokumentierte im Oktober die Beteiligung von Gewerkschaften, Eltern und Lehrkräften. CGT und AP beschreiben eine breitere Mobilisierung am 17. Oktober. Der genaue Ursprung aller Aufrufe lässt sich daraus nicht ableiten.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Zusammensetzung am 6. Oktober."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Breitere Mobilisierung und Forderungen."
+        },
+        {
+          "sourceId": "S001",
+          "note": "Verschiedene Protestgruppen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0024",
+          "startSeconds": 132,
+          "endSeconds": 136,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0025",
+          "startSeconds": 158,
+          "endSeconds": 171,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0015",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Der friedliche Protest wird als konstruktiv gewertet.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Das ist eine politische Einordnung. Die belegbaren Forderungen und Ereignisse werden in eigenen Prüfpunkten erfasst.",
+      "assessmentBasis": "Einordnung des Aussagebezugs und des überprüfbaren Gehalts.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0026",
+          "startSeconds": 171,
+          "endSeconds": 175,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0016",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Es gab Angriffe auf Sachen und Personen, darunter Polizisten. Auch die Polizei setzte Zwangsmittel ein.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Berichte dokumentieren Verletzungen, Angriffe und Polizeieinsätze. Daraus lässt sich die Reihenfolge oder Rechtmäßigkeit einzelner Einsätze nicht pauschal bestimmen.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Beobachtungen in Paris."
+        },
+        {
+          "sourceId": "S006",
+          "note": "Frühere Polizeieinsätze."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Gebäudeschäden und Verletzte."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0027",
+          "startSeconds": 193,
+          "endSeconds": 205,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0017",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Regierung schrieb Gewalt unter anderem radikalen linken Gruppen und vermummten Zusammenschlüssen zu.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Lecornu und das Innenministerium äußerten diese Einschätzung. Die Quellen belegen die öffentliche Zuschreibung. Für die Täterschaft bei konkreten Vorfällen braucht es Ermittlungsbefunde.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Wiedergabe der Ministeriumsangaben."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Zeitgenössische Äußerung Lecornus."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0028",
+          "startSeconds": 205,
+          "endSeconds": 213,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel ausdrücklich als Position Dritter oder offene Debatte eingeführt.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0018",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein Teil der Beteiligten nutzte die Unordnung für Plünderungen und eigene Zwecke.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "AP und der Liveticker dokumentieren Plünderungen am Rand und nach dem Ende von Protestzügen. Das belegt beobachtete Fälle. Eine feste Gruppengrenze oder eine allgemeine Absicht, die Lage weiter anzuheizen, lässt sich daraus nicht ableiten.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Beobachtete Plünderungen."
+        },
+        {
+          "sourceId": "S010",
+          "note": "Reportage zum Verlauf in Paris."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0029",
+          "startSeconds": 213,
+          "endSeconds": 222,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0030",
+          "startSeconds": 230,
+          "endSeconds": 237,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0019",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Externe linksextreme Gruppen und andere gewaltbereite Personen hätten die Schulproteste von Beginn an für sich vereinnahmt und wesentlich deren frühe Gewalt verursacht.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Frühe Zusammenstöße sind belegt. Der Beginn in Créteil wird als Unterstützung eines Lehrerstreiks beschrieben. Die Justizstudie über vorgeführte Minderjährige und spätere Regierungsvorwürfe zum 17. Oktober liefern keine Grundlage für die pauschale Zuschreibung früher Taten oder ihrer Motive.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Chronologie und begrenzte Untersuchung bis 9. Oktober."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Frühe Forderungen und politische Beteiligung."
+        },
+        {
+          "sourceId": "S006",
+          "note": "Zusammenstöße."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Spätere Regierungsposition."
+        }
+      ],
+      "openQuestions": [
+        "Welche frühen Vorfälle lassen sich anhand konkreter Ermittlungsakten Akteuren und Motiven zuordnen?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0031",
+          "startSeconds": 237,
+          "endSeconds": 264,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0020",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Rolle von Einwanderung wurde nach den Ausschreitungen politisch und in sozialen Medien diskutiert. JD Vance äußerte sich dazu.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Le Figaro berichtet über einen X-Beitrag von Vance, in dem er den Brand mit Einwanderungspolitik in Verbindung bringt. Der Bericht trägt die Zuschreibung. Der ursprüngliche Beitrag und die Verbreitung der These über mehrere Plattformen bleiben ungeprüft.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Zeitgenössische Wiedergabe der Stellungnahme."
+        }
+      ],
+      "openQuestions": [
+        "Ist der Originalbeitrag unabhängig einsehbar und wie verbreitet war die These?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0032",
+          "startSeconds": 264,
+          "endSeconds": 281,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0021",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In der Debatte wird ein ursächlicher Zusammenhang zwischen Einwanderung und der konkreten Gewalt im Oktober hergestellt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die politische Äußerung ist als Position dokumentiert. Protest- und Festnahmestatistiken sowie die Studie zu früher vorgeführten Minderjährigen liefern keinen belastbaren Kausalnachweis für den 17. Oktober. Herkunft, Staatsangehörigkeit, Motiv und Tatbeteiligung sind jeweils eigene Größen.",
+      "assessmentBasis": "Politische Zuschreibung und Datenumfang geprüft. Fallbezogene Kausalprüfung steht aus.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Wiedergabe der politischen Zuschreibung."
+        },
+        {
+          "sourceId": "S007",
+          "note": "Frühere Erhebung mit anderem Zeitraum und enger Grundgesamtheit."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Ereigniszahlen ohne Kausalanalyse."
+        }
+      ],
+      "openQuestions": [
+        "Welche fallbezogenen Daten und welcher Vergleich könnten die Kausalhypothese prüfen?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0033",
+          "startSeconds": 264,
+          "endSeconds": 276,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel ausdrücklich als Position Dritter oder offene Debatte eingeführt.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0022",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die seit 1958 geltende Ordnung der Fünften Republik beruht vor allem auf klaren Mehrheiten.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Verfassung stammt vom 4. Oktober 1958. Eine Mehrheit erleichtert Regierungshandeln. Art. 49 und 50 erlauben aber praktisch auch eine Regierung ohne eigene absolute Sitzmehrheit, solange die erforderliche Mehrheit für einen Misstrauensantrag fehlt.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S011",
+          "note": "Verfassungsdatum und Art. 49–50."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Praxis von Misstrauensanträgen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0034",
+          "startSeconds": 298,
+          "endSeconds": 308,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0023",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Regierung steht unter dem Präsidenten und beide regieren mit Unterstützung des Parlaments.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Präsident ernennt den Premierminister. Die Regierung bestimmt nach Art. 20 die Politik und der Premierminister leitet sie nach Art. 21. Die Nationalversammlung ist eine von zwei Kammern und für Misstrauensanträge zuständig. Die Vorstellung einer durchgehenden Hierarchie verkürzt die Verfassung.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S011",
+          "note": "Art. 8, 20, 21, 24 und 49."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0035",
+          "startSeconds": 308,
+          "endSeconds": 319,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0024",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Mehrheit und politische Übereinstimmung ermöglichten Frankreich lange stabile Regierungen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Mehrheiten erleichtern Beschlüsse. Das Abstimmungsregister zeigt auch institutionelle Konflikte im Lauf der Fünften Republik. Ein Kausalvergleich über Jahrzehnte bräuchte z. B. Daten zu Regierungswechseln, Mehrheitsverhältnissen und Amtszeiten.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S011",
+          "note": "Institutionelle Mechanismen."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Historische Abstimmungen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0036",
+          "startSeconds": 319,
+          "endSeconds": 324,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0025",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Viele Parteien treten bei nationalen Wahlen in Bündnissen an, weil Einzelantritte kaum Aussichten hätten.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Parlamentswahl 2024 dokumentiert große Wahlbündnisse und erfolgreiche Kandidaten unter weiteren Etiketten. Die Aussage zu fehlenden Chancen bleibt ohne Definition, Wahltyp und Vergleichsmaßstab zu pauschal.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S012",
+          "note": "Ergebnis nach Kandidatenetikett."
+        },
+        {
+          "sourceId": "S013",
+          "note": "Parlamentswahl 2022."
+        }
+      ],
+      "openQuestions": [
+        "Wie sehen Listen, Bündnisse und Erfolgsquoten je Wahltyp aus?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0037",
+          "startSeconds": 325,
+          "endSeconds": 337,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0026",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Keines der drei großen Lager verfügte über eine absolute Mehrheit in der Nationalversammlung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "2024 entfielen 178 Sitze auf das Etikett Union der Linken, 150 auf Ensemble und zusammen 142 auf RN und das verbündete Rechtsaußen-Etikett. Das liegt jeweils unter 289 von 577. Die späteren Fraktionseinträge sind mit dem Befund vereinbar. Wahletiketten und Fraktionsmitgliedschaft sind unterschiedliche Größen.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S012",
+          "note": "Ganze Wahl, beide Wahlgänge."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Amtliche Veränderungen bis zum Videostichtag."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0038",
+          "startSeconds": 337,
+          "endSeconds": 344,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0027",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die drei Lager seien ähnlich groß und blockierten sich nahezu durchgehend.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Wahlergebnisse liegen in einer ähnlichen Größenordnung, aber die Differenz zwischen 178 und 142 Sitzen ist politisch erheblich. Mehrere Fraktionen und weitere Gruppen wirken an Abstimmungen mit. Getrennte Misstrauensabstimmungen zeigen Konfliktlinien, erlauben aber keine allgemeine Aussage über fehlende Zusammenarbeit.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S012",
+          "note": "Historische Ausgangsverteilung."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Fraktionswechsel."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Einzelne Abstimmungen."
+        }
+      ],
+      "openQuestions": [
+        "Wie häufig gab es bei Gesetzgebung und Haushalt tatsächlich wechselnde Mehrheiten?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0039",
+          "startSeconds": 345,
+          "endSeconds": 360,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0040",
+          "startSeconds": 493,
+          "endSeconds": 498,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0028",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Macron sei der erste Präsident seit rund drei Jahrzehnten ohne eigene absolute Mehrheit.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Ensemble kam bereits 2022 unter Macron auf 245 von 577 Sitzen. Die zeitliche Einordnung kann sich auf diesen Mehrheitsverlust beziehen. Für die gegenwärtige Lage ist 2024 eine erneute Minderheitskonstellation unter demselben Präsidenten. Ob mit eigener Mehrheit auch die spätere Zusammenarbeit von Regierung und anders ausgerichteter Parlamentsmehrheit gemeint ist, bleibt im Video unklar.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Erste Macron-Minderheit bei Parlamentswahlen."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Neue Sitzverteilung 2024."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Parlamentarische Verantwortlichkeit."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0041",
+          "startSeconds": 361,
+          "endSeconds": 371,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0029",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die politische Lage wird als instabil und besonders schädlich für Frankreich eingeschätzt.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Das ist ein politisches Urteil. Ohne Maßstab für Instabilität lässt sich aus der Sitzverteilung allein keine Gesamtbewertung ableiten.",
+      "assessmentBasis": "Einordnung des Aussagebezugs und des überprüfbaren Gehalts.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0042",
+          "startSeconds": 368,
+          "endSeconds": 378,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0030",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Frankreich hatte unter den EU-Mitgliedstaaten die dritthöchste staatliche Schuldenquote, hinter Griechenland und Italien.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Eurostat meldete für Ende 2025 Griechenland mit 146,1, Italien mit 137,1 und Frankreich mit 115,6 Prozent des BIP. In den erst nach dem Video veröffentlichten Zahlen für das zweite Quartal 2026 bleibt die Reihenfolge gleich.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Vor dem Video verfügbare Vergleichsdaten."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Späterer Quartalsstand."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0043",
+          "startSeconds": 382,
+          "endSeconds": 393,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0031",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das französische Defizit des Vorjahres betrug 5,8 Prozent des BIP.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Zum Erscheinungstermin war 2025 das Vorjahr. Insee wies dafür schon im August 5,1 Prozent aus. Die 5,8 Prozent sind der Wert für 2024.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S018",
+          "note": "Amtliche Reihe mit beiden Jahren."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0044",
+          "startSeconds": 393,
+          "endSeconds": 399,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0032",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die französische Wirtschaftsleistung wuchs seit einiger Zeit schwächer.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das reale BIP wuchs 2025 nach Insee um 0,8 Prozent, nach 1,5 Prozent 2024 und 1,6 Prozent 2023. Die Verlangsamung ist belegt. Die Daten zeigen weiterhin Wachstum und decken nicht allein die laufende Entwicklung bis Oktober ab.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S019",
+          "note": "Reale Jahresraten und Revisionen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0045",
+          "startSeconds": 402,
+          "endSeconds": 411,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0033",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Wachstumsabschwächung sei vor allem in strukturschwachen Gegenden spürbar.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die verwendete nationale Jahresrechnung enthält keine Abgrenzung der im Video gemeinten Regionen oder ihres relativen Anteils an der Abschwächung.",
+      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S019",
+          "note": "Nationaler Verlauf als Vergleich."
+        }
+      ],
+      "openQuestions": [
+        "Welche Regionen sind gemeint und wie haben sich dort reales BIP, Beschäftigung und Einkommen entwickelt?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0046",
+          "startSeconds": 411,
+          "endSeconds": 415,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0034",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Gezielte regionale Förderung und mehr Bildungsausgaben könnten die Ungleichheit verringern.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Das Video nennt eine erwartete Wirkung, ohne eine konkrete Maßnahme, Kosten oder Vergleichsgruppen festzulegen. Eine Wirkungsprüfung müsste bei einem bestimmbaren Programm ansetzen.",
+      "assessmentBasis": "Einordnung des Aussagebezugs und des überprüfbaren Gehalts.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0047",
+          "startSeconds": 414,
+          "endSeconds": 425,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0035",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Für mehr Investitionen fehle das Geld, weil der Staat schon zu viel ausgebe.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die Staatsausgaben lagen 2025 bei 57,3 Prozent des BIP und das Defizit bei 5,1 Prozent. Das zeigt einen Zielkonflikt. Ob zusätzliche Mittel möglich sind, hängt von Prioritäten, Einnahmen, Finanzierung und Regeln ab. Ein automatischer Ausschluss folgt aus den Quoten nicht.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S018",
+          "note": "Ausgaben und Defizit."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0048",
+          "startSeconds": 426,
+          "endSeconds": 434,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0036",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Frankreich hat hohe öffentliche Ausgaben.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Insee weist für 2025 57,3 Prozent des BIP aus. Der Anteil war 2023 und 2024 ähnlich groß. Die Quote sagt für sich wenig über die Qualität einzelner Leistungen aus.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S018",
+          "note": "Amtliche Ausgabenquote."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0049",
+          "startSeconds": 428,
+          "endSeconds": 434,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0037",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Frühere Regierungen hätten hohe Ausgaben häufig über Steuererhöhungen ausgeglichen, woraus die hohe heutige Abgabenquote folge.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die Tabelle belegt Einnahmen und Ausgaben insgesamt. Aus ihr lassen sich weder Häufigkeit diskretionärer Steuererhöhungen noch deren kumulierter Beitrag zur heutigen Quote bestimmen.",
+      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S018",
+          "note": "Gesamtentwicklung."
+        },
+        {
+          "sourceId": "S020",
+          "note": "Internationaler Quotenvergleich."
+        }
+      ],
+      "openQuestions": [
+        "Welche Steuermaßnahmen trugen über welchen Zeitraum jeweils zum Einnahmenanstieg bei?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0050",
+          "startSeconds": 434,
+          "endSeconds": 441,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0038",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Frankreich hat die höchste Abgabenquote in Europa.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Eurostat hatte für 2024 zunächst Dänemark mit 45,8 Prozent vor Frankreich mit 45,3 Prozent geführt. Erst nach Veröffentlichung des Videos wies Eurostat für 2025 Frankreich als EU-Spitzenreiter mit 46,0 Prozent aus. Das Maß addiert Steuern und Sozialbeiträge. Das Video nennt weder das Berichtsjahr noch den geografischen Umfang genau.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S020",
+          "note": "Nachträgliche EU-Auswertung."
+        },
+        {
+          "sourceId": "S036",
+          "note": "Zeitgenössisch verfügbare Eurostat-Ausgabe für 2024."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0051",
+          "startSeconds": 440,
+          "endSeconds": 445,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0039",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Frankreich hat im europäischen Vergleich ein besonders hohes allgemeines Preisniveau.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Eurostat platziert Frankreich für 2025 bei den privaten Konsumausgaben über dem EU-Mittel. Mehrere EU-Länder sind deutlich teurer. Preisniveau und finanzielle Belastung relativ zum Einkommen messen verschiedene Sachverhalte.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S021",
+          "note": "Preisniveauindex für private Konsumausgaben."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0052",
+          "startSeconds": 446,
+          "endSeconds": 451,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0040",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Immer mehr Menschen könnten sich Miete oder Lebensmittel kaum leisten.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Insee misst verbreitete materielle Entbehrung und Geldsorgen. Anfang 2025 berichteten 21 Prozent Schwierigkeiten am Monatsende. Laut Insee blieb diese Quote seit dem Anstieg 2022 etwa stabil. Für die beiden einzelnen Ausgabenarten und bis Oktober 2026 fehlt hier der passende Zeitvergleich.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S024",
+          "note": "Indikatoren und zeitlicher Verlauf."
+        }
+      ],
+      "openQuestions": [
+        "Wie entwickelten sich Mietrückstände und ernährungsbezogene Entbehrung einzeln im Jahr 2026?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0053",
+          "startSeconds": 450,
+          "endSeconds": 455,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0041",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Mineralölprodukte verteuerten sich deutlich, wobei der Krieg um Iran zur Entwicklung beitrug.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Insee registrierte im September einen deutlichen Anstieg der Energiepreise im Jahresvergleich, getragen auch von Mineralölprodukten. Die IEA beschreibt kriegsbedingte Angebotsstörungen und höhere Transportkosten. Die Quellen trennen den Anteil des Krieges am französischen Endpreis nicht rechnerisch ab.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S022",
+          "note": "Französischer Verbraucherpreisindex."
+        },
+        {
+          "sourceId": "S023",
+          "note": "Analyse des internationalen Angebots und Ölpreises."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0054",
+          "startSeconds": 454,
+          "endSeconds": 458,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0042",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Frankreich solle seine Gesamtausgaben stark senken und könnte Einsparungen im Sozialbereich erwägen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Das ist eine fiskalpolitische Empfehlung. Welche Ausgaben oder Einnahmen geändert werden, hängt von den gewählten Zielen und politischen Entscheidungen ab.",
+      "assessmentBasis": "Einordnung des Aussagebezugs und des überprüfbaren Gehalts.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0055",
+          "startSeconds": 431,
+          "endSeconds": 434,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0056",
+          "startSeconds": 458,
+          "endSeconds": 466,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0043",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Prognose",
+      "description": "Schon die Diskussion über Einsparungen bei Sozialausgaben könnte weitere Proteste auslösen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Das ist eine Erwartung über politische Reaktionen. Das Video nennt keinen bestimmten Beschluss oder überprüfbaren Schwellenwert.",
+      "assessmentBasis": "Einordnung des Aussagebezugs und des überprüfbaren Gehalts.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0057",
+          "startSeconds": 466,
+          "endSeconds": 470,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0044",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Brüderlichkeit gehörte zur Ideenwelt der Französischen Revolution.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die historische Übersicht des Élysée datiert Robespierres Vorschlag für die Dreierformel auf 1790. Der Begriff gehört damit in den Revolutionskontext. Die institutionelle Verankerung der Formel folgte später.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S026",
+          "note": "Historische Datierung und spätere Entwicklung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0058",
+          "startSeconds": 474,
+          "endSeconds": 480,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0045",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Der gesellschaftliche Zusammenhalt wird als schwach und die Spaltung als zunehmend eingeschätzt.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Wahlergebnisse und Einkommensverteilung beleuchten unterschiedliche Phänomene. Für einen Gesamttrend des gesellschaftlichen Zusammenhalts nennt das Video keinen eigenen Indikator.",
+      "assessmentBasis": "Einordnung des Aussagebezugs und des überprüfbaren Gehalts.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0059",
+          "startSeconds": 480,
+          "endSeconds": 490,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0060",
+          "startSeconds": 635,
+          "endSeconds": 641,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0046",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Jüngere Wahlen zeigten drei große politische Lager.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Parlamentswahl von 2024 lässt diese Lesart zu. Die amtlichen Ergebnisse führen zugleich weitere Etiketten und messen Sitzgewinn unter einem konkreten Wahlsystem. Die Behauptung fehlender Zusammenarbeit ist in Kapitel 4 gesondert geprüft.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S012",
+          "note": "Ergebnisse nach Kandidatenetikett."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0061",
+          "startSeconds": 490,
+          "endSeconds": 498,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0047",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die soziale Ungleichheit nimmt fortlaufend zu.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der Gini-Index für den Lebensstandard in Metropolitanfrankreich stieg 2023 und 2024 und erreichte 0,302. Ein weiteres Maß stieg ebenfalls, das Verhältnis der Schwellen des ersten und neunten Dezils blieb zuletzt nahezu gleich. Die längere Reihe schwankt und reicht hier nur bis 2024.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S025",
+          "note": "Verteilungsmaße und Zeitreihen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0062",
+          "startSeconds": 498,
+          "endSeconds": 502,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0048",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Menschen mit Einwanderungsgeschichte in benachteiligten Vorstädten seien besonders von Ungleichheit betroffen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Insee weist für 2024 eine erhöhte Armutsquote von 32,8 Prozent bei Eingewanderten und 27 Prozent bei Nachkommen aus. Die nationale Auswertung sagt nicht, in welchen Vororten die Betroffenen wohnen. Banlieue umfasst auch sozial gut gestellte Vororte.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S024",
+          "note": "Armutsdaten nach Einwanderungsstatus."
+        },
+        {
+          "sourceId": "S027",
+          "note": "Unterscheidung zwischen Vororten und benachteiligten Vierteln."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0063",
+          "startSeconds": 501,
+          "endSeconds": 511,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0049",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Einblendung führt die historische Belegung bestimmter Wohnanlagen vor allem auf Zuwanderung unter anderem aus den ehemaligen französischen Kolonien Nordafrikas zurück.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die bpb beschreibt diesen Zuzug im Zusammenhang mit dem dort behandelten Sozialwohnungsbau. Die Tafel ist als Fremdbezug lesbar und trägt keine Quote für sämtliche Vororte oder eine Aussage über ihre heutige Bevölkerung.",
+      "assessmentBasis": "Gezielte Sichtkontrolle der Einblendung und Quellenabgleich.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S027",
+          "note": "Historischer Kontext zur im Video genannten Quelle."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0064",
+          "startSeconds": 520,
+          "endSeconds": 521,
+          "precision": "Kontrolliert",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Stumm erfasste Texttafel ohne zugeordneten Sprecher.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Als fremde Wiedergabe gekennzeichnete Texttafel.",
+          "note": "Sichtprobe der Tafel am angegebenen Playerzeitpunkt.",
+          "timeBasis": "Direkte Sichtkontrolle im YouTube-Player bei 08:40 und 08:55, keine Kontrolle der exakten Einblendgrenzen.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0065",
+          "startSeconds": 535,
+          "endSeconds": 536,
+          "precision": "Kontrolliert",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Stumm erfasste Texttafel ohne zugeordneten Sprecher.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Als fremde Wiedergabe gekennzeichnete Texttafel.",
+          "note": "Sichtprobe der Tafel am angegebenen Playerzeitpunkt.",
+          "timeBasis": "Direkte Sichtkontrolle im YouTube-Player bei 08:40 und 08:55, keine Kontrolle der exakten Einblendgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0050",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Einblendung führt die hohe Arbeitslosigkeit in den beschriebenen Vorstädten auf Krise und Arbeitsplatzverlust in der Industrie der 1970er zurück.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die bpb stellt diesen historischen Zusammenhang dar. Eine separate quantitative Ursachenanalyse für diese Jahre und jede Vorstadt wurde hier nicht gefunden.",
+      "assessmentBasis": "Gezielte Sichtkontrolle der Einblendung und Quellenabgleich.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S027",
+          "note": "Historischer Überblick."
+        }
+      ],
+      "openQuestions": [
+        "Welche lokalen Beschäftigungsreihen dokumentieren den Zusammenhang?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0066",
+          "startSeconds": 520,
+          "endSeconds": 521,
+          "precision": "Kontrolliert",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Stumm erfasste Texttafel ohne zugeordneten Sprecher.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Als fremde Wiedergabe gekennzeichnete Texttafel.",
+          "note": "Sichtprobe der Tafel am angegebenen Playerzeitpunkt.",
+          "timeBasis": "Direkte Sichtkontrolle im YouTube-Player bei 08:40 und 08:55, keine Kontrolle der exakten Einblendgrenzen.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0067",
+          "startSeconds": 535,
+          "endSeconds": 536,
+          "precision": "Kontrolliert",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Stumm erfasste Texttafel ohne zugeordneten Sprecher.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Als fremde Wiedergabe gekennzeichnete Texttafel.",
+          "note": "Sichtprobe der Tafel am angegebenen Playerzeitpunkt.",
+          "timeBasis": "Direkte Sichtkontrolle im YouTube-Player bei 08:40 und 08:55, keine Kontrolle der exakten Einblendgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0051",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Einblendung erklärt wiederkehrende Gewalt mit räumlicher Benachteiligung, schwacher Infrastruktur und politischer Vernachlässigung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der Senatsbericht zu 2023 diskutiert soziale Konzentration und unterschiedliche lokale Auslöser. Das stützt strukturelle Faktoren als Kontext, erlaubt aber keine Übertragung der Erklärung auf einzelne Taten 2026. Die historische bpb-Einordnung liefert keine Ereignisanalyse für den Oktober 2026.",
+      "assessmentBasis": "Gezielte Sichtkontrolle der Einblendung und Quellenabgleich.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S027",
+          "note": "Historische Deutung in der Tafel."
+        },
+        {
+          "sourceId": "S028",
+          "note": "Räumliche Befunde zu früheren Unruhen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0068",
+          "startSeconds": 520,
+          "endSeconds": 521,
+          "precision": "Kontrolliert",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Stumm erfasste Texttafel ohne zugeordneten Sprecher.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Als fremde Wiedergabe gekennzeichnete Texttafel.",
+          "note": "Sichtprobe der Tafel am angegebenen Playerzeitpunkt.",
+          "timeBasis": "Direkte Sichtkontrolle im YouTube-Player bei 08:40 und 08:55, keine Kontrolle der exakten Einblendgrenzen.",
+          "timeHistory": []
+        },
+        {
+          "id": "nrnpcqzhd44-O0069",
+          "startSeconds": 535,
+          "endSeconds": 536,
+          "precision": "Kontrolliert",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Stumm erfasste Texttafel ohne zugeordneten Sprecher.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Als fremde Wiedergabe gekennzeichnete Texttafel.",
+          "note": "Sichtprobe der Tafel am angegebenen Playerzeitpunkt.",
+          "timeBasis": "Direkte Sichtkontrolle im YouTube-Player bei 08:40 und 08:55, keine Kontrolle der exakten Einblendgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0052",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die letzten größeren Vorstadtunruhen gab es 2023 und davor 2005.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "2005 und 2023 waren besonders weitreichende Episoden. Im Senatsbericht ist auch Villiers-le-Bel 2007 als ernster lokaler Fall dokumentiert. Die im Video herangezogene bpb-Darstellung nennt zudem Grenoble 2010 und Amiens 2012. Ob 2007 unter die Formulierung fällt, hängt vom im Video fehlenden Maßstab für Größe ab.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S028",
+          "note": "Vergleich überregionaler Episoden und Anhörung zu 2007."
+        },
+        {
+          "sourceId": "S027",
+          "note": "Historische Übersicht mit weiteren lokalen Episoden nach 2005."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0070",
+          "startSeconds": 544,
+          "endSeconds": 549,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0053",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Staatliche Initiativen hätten die Lage der betroffenen Gebiete und ihre Zukunftsaussichten kaum verändert.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die historische bpb-Analyse beschreibt staatliche Initiativen und anhaltende Probleme. Der später erstellte Senatsbericht dokumentiert Benachteiligungen im Kontext der Unruhen 2023. Eine Wirkungsmessung einzelner Programme bis 2026 braucht definierte Gebiete, Zielgrößen und Vergleichsgruppen.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S027",
+          "note": "Frühere Politik und Probleme."
+        },
+        {
+          "sourceId": "S028",
+          "note": "Befunde für 2023."
+        }
+      ],
+      "openQuestions": [
+        "Welche Programme, Orte und Ergebnisse liegen dem behaupteten geringen Fortschritt zugrunde?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0071",
+          "startSeconds": 549,
+          "endSeconds": 556,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0054",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Islamistische Gruppen nutzten soziale Benachteiligung in den betroffenen Vierteln zur Radikalisierung.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die Quellen zu räumlicher Benachteiligung betreffen andere Fragen. Für die behauptete Rekrutierung im konkreten Kontext fehlen identifizierte Fälle und Daten zu Mechanismen und Häufigkeit.",
+      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S027",
+          "note": "Historischer Sozialkontext."
+        },
+        {
+          "sourceId": "S028",
+          "note": "Untersuchung früherer Unruhen."
+        }
+      ],
+      "openQuestions": [
+        "Welche Gruppen, Orte, Zeiträume und dokumentierten Rekrutierungsfälle sind gemeint?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0072",
+          "startSeconds": 556,
+          "endSeconds": 562,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0055",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Linksextreme Bewegungen gingen Bündnisse mit islamistischen Gruppen ein.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Im Untertitelabschnitt werden keine beteiligten Organisationen oder belegten gemeinsamen Entscheidungen benannt. Die zeitnahe Regierungszuschreibung zu ultralinken Gruppen dokumentiert ein anderes Merkmal und kann ein solches Bündnis nicht belegen.",
+      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Regierungsposition zu den Ausschreitungen."
+        }
+      ],
+      "openQuestions": [
+        "Welche Organisationen sollen wann koordiniert gehandelt haben und was dokumentiert das?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0073",
+          "startSeconds": 562,
+          "endSeconds": 566,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0056",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine geteilte Position zum Nahostkonflikt sei das Bindeglied solcher Bündnisse.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Für diese Motivzuschreibung fehlen konkrete gemeinsame Erklärungen oder Handlungen identifizierter Organisationen.",
+      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche konkreten Organisationen, Stellungnahmen und gemeinsamen Aktionen sind gemeint?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0074",
+          "startSeconds": 566,
+          "endSeconds": 571,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0057",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei den Ausschreitungen seien regelmäßig Symbole zu sehen, die zu den behaupteten Verbindungen passen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Der Untertitel benennt die Symbole nicht eindeutig. Selbst ein sichtbares Symbol müsste einem Ort, einem Ereignis und einer Person zugeordnet werden. Seine Verwendung allein würde keine organisatorische Zusammenarbeit nachweisen.",
+      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Bilder, Symbole, Aufnahmeorte und Daten lassen sich verifizieren?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0075",
+          "startSeconds": 570,
+          "endSeconds": 576,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0058",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die beschriebenen sozialen Bedingungen erhöhten bei jungen Menschen die Anfälligkeit für islamistischen und linksextremen Aktivismus.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die zugänglichen Quellen zu Ungleichheit und Ausschreitungen messen keine Rekrutierung oder Einstellungsänderung für die beiden Ideologien. Die pauschale Ursache bleibt offen.",
+      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S028",
+          "note": "Kontext früherer Unruhen."
+        },
+        {
+          "sourceId": "S025",
+          "note": "Einkommensverteilung ohne Extremismusmaß."
+        }
+      ],
+      "openQuestions": [
+        "Welche Verlaufsdaten stützen den angenommenen Zusammenhang jeweils für beide Ideologien?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0076",
+          "startSeconds": 576,
+          "endSeconds": 586,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0059",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Auch Teile der sozial benachteiligten Bevölkerung mit starkem nationalem Selbstverständnis würden sich radikalisieren.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die Aussage nennt keine untersuchte Population oder Zeitreihe. Nationale Selbstbeschreibung und Radikalisierung bräuchten voneinander unabhängige Kriterien.",
+      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Erhebung misst den behaupteten Trend und bei welcher Gruppe?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0077",
+          "startSeconds": 586,
+          "endSeconds": 594,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0060",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Prognose",
+      "description": "Aus den skizzierten Radikalisierungen könnten Rassismus und politischer Fanatismus folgen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Der Abschnitt formuliert eine mögliche Folge. Im Video fehlt ein bestimmter Verlauf, an dem sich diese Erwartung prüfen ließe.",
+      "assessmentBasis": "Einordnung des Aussagebezugs und des überprüfbaren Gehalts.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0078",
+          "startSeconds": 591,
+          "endSeconds": 595,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0061",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Rassemblement National profitiere politisch von der beschriebenen gesellschaftlichen Radikalisierung.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Ipsos dokumentiert bereits vor dem Oktoberwochenende einen Vorsprung Le Pens und danach weiter hohe Werte. Das ist kein Wirkungsnachweis für die genannte Ursache.",
+      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S029",
+          "note": "Zeitlicher Ausgangsstand."
+        },
+        {
+          "sourceId": "S030",
+          "note": "Erhebung nach dem Video."
+        }
+      ],
+      "openQuestions": [
+        "Welche Daten verbinden Einstellungsänderungen kausal mit zusätzlichen Stimmen für den RN?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0079",
+          "startSeconds": 594,
+          "endSeconds": 600,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0062",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die französische Präsidentschaftswahl lag beim Erscheinen des Videos ungefähr ein halbes Jahr in der Zukunft.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der amtliche Termin für den ersten Wahlgang ist der 18. April 2027. Das liegt knapp sechs Monate nach dem 19. Oktober 2026.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S031",
+          "note": "Amtliche Wahltermine."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0080",
+          "startSeconds": 599,
+          "endSeconds": 603,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0063",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Marine Le Pen führte als Kandidatin des RN in Wahlumfragen zum ersten Wahlgang deutlich.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Ipsos wies im September je nach Szenario 34 bis 36 Prozent aus, vor allen anderen getesteten Kandidaturen. Die Befragung war eine Momentaufnahme. Die nächste herangezogene Ipsos-Erhebung fand erst nach Veröffentlichung statt.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S029",
+          "note": "Zeitgenössischer Anbieterbericht und Szenarien."
+        },
+        {
+          "sourceId": "S030",
+          "note": "Spätere Vergleichserhebung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0081",
+          "startSeconds": 602,
+          "endSeconds": 607,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0064",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Entwicklung sei international sichtbar und in Frankreich unter anderem aufgrund seiner Kolonialgeschichte besonders ausgeprägt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die historische Einordnung beschreibt Verbindungen zwischen Migration und französischer Kolonialgeschichte. Für einen internationalen Intensitätsvergleich und eine kausale Erklärung fehlen definierte Indikatoren und Vergleichsfälle.",
+      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S027",
+          "note": "Historischer Frankreich-Kontext."
+        }
+      ],
+      "openQuestions": [
+        "Welche Entwicklung ist gemeint, wie wird sie gemessen und welche Vergleichsländer sind einschlägig?"
+      ],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0082",
+          "startSeconds": 607,
+          "endSeconds": 614,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0065",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In Frankreich kam es wiederholt vor, dass Gruppen politische Veränderungen auch mit Gewalt durchsetzen wollten.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die jüngere Geschichte enthält dokumentierte Gewalt in Protestkontexten. Motive unterscheiden sich zwischen Fällen. Die gelesenen Befunde belegen weder einen durchgehenden Trend seit der Revolution noch eine nationale Besonderheit gegenüber anderen Ländern.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S028",
+          "note": "Historischer Vergleich von Unruhen."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Einordnung der Gelbwestenbewegung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0083",
+          "startSeconds": 614,
+          "endSeconds": 625,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0066",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei der Gelbwestenbewegung kam es 2018/2019 teilweise zu Gewalt. Personen oder Gruppen aus diesem Umfeld beteiligten sich 2026 erneut.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Ein Bericht des Senats dokumentiert schwere Vorfälle am 1. Dezember 2018 und am 16. März 2019 im Umfeld der Proteste. Die AFP-Chronik nennt Gelbwesten unter den Beteiligten am 17. Oktober 2026. Die Teilnahme allein weist niemandem eine Gewalttat zu.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Historischer Hintergrund."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Zusammensetzung am 17. Oktober."
+        },
+        {
+          "sourceId": "S037",
+          "note": "Amtliche Untersuchung zu konkreten Vorfällen 2018 und 2019."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0084",
+          "startSeconds": 625,
+          "endSeconds": 635,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0067",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Der Moderator deutet die Ereignisse als Folge mehrerer politischer, wirtschaftlicher und sozialer Entwicklungen und bewertet Teile der Migrations- und Sozialpolitik als gescheitert.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Das ist eine übergreifende politische Ursacheninterpretation. Die im Bericht geprüften Einzelbefunde zeigen soziale Belastungen und eine vielfältige Mobilisierung. Eine belastbare Gewichtung der Ursachen für friedlichen Protest und einzelne Gewalttaten braucht jeweils eigene Daten.",
+      "assessmentBasis": "Einordnung des Aussagebezugs und des überprüfbaren Gehalts.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0085",
+          "startSeconds": 640,
+          "endSeconds": 655,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0068",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Macron kündigte ein Gespräch mehrerer gesellschaftlicher Gruppen mit der Regierung an.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "In der Ansprache vom 18. Oktober nannte er unter anderem Schülerinnen und Schüler, Studierende, Lehrkräfte, Gewerkschaften, Arbeitgeber, Kommunen und Parlamentarier. Premierminister Lecornu sollte sie zusammenbringen. Die Ankündigung ist belegt.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S032",
+          "note": "Wiedergabe des angekündigten Teilnehmerkreises und Auftrags."
+        },
+        {
+          "sourceId": "S033",
+          "note": "Zeitgenössische Berichterstattung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0086",
+          "startSeconds": 655,
+          "endSeconds": 665,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0069",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Prognose",
+      "description": "Ob der Dialog schnell Lösungen bringen und weitere Gewalt eindämmen würde, blieb aus Sicht des Moderators offen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Das Video formuliert eine Erwartungsfrage. Die späteren Ankündigungen aus dem Bildungsministerium zeigen politische Reaktionen. Ihre Wirkung auf Gewalt lässt sich aus der zeitlichen Abfolge nicht ableiten.",
+      "assessmentBasis": "Einordnung des Aussagebezugs und des überprüfbaren Gehalts.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S035",
+          "note": "Spätere Bildungsmaßnahmen."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Spätere Einsatzbilanz."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0087",
+          "startSeconds": 664,
+          "endSeconds": 678,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0070",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Prognose",
+      "description": "Vergleichbare Unruhen könnten sich auf weitere europäische Länder ausbreiten.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Das ist eine Prognose. Zeitgleiche Ereignisse mit ähnlichen Forderungen weisen keine Übertragung von Frankreich nach. Dafür wären beispielsweise belegte Verbindungen zwischen den Mobilisierungen nötig.",
+      "assessmentBasis": "Einordnung des Aussagebezugs und des überprüfbaren Gehalts.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S034",
+          "note": "Zeitgleiche Ereignisse und ihre jeweiligen Anliegen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0088",
+          "startSeconds": 678,
+          "endSeconds": 684,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0071",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In Italien habe es am selben Wochenende vereinzelt Ausschreitungen gegeben.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der verlinkte Bericht dokumentiert zwei Tage schwerer Ausschreitungen in Mailand mit dort über 200 Festnahmen. Er nennt zudem Festnahmen in weiteren norditalienischen Städten. Die Existenz ist belegt, die räumliche und zeitliche Verteilung fällt breiter aus als die knappe Einordnung nahelegt.",
+      "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Erfassung aus der Videoauswertung.",
+        "assessmentChange": "Erstprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S034",
+          "note": "Zeitgenössischer Bericht von ZDFheute, Reuters und AFP."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0089",
+          "startSeconds": 684,
+          "endSeconds": 688,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    }
+  ]
+}
