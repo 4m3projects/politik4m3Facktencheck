@@ -1,6 +1,6 @@
 # Analyse nach Zeitabschnitten
 
-Grundlage sind die vollständig gelesenen deutschen Untertitel und zwei Sichtproben der ergänzenden Texttafel. Die Kapitelgrenzen folgen erkennbaren Themenwechseln und sind auf ganze Sekunden gerundet. Die Beschreibung und Einordnung sind eigene Paraphrasen. Ein Überblick über die Prüfergebnisse steht im [Faktencheck](03_faktencheck.md).
+Grundlage sind die vollständig gelesenen deutschen Untertitel und zwei Sichtproben der ergänzenden Texttafel. Die Kapitelgrenzen folgen erkennbaren Themenwechseln und sind auf ganze Sekunden gerundet. Die Beschreibung und Einordnung sind eigene Paraphrasen. Aktualisierung vom 19. November 2026. Alle erfassten Sachpunkte wurden nachgeprüft. Aussagen, die ausschließlich in weiteren Bildeinblendungen vorkommen könnten, sind von der Untertitelauswertung nicht abgedeckt. Die [Übersicht](03_faktencheck.md) fasst die Prüfergebnisse zusammen.
 
 ## 01 Gewalt und erste Bilanzen
 

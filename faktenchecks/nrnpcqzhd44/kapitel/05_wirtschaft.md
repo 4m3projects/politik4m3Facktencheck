@@ -10,6 +10,6 @@ Der Beitrag verbindet Schulden und geringeres Wachstum mit eingeschränkten staa
 
 ## Fazit und offene Punkte
 
-Der Defizitwert von 5,8 Prozent gehört zu 2024. Für 2025 wies Insee 5,1 Prozent aus. Die Bilanz stützt die hohe Ausgabenquote. Offen sind die konkreten Folgen in strukturschwachen Regionen und der jüngste Verlauf bei Miet- und Lebensmittelentbehrung.
+Der Defizitwert von 5,8 Prozent gehört zu 2024. Für 2025 wies Insee 5,1 Prozent aus. Die Bilanz stützt die hohe Ausgabenquote. Der Rechnungshof beziffert den Beitrag neuer Abgabenmaßnahmen zur Defizitsenkung 2025. Die Regionaldaten belegen die behauptete Konzentration der Wachstumsabschwächung in bestimmten Gebieten nicht ausreichend.
 
 [Alle Kapitelprüfungen](../03_faktencheck.md)

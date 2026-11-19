@@ -1,6 +1,6 @@
 # Faktencheck zum Frankreich-Video
 
-**Teilprüfung vom 19. November 2026.** Erfasst sind 71 Datensätze über sieben Kapitel, einschließlich Meinungen, Prognosen und ausdrücklich wiedergegebener Fremdpositionen. Davon sind 59 bearbeitet und 12 offen. Die Zahlen beziehen sich auf die erfassten Aussagen. Die Gründe und die zugehörigen Belege stehen bei jeder Einzelprüfung.
+**Aktualisierte Prüfung vom 19. November 2026.** Alle 73 erfassten Datensätze in sieben Kapiteln sind abgeschlossen. Darunter sind Tatsachenbehauptungen, Meinungen, Prognosen und ausdrücklich wiedergegebene Fremdpositionen. Neun Tatsachenbehauptungen sind nach zwei dokumentierten Recherchewegen nicht ausreichend belegbar. Die Einordnung bezieht sich auf die erfassten Aussagen. Die Bild- und Tonebene wurde nur in Teilen kontrolliert.
 
 ## Wichtigste Befunde
 
@@ -9,9 +9,11 @@
 - **Staatsdefizit.** Die 5,8 Prozent des BIP sind der Insee-Wert für 2024. Für 2025, beim Erscheinen des Videos das Vorjahr, lag der bereits ausgewiesene Wert bei 5,1 Prozent. [Insee, 28. August 2026](https://www.insee.fr/fr/statistiques/2381414)
 - **Täterschaft und Motive.** Die französische Regierung machte ultralinke Gruppen für Gewalt mitverantwortlich. Die herangezogenen Quellen tragen keine pauschale Zurechnung der Gewalt seit Beginn der Schulproteste. Die amtliche Studie zu vorgeführten Minderjährigen endet am 9. Oktober und deckt den 17. Oktober nicht ab. [ARD-aktuell, 18. Oktober 2026](https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html) · [Französisches Justizministerium, November 2026](https://www.justice.gouv.fr/sites/default/files/2026-11/etude_mouvement_lyceen_2026.pdf)
 
-## Offene Recherche
+- **Gewaltbilder und Symbole.** Im untersuchten französischen TikTok-Material entfielen im Zeitraum vom 1. September bis zum 29. Oktober 14 Prozent der Aufrufe auf Beiträge mit Gewalt. Die Studie erfasst weder einzelne persönliche Feeds noch die gesamte Nachrichtenberichterstattung. Palästinensische Fahnen sind in mehreren Protestzügen dokumentiert. Ihre Präsenz belegt keine Beteiligung an konkreten Gewalthandlungen und kein organisatorisches Bündnis. [CEPREMAP, November 2026](https://www.cepremap.fr/2026/11/violences-sur-tiktok/) · [Le Repère, Oktober 2026](https://lerepe.re/articles/mobilisation-17-octobre-vie-chere-gilets-jaunes-lyceens-violences/)
 
-Für die Anteile friedlicher und gewalttätiger Beteiligter fehlen vergleichbare Zählungen. Zuschreibungen zu konkreten frühen Gewalttaten, behauptete Bündnisse und die Funktion von Symbolen erfordern überprüfbare Einzelfälle. Für einzelne wirtschaftliche Trendbehauptungen fehlen regionale oder nach Haushaltsausgaben aufgeschlüsselte Reihen. Die mit späteren Quellen dokumentierten Entwicklungen sind beim jeweiligen Prüfpunkt datiert. Die aufgeführten externen Quellen wurden am 19. November 2026 abgerufen.
+## Grenzen der Ergebnisse
+
+Alle zwölf offenen Prüfpunkte der Erstfassung sind bewertet. Für neun Punkte geben die jeweils gelesenen Quellen weder eine tragfähige Bestätigung noch eine Widerlegung her. Das betrifft unter anderem die behaupteten Bündnisse und Zusammenhänge zwischen sozialer Lage, Radikalisierung und Wahlverhalten. Die Einzelprüfungen benennen die fehlenden Belege. Die Texttafel wurde bei der Erstfassung im Originalplayer eingesehen. Für die konkrete Symbolpassage und andere Bildinhalte gab es bei der Nachprüfung keine zusätzliche direkte Wiedergabeprüfung. Die später veröffentlichten Quellen sind als solche datiert.
 
 ## Kapitelprüfungen
 

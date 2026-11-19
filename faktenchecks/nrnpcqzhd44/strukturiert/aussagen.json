@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Amtliche Daten, zeitgenössische Berichte und später veröffentlichte Auswertungen werden je Fundstelle zugeordnet. Einige Akteurs-, Wirkungs- und Bildaussagen bleiben offen. Keine durchgehende Ton- oder Bildprüfung.",
-    "coverageNote": "Die deutsche Originaluntertitelspur wurde vollständig gelesen. Sie reicht von 00:00:00 bis kurz vor 00:11:43. Die Untertitelpause 00:08:34–00:09:04 enthält eine bei 00:08:40 und 00:08:55 visuell kontrollierte Texttafel. Weitere Bildinhalte und die genaue Sprecheridentität wurden nicht systematisch überprüft. Keine Statistik des vollständigen Videos."
+    "researchNote": "Die Nachprüfung hat alle zwölf offenen Sachdatensätze der Erstfassung bearbeitet und zwei zusätzliche Prüfgegenstände erfasst. Alle erfassten Aussagen haben ein Prüfergebnis. Bei nicht ausreichend belegbaren Aussagen dokumentiert der Bericht zwei Prüfwege und die verbleibende Beleglücke. Eine vollständige Sichtung der Bild- und Tonebene war nicht möglich.",
+    "coverageNote": "Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab."
   },
   "legacyPoints": [],
   "sources": [
@@ -310,6 +310,150 @@
       "details": "Philippe Bas für den französischen Senat, Bericht Nr. 450, 10.04.2019",
       "accessedOn": "2026-11-19",
       "accessBasis": "Einleitung mit den dokumentierten Vorfällen vom Dezember 2018 und März 2019 gelesen."
+    },
+    {
+      "id": "S038",
+      "title": "Violences sur TikTok",
+      "url": "https://www.cepremap.fr/2026/11/violences-sur-tiktok/",
+      "details": "Benjamin Guinaudeau, Isabelle Guinaudeau und Hugo Subtil, CEPREMAP, November 2026, Daten 1. September bis 29. Oktober",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Methodik, Zeitraum und Aufrufe nach Inhaltskategorien gelesen."
+    },
+    {
+      "id": "S039",
+      "title": "Mobilisation du 17 octobre : l’immigration a-t-elle été la cause des violences urbaines ?",
+      "url": "https://lessurligneurs.eu/mobilisation-du-17-octobre-limmigration-a-t-elle-ete-la-cause-des-violences-urbaines/",
+      "details": "Les Surligneurs, Oktober 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Recherche zur vorläufigen Ministeriumsnotiz via AFP und zu den Grenzen der Nationalitätsdaten gelesen. Die zugrunde liegende Notiz wurde nicht direkt eingesehen."
+    },
+    {
+      "id": "S040",
+      "title": "Audition de Laurent Nuñez sur les événements du 17 octobre 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/CRCANR5L17S2027PO59051N012.raw",
+      "details": "Assemblée nationale, 17. Legislaturperiode, Anhörungsprotokoll nach dem 17.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Einleitende Fragen und Angaben des Innenministers zu beobachteten Gruppen gelesen. Amtliche Zuschreibung, keine unabhängige Feststellung der Täterschaft."
+    },
+    {
+      "id": "S041",
+      "title": "Les trajectoires de croissance régionale au travers des crises depuis 2000",
+      "url": "https://www.insee.fr/fr/statistiques/9129350",
+      "details": "Insee Première Nr. 2134, 10.11.2026, Reihen bis 2024",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Rangfolge nach BIP pro Kopf, reales regionales Wachstum und Hinweise zur Beschäftigungsstruktur gelesen."
+    },
+    {
+      "id": "S042",
+      "title": "Produit intérieur brut en 2024 – Comparaisons régionales",
+      "url": "https://www.insee.fr/fr/statistiques/2012723",
+      "details": "Insee, 12.05.2026, vorläufige Daten 2024",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Tabelle zu regionalem BIP, BIP pro Kopf und BIP pro Arbeitsplatz gelesen."
+    },
+    {
+      "id": "S043",
+      "title": "La situation et les perspectives des finances publiques",
+      "url": "https://www.ccomptes.fr/sites/default/files/2026-06/20260625-RSPFP-2026.pdf",
+      "details": "Cour des comptes, Juni 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Tabelle zu Belastungsänderungen 2024/2025 und Abschnitt zu ihrem Beitrag zum Defizit gelesen."
+    },
+    {
+      "id": "S044",
+      "title": "Le compte des administrations publiques en 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8997691?sommaire=8071406",
+      "details": "Insee, Jahresrechnung für 2025, Ausgabe 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitte zu Einnahmen, diskretionären Maßnahmen und konjunkturabhängiger Einnahmenentwicklung gelesen."
+    },
+    {
+      "id": "S045",
+      "title": "Radicalité engagée, radicalités révoltées – fiche synthétique",
+      "url": "https://www.cnape.fr/documents/rapport-bonelli_-fiche-synthetique_-rapport-radicalite-engagee-radicalites-revoltees/",
+      "details": "CNAPE, Zusammenfassung der Untersuchung von Laurent Bonelli und Fabien Carrié, 2018",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Methodik zu 133 Fällen aus der Jugendjustiz und verschiedene Verläufe in der Zusammenfassung gelesen."
+    },
+    {
+      "id": "S046",
+      "title": "Psychiatrie et radicalisation",
+      "url": "https://www.cipdr.gouv.fr/wp-content/uploads/2020/07/FFP-rapport-Psychiatrie-et-Radicalisation-Janvier2020-valide%CC%81-MB-26022020.pdf",
+      "details": "Fédération française de psychiatrie, Januar 2020, veröffentlicht durch CIPDR",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitt zu unterschiedlichen sozialen Profilen in Jugendjustiz und bei verübten Taten gelesen."
+    },
+    {
+      "id": "S047",
+      "title": "En Israël, les violences du 17 octobre en France associées à l’islam et au soutien des Palestiniens",
+      "url": "https://www.lemonde.fr/international/article/2026/10/21/en-israel-les-violences-en-france-associees-a-l-islam-et-au-soutien-des-palestiniens_6798206_3210.html",
+      "details": "Le Monde, 21.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zugängliche Passagen zu unterschiedlichen Deutungen und berichteten Fahnen gelesen."
+    },
+    {
+      "id": "S048",
+      "title": "17 octobre : entre 550 000 et 800 000 manifestants contre la vie chère, des affrontements à Paris, Lyon et Marseille",
+      "url": "https://lerepe.re/articles/mobilisation-17-octobre-vie-chere-gilets-jaunes-lyceens-violences/",
+      "details": "Le Repère, Oktober 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitt mit den von der Redaktion beschriebenen Bildbelegen und Meldungen für Paris, Lille und Marseille gelesen."
+    },
+    {
+      "id": "S049",
+      "title": "Desinformación sobre las protestas en Francia: vídeos descontextualizados e imágenes generadas con IA",
+      "url": "https://www.rtve.es/noticias/20261019/desinformacion-protestas-francia-videos-imagenes-ia/17273662.shtml",
+      "details": "VerificaRTVE, 19.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Recherche zu zwei konkreten künstlich erzeugten Fahnenmotiven gelesen. Kein Abgleich dieser Motive mit dem Video von MrWissen2go."
+    },
+    {
+      "id": "S050",
+      "title": "Engagement radical, extrême ou violent",
+      "url": "https://www.sens-public.org/articles/1254/",
+      "details": "Sens public, 2017, qualitative Interviewstudie",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Studienanlage und Schlussfolgerungen zu heterogenen Lebensläufen in der französischen außerparlamentarischen Linken gelesen."
+    },
+    {
+      "id": "S051",
+      "title": "Fractures françaises 2026",
+      "url": "https://www.ipsos.com/fr-fr/fractures-francaises-2026?trk=article-ssr-frontend-pulse_little-text-block",
+      "details": "Ipsos bva–CESI und Partner, November 2026, Feldzeit 30.10.–03.11.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Untersuchungsziel, Stichprobe und Bericht zu politischen Einstellungen gelesen."
+    },
+    {
+      "id": "S052",
+      "title": "Sociologie des électorats – Législatives 2024",
+      "url": "https://www.ipsos.com/fr-fr/legislatives-2024/sociologie-des-electorats-legislatives-2024",
+      "details": "Ipsos und Talan, 2024, erster Wahlgang der Parlamentswahl",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Befragungsbefunde zu sozialer Zusammensetzung und Wahlverhalten gelesen."
+    },
+    {
+      "id": "S053",
+      "title": "Riots and public policy: a comparative socio-territorial analysis of the 2023 riots",
+      "url": "https://www.sciencespo.fr/liepp/en/content/riots-and-public-policy-comparative-socio-territorial-analysis-2023-riots.html",
+      "details": "Sciences Po, LIEPP, Projektbeschreibung zur Untersuchung der Unruhen 2023",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Fragestellung und räumlichen Vergleichsansatz gelesen. Projektbeschreibung ohne Nachweis für einen Ländervergleich 2026."
+    },
+    {
+      "id": "S054",
+      "title": "Riots in the UK and France",
+      "url": "https://kclpure.kcl.ac.uk/ws/files/35114921/moranwaddington_OnlineFirst.pdf",
+      "details": "Matthew Moran und David Waddington, vergleichende Studie zu französischen und britischen Unruhen, 2016",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Einleitung, historische Vergleichsfälle und geografische Grenzen gelesen."
+    },
+    {
+      "id": "S055",
+      "title": "AFPS – STOP génocide et colonisation – Sanctions contre Israël",
+      "url": "https://www.maintenant-le-mouvement.org/mobiliser/mobilisations/afps-stop-genocide-et-colonisation-sanctions-contre-israel-ds10375",
+      "details": "Démosphère Gard, Aufruf zur Veranstaltung am 17.10.2026 in Nîmes, gespiegelt bei Maintenant!",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Öffentlichen Veranstaltungsaufruf mit Anlass und aufrufenden Organisationen gelesen. Selbstauskunft zu dieser Kundgebung."
     }
   ],
   "speakers": [
@@ -682,14 +826,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Gewaltbilder dominierten schon vor und am Wochenende in den sozialen Netzwerken und den Medien.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die gelesenen Berichte enthalten solche Szenen. Beispiele erlauben keine Verallgemeinerung über plattformabhängige Feeds und die gesamte Berichterstattung.",
-      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die pauschale Aussage geht über die überprüfbare Reichweite hinaus. AP und ARD zeigen gewaltsame Szenen, sind aber ausgewählte Berichte. In der im November veröffentlichten Analyse öffentlicher französischer TikTok-Videos über die Mobilisierungen entfielen vom 1. September bis zum 29. Oktober 14 Prozent der Aufrufe auf Beiträge mit Gewalt. Beiträge mit Forderungen erreichten 32 Prozent. Medienkonten erzielten einen überproportionalen Teil der Aufrufe von Gewaltvideos. Die Studie bildet weder ein einzelnes Wochenende noch persönliche Feeds, andere Plattformen oder alle Nachrichtenangebote ab.",
+      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen."
       },
       "sourceRefs": [
         {
@@ -699,6 +843,10 @@
         {
           "sourceId": "S002",
           "note": "Beispiel eines Berichts mit Schwerpunkt Ausschreitungen."
+        },
+        {
+          "sourceId": "S038",
+          "note": "Methodik, Zeitraum und Aufrufe nach Inhaltskategorien gelesen."
         }
       ],
       "openQuestions": [
@@ -740,7 +888,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Zeitgenössische Berichte auf die behandelten Motive geprüft",
+            "sourceIds": [
+              "S001",
+              "S002"
+            ],
+            "result": "Gewalt ist sichtbar, doch eine Auswahl von Berichten ergibt keine Häufigkeitsmessung."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Mit französischen Plattformdaten nach einem quantitativen Gegencheck gesucht",
+            "sourceIds": [
+              "S038"
+            ],
+            "result": "Gewaltvideos wurden im untersuchten Gesamtzeitraum deutlich seltener aufgerufen als Beiträge mit Forderungen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "nrnpcqzhd44-A0007",
@@ -1527,14 +1702,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "In der Debatte wird ein ursächlicher Zusammenhang zwischen Einwanderung und der konkreten Gewalt im Oktober hergestellt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die politische Äußerung ist als Position dokumentiert. Protest- und Festnahmestatistiken sowie die Studie zu früher vorgeführten Minderjährigen liefern keinen belastbaren Kausalnachweis für den 17. Oktober. Herkunft, Staatsangehörigkeit, Motiv und Tatbeteiligung sind jeweils eigene Größen.",
-      "assessmentBasis": "Politische Zuschreibung und Datenumfang geprüft. Fallbezogene Kausalprüfung steht aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Der Vance zugeschriebene Beitrag formuliert eine politische Deutung. Für eine Kausalprüfung reichen weder die amtlichen Ereigniszahlen noch die Untersuchung zu früher vorgeführten Minderjährigen. Die nachträgliche Auswertung zu einer vorläufigen Stichprobe von 186 Inhaftierten beschreibt überwiegend französische Staatsangehörige. Nationalität, Einwanderungsgeschichte, Tatmotiv und Ursache sind verschiedene Merkmale. Auch die spätere parlamentarische Anhörung behandelt Akteure und Einsatzablauf, liefert aber keinen vergleichenden Kausalnachweis für Einwanderung.",
+      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen."
       },
       "sourceRefs": [
         {
@@ -1548,6 +1723,14 @@
         {
           "sourceId": "S003",
           "note": "Ereigniszahlen ohne Kausalanalyse."
+        },
+        {
+          "sourceId": "S039",
+          "note": "Recherche zur vorläufigen Ministeriumsnotiz via AFP und zu den Grenzen der Nationalitätsdaten gelesen. Die zugrunde liegende Notiz wurde nicht direkt eingesehen."
+        },
+        {
+          "sourceId": "S040",
+          "note": "Einleitende Fragen und Angaben des Innenministers zu beobachteten Gruppen gelesen. Amtliche Zuschreibung, keine unabhängige Feststellung der Täterschaft."
         }
       ],
       "openQuestions": [
@@ -1572,7 +1755,36 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Die zeitgenössische Zuschreibung und den Zuschnitt amtlicher Erhebungen geprüft",
+            "sourceIds": [
+              "S010",
+              "S007",
+              "S003"
+            ],
+            "result": "Die Zuschreibung ist dokumentiert. Die Erhebungen sind nach Zeitraum und Gegenstand für einen Ursachentest ungeeignet."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Nach justiziellen Profilen zum konkreten Wochenende und einer amtlichen Rekonstruktion des 17. Oktober gesucht",
+            "sourceIds": [
+              "S039",
+              "S040"
+            ],
+            "result": "Die später veröffentlichten Angaben sind selektiv und identifizieren keinen ursächlichen Effekt."
+          }
+        ],
+        "missingInformation": "Repräsentativ erhobene Tatbeteiligung, eindeutig definierter Migrationsbezug und geeignete Vergleichsdaten für das Ereignis fehlen.",
+        "conflicts": null
+      }
     },
     {
       "id": "nrnpcqzhd44-A0022",
@@ -2117,19 +2329,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Wachstumsabschwächung sei vor allem in strukturschwachen Gegenden spürbar.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die verwendete nationale Jahresrechnung enthält keine Abgrenzung der im Video gemeinten Regionen oder ihres relativen Anteils an der Abschwächung.",
-      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die nationale Wachstumsverlangsamung ist messbar. Regionale BIP-Niveaus und reale Wachstumsreihen zeigen unterschiedliche Entwicklungen. Die Île-de-France, eine der wirtschaftsstärksten Regionen, hatte laut Insee im Zeitraum 2019–2023 ebenfalls ein deutlich niedrigeres durchschnittliches Wachstum als 2011–2019. Das Video definiert weder die strukturschwachen Gebiete noch den Vergleichszeitraum. Die Regionalreihe bis 2024 kann die behauptete Konzentration der jüngeren Abschwächung nicht belegen.",
+      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen."
       },
       "sourceRefs": [
         {
           "sourceId": "S019",
           "note": "Nationaler Verlauf als Vergleich."
+        },
+        {
+          "sourceId": "S042",
+          "note": "Tabelle zu regionalem BIP, BIP pro Kopf und BIP pro Arbeitsplatz gelesen."
+        },
+        {
+          "sourceId": "S041",
+          "note": "Rangfolge nach BIP pro Kopf, reales regionales Wachstum und Hinweise zur Beschäftigungsstruktur gelesen."
         }
       ],
       "openQuestions": [
@@ -2154,7 +2374,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Die nationale Wachstumsrate und zeitgenössisch verfügbare regionale BIP-Niveaus verglichen",
+            "sourceIds": [
+              "S019",
+              "S042"
+            ],
+            "result": "Ein niedriges BIP je Person misst für sich keine Veränderung der Wachstumsrate."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Reale regionale Entwicklungen vor und nach den Krisen in der neueren Insee-Analyse geprüft",
+            "sourceIds": [
+              "S041"
+            ],
+            "result": "Die Abschwächung betrifft auch wirtschaftsstarke Regionen. Die Reihe endet 2024."
+          }
+        ],
+        "missingInformation": "Abgrenzung der Regionen und vergleichbare regionale Verlaufsdaten für die im Video gemeinte Abschwächung.",
+        "conflicts": null
+      }
     },
     {
       "id": "nrnpcqzhd44-A0034",
@@ -2290,14 +2537,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Frühere Regierungen hätten hohe Ausgaben häufig über Steuererhöhungen ausgeglichen, woraus die hohe heutige Abgabenquote folge.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die Tabelle belegt Einnahmen und Ausgaben insgesamt. Aus ihr lassen sich weder Häufigkeit diskretionärer Steuererhöhungen noch deren kumulierter Beitrag zur heutigen Quote bestimmen.",
-      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Für 2025 dokumentiert der Rechnungshof Belastungsänderungen von rund 23 Milliarden Euro. Insee unterscheidet solche Maßnahmen von Einnahmenänderungen durch Einkommen und Wirtschaftstätigkeit. Nach dem Rechnungshof reduzierten die Maßnahmen das Defizit 2025 um etwa 0,8 Prozentpunkte gemessen am BIP. Das belegt den Mechanismus in diesem Jahr. Aus den geprüften Reihen folgt weder, wie oft Regierungen ihn über einen längeren Zeitraum einsetzten, noch wie viel er den internationalen Rang erklärt.",
+      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen."
       },
       "sourceRefs": [
         {
@@ -2307,6 +2554,14 @@
         {
           "sourceId": "S020",
           "note": "Internationaler Quotenvergleich."
+        },
+        {
+          "sourceId": "S043",
+          "note": "Tabelle zu Belastungsänderungen 2024/2025 und Abschnitt zu ihrem Beitrag zum Defizit gelesen."
+        },
+        {
+          "sourceId": "S044",
+          "note": "Abschnitte zu Einnahmen, diskretionären Maßnahmen und konjunkturabhängiger Einnahmenentwicklung gelesen."
         }
       ],
       "openQuestions": [
@@ -2331,7 +2586,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Haushaltsrechnung und EU-Abgabenquote nach Definition und Zeitbezug geprüft",
+            "sourceIds": [
+              "S018",
+              "S020"
+            ],
+            "result": "Einnahmenquote und Rang zeigen keine einzelnen Steuerentscheidungen."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Beim Rechnungshof und bei Insee nach Beiträgen konkreter Maßnahmen in der Jahresrechnung gesucht",
+            "sourceIds": [
+              "S043",
+              "S044"
+            ],
+            "result": "Für 2025 lässt sich die Wirkung der Maßnahmen beziffern. Die langfristige Erklärung der Rangfolge bleibt begrenzt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "nrnpcqzhd44-A0038",
@@ -3144,14 +3427,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Islamistische Gruppen nutzten soziale Benachteiligung in den betroffenen Vierteln zur Radikalisierung.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die Quellen zu räumlicher Benachteiligung betreffen andere Fragen. Für die behauptete Rekrutierung im konkreten Kontext fehlen identifizierte Fälle und Daten zu Mechanismen und Häufigkeit.",
-      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Historische Stadtdaten belegen soziale Benachteiligung. Die Forschung zu in der Jugendjustiz erfassten Fällen zeigt unterschiedliche Wege in islamistische Milieus. Die ausgewerteten Fälle erfassen verschiedene soziale Profile und ermöglichen keine Aussage zur Häufigkeit gezielter Rekrutierung in den im Video angesprochenen Vierteln. Auch der Senatsbericht zu den Unruhen 2023 untersucht einen anderen Gegenstand.",
+      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen."
       },
       "sourceRefs": [
         {
@@ -3161,6 +3444,14 @@
         {
           "sourceId": "S028",
           "note": "Untersuchung früherer Unruhen."
+        },
+        {
+          "sourceId": "S045",
+          "note": "Methodik zu 133 Fällen aus der Jugendjustiz und verschiedene Verläufe in der Zusammenfassung gelesen."
+        },
+        {
+          "sourceId": "S046",
+          "note": "Abschnitt zu unterschiedlichen sozialen Profilen in Jugendjustiz und bei verübten Taten gelesen."
         }
       ],
       "openQuestions": [
@@ -3185,7 +3476,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Historische Stadtanalyse und die parlamentarische Untersuchung früherer Unruhen auf Ortsbezug und Gegenstand geprüft",
+            "sourceIds": [
+              "S027",
+              "S028"
+            ],
+            "result": "Benachteiligung ist dokumentiert. Die Quellen erfassen keine gezielte Rekrutierung im Oktober 2026."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Forschung zu Jugendjustiz, Sozialprofilen und Radikalisierung in Frankreich verglichen",
+            "sourceIds": [
+              "S045",
+              "S046"
+            ],
+            "result": "Die Studien zeigen heterogene Verläufe und keine direkte Zuordnung zu den Protesten oder zu bestimmten Gruppen und Vierteln."
+          }
+        ],
+        "missingInformation": "Datierte Fallbelege zu handelnden Gruppen, betroffenen Vierteln und beobachteten Rekrutierungswegen.",
+        "conflicts": null
+      }
     },
     {
       "id": "nrnpcqzhd44-A0055",
@@ -3194,19 +3513,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Linksextreme Bewegungen gingen Bündnisse mit islamistischen Gruppen ein.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Im Untertitelabschnitt werden keine beteiligten Organisationen oder belegten gemeinsamen Entscheidungen benannt. Die zeitnahe Regierungszuschreibung zu ultralinken Gruppen dokumentiert ein anderes Merkmal und kann ein solches Bündnis nicht belegen.",
-      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die Regierung legte dem Untersuchungsausschuss ihre Zuschreibung an ultralinke Gruppen dar. Die Anhörung belegt diese Zuschreibung, aber kein gemeinsames Vorgehen mit einer identifizierten islamistischen Organisation. Zeitgenössische Berichte und spätere Deutungen enthalten gegensätzliche Interpretationen. Das Auftreten mehrerer Gruppen am selben Tag reicht für einen Bündnisnachweis nicht aus.",
+      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen."
       },
       "sourceRefs": [
         {
           "sourceId": "S002",
           "note": "Regierungsposition zu den Ausschreitungen."
+        },
+        {
+          "sourceId": "S040",
+          "note": "Einleitende Fragen und Angaben des Innenministers zu beobachteten Gruppen gelesen. Amtliche Zuschreibung, keine unabhängige Feststellung der Täterschaft."
+        },
+        {
+          "sourceId": "S047",
+          "note": "Zugängliche Passagen zu unterschiedlichen Deutungen und berichteten Fahnen gelesen."
+        },
+        {
+          "sourceId": "S048",
+          "note": "Abschnitt mit den von der Redaktion beschriebenen Bildbelegen und Meldungen für Paris, Lille und Marseille gelesen."
         }
       ],
       "openQuestions": [
@@ -3231,7 +3562,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Regierungsaussage aus der zeitgenössischen Berichterstattung mit dem späteren Anhörungsprotokoll verglichen",
+            "sourceIds": [
+              "S002",
+              "S040"
+            ],
+            "result": "Beide behandeln ultralinke Akteure. Ein konkreter islamistischer Bündnispartner ist daraus nicht belegt."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Nach berichteten gemeinsamen Aktionen und benannten Partnern über getrennte Berichterstattungswege gesucht",
+            "sourceIds": [
+              "S047",
+              "S048"
+            ],
+            "result": "Es finden sich politische Deutungen und Berichte über verschiedene Beteiligte, aber kein überprüfbarer Nachweis eines gemeinsamen Vorgehens."
+          }
+        ],
+        "missingInformation": "Namen beider Organisationen und datierte Belege für Absprachen oder koordinierte Handlungen im gemeinten Kontext.",
+        "conflicts": null
+      }
     },
     {
       "id": "nrnpcqzhd44-A0056",
@@ -3240,16 +3599,33 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine geteilte Position zum Nahostkonflikt sei das Bindeglied solcher Bündnisse.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Für diese Motivzuschreibung fehlen konkrete gemeinsame Erklärungen oder Handlungen identifizierter Organisationen.",
-      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Einzelne Aufrufe und Fotos zeigen, dass Palästinasolidarität für manche Beteiligte ein Anliegen war. Der veröffentlichte Aufruf für Nîmes dokumentiert eine eigene Kundgebung mit einem konkret benannten Anliegen. Weder dieser Aufruf noch die Berichte zu anderen Orten zeigen, dass eine gemeinsame Nahostposition das Motiv eines Bündnisses zwischen den im Video beschriebenen Gruppen war.",
+      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S047",
+          "note": "Zugängliche Passagen zu unterschiedlichen Deutungen und berichteten Fahnen gelesen."
+        },
+        {
+          "sourceId": "S048",
+          "note": "Abschnitt mit den von der Redaktion beschriebenen Bildbelegen und Meldungen für Paris, Lille und Marseille gelesen."
+        },
+        {
+          "sourceId": "S055",
+          "note": "Öffentlichen Veranstaltungsaufruf mit Anlass und aufrufenden Organisationen gelesen. Selbstauskunft zu dieser Kundgebung."
+        },
+        {
+          "sourceId": "S040",
+          "note": "Einleitende Fragen und Angaben des Innenministers zu beobachteten Gruppen gelesen. Amtliche Zuschreibung, keine unabhängige Feststellung der Täterschaft."
+        }
+      ],
       "openQuestions": [
         "Welche konkreten Organisationen, Stellungnahmen und gemeinsamen Aktionen sind gemeint?"
       ],
@@ -3272,7 +3648,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Zeitnahe Berichte auf genannte Ziele und Zuschreibungen geprüft",
+            "sourceIds": [
+              "S047",
+              "S048"
+            ],
+            "result": "Palästinasolidarität erscheint neben anderen Anliegen. Die beobachteten Motive beziehen sich auf Einzelpersonen oder konkrete Kundgebungen."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Direkten Veranstaltungsaufruf vom selben Tag und amtliche Einordnung der Gewalt getrennt herangezogen",
+            "sourceIds": [
+              "S055",
+              "S040"
+            ],
+            "result": "Der Aufruf belegt ein konkretes Anliegen. Das Protokoll bestätigt keine gemeinsame Bündnismotivation."
+          }
+        ],
+        "missingInformation": "Gemeinsame Erklärungen oder dokumentierte Absprachen eindeutig identifizierter Gruppen.",
+        "conflicts": null
+      }
     },
     {
       "id": "nrnpcqzhd44-A0057",
@@ -3281,16 +3685,29 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Bei den Ausschreitungen seien regelmäßig Symbole zu sehen, die zu den behaupteten Verbindungen passen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Der Untertitel benennt die Symbole nicht eindeutig. Selbst ein sichtbares Symbol müsste einem Ort, einem Ereignis und einer Person zugeordnet werden. Seine Verwendung allein würde keine organisatorische Zusammenarbeit nachweisen.",
-      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Bei den Protesten am 17. Oktober sind palästinensische Fahnen an mehreren Orten journalistisch dokumentiert. Die Untertitel benennen das gemeinte Symbol nicht. Falls diese Fahnen gemeint sind, stützen die dokumentierten Einzelfälle ihr Auftreten in Protestzügen. Eine Häufigkeit bei Gewalthandlungen und eine Bedeutung als Zeichen eines Bündnisses sind daraus nicht abzuleiten. VerificaRTVE identifizierte zudem gefälschte Fahnenmotive in sozialen Netzwerken. Die konkrete Bildauswahl des YouTube-Videos ließ sich bei dieser Nachprüfung nicht zusätzlich ansehen.",
+      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S047",
+          "note": "Zugängliche Passagen zu unterschiedlichen Deutungen und berichteten Fahnen gelesen."
+        },
+        {
+          "sourceId": "S048",
+          "note": "Abschnitt mit den von der Redaktion beschriebenen Bildbelegen und Meldungen für Paris, Lille und Marseille gelesen."
+        },
+        {
+          "sourceId": "S049",
+          "note": "Recherche zu zwei konkreten künstlich erzeugten Fahnenmotiven gelesen. Kein Abgleich dieser Motive mit dem Video von MrWissen2go."
+        }
+      ],
       "openQuestions": [
         "Welche Bilder, Symbole, Aufnahmeorte und Daten lassen sich verifizieren?"
       ],
@@ -3313,7 +3730,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Zeitnahe Berichte und separat zusammengestellte Bildbeschreibungen zu mehreren Städten verglichen",
+            "sourceIds": [
+              "S047",
+              "S048"
+            ],
+            "result": "Palästinensische Fahnen wurden in verschiedenen Protestzügen beschrieben. Das sagt noch nichts über konkrete Gewaltakte aus."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Bildbehauptungen zum selben Datum anhand einer gezielten visuellen Verifikation durch RTVE abgegrenzt",
+            "sourceIds": [
+              "S049"
+            ],
+            "result": "Es gibt auch nachweislich falsche Umlaufbilder. Eine Zuordnung zum Video wurde nicht vorgenommen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "nrnpcqzhd44-A0058",
@@ -3322,23 +3766,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die beschriebenen sozialen Bedingungen erhöhten bei jungen Menschen die Anfälligkeit für islamistischen und linksextremen Aktivismus.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die zugänglichen Quellen zu Ungleichheit und Ausschreitungen messen keine Rekrutierung oder Einstellungsänderung für die beiden Ideologien. Die pauschale Ursache bleibt offen.",
-      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die Studien zeigen heterogene soziale und biografische Konstellationen. Die Jugendjustizuntersuchung verarbeitet ausgewählte Fälle und liefert keine Risikorate in der Gesamtbevölkerung. Die Interviewstudie zur außerparlamentarischen Linken untersucht unterschiedliche Lebensläufe. Aus beiden Quellen folgt keine gemeinsame Ursache für islamistische und linksextreme Hinwendung bei jungen Menschen im Herbst 2026.",
+      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen."
       },
       "sourceRefs": [
         {
-          "sourceId": "S028",
-          "note": "Kontext früherer Unruhen."
+          "sourceId": "S045",
+          "note": "Methodik zu 133 Fällen aus der Jugendjustiz und verschiedene Verläufe in der Zusammenfassung gelesen."
         },
         {
-          "sourceId": "S025",
-          "note": "Einkommensverteilung ohne Extremismusmaß."
+          "sourceId": "S046",
+          "note": "Abschnitt zu unterschiedlichen sozialen Profilen in Jugendjustiz und bei verübten Taten gelesen."
+        },
+        {
+          "sourceId": "S050",
+          "note": "Studienanlage und Schlussfolgerungen zu heterogenen Lebensläufen in der französischen außerparlamentarischen Linken gelesen."
         }
       ],
       "openQuestions": [
@@ -3363,7 +3811,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Fallauswahl und soziale Profile in der Forschung zu islamistischer Radikalisierung geprüft",
+            "sourceIds": [
+              "S045",
+              "S046"
+            ],
+            "result": "Unterschiedliche Lebenslagen und Selektionsgrenzen verhindern eine allgemeine Risikozuschreibung."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Unabhängig davon empirische Forschung zu außerparlamentarischem linkem Aktivismus und Gewalt in Frankreich gelesen",
+            "sourceIds": [
+              "S050"
+            ],
+            "result": "Qualitative Lebensläufe erklären Einzelfälle, erlauben aber keine Schätzung des behaupteten gemeinsamen Risikos."
+          }
+        ],
+        "missingInformation": "Getrennte, vergleichbare Verlaufsdaten und eine für beide Phänomene nachvollziehbare Messung der sozialen Belastungen.",
+        "conflicts": null
+      }
     },
     {
       "id": "nrnpcqzhd44-A0059",
@@ -3372,16 +3847,25 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Auch Teile der sozial benachteiligten Bevölkerung mit starkem nationalem Selbstverständnis würden sich radikalisieren.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die Aussage nennt keine untersuchte Population oder Zeitreihe. Nationale Selbstbeschreibung und Radikalisierung bräuchten voneinander unabhängige Kriterien.",
-      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die Ipsos-Erhebung nach dem Oktoberwochenende untersucht gesellschaftliche und politische Einstellungen. Die Wahlbefragung 2024 weist Unterschiede nach sozialer Lage aus. Eine Wahlpräferenz, eine nationale Selbstbeschreibung und die Billigung politischer Gewalt sind jedoch verschiedene Merkmale. Die Erhebungen identifizieren keine im Video klar umrissene Gruppe, deren Radikalisierung über Zeit gemessen wurde.",
+      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S051",
+          "note": "Untersuchungsziel, Stichprobe und Bericht zu politischen Einstellungen gelesen."
+        },
+        {
+          "sourceId": "S052",
+          "note": "Befragungsbefunde zu sozialer Zusammensetzung und Wahlverhalten gelesen."
+        }
+      ],
       "openQuestions": [
         "Welche Erhebung misst den behaupteten Trend und bei welcher Gruppe?"
       ],
@@ -3404,7 +3888,33 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "In der Ipsos-Erhebung nach Messgrößen zu politischen Einstellungen und Gewalt gesucht",
+            "sourceIds": [
+              "S051"
+            ],
+            "result": "Die Befragung bietet Kontext, misst aber nicht den behaupteten Verlauf in der genannten Gruppe."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Frühere Wahlbefragung nach sozialer Lage als getrennten Prüfweg herangezogen",
+            "sourceIds": [
+              "S052"
+            ],
+            "result": "Die Wahlsoziologie belegt unterschiedliche Parteipräferenzen, aber keine Radikalisierung der beschriebenen Menschen."
+          }
+        ],
+        "missingInformation": "Definierte Untersuchungsgruppe und vergleichbare Zeitreihen zu politischer Gewaltbereitschaft oder Handlungen.",
+        "conflicts": null
+      }
     },
     {
       "id": "nrnpcqzhd44-A0060",
@@ -3452,14 +3962,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Rassemblement National profitiere politisch von der beschriebenen gesellschaftlichen Radikalisierung.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Ipsos dokumentiert bereits vor dem Oktoberwochenende einen Vorsprung Le Pens und danach weiter hohe Werte. Das ist kein Wirkungsnachweis für die genannte Ursache.",
-      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Marine Le Pen führte bereits in der Ipsos-Befragung im September und blieb nach dem Protestwochenende in der dort geprüften Umfrage vorne. Die neue Befragung zu gesellschaftlichen Einstellungen und die Wahlsoziologie 2024 liefern Kontext. Sie verknüpfen die behauptete Radikalisierung aber nicht ursächlich mit zusätzlichen Stimmen oder Wahlabsichten für den RN.",
+      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen."
       },
       "sourceRefs": [
         {
@@ -3469,6 +3979,14 @@
         {
           "sourceId": "S030",
           "note": "Erhebung nach dem Video."
+        },
+        {
+          "sourceId": "S051",
+          "note": "Untersuchungsziel, Stichprobe und Bericht zu politischen Einstellungen gelesen."
+        },
+        {
+          "sourceId": "S052",
+          "note": "Befragungsbefunde zu sozialer Zusammensetzung und Wahlverhalten gelesen."
         }
       ],
       "openQuestions": [
@@ -3493,7 +4011,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Umfrageberichte vor und nach dem Ereignis abgeglichen",
+            "sourceIds": [
+              "S029",
+              "S030"
+            ],
+            "result": "Der Vorsprung ist auf beiden Seiten des Stichtags sichtbar. Eine bloße Abfolge bestimmt seine Ursache nicht."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Separate Erhebungen zu gesellschaftlichen Einstellungen und sozialer Zusammensetzung des RN-Elektorats geprüft",
+            "sourceIds": [
+              "S051",
+              "S052"
+            ],
+            "result": "Die Erhebungen bieten keine Identifikation eines Effekts der beschriebenen Radikalisierung."
+          }
+        ],
+        "missingInformation": "Vergleichbare Daten über individuelle Einstellungsänderungen, Wahlabsicht und alternative Erklärungen.",
+        "conflicts": null
+      }
     },
     {
       "id": "nrnpcqzhd44-A0062",
@@ -3594,19 +4140,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Entwicklung sei international sichtbar und in Frankreich unter anderem aufgrund seiner Kolonialgeschichte besonders ausgeprägt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die historische Einordnung beschreibt Verbindungen zwischen Migration und französischer Kolonialgeschichte. Für einen internationalen Intensitätsvergleich und eine kausale Erklärung fehlen definierte Indikatoren und Vergleichsfälle.",
-      "assessmentBasis": "Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Historische Verbindungen zwischen Frankreichs Kolonialgeschichte und Einwanderung sind dokumentiert. Vergleichende Arbeiten zeigen auch urbane Unruhen in Großbritannien. Sie vergleichen jeweils konkrete Episoden und setzen weder einen gemeinsamen Maßstab für Gesellschaftsspaltung und Radikalisierung noch bestimmen sie einen französischen Sonderfall im Oktober 2026. Das Video lässt zudem offen, welche der zuvor genannten Entwicklungen verglichen wird.",
+      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Erfassung aus der Videoauswertung.",
-        "assessmentChange": "Erstprüfung."
+        "assessmentChange": "Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen."
       },
       "sourceRefs": [
         {
           "sourceId": "S027",
           "note": "Historischer Frankreich-Kontext."
+        },
+        {
+          "sourceId": "S053",
+          "note": "Fragestellung und räumlichen Vergleichsansatz gelesen. Projektbeschreibung ohne Nachweis für einen Ländervergleich 2026."
+        },
+        {
+          "sourceId": "S054",
+          "note": "Einleitung, historische Vergleichsfälle und geografische Grenzen gelesen."
         }
       ],
       "openQuestions": [
@@ -3631,7 +4185,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Historischen Frankreich-Kontext und sozialräumliche Forschung zu den Ausschreitungen 2023 geprüft",
+            "sourceIds": [
+              "S027",
+              "S053"
+            ],
+            "result": "Beide liefern Kontext innerhalb Frankreichs und keinen zeitgleichen internationalen Maßstab."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Ländervergleich mit britischen Unruhen gesucht und die Anlage eines direkten historischen Vergleichs gelesen",
+            "sourceIds": [
+              "S054"
+            ],
+            "result": "Die Vergleichsfälle zeigen übernationale Parallelen, messen aber nicht die behauptete besondere Stärke Frankreichs 2026."
+          }
+        ],
+        "missingInformation": "Gemeinsame Indikatoren für klar bezeichnete Entwicklungen, Vergleichsländer und ein nachvollziehbarer Test der behaupteten historischen Ursache.",
+        "conflicts": null
+      }
     },
     {
       "id": "nrnpcqzhd44-A0065",
@@ -3951,6 +4532,94 @@
           "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
           "note": "Fundstelle der eigenen Paraphrase.",
           "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0072",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Banlieue bezeichnet im Französischen die Vororte einer Großstadt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die historische Quelle erläutert, dass der Ausdruck geografisch die Vororte insgesamt umfasst und im öffentlichen Sprachgebrauch häufig auf benachteiligte Großwohnsiedlungen verengt wird. Der Begriff allein bezeichnet weder eine Einkommensklasse noch einen Einwanderungsstatus.",
+      "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und der gelesenen bpb-Fundstelle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Als eigener Prüfgegenstand bei der Nachprüfung ergänzt.",
+        "assessmentChange": "Erstbewertung 19.11.2026 (Codex)."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S027",
+          "note": "Begriffsklärung der historischen bpb-Darstellung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0090",
+          "startSeconds": 506,
+          "endSeconds": 511,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zusammenhängende Moderation in der deutschen Untertitelspur und Präsentation des Kanals. Keine durchgehende akustische Identifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Im Untertitel als eigene Aussage oder Einschätzung des Moderators formuliert.",
+          "note": "Fundstelle der eigenen Paraphrase.",
+          "timeBasis": "Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze Sekunden angenähert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "nrnpcqzhd44-A0073",
+      "videoId": "nrnpcqzhd44",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die eingeblendete historische Darstellung beschreibt eine zunehmende Konzentration sozial benachteiligter Menschen in den behandelten Vorstädten.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die in der Einblendung genannte historische Darstellung beschreibt Wegzug, Zuzug und Arbeitslosigkeit als zusammenhängende Prozesse in bestimmten Großwohnsiedlungen. Sie dokumentiert einen historischen Erklärungsansatz. Sie erlaubt keinen Schluss auf sämtliche Vororte und ersetzt keine Messung der heutigen Verteilung.",
+      "assessmentBasis": "Nachprüfung der bereits direkt kontrollierten Texttafel und der gelesenen bpb-Fundstelle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Als eigener Prüfgegenstand bei der Nachprüfung ergänzt.",
+        "assessmentChange": "Erstbewertung 19.11.2026 (Codex)."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S027",
+          "note": "Historische Darstellung zur sozialen Zusammensetzung der behandelten Großwohnsiedlungen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "nrnpcqzhd44-O0091",
+          "startSeconds": 535,
+          "endSeconds": 536,
+          "precision": "Kontrolliert",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Stumm erfasste Texttafel ohne zugeordneten Sprecher.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Als fremde Wiedergabe gekennzeichnete Texttafel.",
+          "note": "Sichtprobe der Tafel am angegebenen Playerzeitpunkt.",
+          "timeBasis": "Direkte Sichtkontrolle im YouTube-Player bei 08:40 und 08:55, keine Kontrolle der exakten Einblendgrenzen.",
           "timeHistory": []
         }
       ],

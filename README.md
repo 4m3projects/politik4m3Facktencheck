@@ -20,7 +20,7 @@ Die Webseite ist der zentrale Zugang zu allen Videoanalysen, Aussagen, Quellen u
 
 ## Projektstand
 
-- [Proteste und Gewalt in Frankreich (MrWissen2go)](faktenchecks/nrnpcqzhd44/README.md) · Teilprüfung mit 71 erfassten Prüfpunkten.
+- [Proteste und Gewalt in Frankreich (MrWissen2go)](faktenchecks/nrnpcqzhd44/README.md) · 73 inhaltlich bearbeitete Prüfpunkte. Bild- und Tonebene teilweise kontrolliert.
 - **Campertalk mit Sinan (SinansWoche) bei IT Camper:** 170 erfasste Aussagen; 104 abgeschlossen, 48 mit Grund nicht überprüfbar, 18 noch nicht geprüft.
 - **Reaktion „Alfred räumt auf“ über dieses Gespräch:** 66 erfasste Aussagen; 62 abgeschlossen, 4 mit Grund nicht überprüfbar.
 - Beide Prüfungen sind **Teilbestände**: Nicht jede Nebenbemerkung ist erfasst, deshalb gibt es keine Bilanz des ganzen Videos.

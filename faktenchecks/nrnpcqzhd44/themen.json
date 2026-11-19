@@ -424,6 +424,18 @@
       "topics": [
         "frankreich"
       ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0072",
+      "topics": [
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "nrnpcqzhd44-A0073",
+      "topics": [
+        "frankreich"
+      ]
     }
   ],
   "history": [
@@ -431,6 +443,11 @@
       "date": "2026-11-19",
       "agent": "Codex",
       "change": "Erstzuordnung für den Faktencheck zu den französischen Protesten."
+    },
+    {
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Zwei zusätzliche Prüfgegenstände der Nachprüfung dem bestehenden Thema zugeordnet."
     }
   ]
 }

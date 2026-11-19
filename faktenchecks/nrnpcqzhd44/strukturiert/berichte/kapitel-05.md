@@ -1,8 +1,8 @@
 # Kapitel 05: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die deutsche Originaluntertitelspur wurde vollständig gelesen. Sie reicht von 00:00:00 bis kurz vor 00:11:43. Die Untertitelpause 00:08:34–00:09:04 enthält eine bei 00:08:40 und 00:08:55 visuell kontrollierte Texttafel. Weitere Bildinhalte und die genaue Sprecheridentität wurden nicht systematisch überprüft. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Die verfügbare deutsche Originaluntertitelspur wurde von 00:00:00 bis zum Abspann vollständig ausgewertet. Die Untertitelpause 00:08:34–00:09:04 wurde durch zwei Sichtproben der historischen Texttafel bei 00:08:40 und 00:08:55 ergänzt. Die sonstigen visuellen Einblendungen und die Stimmen wurden nicht durchgehend unabhängig überprüft. Die Prüfung deckt die erfassten Aussagen über die gesamte Laufzeit ab.
 
-Amtliche Daten, zeitgenössische Berichte und später veröffentlichte Auswertungen werden je Fundstelle zugeordnet. Einige Akteurs-, Wirkungs- und Bildaussagen bleiben offen. Keine durchgehende Ton- oder Bildprüfung.
+Die Nachprüfung hat alle zwölf offenen Sachdatensätze der Erstfassung bearbeitet und zwei zusätzliche Prüfgegenstände erfasst. Alle erfassten Aussagen haben ein Prüfergebnis. Bei nicht ausreichend belegbaren Aussagen dokumentiert der Bericht zwei Prüfwege und die verbleibende Beleglücke. Eine vollständige Sichtung der Bild- und Tonebene war nicht möglich.
 
 ## nrnpcqzhd44-A0030
 
@@ -139,7 +139,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Wachstumsabschwächung sei vor allem in strukturschwachen Gegenden spürbar.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -158,22 +158,38 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die verwendete nationale Jahresrechnung enthält keine Abgrenzung der im Video gemeinten Regionen oder ihres relativen Anteils an der Abschwächung.
+Die nationale Wachstumsverlangsamung ist messbar. Regionale BIP-Niveaus und reale Wachstumsreihen zeigen unterschiedliche Entwicklungen. Die Île-de-France, eine der wirtschaftsstärksten Regionen, hatte laut Insee im Zeitraum 2019–2023 ebenfalls ein deutlich niedrigeres durchschnittliches Wachstum als 2011–2019. Das Video definiert weder die strukturschwachen Gebiete noch den Vergleichszeitraum. Die Regionalreihe bis 2024 kann die behauptete Konzentration der jüngeren Abschwächung nicht belegen.
 
-Grundlage der Bewertung: Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.
+Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen.
 
 ### Zugeordnete Quellen
 
 - [Les comptes de la Nation en 2025](https://www.insee.fr/fr/statistiques/8996855?sommaire=8071406) · Insee, Jahresrechnung 2025, Stand 2026
   Quellenzugriff am 2026-11-19. Gelesen. Revisionshinweise zur realen BIP-Entwicklung. Nationaler Verlauf als Vergleich.
 
+- [Produit intérieur brut en 2024 – Comparaisons régionales](https://www.insee.fr/fr/statistiques/2012723) · Insee, 12.05.2026, vorläufige Daten 2024
+  Quellenzugriff am 2026-11-19. Tabelle zu regionalem BIP, BIP pro Kopf und BIP pro Arbeitsplatz gelesen. Tabelle zu regionalem BIP, BIP pro Kopf und BIP pro Arbeitsplatz gelesen.
+
+- [Les trajectoires de croissance régionale au travers des crises depuis 2000](https://www.insee.fr/fr/statistiques/9129350) · Insee Première Nr. 2134, 10.11.2026, Reihen bis 2024
+  Quellenzugriff am 2026-11-19. Rangfolge nach BIP pro Kopf, reales regionales Wachstum und Hinweise zur Beschäftigungsstruktur gelesen. Rangfolge nach BIP pro Kopf, reales regionales Wachstum und Hinweise zur Beschäftigungsstruktur gelesen.
+
 ### Offene Fragen und Unsicherheiten
 
 - Welche Regionen sind gemeint und wie haben sich dort reales BIP, Beschäftigung und Einkommen entwickelt?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Abgrenzung der Regionen und vergleichbare regionale Verlaufsdaten für die im Video gemeinte Abschwächung.
+
+- Durchgang 1 am 2026-11-19 (Codex): Die nationale Wachstumsrate und zeitgenössisch verfügbare regionale BIP-Niveaus verglichen Gepruefte Quellen: S019, S042. Ergebnis: Ein niedriges BIP je Person misst für sich keine Veränderung der Wachstumsrate.
+
+- Durchgang 2 am 2026-11-19 (Codex): Reale regionale Entwicklungen vor und nach den Krisen in der neueren Insee-Analyse geprüft Gepruefte Quellen: S041. Ergebnis: Die Abschwächung betrifft auch wirtschaftsstarke Regionen. Die Reihe endet 2024.
 
 ## nrnpcqzhd44-A0034
 
@@ -306,7 +322,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Frühere Regierungen hätten hohe Ausgaben häufig über Steuererhöhungen ausgeglichen, woraus die hohe heutige Abgabenquote folge.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -325,13 +341,13 @@ Zeitgrundlage: Zeitbereich aus der deutschen Originaluntertitelspur, auf ganze S
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Sachrecherche zu diesem Punkt ist offen. Die Tabelle belegt Einnahmen und Ausgaben insgesamt. Aus ihr lassen sich weder Häufigkeit diskretionärer Steuererhöhungen noch deren kumulierter Beitrag zur heutigen Quote bestimmen.
+Für 2025 dokumentiert der Rechnungshof Belastungsänderungen von rund 23 Milliarden Euro. Insee unterscheidet solche Maßnahmen von Einnahmenänderungen durch Einkommen und Wirtschaftstätigkeit. Nach dem Rechnungshof reduzierten die Maßnahmen das Defizit 2025 um etwa 0,8 Prozentpunkte gemessen am BIP. Das belegt den Mechanismus in diesem Jahr. Aus den geprüften Reihen folgt weder, wie oft Regierungen ihn über einen längeren Zeitraum einsetzten, noch wie viel er den internationalen Rang erklärt.
 
-Grundlage der Bewertung: Textfundstelle erfasst. Die Sachrecherche reicht für ein Endurteil noch nicht aus.
+Grundlage der Bewertung: Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.
 
 Uebernahme: Direkte Erfassung aus der Videoauswertung.
 
-Bewertungsuebergang: Erstprüfung.
+Bewertungsuebergang: Nachrecherche 19.11.2026 (Codex). Vorher offen ohne Urteil. Die neue Bewertung und ihre Grenzen stehen in der Begründung und in den Recherchedurchgängen.
 
 ### Zugeordnete Quellen
 
@@ -341,9 +357,23 @@ Bewertungsuebergang: Erstprüfung.
 - [EU and euro area tax-to-GDP ratio up in 2025](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261029-3) · Eurostat, 29.10.2026, Jahresdaten 2025
   Quellenzugriff am 2026-11-19. Gelesen. Steuern und Sozialbeiträge im EU-Vergleich. Internationaler Quotenvergleich.
 
+- [La situation et les perspectives des finances publiques](https://www.ccomptes.fr/sites/default/files/2026-06/20260625-RSPFP-2026.pdf) · Cour des comptes, Juni 2026
+  Quellenzugriff am 2026-11-19. Tabelle zu Belastungsänderungen 2024/2025 und Abschnitt zu ihrem Beitrag zum Defizit gelesen. Tabelle zu Belastungsänderungen 2024/2025 und Abschnitt zu ihrem Beitrag zum Defizit gelesen.
+
+- [Le compte des administrations publiques en 2025](https://www.insee.fr/fr/statistiques/8997691?sommaire=8071406) · Insee, Jahresrechnung für 2025, Ausgabe 2026
+  Quellenzugriff am 2026-11-19. Abschnitte zu Einnahmen, diskretionären Maßnahmen und konjunkturabhängiger Einnahmenentwicklung gelesen. Abschnitte zu Einnahmen, diskretionären Maßnahmen und konjunkturabhängiger Einnahmenentwicklung gelesen.
+
 ### Offene Fragen und Unsicherheiten
 
 - Welche Steuermaßnahmen trugen über welchen Zeitraum jeweils zum Einnahmenanstieg bei?
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-19 (Codex): Haushaltsrechnung und EU-Abgabenquote nach Definition und Zeitbezug geprüft Gepruefte Quellen: S018, S020. Ergebnis: Einnahmenquote und Rang zeigen keine einzelnen Steuerentscheidungen.
+
+- Durchgang 2 am 2026-11-19 (Codex): Beim Rechnungshof und bei Insee nach Beiträgen konkreter Maßnahmen in der Jahresrechnung gesucht Gepruefte Quellen: S043, S044. Ergebnis: Für 2025 lässt sich die Wirkung der Maßnahmen beziffern. Die langfristige Erklärung der Rangfolge bleibt begrenzt.
 
 ## nrnpcqzhd44-A0038
 
