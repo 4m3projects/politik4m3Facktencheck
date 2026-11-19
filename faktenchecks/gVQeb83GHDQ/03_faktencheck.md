@@ -6,11 +6,10 @@ Stand: 19.11.2026. Eigenständige Erfassung durch Claude. Die automatischen deut
 
 | Einordnung | Anzahl |
 |---|---:|
-| Belegt | 4 |
+| Belegt | 7 |
 | Teilweise belegt | 1 |
 | Meinung / Prognose | 2 |
 | Mit Grund als nicht überprüfbar gekennzeichnet | 2 |
-| Noch nicht geprüft | 3 |
 
 ## Wichtigste Befunde
 
@@ -19,7 +18,7 @@ Stand: 19.11.2026. Eigenständige Erfassung durch Claude. Die automatischen deut
 - **Alfred räumt auf gehört zu Sinan:** Belegt durch die Kanalbeschreibung selbst.
 - **Langer Brief:** Teilweise belegt. Im jüngsten Alfred-Video wird ein langer Zuschauerbrief erwähnt, der Absender aber nicht genannt; der Sprecher äußert es selbst nur als Vermutung.
 - **Ohne KI geschrieben, ohne Skript gesprochen:** Nicht überprüfbar.
-- **Kommentarwechsel:** Noch nicht geprüft. Die öffentlichen Kommentare unter dem Alfred-Video wurden noch nicht gelesen.
+- **Kommentarwechsel:** Belegt. Kommentar unter dem jüngsten Alfred-Video, der Rat, das eigene Hirn zu benutzen, der Verweis auf die KI und die spätere herabsetzende Antwort sind so im Verlauf zu sehen. Grundlage sind Bildschirmfotos des Sprechers selbst, kein eigener Abruf.
 
 ## Kapitelprüfung
 
@@ -27,4 +26,4 @@ Stand: 19.11.2026. Eigenständige Erfassung durch Claude. Die automatischen deut
 
 ## Grenzen
 
-Grundlage sind automatische Untertitel ohne Hör- oder Sichtkontrolle; einzelne Wörter sind dort unsicher erkannt (etwa der Name Sinan und ein Wort im Nachtrag). Der Sprecher betreibt dieses Projekt selbst und hat die Prüfung beauftragt.
+Grundlage sind automatische Untertitel ohne Hör- oder Sichtkontrolle; einzelne Wörter sind dort unsicher erkannt (etwa der Name Sinan und ein Wort im Nachtrag). Der Sprecher betreibt dieses Projekt selbst und hat die Prüfung beauftragt; die Belege zum Kommentarwechsel stammen von ihm.

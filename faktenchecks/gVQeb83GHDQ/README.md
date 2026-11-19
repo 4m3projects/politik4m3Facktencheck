@@ -1,6 +1,6 @@
 # „Frag doch deine KI!“ – Short von Politik4m3: unabhängiger Faktencheck
 
-**Status: Faktenprüfung des ganzen Shorts – drei Angaben zum Kommentarwechsel noch nicht geprüft**
+**Status: Faktenprüfung abgeschlossen – Vollbestand**
 
 Stand: 19.11.2026.
 
@@ -19,9 +19,9 @@ Der Sprecher betreibt auch dieses Faktencheck-Projekt und hat diese Prüfung sel
 
 ## Grundlage und Abdeckung
 
-Die automatisch erzeugten deutschen Originaluntertitel wurden vollständig gelesen (Text von 00:00:00 bis 00:02:59). Das ist keine Hör- oder Sichtkontrolle. Zum Abgleich wurden die Untertitel dreier Videos des Kanals Alfred räumt auf gezielt durchsucht und die Beschreibung eines davon gelesen, außerdem die YouTube-Hilfe zur Länge von Shorts und die beiden Faktencheck-Repositorys auf GitHub.
+Die automatisch erzeugten deutschen Originaluntertitel wurden vollständig gelesen (Text von 00:00:00 bis 00:02:59). Das ist keine Hör- oder Sichtkontrolle. Zum Abgleich wurden die Untertitel dreier Videos des Kanals Alfred räumt auf gezielt durchsucht und die Beschreibung eines davon gelesen, außerdem die YouTube-Hilfe zur Länge von Shorts und die beiden Faktencheck-Repositorys auf GitHub. Den Kommentarwechsel belegen Bildschirmfotos, die der Sprecher selbst bereitgestellt hat; die Kommentare wurden nicht eigenständig abgerufen. Namen anderer Nutzer werden nicht genannt.
 
-Der Datenstand erfasst den ganzen Short mit zwölf Prüfgegenständen: fünf Tatsachenbehauptungen sind mit Quellen bewertet, zwei sind Meinungen, zwei sind mit Grund als nicht überprüfbar gekennzeichnet. Drei Angaben zum Kommentarwechsel unter dem Alfred-Video sind noch nicht geprüft, weil die öffentlichen Kommentare noch nicht gelesen werden konnten.
+Der Datenstand erfasst den ganzen Short mit zwölf Prüfgegenständen: acht Tatsachenbehauptungen sind mit Quellen bewertet (sieben belegt, eine teilweise belegt), zwei sind Meinungen, zwei sind mit Grund als nicht überprüfbar gekennzeichnet. Keine Aussage ist mehr offen.
 
 - [Kurzbeschreibung](01_kurz.md)
 - [Eigenes Themenregister und Abdeckung](02_analyse.md)
