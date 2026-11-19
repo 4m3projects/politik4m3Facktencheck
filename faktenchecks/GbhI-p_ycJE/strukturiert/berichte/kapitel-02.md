@@ -270,7 +270,7 @@ Fehlende Information: Der Wortlaut des Besonderen Teils der Begründung (BT-Drs.
 
 - Durchgang 1 am 2026-11-18 (Claude): Gesetzentwurf mit Begründung bis S. 27 und Gesetzestext gelesen. Gepruefte Quellen: S004, S003. Ergebnis: Kein solches Beispiel im gelesenen Teil; Besonderer Teil nicht abrufbar.
 
-- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: erneuter Abruf des Entwurfs (Besonderer Teil wieder nicht lesbar) und juristische Fachbeiträge zur Missbrauchskontrolle gesucht. Gepruefte Quellen: S022. Ergebnis: Fachbeitrag bestätigt nach der Begründung eine Ablehnung bei offensichtlichem Missbrauch; ein Beispiel zur Aufmerksamkeit in einer öffentlichen Debatte wird nicht genannt.
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: erneuter Abruf des Entwurfs (Besonderer Teil wieder nicht lesbar) und juristische Fachbeiträge zur Missbrauchskontrolle gesucht. Gepruefte Quellen: S023. Ergebnis: Fachbeitrag bestätigt nach der Begründung eine Ablehnung bei offensichtlichem Missbrauch; ein Beispiel zur Aufmerksamkeit in einer öffentlichen Debatte wird nicht genannt.
 
 ## GbhI-p_ycJE-A0021
 

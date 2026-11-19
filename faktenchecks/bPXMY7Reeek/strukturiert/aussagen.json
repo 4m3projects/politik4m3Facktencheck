@@ -545,6 +545,38 @@
     },
     {
       "id": "S067",
+      "title": "YouTube-Kanal SinansWoche",
+      "url": "https://www.youtube.com/channel/UC_dw469M9fc3nraC7rIaF5Q",
+      "details": "Kanal von Sinan; 284 sichtbare Videos, ältestes vom 16.12.2020 (Attila Hildmann), „SinansWoche – Die Show #01“ vom 15.01.2021; rund 50.400 Abonnenten (19.11.2026).",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S068",
+      "title": "YouTube-Kanal futorial",
+      "url": "https://www.youtube.com/channel/UCES01Gvu_3JkQE6ZU44na6A",
+      "details": "Früherer Kanal desselben Creators (Musikproduktion, „Die Klangküche“); musikalische Reihe „Sinans Woche“ ab 29.08.2019.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S069",
+      "title": "YouTube-Kanal Ungeskriptet (Ben)",
+      "url": "https://www.youtube.com/channel/UCjkSqbf8E4MybdYmfhlW10A",
+      "details": "Gästeliste Februar bis August 2025; Folge mit Otto Bulletproof vom 02.08.2025; Folge mit Aron Pielka (Shlomo Finkelstein) vom 13.08.2025.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S070",
+      "title": "YouTube-Kanal JoergSprave",
+      "url": "https://www.youtube.com/channel/UCVZlxkKqlvVqzRJXhAGq42Q",
+      "details": "Kanal des Waffen-YouTubers Jörg Sprave; wiederkehrende Zombie-Ziele (z. B. 2016, 2017, 2021, 2023); Video „Der ‚Six Needler‘ ändert ALLES!“ vom 02.02.2025 mit Hinweis auf ausstehende PTB-Bestätigung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S071",
       "title": "Boxer Imane Khelif reveals hormone treatments before Paris Olympics",
       "url": "https://www.malaymail.com/news/sports/2026/02/05/boxer-imane-khelif-reveals-hormone-treatments-before-paris-olympics/208136",
       "details": "AFP-Meldung, veröffentlicht von Malay Mail, 05.02.2026; Khelif bejaht im L'Équipe-Interview das SRY-Gen und berichtet von testosteronsenkender Behandlung. Später bekannt, nach der Veröffentlichung des Videos.",
@@ -552,7 +584,7 @@
       "accessBasis": "Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
     },
     {
-      "id": "S068",
+      "id": "S072",
       "title": "Nach Böhmermann-Doxxing: Clownswelt gewinnt 100.000 neue Abonnenten auf YouTube",
       "url": "https://apollo-news.net/nach-bhmermann-doxxing-clownswelt-gewinnt-100-000-neue-abonnenten-auf-youtube/",
       "details": "Apollo News, 12.05.2025; nennt 227.000 Abonnenten laut Sendung und 331.000 am 12.05.2025.",
@@ -593,8 +625,7 @@
       },
       "sourceRefs": [],
       "openQuestions": [
-        "Öffentliche Angaben von Hamabu oder Papaplatte zur früheren Zusammenarbeit als Cutter suchen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Kanalsuche 19.11.2026: Auf YouTube kein Kanal oder Video gefunden, das Hamabu als früheren Cutter von Papaplatte ausweist; andere Plattformen (Twitch, TikTok, Instagram) nicht geprüft."
       ],
       "occurrences": [
         {
@@ -911,21 +942,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan betreibe seit etwa fünf Jahren (also seit etwa 2020) hauptsächlich den YouTube-Kanal SinansWoche.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Selbstauskunft zum eigenen Kanal; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der heutige Kanal SinansWoche beginnt mit Videos ab Dezember 2020; die Sendung „SinansWoche – Die Show #01“ erschien im Januar 2021. Das passt zu „seit etwa 2020“. Eine musikalische Reihe gleichen Namens gab es schon 2019 auf seinem früheren Kanal.",
+      "assessmentBasis": "Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): YouTube-Kanaldaten über Jens' Rechner geprüft; von Offen auf Belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Datum der ersten öffentlich sichtbaren SinansWoche-Folge auf dem Kanal feststellen.",
-        "Passt der Beginn zur Darstellung, der Kanal sei in der Corona-Zeit entstanden?",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S067",
+          "note": "Älteste Videos ab 16.12.2020."
+        },
+        {
+          "sourceId": "S068",
+          "note": "Reihe „Sinans Woche“ ab 2019 auf dem Vorgängerkanal."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0009",
@@ -1165,20 +1201,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Das älteste heute öffentlich sichtbare Video des SinansWoche-Kanals behandle Querdenker.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Kanalinhalt; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das älteste heute sichtbare Video (16.12.2020) behandelt die Telegram-Chats von Attila Hildmann, also eine Figur der Corona-Verschwörungsszene, nicht die Querdenker-Bewegung allgemein; ein Titel mit „Querdenken“ folgt erst im März 2021. Gelöschte oder private ältere Videos sind nicht erkennbar.",
+      "assessmentBasis": "Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): YouTube-Kanaldaten über Jens' Rechner geprüft; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Älteste öffentliche Videos des Kanals nach Datum sortiert prüfen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S067",
+          "note": "Ältestes sichtbares Video über Attila Hildmann."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0015",
@@ -1380,8 +1418,7 @@
       },
       "sourceRefs": [],
       "openQuestions": [
-        "Originalvideo und Berichte über die Reaktionen suchen; Name und Datum verifizieren.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Kanalsuche 19.11.2026: Das ursprüngliche Beschwerdevideo von laserluca (ConCrafter, April 2019) ist nicht mehr auf seinem Kanal; nach den Untertiteln einer Fremdkopie ging es um einen Club in Düsseldorf, das Bootshaus wird dort positiv erwähnt. Vor einer Bewertung Originalquelle oder zeitgenössischen Bericht lesen."
       ],
       "occurrences": [
         {
@@ -1422,8 +1459,7 @@
       },
       "sourceRefs": [],
       "openQuestions": [
-        "Aufrufzahl des Antwortvideos auf dem Kanal feststellen (heutiger Stand ist nicht der damalige).",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Kanalsuche 19.11.2026: Das ursprüngliche Reaktionsvideo ist nicht mehr sichtbar; ein Folgevideo vom 23.04.2019 auf dem Kanal futorial bezieht sich darauf. Die damalige Aufrufzahl ist nicht mehr feststellbar."
       ],
       "occurrences": [
         {
@@ -1980,20 +2016,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan habe vor wenigen Jahren in Videos Wahlwerbung für die Grünen gemacht und habe heute keine Parteipräferenz mehr.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Selbstauskunft zu früheren eigenen Videos und heutiger Haltung; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Um die Bundestagswahl 2021 erschienen auf dem Kanal politische Videos, darunter „Planspiel Bundesregierung“, das die Grünen überwiegend wohlwollend, aber auch kritisch darstellt. Eine ausdrückliche Wahlempfehlung für die Grünen fand sich in Titeln und in der Stichwortsuche nicht. Ob er heute keine Parteipräferenz mehr hat, ist eine Selbstauskunft und nicht prüfbar.",
+      "assessmentBasis": "Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen. Stichwortsuche in den Untertiteln eines Videos.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): YouTube-Kanaldaten über Jens' Rechner geprüft; von Offen auf Nicht ausreichend belegbar."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Gibt es entsprechende ältere SinansWoche-Videos, etwa zur Bundestagswahl 2021?",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S067",
+          "note": "Videos um die Bundestagswahl 2021."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0036",
@@ -2424,21 +2462,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ben Ungeskriptet habe zuletzt nahezu das gesamte rechte bis rechtsradikale Spektrum zu Gast gehabt, darunter Schlomo, und sei damit sehr erfolgreich.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Wertung und Sammelbehauptung über die Gästeliste eines Kanals; „rechts bis rechtsradikal“ ist eine Einordnung, und die Gästeliste wurde nicht abgerufen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Unter den Gästen von Februar bis August 2025 sind Personen aus dem rechten Spektrum, etwa Frauke Petry und Aron Pielka (Shlomo Finkelstein, 13.08.2025), und die Folgen erreichen teils Millionen Aufrufe. Die Gästeliste ist aber breit gemischt und reicht von Christian Lindner und Sahra Wagenknecht bis zu Psychologen, Unternehmern und Sportlern. „Nahezu das gesamte rechte bis rechtsradikale Spektrum“ ist damit eine starke Zuspitzung. Ob mit „Schlomo“ Shlomo Finkelstein oder der Waffen-YouTuber Jörg Sprave (Gast am 10.05.2025) gemeint ist, bleibt unklar.",
+      "assessmentBasis": "Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): YouTube-Kanaldaten über Jens' Rechner geprüft; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Gästeliste des Kanals im Zeitraum vor August 2025 und politische Einordnung der Gäste prüfen.",
-        "Woran lässt sich Erfolg messen (Aufrufe, Abonnenten)?",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S069",
+          "note": "Gästeliste Februar bis August 2025."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0048",
@@ -2467,20 +2506,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ben Ungeskriptet habe auch Otto Bulletproof interviewt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Gästeliste eines Kanals; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Auf dem Kanal Ungeskriptet erschien am 02.08.2025 eine Folge mit Otto Bulletproof; eine zweite folgte im Juli 2026.",
+      "assessmentBasis": "Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): YouTube-Kanaldaten über Jens' Rechner geprüft; von Offen auf Belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Gibt es eine entsprechende Folge?",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S069",
+          "note": "Folge mit Otto Bulletproof vom 02.08.2025."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0049",
@@ -2525,9 +2566,7 @@
         }
       ],
       "openQuestions": [
-        "Gibt es Berichte oder Bescheide der PTB zu diesem Produkt?",
-        "Wie heißt das Produkt genau, und wer hat es entwickelt?",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Kanalsuche 19.11.2026: Gemeint ist vermutlich Jörg Sprave („Six Needler“, Video vom 02.02.2025: Bestellung erst nach PTB-Bestätigung). Ob die PTB die Zulassung als erlaubnisfreie Waffe verweigert hat, ist noch nicht belegt; Folgevideos und PTB-Angaben lesen."
       ],
       "occurrences": [
         {
@@ -2601,20 +2640,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Schlomo schieße in seinen Videos auf Zombieköpfe und inszeniere die Vorbereitung auf eine Zombie-Apokalypse.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Inhalt fremder Videos; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Einen Waffen-YouTuber namens „Schlomo“ gibt es nach der Kanalsuche nicht. Die Beschreibung passt aber genau auf Jörg Sprave, der im Mai 2025 bei Ungeskriptet zu Gast war: Auf seinem Kanal sind Zombie-Ziele und Zombie-Apokalypse-Szenarien seit Jahren ein wiederkehrendes Motiv. Der Inhalt ist damit belegt, die Namenszuordnung vermutlich ein Hör- oder Transkriptionsfehler.",
+      "assessmentBasis": "Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): YouTube-Kanaldaten über Jens' Rechner geprüft; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Stichprobe der Kanalvideos prüfen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S070",
+          "note": "Wiederkehrende Zombie-Ziele in Videotiteln 2016–2023."
+        },
+        {
+          "sourceId": "S069",
+          "note": "Jörg Sprave Gast am 10.05.2025."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0052",
@@ -3179,7 +3224,7 @@
           "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
         },
         {
-          "sourceId": "S067",
+          "sourceId": "S071",
           "note": "Später bekannt, ändert die Bewertung nach damaligem Stand nicht: SRY-Gen und testosteronsenkende Behandlung bejaht, kein Befund zu Hoden oder Pubertät."
         }
       ],
@@ -3225,7 +3270,7 @@
             "agent": "Claude",
             "strategy": "Zweiter Durchgang: Lexikon und spätere Interviews Khelifs gesucht.",
             "sourceIds": [
-              "S067"
+              "S071"
             ],
             "result": "Später bekannt (Februar 2026): Khelif bejaht das SRY-Gen und testosteronsenkende Behandlung. Innenliegende Hoden oder eine männliche Pubertät sind weiterhin nicht bestätigt."
           }
@@ -5767,20 +5812,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "SinansWoche habe anfangs vor allem Corona-Verschwörungsinhalte aus Telegram-Gruppen und von Personen wie Attila Hildmann oder Michael Wendler unterhaltsam aufgegriffen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – frühe Kanalinhalte; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Von den ersten rund 20 Videos des Kanals behandeln etwa 13 Corona-Leugner und Verschwörungsfiguren, darunter mehrere zu Attila Hildmann (teils ausdrücklich zu seinen Telegram-Chats) und zwei zu Michael Wendler, teils im unterhaltenden Showformat.",
+      "assessmentBasis": "Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): YouTube-Kanaldaten über Jens' Rechner geprüft; von Offen auf Belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Themen der frühen Folgen auf dem Kanal prüfen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S067",
+          "note": "Frühe Titel zu Hildmann, Wendler, Corona-Leugnern."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0130",
@@ -7096,7 +7143,7 @@
           "note": "Sachbeleg im Umfang der Begründung und der dokumentierten Zugriffsgrundlage."
         },
         {
-          "sourceId": "S068",
+          "sourceId": "S072",
           "note": "331.000 am 12.05.2025, rund plus 46 %; keine Verdopplung."
         }
       ],
@@ -7141,7 +7188,7 @@
             "agent": "Claude",
             "strategy": "Zweiter Durchgang: weitere Berichte mit späteren Abonnentenzahlen gesucht.",
             "sourceIds": [
-              "S068"
+              "S072"
             ],
             "result": "331.000 am 12.05.2025, also rund plus 46 %; ein Bericht, der eine Verdopplung im Titel nennt, war nicht abrufbar. Spätere Zahlen bis zur Videoveröffentlichung fehlen."
           }

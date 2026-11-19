@@ -493,7 +493,7 @@ Fehlende Information: Eine offizielle oder medizinische Bestätigung des konkret
 
 - Durchgang 1 am 2026-11-18 (Claude): Berichte und IOC-Stellungnahme zur Geschlechterdebatte gelesen. Gepruefte Quellen: S008, S009. Ergebnis: Keine offizielle Bestätigung einer Variante der Geschlechtsentwicklung.
 
-- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: Lexikon und spätere Interviews Khelifs gesucht. Gepruefte Quellen: S067. Ergebnis: Später bekannt (Februar 2026): Khelif bejaht das SRY-Gen und testosteronsenkende Behandlung. Innenliegende Hoden oder eine männliche Pubertät sind weiterhin nicht bestätigt.
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: Lexikon und spätere Interviews Khelifs gesucht. Gepruefte Quellen: S071. Ergebnis: Später bekannt (Februar 2026): Khelif bejaht das SRY-Gen und testosteronsenkende Behandlung. Innenliegende Hoden oder eine männliche Pubertät sind weiterhin nicht bestätigt.
 
 ## bPXMY7Reeek-A0062
 

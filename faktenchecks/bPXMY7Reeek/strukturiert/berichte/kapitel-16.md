@@ -495,7 +495,7 @@ Fehlende Information: Die Abonnentenzahl zum Zeitpunkt der Aufnahme (August 2025
 
 - Durchgang 1 am 2026-11-18 (Claude): Pressebericht zur Abonnentenentwicklung gelesen. Gepruefte Quellen: S042. Ergebnis: Rund 227.000 auf über 293.000 nach zwei Tagen.
 
-- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: weitere Berichte mit späteren Abonnentenzahlen gesucht. Gepruefte Quellen: S068. Ergebnis: 331.000 am 12.05.2025, also rund plus 46 %; ein Bericht, der eine Verdopplung im Titel nennt, war nicht abrufbar. Spätere Zahlen bis zur Videoveröffentlichung fehlen.
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: weitere Berichte mit späteren Abonnentenzahlen gesucht. Gepruefte Quellen: S072. Ergebnis: 331.000 am 12.05.2025, also rund plus 46 %; ein Bericht, der eine Verdopplung im Titel nennt, war nicht abrufbar. Spätere Zahlen bis zur Videoveröffentlichung fehlen.
 
 ## bPXMY7Reeek-A0146
 
