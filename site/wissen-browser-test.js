@@ -18,7 +18,7 @@ const ROOT = path.join(__dirname, '..');
 /* Seite wie im Workflow zusammenstellen (vereinfachte Nachbildung, nur JSON-Daten). */
 function buildSite() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-wissen-'));
-  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'ampel.js', 'wissen.js', 'themen.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
+  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'ampel.js', 'wissen.js', 'gegendarstellung.js', 'themen.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
   fs.mkdirSync(path.join(out, 'daten'));
   const videos = [];
   const base = path.join(ROOT, 'faktenchecks');
@@ -198,6 +198,26 @@ async function step(name, fn) {
     const over = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
     assert.ok(over <= 1, 'Überbreite ' + over);
     await shot('thema-geschlecht-mobil');
+  });
+  await step('Gegendarstellung: kritische Aussage zeigt belegte Gegenaussage aus der Reaktion mit Zeitmarke', async () => {
+    await page.setViewportSize({ width: 1280, height: 900 });
+    await page.goto(url + '#/video/bPXMY7Reeek/aussage/bPXMY7Reeek-A0083');
+    await page.waitForSelector('.claim');
+    const box = page.locator('[id="bPXMY7Reeek-A0083"] .counter');
+    assert.equal(await box.count(), 1);
+    assert.match(await box.innerText(), /Gegendarstellung/);
+    assert.ok(await box.locator('a[href*="/aussage/GbhI-p_ycJE-A0035"]').count() > 0);
+    assert.ok(await box.locator('.ampel').count() > 0, 'Ampel des Gegenvideos fehlt');
+    await shot('gegendarstellung');
+  });
+  await step('Gegendarstellung: belegte Aussagen bekommen keine', async () => {
+    const ids = await page.evaluate(() => [...document.querySelectorAll('.claim')].filter(el => el.querySelector('.counter')).map(el => el.id));
+    assert.deepEqual(ids.sort(), ['bPXMY7Reeek-A0076', 'bPXMY7Reeek-A0078', 'bPXMY7Reeek-A0083']);
+  });
+  await step('Gegendarstellung erscheint auch neben dem laufenden Video', async () => {
+    await page.goto(url + '#/video/bPXMY7Reeek/video');
+    await page.waitForSelector('.vc-item');
+    assert.ok(await page.locator('.vc-item .counter-compact').count() >= 3);
   });
   await step('Keine Skriptfehler', async () => { assert.deepEqual(errors, []); });
 

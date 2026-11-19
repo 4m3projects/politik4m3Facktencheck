@@ -18,6 +18,10 @@ Interviews von {ungeskriptet} by Ben und die dazugehörigen Reaktionsprüfungen 
 
 Für den [Bild- und Tonabgleich](docs/AGENTEN_VIDEOABGLEICH.md) verwende die Originalwiedergabe, eine abgeglichene offizielle Zweitfassung oder geeignete lokale Werkzeuge. Dokumentiere die tatsächlich kontrollierten Stellen und die Grenzen der Prüfung.
 
+## Gegendarstellung aus anderen Videos
+
+**Pflichtlektüre für alle Agenten:** [docs/GEGENDARSTELLUNG.md](docs/GEGENDARSTELLUNG.md). Kritische Aussagen (widerlegt, irreführend, nicht ausreichend belegbar, Meinung/Vermutung, noch ohne Urteil) zeigen automatisch eine belegte Gegenaussage aus einem anderen geprüften Video mit Zeitmarke. Die Zuordnung wird von Agenten gepflegt: Findet ein Agent eine solche belegte Gegenaussage, verknüpft er sie als `gegenbehauptung` in `faktenchecks/beziehungen.json` oder über einen Wissenseintrag (`gleichwertig`/`widerspricht`). Berechnet wird nur in `site/gegendarstellung.js`; keine Bewertung wird dafür geändert.
+
 ## Faktenampel
 
 Die Gesamteinschätzung je Video (Ampel) wird **ausschließlich berechnet**, zentral in `site/ampel.js`, aus den vorhandenen Einzelbewertungen. Agenten setzen, speichern oder überschreiben keine Ampel und ändern keine Einzelbewertung, um eine Ampelfarbe zu erreichen. Änderungen an Schwellen oder Regel nur in `site/ampel.js` mit Tests und Dokumentation in [docs/AMPEL.md](docs/AMPEL.md) sowie in der Methodik der Webseite. Darstellungshinweise fließen nie ein; vorläufige Prüfungen bleiben „Noch in Prüfung“.
