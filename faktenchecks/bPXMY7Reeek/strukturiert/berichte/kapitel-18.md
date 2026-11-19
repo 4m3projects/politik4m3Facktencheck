@@ -64,7 +64,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Impfskepsis habe es in Deutschland schon vor der Pandemie in ähnlichem Umfang gegeben.
 
-Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -83,23 +83,35 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – zum Umfang der Impfskepsis vor der Pandemie fand sich nur eine BZgA-Zeitreihe zur allgemeinen Wichtigkeit von Impfungen (2012: 61 %, 2021: 81 %), die keinen gleich hohen Anteil belegt oder widerlegt. Fehlende Bestätigung bedeutet nicht falsch.
+Nicht ausreichend belegbar: Für die Zeit vor der Pandemie gibt es Werte (2015–2019 widersprachen etwa 3 bis 4 % der Aussage, Impfungen seien sicher; das Impfvertrauen war stabil bis steigend). Vergleichbare Werte aus der Pandemie wurden in zwei Recherchedurchgängen nicht gefunden, deshalb lässt sich der Vergleich „ähnlicher Umfang“ weder bestätigen noch widerlegen.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): Aussage ist öffentlich prüfbar; zweite Recherche durchgeführt, vorher Nicht überprüfbar, jetzt Nicht ausreichend belegbar.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Vertrauen in Impfstoffe in Deutschland gewachsen](https://www.zm-online.de/news/gesellschaft/vertrauen-in-impfstoffe-in-deutschland-gewachsen) · zm-online, 11.09.2020 (aktualisiert 15.07.2026), zu de Figueiredo u. a., Lancet 2020: Deutschland, „Impfungen sind sicher“: Zustimmung 2015 42,8 %, 2019 50,7 %; Widerspruch 3,2 % und 4 %. Keine Werte aus der Pandemie.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. Vor der Pandemie: 3,2 % (2015) und 4 % (2019) Widerspruch zu „Impfungen sind sicher“.
+
+- [Vaccination-related attitudes and behavior across birth cohorts: Evidence from Germany](https://pmc.ncbi.nlm.nih.gov/articles/PMC8843242) · Diehl und Hunkler, PLoS ONE 2022, DOI 10.1371/journal.pone.0263871; KiGGS-Daten 2003–2006; verweist auf stabiles Impfvertrauen in Deutschland 2015–2018 und steigende positive Einstellungen in BZgA-Befragungen 2012–2018. Keine Pandemiedaten. Nur teilweise im Wortlaut gelesen.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. Impfvertrauen 2015–2018 stabil; keine Pandemiedaten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Umfragen zur Impfbereitschaft vor 2020 (z. B. BZgA) mit Werten aus der Pandemie vergleichen.
+- Vergleichbare Befragungen aus 2020–2022 (etwa COSMO-Studie, Vaccine Confidence Project) mit den Vorpandemiewerten vergleichen.
 
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+### Recherchedokumentation
+
+Einordnung: Recherche ohne ausreichendes Ergebnis. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Mit 2015–2019 vergleichbare Werte zur Impfskepsis in Deutschland aus den Jahren 2020–2022.
+
+- Durchgang 1 am 2026-11-18 (Claude): BZgA-Zeitreihe zur Wichtigkeit von Impfungen gesucht und gelesen. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Wichtigkeit von Impfungen 2012: 61 %, 2021: 81 %; kein direkter Vergleich der Impfskepsis.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: internationale Erhebung zum Impfvertrauen und Fachstudie zu Impfeinstellungen in Deutschland gelesen. Gepruefte Quellen: S077, S078. Ergebnis: Vor der Pandemie (2015–2019) widersprachen etwa 3 bis 4 % der Aussage, Impfungen seien sicher; Impfvertrauen stabil bis steigend. Vergleichbare Werte aus der Pandemie fehlen in diesen Quellen.
 
 ## bPXMY7Reeek-A0169
 

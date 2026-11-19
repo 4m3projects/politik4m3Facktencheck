@@ -758,7 +758,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** In technischen Berufen mit großem Männerüberschuss sei es klar vorteilhaft, als Frau geführt zu werden; eine Bewerberin bekomme die Stelle wegen Paritätsregeln in jedem Fall.
 
-Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -790,23 +790,36 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – zu pauschal: Es wird weder eine konkrete Paritätsregel noch ein Arbeitgeber genannt; eine allgemeine Regel, nach der eine Bewerberin die Stelle in jedem Fall bekommt, wurde in keiner gelesenen Quelle gefunden. Fehlende Bestätigung bedeutet nicht falsch.
+Irreführend: Vorrangregeln für Frauen gibt es, etwa im öffentlichen Dienst des Bundes (§ 8 Bundesgleichstellungsgesetz). Sie gelten aber nur bei gleicher Qualifikation und entfallen, wenn Gründe in der Person eines Mitbewerbers überwiegen. Ein automatischer Vorrang „in jedem Fall“ ist nach der Rechtsprechung des EuGH (Kalanke 1995, Marschall 1997) unzulässig. Für die Privatwirtschaft wurde keine solche Regel gelesen.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): Aussage ist öffentlich prüfbar; zweite Recherche durchgeführt, vorher Nicht überprüfbar, jetzt Irreführend / Kontext fehlt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Bundesgleichstellungsgesetz, § 8 Vorrangige Berücksichtigung von Frauen](https://www.gesetze-im-internet.de/bgleig_2015/__8.html) · Gesetzestext: Vorrang für Frauen in unterrepräsentierten Bereichen nur bei gleicher Qualifikation; ausgeschlossen, wenn rechtlich schutzwürdige Interessen in der Person eines Mitbewerbers überwiegen. Gilt für den öffentlichen Dienst des Bundes.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. Vorrang nur bei gleicher Qualifikation, mit Ausnahme.
+
+- [Durchsetzung von Frauenquoten (WD 3 - 3000 - 439/18)](https://www.bundestag.de/resource/blob/643174/89fd1c6bd661e84d70c1a677300aa8be/WD-3-439-18-pdf-data.pdf) · Wissenschaftliche Dienste des Bundestags, Abschluss 25.02.2019; zu EuGH Marschall (11.11.1997): Vorrang nur mit Öffnungsklausel und Einzelfallprüfung; zu §§ 7, 8 BGleiG wenige Entscheidungen.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. Marschall: Einzelfallprüfung nötig; kaum Gerichtsentscheidungen zu § 8.
+
+- [Kalanke v Freie Hansestadt Bremen](https://en.wikipedia.org/wiki/Kalanke_v_Freie_Hansestadt_Bremen) · Wikipedia-Eintrag zum EuGH-Urteil vom 17.10.1995, C-450/93: automatischer, unbedingter Vorrang für Frauen bei gleicher Qualifikation verstößt gegen die Gleichbehandlungsrichtlinie 76/207/EWG.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. Kalanke: automatischer, unbedingter Vorrang unzulässig.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Vorrangregeln gelten im öffentlichen Dienst (z. B. Bundesgleichstellungsgesetz: Vorrang nur bei gleicher Eignung)? Gibt es solche Regeln in der Privatwirtschaft?
+- Gibt es in der Privatwirtschaft verbindliche Vorrangregeln bei Einstellungen (AGG, Quoten nur für Führungsgremien)?
 
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-18 (Claude): Öffentliche Recherche nach einer allgemeinen Paritätsregel für Stellenbesetzungen. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Keine Regel gefunden, nach der eine Bewerberin die Stelle in jedem Fall bekommt.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: Gesetzestext des Bundesgleichstellungsgesetzes, Gutachten der Wissenschaftlichen Dienste und EuGH-Rechtsprechung zu Vorrangregeln gelesen. Gepruefte Quellen: S074, S075, S076. Ergebnis: Vorrang für Frauen gibt es im öffentlichen Dienst nur bei gleicher Qualifikation und mit Ausnahme für überwiegende Gründe beim Mitbewerber; ein automatischer Vorrang ist nach EuGH unzulässig.
 
 ### Beziehungen
 

@@ -13,10 +13,10 @@ Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollstän
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 170
-- Abgeschlossen: 101
-- Offen (noch nicht geprueft): 15
+- Abgeschlossen: 104
+- Offen (noch nicht geprueft): 18
 - In Bearbeitung: 0
-- Nicht ueberpruefbar (abschliessend ohne Urteil): 54
+- Nicht ueberpruefbar (abschliessend ohne Urteil): 48
 - Erfasste Behauptungsvorkommen: 197
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 27
 - Davon bestaetigte Wiederholungen derselben Person: 0
@@ -30,17 +30,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 63 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 66 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 19 | 30.2 % |
-| Teilweise belegt | 34 | 54.0 % |
-| Irreführend / Kontext fehlt | 3 | 4.8 % |
-| Widerlegt | 4 | 6.3 % |
-| Nicht ausreichend belegbar | 3 | 4.8 % |
+| Belegt | 19 | 28.8 % |
+| Teilweise belegt | 35 | 53.0 % |
+| Irreführend / Kontext fehlt | 4 | 6.1 % |
+| Widerlegt | 4 | 6.1 % |
+| Nicht ausreichend belegbar | 4 | 6.1 % |
 | Meinung / Prognose | 38 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
