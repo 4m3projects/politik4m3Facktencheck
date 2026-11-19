@@ -1,0 +1,554 @@
+{
+  "schemaVersion": 1,
+  "videoId": "bPXMY7Reeek",
+  "basis": "Zuordnung aus den erfassten Aussagen des strukturierten Faktenchecks (Beschreibung), nicht aus dem Titel. KI-gestützt von Claude erstellt; Aussagen ohne öffentliches Sachthema (z. B. Biografisches, Aussagen über Creator) bleiben ohne Thema.",
+  "topics": [
+    {
+      "topic": "geschlecht",
+      "relevance": "Schwerpunkt",
+      "basis": "37 von 170 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "corona",
+      "relevance": "Schwerpunkt",
+      "basis": "37 von 170 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "reaktanz",
+      "relevance": "Behandelt",
+      "basis": "4 von 170 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "tempolimit",
+      "relevance": "Behandelt",
+      "basis": "4 von 170 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "waffenrecht",
+      "relevance": "Behandelt",
+      "basis": "3 von 170 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "bPXMY7Reeek-A0046",
+      "topics": [
+        "waffenrecht"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0047",
+      "topics": [
+        "waffenrecht"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0052",
+      "topics": [
+        "geschlecht"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0053",
+      "topics": [
+        "geschlecht"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0055",
+      "topics": [
+        "geschlecht"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0056",
+      "topics": [
+        "geschlecht"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0057",
+      "topics": [
+        "geschlecht"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0058",
+      "topics": [
+        "geschlecht/sport"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0059",
+      "topics": [
+        "geschlecht/sport"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0060",
+      "topics": [
+        "geschlecht/sport"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0061",
+      "topics": [
+        "geschlecht/sport"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0062",
+      "topics": [
+        "geschlecht/sport"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0063",
+      "topics": [
+        "geschlecht/sport"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0064",
+      "topics": [
+        "geschlecht/sport"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0065",
+      "topics": [
+        "geschlecht/sport"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0066",
+      "topics": [
+        "geschlecht/sport"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0067",
+      "topics": [
+        "geschlecht/sport"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0069",
+      "topics": [
+        "geschlecht/sport"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0074",
+      "topics": [
+        "waffenrecht"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0075",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0076",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0077",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0078",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0079",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0080",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0081",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0082",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0083",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0084",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0085",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0088",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0089",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0090",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0093",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0094",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0095",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0097",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0098",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0099",
+      "topics": [
+        "geschlecht/selbstbestimmungsgesetz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0100",
+      "topics": [
+        "geschlecht"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0101",
+      "topics": [
+        "tempolimit"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0102",
+      "topics": [
+        "tempolimit"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0103",
+      "topics": [
+        "tempolimit"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0104",
+      "topics": [
+        "tempolimit"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0117",
+      "topics": [
+        "reaktanz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0119",
+      "topics": [
+        "corona/massnahmen",
+        "corona/impfung"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0120",
+      "topics": [
+        "corona/massnahmen"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0121",
+      "topics": [
+        "reaktanz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0123",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0124",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0125",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0126",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0127",
+      "topics": [
+        "reaktanz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0128",
+      "topics": [
+        "corona/massnahmen"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0129",
+      "topics": [
+        "corona/massnahmen"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0130",
+      "topics": [
+        "corona",
+        "reaktanz"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0131",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0132",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0133",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0134",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0135",
+      "topics": [
+        "corona",
+        "corona/impfung"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0136",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0137",
+      "topics": [
+        "corona/impfung"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0138",
+      "topics": [
+        "corona/impfung"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0139",
+      "topics": [
+        "corona/impfung"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0142",
+      "topics": [
+        "corona/massnahmen"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0143",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0144",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0146",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0147",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0148",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0155",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0156",
+      "topics": [
+        "corona/impfung"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0157",
+      "topics": [
+        "corona/massnahmen"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0158",
+      "topics": [
+        "corona/massnahmen"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0159",
+      "topics": [
+        "corona/massnahmen"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0160",
+      "topics": [
+        "corona/massnahmen"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0162",
+      "topics": [
+        "corona/massnahmen"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0164",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0165",
+      "topics": [
+        "corona/massnahmen"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0166",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0168",
+      "topics": [
+        "corona",
+        "corona/impfung"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0169",
+      "topics": [
+        "corona/massnahmen"
+      ]
+    },
+    {
+      "claimId": "bPXMY7Reeek-A0170",
+      "topics": [
+        "corona/massnahmen"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Erstzuordnung von 84 Aussagen zu Themen; keine Bewertung geändert."
+    }
+  ]
+}
