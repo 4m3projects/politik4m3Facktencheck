@@ -144,6 +144,54 @@ function moveTip(e) {
 }
 function hideTip() { if (state.tip) state.tip.hidden = true; }
 
+/* Erklärung der Faktenampel: keine Blase am Mauszeiger, sondern eine schwebende Tafel an fester
+   Stelle direkt unter der Ampel, die nach unten ausklappt. Sie überdeckt den Inhalt darunter,
+   verschiebt aber nichts. Mit der Maus beim Überfahren;
+   auf Touchgeräten per Tippen auf eine Ampel, die kein Link ist (Tippen daneben schließt sie). */
+const AMPEL_TIP_NOTE = 'Nur geprüfte Aussagen, kein Urteil über das ganze Video oder Personen; Darstellungshinweise zählen nicht.';
+function showAmpelTip(el) {
+  let tip = state.ampelTip;
+  if (!tip) {
+    tip = state.ampelTip = document.createElement('div');
+    tip.className = 'ampel-tip'; tip.setAttribute('aria-hidden', 'true'); tip.hidden = true;
+    document.body.appendChild(tip);
+  }
+  const d = el.dataset;
+  tip.className = 'ampel-tip ampel-tip-' + (d.ampelKey || '');
+  tip.innerHTML = `<div class="ampel-tip-head"><span class="ampel-lights"><i></i><i></i><i></i></span><strong>${esc(d.ampelTitle)}</strong></div>
+    <p class="ampel-tip-sub">${esc(d.ampelSub)}</p><p>${esc(d.ampelText)}</p><p class="ampel-tip-note">${esc(AMPEL_TIP_NOTE)}</p>`;
+  tip.hidden = false;
+  tip.style.animation = 'none'; void tip.offsetWidth; tip.style.animation = '';
+  state.ampelTipFor = el;
+  const a = el.getBoundingClientRect();
+  const vw = document.documentElement.clientWidth;
+  const w = Math.min(vw - 16, Math.max(a.width, 300));
+  tip.style.width = w + 'px';
+  tip.style.left = (window.scrollX + Math.min(vw - w - 8, Math.max(8, a.left))) + 'px';
+  tip.style.top = (window.scrollY + a.bottom + 4) + 'px';
+}
+function hideAmpelTip() {
+  if (state.ampelTip) state.ampelTip.hidden = true;
+  state.ampelTipFor = null;
+}
+function bindAmpelTips(root) {
+  root.querySelectorAll('.ampel[data-ampel-key]').forEach(el => {
+    el.addEventListener('pointerenter', e => { if (e.pointerType === 'mouse') showAmpelTip(el); });
+    el.addEventListener('pointerleave', e => { if (e.pointerType === 'mouse') hideAmpelTip(); });
+  });
+}
+/* Touch/Stift: Tippen auf eine Ampel (außer in Links, dort führt der Link weiter) öffnet oder schließt
+   die Tafel, Tippen woanders schließt sie. Mit der Maus gilt allein das Überfahren. */
+document.addEventListener('pointerdown', e => { state.lastPointer = e.pointerType; }, true);
+document.addEventListener('click', e => {
+  if (state.lastPointer === 'mouse') return;
+  const el = e.target.closest?.('.ampel[data-ampel-key]');
+  if (el && !el.closest('a')) { if (state.ampelTipFor === el) hideAmpelTip(); else showAmpelTip(el); return; }
+  if (state.ampelTipFor) hideAmpelTip();
+});
+window.addEventListener('resize', hideAmpelTip);
+window.addEventListener('hashchange', hideAmpelTip);
+
 /* ---------- Kleiner Markdown-Renderer für die eigenen Berichte ---------- */
 /* Unterstützt Überschriften, Absätze, Listen, Tabellen, Fett, Code und Links. HTML im Quelltext wird immer maskiert. */
 
@@ -463,7 +511,9 @@ function setPage(html, nav) {
   document.querySelectorAll('.mainnav a[data-nav]').forEach(a => {
     if (a.dataset.nav === nav) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
   });
+  hideAmpelTip();
   bindTips(main());
+  bindAmpelTips(main());
 }
 
 function videoFacts(v) {
@@ -521,8 +571,9 @@ function ampelDemo(key) {
 function ampelView(v, variant = '') {
   const r = FactAmpel.rate(v?.stats || null, v?.video || null, v?.data?.scope?.durationSeconds);
   const title = r.key === 'gruen' || r.key === 'gelb' || r.key === 'rot' ? `${r.name} · ${r.label}` : r.label;
-  const tip = `Faktenampel: ${title}. ${ampelSub(r)}. ${r.text} Nur geprüfte Aussagen, kein Urteil über das ganze Video oder Personen; Darstellungshinweise zählen nicht.`;
-  return `<div class="ampel ampel-${r.key}${variant ? ' ' + (variant === 'big' ? 'ampel-big' : variant) : ''}" role="img" aria-label="${esc(tip)}" data-tip="${esc(tip)}">
+  const tip = `Faktenampel: ${title}. ${ampelSub(r)}. ${r.text} ${AMPEL_TIP_NOTE}`;
+  /* Kein mitwandernder Hinweis (data-tip): Die Erklärung erscheint als feste Tafel unter der Ampel (bindAmpelTips). */
+  return `<div class="ampel ampel-${r.key}${variant ? ' ' + (variant === 'big' ? 'ampel-big' : variant) : ''}" role="img" aria-label="${esc(tip)}" data-ampel-key="${esc(r.key)}" data-ampel-title="${esc('Faktenampel: ' + title)}" data-ampel-sub="${esc(ampelSub(r))}" data-ampel-text="${esc(r.text)}">
     <span class="ampel-lights" aria-hidden="true"><i></i><i></i><i></i></span>
     <span class="ampel-text" aria-hidden="true"><span class="ampel-title">Faktenampel: ${esc(title)}</span><span class="ampel-sub">${esc(ampelSub(r))}</span></span>
   </div>`;

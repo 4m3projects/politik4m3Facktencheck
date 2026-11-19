@@ -613,6 +613,31 @@ a.person-link:hover { border-color: var(--accent); transform: translateY(-2px); 
 .ampel-big { padding: 12px 16px; }
 .ampel-big .ampel-lights i { width: 16px; height: 16px; }
 .ampel-big .ampel-title { font-size: 1.1rem; }
+/* Erklärtafel zur Ampel (app.js showAmpelTip): schwebt an fester Stelle unter der Ampel und klappt nach unten aus. */
+.ampel-tip {
+  position: absolute; z-index: 20; pointer-events: none; box-sizing: border-box;
+  background: var(--surface); color: var(--text); border: 1px solid var(--line-strong); border-top-width: 4px;
+  border-radius: var(--radius-s); box-shadow: var(--shadow), 0 10px 28px rgba(0, 0, 0, .14);
+  padding: 10px 14px 12px; font-size: .88rem; line-height: 1.5;
+  animation: ampel-tip-in .22s cubic-bezier(.2, .7, .3, 1);
+}
+.ampel-tip[hidden] { display: none; }
+.ampel-tip p { margin: 6px 0 0; }
+.ampel-tip-head { display: flex; align-items: center; gap: 10px; font-size: .95rem; }
+.ampel-tip .ampel-lights { flex-direction: row; padding: 3px; }
+.ampel-tip .ampel-lights i { width: 9px; height: 9px; }
+.ampel-tip-sub { font-weight: 600; }
+.ampel-tip-note { color: var(--text-2); font-size: .82rem; }
+.ampel-tip-rot { border-top-color: #e34948; }
+.ampel-tip-gelb { border-top-color: #f2b300; }
+.ampel-tip-gruen { border-top-color: #1fa040; }
+.ampel-tip-rot .ampel-lights i:nth-child(1) { background: #e34948; box-shadow: 0 0 6px #e34948; }
+.ampel-tip-gelb .ampel-lights i:nth-child(2) { background: #f2b300; box-shadow: 0 0 6px #f2b300; }
+.ampel-tip-gruen .ampel-lights i:nth-child(3) { background: #1fa040; box-shadow: 0 0 6px #1fa040; }
+@keyframes ampel-tip-in { from { opacity: 0; clip-path: inset(0 0 100% 0 round var(--radius-s)); transform: translateY(-6px); } to { opacity: 1; clip-path: inset(0 0 -40px 0 round var(--radius-s)); transform: none; } }
+@media (prefers-reduced-motion: reduce) { .ampel-tip { animation: none; } }
+.ampel[data-ampel-key] { cursor: help; }
+a .ampel[data-ampel-key] { cursor: pointer; }
 .ampel-list { display: grid; gap: 10px; padding: 0; list-style: none; }
 .ampel-list li .ampel { margin: 0 0 4px; }
 .ampel-overview { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); }
