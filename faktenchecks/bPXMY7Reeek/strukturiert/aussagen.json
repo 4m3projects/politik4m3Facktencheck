@@ -494,6 +494,54 @@
       "details": "Susanne Schröter, Aus Politik und Zeitgeschichte, bpb, 08.05.2012; Hijras und Two Spirits, kritische Einordnung.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S061",
+      "title": "Phasen und Instanzen der Sozialisation",
+      "url": "https://www.lernhelfer.de/index.php/schuelerlexikon/politikwirtschaft/artikel/phasen-und-instanzen-der-sozialisation",
+      "details": "Lernhelfer (Duden Learnattack), Schülerlexikon Politik/Wirtschaft, undatiert; drei Phasen (primär, sekundär, tertiär) mit ihren Instanzen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S062",
+      "title": "Sozialisation",
+      "url": "https://flexikon.doccheck.com/de/Sozialisation",
+      "details": "DocCheck Flexikon, zuletzt bearbeitet 21.03.2024; primäre, sekundäre und tertiäre Sozialisation, Letztere vor allem am Arbeitsplatz bis ins Alter.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S063",
+      "title": "Sozialisation",
+      "url": "https://studyflix.de/paedagogik-psychologie/sozialisation-6176",
+      "details": "Studyflix (kommerzielle Lernplattform), undatiert; Vierphasenmodell mit quartärer Sozialisation im hohen Alter.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S064",
+      "title": "The Performance Gap in Sport Can Help Determine Which Movements Were Most Essential to Human Evolution",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6877502/",
+      "details": "Cameron Carroll, Frontiers in Physiology, 19.11.2019 (DOI 10.3389/fphys.2019.01412); Leistungsabstand zwischen Männern und Frauen anhand der Top-50-Weltbestleistungen im Laufen und Springen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S065",
+      "title": "Statement on ‘Physical interventions to interrupt or reduce the spread of respiratory viruses’ review",
+      "url": "https://www.cochrane.org/news/statement-physical-interventions-interrupt-or-reduce-spread-respiratory-viruses-review",
+      "details": "Cochrane, Karla Soares-Weiser (Chefredakteurin der Cochrane Library), 10.03.2023; Einordnung des Reviews von 2023 zur Förderung des Maskentragens.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S066",
+      "title": "Posts mislead on study of mask effectiveness for Covid-19",
+      "url": "https://belux.edmo.eu/posts-mislead-on-study-of-mask-effectiveness-for-covid-19/",
+      "details": "AFP-Faktencheck, veröffentlicht von EDMO Belux, 28.03.2023; Einordnung randomisierter und beobachtender Studien zu Masken.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "speakers": [
@@ -1825,20 +1873,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Soziologie unterscheide vier Sozialisationsphasen: primär im Elternhaus, sekundär in der Schule, tertiär im Beruf und quartär im Alter.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Lehrbuchfrage, zu der keine soziologische Fachquelle gelesen wurde; das Vierphasenmodell wird nicht geraten. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Gängige Lehrdarstellungen unterscheiden primäre Sozialisation in der Familie, sekundäre in Kindergarten, Schule und Gleichaltrigengruppen und tertiäre im Erwachsenenalter, vor allem im Beruf. Eine vierte, „quartäre“ Sozialisation im Alter findet sich nur in einem Teil der Lernmaterialien; die beiden anderen gelesenen Darstellungen kennen nur drei Phasen. Die Zuordnung der ersten drei Phasen stimmt also, ein allgemein anerkanntes Vierphasenmodell „der Soziologie“ ist mit den gelesenen Quellen nicht belegt.",
+      "assessmentBasis": "Drei Lexikon- bzw. Lernplattformartikel gelesen; kein soziologisches Fachlehrbuch.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Lehrdarstellungen zu Sozialisationsphasen gelesen; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Wie definieren soziologische Lehrbücher primäre, sekundäre, tertiäre und gegebenenfalls quartäre Sozialisation?",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Drei Phasen mit Instanzen Familie, Schule/Gleichaltrige, Beruf."
+        },
+        {
+          "sourceId": "S062",
+          "note": "Drei Phasen; tertiäre Sozialisation vor allem am Arbeitsplatz."
+        },
+        {
+          "sourceId": "S063",
+          "note": "Vierphasenmodell mit quartärer Sozialisation im hohen Alter."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0034",
@@ -3271,20 +3329,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ohne Geschlechtertrennung sei die Männerklasse faktisch eine offene Klasse; in Kraft-, Sprung- und Laufdisziplinen erzielten biologische Männer die Spitzenleistungen, deshalb müsse man Männer nicht auf ihr Geschlecht testen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – zusammengesetzte sportpolitische Einordnung; Leistungsvergleiche und Regelwerke der Verbände wurden nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Bei den Weltbestleistungen liegen Männer in Lauf- und Sprungdisziplinen durchgehend vor Frauen; eine Auswertung der jeweils 50 besten Leistungen zeigt je nach Disziplin einen Abstand von grob 8 bis 16 Prozent, im Gewichtheben ist er noch größer. Dieser Teil ist belegt. Ob die Männerklasse deshalb faktisch eine offene Klasse ist und Männer nicht getestet werden müssen, ist eine sportpolitische Schlussfolgerung; die Regelwerke der Verbände wurden nicht gelesen.",
+      "assessmentBasis": "Eine sportwissenschaftliche Fachveröffentlichung (Carroll 2019) gelesen; keine Verbandsregeln zu Startklassen und Geschlechtstests.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Studie zum Leistungsabstand gelesen; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Vergleich der Weltrekorde und Spitzenleistungen von Männern und Frauen in Kraft-, Sprung- und Laufdisziplinen prüfen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S064",
+          "note": "Durchgehender Leistungsvorsprung der Männer im Laufen und Springen; im Gewichtheben größer."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0069",
@@ -6218,20 +6278,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Masken seien offensichtlich eine wirksame Schutzmaßnahme.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – medizinische Wirksamkeitsfrage, zu der keine Übersichtsarbeit gelesen wurde; „offensichtlich“ lässt sich ohne Studienlage nicht bewerten. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Studienlage ist uneinheitlich. Der Cochrane-Review von 2023 fand für Maßnahmen zur Förderung des Maskentragens in randomisierten Studien keine eindeutige Wirkung; Cochrane stellte aber klar, dies sei kein Beleg, dass Masken nicht wirken, und über den Schutz für Einzelne sage der Review nichts. Beobachtungsstudien und eine große Studie aus Bangladesch sprechen für einen Nutzen, eine dänische Studie fand keinen statistisch signifikanten Effekt. Eine Schutzwirkung ist damit plausibel und teilweise gestützt, „offensichtlich“ ist sie nach der Studienlage nicht.",
+      "assessmentBasis": "Cochrane-Stellungnahme (03/2023) und AFP-Faktencheck (03/2023) gelesen; den Review selbst und Einzelstudien nicht gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Cochrane-Stellungnahme und Faktencheck gelesen; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Stand der Evidenz zu Masken gegen Atemwegsinfektionen (randomisierte Studien, Beobachtungsstudien, Cochrane-Review 2023 und Kritik daran) prüfen; Maskentyp und Setting unterscheiden.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S065",
+          "note": "Ergebnisse zur Förderung des Maskentragens nicht eindeutig; „Masken wirken nicht“ sei eine Fehldeutung."
+        },
+        {
+          "sourceId": "S066",
+          "note": "Uneinheitliche Einzelstudien; Beobachtungsdaten sprechen für Nutzen."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0145",

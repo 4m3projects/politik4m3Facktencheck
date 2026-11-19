@@ -92,7 +92,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Soziologie unterscheide vier Sozialisationsphasen: primär im Elternhaus, sekundär in der Schule, tertiär im Beruf und quartär im Alter.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -111,23 +111,28 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Lehrbuchfrage, zu der keine soziologische Fachquelle gelesen wurde; das Vierphasenmodell wird nicht geraten. Fehlende Bestätigung bedeutet nicht falsch.
+Gängige Lehrdarstellungen unterscheiden primäre Sozialisation in der Familie, sekundäre in Kindergarten, Schule und Gleichaltrigengruppen und tertiäre im Erwachsenenalter, vor allem im Beruf. Eine vierte, „quartäre“ Sozialisation im Alter findet sich nur in einem Teil der Lernmaterialien; die beiden anderen gelesenen Darstellungen kennen nur drei Phasen. Die Zuordnung der ersten drei Phasen stimmt also, ein allgemein anerkanntes Vierphasenmodell „der Soziologie“ ist mit den gelesenen Quellen nicht belegt.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Drei Lexikon- bzw. Lernplattformartikel gelesen; kein soziologisches Fachlehrbuch.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Lehrdarstellungen zu Sozialisationsphasen gelesen; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Phasen und Instanzen der Sozialisation](https://www.lernhelfer.de/index.php/schuelerlexikon/politikwirtschaft/artikel/phasen-und-instanzen-der-sozialisation) · Lernhelfer (Duden Learnattack), Schülerlexikon Politik/Wirtschaft, undatiert; drei Phasen (primär, sekundär, tertiär) mit ihren Instanzen.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Drei Phasen mit Instanzen Familie, Schule/Gleichaltrige, Beruf.
+
+- [Sozialisation](https://flexikon.doccheck.com/de/Sozialisation) · DocCheck Flexikon, zuletzt bearbeitet 21.03.2024; primäre, sekundäre und tertiäre Sozialisation, Letztere vor allem am Arbeitsplatz bis ins Alter.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Drei Phasen; tertiäre Sozialisation vor allem am Arbeitsplatz.
+
+- [Sozialisation](https://studyflix.de/paedagogik-psychologie/sozialisation-6176) · Studyflix (kommerzielle Lernplattform), undatiert; Vierphasenmodell mit quartärer Sozialisation im hohen Alter.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Vierphasenmodell mit quartärer Sozialisation im hohen Alter.
 
 ### Offene Fragen und Unsicherheiten
 
-- Wie definieren soziologische Lehrbücher primäre, sekundäre, tertiäre und gegebenenfalls quartäre Sozialisation?
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0033
 
