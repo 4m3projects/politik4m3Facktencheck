@@ -902,7 +902,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Vom Selbstbestimmungsgesetz seien nur sehr wenige Menschen betroffen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -921,23 +921,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine Fallzahlen zu Änderungen nach dem SBGG gelesen; die Gesetzesbegründung nennt nur eingesparte Verfahrenskosten. Fehlende Bestätigung bedeutet nicht falsch.
+Nach dem Statistischen Bundesamt wurden seit Inkrafttreten des Selbstbestimmungsgesetzes am 1. November 2024 rund 10.000 Änderungen in den ersten zwei Monaten, 15.688 im Jahr 2025 und vorläufig gut 5.000 von Januar bis August 2026 gemeldet, zusammen rund 31.000. Bei rund 83 Millionen Einwohnern sind das deutlich weniger als 0,1 Prozent. Die Zahlen sind laut Destatis eher eine Untergrenze. „Sehr wenige“ ist eine Wertung, im Verhältnis zur Bevölkerung aber gedeckt.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Destatis-Daten zu 2024, 2025 und vorläufig 2026 gelesen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Destatis-Fallzahlen zum SBGG gelesen; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Daten zur Änderung des Geschlechtseintrags für die Jahre 2024 und 2025 und vorläufige Ergebnisse für 2026](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Geburten/daten-zur-aenderung-geschlechtseintrag.html) · Statistisches Bundesamt, 11.11.2026; gemeldete Änderungen des Geschlechtseintrags nach Monaten und Ländern.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Rund 31.000 Änderungen seit November 2024.
 
 ### Offene Fragen und Unsicherheiten
 
-- Wie viele Änderungen des Geschlechtseintrags wurden seit November 2024 erklärt (Statistiken oder Umfragen bei Standesämtern)?
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## bPXMY7Reeek-A0094
 
