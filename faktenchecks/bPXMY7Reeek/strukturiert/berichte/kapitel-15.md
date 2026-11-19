@@ -641,7 +641,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Studien zeigten, dass die Reaktanz in der Pandemie bereits bestehende staats- und autoritätskritische Strömungen verstärkt habe; andere Studien fänden keinen zusätzlichen Effekt.
 
-Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -686,13 +686,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – die gemeinten Studien werden nicht benannt und wurden nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.
+Noch nicht geprüft – die gemeinten Studien werden nicht benannt; Forschung zu Protestmilieus und Vertrauen in der Pandemie wurde noch nicht gelesen. Grundsätzlich mit Fachliteratur prüfbar.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): grundsätzlich öffentlich prüfbar, aber noch nicht recherchiert; deshalb zurück auf Offen (Arbeitsauftrag), keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -703,8 +703,6 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 - Welche Studien sind gemeint? Der Gastgeber kann sie nach eigener Angabe nicht benennen.
 
 - Forschung zu Protestmilieus und Vertrauen während der Pandemie in Deutschland sichten.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
 
 ## bPXMY7Reeek-A0131
 

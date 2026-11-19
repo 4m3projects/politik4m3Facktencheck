@@ -590,6 +590,54 @@
       "details": "Apollo News, 12.05.2025; nennt 227.000 Abonnenten laut Sendung und 331.000 am 12.05.2025.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S073",
+      "title": "Transgender Women in the Female Category of Sport: Perspectives on Testosterone Suppression and Performance Advantage",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7846503",
+      "details": "Emma N. Hilton, Tommy R. Lundberg, Sports Medicine 51 (2021), 199–214, DOI 10.1007/s40279-020-01389-3 (korrigiert 2021); Übersichtsarbeit, Tabelle 1: Männer gegenüber Frauen u. a. Muskelmasse +33 bis +40 %, Griffkraft +57 %, fettfreie Masse +45 %, Körperfettanteil −30 %, längere Knochen; Testosteronanstieg in der Pubertät als Hauptursache.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S074",
+      "title": "Bundesgleichstellungsgesetz, § 8 Vorrangige Berücksichtigung von Frauen",
+      "url": "https://www.gesetze-im-internet.de/bgleig_2015/__8.html",
+      "details": "Gesetzestext: Vorrang für Frauen in unterrepräsentierten Bereichen nur bei gleicher Qualifikation; ausgeschlossen, wenn rechtlich schutzwürdige Interessen in der Person eines Mitbewerbers überwiegen. Gilt für den öffentlichen Dienst des Bundes.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S075",
+      "title": "Durchsetzung von Frauenquoten (WD 3 - 3000 - 439/18)",
+      "url": "https://www.bundestag.de/resource/blob/643174/89fd1c6bd661e84d70c1a677300aa8be/WD-3-439-18-pdf-data.pdf",
+      "details": "Wissenschaftliche Dienste des Bundestags, Abschluss 25.02.2019; zu EuGH Marschall (11.11.1997): Vorrang nur mit Öffnungsklausel und Einzelfallprüfung; zu §§ 7, 8 BGleiG wenige Entscheidungen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S076",
+      "title": "Kalanke v Freie Hansestadt Bremen",
+      "url": "https://en.wikipedia.org/wiki/Kalanke_v_Freie_Hansestadt_Bremen",
+      "details": "Wikipedia-Eintrag zum EuGH-Urteil vom 17.10.1995, C-450/93: automatischer, unbedingter Vorrang für Frauen bei gleicher Qualifikation verstößt gegen die Gleichbehandlungsrichtlinie 76/207/EWG.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S077",
+      "title": "Vertrauen in Impfstoffe in Deutschland gewachsen",
+      "url": "https://www.zm-online.de/news/gesellschaft/vertrauen-in-impfstoffe-in-deutschland-gewachsen",
+      "details": "zm-online, 11.09.2020 (aktualisiert 15.07.2026), zu de Figueiredo u. a., Lancet 2020: Deutschland, „Impfungen sind sicher“: Zustimmung 2015 42,8 %, 2019 50,7 %; Widerspruch 3,2 % und 4 %. Keine Werte aus der Pandemie.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S078",
+      "title": "Vaccination-related attitudes and behavior across birth cohorts: Evidence from Germany",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8843242",
+      "details": "Diehl und Hunkler, PLoS ONE 2022, DOI 10.1371/journal.pone.0263871; KiGGS-Daten 2003–2006; verweist auf stabiles Impfvertrauen in Deutschland 2015–2018 und steigende positive Einstellungen in BZgA-Befragungen 2012–2018. Keine Pandemiedaten. Nur teilweise im Wortlaut gelesen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
     }
   ],
   "speakers": [
@@ -3163,19 +3211,23 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein Körper, der eine vollständige männliche Pubertät durchlaufen hat, entwickle im Durchschnitt höhere Knochendichte, mehr Körpergröße, mehr Muskelkraft und ein anderes Verhältnis von Fett- zu Muskelmasse.",
-      "status": "Nicht überprüfbar",
-      "verdict": null,
-      "reason": "Nicht überprüfbar – sportmedizinische Fachfrage; außer Roberts u. a. (Unterschiede vor Hormonbehandlung) wurde keine Übersichtsarbeit zu Knochendichte und Körperzusammensetzung gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Im Kern zutreffend: Eine sportmedizinische Übersichtsarbeit (Hilton und Lundberg 2021) zeigt nach männlicher Pubertät im Durchschnitt deutlich mehr Muskelmasse und Kraft, mehr fettfreie Masse, weniger Körperfett und längere Knochen, vor allem durch Testosteron. Die genannte höhere Knochendichte stand im wörtlich gelesenen Teil nicht mit einer Zahl; dieser Teil ist damit nicht belegt, aber auch nicht widerlegt.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): Aussage ist öffentlich prüfbar; zweite Recherche durchgeführt, vorher Nicht überprüfbar, jetzt Teilweise belegt."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S073",
+          "note": "Tabelle 1: Muskelmasse, Kraft, fettfreie Masse, Körperfett und Knochenlängen; Knochendichte nur ohne Zahl."
+        }
+      ],
       "openQuestions": [
-        "Sportmedizinische Übersichtsarbeiten zu Geschlechtsunterschieden nach der Pubertät prüfen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Fachliteratur zur Knochendichte nach männlicher Pubertät wörtlich prüfen."
       ],
       "occurrences": [
         {
@@ -3196,7 +3248,31 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-18",
+            "agent": "Claude",
+            "strategy": "Studie zu Leistungsunterschieden vor Hormonbehandlung gelesen; keine Übersichtsarbeit zu Knochendichte und Körperzusammensetzung.",
+            "sourceIds": [],
+            "result": "Keine passende Übersichtsarbeit gelesen."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Zweiter Durchgang: sportmedizinische Übersichtsarbeit zu Geschlechtsunterschieden nach der Pubertät gelesen.",
+            "sourceIds": [
+              "S073"
+            ],
+            "result": "Mehr Muskelmasse und Kraft, mehr fettfreie Masse, weniger Körperfett und längere Knochen bei Männern; Testosteron in der Pubertät als Hauptursache. Eine Zahl zur Knochendichte stand im wörtlich gelesenen Teil nicht."
+          }
+        ],
+        "missingInformation": "Ein wörtlich gelesener Beleg zur Knochendichte nach männlicher Pubertät.",
+        "conflicts": null
+      }
     },
     {
       "id": "bPXMY7Reeek-A0061",
@@ -4591,19 +4667,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "In technischen Berufen mit großem Männerüberschuss sei es klar vorteilhaft, als Frau geführt zu werden; eine Bewerberin bekomme die Stelle wegen Paritätsregeln in jedem Fall.",
-      "status": "Nicht überprüfbar",
-      "verdict": null,
-      "reason": "Nicht überprüfbar – zu pauschal: Es wird weder eine konkrete Paritätsregel noch ein Arbeitgeber genannt; eine allgemeine Regel, nach der eine Bewerberin die Stelle in jedem Fall bekommt, wurde in keiner gelesenen Quelle gefunden. Fehlende Bestätigung bedeutet nicht falsch.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Irreführend: Vorrangregeln für Frauen gibt es, etwa im öffentlichen Dienst des Bundes (§ 8 Bundesgleichstellungsgesetz). Sie gelten aber nur bei gleicher Qualifikation und entfallen, wenn Gründe in der Person eines Mitbewerbers überwiegen. Ein automatischer Vorrang „in jedem Fall“ ist nach der Rechtsprechung des EuGH (Kalanke 1995, Marschall 1997) unzulässig. Für die Privatwirtschaft wurde keine solche Regel gelesen.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): Aussage ist öffentlich prüfbar; zweite Recherche durchgeführt, vorher Nicht überprüfbar, jetzt Irreführend / Kontext fehlt."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S074",
+          "note": "Vorrang nur bei gleicher Qualifikation, mit Ausnahme."
+        },
+        {
+          "sourceId": "S075",
+          "note": "Marschall: Einzelfallprüfung nötig; kaum Gerichtsentscheidungen zu § 8."
+        },
+        {
+          "sourceId": "S076",
+          "note": "Kalanke: automatischer, unbedingter Vorrang unzulässig."
+        }
+      ],
       "openQuestions": [
-        "Welche Vorrangregeln gelten im öffentlichen Dienst (z. B. Bundesgleichstellungsgesetz: Vorrang nur bei gleicher Eignung)? Gibt es solche Regeln in der Privatwirtschaft?",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Gibt es in der Privatwirtschaft verbindliche Vorrangregeln bei Einstellungen (AGG, Quoten nur für Führungsgremien)?"
       ],
       "occurrences": [
         {
@@ -4647,7 +4735,33 @@
           "claimId": "bPXMY7Reeek-A0091",
           "note": "Der Gastgeber widerspricht mit eigener Erfahrung aus IT-Unternehmen."
         }
-      ]
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-18",
+            "agent": "Claude",
+            "strategy": "Öffentliche Recherche nach einer allgemeinen Paritätsregel für Stellenbesetzungen.",
+            "sourceIds": [],
+            "result": "Keine Regel gefunden, nach der eine Bewerberin die Stelle in jedem Fall bekommt."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Zweiter Durchgang: Gesetzestext des Bundesgleichstellungsgesetzes, Gutachten der Wissenschaftlichen Dienste und EuGH-Rechtsprechung zu Vorrangregeln gelesen.",
+            "sourceIds": [
+              "S074",
+              "S075",
+              "S076"
+            ],
+            "result": "Vorrang für Frauen gibt es im öffentlichen Dienst nur bei gleicher Qualifikation und mit Ausnahme für überwiegende Gründe beim Mitbewerber; ein automatischer Vorrang ist nach EuGH unzulässig."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "bPXMY7Reeek-A0091",
@@ -6422,20 +6536,19 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Studien zeigten, dass die Reaktanz in der Pandemie bereits bestehende staats- und autoritätskritische Strömungen verstärkt habe; andere Studien fänden keinen zusätzlichen Effekt.",
-      "status": "Nicht überprüfbar",
+      "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – die gemeinten Studien werden nicht benannt und wurden nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – die gemeinten Studien werden nicht benannt; Forschung zu Protestmilieus und Vertrauen in der Pandemie wurde noch nicht gelesen. Grundsätzlich mit Fachliteratur prüfbar.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): grundsätzlich öffentlich prüfbar, aber noch nicht recherchiert; deshalb zurück auf Offen (Arbeitsauftrag), keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
         "Welche Studien sind gemeint? Der Gastgeber kann sie nach eigener Angabe nicht benennen.",
-        "Forschung zu Protestmilieus und Vertrauen während der Pandemie in Deutschland sichten.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Forschung zu Protestmilieus und Vertrauen während der Pandemie in Deutschland sichten."
       ],
       "occurrences": [
         {
@@ -6960,19 +7073,18 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine Journalistin der Zeit (Vorname laut Untertitel Jasmin) habe vom Tragen von Camouflage-Mustern abgeraten; der Instagram-Kanal von Quarks arbeite häufig mit Sollen-Formulierungen.",
-      "status": "Nicht überprüfbar",
+      "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – Journalistin und Beitrag sind nicht eindeutig benannt; Social-Media-Inhalte wurden nicht geprüft. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – der gemeinte Zeit-Beitrag und die Quarks-Instagram-Beiträge wurden noch nicht gesucht und gelesen. Grundsätzlich öffentlich prüfbar.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): grundsätzlich öffentlich prüfbar, aber noch nicht recherchiert; deshalb zurück auf Offen (Arbeitsauftrag), keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
-        "Welcher Zeit-Beitrag ist gemeint? Stichprobe der Quarks-Instagram-Beiträge auf Formulierungen prüfen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Welcher Zeit-Beitrag ist gemeint? Stichprobe der Quarks-Instagram-Beiträge auf Formulierungen prüfen."
       ],
       "occurrences": [
         {
@@ -8089,19 +8201,18 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Corona habe in vielen Familien zu Konflikten und auch zu dauerhaften Brüchen geführt.",
-      "status": "Nicht überprüfbar",
+      "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – zu allgemein; keine Erhebung zu Familienkonflikten gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – Umfragen oder Studien zu familiären Konflikten über Corona-Maßnahmen wurden noch nicht gelesen. Grundsätzlich mit Erhebungen prüfbar.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): grundsätzlich öffentlich prüfbar, aber noch nicht recherchiert; deshalb zurück auf Offen (Arbeitsauftrag), keine Bewertung."
       },
       "sourceRefs": [],
       "openQuestions": [
-        "Umfragen oder Studien zu familiären Konflikten über Corona-Maßnahmen in Deutschland prüfen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Umfragen oder Studien zu familiären Konflikten über Corona-Maßnahmen in Deutschland prüfen."
       ],
       "occurrences": [
         {
@@ -8287,19 +8398,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Impfskepsis habe es in Deutschland schon vor der Pandemie in ähnlichem Umfang gegeben.",
-      "status": "Nicht überprüfbar",
-      "verdict": null,
-      "reason": "Nicht überprüfbar – zum Umfang der Impfskepsis vor der Pandemie fand sich nur eine BZgA-Zeitreihe zur allgemeinen Wichtigkeit von Impfungen (2012: 61 %, 2021: 81 %), die keinen gleich hohen Anteil belegt oder widerlegt. Fehlende Bestätigung bedeutet nicht falsch.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Nicht ausreichend belegbar: Für die Zeit vor der Pandemie gibt es Werte (2015–2019 widersprachen etwa 3 bis 4 % der Aussage, Impfungen seien sicher; das Impfvertrauen war stabil bis steigend). Vergleichbare Werte aus der Pandemie wurden in zwei Recherchedurchgängen nicht gefunden, deshalb lässt sich der Vergleich „ähnlicher Umfang“ weder bestätigen noch widerlegen.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): Aussage ist öffentlich prüfbar; zweite Recherche durchgeführt, vorher Nicht überprüfbar, jetzt Nicht ausreichend belegbar."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S077",
+          "note": "Vor der Pandemie: 3,2 % (2015) und 4 % (2019) Widerspruch zu „Impfungen sind sicher“."
+        },
+        {
+          "sourceId": "S078",
+          "note": "Impfvertrauen 2015–2018 stabil; keine Pandemiedaten."
+        }
+      ],
       "openQuestions": [
-        "Umfragen zur Impfbereitschaft vor 2020 (z. B. BZgA) mit Werten aus der Pandemie vergleichen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Vergleichbare Befragungen aus 2020–2022 (etwa COSMO-Studie, Vaccine Confidence Project) mit den Vorpandemiewerten vergleichen."
       ],
       "occurrences": [
         {
@@ -8320,7 +8439,32 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Recherche ohne ausreichendes Ergebnis",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-18",
+            "agent": "Claude",
+            "strategy": "BZgA-Zeitreihe zur Wichtigkeit von Impfungen gesucht und gelesen.",
+            "sourceIds": [],
+            "result": "Wichtigkeit von Impfungen 2012: 61 %, 2021: 81 %; kein direkter Vergleich der Impfskepsis."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Zweiter Durchgang: internationale Erhebung zum Impfvertrauen und Fachstudie zu Impfeinstellungen in Deutschland gelesen.",
+            "sourceIds": [
+              "S077",
+              "S078"
+            ],
+            "result": "Vor der Pandemie (2015–2019) widersprachen etwa 3 bis 4 % der Aussage, Impfungen seien sicher; Impfvertrauen stabil bis steigend. Vergleichbare Werte aus der Pandemie fehlen in diesen Quellen."
+          }
+        ],
+        "missingInformation": "Mit 2015–2019 vergleichbare Werte zur Impfskepsis in Deutschland aus den Jahren 2020–2022.",
+        "conflicts": null
+      }
     },
     {
       "id": "bPXMY7Reeek-A0169",

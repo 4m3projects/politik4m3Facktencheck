@@ -400,7 +400,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein Körper, der eine vollständige männliche Pubertät durchlaufen hat, entwickle im Durchschnitt höhere Knochendichte, mehr Körpergröße, mehr Muskelkraft und ein anderes Verhältnis von Fett- zu Muskelmasse.
 
-Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -419,23 +419,32 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – sportmedizinische Fachfrage; außer Roberts u. a. (Unterschiede vor Hormonbehandlung) wurde keine Übersichtsarbeit zu Knochendichte und Körperzusammensetzung gelesen. Fehlende Bestätigung bedeutet nicht falsch.
+Im Kern zutreffend: Eine sportmedizinische Übersichtsarbeit (Hilton und Lundberg 2021) zeigt nach männlicher Pubertät im Durchschnitt deutlich mehr Muskelmasse und Kraft, mehr fettfreie Masse, weniger Körperfett und längere Knochen, vor allem durch Testosteron. Die genannte höhere Knochendichte stand im wörtlich gelesenen Teil nicht mit einer Zahl; dieser Teil ist damit nicht belegt, aber auch nicht widerlegt.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): Aussage ist öffentlich prüfbar; zweite Recherche durchgeführt, vorher Nicht überprüfbar, jetzt Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Transgender Women in the Female Category of Sport: Perspectives on Testosterone Suppression and Performance Advantage](https://pmc.ncbi.nlm.nih.gov/articles/PMC7846503) · Emma N. Hilton, Tommy R. Lundberg, Sports Medicine 51 (2021), 199–214, DOI 10.1007/s40279-020-01389-3 (korrigiert 2021); Übersichtsarbeit, Tabelle 1: Männer gegenüber Frauen u. a. Muskelmasse +33 bis +40 %, Griffkraft +57 %, fettfreie Masse +45 %, Körperfettanteil −30 %, längere Knochen; Testosteronanstieg in der Pubertät als Hauptursache.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. Tabelle 1: Muskelmasse, Kraft, fettfreie Masse, Körperfett und Knochenlängen; Knochendichte nur ohne Zahl.
 
 ### Offene Fragen und Unsicherheiten
 
-- Sportmedizinische Übersichtsarbeiten zu Geschlechtsunterschieden nach der Pubertät prüfen.
+- Fachliteratur zur Knochendichte nach männlicher Pubertät wörtlich prüfen.
 
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Ein wörtlich gelesener Beleg zur Knochendichte nach männlicher Pubertät.
+
+- Durchgang 1 am 2026-11-18 (Claude): Studie zu Leistungsunterschieden vor Hormonbehandlung gelesen; keine Übersichtsarbeit zu Knochendichte und Körperzusammensetzung. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Keine passende Übersichtsarbeit gelesen.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: sportmedizinische Übersichtsarbeit zu Geschlechtsunterschieden nach der Pubertät gelesen. Gepruefte Quellen: S073. Ergebnis: Mehr Muskelmasse und Kraft, mehr fettfreie Masse, weniger Körperfett und längere Knochen bei Männern; Testosteron in der Pubertät als Hauptursache. Eine Zahl zur Knochendichte stand im wörtlich gelesenen Teil nicht.
 
 ## bPXMY7Reeek-A0061
 
