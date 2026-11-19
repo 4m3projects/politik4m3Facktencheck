@@ -43,9 +43,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Originalvideo und Berichte über die Reaktionen suchen; Name und Datum verifizieren.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+- Kanalsuche 19.11.2026: Das ursprüngliche Beschwerdevideo von laserluca (ConCrafter, April 2019) ist nicht mehr auf seinem Kanal; nach den Untertiteln einer Fremdkopie ging es um einen Club in Düsseldorf, das Bootshaus wird dort positiv erwähnt. Vor einer Bewertung Originalquelle oder zeitgenössischen Bericht lesen.
 
 ## bPXMY7Reeek-A0021
 
@@ -86,9 +84,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Aufrufzahl des Antwortvideos auf dem Kanal feststellen (heutiger Stand ist nicht der damalige).
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+- Kanalsuche 19.11.2026: Das ursprüngliche Reaktionsvideo ist nicht mehr sichtbar; ein Folgevideo vom 23.04.2019 auf dem Kanal futorial bezieht sich darauf. Die damalige Aufrufzahl ist nicht mehr feststellbar.
 
 ## bPXMY7Reeek-A0022
 

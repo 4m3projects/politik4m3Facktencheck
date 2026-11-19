@@ -43,8 +43,6 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Öffentliche Angaben von Hamabu oder Papaplatte zur früheren Zusammenarbeit als Cutter suchen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+- Kanalsuche 19.11.2026: Auf YouTube kein Kanal oder Video gefunden, das Hamabu als früheren Cutter von Papaplatte ausweist; andere Plattformen (Twitch, TikTok, Instagram) nicht geprüft.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

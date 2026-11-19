@@ -106,7 +106,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Kanal SinansWoche behandle Politik, Gesellschaft und viel Philosophie und habe gut 50.000 Abonnenten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -125,23 +125,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Kanalangaben und Abonnentenzahl; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.
+Der Kanal SinansWoche hatte am 19.11.2026 rund 50.400 Abonnenten, also „gut 50.000“; die Videotitel behandeln Politik, Gesellschaft und gesellschaftliche Fragen.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): YouTube-Kanaldaten über Jens' Rechner geprüft; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [YouTube-Kanal SinansWoche](https://www.youtube.com/channel/UC_dw469M9fc3nraC7rIaF5Q) · Kanal von Sinan; rund 50.400 Abonnenten (19.11.2026); Themen laut Titeln Politik, Gesellschaft, Verschwörungsszene und Philosophie.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 über Jens' Rechner gelesen (Kanallisten, Titel, Upload-Daten, Beschreibungen; Stichwortsuche in automatischen Untertiteln). Keine Quellenkopie veröffentlicht. Rund 50.400 Abonnenten am 19.11.2026.
 
 ### Offene Fragen und Unsicherheiten
 
-- Abonnentenzahl des Kanals SinansWoche zum Stand November 2026 feststellen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## GbhI-p_ycJE-A0004
 
