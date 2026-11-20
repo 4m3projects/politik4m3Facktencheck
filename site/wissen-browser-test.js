@@ -18,7 +18,7 @@ const ROOT = path.join(__dirname, '..');
 /* Seite wie im Workflow zusammenstellen (vereinfachte Nachbildung, nur JSON-Daten). */
 function buildSite() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-wissen-'));
-  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'ampel.js', 'wissen.js', 'gegendarstellung.js', 'themen.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
+  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'wissen.js', 'gegendarstellung.js', 'themen.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
   fs.mkdirSync(path.join(out, 'daten'));
   const videos = [];
   const base = path.join(ROOT, 'faktenchecks');
@@ -121,7 +121,7 @@ async function step(name, fn) {
     const checks = await page.locator('.kb-origin').evaluateAll(ps => ps.map(p => {
       const vid = p.querySelector('a[href^="#/video/"]').getAttribute('href').split('/')[2];
       const v = state.videos.get(vid);
-      return [vid, p.nextElementSibling.querySelector('.ampel').className, FactAmpel.rate(v.stats, v.video, v.data?.scope?.durationSeconds).key];
+      return [vid, p.nextElementSibling.querySelector('.ampel').className, FactIndex.rate(v.data, v.video).key];
     }));
     for (const [vid, cls, key] of checks) assert.match(cls, new RegExp('ampel-' + key + '\\b'), vid);
   });

@@ -14,7 +14,7 @@ Die Webseite ist der zentrale Zugang zu allen Videoanalysen, Aussagen, Quellen u
 - **Sechs feste Bewertungen** mit Farbe und Text. Meinungen und Prognosen werden als solche gekennzeichnet, nicht als richtig oder falsch. Was sich nicht prüfen lässt, steht als „Nicht überprüfbar“ mit Grund da. Eine nicht belegte Aussage gilt nicht automatisch als falsch.
 - **Quellen mit direktem Link**, Datenstand und Abrufdatum. Als Beleg zählt nur, was tatsächlich gelesen wurde.
 - **Video mit Faktencheck:** Auf Wunsch spielt die Seite das Originalvideo ab und blendet die passenden Aussagen zeitgleich ein. YouTube wird erst nach einem Klick geladen.
-- **Faktenampel** je Video, berechnet aus den Einzelbewertungen und nie von Hand gesetzt ([Regeln](docs/AMPEL.md)).
+- **Faktenampel** je Video, berechnet aus den Einzelbewertungen und nie von Hand gesetzt ([Regeln](docs/FAKTENINDEX.md)).
 - **Originale und Reaktionen:** Reaktionsvideos erscheinen beim jeweiligen Original, mit eigener Prüfung und Abgleich der Aussagen ([Erklärung](docs/REAKTIONSVIDEOS.md)).
 - **Themen:** Aussagen verschiedener Videos zum selben Thema sind gebündelt ([Wissensdatenbank](docs/WISSENSDATENBANK.md)).
 
