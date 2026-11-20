@@ -1,0 +1,2305 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "smBg5wh2nHw",
+    "videoUrl": "https://www.youtube.com/watch?v=smBg5wh2nHw",
+    "durationSeconds": 2372,
+    "asOf": "2026-11-20",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "Automatische deutsche Originaluntertitel und die jeweils genannten Sachquellen. Die Zuordnung erfolgt aus dem Untertitelzusammenhang. Eine Hör- und Sichtkontrolle steht aus. Die öffentliche Sachrecherche deckt zunächst ausgewählte Aussagen ab.",
+    "coverageNote": "Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden einen ersten Teilbestand. Die vollständige Einzelerfassung und die Prüfung offener Fragen stehen aus."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Justizministerium: Étude sur les mineurs déférés dans le cadre du mouvement lycéen",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2026-11/etude_mouvement_lyceen_2026.pdf",
+      "details": "Französisches Justizministerium, November 2026.",
+      "accessBasis": "Einleitung zur Mobilisierung im September und Oktober gelesen. Die untersuchte Gruppe umfasst Minderjährige, die der Justiz vorgeführt wurden.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S002",
+      "title": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
+      "details": "ARD-aktuell, 18.10.2026.",
+      "accessBasis": "Den Bericht mit dem frühen Zwischenstand des Premierministers und der Ortsangabe zum Rathaus gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S003",
+      "title": "Mobilisation du 17 octobre – aktualisierte Bilanz",
+      "url": "https://www.leparisien.fr/societe/direct-17-octobre-18-10-2026-YTR2AFZ2JJED7PHQ7YGVHM5K3A.php",
+      "details": "Le Parisien, 18.10.2026, Wiedergabe der konsolidierten Bilanz des französischen Innenministeriums.",
+      "accessBasis": "Den Eintrag mit der Bilanz von 2.397 Festnahmen und 997 verletzten Angehörigen der Sicherheitskräfte gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S004",
+      "title": "Randale in Paris: Gewalttäter waren vor allem Linksextreme und migrantische Männer – keine Schüler",
+      "url": "https://apollo-news.net/randale-in-paris-gewalttaeter-waren-vor-allem-linksextreme-und-migrantische-maenner-keine-schueler/",
+      "details": "Apollo News, 20.10.2026.",
+      "accessBasis": "Überschrift und Text gelesen. Primärquelle für die Wiedergabe des Artikels.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S005",
+      "title": "Audition de Laurent Nuñez sur les manifestations du 17 octobre",
+      "url": "https://www.assemblee-nationale.fr/dyn/docs/CRCANR5L17S2027PO59051N012.raw",
+      "details": "Assemblée nationale, Anhörung vom 03.11.2026.",
+      "accessBasis": "Amtliches Wortprotokoll, insbesondere zur Unterscheidung von Schülerprotesten und späteren Mobilisierungen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S006",
+      "title": "Protectorats et mandat français (1881–1956)",
+      "url": "https://www.diplomatie.gouv.fr/fr/archives-bibliotheque/s-orienter-dans-les-fonds-et-collections/protectorats-et-mandat-francais-1881-1956",
+      "details": "Archives diplomatiques, aktualisiert am 07.09.2026.",
+      "accessBasis": "Archivübersicht mit den Zeiträumen der französischen Protektorate gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S007",
+      "title": "Loi n° 46-451 du 19 mars 1946, Artikel 1",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006385372/1946-03-20",
+      "details": "Légifrance, Gesetz vom 19.03.1946.",
+      "accessBasis": "Artikel 1 in der am 20.03.1946 wirksamen Fassung gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S008",
+      "title": "La France et ses migrations du XVIIe siècle à nos jours",
+      "url": "https://www.histoire-immigration.fr/sites/default/files/2025-09/retranscription_film_migrations-en-france_2025.pdf",
+      "details": "Musée national de l’histoire de l’immigration, 2025.",
+      "accessBasis": "Darstellung der Nachkriegsmigration und Abschnitt zum BUMIDOM gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S009",
+      "title": "Juillet 1974 : suspension des entrées de travailleurs immigrés permanents",
+      "url": "https://www.histoire-immigration.fr/les-50-ans-de-la-revue-hommes-migrations/juillet-1974-suspension-des-entrees-de-travailleurs-immigres-permanents",
+      "details": "Musée national de l’histoire de l’immigration, Rückblick auf zeitgenössische Unterlagen von 1974.",
+      "accessBasis": "Die Erläuterung zum Beschluss vom 3. Juli und zu dessen vorläufigem Charakter gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S010",
+      "title": "BGH, Urteil vom 17. Juli 2026 – V ZR 162/25",
+      "url": "https://www.leinemann-partner.de/wp-content/uploads/2026/09/V_ZR_162-25.pdf",
+      "details": "Bundesgerichtshof, 17.07.2026, veröffentlicht als Kopie des Urteils.",
+      "accessBasis": "Leitsätze, Instanzangaben und Entscheidungsgründe zum Gestattungsbeschluss gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S011",
+      "title": "Clashes, fires and looting break out as protesters rally across France",
+      "url": "https://apnews.com/article/france-school-protests-yellow-vest-44b9d3ba91ffad4029f975dced7e31cb",
+      "details": "Associated Press, 17.10.2026.",
+      "accessBasis": "Vor-Ort-Bericht zu Protesten und Ausschreitungen in mehreren Städten sowie zum Einsatz polizeilicher Mittel.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S012",
+      "title": "Recueil des actes administratifs spécial n° 75-2026-667",
+      "url": "https://www.prefectures-regions.gouv.fr/ile-de-france/irecontenu/telechargement/142339/1034675/file/recueil-75-2026-667-recueil-des-actes-administratifs-special%20du%2006.11.2026.pdf",
+      "details": "Préfecture de police, 06.11.2026.",
+      "accessBasis": "Begründung mit dem Rückblick auf Paris am 17. und 18. Oktober gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S013",
+      "title": "Rapport sur la nationalité française",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/184000475.pdf",
+      "details": "Französisches Justizministerium, Bericht 2018.",
+      "accessBasis": "Historischen Abschnitt zur Rechtsstellung in Französisch-Algerien gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S014",
+      "title": "YouTube-Videoseite und Veröffentlichungsmetadaten",
+      "url": "https://www.youtube.com/watch?v=smBg5wh2nHw",
+      "details": "SinansWoche / YouTube, Veröffentlichung am 23.10.2026.",
+      "accessBasis": "Mit dem Projektimport ausgelesenes Veröffentlichungsdatum und Laufzeit.",
+      "accessedOn": "2026-11-20"
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Sinan",
+      "videoRole": "Host",
+      "identityBasis": "Kanalidentität und durchgehende Moderation aus Metadaten und Untertitelkontext. Einzelne Fundstellen wurden nicht akustisch kontrolliert."
+    }
+  ],
+  "claims": [
+    {
+      "id": "smBg5wh2nHw-A0001",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die französische Polizei setzt in Europa als einzige explosive Blendgranaten ein.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Das Video gibt einen Vergleich des nd wieder und lässt die besondere Stellung der französischen Polizei offen.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Geräte und Einsatzarten umfasst der Vergleich und welche europäischen Behörden nutzen vergleichbare Mittel?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0001",
+          "startSeconds": 201,
+          "endSeconds": 208,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host gibt einen Artikel oder Leserkommentar wieder.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0002",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die französische Polizei verursacht mit Gummigeschossen mehr Verstümmelungen als andere europäische Polizeien.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die vorgetragene Rangfolge setzt vergleichbare Verletzungsdaten voraus.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Gibt es eine länderübergreifende Erfassung derselben Verletzungen und Waffenkategorien?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0002",
+          "startSeconds": 206,
+          "endSeconds": 212,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host gibt einen Artikel oder Leserkommentar wieder.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0003",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Frankreich verfügt im europäischen Vergleich über besonders viel Polizeipersonal und Ausrüstung.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Vergleichsgrößen stammen aus dem besprochenen Artikel.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Personalstatistik, Bezugsgröße und Ausrüstungskategorie verwendet der Artikel?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0003",
+          "startSeconds": 211,
+          "endSeconds": 216,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host gibt einen Artikel oder Leserkommentar wieder.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0004",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Frankreichs Polizei verfügt über ein weltweit einzigartiges Maß an Erfahrung mit Unruhen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Presseschau fehlt an dieser Stelle eine messbare Vergleichsgröße.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Auf welche historische Zeitspanne und welche vergleichbaren Behörden bezieht sich der Artikel?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0004",
+          "startSeconds": 214,
+          "endSeconds": 220,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host gibt einen Artikel oder Leserkommentar wieder.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0005",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die französische Regierung konnte sich im Oktober 2026 in der Nationalversammlung auf keine eigene Mehrheit stützen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Host referiert die Diagnose aus einem taz-Beitrag.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Wie war die Sitzverteilung der Regierungsfraktionen am 23. Oktober?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0005",
+          "startSeconds": 264,
+          "endSeconds": 279,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host gibt einen Artikel oder Leserkommentar wieder.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0006",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei den landesweiten Ausschreitungen vom 17. Oktober wurden 1.200 Menschen festgenommen.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die Tagesschau gibt den Stand wieder, den Premierminister Sébastien Lecornu zuerst nannte. Le Parisien dokumentiert die am Folgetag konsolidierte Bilanz des Innenministeriums mit 2.397 Festnahmen. Die Zahl 1.200 ist als damalige Meldung nachvollziehbar. Bei Veröffentlichung des Videos am 23. Oktober war bereits ein neuerer Stand berichtet worden.",
+      "shortReason": "1.200 war ein Zwischenstand. Die am Folgetag gemeldete Bilanz lag bei 2.397 Festnahmen.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0006",
+          "startSeconds": 342,
+          "endSeconds": 362,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host gibt einen Artikel oder Leserkommentar wieder.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0007",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei den Protesten am 17. Oktober kam es zu Plünderungen und Brandstiftungen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Associated Press dokumentierte entsprechende Vorfälle aus mehreren Städten vor Ort. Die Polizeipräfektur beschreibt in ihrem späteren Rückblick ebenfalls Brandstiftungen und Plünderungen im Zusammenhang mit der Mobilisierung.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S011",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0007",
+          "startSeconds": 343,
+          "endSeconds": 361,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host gibt einen Artikel oder Leserkommentar wieder.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0008",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei den Ausschreitungen wurde das historische Rathaus von Limoges in Brand gesetzt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Tagesschau nennt Limoges und beschreibt den Brand des Rathauses. Associated Press berichtet nach Angaben des Innenministers ebenfalls, dass das Rathaus in Limoges in Brand gesetzt wurde.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0008",
+          "startSeconds": 353,
+          "endSeconds": 360,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host gibt einen Artikel oder Leserkommentar wieder.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0009",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Apollo News beziffert den Anteil erwachsener Männer unter den Festgenommenen mit rund 90 Prozent.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Im Artikel gilt die Angabe von rund 90 Prozent für das Alter. Der Text bezeichnet die Erwachsenen zusätzlich mehrheitlich als männlich und weist keinen gemeinsamen Prozentsatz für Alter und Geschlecht aus. Ob die Alterszahl selbst amtlich nachvollziehbar ist, ist eine eigene offene Frage.",
+      "shortReason": "Apollo News nennt rund 90 Prozent für das Alter. Der Artikel nennt keinen gemeinsamen Anteil für Alter und Geschlecht.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0009",
+          "startSeconds": 406,
+          "endSeconds": 435,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0010",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Rund neun von zehn am 17. Oktober festgenommenen Personen waren erwachsen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Apollo News nennt den Wert. Die gelesene Meldung über den konsolidierten Stand enthält lediglich die Gesamtzahl der Festnahmen.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Ist die Altersaufteilung in einem amtlichen Bericht mit dem Nenner 2.397 öffentlich dokumentiert?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0010",
+          "startSeconds": 411,
+          "endSeconds": 436,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host gibt einen Artikel oder Leserkommentar wieder.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0011",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "An den Ausschreitungen vom 17. Oktober waren keine Schülerinnen oder Schüler beteiligt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Host zitiert und verspottet eine pauschale Zuschreibung. Ein Altersanteil unter Festgenommenen lässt den Schulstatus offen.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Gibt es belastbare Fall- oder Verfahrensdaten zum Schulstatus festgenommener Personen am 17. Oktober?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0011",
+          "startSeconds": 374,
+          "endSeconds": 425,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host gibt einen Artikel oder Leserkommentar wieder.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0012",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Linksextreme und Personen mit Einwanderungsgeschichte stellten die Hauptgruppen der Gewalttäter.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Apollo News beruft sich auf Einschätzungen aus Polizeikreisen. Die abgerufene Bilanz liefert keine nach Wohnort, Herkunft und politischer Zugehörigkeit aufgeschlüsselte Grundgesamtheit.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Welche Daten oder Fallanalysen tragen die behaupteten Mehrheiten für diesen konkreten Tag?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0012",
+          "startSeconds": 374,
+          "endSeconds": 425,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host gibt einen Artikel oder Leserkommentar wieder.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0013",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Am 17. Oktober wurden Hunderte Angehörige der Polizei verletzt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Le Parisien dokumentiert unter Berufung auf das Innenministerium in der am 18. Oktober konsolidierten Bilanz 997 verletzte Angehörige der Sicherheitskräfte einschließlich Polizei und Gendarmerie. Damit ist die Größenordnung für diese Gruppe belegt.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0013",
+          "startSeconds": 444,
+          "endSeconds": 450,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host gibt einen Artikel oder Leserkommentar wieder.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0014",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Personen, die randalierten, kamen überwiegend aus sozial benachteiligten Vierteln.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Host schließt von den im Beitrag angesprochenen Vierteln auf die Herkunft der beteiligten Personen. Gebietsstatistiken können die Herkunft einzelner Beteiligter nicht zeigen.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S005",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Welche belastbare Erhebung erfasst Wohnorte tatsächlicher Tatverdächtiger am 17. Oktober?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0014",
+          "startSeconds": 467,
+          "endSeconds": 495,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0015",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der französischen Protestwelle im Oktober gingen schulbezogene Proteste voraus.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das Justizministerium dokumentiert bereits am 18. September eine Blockade in Créteil, die Ausbreitung in der Region und ab Ende September Mobilisierungen in weiteren Landesteilen. Der parlamentarische Bericht trennt diese erste Phase von den späteren Protesten.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0015",
+          "startSeconds": 552,
+          "endSeconds": 563,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0016",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der öffentlich-rechtliche Rundfunk behandelte die Ausschreitungen ausschließlich als Schülerproteste.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Die Tagesschau veröffentlichte einen eigenen Bericht über die schweren Ausschreitungen. Er behandelt unter anderem Plünderungen und Brandstiftungen und gibt die damalige Zahl der Festnahmen an. Das widerlegt das absolute Ausschließlichkeitsargument.",
+      "shortReason": "Die Tagesschau berichtete ausdrücklich über Plünderungen, Brandstiftungen und Festnahmen.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0016",
+          "startSeconds": 518,
+          "endSeconds": 550,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host gibt einen Artikel oder Leserkommentar wieder.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0017",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die Ausschreitungen als europäischen Bürgerkrieg zu bezeichnen ist überzogen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Der Host weist die zugespitzte Charakterisierung der besprochenen Medien spöttisch zurück. Die Bewertung betrifft die sprachliche Einordnung.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S012",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0017",
+          "startSeconds": 675,
+          "endSeconds": 716,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Zurückweisung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der Host reagiert ablehnend auf die zitierte Zuschreibung.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0018",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Fehlende Lehrkräfte und der Zustand von Schulgebäuden waren Anliegen der französischen Schülerproteste.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Untersuchung des Justizministeriums nennt mehr Personal, Ersatz für ausfallende Lehrkräfte und bessere Schulgebäude ausdrücklich als zentrale Forderungen. Sie überprüft keine einzelnen Aussagen aus dem im Video verwendeten Einspieler.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0018",
+          "startSeconds": 758,
+          "endSeconds": 815,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0019",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Host beobachtet in Bonner Schulen schlecht gepflegte Sanitäranlagen und reinigt selbst regelmäßig eine Sporthalle.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Host berichtet von eigenen Erfahrungen. Die konkrete Einrichtung, deren Reinigung und der Umfang der Arbeit lassen sich aus dem Text nicht verifizieren.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche überprüfbaren Angaben zur Einrichtung und zu den tatsächlich gereinigten Flächen sind verfügbar?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0019",
+          "startSeconds": 827,
+          "endSeconds": 862,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0020",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Kosten angemessener Schulreinigung wären im Vergleich zu Deutschlands Rüstungsausgaben sehr gering.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Vergleich nennt weder Gebiet und Zeitraum noch einen konkreten Reinigungsstandard.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Auf welche Schulen, kommunalen Kosten und welche Position des Bundeshaushalts bezieht sich der Vergleich?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0020",
+          "startSeconds": 862,
+          "endSeconds": 872,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0021",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die meisten beteiligten Schülerinnen und Schüler kamen aus sozial benachteiligten Quartieren.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Host spricht von einem Mehrheitsverhältnis. Die zeitliche Ausbreitung über verschiedene Schulstandorte beantwortet die Frage der Wohnorte nicht.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Gibt es eine repräsentative Erhebung zum sozioökonomischen Umfeld der teilnehmenden Schülerschaft?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0021",
+          "startSeconds": 900,
+          "endSeconds": 912,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0022",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Von den Plünderungen waren vielfach Geschäfte von Menschen mit Einwanderungsgeschichte betroffen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Berichte dokumentieren den Umfang der Plünderungen. Eine Verteilung der Schäden nach persönlicher Herkunft der betroffenen Geschäftsleute ist damit nicht belegt.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S011",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Gibt es belastbare Daten zur Betroffenheit nach Geschäftsinhaber und Standort?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0022",
+          "startSeconds": 931,
+          "endSeconds": 944,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0023",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Frankreich förderte nach dem Zweiten Weltkrieg den Zuzug von Arbeitskräften zur Deckung des Personalbedarfs.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das französische Migrationsmuseum dokumentiert die Nachfrage nach Arbeitskräften, Programme und Einstellungen in der Nachkriegszeit. Die organisierte Anwerbung war ein Weg unter mehreren. Die Quelle beschreibt auch Zuzüge außerhalb organisierter Kanäle.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0023",
+          "startSeconds": 979,
+          "endSeconds": 997,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0024",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das französische Kolonialreich erstreckte sich vom 16. Jahrhundert bis in die 1960er Jahre über Teile Afrikas, der Karibik und Indiens.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Aussage fasst unterschiedliche Gebiete und Epochen in einem Zeitraum zusammen.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        },
+        {
+          "sourceId": "S007",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Wann begann und endete die französische Herrschaft in den jeweils gemeinten Gebieten und welche Gebiete blieben danach französisch?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0024",
+          "startSeconds": 1017,
+          "endSeconds": 1043,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0025",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die französische Eroberung Algeriens begann 1830.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der französische Bericht zur Staatsangehörigkeit setzt bei der Kapitulation von Algier 1830 an. Das Datum bezeichnet den Beginn der Eroberung. Die weitere Ausdehnung der Herrschaft verlief über längere Zeit.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0025",
+          "startSeconds": 1043,
+          "endSeconds": 1067,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0026",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Teile Algeriens wurden 1848 als französische Départements organisiert und gehörten bis zur Unabhängigkeit 1962 zu Frankreich.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Datierung von Beginn und Ende dieser Verwaltungsordnung verlangt einen Abgleich mit den Rechtsakten und ihrer territorialen Geltung.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Welche historischen Rechtsakte belegen exakt die Verwaltungsgrenzen und die genannten Jahre?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0026",
+          "startSeconds": 1050,
+          "endSeconds": 1067,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0027",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Muslimische Bewohner Französisch-Algeriens hatten lange nicht dieselben Rechte wie europäische Siedler.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der französische Bericht unterscheidet den lokalen Personenstand vom allgemeinen Zivilstatus. Er beschreibt auch zwei getrennte Wahlkollegien, die selbst nach der Reform von 1944 kein gleiches Stimmgewicht herstellten.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0027",
+          "startSeconds": 1067,
+          "endSeconds": 1075,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0028",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Tunesien wurde 1881 französisches Protektorat und 1956 unabhängig.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das Archiv des französischen Außenministeriums datiert das französische Protektorat auf 1881 bis 1956.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0028",
+          "startSeconds": 1075,
+          "endSeconds": 1095,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0029",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das französische Protektorat in Marokko bestand von 1912 bis 1956.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das französische diplomatische Archiv datiert das Protektorat auf 1912 bis 1956. Die Aussage bezieht sich auf den französisch verwalteten Teil.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0029",
+          "startSeconds": 1078,
+          "endSeconds": 1095,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0030",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Aus französisch beherrschten Gebieten in Afrika gingen rund zwanzig heutige Staaten hervor, vierzehn wurden 1960 unabhängig.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Gesamtzahl hängt davon ab, wie Schutzgebiete, Treuhandgebiete und unterschiedliche Zeitpunkte der Unabhängigkeit gezählt werden.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Gebiete umfasst die Zwanzigerzahl und welche vierzehn Unabhängigkeiten belegt die Chronologie?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0030",
+          "startSeconds": 1085,
+          "endSeconds": 1117,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0031",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Guadeloupe und Martinique wurden 1946 französische Départements.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Artikel 1 des französischen Gesetzes vom 19. März 1946 führt beide Gebiete ausdrücklich als neue französische Départements auf.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0031",
+          "startSeconds": 1118,
+          "endSeconds": 1139,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0032",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die französische Kolonisierung Guadeloupes und Martiniques begann 1635.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Das Départementalisierungsgesetz beantwortet nur die spätere Statusänderung.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Welche zeitgenössischen oder archivischen Belege datieren die französische Besiedlung beider Inseln?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0032",
+          "startSeconds": 1118,
+          "endSeconds": 1127,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0033",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das 1963 gegründete BUMIDOM organisierte den Umzug von Menschen aus französischen Überseegebieten ins französische Mutterland.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das französische Migrationsmuseum datiert die Gründung auf 1963 und beschreibt die organisierte Ansiedlung in der Metropole sowie die Vermittlung in bestimmte Wirtschaftsbereiche.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0033",
+          "startSeconds": 1160,
+          "endSeconds": 1176,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0034",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das BUMIDOM finanzierte die Reisen und vermittelte Arbeitsplätze.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Museumsdarstellung bestätigt die Organisation der Migration und die Einbindung in Arbeitsbereiche. Die Finanzierung und die genauen Vermittlungsverfahren bleiben gesondert zu prüfen.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Welche Aufnahmeregeln oder Archivunterlagen belegen Anträge, Reisekosten und Hilfe bei der Arbeitsvermittlung?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0034",
+          "startSeconds": 1165,
+          "endSeconds": 1177,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0035",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Frankreich setzte 1974 die Anwerbung ausländischer Arbeitskräfte aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das Migrationsmuseum dokumentiert den vorläufigen Beschluss vom 3. Juli 1974. Er richtete sich gegen neue Arbeitsmigration. Die Regelung beantwortet nicht pauschal die Lage bereits ansässiger Personen.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0035",
+          "startSeconds": 1176,
+          "endSeconds": 1191,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0036",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Wer nach Ende der Anwerbung bereits in Frankreich lebte, blieb, und Angehörige konnten nachziehen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Aufenthaltsentwicklung der Betroffenen und das zeitweilige Aussetzen der Familienmigration sind eigene Fragen.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Welche Gruppen blieben oder gingen, und wann wurden die Regeln des Familiennachzugs wieder geöffnet?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0036",
+          "startSeconds": 1190,
+          "endSeconds": 1207,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0037",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die französische Komödie Monsieur Claude und seine Töchter stammt aus dem Jahr 2014.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Titel und das Erscheinungsjahr werden zur Einordnung eines Filmausschnitts genannt.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welches Erscheinungsjahr nennt der französische Originalverleih?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0037",
+          "startSeconds": 1262,
+          "endSeconds": 1274,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0038",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Auch die Bundesrepublik warb ausländische Arbeitskräfte an und behandelte den Aufenthalt ursprünglich als vorübergehend.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Vergleich betrifft die westdeutsche Anwerbepolitik und die zunächst vorausgesetzte Aufenthaltsdauer.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Anwerbeabkommen und damaligen Regeln zur Verweildauer stützen die Darstellung?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0038",
+          "startSeconds": 1346,
+          "endSeconds": 1378,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0039",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Verbindliche Wohnquoten seien das einzige Mittel gegen die räumliche Konzentration von Gruppen derselben Herkunft.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Neben dem politischen Vorschlag enthält die Aussage eine überprüfbare Behauptung über die Wirkung und Alternativlosigkeit des Mittels.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Vergleichsstudien prüfen die Wirkung von Quoten und freiwilligen oder strukturellen Alternativen?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0039",
+          "startSeconds": 1491,
+          "endSeconds": 1542,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0040",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Mehr Mittel für Integration und verbindliche Wohnquoten seien politisch gerechtfertigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Der Host formuliert politische Präferenzen und wägt diese gegen Einschränkungen der Wohnortwahl ab.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0040",
+          "startSeconds": 1480,
+          "endSeconds": 1583,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0041",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ohne Integrationspolitik verfestigen sich getrennte Milieus und die Mehrheit wählt radikalere Angebote.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Kette verbindet Wohnumfeld, Integration und späteres Wahlverhalten.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Daten erlauben Aussagen über die behaupteten Wirkungszusammenhänge über mehrere Generationen?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0041",
+          "startSeconds": 1576,
+          "endSeconds": 1596,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0042",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Stand der privaten Unterstützung, einzelne Zahlungen und die Automatisierung der Auswertung entsprechen den Angaben des Kanals.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Abschnitt enthält Selbstauskünfte und private Zahlungen. Die Prüfung einzelner Angaben erfordert jeweils eigene Unterlagen.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Angaben sind mit öffentlichen Kanalveröffentlichungen überprüfbar und welche beruhen allein auf Privatdaten?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0042",
+          "startSeconds": 1617,
+          "endSeconds": 1850,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0043",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Sendung erschien in Kalenderwoche 43.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die ausgelesenen YouTube-Metadaten datieren die Veröffentlichung auf Freitag, den 23. Oktober 2026. Dieser Tag liegt in der ISO-Kalenderwoche 43.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S014",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0043",
+          "startSeconds": 1682,
+          "endSeconds": 1688,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0044",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach dem Sommer sind Klimageräte deutlich teurer geworden und die vorgesehene Technik kostet ungefähr 6.000 bis 8.000 Euro.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Zeitreihe der Marktpreise und die Schätzung für die konkrete Gerätekombination brauchen unterschiedliche Belege.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche konkreten Modelle und welchen Preisvergleich nutzt der Host, und gibt es einen vergleichbaren Preisstand vor dem Sommer?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0044",
+          "startSeconds": 1965,
+          "endSeconds": 1991,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0045",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei der Installation einer Split-Anlage sind Arbeiten am Kältemittel und bestimmte elektrische Anschlüsse Fachkräften vorbehalten.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Anforderungen hängen vom Gerät, vom Kältemittel und von der Art des Anschlusses ab.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Zertifikate und Anschlussregeln gelten für die besprochene Anlage in Deutschland am 23. Oktober 2026?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0045",
+          "startSeconds": 2047,
+          "endSeconds": 2059,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0046",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine Split-Anlage mit Eingriff in gemeinschaftliches Eigentum erfordert einen Gestattungsbeschluss der Eigentümergemeinschaft.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Bundesgerichtshof behandelt die Fassadendurchbohrung für ein Klima-Splitgerät als bauliche Veränderung des Gemeinschaftseigentums und setzt für die Gestattung einen Beschluss voraus.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0046",
+          "startSeconds": 2113,
+          "endSeconds": 2120,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0047",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein Urteil aus 2026 erlaubt den Einbau von Split-Klimaanlagen generell und die Eigentümergemeinschaft kann ihn nicht mehr verweigern.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Das einschlägige Urteil V ZR 162/25 stammt vom Bundesgerichtshof. Es erkennt einen grundsätzlichen Anspruch auf Gestattung für ein Splitgerät am eigenen Balkon an. Der Anspruch hängt unter anderem davon ab, ob andere Eigentümer über das unvermeidliche Maß hinaus beeinträchtigt werden. Die Entscheidung erlaubt keine eigenmächtige Installation und entscheidet den im Video besprochenen Fall mit mehreren Geräten nicht.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Bezug und Reichweite stehen in der Begründung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0047",
+          "startSeconds": 2120,
+          "endSeconds": 2136,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Das BGH-Urteil betrifft einen bedingten Gestattungsanspruch für ein Gerät am eigenen Balkon."
+    },
+    {
+      "id": "smBg5wh2nHw-A0048",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Beide beteiligten Kanäle lagen im Oktober jeweils knapp unter 50.000 Abonnements.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Angaben betreffen einen vergangenen Stand zweier Kanäle. Die Addition von Abonnements zeigt keine Zahl unterschiedlicher Personen.",
+      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Gibt es einen zeitnahen archivierten Stand beider Kanalzähler?"
+      ],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0048",
+          "startSeconds": 2178,
+          "endSeconds": 2216,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "smBg5wh2nHw-A0049",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Der Host kündigt einen vom Erreichen eines Abonnentenziels abhängigen Livestream und ein eigenes Browser-Spiel an.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Es handelt sich um Vorhaben und Erwartungen zur künftigen Veröffentlichung. Ein Datum für das Spiel bleibt offen.",
+      "assessmentBasis": "Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt erfasster Prüfgegenstand.",
+        "assessmentChange": "Erstprüfung für dieses Video."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0049",
+          "startSeconds": 2216,
+          "endSeconds": 2353,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Zeitbereich aus dem Untertitelverlauf.",
+          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    }
+  ]
+}

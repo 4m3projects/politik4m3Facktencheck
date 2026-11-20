@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "videoId": "smBg5wh2nHw",
+  "basis": "Zuordnung nach Fundstellen der vorläufigen Teilprüfung und den Themen der Moderation.",
+  "topics": [
+    {
+      "topic": "frankreich/proteste",
+      "relevance": "Schwerpunkt",
+      "basis": "Zuordnung aus den erfassten Aussagen im ersten Arbeitsstand.",
+      "segments": []
+    },
+    {
+      "topic": "frankreich",
+      "relevance": "Schwerpunkt",
+      "basis": "Zuordnung aus den erfassten Aussagen im ersten Arbeitsstand.",
+      "segments": []
+    },
+    {
+      "topic": "frankreich/politik",
+      "relevance": "Erwähnt",
+      "basis": "Zuordnung aus den erfassten Aussagen im ersten Arbeitsstand.",
+      "segments": []
+    },
+    {
+      "topic": "extremismus",
+      "relevance": "Erwähnt",
+      "basis": "Zuordnung aus den erfassten Aussagen im ersten Arbeitsstand.",
+      "segments": []
+    },
+    {
+      "topic": "frankreich/vorstaedte",
+      "relevance": "Behandelt",
+      "basis": "Zuordnung aus den erfassten Aussagen im ersten Arbeitsstand.",
+      "segments": []
+    },
+    {
+      "topic": "staatsfinanzen/ausgaben",
+      "relevance": "Erwähnt",
+      "basis": "Zuordnung aus den erfassten Aussagen im ersten Arbeitsstand.",
+      "segments": []
+    },
+    {
+      "topic": "migration",
+      "relevance": "Schwerpunkt",
+      "basis": "Zuordnung aus den erfassten Aussagen im ersten Arbeitsstand.",
+      "segments": []
+    },
+    {
+      "topic": "wirtschaft",
+      "relevance": "Erwähnt",
+      "basis": "Zuordnung aus den erfassten Aussagen im ersten Arbeitsstand.",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "smBg5wh2nHw-A0001",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0002",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0003",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0004",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0005",
+      "topics": [
+        "frankreich/politik",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0006",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0007",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0008",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0009",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0010",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0011",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0012",
+      "topics": [
+        "extremismus",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0013",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0014",
+      "topics": [
+        "frankreich/vorstaedte",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0015",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0016",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0017",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0018",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0020",
+      "topics": [
+        "staatsfinanzen/ausgaben",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0021",
+      "topics": [
+        "frankreich/vorstaedte",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0022",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0023",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0024",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0025",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0026",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0027",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0028",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0029",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0030",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0031",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0032",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0033",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0034",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0035",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0036",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0038",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0039",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0040",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0041",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0044",
+      "topics": [
+        "wirtschaft"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "Erstzuordnung für die Teilprüfung."
+    }
+  ]
+}
