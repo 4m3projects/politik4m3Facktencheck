@@ -67,4 +67,4 @@ Ein Lied darf zuspitzen, übertreiben, in Bildern sprechen, Rollen einnehmen und
 
 ## Tests
 
-- `node --test site/relations-test.js` (Format `musikvideo`, `isMusic`), `site/ampel-test.js` (Mindestgrundlage für Musikvideos).
+- `node --test site/relations-test.js` (Format `musikvideo`, `isMusic`), `site/faktenindex-test.js` (Mindestgrundlage für Musikvideos).
