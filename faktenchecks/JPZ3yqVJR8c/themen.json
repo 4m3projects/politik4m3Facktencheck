@@ -1,0 +1,919 @@
+{
+  "schemaVersion": 1,
+  "videoId": "JPZ3yqVJR8c",
+  "basis": "Redaktionelle Zuordnung durch Codex anhand der erfassten Beschreibungen und Fundstellen. Private Zahlungsangaben und die beiläufige Katzenstatistik erhalten kein künstliches Sachthema; keine automatische Wortzuordnung. Die vorhandenen Themen anderer Videos benötigen durch diese Ergänzung keine Umstufung.",
+  "topics": [
+    {
+      "topic": "ki",
+      "relevance": "Schwerpunkt",
+      "basis": "Der Vortrag behandelt Fähigkeiten und Folgen von KI durch fast alle Sachabschnitte.",
+      "segments": [
+        {
+          "startSeconds": 86,
+          "endSeconds": 3552,
+          "note": "Automatisierung, Leistungsentwicklung und gesellschaftliche Folgen."
+        }
+      ]
+    },
+    {
+      "topic": "energie",
+      "relevance": "Behandelt",
+      "basis": "Strombedarf, direkte und indirekte Wasserwirkungen sowie Rebound werden in eigenen Abschnitten erörtert.",
+      "segments": [
+        {
+          "startSeconds": 1814,
+          "endSeconds": 2247,
+          "note": "Energie- und Wasserbedarf sowie Effizienz und Rebound."
+        }
+      ]
+    },
+    {
+      "topic": "wirtschaft",
+      "relevance": "Schwerpunkt",
+      "basis": "Mehrere Abschnitte behandeln Unternehmensnutzung, Beschäftigung, Nachfrage und Verteilung.",
+      "segments": [
+        {
+          "startSeconds": 1194,
+          "endSeconds": 1814,
+          "note": "Unternehmen und Arbeitsmarkt."
+        },
+        {
+          "startSeconds": 3099,
+          "endSeconds": 3552,
+          "note": "Marktkonzentration und gesellschaftliche Verteilung."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "JPZ3yqVJR8c-A0001",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0002",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0003",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0004",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0005",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0006",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0007",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0008",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0009",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0010",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0011",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0012",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0013",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0014",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0015",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0016",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0017",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0018",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0019",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0020",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0021",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0022",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0023",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0024",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0025",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0026",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0027",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0028",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0029",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0030",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0031",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0032",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0033",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0034",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0035",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0036",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0037",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0038",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0039",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0040",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0041",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0042",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0043",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0044",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0045",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0046",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0047",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0048",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0049",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0050",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0051",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0052",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0053",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0054",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0055",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0056",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0057",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0058",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0059",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0060",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0061",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0062",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0063",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0064",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0065",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0066",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0067",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0068",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0069",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0070",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0071",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0072",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0073",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0074",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0075",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0076",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0077",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0078",
+      "topics": [
+        "ki",
+        "energie",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0079",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0080",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0081",
+      "topics": [
+        "ki",
+        "energie",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0082",
+      "topics": [
+        "ki",
+        "energie",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0083",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0084",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0085",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0086",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0087",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0088",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0089",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0090",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0091",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0092",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0093",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0094",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0095",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0096",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0097",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0098",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0099",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0100",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0101",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0102",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0103",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0104",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0105",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0106",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0107",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0108",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0109",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0110",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0111",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0112",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0113",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0114",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0115",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0116",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0117",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0118",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0119",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0120",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0121",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0122",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0123",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0124",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0125",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0126",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0127",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0128",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0135",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0136",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0138",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0139",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0140",
+      "topics": [
+        "ki"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "Erstzuordnung für die Veröffentlichung der bestehenden Teilprüfung; Bewertungen unverändert."
+    }
+  ]
+}

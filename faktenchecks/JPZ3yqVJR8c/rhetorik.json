@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "videoId": "JPZ3yqVJR8c",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-20",
+    "by": "Codex",
+    "basis": "Vollständige Lektüre deutscher automatischer Originaluntertitel und die bereits dokumentierten vier Bildstichproben im Originalplayer; keine neue audiovisuelle Kontrolle bei der Veröffentlichung.",
+    "coverage": "Textgrundlage über die verfügbare Länge; Originalbilder bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21. Keine vollständige Darstellungsprüfung.",
+    "limits": [
+      "Originalton wurde nicht gehört; Stimmführung und Sprecherwechsel bleiben unkontrolliert.",
+      "Bilder, Einblendungen und Schnitt wurden nicht über die gesamte Laufzeit kontrolliert.",
+      "Die letzten rund drei Sekunden nach dem Ende der Untertitel bleiben ungeprüft."
+    ],
+    "history": [
+      {
+        "date": "2026-11-20",
+        "by": "Codex",
+        "change": "Bereits dokumentierte Abdeckungsgrenzen für die Veröffentlichung als teilweise geprüfte Darstellung übernommen; keine vollständige Kontrolle behauptet."
+      }
+    ]
+  },
+  "annotations": []
+}
