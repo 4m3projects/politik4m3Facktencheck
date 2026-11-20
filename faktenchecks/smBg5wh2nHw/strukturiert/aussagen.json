@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Automatische deutsche Originaluntertitel und die jeweils genannten Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Die Nachprüfung trennt die Wiedergabe von Medienartikeln von der unabhängigen Überprüfung ihrer Zahlen und Zuschreibungen.",
-    "coverageNote": "Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden eine Teilprüfung. Von 60 erfassten Prüfpunkten bleiben vier mangels konkreter oder zeitnaher Angaben offen. Die Einzelerfassung des gesamten Videos und Hör- oder Sichtkontrolle sind nicht abgeschlossen."
+    "researchNote": "Grundlage sind automatische deutsche Originaluntertitel und die jeweils angegebenen Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Eine Hör- oder Sichtkontrolle fand nicht statt. Pressewiedergaben und tatsächliche Sachverhalte wurden gesondert geprüft.",
+    "coverageNote": "Thematische Übersicht von 00:00:00 bis 00:39:32. Automatische Untertitel liegen von 00:00:00 bis 00:39:28 vor. Die Prüfung der 60 erfassten Punkte ist abgeschlossen. Davon sind zwei ohne öffentliche Prüfgrundlage. Die Einzelpunkte ergeben einen Teilbestand. Die thematische Übersicht umfasst die gesamte Laufzeit."
   },
   "legacyPoints": [],
   "sources": [
@@ -509,6 +509,62 @@
       "url": "https://mediendienst-integration.de/fileadmin/user_upload/Expertisen/Mediendienst_Integration_Expertise_Kriminalitaet_und_Migration_in_deutschen_Medien_Thomas_Hestermann.pdf",
       "details": "Thomas Hestermann, Mediendienst Integration.",
       "accessBasis": "Auswertung zur Nennung der Herkunft in deutschen Gewaltberichten gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S063",
+      "title": "Sportstätten und Hallenreinigung",
+      "url": "https://www.bonn.de/bonn-erleben/aktiv-und-unterwegs/sportstaetten.php?loc=de",
+      "details": "Bundesstadt Bonn, Hinweis zur Hallenreinigung in den Ferien.",
+      "accessBasis": "Veröffentlichte Angaben zur städtischen Hallenreinigung gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S064",
+      "title": "Sanierung und Ausbau an der Paul-Gerhardt-Schule",
+      "url": "https://www.bonn.de/pressemitteilungen/maerz-2026/sanierung-und-ausbau-an-der-paul-gerhardt-schule.php?loc=de",
+      "details": "Bundesstadt Bonn, 30.03.2026.",
+      "accessBasis": "Städtische Darstellung der Gebäudesanierung in Beuel gelesen. Das Video nennt diese Schule nicht.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S065",
+      "title": "SinansWoche: historische YouTube-Kanalzahlen",
+      "url": "https://socialblade.com/youtube/handle/sinanswoche",
+      "details": "Social Blade, öffentlich sichtbare Tageswerte vom September 2026.",
+      "accessBasis": "Historische Tabelle zu YouTube-Abonnements für SinansWoche gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S066",
+      "title": "SinansWoche: Subscribers, Stats & Videos",
+      "url": "https://www.alaxia.site/sinanswoche/",
+      "details": "Alaxia, Kanalprofil ohne eindeutig ausgewiesenen Stichtag der Zahl.",
+      "accessBasis": "Abonnentenangabe im öffentlichen Kanalprofil gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S067",
+      "title": "SinansWoche: Streamprotokolle",
+      "url": "https://www.twitchmetrics.net/c/531604005-sinanswoche/streams",
+      "details": "TwitchMetrics, öffentliche Protokolle gemeinsamer Streams.",
+      "accessBasis": "Streamtitel gelesen. Die Liste deckt Twitch ab und nennt keinen historischen YouTube-Abonnentenstand des Co-Hosts.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S068",
+      "title": "Klimageräte im Test",
+      "url": "https://www.test.de/Klimageraete-im-Test-4722766-0",
+      "details": "Stiftung Warentest, 27.05.2026.",
+      "accessBasis": "Öffentlich einsehbare Zusammenfassung mit dem Preis eines Multi-Split-Beispiels gelesen.",
+      "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S069",
+      "title": "Preisliste Klimaanlagen 2025",
+      "url": "https://downloads.cooldown-vivax.de/katalog_preisliste/Preisliste%20Klimaanlagen%202025.pdf",
+      "details": "Vivax / Cooldown, Hersteller- und Vertriebsangaben, 2025.",
+      "accessBasis": "Preislisten für Außen- und Innengeräte gelesen. Nur Beispielpreise eines Anbieters.",
       "accessedOn": "2026-11-20"
     }
   ],
@@ -1617,18 +1673,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Host beobachtet in Bonner Schulen schlecht gepflegte Sanitäranlagen und reinigt selbst regelmäßig eine Sporthalle.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
-      "reason": "Noch nicht geprüft – Die geschilderte Hallenreinigung und der Zustand der vom Host besuchten Sanitäranlagen sind persönliche Beobachtungen. Allgemeine Haushalts- oder Gebäudedaten dokumentieren diese konkreten Vorgänge nicht.",
-      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "reason": "Nicht überprüfbar – Der Host schildert eigene Beobachtungen und eine regelmäßige Tätigkeit. Die Schulgebäude sind nicht eindeutig benannt. Die Bonner Angaben zu Ferienreinigung und Sanierung betreffen städtische Abläufe und einzelne Bauprojekte. Sie können weder den Zustand der vom Host besuchten Anlagen noch seine private Mithilfe feststellen.",
+      "assessmentBasis": "Automatische deutsche Originaluntertitel zum Inhalt. Die ergänzende Prüfung und ihre Reichweite sind dokumentiert.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt erfasster Prüfgegenstand.",
-        "assessmentChange": "Erstprüfung für dieses Video."
+        "assessmentChange": "20.11.2026, Codex: Vorher Offen, jetzt Nicht überprüfbar nach abschließender Prüfung der öffentlichen Grundlage."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S063",
+          "note": "Allgemeine städtische Angabe. Kein Beleg für die konkrete Erfahrung."
+        },
+        {
+          "sourceId": "S064",
+          "note": "Kontrollquelle zur Reichweite öffentlich dokumentierter Arbeiten. Keine Zuordnung zum Video."
+        }
+      ],
       "openQuestions": [
-        "Gibt es eine öffentliche Stellungnahme zur konkret gemeinten Einrichtung oder zur beschriebenen Tätigkeit?"
+        "Für einen späteren Abgleich wären die eindeutig gemeinten Gebäude und zeitnahe unabhängige Angaben zu den geschilderten Vorfällen nötig."
       ],
       "occurrences": [
         {
@@ -1649,7 +1714,33 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Derzeit nicht überprüfbar",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Öffentliche Bonner Hinweise zur Reinigung und Nutzung von Sportstätten geprüft.",
+            "sourceIds": [
+              "S063"
+            ],
+            "result": "Die Stadt beschreibt die Ferienreinigung. Sie dokumentiert keine persönliche Sonntagsreinigung."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Gezielt nach veröffentlichten Sanierungsangaben zu Beueler Schulen gesucht.",
+            "sourceIds": [
+              "S064"
+            ],
+            "result": "Ein benanntes Einzelprojekt gibt keinen Hinweis auf die im Video gemeinte Einrichtung oder Beobachtung."
+          }
+        ],
+        "missingInformation": "Eindeutige Zuordnung der Gebäude und unabhängige Dokumentation der konkreten Beobachtungen.",
+        "conflicts": null
+      }
     },
     {
       "id": "smBg5wh2nHw-A0020",
@@ -2734,18 +2825,18 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Stand der privaten Unterstützung, einzelne Zahlungen und die Automatisierung der Auswertung entsprechen den Angaben des Kanals.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
-      "reason": "Noch nicht geprüft – Die aufgelisteten Zahlungen und internen Arbeitsabläufe stammen aus der Selbstauskunft des Kanals. Ohne veröffentlichte Belege bleiben Beträge und Abläufe einzeln nicht prüfbar.",
-      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "reason": "Nicht überprüfbar – Die einzelnen Unterstützungstransaktionen und der interne Einsatz der Software beruhen auf der Selbstauskunft des Kanals. Die Untertitel geben diese Schilderung wieder. Zahlungsunterlagen und eine unabhängige Dokumentation der internen Arbeitsabläufe sind dafür nicht öffentlich zugänglich.",
+      "assessmentBasis": "Automatische deutsche Originaluntertitel zum Inhalt. Die ergänzende Prüfung und ihre Reichweite sind dokumentiert.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt erfasster Prüfgegenstand.",
-        "assessmentChange": "Erstprüfung für dieses Video."
+        "assessmentChange": "20.11.2026, Codex: Vorher Offen, jetzt Nicht überprüfbar nach abschließender Prüfung der öffentlichen Grundlage."
       },
       "sourceRefs": [],
       "openQuestions": [
-        "Gibt es eine eigene öffentliche Dokumentation des Kanals zu diesen Zahlen und zur beschriebenen Software?"
+        "Eine erneute Prüfung wäre bei freiwillig öffentlich dokumentierten Nachweisen möglich."
       ],
       "occurrences": [
         {
@@ -2766,7 +2857,29 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Derzeit nicht überprüfbar",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Im Untertiteltext die einzelnen Angaben und ihre Herkunft geprüft.",
+            "sourceIds": [],
+            "result": "Zahlungen und Arbeitsabläufe werden vom Host selbst beschrieben."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Im öffentlichen Web nach einer zuordenbaren Abrechnung oder technischen Dokumentation der genannten Abläufe gesucht.",
+            "sourceIds": [],
+            "result": "Es ergab sich kein öffentliches Dokument, das diese einzelnen Transaktionen und den internen Einsatz der Software prüfen ließe."
+          }
+        ],
+        "missingInformation": "Freiwillig veröffentlichte, hinreichend dokumentierte Nachweise zu den konkreten Transaktionen und Abläufen.",
+        "conflicts": null
+      }
     },
     {
       "id": "smBg5wh2nHw-A0043",
@@ -3001,18 +3114,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Beide beteiligten Kanäle lagen im Oktober jeweils knapp unter 50.000 Abonnements.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Die Aussage betrifft einen historischen Stand der Abonnentenzähler. Heutige Kanalzahlen erlauben keine Rückrechnung.",
-      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Social Blade zeigt für SinansWoche im September 2026 etwa 49.100 Abonnements. Alaxia nennt rund 49.200, weist für diese Zahl aber keinen hinreichend klaren Stichtag aus. Die öffentlich einsehbaren Protokolle gemeinsamer Twitch-Streams liefern keine historische YouTube-Abonnentenzahl des zweiten Kanals. Damit ist die Größenordnung für SinansWoche im Umfeld des Veröffentlichungsdatums plausibel. Die Aussage über beide Kanäle zum selben Zeitpunkt lässt sich daraus nicht ableiten.",
+      "assessmentBasis": "Automatische deutsche Originaluntertitel zum Inhalt. Die ergänzende Prüfung und ihre Reichweite sind dokumentiert.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt erfasster Prüfgegenstand.",
-        "assessmentChange": "Erstprüfung für dieses Video."
+        "assessmentChange": "20.11.2026, Codex: Vorher Offen, jetzt Nicht ausreichend belegbar nach abschließender Prüfung der öffentlichen Grundlage."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S065",
+          "note": "Historischer Teilbefund für SinansWoche."
+        },
+        {
+          "sourceId": "S066",
+          "note": "Vergleichswert ohne eindeutig ausgewiesenen Stichtag."
+        },
+        {
+          "sourceId": "S067",
+          "note": "Belegt gemeinsame Streamtitel und liefert keine YouTube-Abonnentenzahlen."
+        }
+      ],
       "openQuestions": [
-        "Gibt es öffentlich archivierte Kanalstände aus der Woche des 23. Oktober 2026 für beide Kanäle?"
+        "Eine zeitgleich erhaltene öffentliche Statistik beider Kanäle könnte die Angabe prüfen."
       ],
       "occurrences": [
         {
@@ -3033,7 +3159,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Für SinansWoche ist die Größenordnung plausibel. Belastbare YouTube-Zählerstände für beide Kanäle zur Veröffentlichungswoche fehlen.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "In getrennten YouTube-Kanalstatistiken nach datierten Abonnentenständen von SinansWoche gesucht.",
+            "sourceIds": [
+              "S065",
+              "S066"
+            ],
+            "result": "Die Quellen weisen für einen Kanal eine plausible Größenordnung aus, aber keinen gemeinsamen Stichtag."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Veröffentlichte Protokolle der gemeinsamen Auftritte für einen Abgleich mit dem zweiten YouTube-Kanal geprüft.",
+            "sourceIds": [
+              "S067"
+            ],
+            "result": "Die Twitch-Protokolle liefern keine zwei historischen YouTube-Zählerstände."
+          }
+        ],
+        "missingInformation": "Datiert archivierte Abonnentenstände für beide YouTube-Hauptkanäle zur Veröffentlichungswoche.",
+        "conflicts": null
+      }
     },
     {
       "id": "smBg5wh2nHw-A0049",
@@ -3567,18 +3721,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die reine Technik für die im Video beschriebene Anlage würde ungefähr 6.000 bis 8.000 Euro kosten.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Die Schätzung hängt von den Geräten und den konkreten Preisen ab. Die Anzahl der Innengeräte und Außengeräte allein bestimmt keinen Preis.",
-      "assessmentBasis": "Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die Stiftung Warentest nennt 3.930 Euro für ein konkretes Multi-Split-Testgerät mit einem Außenteil für bis zu drei Innenräume. Eine separate Vertriebs-Preisliste zeigt je nach Bauart deutlich unterschiedliche Preise für Außen- und Innengeräte. Beide Vergleichswege machen eine große Preisspanne nachvollziehbar, bilden aber die Kombination mit zwei Außen- und fünf Innengeräten aus dem Video nicht ab. Ohne Gerätebezeichnungen, erforderliche Leistung und den damaligen Preisvergleich lässt sich die genannte Spanne für das Vorhaben weder bestätigen noch widerlegen.",
+      "assessmentBasis": "Automatische deutsche Originaluntertitel zum Inhalt. Die ergänzende Prüfung und ihre Reichweite sind dokumentiert.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt erfasster Prüfgegenstand.",
-        "assessmentChange": "Erstprüfung für dieses Video."
+        "assessmentChange": "20.11.2026, Codex: Vorher Offen, jetzt Nicht ausreichend belegbar nach abschließender Prüfung der öffentlichen Grundlage."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S068",
+          "note": "Unabhängiger Preisvergleich für eine andere Konfiguration."
+        },
+        {
+          "sourceId": "S069",
+          "note": "Anbieterpreise für einzelne Komponenten, zeitlich und sachlich nur als Vergleich geeignet."
+        }
+      ],
       "openQuestions": [
-        "Welche Modelle und Preisangebote gehörten zur beschriebenen Zusammenstellung am 23. Oktober 2026?"
+        "Ein datierter Preisvergleich für die tatsächlich vorgesehene Geräteauswahl könnte die Schätzung überprüfen."
       ],
       "occurrences": [
         {
@@ -3599,7 +3762,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Die Vergleichspreise zeigen eine große Spanne. Modell, Leistung und Preis für die konkrete Anlage sind daraus nicht ableitbar.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Unabhängigen Klimagerätetest auf einen nachvollziehbar bepreisten Multi-Split-Vergleich geprüft.",
+            "sourceIds": [
+              "S068"
+            ],
+            "result": "Der Vergleich betrifft ein Außengerät und höchstens drei Innenräume."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Separat nach Preisen einzelner Innen- und Außengeräte gesucht und die Anbieter-Preisliste abgeglichen.",
+            "sourceIds": [
+              "S069"
+            ],
+            "result": "Aus Anzahl und Einzelpreisen ohne passende Gerätespezifikation lässt sich das konkrete Vorhaben nicht kalkulieren."
+          }
+        ],
+        "missingInformation": "Gerätemodelle, passende Leistung und Preise der vom Host genannten Zusammenstellung zum damaligen Zeitpunkt.",
+        "conflicts": null
+      }
     }
   ]
 }

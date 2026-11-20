@@ -1,6 +1,6 @@
-# Faktencheck und offene Fragen
+# Faktencheck und Prüfgrenzen
 
-**Status: In Bearbeitung · Teilprüfung**
+**Status: Teilbestand geprüft**
 
 Stand: 20.11.2026.
 
@@ -11,11 +11,11 @@ Stand: 20.11.2026.
 
 ## Nachprüfung vom 20.11.2026
 
-Von 60 erfassten Prüfpunkten sind 51 Sachprüfungen und fünf Einordnungen als Meinung oder Prognose abgeschlossen. Dazu gehören auch Fälle, in denen die Recherche keine ausreichenden Sachbelege ergeben hat. Die Nachprüfung ergänzt die Vergleiche zu Polizeipraxis und Parlamentsmehrheit, die Migrationsthemen sowie die Angaben zu Klimageräten und Wetter.
+Alle 60 erfassten Prüfpunkte haben einen abschließenden Status. Darunter sind 53 abgeschlossene Sachprüfungen, fünf Einordnungen als Meinung oder Prognose und zwei Fälle ohne öffentliche Prüfgrundlage.
 
 ## Grenzen der Prüfung
 
-Vier Punkte bleiben offen. Weitere öffentliche Belege fehlen bislang für die persönliche Schilderung zur Schulreinigung, private Kanalzahlungen und Abläufe, die historischen Abonnentenzahlen sowie den Preis der konkreten Gerätekombination. Die vollständige Einzelerfassung aller Aussagen und die Hör- oder Sichtkontrolle stehen noch aus.
+Die persönliche Schilderung zur Schulreinigung und die privaten Kanalzahlungen samt internen Abläufen sind öffentlich nicht überprüfbar. Die historischen Abonnentenzahlen beider Kanäle und der Preis der konkreten Klimagerätekombination erwiesen sich nach Quellenrecherche als nicht ausreichend belegbar. Die Einzelprüfungen dokumentieren die Gründe. Die 60 erfassten Punkte sind ein Teilbestand. Zeitmarken und Sprecherzuordnungen beruhen auf dem Untertiteltext.
 
 ## Kapitelprüfungen
 

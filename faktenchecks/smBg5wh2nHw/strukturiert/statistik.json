@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden eine Teilprüfung. Von 60 erfassten Prüfpunkten bleiben vier mangels konkreter oder zeitnaher Angaben offen. Die Einzelerfassung des gesamten Videos und Hör- oder Sichtkontrolle sind nicht abgeschlossen.",
+  "coverageNote": "Thematische Übersicht von 00:00:00 bis 00:39:32. Automatische Untertitel liegen von 00:00:00 bis 00:39:28 vor. Die Prüfung der 60 erfassten Punkte ist abgeschlossen. Davon sind zwei ohne öffentliche Prüfgrundlage. Die Einzelpunkte ergeben einen Teilbestand. Die thematische Übersicht umfasst die gesamte Laufzeit.",
   "videoId": "smBg5wh2nHw",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
@@ -15,37 +15,37 @@
   "referenceOccurrences": 13,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 4,
+    "Offen": 0,
     "In Bearbeitung": 0,
-    "Nicht überprüfbar": 0,
-    "Abgeschlossen": 43
+    "Nicht überprüfbar": 2,
+    "Abgeschlossen": 45
   },
   "kindCounts": {
     "Tatsachenbehauptung": 42,
     "Meinung": 4,
     "Prognose": 1
   },
-  "completedFacts": 38,
-  "openFacts": 4,
+  "completedFacts": 40,
+  "openFacts": 0,
   "inProgressFacts": 0,
-  "unverifiableFacts": 0,
-  "percentageDenominator": 38,
+  "unverifiableFacts": 2,
+  "percentageDenominator": 40,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
       "completedCount": 27,
-      "completedFactPercent": 71.1
+      "completedFactPercent": 67.5
     },
     {
       "category": "Teilweise belegt",
       "completedCount": 5,
-      "completedFactPercent": 13.2
+      "completedFactPercent": 12.5
     },
     {
       "category": "Irreführend / Kontext fehlt",
       "completedCount": 2,
-      "completedFactPercent": 5.3
+      "completedFactPercent": 5.0
     },
     {
       "category": "Widerlegt",
@@ -54,8 +54,8 @@
     },
     {
       "category": "Nicht ausreichend belegbar",
-      "completedCount": 4,
-      "completedFactPercent": 10.5
+      "completedCount": 6,
+      "completedFactPercent": 15.0
     },
     {
       "category": "Meinung / Prognose",

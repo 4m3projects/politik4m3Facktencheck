@@ -1,8 +1,8 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden eine Teilprüfung. Von 60 erfassten Prüfpunkten bleiben vier mangels konkreter oder zeitnaher Angaben offen. Die Einzelerfassung des gesamten Videos und Hör- oder Sichtkontrolle sind nicht abgeschlossen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht von 00:00:00 bis 00:39:32. Automatische Untertitel liegen von 00:00:00 bis 00:39:28 vor. Die Prüfung der 60 erfassten Punkte ist abgeschlossen. Davon sind zwei ohne öffentliche Prüfgrundlage. Die Einzelpunkte ergeben einen Teilbestand. Die thematische Übersicht umfasst die gesamte Laufzeit.
 
-Automatische deutsche Originaluntertitel und die jeweils genannten Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Die Nachprüfung trennt die Wiedergabe von Medienartikeln von der unabhängigen Überprüfung ihrer Zahlen und Zuschreibungen.
+Grundlage sind automatische deutsche Originaluntertitel und die jeweils angegebenen Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Eine Hör- oder Sichtkontrolle fand nicht statt. Pressewiedergaben und tatsächliche Sachverhalte wurden gesondert geprüft.
 
 ## smBg5wh2nHw-A0048
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Beide beteiligten Kanäle lagen im Oktober jeweils knapp unter 50.000 Abonnements.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,21 +29,38 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die Aussage betrifft einen historischen Stand der Abonnentenzähler. Heutige Kanalzahlen erlauben keine Rückrechnung.
+Social Blade zeigt für SinansWoche im September 2026 etwa 49.100 Abonnements. Alaxia nennt rund 49.200, weist für diese Zahl aber keinen hinreichend klaren Stichtag aus. Die öffentlich einsehbaren Protokolle gemeinsamer Twitch-Streams liefern keine historische YouTube-Abonnentenzahl des zweiten Kanals. Damit ist die Größenordnung für SinansWoche im Umfeld des Veröffentlichungsdatums plausibel. Die Aussage über beide Kanäle zum selben Zeitpunkt lässt sich daraus nicht ableiten.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Automatische deutsche Originaluntertitel zum Inhalt. Die ergänzende Prüfung und ihre Reichweite sind dokumentiert.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Vorher Offen, jetzt Nicht ausreichend belegbar nach abschließender Prüfung der öffentlichen Grundlage.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [SinansWoche: historische YouTube-Kanalzahlen](https://socialblade.com/youtube/handle/sinanswoche) · Social Blade, öffentlich sichtbare Tageswerte vom September 2026.
+  Quellenzugriff am 2026-11-20. Historische Tabelle zu YouTube-Abonnements für SinansWoche gelesen. Historischer Teilbefund für SinansWoche.
+
+- [SinansWoche: Subscribers, Stats & Videos](https://www.alaxia.site/sinanswoche/) · Alaxia, Kanalprofil ohne eindeutig ausgewiesenen Stichtag der Zahl.
+  Quellenzugriff am 2026-11-20. Abonnentenangabe im öffentlichen Kanalprofil gelesen. Vergleichswert ohne eindeutig ausgewiesenen Stichtag.
+
+- [SinansWoche: Streamprotokolle](https://www.twitchmetrics.net/c/531604005-sinanswoche/streams) · TwitchMetrics, öffentliche Protokolle gemeinsamer Streams.
+  Quellenzugriff am 2026-11-20. Streamtitel gelesen. Die Liste deckt Twitch ab und nennt keinen historischen YouTube-Abonnentenstand des Co-Hosts. Belegt gemeinsame Streamtitel und liefert keine YouTube-Abonnentenzahlen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Gibt es öffentlich archivierte Kanalstände aus der Woche des 23. Oktober 2026 für beide Kanäle?
+- Eine zeitgleich erhaltene öffentliche Statistik beider Kanäle könnte die Angabe prüfen.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Datiert archivierte Abonnentenstände für beide YouTube-Hauptkanäle zur Veröffentlichungswoche.
+
+- Durchgang 1 am 2026-11-20 (Codex): In getrennten YouTube-Kanalstatistiken nach datierten Abonnentenständen von SinansWoche gesucht. Gepruefte Quellen: S065, S066. Ergebnis: Die Quellen weisen für einen Kanal eine plausible Größenordnung aus, aber keinen gemeinsamen Stichtag.
+
+- Durchgang 2 am 2026-11-20 (Codex): Veröffentlichte Protokolle der gemeinsamen Auftritte für einen Abgleich mit dem zweiten YouTube-Kanal geprüft. Gepruefte Quellen: S067. Ergebnis: Die Twitch-Protokolle liefern keine zwei historischen YouTube-Zählerstände.
 
 ## smBg5wh2nHw-A0049
 

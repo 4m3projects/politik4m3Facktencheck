@@ -1,6 +1,6 @@
 # Kurzbeschreibung
 
-**Status: In Bearbeitung · Teilprüfung**
+**Status: Teilbestand geprüft**
 
 Stand: 20.11.2026.
 
