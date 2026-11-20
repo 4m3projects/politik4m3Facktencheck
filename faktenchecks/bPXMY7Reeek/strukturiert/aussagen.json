@@ -1252,6 +1252,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das älteste heute sichtbare Video (16.12.2020) behandelt die Telegram-Chats von Attila Hildmann, also eine Figur der Corona-Verschwörungsszene, nicht die Querdenker-Bewegung allgemein; ein Titel mit „Querdenken“ folgt erst im März 2021. Gelöschte oder private ältere Videos sind nicht erkennbar.",
+      "shortReason": "Das älteste sichtbare Video (Dezember 2020) behandelt Attila Hildmanns Telegram-Chats, nicht die Querdenker-Bewegung allgemein.",
       "assessmentBasis": "Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1976,6 +1977,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Gängige Lehrdarstellungen unterscheiden primäre Sozialisation in der Familie, sekundäre in Kindergarten, Schule und Gleichaltrigengruppen und tertiäre im Erwachsenenalter, vor allem im Beruf. Eine vierte, „quartäre“ Sozialisation im Alter findet sich nur in einem Teil der Lernmaterialien; die beiden anderen gelesenen Darstellungen kennen nur drei Phasen. Die Zuordnung der ersten drei Phasen stimmt also, ein allgemein anerkanntes Vierphasenmodell „der Soziologie“ ist mit den gelesenen Quellen nicht belegt.",
+      "shortReason": "Die ersten drei Phasen stimmen; eine vierte „quartäre“ Phase im Alter kennt nur ein Teil der Lehrmaterialien.",
       "assessmentBasis": "Drei Lexikon- bzw. Lernplattformartikel gelesen; kein soziologisches Fachlehrbuch.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2067,6 +2069,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Um die Bundestagswahl 2021 erschienen auf dem Kanal politische Videos, darunter „Planspiel Bundesregierung“, das die Grünen überwiegend wohlwollend, aber auch kritisch darstellt. Eine ausdrückliche Wahlempfehlung für die Grünen fand sich in Titeln und in der Stichwortsuche nicht. Ob er heute keine Parteipräferenz mehr hat, ist eine Selbstauskunft und nicht prüfbar.",
+      "shortReason": "Grünen-nahe Politikvideos gab es um 2021, eine ausdrückliche Wahlempfehlung fand sich nicht; die heutige Präferenz ist Selbstauskunft.",
       "assessmentBasis": "Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen. Stichwortsuche in den Untertiteln eines Videos.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2290,6 +2293,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Laut Jahresbericht 2023 der Kanzlei beschäftigte White & Case weltweit rund 2.560 Anwältinnen und Anwälte, also etwa ein Fünfundzwanzigstel der genannten Zahl. Möglich ist ein Hör- oder Erfassungsfehler in den automatischen Untertiteln (etwa 6.400); auch das läge deutlich über der Kanzleiangabe. Die Angabe zur ersten Verhandlung des Gastgebers bleibt davon unberührt und ungeprüft.",
+      "shortReason": "White & Case hatte laut Jahresbericht 2023 rund 2.560 Anwältinnen und Anwälte, nicht 64.000.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2513,6 +2517,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Unter den Gästen von Februar bis August 2025 sind Personen aus dem rechten Spektrum, etwa Frauke Petry und Aron Pielka (Shlomo Finkelstein, 13.08.2025), und die Folgen erreichen teils Millionen Aufrufe. Die Gästeliste ist aber breit gemischt und reicht von Christian Lindner und Sahra Wagenknecht bis zu Psychologen, Unternehmern und Sportlern. „Nahezu das gesamte rechte bis rechtsradikale Spektrum“ ist damit eine starke Zuspitzung. Ob mit „Schlomo“ Shlomo Finkelstein oder der Waffen-YouTuber Jörg Sprave (Gast am 10.05.2025) gemeint ist, bleibt unklar.",
+      "shortReason": "Rechte Gäste gab es, die Gästeliste ist aber breit gemischt; „nahezu das gesamte rechte Spektrum“ ist stark zugespitzt.",
       "assessmentBasis": "Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2691,6 +2696,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Einen Waffen-YouTuber namens „Schlomo“ gibt es nach der Kanalsuche nicht. Die Beschreibung passt aber genau auf Jörg Sprave, der im Mai 2025 bei Ungeskriptet zu Gast war: Auf seinem Kanal sind Zombie-Ziele und Zombie-Apokalypse-Szenarien seit Jahren ein wiederkehrendes Motiv. Der Inhalt ist damit belegt, die Namenszuordnung vermutlich ein Hör- oder Transkriptionsfehler.",
+      "shortReason": "Die Beschreibung passt auf den Waffen-YouTuber Jörg Sprave; der Name „Schlomo“ ist vermutlich ein Hör- oder Transkriptionsfehler.",
       "assessmentBasis": "Kanaldaten (Titel, Upload-Daten, Aufrufe) am 19.11.2026 über Jens' Rechner gelesen; Videos nicht vollständig angesehen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2739,6 +2745,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die funk-Reihe „Leeroy will’s wissen“ bringt in Folgen nach dem Muster „X trifft Y – Das Treffen“ Menschen mit gegensätzlichen Erfahrungen zusammen. Die konkret genannten Paarungen (Missbrauchsbetroffene und Priester, AfD-Anhänger und trans Personen) fanden sich auf den gelesenen Seiten nicht; auch der Moderatorname steht dort nicht.",
+      "shortReason": "Das Format mit gegensätzlichen Gegenübern gibt es bei funk; die genannten Paarungen fanden sich in den Quellen nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3035,6 +3042,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das Bundesverfassungsgericht verlangte 2017 neben „weiblich“ und „männlich“ eine weitere positive Eintragungsmöglichkeit; das SBGG verweist auf die Angaben nach § 22 Abs. 3 PStG oder die Streichung des Eintrags. Rechtlich gibt es damit neben drei positiven Einträgen auch die Möglichkeit ohne Eintrag. Die Bezeichnung „divers“ selbst wurde im Gesetzestext des PStG nicht gelesen.",
+      "shortReason": "Neben drei positiven Einträgen ist auch ein Geschlechtseintrag ganz ohne Angabe möglich.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3170,6 +3178,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die bekannteste Studie dazu (Roberts u. a. 2021, US-Luftwaffe) fand nach zwei Jahren Hormonbehandlung beim 1,5-Meilen-Lauf noch rund 12 % Vorsprung gegenüber Frauen; die Unterschiede bei Liegestützen und Sit-ups waren dann verschwunden. „Rund 15 Prozent“ über mehrere Jahre gibt die Studie so nicht her. Welche Studie in der erwähnten Debatte genannt wurde, ist offen.",
+      "shortReason": "Die bekannteste Studie fand nach zwei Jahren rund 12 % Vorsprung im Lauf, bei Kraftübungen keinen mehr; „15 % über Jahre“ gibt sie nicht her.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3214,6 +3223,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Im Kern zutreffend: Eine sportmedizinische Übersichtsarbeit (Hilton und Lundberg 2021) zeigt nach männlicher Pubertät im Durchschnitt deutlich mehr Muskelmasse und Kraft, mehr fettfreie Masse, weniger Körperfett und längere Knochen, vor allem durch Testosteron. Die genannte höhere Knochendichte stand im wörtlich gelesenen Teil nicht mit einer Zahl; dieser Teil ist damit nicht belegt, aber auch nicht widerlegt.",
+      "shortReason": "Mehr Muskelmasse, Kraft und Körpergröße nach männlicher Pubertät sind belegt; die höhere Knochendichte fand sich in der Quelle nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3284,6 +3294,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Eine Variante der Geschlechtsentwicklung oder innenliegende Hoden sind bei Imane Khelif nicht offiziell bestätigt. Der Boxverband IBA schloss sie 2023 nach einem nicht offengelegten Test aus; das IOC berief sich auf Pass und Werdegang, und der ORF stellte fest, dass eine Diagnose nicht nachgewiesen ist. Das Gesagte ist damit weder belegt noch widerlegt. Später bekannt: Im Februar 2026 bejahte Khelif in einem Interview das SRY-Gen und berichtete von einer testosteronsenkenden Behandlung. Die konkret genannten innenliegenden Hoden und eine männliche Pubertät sind auch danach nicht bestätigt.",
+      "shortReason": "Eine Variante der Geschlechtsentwicklung mit innenliegenden Hoden ist bei Khelif nicht offiziell bestätigt.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3365,6 +3376,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das IOC ließ in Paris 2024 nach dem Passeintrag und dem bisherigen Werdegang zu und testete nicht selbst. „Kein Verband habe geprüft“ trifft so nicht zu: Die IBA hatte 2023 einen Test durchgeführt und darauf den WM-Ausschluss gestützt, der vom IOC aber nicht anerkannt wurde.",
+      "shortReason": "Das IOC prüfte nicht selbst, der Boxverband IBA hatte 2023 aber einen Test gemacht; „kein Verband“ stimmt so nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3502,6 +3514,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Bei den Weltbestleistungen liegen Männer in Lauf- und Sprungdisziplinen durchgehend vor Frauen; eine Auswertung der jeweils 50 besten Leistungen zeigt je nach Disziplin einen Abstand von grob 8 bis 16 Prozent, im Gewichtheben ist er noch größer. Dieser Teil ist belegt. Ob die Männerklasse deshalb faktisch eine offene Klasse ist und Männer nicht getestet werden müssen, ist eine sportpolitische Schlussfolgerung; die Regelwerke der Verbände wurden nicht gelesen.",
+      "shortReason": "Dass Männer in Lauf-, Sprung- und Kraftdisziplinen vorne liegen, ist belegt; die Folgerungen zur offenen Klasse sind sportpolitische Wertung.",
       "assessmentBasis": "Eine sportwissenschaftliche Fachveröffentlichung (Carroll 2019) gelesen; keine Verbandsregeln zu Startklassen und Geschlechtstests.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3767,6 +3780,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Einen Richtungsstreit in der GWUP 2023/2024 (unter anderem um den Umgang mit Critical Studies) belegt ein Bericht der Jungle World. Die Mitgliedschaft Sinans ist Selbstauskunft; die Kritik des genannten Kanals wurde nicht geprüft.",
+      "shortReason": "Den Richtungsstreit in der GWUP belegt ein Bericht; Mitgliedschaft und die Kritik des genannten Kanals sind nicht geprüft.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3990,6 +4004,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Für die Änderung genügt eine Erklärung mit Versicherung beim Standesamt; eine inhaltliche Prüfung sieht das Gesetz nicht vor. Ein allgemeines Verbot, die Entscheidung zu hinterfragen, enthält das SBGG aber nicht: Verboten ist nur das Offenbaren oder Ausforschen früherer Angaben ohne Zustimmung, und Hausrecht sowie Vertragsfreiheit bleiben unberührt.",
+      "shortReason": "Für die Änderung genügt eine Erklärung; ein Verbot, sie zu hinterfragen, enthält das Gesetz aber nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4034,6 +4049,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Das SBGG sanktioniert nicht die falsche Anrede. Bußgeldbewehrt (bis 10.000 Euro) ist nur, frühere Angaben ohne Zustimmung zu offenbaren und die Person dadurch absichtlich zu schädigen. Eine Anzeige ist immer möglich; eine Strafe folgt aus bloßer Anrede nach dem SBGG nicht.",
+      "shortReason": "Das Gesetz bestraft nicht die falsche Anrede, sondern nur das absichtlich schädigende Offenbaren früherer Angaben.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4078,6 +4094,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das SBGG enthält keine ausdrückliche Prüf- oder Ablehnungsbefugnis des Standesamts. Ob offensichtlicher Missbrauch dennoch zurückgewiesen oder später berichtigt werden kann, ist umstritten: Ein LTO-Gastbeitrag hält Standesämter dazu für verpflichtet, und im Fall Liebich versucht ein Landkreis eine Berichtigung nach dem Personenstandsgesetz (Entscheidung offen). Unmöglich ist eine Missbrauchsfeststellung daher nicht abschließend, aber gesetzlich nicht geregelt.",
+      "shortReason": "Eine Prüfung ist gesetzlich nicht geregelt, ob Missbrauch zurückgewiesen werden kann, ist umstritten, aber nicht ausgeschlossen.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4147,6 +4164,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Der Geschlechtseintrag allein verschafft keinen Zugang: § 6 Abs. 2 SBGG lässt Hausrecht und Vertragsfreiheit unberührt, und die Gesetzesbegründung nennt ausdrücklich Saunen, deren Betreiber Personen aus Gründen der Intimsphäre den Zutritt verwehren dürfen. Dass nur die Vermeidung von Ärger dagegen spreche, übergeht diese Rechtslage.",
+      "shortReason": "Der Eintrag allein verschafft keinen Zugang: Saunabetreiber dürfen laut Gesetz und Begründung ihr Hausrecht nutzen.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4319,6 +4337,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Nach § 5 SBGG ist eine erneute Erklärung frühestens ein Jahr nach der letzten möglich, mit drei Monaten Voranmeldung. Diese Regel gilt für alle; eine besondere Regel für Straftäter gibt es nicht. Ein jährlicher Wechsel ist damit rechtlich möglich, die Hervorhebung von Straftätern legt aber eine Sonderregel nahe, die nicht existiert.",
+      "shortReason": "Ein Wechsel ist frühestens nach einem Jahr möglich, aber für alle gleich; eine Sonderregel für Straftäter gibt es nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4363,6 +4382,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Das SBGG verbietet nicht die Speicherung: § 13 Abs. 3 erlaubt die weitere Verarbeitung früherer Angaben in amtlichen Registern ausdrücklich, Abs. 4 Mitteilungen zwischen Registern. Für Strafverfolgungs- und Sicherheitsbehörden besteht eine ausdrückliche Ausnahme vom Offenbarungsverbot. Auch die Bundesregierung erklärt, frühere Namen würden im Meldewesen weiter gespeichert.",
+      "shortReason": "Das Gesetz erlaubt die Speicherung früherer Namen in Registern ausdrücklich, mit Ausnahme für Strafverfolgungsbehörden.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4500,6 +4520,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Schwangerschaftsabbruch ist in § 218 des Strafgesetzbuchs geregelt, also in einem Paragrafen, nicht in einem Artikel. Die Nummer stimmt.",
+      "shortReason": "Die Nummer stimmt, es ist aber Paragraf 218 des Strafgesetzbuchs, kein Artikel.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4585,6 +4606,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "§ 9 SBGG lässt die männliche Zuordnung für den Dienst mit der Waffe im Spannungs- und Verteidigungsfall bestehen, wenn die Änderung in unmittelbarem zeitlichem Zusammenhang erklärt wird (ab zwei Monaten vor dessen Feststellung). Ein kurzfristiger Vorteil ist damit ausgeschlossen; nur eine lange vorher erklärte Änderung würde wirken.",
+      "shortReason": "Im Verteidigungsfall bleibt eine kurzfristig erklärte Änderung für den Wehrdienst unwirksam; nur eine lange vorher erklärte würde wirken.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4670,6 +4692,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Irreführend: Vorrangregeln für Frauen gibt es, etwa im öffentlichen Dienst des Bundes (§ 8 Bundesgleichstellungsgesetz). Sie gelten aber nur bei gleicher Qualifikation und entfallen, wenn Gründe in der Person eines Mitbewerbers überwiegen. Ein automatischer Vorrang „in jedem Fall“ ist nach der Rechtsprechung des EuGH (Kalanke 1995, Marschall 1997) unzulässig. Für die Privatwirtschaft wurde keine solche Regel gelesen.",
+      "shortReason": "Vorrangregeln für Frauen gelten nur bei gleicher Qualifikation; ein Vorrang „in jedem Fall“ ist nach EuGH-Rechtsprechung unzulässig.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4985,6 +5008,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Jette Nietzard wurde im Oktober 2024 zur Sprecherin der Grünen Jugend gewählt; 2025 folgten mehrere öffentliche Kontroversen (u. a. ACAB-Pullover im Mai 2025), und sie trat nicht erneut an. Das angebliche frühere Video Sinans mit der Vorhersage ist nicht geprüft.",
+      "shortReason": "Nietzards Wahl 2024 und spätere Kontroversen sind belegt; das Video mit der angeblichen Vorhersage ist nicht geprüft.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5033,6 +5057,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Gesetzesbegründung beschreibt die Begutachtung nach dem früheren Recht als oft übergriffig und entwürdigend empfunden, mit teils acht- bis zwölfstündigen Sitzungen. Fragebögen speziell zu Sexualpraktiken werden im gelesenen Teil nicht genannt.",
+      "shortReason": "Die Begutachtung galt laut Gesetzesbegründung als oft entwürdigend; Fragebögen zu Sexualpraktiken werden dort nicht genannt.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5077,6 +5102,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das frühere Verfahren kostete im Durchschnitt rund 1.900 Euro und wurde meist selbst bezahlt. Das ist erheblich; „ein halbes Vermögen“ ist eine Zuspitzung.",
+      "shortReason": "Das frühere Verfahren kostete im Schnitt rund 1.900 Euro; erheblich, aber „ein halbes Vermögen“ ist zugespitzt.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5294,6 +5320,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Laut Umweltbundesamt sinkt bei Tempo 120 auf Autobahnen die mittlere Fahrgeschwindigkeit nur um rund 2,8 %. Das stützt einen geringen Reisezeitverlust; eine feste Angabe von fünf bis zehn Minuten hängt von der Strecke ab und steht dort nicht. Der Vergleich mit der Schweiz ist eine persönliche Einschätzung.",
+      "shortReason": "Tempo 120 senkt die mittlere Geschwindigkeit nur um rund 2,8 %; feste fünf bis zehn Minuten sind nicht belegt, der Schweiz-Vergleich ist Meinung.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5868,6 +5895,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Laut Fachlexikon entsteht Reaktanz, wenn eine erwartete und wichtige Freiheit eingeschränkt oder bedroht wird; die bedrohte Option wird dann aufgewertet, bei durchsichtiger Beeinflussung kann ein Bumerangeffekt folgen. Dass sie nur unter Bedingungen eintritt, nicht automatisch, stimmt. „Kernkonzept“ und die Herleitung aus einem Autonomiebedürfnis stehen dort nicht.",
+      "shortReason": "Die Beschreibung von Reaktanz stimmt; „Kernkonzept“ und die Herleitung aus dem Autonomiebedürfnis stehen im Fachlexikon nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5973,6 +6001,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Eine allgemeine Impfpflicht gab es nicht; der Bundestag lehnte sie im April 2022 ab. Für Beschäftigte in Gesundheits- und Pflegeeinrichtungen galt aber von Mitte März bis Ende 2022 eine einrichtungsbezogene Impfpflicht. „Keine Impfpflicht“ ist daher nur für die Allgemeinheit richtig.",
+      "shortReason": "Eine allgemeine Impfpflicht gab es nicht, für Gesundheits- und Pflegeeinrichtungen aber 2022 eine einrichtungsbezogene.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6215,6 +6244,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Schiffmann kritisierte im März 2020 zunächst, dass die Regierung keine Masken an alle Haushalte verteilte, und vermittelte zugleich die Harmlosigkeit des Virus. Ein Vergleich mit einer Erkältung fand sich in den gelesenen Quellen nicht.",
+      "shortReason": "Schiffmann forderte im März 2020 Masken für alle und verharmloste das Virus; einen Erkältungsvergleich fanden wir nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6311,6 +6341,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Es gab Beschwerden, Ermittlungen, eine Praxisdurchsuchung wegen mutmaßlich falscher Maskenatteste und eine Prüfung der Approbation. Die Ärztekammer sah gegen seine Videos dagegen ausdrücklich keine Handhabe. Der Druck richtete sich vor allem auf Atteste und Verstöße, nicht auf die Meinungsäußerung selbst; diese Unterscheidung fehlt.",
+      "shortReason": "Ermittlungen und Druck gab es, aber vor allem wegen Maskenattesten; gegen seine Videos sah die Ärztekammer keine Handhabe.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6491,6 +6522,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Studienlage ist uneinheitlich. Der Cochrane-Review von 2023 fand für Maßnahmen zur Förderung des Maskentragens in randomisierten Studien keine eindeutige Wirkung; Cochrane stellte aber klar, dies sei kein Beleg, dass Masken nicht wirken, und über den Schutz für Einzelne sage der Review nichts. Beobachtungsstudien und eine große Studie aus Bangladesch sprechen für einen Nutzen, eine dänische Studie fand keinen statistisch signifikanten Effekt. Eine Schutzwirkung ist damit plausibel und teilweise gestützt, „offensichtlich“ ist sie nach der Studienlage nicht.",
+      "shortReason": "Eine Schutzwirkung ist plausibel und teils gestützt, nach der uneinheitlichen Studienlage aber nicht „offensichtlich“.",
       "assessmentBasis": "Cochrane-Stellungnahme (03/2023) und AFP-Faktencheck (03/2023) gelesen; den Review selbst und Einzelstudien nicht gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6615,6 +6647,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Laut NPR kritisierte die AfD zu Beginn der Pandemie, die Regierung handle nicht konsequent genug; später sprach die Parteispitze von einer „Corona-Diktatur“, und einige Mitglieder näherten sich der Querdenker-Bewegung an. Dass dies geschah, um politisch zu profitieren, ist eine Deutung.",
+      "shortReason": "Der Kurswechsel der AfD von strengeren Maßnahmen zur „Corona-Diktatur“ ist belegt; das Motiv des Profitierens ist Deutung.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6742,6 +6775,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Im Februar 2022 waren laut RKI-Daten rund 24 % der Bevölkerung ungeimpft, davon knapp 5 % Kleinkinder ohne zugelassenen Impfstoff; das RKI hielt die tatsächliche Quote für bis zu fünf Punkte höher. Das passt grob zur genannten Spanne. Der Anteil derer, die die Maßnahmen als zu großen Eingriff empfanden, wurde nicht geprüft.",
+      "shortReason": "Rund 24 % Ungeimpfte im Februar 2022 passen grob; der Anteil derer, die Maßnahmen als zu großen Eingriff sahen, ist nicht geprüft.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6904,6 +6938,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "In Sonneberg (Thüringen) gab es ab Ende Juli 2021 eine Bratwurst zur Impfung; am ersten Aktionstag wurden rund 250 statt üblich etwa 140 Menschen geimpft. Ob die Wurst dafür ursächlich war, ließ auch Correctiv offen.",
+      "shortReason": "Die Bratwurst-Aktion in Sonneberg gab es und es kamen mehr Impfwillige; ob die Wurst der Grund war, ist offen.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -7117,6 +7152,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die Reihenfolge war umgekehrt: Bundesweit galt ab 23.08.2021 die 3G-Regel; 2G führten Länder erst ab November 2021 breit ein (Hamburg ab August nur als Option für Betreiber).",
+      "shortReason": "Umgekehrt: Bundesweit galt ab August 2021 zuerst 3G, 2G folgte breit erst ab November 2021.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -7243,6 +7279,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Belegt ist ein deutlicher Anstieg: Bei der Aufzeichnung hatte Clownswelt laut Böhmermann rund 227.000 Abonnenten, zwei Tage später über 293.000 (etwa plus 29 %). Eine Verdopplung ist in den gelesenen Quellen nicht belegt; spätere Zahlen fehlen. Eine zweite Recherche ergab 331.000 Abonnenten am 12.05.2025, also rund plus 46 %; eine Verdopplung ist bis dahin nicht belegt.",
+      "shortReason": "Belegt ist ein Anstieg um rund 29 % in zwei Tagen und 46 % bis Mai 2025, eine Verdopplung nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -7547,6 +7584,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Zum Gesprächszeitpunkt (August 2025) lagen der Sonderbericht von Margaretha Sudhof (Januar 2025) und ein Bericht des Bundesrechnungshofs vor; der Haushaltsausschuss befasste sich im Juli 2025 damit, später auch die Enquete-Kommission des Bundestags. Einen Untersuchungsausschuss gab es nicht. „Gar nicht aufgearbeitet“ trifft daher nicht zu, auch wenn die Aufarbeitung politisch umstritten ist.",
+      "shortReason": "Es gab einen Sonderbericht, einen Bericht des Bundesrechnungshofs und Beratungen im Bundestag; nur einen Untersuchungsausschuss nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -7595,6 +7633,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Überbeschaffung ist belegt: Der Bundesrechnungshof spricht von massiver Überbeschaffung, mehr als die Hälfte der Masken wurde vernichtet. Eine Begünstigung von Bekannten ist in den gelesenen Quellen nicht belegt.",
+      "shortReason": "Die massive Überbeschaffung ist belegt, eine Begünstigung von Bekannten in den gelesenen Quellen nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -7821,6 +7860,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Bund und Länder verabredeten am 02.12.2021 für Treffen mit Ungeimpften eine Grenze von eigenem Haushalt plus zwei Personen; ab 28.12.2021 sollten auch Geimpfte privat höchstens zu zehnt zusammenkommen. Für die Weihnachtstage selbst gab es zu Familienfeiern nur die Empfehlung, Kontakte zu begrenzen und sich zu testen.",
+      "shortReason": "Personengrenzen für private Treffen gab es; für Familienfeiern an Weihnachten selbst gab es nur Test- und Kontaktempfehlungen.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -7869,6 +7909,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Hamburgs Innensenator Andy Grote feierte im Juni 2020 trotz Corona-Regeln und zahlte ein Bußgeld. Nach einem beleidigenden Tweet gegen ihn durchsuchten 2021 sechs Polizisten eine Wohnung; ein Spezialeinsatzkommando wird in den Berichten nicht genannt, und es war die Wohnung der Ex-Partnerin des Verfassers. Das Landgericht nannte die Durchsuchung 2022 unverhältnismäßig.",
+      "shortReason": "Grotes Feier und die Durchsuchung nach dem Tweet stimmen; es war aber kein SEK und die Wohnung der Ex-Partnerin des Verfassers.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -7917,6 +7958,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Für private Treffen gab es im Winter 2021 Personenobergrenzen und für Weihnachten Testempfehlungen. Eine staatliche Pflicht, Familienmitglieder an der Tür auf Nachweise zu kontrollieren, fand sich in den gelesenen Beschlüssen nicht; die Kontrolle bei Familienfeiern war eine Empfehlung.",
+      "shortReason": "Eine staatliche Pflicht, Familienmitglieder an der Tür zu kontrollieren, gab es nicht; Tests bei Familienfeiern waren eine Empfehlung.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -7992,6 +8034,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Testappelle für private Treffen waren Empfehlungen. Die Kontaktbeschränkungen selbst waren aber nicht bloß Empfehlungen: Bund und Länder verabredeten sie, und die Länder setzten sie per Verordnung um. Den Bundesanzeiger betreffen Landesverordnungen ohnehin nicht.",
+      "shortReason": "Testappelle waren Empfehlungen, die Kontaktbeschränkungen aber per Landesverordnung verbindlich.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -8098,6 +8141,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Laut Cochrane-Auswertung erkannten Antigen-Schnelltests bei Symptomen rund 72 % der Infektionen, ohne Symptome 55 bis 58 %; falsch positive Ergebnisse waren selten (Spezifität etwa 99 %). „Etwa 50 % Genauigkeit“ trifft annähernd nur auf die Erkennungsrate bei Symptomlosen zu.",
+      "shortReason": "Schnelltests erkannten bei Symptomen rund 72 % der Infektionen, ohne Symptome 55 bis 58 %; „etwa 50 %“ passt nur auf Symptomlose.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -8301,6 +8345,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Ende 2020 waren die Intensivstationen in Deutschland laut DIVI stark belastet. Zur anfangs unbekannten Sterblichkeit und zu den Bildern aus Italien wurde keine Quelle gelesen.",
+      "shortReason": "Die starke Belastung der Intensivstationen Ende 2020 ist belegt; zu Sterblichkeit und Bildern aus Italien wurde keine Quelle gelesen.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -8401,6 +8446,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Nicht ausreichend belegbar: Für die Zeit vor der Pandemie gibt es Werte (2015–2019 widersprachen etwa 3 bis 4 % der Aussage, Impfungen seien sicher; das Impfvertrauen war stabil bis steigend). Vergleichbare Werte aus der Pandemie wurden in zwei Recherchedurchgängen nicht gefunden, deshalb lässt sich der Vergleich „ähnlicher Umfang“ weder bestätigen noch widerlegen.",
+      "shortReason": "Vorpandemische Werte gibt es, vergleichbare aus der Pandemie wurden nicht gefunden; der Vergleich lässt sich nicht prüfen.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -8476,6 +8522,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Bundesnotbremse untersagte ab Inzidenz 100 das Verlassen der Wohnung zwischen 22 und 5 Uhr. Allein im Freien Sport zu treiben oder spazieren zu gehen blieb bis 24 Uhr erlaubt; danach galt die Beschränkung auch für Einzelne.",
+      "shortReason": "Die Ausgangssperre galt ab 22 Uhr, allein spazieren oder Sport war aber bis 24 Uhr erlaubt.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",

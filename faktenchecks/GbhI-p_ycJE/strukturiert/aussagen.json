@@ -225,6 +225,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das Gespräch erschien laut Metadaten am 23.08.2025 und dauert 3:11:14. Zwischen Veröffentlichung und diesem Video (18.11.2026) liegen knapp 15 Monate; „ungefähr ein Jahr“ ist daher nur grob zutreffend. Aufnahmedatum nicht festgestellt.",
+      "shortReason": "Das Gespräch erschien im August 2025, knapp 15 Monate vor diesem Video; „ungefähr ein Jahr“ ist nur grob zutreffend.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Untertitel dieses Videos und des Originalgesprächs bPXMY7Reeek bzw. von dessen Metadaten; keine Audio-/Videokontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1075,6 +1076,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Im gelesenen Teil der Gesetzesbegründung (bis S. 27) fand sich kein solches Beispiel; der Besondere Teil der Begründung war nicht abrufbar. Das SBGG selbst enthält keine Ablehnungsbefugnis; Missbrauchsprüfung bei offensichtlichem Missbrauch erwähnt die Begründung nur im Rechtsvergleich mit der Schweiz. Eine zweite Recherche bestätigt über einen Fachbeitrag, dass das Standesamt nach der Begründung bei offensichtlichem Missbrauch ablehnen kann; das genannte Beispiel bleibt unbelegt.",
+      "shortReason": "Ablehnen bei offensichtlichem Missbrauch ist laut Fachbeitrag belegt; das genannte Beispiel fand sich in der Gesetzesbegründung nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1244,6 +1246,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Begründung nennt Saunen ausdrücklich: Betreiber dürfen als Hausrechtsinhaber Personen aus Gründen der Intimsphäre den Zutritt verwehren, daran ändert das SBGG nichts. Der Satz, allein unter Berufung auf den Eintrag könne niemand Zugang verlangen, fand sich im gelesenen Teil nicht wörtlich; die Einzelbegründung zu § 6 war nicht abrufbar.",
+      "shortReason": "Die Begründung nennt Saunen und das Hausrecht der Betreiber; den genauen Satz zum Registereintrag fanden wir dort nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1441,6 +1444,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das SBGG enthält keine Ablehnungs- oder Berichtigungsregel für nicht ernst gemeinte Erklärungen; eine nicht erkannte Erklärung wird also zunächst wirksam. Ob eine spätere Berichtigung nach dem Personenstandsgesetz möglich ist, ist ungeklärt: Im Fall Liebich versucht ein Landkreis genau das, eine Entscheidung steht aus.",
+      "shortReason": "Eine nicht erkannte Spaßerklärung wird zunächst wirksam; ob sie später berichtigt werden kann, ist rechtlich ungeklärt.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1493,6 +1497,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die drei Begründungen der Kanalfigur sind geprüft: Dass bloßes Falschansprechen nach dem SBGG folgenlos bleibt, ist belegt (A0026). Dass eine nur zum Spaß abgegebene Erklärung zunächst wirksam wird, ist teilweise belegt (A0027), ebenso, dass der Eintrag allein die Frauensauna nicht öffnet (A0023: Hausrecht bleibt unberührt). Das Gesamturteil „teilweise richtig“ über Sinans Gedankenspiel passt zu unserer Prüfung des Originals: Seine Aussagen zu Strafen für Falschansprechen und zum Saunazugang sind irreführend (bPXMY7Reeek-A0076, -A0078). Weil zwei der drei Begründungen nur teilweise belegt sind, insgesamt teilweise belegt.",
+      "shortReason": "Das Urteil „teilweise richtig“ passt, zwei der drei Begründungen sind aber selbst nur teilweise belegt.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1750,6 +1755,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Regierungsentwurf sah in § 13 Abs. 5 tatsächlich automatische Mitteilungen an BKA, Bundespolizei, Verfassungsschutz und weitere Behörden nach jeder Änderung vor. Die genannte Begründung (weil erstmals eine bloße Erklärung genüge) fand sich im gelesenen Teil nicht; der Ausschussbericht nennt die Sorge vor Identitätsverschleierung.",
+      "shortReason": "Die automatischen Mitteilungen an BKA und andere Behörden standen im Entwurf; die genannte Begründung dafür fand sich nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2066,6 +2072,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Richtig ist, dass auch die Bundesregierung ein Auffindbarkeitsproblem sah und eine Melderegelung plante (A0031 belegt, A0033 teilweise belegt), und dass Sinans Annahme, frühere Namen dürften in Ämtern nicht gespeichert werden, nicht zutrifft (A0035; § 13 Abs. 3 SBGG). „Überzogen“ ist dafür zu milde: Nach dem Gesetzestext ist diese Annahme widerlegt (bPXMY7Reeek-A0083). Zudem stützt Sinan das Problem auf anonyme, nicht überprüfbare Fälle (bPXMY7Reeek-A0081, -A0084).",
+      "shortReason": "Die Speicherannahme ist nicht nur „überzogen“, sondern durch den Gesetzestext widerlegt; das Problem stützt Sinan auf anonyme Fälle.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2183,6 +2190,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Laut Fachlexikon führt eine wahrgenommene Freiheitseinschränkung dazu, dass die bedrohte Option aufgewertet wird; bei durchsichtiger Beeinflussung ist ein Bumerangeffekt möglich. Das Gegenteil zu tun ist eine mögliche, keine zwangsläufige Folge; die Kurzfassung des Videos lässt diese Bedingung weg.",
+      "shortReason": "Das Gegenteil zu tun ist eine mögliche, keine zwangsläufige Folge von Reaktanz; diese Bedingung fehlt.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2503,6 +2511,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Schiffmann war Mitbegründer des Parteivorhabens „Widerstand 2020“ und kurz Mitglied der Nachfolgegründung WiR2020. Dass er zwei Parteien mitgegründet hat, ist so nicht belegt; die Angaben stammen zudem nur aus Wikipedia.",
+      "shortReason": "Belegt ist ein Parteivorhaben und eine kurze Mitgliedschaft in der Nachfolgepartei, nicht die Mitgründung zweier Parteien.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2643,6 +2652,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Im Herbst 2020 ermittelte unter anderem das Polizeipräsidium Unterfranken, und es gab Ermittlungen wegen möglicher Verstöße gegen das Versammlungsrecht bei Demonstrationen. Welche Städte genau betroffen waren, nennen die gelesenen Berichte nicht.",
+      "shortReason": "Ermittlungen im Herbst 2020, auch wegen Versammlungsauflagen, sind belegt; welche Städte genau, nennen die Berichte nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2735,6 +2745,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Druck aus der Öffentlichkeit von Anfang an ist belegt (A0046), ebenso, dass Kammer und Behörden erst spät und begrenzt tätig wurden (A0047, A0048; Ermittlungen erst ab Herbst 2020, A0052 teilweise belegt). Dass sich die Wirkung der Kritik nicht messen lässt, entspricht unserer Einordnung von bPXMY7Reeek-A0126 als nicht überprüfbar. Sinans Erinnerung an Schiffmanns Anfangsphase ist nach unserer Prüfung aber nur teilweise belegt (bPXMY7Reeek-A0123), nicht uneingeschränkt zutreffend.",
+      "shortReason": "Öffentlicher Druck von Anfang an und spätes staatliches Handeln stimmen; Sinans Erinnerung ist aber nur teilweise belegt.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2804,6 +2815,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Unsere vollständige Prüfung des Originals bewertet 50 Tatsachenbehauptungen; 4 davon sind widerlegt, 3 irreführend. Gemessen an der Länge des Gesprächs sind eindeutige Falschaussagen also selten, die Größenordnung „kaum“ ist vertretbar. Es gibt sie aber, darunter zwei plausibel Sinan zugeordnete: das angebliche Speicherverbot für frühere Namen (bPXMY7Reeek-A0083, widerlegt durch § 13 Abs. 3 SBGG) und die Aussage, die Maskenbeschaffung werde gar nicht aufgearbeitet (bPXMY7Reeek-A0151). Die Kanalfigur zählt selbst keine davon als Falschaussage (siehe A0057).",
+      "shortReason": "Eindeutige Falschaussagen sind selten (4 widerlegt, 3 irreführend von 50), es gibt sie aber, auch zwei von Sinan.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2896,6 +2908,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Nach unserer Prüfung des Originals enthält es mindestens eine plausibel Sinan zugeordnete Aussage, die durch den Gesetzestext widerlegt ist (bPXMY7Reeek-A0083: frühere Namen dürften nicht gespeichert werden); die Kanalfigur nennt diese Annahme selbst „zu streng“. Dazu kommen mehrere Angaben Sinans, die auf anonymen Quellen beruhen und damit unter die eigene Kategorie „nicht überprüfbar“ fallen (A0081, A0084, A0089). Die Nullzählung ist ohne veröffentlichte Kriterien so nicht nachvollziehbar. Einschränkung: Die Sprecherzuordnung ist nur plausibel.",
+      "shortReason": "Mindestens eine plausibel Sinan zugeordnete Aussage ist widerlegt, mehrere beruhen auf anonymen Quellen; die Nullzählung trägt nicht.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2944,6 +2957,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die GWUP will laut Selbstbeschreibung wissenschaftliches Denken fördern und Behauptungen aus Parawissenschaft, Esoterik und Alternativmedizin kritisch prüfen; das passt sinngemäß. Sinans Mitgliedschaft ist Selbstauskunft.",
+      "shortReason": "Die Beschreibung der GWUP passt sinngemäß; Sinans Mitgliedschaft ist Selbstauskunft.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3306,6 +3320,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die Wertung „gutes Gespräch“ bleibt Meinung, sie stützt sich aber auf prüfbare Tatsachen. Zutreffend ist, dass Sinan mehrfach Unsicherheiten einräumt, etwa kein Biologe zu sein. Die Aussage, er verbreite keine unbelegten Behauptungen, hält unserer Prüfung nicht stand: Mehrere seiner Angaben beruhen auf anonymen oder nicht genannten Quellen (bPXMY7Reeek-A0081, -A0084, -A0089), zwei sind widerlegt (bPXMY7Reeek-A0083, -A0151), zwei irreführend (bPXMY7Reeek-A0076, -A0078). Ob er Gruppen „kaum“ abwertet, ist ohne veröffentlichte Kriterien nicht überprüfbar (A0063). Interessenkonflikt: Sinan betreibt den prüfenden Kanal.",
+      "shortReason": "Sinan räumt Unsicherheiten ein, verbreitet aber auch unbelegte Angaben; zwei seiner Aussagen sind widerlegt, zwei irreführend.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel; keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet; im Video genannte Quellen noch nicht geöffnet.",
       "migration": {
         "changeType": "Neuerfassung",

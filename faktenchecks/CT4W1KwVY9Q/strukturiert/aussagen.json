@@ -180,6 +180,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Schlechte Ausstattung und Gebäude sowie ausfallender Unterricht wegen fehlender Vertretung sind als Anlass der französischen Schülerproteste belegt. Überfüllte Klassen und überlastete Lehrkräfte nennen die gelesenen Quellen nicht ausdrücklich; dafür fehlen in dieser Prüfung eigene Zahlen. Dass Schulen buchstäblich auseinanderfallen, ist erkennbar künstlerische Zuspitzung und wird nicht als Tatsache gewertet.",
+      "shortReason": "Schlechte Ausstattung und Unterrichtsausfall sind als Protestanlass belegt; überfüllte Klassen nennen die Quellen nicht.",
       "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
       "migration": {
         "changeType": "Neuerfassung",
@@ -324,6 +325,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Angriffe auf Einsatzkräfte sind belegt: Nach dem Protesttag am 17.10.2026 meldete der Innenminister mehr als 600 verletzte Polizisten, Gendarmen und Feuerwehrleute. Die Regierung und Medien schrieben die schwersten Ausschreitungen Randalierern und der extremen Linken zu, ZDFheute berichtet, dass sich Randalierer regelmäßig unter die Demonstrierenden mischten. Das Bild, die Gewalt komme nur von außen, greift aber zu kurz: Unter den 1.504 bis zum 9.10.2026 vorgeführten Minderjährigen der Schülerbewegung waren rund 1.000 Gymnasiasten, häufigster Vorwurf war Gewalt gegen Amtsträger. Steinwürfe im engeren Sinn machen in dieser Studie nur einen kleinen Teil aus; die Studie sagt ausdrücklich nicht, wer die Gewalt ausgelöst hat. Die Zuspitzung trifft also einen belegten Teil, nicht das ganze Geschehen.",
+      "shortReason": "Angriffe auf Einsatzkräfte sind belegt, die Gewalt kam aber nicht nur von außen: Viele Vorgeführte waren selbst Schüler.",
       "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
       "migration": {
         "changeType": "Neuerfassung",
@@ -395,6 +397,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Belegt sind schwere Verletzungen Jugendlicher bei Polizeieinsätzen und Ermittlungen dazu: Bis zum 5.10.2026 hatte die französische Polizeiaufsicht IGPN sechs Verfahren wegen möglicher Polizeigewalt im Zusammenhang mit der Schülerbewegung übernommen, unter anderem nach Augenverletzungen durch Polizeimunition; nach dem 17.10.2026 ermittelte sie auch wegen eines schwer verletzten 17-Jährigen in Saint-Étienne. Ob die Betroffenen jeweils friedlich waren und ob die Einsätze rechtswidrig waren, klären die Verfahren erst; das ist zum Veröffentlichungszeitpunkt offen.",
+      "shortReason": "Schwere Verletzungen Jugendlicher und Ermittlungen sind belegt; ob die Betroffenen friedlich waren, klären erst die Verfahren.",
       "assessmentBasis": "Eigenständige Auswertung des vom Urheber bereitgestellten Liedtexts (keine Hörkontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen. Musikvideo: bewertet wird der Tatsachenkern, nicht die künstlerische Zuspitzung (docs/MUSIKVIDEOS.md).",
       "migration": {
         "changeType": "Neuerfassung",
