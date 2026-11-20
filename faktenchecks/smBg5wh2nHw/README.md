@@ -11,7 +11,7 @@ Stand: 20.11.2026.
 - Aufnahme: Datum ungeklärt
 - Laufzeit: 00:39:32
 
-Die automatischen deutschen Originaluntertitel reichen von 00:00:00 bis 00:39:28. Themen und Zeitbereiche sind daraus abgeleitet. Hör- und Sichtkontrolle, vollständige Einzelerfassung und Teile der Sachrecherche stehen aus.
+Die automatischen deutschen Originaluntertitel reichen von 00:00:00 bis 00:39:28. Themen und Zeitbereiche sind daraus abgeleitet. Nach dem Quellenabgleich sind 56 der 60 erfassten Prüfpunkte abgeschlossen. Bei vier Punkten fehlen konkrete oder zeitnahe öffentliche Angaben. Die Hör- und Sichtkontrolle sowie die vollständige Einzelerfassung stehen noch aus.
 
 - [Kurzbeschreibung](01_kurz.md)
 - [Themen und Zeitbereiche](02_analyse.md)

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "HP-C0001",
+  "kind": "Quelle falsch interpretiert",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-20",
+  "reportedBy": "Codex",
+  "trigger": {
+    "claimId": "smBg5wh2nHw-A0009",
+    "entryId": null,
+    "description": "Der Erststand übersah, dass der Vorspann des Artikels die Zahl auf erwachsene Männer bezieht. Der Fließtext verwendet die Zahl nur für das Alter."
+  },
+  "evidence": [
+    {
+      "title": "Apollo News, Artikel vom 20.10.2026",
+      "url": "https://apollo-news.net/randale-in-paris-gewalttaeter-waren-vor-allem-linksextreme-und-migrantische-maenner-keine-schueler/",
+      "accessedOn": "2026-11-20",
+      "finding": "Die Angabe im Vorspann entspricht der Wiedergabe im Untertiteltext. Die Formulierung im Fließtext ist davon verschieden."
+    }
+  ],
+  "affected": [
+    {
+      "target": "smBg5wh2nHw-A0009",
+      "reason": "Einzige frühere Bewertung, die auf der fehlerhaften Lesart des Artikels beruhte. A0010 bis A0012 wurden auf denselben Quellenfehler geprüft und eigenständig neu recherchiert."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Eindeutiger Textabgleich",
+    "date": "2026-11-20",
+    "basis": "Die veröffentlichte Passage im Vorspann ist unmittelbar überprüfbar. Die Korrektur betrifft die Wiedergabe des Artikels, keine Bestätigung der darin genannten Zahl."
+  },
+  "changes": [
+    {
+      "target": "smBg5wh2nHw-A0009",
+      "field": "verdict",
+      "before": "Widerlegt",
+      "after": "Belegt"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "In GitHub-Issue #93 gemeldet. Vorspann und Fließtext getrennt kontrolliert. Urteil korrigiert und den tatsächlichen Sachverhalt getrennt geprüft."
+    }
+  ]
+}
