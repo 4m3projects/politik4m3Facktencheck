@@ -647,6 +647,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Im Verlauf des Samstags meldete der Innenminister etwa 400. Schon in der Nacht nannte der Premierminister 1.200. ZDFheute berichtete vor Veröffentlichung des Videos über mehr als 2.000. Der spätere amtliche Rückvergleich nennt 2.628 für den 17. Oktober.",
+      "shortReason": "Gemeldet wurden erst etwa 400, dann 1.200 und vor dem Video schon über 2.000 Festnahmen; amtlich sind es 2.628.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -869,6 +870,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die pauschale Aussage geht über die überprüfbare Reichweite hinaus. AP und ARD zeigen gewaltsame Szenen, sind aber ausgewählte Berichte. In der im November veröffentlichten Analyse öffentlicher französischer TikTok-Videos über die Mobilisierungen entfielen vom 1. September bis zum 29. Oktober 14 Prozent der Aufrufe auf Beiträge mit Gewalt. Beiträge mit Forderungen erreichten 32 Prozent. Medienkonten erzielten einen überproportionalen Teil der Aufrufe von Gewaltvideos. Die Studie bildet weder ein einzelnes Wochenende noch persönliche Feeds, andere Plattformen oder alle Nachrichtenangebote ab.",
+      "shortReason": "Gewaltbilder gab es, auf TikTok entfielen aber nur 14 % der Aufrufe auf Gewaltvideos, auf Forderungen 32 %.",
       "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -967,6 +969,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der ARD-Bericht vom 6. Oktober beschreibt Zusammenstöße in mehreren Städten und Ermittlungen. Ein Vergleich der Schwere über die verschiedenen Tage fehlt.",
+      "shortReason": "Zusammenstöße in mehreren Städten Anfang Oktober sind belegt; ein Vergleich der Schwere fehlt.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1015,6 +1018,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Reportagen dokumentieren friedliche Züge und schwere Vorfälle. Auch die CGT bezeichnet ihre Mobilisierung als friedlich. Teilnehmer- und Festnahmezahlen haben unterschiedliche Erfassungsgrundlagen und ergeben keine Quote friedlicher Personen.",
+      "shortReason": "Friedliche Züge sind dokumentiert, eine Quote friedlicher Teilnehmender lässt sich aus den Zahlen aber nicht ableiten.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1099,6 +1103,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Für Samstag meldeten das Innenministerium 550.000 und die CGT knapp 800.000. Die Größenordnung passt. Die Spanne vereint zwei Zählungen und beziffert den Aktionstag am 17. Oktober. Eine eigene Summe für das Wochenende bleibt offen.",
+      "shortReason": "Die Größenordnung passt (Ministerium 550.000, CGT knapp 800.000), die Zahlen gelten aber für den 17. Oktober, nicht das Wochenende.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1268,6 +1273,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Unzufriedenheit mit staatlichen Leistungen und politischen Entscheidungen erscheint in Forderungen mehrerer Gruppen. Eine repräsentative Aussage über sämtliche Demonstrierende oder die Bevölkerung lässt sich daraus nicht ableiten.",
+      "shortReason": "Unzufriedenheit zeigt sich in den Forderungen mehrerer Gruppen; eine Aussage über alle Demonstrierenden erlaubt das nicht.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1316,6 +1322,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Das Justizministerium datiert eine Schülerblockade in Créteil auf den 18. September, nach einem Lehrerstreik am Vortag. Am 28. September waren laut Ministerium Schulen landesweit betroffen. Le Monde berichtete schon an diesem Tag über die Ausbreitung.",
+      "shortReason": "Die Schülerproteste begannen schon am 18. September in Créteil und waren Ende September landesweit.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1576,6 +1583,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "AP und der Liveticker dokumentieren Plünderungen am Rand und nach dem Ende von Protestzügen. Das belegt beobachtete Fälle. Eine feste Gruppengrenze oder eine allgemeine Absicht, die Lage weiter anzuheizen, lässt sich daraus nicht ableiten.",
+      "shortReason": "Plünderungen am Rand der Proteste sind belegt; eine feste Gruppe oder gemeinsame Absicht lässt sich daraus nicht ableiten.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1641,6 +1649,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Frühe Zusammenstöße sind belegt. Der Beginn in Créteil wird als Unterstützung eines Lehrerstreiks beschrieben. Die Justizstudie über vorgeführte Minderjährige und spätere Regierungsvorwürfe zum 17. Oktober liefern keine Grundlage für die pauschale Zuschreibung früher Taten oder ihrer Motive.",
+      "shortReason": "Frühe Zusammenstöße sind belegt; dass linksextreme Gruppen sie von Beginn an wesentlich verursachten, belegen die Quellen nicht.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1699,6 +1708,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "In der Mediathekfassung wird um 04:40 ein JD Vance zugeschriebener X-Beitrag gezeigt. Darin verbindet er die Gewalt mit westlicher Einwanderungspolitik und überträgt seine Deutung auf die US-Innenpolitik. Le Figaro gibt denselben Beitrag wieder. Der Originalabruf bei X scheiterte. Die Einblendung und die Berichterstattung belegen die berichtete Äußerung, geben aber keine Auskunft darüber, wie verbreitet die These über Plattformen hinweg war.",
+      "shortReason": "Die Vance zugeschriebene Äußerung ist belegt; wie verbreitet die These insgesamt war, nicht.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1753,6 +1763,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Der Vance zugeschriebene Beitrag formuliert eine politische Deutung. Für eine Kausalprüfung reichen weder die amtlichen Ereigniszahlen noch die Untersuchung zu früher vorgeführten Minderjährigen. Die nachträgliche Auswertung zu einer vorläufigen Stichprobe von 186 Inhaftierten beschreibt überwiegend französische Staatsangehörige. Nationalität, Einwanderungsgeschichte, Tatmotiv und Ursache sind verschiedene Merkmale. Auch die spätere parlamentarische Anhörung behandelt Akteure und Einsatzablauf, liefert aber keinen vergleichenden Kausalnachweis für Einwanderung.",
+      "shortReason": "Ein ursächlicher Zusammenhang zwischen Einwanderung und der Gewalt lässt sich mit den vorliegenden Daten nicht prüfen.",
       "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1844,6 +1855,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Verfassung stammt vom 4. Oktober 1958. Eine Mehrheit erleichtert Regierungshandeln. Art. 49 und 50 erlauben aber praktisch auch eine Regierung ohne eigene absolute Sitzmehrheit, solange die erforderliche Mehrheit für einen Misstrauensantrag fehlt.",
+      "shortReason": "Mehrheiten erleichtern das Regieren, die Verfassung erlaubt aber auch Regierungen ohne eigene absolute Mehrheit.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1892,6 +1904,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Der Präsident ernennt den Premierminister. Die Regierung bestimmt nach Art. 20 die Politik und der Premierminister leitet sie nach Art. 21. Die Nationalversammlung ist eine von zwei Kammern und für Misstrauensanträge zuständig. Die Vorstellung einer durchgehenden Hierarchie verkürzt die Verfassung.",
+      "shortReason": "Die Regierung bestimmt laut Verfassung selbst die Politik, geleitet vom Premierminister; eine durchgehende Hierarchie verkürzt das.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1936,6 +1949,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Mehrheiten erleichtern Beschlüsse. Das Abstimmungsregister zeigt auch institutionelle Konflikte im Lauf der Fünften Republik. Ein Kausalvergleich über Jahrzehnte bräuchte z. B. Daten zu Regierungswechseln, Mehrheitsverhältnissen und Amtszeiten.",
+      "shortReason": "Mehrheiten erleichtern Beschlüsse; ein Kausalvergleich über Jahrzehnte fehlt, und auch Konflikte sind dokumentiert.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1984,6 +1998,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Parlamentswahl 2024 dokumentiert große Wahlbündnisse und erfolgreiche Kandidaten unter weiteren Etiketten. Die Aussage zu fehlenden Chancen bleibt ohne Definition, Wahltyp und Vergleichsmaßstab zu pauschal.",
+      "shortReason": "Große Wahlbündnisse 2024 sind belegt; dass Einzelantritte kaum Chancen hätten, ist zu pauschal.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2082,6 +2097,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Wahlergebnisse liegen in einer ähnlichen Größenordnung, aber die Differenz zwischen 178 und 142 Sitzen ist politisch erheblich. Mehrere Fraktionen und weitere Gruppen wirken an Abstimmungen mit. Getrennte Misstrauensabstimmungen zeigen Konfliktlinien, erlauben aber keine allgemeine Aussage über fehlende Zusammenarbeit.",
+      "shortReason": "Die Lager liegen in ähnlicher Größenordnung, 178 zu 142 Sitze ist aber ein erheblicher Unterschied; eine Dauerblockade ist nicht belegt.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2153,6 +2169,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Ensemble kam bereits 2022 unter Macron auf 245 von 577 Sitzen. Die zeitliche Einordnung kann sich auf diesen Mehrheitsverlust beziehen. Für die gegenwärtige Lage ist 2024 eine erneute Minderheitskonstellation unter demselben Präsidenten. Ob mit eigener Mehrheit auch die spätere Zusammenarbeit von Regierung und anders ausgerichteter Parlamentsmehrheit gemeint ist, bleibt im Video unklar.",
+      "shortReason": "Ohne eigene Mehrheit war Macron schon seit 2022; 2024 ist eine erneute Minderheitslage unter demselben Präsidenten.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2300,6 +2317,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Zum Erscheinungstermin war 2025 das Vorjahr. Insee wies dafür schon im August 5,1 Prozent aus. Die 5,8 Prozent sind der Wert für 2024.",
+      "shortReason": "Für das Vorjahr 2025 meldete Insee schon im August 5,1 %; die 5,8 % gelten für 2024.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2344,6 +2362,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das reale BIP wuchs 2025 nach Insee um 0,8 Prozent, nach 1,5 Prozent 2024 und 1,6 Prozent 2023. Die vor dem Video verfügbare Augustrechnung zeigt zusätzlich einen Rückgang um 0,2 Prozent im ersten und Stagnation im zweiten Quartal 2026. Die Verlangsamung ist damit belegt. Für die Monate von Juli bis zum Erscheinungstag waren in dieser Veröffentlichung noch keine Quartalsdaten enthalten. In der Einblendung steht eine frühere Schätzung. Sie ist in A0075 gesondert geprüft.",
+      "shortReason": "Die Verlangsamung ist belegt (2025 nur 0,8 % Wachstum); für die Monate ab Juli lagen noch keine Daten vor.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2392,6 +2411,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Die nationale Wachstumsverlangsamung ist messbar. Regionale BIP-Niveaus und reale Wachstumsreihen zeigen unterschiedliche Entwicklungen. Die Île-de-France, eine der wirtschaftsstärksten Regionen, hatte laut Insee im Zeitraum 2019–2023 ebenfalls ein deutlich niedrigeres durchschnittliches Wachstum als 2011–2019. Das Video definiert weder die strukturschwachen Gebiete noch den Vergleichszeitraum. Die Regionalreihe bis 2024 kann die behauptete Konzentration der jüngeren Abschwächung nicht belegen.",
+      "shortReason": "Das Video nennt weder Regionen noch Zeitraum; auch die starke Île-de-France wuchs langsamer, eine Konzentration ist nicht belegt.",
       "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2512,6 +2532,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die Staatsausgaben lagen 2025 bei 57,3 Prozent des BIP und das Defizit bei 5,1 Prozent. Das zeigt einen Zielkonflikt. Ob zusätzliche Mittel möglich sind, hängt von Prioritäten, Einnahmen, Finanzierung und Regeln ab. Ein automatischer Ausschluss folgt aus den Quoten nicht.",
+      "shortReason": "Hohe Ausgaben und Defizit zeigen einen Zielkonflikt; ein automatischer Ausschluss von Investitionen folgt daraus nicht.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2600,6 +2621,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Für 2025 dokumentiert der Rechnungshof Belastungsänderungen von rund 23 Milliarden Euro. Insee unterscheidet solche Maßnahmen von Einnahmenänderungen durch Einkommen und Wirtschaftstätigkeit. Nach dem Rechnungshof reduzierten die Maßnahmen das Defizit 2025 um etwa 0,8 Prozentpunkte gemessen am BIP. Das belegt den Mechanismus in diesem Jahr. Aus den geprüften Reihen folgt weder, wie oft Regierungen ihn über einen längeren Zeitraum einsetzten, noch wie viel er den internationalen Rang erklärt.",
+      "shortReason": "Steuererhöhungen zum Defizitabbau sind für 2025 belegt; wie oft das früher geschah und die heutige Quote erklärt, nicht.",
       "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2686,6 +2708,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Eurostat hatte für 2024 zunächst Dänemark mit 45,8 Prozent vor Frankreich mit 45,3 Prozent geführt. Erst nach Veröffentlichung des Videos wies Eurostat für 2025 Frankreich als EU-Spitzenreiter mit 46,0 Prozent aus. Das Maß addiert Steuern und Sozialbeiträge. Das Video nennt weder das Berichtsjahr noch den geografischen Umfang genau.",
+      "shortReason": "Zum Videozeitpunkt lag Dänemark knapp vorn; erst danach wies Eurostat Frankreich für 2025 als EU-Spitzenreiter aus.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2734,6 +2757,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Eurostat platziert Frankreich für 2025 bei den privaten Konsumausgaben über dem EU-Mittel. Mehrere EU-Länder sind deutlich teurer. Preisniveau und finanzielle Belastung relativ zum Einkommen messen verschiedene Sachverhalte.",
+      "shortReason": "Frankreich liegt über dem EU-Mittel, mehrere EU-Länder sind aber deutlich teurer.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2778,6 +2802,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Insee misst verbreitete materielle Entbehrung und Geldsorgen. Anfang 2025 berichteten 21 Prozent Schwierigkeiten am Monatsende. Laut Insee blieb diese Quote seit dem Anstieg 2022 etwa stabil. Für die beiden einzelnen Ausgabenarten und bis Oktober 2026 fehlt hier der passende Zeitvergleich.",
+      "shortReason": "Rund 21 % haben Geldsorgen am Monatsende, die Quote ist seit 2022 aber etwa stabil; ein Anstieg ist nicht belegt.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3067,6 +3092,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Parlamentswahl von 2024 lässt diese Lesart zu. Die amtlichen Ergebnisse führen zugleich weitere Etiketten und messen Sitzgewinn unter einem konkreten Wahlsystem. Die Behauptung fehlender Zusammenarbeit ist in Kapitel 4 gesondert geprüft.",
+      "shortReason": "Die Wahl 2024 lässt drei große Lager als Lesart zu; amtlich gibt es weitere Etiketten.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3111,6 +3137,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Gini-Index für den Lebensstandard in Metropolitanfrankreich stieg 2023 und 2024 und erreichte 0,302. Ein weiteres Maß stieg ebenfalls, das Verhältnis der Schwellen des ersten und neunten Dezils blieb zuletzt nahezu gleich. Die längere Reihe schwankt und reicht hier nur bis 2024.",
+      "shortReason": "Die Ungleichheit stieg 2023 und 2024, die längere Reihe schwankt aber; ein fortlaufender Anstieg ist nicht belegt.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3155,6 +3182,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Insee weist für 2024 eine erhöhte Armutsquote von 32,8 Prozent bei Eingewanderten und 27 Prozent bei Nachkommen aus. Die nationale Auswertung sagt nicht, in welchen Vororten die Betroffenen wohnen. Banlieue umfasst auch sozial gut gestellte Vororte.",
+      "shortReason": "Die Armutsquote von Eingewanderten ist deutlich erhöht; über den Wohnort in Vorstädten sagen die Daten nichts.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3203,6 +3231,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die bpb beschreibt diesen Zuzug im Zusammenhang mit dem dort behandelten Sozialwohnungsbau. Die Tafel ist als Fremdbezug lesbar und trägt keine Quote für sämtliche Vororte oder eine Aussage über ihre heutige Bevölkerung.",
+      "shortReason": "Der Zuzug unter anderem aus Nordafrika ist historisch für bestimmte Wohnanlagen beschrieben, nicht für alle Vororte.",
       "assessmentBasis": "Gezielte Sichtkontrolle der Einblendung und Quellenabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3264,6 +3293,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die bpb stellt diesen historischen Zusammenhang dar. Eine separate quantitative Ursachenanalyse für diese Jahre und jede Vorstadt wurde hier nicht gefunden.",
+      "shortReason": "Den historischen Zusammenhang stellt die bpb dar; eine eigene Ursachenanalyse je Vorstadt fehlt.",
       "assessmentBasis": "Gezielte Sichtkontrolle der Einblendung und Quellenabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3327,6 +3357,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Senatsbericht zu 2023 diskutiert soziale Konzentration und unterschiedliche lokale Auslöser. Das stützt strukturelle Faktoren als Kontext, erlaubt aber keine Übertragung der Erklärung auf einzelne Taten 2026. Die historische bpb-Einordnung liefert keine Ereignisanalyse für den Oktober 2026.",
+      "shortReason": "Strukturelle Faktoren sind als Kontext gestützt, erklären aber nicht die einzelnen Taten im Oktober 2026.",
       "assessmentBasis": "Gezielte Sichtkontrolle der Einblendung und Quellenabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3392,6 +3423,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "2005 und 2023 waren besonders weitreichende Episoden. Im Senatsbericht ist auch Villiers-le-Bel 2007 als ernster lokaler Fall dokumentiert. Die im Video herangezogene bpb-Darstellung nennt zudem Grenoble 2010 und Amiens 2012. Ob 2007 unter die Formulierung fällt, hängt vom im Video fehlenden Maßstab für Größe ab.",
+      "shortReason": "2005 und 2023 waren die größten Unruhen, dazwischen gab es aber weitere, etwa 2007, 2010 und 2012.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3440,6 +3472,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die historische bpb-Analyse beschreibt staatliche Initiativen und anhaltende Probleme. Der später erstellte Senatsbericht dokumentiert Benachteiligungen im Kontext der Unruhen 2023. Eine Wirkungsmessung einzelner Programme bis 2026 braucht definierte Gebiete, Zielgrößen und Vergleichsgruppen.",
+      "shortReason": "Initiativen und anhaltende Probleme sind beschrieben; eine Wirkungsmessung der Programme fehlt.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3490,6 +3523,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Historische Stadtdaten belegen soziale Benachteiligung. Die Forschung zu in der Jugendjustiz erfassten Fällen zeigt unterschiedliche Wege in islamistische Milieus. Die ausgewerteten Fälle erfassen verschiedene soziale Profile und ermöglichen keine Aussage zur Häufigkeit gezielter Rekrutierung in den im Video angesprochenen Vierteln. Auch der Senatsbericht zu den Unruhen 2023 untersucht einen anderen Gegenstand.",
+      "shortReason": "Benachteiligung ist belegt, eine gezielte Rekrutierung in diesen Vierteln lässt sich mit den Studien nicht beziffern.",
       "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3576,6 +3610,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Die Regierung legte dem Untersuchungsausschuss ihre Zuschreibung an ultralinke Gruppen dar. Die Anhörung belegt diese Zuschreibung, aber kein gemeinsames Vorgehen mit einer identifizierten islamistischen Organisation. Zeitgenössische Berichte und spätere Deutungen enthalten gegensätzliche Interpretationen. Das Auftreten mehrerer Gruppen am selben Tag reicht für einen Bündnisnachweis nicht aus.",
+      "shortReason": "Belegt ist die Zuschreibung an ultralinke Gruppen, nicht aber ein gemeinsames Vorgehen mit islamistischen Gruppen.",
       "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3662,6 +3697,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Einzelne Aufrufe und Fotos zeigen, dass Palästinasolidarität für manche Beteiligte ein Anliegen war. Der veröffentlichte Aufruf für Nîmes dokumentiert eine eigene Kundgebung mit einem konkret benannten Anliegen. Weder dieser Aufruf noch die Berichte zu anderen Orten zeigen, dass eine gemeinsame Nahostposition das Motiv eines Bündnisses zwischen den im Video beschriebenen Gruppen war.",
+      "shortReason": "Palästinasolidarität war manchen ein Anliegen; dass eine Nahostposition ein Bündnis verband, zeigen die Quellen nicht.",
       "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3748,6 +3784,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Untertitel lässt offen, welches Symbol gemeint ist. In den im Abstand von einer halben Sekunde gesichteten Bildern der ZDF-Fassung von 09:24 bis 09:39,5 ist an dieser Stelle ausschließlich der Moderator zu sehen. Der Abgleich der Fassung ergab deckungsgleiche Untertitel und Texttafel-Zeitmarken. Palästinensische Fahnen sind unabhängig davon in mehreren Protestzügen journalistisch dokumentiert. Das stützt die Aussage nur, falls diese Fahnen gemeint sind. Die Häufigkeit bei konkreten Gewalthandlungen und der behauptete Zusammenhang mit einem Bündnis bleiben unbelegt. Die Bildkontrolle ist keine Prüfung der Herkunft jedes früher im Beitrag gezeigten Ausschnitts.",
+      "shortReason": "Palästinensische Fahnen sind in Protestzügen dokumentiert; Häufigkeit bei Gewalt und ein Bündniszusammenhang sind unbelegt.",
       "assessmentBasis": "Originaluntertitel, direkte Bildsichtung der abgeglichenen Mediathekfassung und externe Recherche zu den Protesten.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3842,6 +3879,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Die Studien zeigen heterogene soziale und biografische Konstellationen. Die Jugendjustizuntersuchung verarbeitet ausgewählte Fälle und liefert keine Risikorate in der Gesamtbevölkerung. Die Interviewstudie zur außerparlamentarischen Linken untersucht unterschiedliche Lebensläufe. Aus beiden Quellen folgt keine gemeinsame Ursache für islamistische und linksextreme Hinwendung bei jungen Menschen im Herbst 2026.",
+      "shortReason": "Die Studien zeigen sehr unterschiedliche Lebenswege; eine gemeinsame Ursache für beide Arten von Radikalisierung folgt daraus nicht.",
       "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3923,6 +3961,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Die Ipsos-Erhebung nach dem Oktoberwochenende untersucht gesellschaftliche und politische Einstellungen. Die Wahlbefragung 2024 weist Unterschiede nach sozialer Lage aus. Eine Wahlpräferenz, eine nationale Selbstbeschreibung und die Billigung politischer Gewalt sind jedoch verschiedene Merkmale. Die Erhebungen identifizieren keine im Video klar umrissene Gruppe, deren Radikalisierung über Zeit gemessen wurde.",
+      "shortReason": "Die Erhebungen messen Einstellungen und Wahlverhalten, aber keine Radikalisierung einer klar umrissenen Gruppe über Zeit.",
       "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4038,6 +4077,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Marine Le Pen führte bereits in der Ipsos-Befragung im September und blieb nach dem Protestwochenende in der dort geprüften Umfrage vorne. Die neue Befragung zu gesellschaftlichen Einstellungen und die Wahlsoziologie 2024 liefern Kontext. Sie verknüpfen die behauptete Radikalisierung aber nicht ursächlich mit zusätzlichen Stimmen oder Wahlabsichten für den RN.",
+      "shortReason": "Le Pen führt in Umfragen; ein ursächlicher Zusammenhang mit der beschriebenen Radikalisierung ist nicht belegt.",
       "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4216,6 +4256,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Historische Verbindungen zwischen Frankreichs Kolonialgeschichte und Einwanderung sind dokumentiert. Vergleichende Arbeiten zeigen auch urbane Unruhen in Großbritannien. Sie vergleichen jeweils konkrete Episoden und setzen weder einen gemeinsamen Maßstab für Gesellschaftsspaltung und Radikalisierung noch bestimmen sie einen französischen Sonderfall im Oktober 2026. Das Video lässt zudem offen, welche der zuvor genannten Entwicklungen verglichen wird.",
+      "shortReason": "Die Verbindung von Kolonialgeschichte und Einwanderung ist belegt, ein französischer Sonderfall 2026 lässt sich nicht messen.",
       "assessmentBasis": "Nachprüfung der deutschen Originaluntertitel und Abgleich mit den dokumentierten Sachquellen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4297,6 +4338,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die jüngere Geschichte enthält dokumentierte Gewalt in Protestkontexten. Motive unterscheiden sich zwischen Fällen. Die gelesenen Befunde belegen weder einen durchgehenden Trend seit der Revolution noch eine nationale Besonderheit gegenüber anderen Ländern.",
+      "shortReason": "Gewalt in Protesten ist dokumentiert; ein durchgehender Trend oder eine französische Besonderheit ist nicht belegt.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4576,6 +4618,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Der verlinkte Bericht dokumentiert zwei Tage schwerer Ausschreitungen in Mailand mit dort über 200 Festnahmen. Er nennt zudem Festnahmen in weiteren norditalienischen Städten. Die Existenz ist belegt, die räumliche und zeitliche Verteilung fällt breiter aus als die knappe Einordnung nahelegt.",
+      "shortReason": "Es gab zwei Tage schwere Ausschreitungen in Mailand mit über 200 Festnahmen und weitere Festnahmen; „vereinzelt“ verharmlost das.",
       "assessmentBasis": "Abgleich der eigenen Paraphrase mit den zugeordneten Quellen und ihrem jeweiligen Zeitstand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4664,6 +4707,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die in der Einblendung genannte historische Darstellung beschreibt Wegzug, Zuzug und Arbeitslosigkeit als zusammenhängende Prozesse in bestimmten Großwohnsiedlungen. Sie dokumentiert einen historischen Erklärungsansatz. Sie erlaubt keinen Schluss auf sämtliche Vororte und ersetzt keine Messung der heutigen Verteilung.",
+      "shortReason": "Die Darstellung beschreibt das für bestimmte Großwohnsiedlungen, nicht für alle Vororte oder die heutige Lage.",
       "assessmentBasis": "Nachprüfung der bereits direkt kontrollierten Texttafel und der gelesenen bpb-Fundstelle.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4756,6 +4800,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die Grafik kennzeichnet ihre Basis als erste Schätzung. Die Kurve für Ende 2025 und Anfang 2026 sowie die dargestellten Beiträge stimmen in der Größenordnung mit dem Insee-Stand vom April überein. Insee revidierte die Q1-Rate bereits vor der Videoveröffentlichung auf −0,2 Prozent. Für Q2 meldete Insee 0,0 Prozent. Die Abbildung zeigt damit einen echten älteren Datenstand, ohne den im Oktober bereits verfügbaren neueren Stand einzuordnen. Die Einordnung betrifft die Aktualität der gezeigten Schätzung.",
+      "shortReason": "Die Grafik zeigt eine ältere Schätzung; Insee hatte das erste Quartal 2026 schon vor dem Video auf −0,2 % korrigiert.",
       "assessmentBasis": "Direkte Sichtung der Mediathekfassung und Abgleich mit den gelesenen Primärdaten.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4808,6 +4853,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die drei größten Gruppen sind in der Rangfolge richtig dargestellt. Aus den amtlichen Kandidatenetiketten ergeben sich 33,22 Prozent für RN und UXD zusammen, 28,06 Prozent für die Union der Linken und 20,04 Prozent für Ensemble. LR liegt bei 6,57 Prozent, Reconquête bei 0,75 Prozent. Die sechs angezeigten Balken ergeben zusammen nur 95,5 Prozent, obwohl eine Restkategorie beschriftet ist. Auch im amtlichen Endstand verbleiben bei derselben Gruppierung rund 11,36 Prozent für alle übrigen Etiketten. Die Grafik nennt einen vorläufigen Auszählungsstand. Die Differenz zur vollständigen Verteilung ist zu groß für bloße Rundung.",
+      "shortReason": "Die Rangfolge stimmt, die Balken ergeben aber nur 95,5 %; die Restkategorie fehlt fast vollständig.",
       "assessmentBasis": "Direkte Sichtung der Mediathekfassung und Abgleich mit den gelesenen Primärdaten.",
       "migration": {
         "changeType": "Neuerfassung",
