@@ -25,6 +25,7 @@ Die Webseite ist der zentrale Zugang zu allen Videoanalysen, Aussagen, Quellen u
 - **Reaktion „Alfred räumt auf“ über dieses Gespräch:** 66 erfasste Aussagen; 62 abgeschlossen, 4 mit Grund nicht überprüfbar.
 - Beide Prüfungen sind **Teilbestände**: Nicht jede Nebenbemerkung ist erfasst, deshalb gibt es keine Bilanz des ganzen Videos.
 - Faktenchecks zu Interviews bei „{ungeskriptet} by Ben“ (Horst Lüning, Naomi Seibt) stehen auf der Schwesterseite **[Faktencheck Ungeskriptet](https://4m3projects.github.io/politik4m3FaktencheckUngeskriptet/)**. Beide Seiten sind über das Menü am Seitentitel verbunden. Die älteren Daten dazu bleiben hier im Repository ([Begründung](docs/WEBSEITE.md), Abschnitt „Ausgeblendete Videos“).
+- Faktenchecks zu Klima, Wetter, Energie, Atomkraft und Umwelt stehen auf der Schwesterseite **[Faktencheck Klima & Energie](https://4m3projects.github.io/politik4m3FaktencheckKlima/)**. Alle drei Seiten sind über das Menü am Seitentitel verbunden.
 - Bewertungen und Berichte können überarbeitet und korrigiert werden.
 
 ## Mitwirken
