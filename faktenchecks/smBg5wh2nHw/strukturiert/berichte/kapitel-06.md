@@ -1,8 +1,8 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden einen ersten Teilbestand. Die vollständige Einzelerfassung und die Prüfung offener Fragen stehen aus.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden eine Teilprüfung. Von 60 erfassten Prüfpunkten bleiben vier mangels konkreter oder zeitnaher Angaben offen. Die Einzelerfassung des gesamten Videos und Hör- oder Sichtkontrolle sind nicht abgeschlossen.
 
-Automatische deutsche Originaluntertitel und die jeweils genannten Sachquellen. Die Zuordnung erfolgt aus dem Untertitelzusammenhang. Eine Hör- und Sichtkontrolle steht aus. Die öffentliche Sachrecherche deckt zunächst ausgewählte Aussagen ab.
+Automatische deutsche Originaluntertitel und die jeweils genannten Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Die Nachprüfung trennt die Wiedergabe von Medienartikeln von der unabhängigen Überprüfung ihrer Zahlen und Zuschreibungen.
 
 ## smBg5wh2nHw-A0048
 
@@ -29,7 +29,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Angaben betreffen einen vergangenen Stand zweier Kanäle. Die Addition von Abonnements zeigt keine Zahl unterschiedlicher Personen.
+Noch nicht geprüft – Die Aussage betrifft einen historischen Stand der Abonnentenzähler. Heutige Kanalzahlen erlauben keine Rückrechnung.
 
 Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
 
@@ -43,7 +43,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Gibt es einen zeitnahen archivierten Stand beider Kanalzähler?
+- Gibt es öffentlich archivierte Kanalstände aus der Woche des 23. Oktober 2026 für beide Kanäle?
 
 ## smBg5wh2nHw-A0049
 

@@ -1,8 +1,8 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden einen ersten Teilbestand. Die vollständige Einzelerfassung und die Prüfung offener Fragen stehen aus.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden eine Teilprüfung. Von 60 erfassten Prüfpunkten bleiben vier mangels konkreter oder zeitnaher Angaben offen. Die Einzelerfassung des gesamten Videos und Hör- oder Sichtkontrolle sind nicht abgeschlossen.
 
-Automatische deutsche Originaluntertitel und die jeweils genannten Sachquellen. Die Zuordnung erfolgt aus dem Untertitelzusammenhang. Eine Hör- und Sichtkontrolle steht aus. Die öffentliche Sachrecherche deckt zunächst ausgewählte Aussagen ab.
+Automatische deutsche Originaluntertitel und die jeweils genannten Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Die Nachprüfung trennt die Wiedergabe von Medienartikeln von der unabhängigen Überprüfung ihrer Zahlen und Zuschreibungen.
 
 ## smBg5wh2nHw-A0018
 
@@ -71,7 +71,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Host berichtet von eigenen Erfahrungen. Die konkrete Einrichtung, deren Reinigung und der Umfang der Arbeit lassen sich aus dem Text nicht verifizieren.
+Noch nicht geprüft – Die geschilderte Hallenreinigung und der Zustand der vom Host besuchten Sanitäranlagen sind persönliche Beobachtungen. Allgemeine Haushalts- oder Gebäudedaten dokumentieren diese konkreten Vorgänge nicht.
 
 Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
 
@@ -85,7 +85,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche überprüfbaren Angaben zur Einrichtung und zu den tatsächlich gereinigten Flächen sind verfügbar?
+- Gibt es eine öffentliche Stellungnahme zur konkret gemeinten Einrichtung oder zur beschriebenen Tätigkeit?
 
 ## smBg5wh2nHw-A0020
 
@@ -93,7 +93,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Kosten angemessener Schulreinigung wären im Vergleich zu Deutschlands Rüstungsausgaben sehr gering.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -112,13 +112,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Vergleich nennt weder Gebiet und Zeitraum noch einen konkreten Reinigungsstandard.
+Der Host bewertet die hypothetischen Reinigungskosten als gering im Verhältnis zur Rüstung. Er nennt keine Summe und legt weder Gebäudebestand noch Reinigungsstandard fest. Die Stelle formuliert eine politische Gewichtung von Ausgaben.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Fundstelle aus automatischen Originaluntertiteln. Sachquellen und Grenzen stehen bei der jeweiligen Prüfung.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Von Offen zu Meinung / Prognose nach Nachprüfung.
 
 ### Zugeordnete Quellen
 
@@ -126,7 +126,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Auf welche Schulen, kommunalen Kosten und welche Position des Bundeshaushalts bezieht sich der Vergleich?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## smBg5wh2nHw-A0021
 
@@ -134,7 +134,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die meisten beteiligten Schülerinnen und Schüler kamen aus sozial benachteiligten Quartieren.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -153,22 +153,38 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Host spricht von einem Mehrheitsverhältnis. Die zeitliche Ausbreitung über verschiedene Schulstandorte beantwortet die Frage der Wohnorte nicht.
+Das Justizministerium untersucht 1.504 Minderjährige, die im Zusammenhang mit den Schülerprotesten bis zum 9. Oktober der Justiz vorgeführt wurden. Die Studie warnt ausdrücklich davor, die Gruppe auf alle am Protest Beteiligten zu übertragen. Der Vergleich mit der landesweiten Mobilisierung und den örtlichen Berichten über Festnahmen liefert ebenfalls keine repräsentative Stichprobe der beteiligten Schülerinnen und Schüler.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Fundstelle aus automatischen Originaluntertiteln. Sachquellen und Grenzen stehen bei der jeweiligen Prüfung.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Von Offen zu Nicht ausreichend belegbar nach Nachprüfung.
 
 ### Zugeordnete Quellen
 
 - [Justizministerium: Étude sur les mineurs déférés dans le cadre du mouvement lycéen](https://www.justice.gouv.fr/sites/default/files/2026-11/etude_mouvement_lyceen_2026.pdf) · Französisches Justizministerium, November 2026.
   Quellenzugriff am 2026-11-20. Einleitung zur Mobilisierung im September und Oktober gelesen. Die untersuchte Gruppe umfasst Minderjährige, die der Justiz vorgeführt wurden. Bezug und Reichweite stehen in der Begründung.
 
+- [Politique de la ville et prestations de la CAF en 2023](https://www.insee.fr/fr/statistiques/8357246) · Insee Focus 348, Armutsdaten für 2021.
+  Quellenzugriff am 2026-11-20. Definition und Armutswerte für Förderquartiere und das französische Mutterland gelesen. Bezug und Reichweite stehen in der Begründung.
+
+- [Manifestation du 17 octobre à Toulouse : profil des personnes interpellées](https://www.ladepeche.fr/2026/10/18/manifestation-du-17-octobre-a-toulouse-pilleurs-militants-dultragauche-qui-sont-les-107-personnes-interpellees-13608781.php) · Hocine Zaoui, La Dépêche du Midi, 18./19.10.2026.
+  Quellenzugriff am 2026-11-20. Zugänglichen Teil mit Angaben der Staatsanwaltschaft und der Beschreibung der lokalen Festgenommenen gelesen. Bezug und Reichweite stehen in der Begründung.
+
 ### Offene Fragen und Unsicherheiten
 
-- Gibt es eine repräsentative Erhebung zum sozioökonomischen Umfeld der teilnehmenden Schülerschaft?
+- Repräsentative Angaben zu den Wohnvierteln oder zur sozialen Lage der an den Protesten teilnehmenden Schülerinnen und Schüler.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Repräsentative Angaben zu den Wohnvierteln oder zur sozialen Lage der an den Protesten teilnehmenden Schülerinnen und Schüler.
+
+- Durchgang 1 am 2026-11-20 (Codex): Studiendesign und soziale Merkmale in der Erhebung des Justizministeriums geprüft. Gepruefte Quellen: S001. Ergebnis: Die erste Grundlage liefert einen Teilbefund. Die angefragte Vergleichsgröße bleibt offen.
+
+- Durchgang 2 am 2026-11-20 (Codex): Als Gegenprobe lokale Angaben zur Teilnahme und allgemeine Quartiersdaten mit der Auswahl der Studie verglichen. Gepruefte Quellen: S026, S045. Ergebnis: Der zweite Abgleich grenzt die Aussage weiter ein. Die erforderliche Vergleichsgröße wird auch dort nicht erfasst.
 
 ## smBg5wh2nHw-A0022
 
@@ -176,7 +192,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Von den Plünderungen waren vielfach Geschäfte von Menschen mit Einwanderungsgeschichte betroffen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -195,24 +211,34 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Berichte dokumentieren den Umfang der Plünderungen. Eine Verteilung der Schäden nach persönlicher Herkunft der betroffenen Geschäftsleute ist damit nicht belegt.
+Der Pariser Hilfsentwurf beschreibt Schäden an Geschäften, Handwerksbetrieben und anderen Unternehmen. Der zuständige Minister unterscheidet zwischen beschädigten oder indirekt betroffenen Betrieben und tatsächlich geplünderten Geschäften. Beide öffentlichen Erfassungen nennen keine Aufteilung nach Einwanderungsgeschichte der Inhaber. Die tatsächlich dokumentierte Zahl der Schäden belegt diese zusätzliche Zuschreibung daher nicht.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Fundstelle aus automatischen Originaluntertiteln. Sachquellen und Grenzen stehen bei der jeweiligen Prüfung.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Von Offen zu Nicht ausreichend belegbar nach Nachprüfung.
 
 ### Zugeordnete Quellen
 
-- [Clashes, fires and looting break out as protesters rally across France](https://apnews.com/article/france-school-protests-yellow-vest-44b9d3ba91ffad4029f975dced7e31cb) · Associated Press, 17.10.2026.
-  Quellenzugriff am 2026-11-20. Vor-Ort-Bericht zu Protesten und Ausschreitungen in mehreren Städten sowie zum Einsatz polizeilicher Mittel. Bezug und Reichweite stehen in der Begründung.
+- [Fonds d’urgence pour les commerçants – 2026 DAE 250](https://a06-v7.apps.paris.fr/a06/jsp/site/plugins/odjcp/DoDownload.jsp?id_entite=67883&id_type_entite=6) · Ville de Paris, November 2026.
+  Quellenzugriff am 2026-11-20. Begründung des Entwurfs mit erfassten Schäden und Zielgruppe der Hilfen gelesen. Bezug und Reichweite stehen in der Begründung.
 
-- [Recueil des actes administratifs spécial n° 75-2026-667](https://www.prefectures-regions.gouv.fr/ile-de-france/irecontenu/telechargement/142339/1034675/file/recueil-75-2026-667-recueil-des-actes-administratifs-special%20du%2006.11.2026.pdf) · Préfecture de police, 06.11.2026.
-  Quellenzugriff am 2026-11-20. Begründung mit dem Rückblick auf Paris am 17. und 18. Oktober gelesen. Bezug und Reichweite stehen in der Begründung.
+- [Audition de Serge Papin](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/cion-eco/l17cion-eco2627016_compte-rendu.pdf) · Assemblée nationale, Wirtschaftsausschuss, Herbst 2026.
+  Quellenzugriff am 2026-11-20. Angaben des Ministers zu Schäden, Plünderungen und der Verteilung nach Städten gelesen. Bezug und Reichweite stehen in der Begründung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Gibt es belastbare Daten zur Betroffenheit nach Geschäftsinhaber und Standort?
+- Eine belastbare Merkmalsauswertung tatsächlich geplünderter Geschäfte und ihrer Inhaber.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Eine belastbare Merkmalsauswertung tatsächlich geplünderter Geschäfte und ihrer Inhaber.
+
+- Durchgang 1 am 2026-11-20 (Codex): In den Pariser Unterlagen zur Entschädigung nach Merkmalen der betroffenen Betriebe gesucht. Gepruefte Quellen: S048. Ergebnis: Die erste Grundlage liefert einen Teilbefund. Die angefragte Vergleichsgröße bleibt offen.
+
+- Durchgang 2 am 2026-11-20 (Codex): Im Bericht des Ministers nach einer getrennten nationalen Erfassung von Plünderungen und persönlichen Merkmalen der Betroffenen gesucht. Gepruefte Quellen: S049. Ergebnis: Der zweite Abgleich grenzt die Aussage weiter ein. Die erforderliche Vergleichsgröße wird auch dort nicht erfasst.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

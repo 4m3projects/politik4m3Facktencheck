@@ -1,8 +1,8 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden einen ersten Teilbestand. Die vollständige Einzelerfassung und die Prüfung offener Fragen stehen aus.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden eine Teilprüfung. Von 60 erfassten Prüfpunkten bleiben vier mangels konkreter oder zeitnaher Angaben offen. Die Einzelerfassung des gesamten Videos und Hör- oder Sichtkontrolle sind nicht abgeschlossen.
 
-Automatische deutsche Originaluntertitel und die jeweils genannten Sachquellen. Die Zuordnung erfolgt aus dem Untertitelzusammenhang. Eine Hör- und Sichtkontrolle steht aus. Die öffentliche Sachrecherche deckt zunächst ausgewählte Aussagen ab.
+Automatische deutsche Originaluntertitel und die jeweils genannten Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Die Nachprüfung trennt die Wiedergabe von Medienartikeln von der unabhängigen Überprüfung ihrer Zahlen und Zuschreibungen.
 
 ## smBg5wh2nHw-A0037
 
@@ -94,7 +94,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Verbindliche Wohnquoten seien das einzige Mittel gegen die räumliche Konzentration von Gruppen derselben Herkunft.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -113,21 +113,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Neben dem politischen Vorschlag enthält die Aussage eine überprüfbare Behauptung über die Wirkung und Alternativlosigkeit des Mittels.
+Die politische Präferenz für verpflichtende Quoten ist eine Wertung. Die Aussage, es gebe keine andere wirksame Möglichkeit, geht weiter. Eine randomisierte Studie in Seattle und King County zeigt, dass freiwillige Wohnungsvermittlung mit Beratung und finanzieller Hilfe den Umzug in chancenreichere Viertel von 15 auf 53 Prozent steigern konnte. Das betrifft Einkommenssegregation in diesem US-Programm. Daraus folgt weder ein bestimmter Effekt auf herkunftsbezogene Segregation in Europa noch die Alternativlosigkeit verpflichtender Quoten.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Fundstelle aus automatischen Originaluntertiteln. Sachquellen und Grenzen stehen bei der jeweiligen Prüfung.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Von Offen zu Irreführend / Kontext fehlt nach Nachprüfung.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Creating Moves to Opportunity: Experimental Evidence on Barriers to Neighborhood Choice](https://www.aeaweb.org/articles?ArticleSearch%5Bq%5D=financial&ArticleSearch%5Bwithin%5D%5Barticleabstract%5D=1&ArticleSearch%5Bwithin%5D%5Barticletitle%5D=1&JelClass%5Bvalue%5D=0&from=j&id=10.1257%2Faer.20200407&page=3&per-page=21) · Bergman, Chetty, DeLuca, Hendren, Katz und Palmer, American Economic Review, 2024.
+  Quellenzugriff am 2026-11-20. Studiendesign, Ergebnisse und Bezugsgruppe in der Zusammenfassung des Originalartikels gelesen. Bezug und Reichweite stehen in der Begründung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Vergleichsstudien prüfen die Wirkung von Quoten und freiwilligen oder strukturellen Alternativen?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## smBg5wh2nHw-A0040
 
@@ -176,7 +177,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ohne Integrationspolitik verfestigen sich getrennte Milieus und die Mehrheit wählt radikalere Angebote.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Prognose
 
 ### Fundstellen und Zuordnung
 
@@ -195,13 +196,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Kette verbindet Wohnumfeld, Integration und späteres Wahlverhalten.
+Der Host sagt eine künftige Entwicklung über Generationen voraus. Er formuliert weder ein überprüfbares Ausmaß noch einen Zeitraum oder ein festgelegtes Gebiet. Die Aussage verbindet den befürchteten Verlauf mit seiner politischen Forderung.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Fundstelle aus automatischen Originaluntertiteln. Sachquellen und Grenzen stehen bei der jeweiligen Prüfung.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Von Offen zu Meinung / Prognose nach Nachprüfung.
 
 ### Zugeordnete Quellen
 
@@ -209,6 +210,6 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Daten erlauben Aussagen über die behaupteten Wirkungszusammenhänge über mehrere Generationen?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

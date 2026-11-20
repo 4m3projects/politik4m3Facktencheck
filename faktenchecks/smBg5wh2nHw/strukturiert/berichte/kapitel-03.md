@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden einen ersten Teilbestand. Die vollständige Einzelerfassung und die Prüfung offener Fragen stehen aus.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden eine Teilprüfung. Von 60 erfassten Prüfpunkten bleiben vier mangels konkreter oder zeitnaher Angaben offen. Die Einzelerfassung des gesamten Videos und Hör- oder Sichtkontrolle sind nicht abgeschlossen.
 
-Automatische deutsche Originaluntertitel und die jeweils genannten Sachquellen. Die Zuordnung erfolgt aus dem Untertitelzusammenhang. Eine Hör- und Sichtkontrolle steht aus. Die öffentliche Sachrecherche deckt zunächst ausgewählte Aussagen ab.
+Automatische deutsche Originaluntertitel und die jeweils genannten Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Die Nachprüfung trennt die Wiedergabe von Medienartikeln von der unabhängigen Überprüfung ihrer Zahlen und Zuschreibungen.
 
 ## smBg5wh2nHw-A0023
 
@@ -52,7 +52,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das französische Kolonialreich erstreckte sich vom 16. Jahrhundert bis in die 1960er Jahre über Teile Afrikas, der Karibik und Indiens.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -71,13 +71,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Aussage fasst unterschiedliche Gebiete und Epochen in einem Zeitraum zusammen.
+Französische Kolonialversuche reichen mit Cartier in Nordamerika ins 16. Jahrhundert zurück. Der französischen Archivübersicht zufolge gehörten zu verschiedenen Zeiten auch Teile Afrikas, der Karibik und Niederlassungen in Indien zum französischen Kolonialbereich. Die genannten Gebiete standen zu unterschiedlichen Zeiten unter französischer Kontrolle. Das französische Protektorat in Tunesien begann etwa 1881, und die Unabhängigkeit Djiboutis folgte 1977. Guadeloupe und Martinique blieben französische Gebiete.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Fundstelle aus automatischen Originaluntertiteln. Sachquellen und Grenzen stehen bei der jeweiligen Prüfung.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Von Offen zu Teilweise belegt nach Nachprüfung.
 
 ### Zugeordnete Quellen
 
@@ -87,9 +87,18 @@ Bewertungsuebergang: Erstprüfung für dieses Video.
 - [Loi n° 46-451 du 19 mars 1946, Artikel 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006385372/1946-03-20) · Légifrance, Gesetz vom 19.03.1946.
   Quellenzugriff am 2026-11-20. Artikel 1 in der am 20.03.1946 wirksamen Fassung gelesen. Bezug und Reichweite stehen in der Begründung.
 
+- [Les fonds ministériels](https://archives-nationales-outre-mer.culture.gouv.fr/en/node/113) · Archives nationales d’outre-mer.
+  Quellenzugriff am 2026-11-20. Archivbeschreibung zu Gebieten und Chronologie der beiden französischen Kolonialreiche. Bezug und Reichweite stehen in der Begründung.
+
+- [Le troisième voyage de Jacques Cartier (1541–1542)](https://parcs.canada.ca/lhn-nhs/qc/cartierbrebeuf/culture/histoire-history/evenement-event/cartier/d?wbdisable=true) · Parcs Canada.
+  Quellenzugriff am 2026-11-20. Abschnitt zum zeitlich begrenzten französischen Siedlungsversuch ab 1541 gelesen. Bezug und Reichweite stehen in der Begründung.
+
+- [Anciens territoires de la République française](https://www.cours-appel.justice.fr/sites/default/files/2018-06/TICHARTRESNFLISTEpieceCNF3.pdf) · Französische Justiz, Anlage mit Unabhängigkeits- und Übergangsdaten.
+  Quellenzugriff am 2026-11-20. Auflistung für afrikanische Gebiete und die ehemaligen französischen Niederlassungen in Indien gelesen. Bezug und Reichweite stehen in der Begründung.
+
 ### Offene Fragen und Unsicherheiten
 
-- Wann begann und endete die französische Herrschaft in den jeweils gemeinten Gebieten und welche Gebiete blieben danach französisch?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## smBg5wh2nHw-A0025
 
@@ -313,7 +322,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Aus französisch beherrschten Gebieten in Afrika gingen rund zwanzig heutige Staaten hervor.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -332,22 +341,31 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Gesamtzahl hängt davon ab, ob auch Schutz- und Treuhandgebiete mitgezählt werden. Die unabhängig überprüfte Zahl der Unabhängigkeiten im Jahr 1960 steht gesondert unter A0050.
+Die ungefähre Größenordnung ist nachvollziehbar, wenn auch Gebiete unter französischem Mandat oder Protektorat zählen. Zur Gruppe von vierzehn im Jahr 1960 unabhängig gewordenen Staaten kommen in dieser Abgrenzung Guinea, Marokko, Tunesien, Algerien, die Komoren und Djibouti. Die historischen Rechtsstellungen waren unterschiedlich.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Fundstelle aus automatischen Originaluntertiteln. Sachquellen und Grenzen stehen bei der jeweiligen Prüfung.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Von Offen zu Belegt nach Nachprüfung.
 
 ### Zugeordnete Quellen
+
+- [Protectorats et mandat français (1881–1956)](https://www.diplomatie.gouv.fr/fr/archives-bibliotheque/s-orienter-dans-les-fonds-et-collections/protectorats-et-mandat-francais-1881-1956) · Archives diplomatiques, aktualisiert am 07.09.2026.
+  Quellenzugriff am 2026-11-20. Archivübersicht mit den Zeiträumen der französischen Protektorate gelesen. Bezug und Reichweite stehen in der Begründung.
+
+- [Étude A/CN.4/730, Abschnitt 26](https://digitallibrary.un.org/record/3801945/files/A_CN.4_730-FR.pdf) · Völkerrechtskommission der Vereinten Nationen, 2019.
+  Quellenzugriff am 2026-11-20. Abschnitt über Évian und den Schriftwechsel vom 03.07.1962 gelesen. Bezug und Reichweite stehen in der Begründung.
 
 - [La francophonie en Afrique : quel avenir ?](https://www.assemblee-nationale.fr/13/evenements/colloque_cinquantenaire.pdf) · Assemblée nationale, Tagungsdokumentation zum 50. Jahrestag der Unabhängigkeiten, 2010.
   Quellenzugriff am 2026-11-20. Passage zur Zahl der afrikanischen Unabhängigkeiten im Jahr 1960 gelesen. Bezug und Reichweite stehen in der Begründung.
 
+- [Anciens territoires de la République française](https://www.cours-appel.justice.fr/sites/default/files/2018-06/TICHARTRESNFLISTEpieceCNF3.pdf) · Französische Justiz, Anlage mit Unabhängigkeits- und Übergangsdaten.
+  Quellenzugriff am 2026-11-20. Auflistung für afrikanische Gebiete und die ehemaligen französischen Niederlassungen in Indien gelesen. Bezug und Reichweite stehen in der Begründung.
+
 ### Offene Fragen und Unsicherheiten
 
-- Welche Staatsgebiete und kolonialen Rechtsformen umfasst die Zwanzigerzahl genau?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## smBg5wh2nHw-A0031
 
