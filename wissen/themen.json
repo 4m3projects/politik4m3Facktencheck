@@ -418,6 +418,50 @@
           "change": "Neu angelegt bei der Feinzuordnung des Frankreich-Videos nrnpcqzhd44."
         }
       ]
+    },
+    {
+      "id": "energie",
+      "name": "Energie",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Strom"
+      ],
+      "description": "Stromerzeugung, Energiepreise, Energiewende.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        },
+        {
+          "date": "2026-11-20",
+          "agent": "Codex",
+          "change": "Vorhandene Schwesterprojekt-ID für Aussagen zum Strom- und Wasserbedarf dieser Teilprüfung übernommen."
+        }
+      ]
+    },
+    {
+      "id": "ki",
+      "name": "KI",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Künstliche Intelligenz",
+        "AI"
+      ],
+      "description": "Fähigkeiten, Entwicklung, Anwendungen und gesellschaftliche Folgen künstlicher Intelligenz.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-20",
+          "agent": "Codex",
+          "change": "Neues Sachthema aus den erfassten Aussagen der KI-Teilprüfung; zuvor vorhandene Themen und Aliasse beider Projekte auf Überschneidungen geprüft."
+        }
+      ]
     }
   ]
 }

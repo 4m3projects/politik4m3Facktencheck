@@ -1,0 +1,170 @@
+{
+    "schemaVersion":  2,
+    "scope":  "Teilbestand",
+    "coverageNote":  "Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.",
+    "videoId":  "JPZ3yqVJR8c",
+    "selectedLegacyPoints":  0,
+    "totalLegacyPoints":  0,
+    "statementRecords":  140,
+    "uniqueStatements":  140,
+    "referenceOnlyStatements":  0,
+    "unresolvedRoleOnlyStatements":  0,
+    "assertionOccurrences":  142,
+    "additionalAssertionOccurrences":  2,
+    "sameSpeakerRepeatedAssertionOccurrences":  0,
+    "referenceOccurrences":  1,
+    "unresolvedRoleOccurrences":  0,
+    "statusCounts":  {
+                         "Offen":  54,
+                         "In Bearbeitung":  0,
+                         "Nicht überprüfbar":  0,
+                         "Abgeschlossen":  86
+                     },
+    "kindCounts":  {
+                       "Tatsachenbehauptung":  103,
+                       "Meinung":  8,
+                       "Prognose":  29
+                   },
+    "completedFacts":  49,
+    "openFacts":  54,
+    "inProgressFacts":  0,
+    "unverifiableFacts":  0,
+    "percentageDenominator":  49,
+    "percentageDenominatorDefinition":  "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
+    "categories":  [
+                       {
+                           "category":  "Belegt",
+                           "completedCount":  20,
+                           "completedFactPercent":  40.8
+                       },
+                       {
+                           "category":  "Teilweise belegt",
+                           "completedCount":  18,
+                           "completedFactPercent":  36.7
+                       },
+                       {
+                           "category":  "Irreführend / Kontext fehlt",
+                           "completedCount":  8,
+                           "completedFactPercent":  16.3
+                       },
+                       {
+                           "category":  "Widerlegt",
+                           "completedCount":  3,
+                           "completedFactPercent":  6.1
+                       },
+                       {
+                           "category":  "Nicht ausreichend belegbar",
+                           "completedCount":  0,
+                           "completedFactPercent":  0
+                       },
+                       {
+                           "category":  "Meinung / Prognose",
+                           "completedCount":  37,
+                           "completedFactPercent":  null
+                       }
+                   ],
+    "speakerStatistics":  {
+                              "definition":  "Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.",
+                              "persons":  [
+                                              {
+                                                  "speakerId":  "SP01",
+                                                  "name":  "Sinan",
+                                                  "uniqueFacts":  0,
+                                                  "completedFacts":  0,
+                                                  "openFacts":  0,
+                                                  "inProgressFacts":  0,
+                                                  "unverifiableFacts":  0,
+                                                  "percentageDenominator":  0,
+                                                  "categories":  [
+                                                                     {
+                                                                         "category":  "Belegt",
+                                                                         "completedCount":  0,
+                                                                         "completedFactPercent":  null
+                                                                     },
+                                                                     {
+                                                                         "category":  "Teilweise belegt",
+                                                                         "completedCount":  0,
+                                                                         "completedFactPercent":  null
+                                                                     },
+                                                                     {
+                                                                         "category":  "Irreführend / Kontext fehlt",
+                                                                         "completedCount":  0,
+                                                                         "completedFactPercent":  null
+                                                                     },
+                                                                     {
+                                                                         "category":  "Widerlegt",
+                                                                         "completedCount":  0,
+                                                                         "completedFactPercent":  null
+                                                                     },
+                                                                     {
+                                                                         "category":  "Nicht ausreichend belegbar",
+                                                                         "completedCount":  0,
+                                                                         "completedFactPercent":  null
+                                                                     },
+                                                                     {
+                                                                         "category":  "Meinung / Prognose",
+                                                                         "completedCount":  0,
+                                                                         "completedFactPercent":  null
+                                                                     }
+                                                                 ]
+                                              },
+                                              {
+                                                  "speakerId":  "SP02",
+                                                  "name":  "Alfred",
+                                                  "uniqueFacts":  0,
+                                                  "completedFacts":  0,
+                                                  "openFacts":  0,
+                                                  "inProgressFacts":  0,
+                                                  "unverifiableFacts":  0,
+                                                  "percentageDenominator":  0,
+                                                  "categories":  [
+                                                                     {
+                                                                         "category":  "Belegt",
+                                                                         "completedCount":  0,
+                                                                         "completedFactPercent":  null
+                                                                     },
+                                                                     {
+                                                                         "category":  "Teilweise belegt",
+                                                                         "completedCount":  0,
+                                                                         "completedFactPercent":  null
+                                                                     },
+                                                                     {
+                                                                         "category":  "Irreführend / Kontext fehlt",
+                                                                         "completedCount":  0,
+                                                                         "completedFactPercent":  null
+                                                                     },
+                                                                     {
+                                                                         "category":  "Widerlegt",
+                                                                         "completedCount":  0,
+                                                                         "completedFactPercent":  null
+                                                                     },
+                                                                     {
+                                                                         "category":  "Nicht ausreichend belegbar",
+                                                                         "completedCount":  0,
+                                                                         "completedFactPercent":  null
+                                                                     },
+                                                                     {
+                                                                         "category":  "Meinung / Prognose",
+                                                                         "completedCount":  0,
+                                                                         "completedFactPercent":  null
+                                                                     }
+                                                                 ]
+                                              }
+                                          ],
+                              "eligibleFacts":  103,
+                              "reliablyAssignedFacts":  0,
+                              "factsWithoutReliablePerson":  103,
+                              "factsWithUncertainAttribution":  103,
+                              "factsWithUncertainOwnRole":  103,
+                              "occurrenceAttributionCounts":  {
+                                                                  "Bestätigt":  0,
+                                                                  "Plausibel":  138,
+                                                                  "Ungeklärt":  5
+                                                              },
+                              "occurrenceRoleStatusCounts":  {
+                                                                 "Bestätigt":  0,
+                                                                 "Plausibel":  143,
+                                                                 "Ungeklärt":  0
+                                                             }
+                          }
+}
