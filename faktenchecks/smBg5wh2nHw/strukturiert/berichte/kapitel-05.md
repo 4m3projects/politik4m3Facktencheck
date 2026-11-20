@@ -1,8 +1,8 @@
 # Kapitel 05: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden eine Teilprüfung. Von 60 erfassten Prüfpunkten bleiben vier mangels konkreter oder zeitnaher Angaben offen. Die Einzelerfassung des gesamten Videos und Hör- oder Sichtkontrolle sind nicht abgeschlossen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht von 00:00:00 bis 00:39:32. Automatische Untertitel liegen von 00:00:00 bis 00:39:28 vor. Die Prüfung der 60 erfassten Punkte ist abgeschlossen. Davon sind zwei ohne öffentliche Prüfgrundlage. Die Einzelpunkte ergeben einen Teilbestand. Die thematische Übersicht umfasst die gesamte Laufzeit.
 
-Automatische deutsche Originaluntertitel und die jeweils genannten Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Die Nachprüfung trennt die Wiedergabe von Medienartikeln von der unabhängigen Überprüfung ihrer Zahlen und Zuschreibungen.
+Grundlage sind automatische deutsche Originaluntertitel und die jeweils angegebenen Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Eine Hör- oder Sichtkontrolle fand nicht statt. Pressewiedergaben und tatsächliche Sachverhalte wurden gesondert geprüft.
 
 ## smBg5wh2nHw-A0042
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Stand der privaten Unterstützung, einzelne Zahlungen und die Automatisierung der Auswertung entsprechen den Angaben des Kanals.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,13 +29,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die aufgelisteten Zahlungen und internen Arbeitsabläufe stammen aus der Selbstauskunft des Kanals. Ohne veröffentlichte Belege bleiben Beträge und Abläufe einzeln nicht prüfbar.
+Nicht überprüfbar – Die einzelnen Unterstützungstransaktionen und der interne Einsatz der Software beruhen auf der Selbstauskunft des Kanals. Die Untertitel geben diese Schilderung wieder. Zahlungsunterlagen und eine unabhängige Dokumentation der internen Arbeitsabläufe sind dafür nicht öffentlich zugänglich.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Automatische deutsche Originaluntertitel zum Inhalt. Die ergänzende Prüfung und ihre Reichweite sind dokumentiert.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Vorher Offen, jetzt Nicht überprüfbar nach abschließender Prüfung der öffentlichen Grundlage.
 
 ### Zugeordnete Quellen
 
@@ -43,7 +43,17 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Gibt es eine eigene öffentliche Dokumentation des Kanals zu diesen Zahlen und zur beschriebenen Software?
+- Eine erneute Prüfung wäre bei freiwillig öffentlich dokumentierten Nachweisen möglich.
+
+### Recherchedokumentation
+
+Einordnung: Derzeit nicht überprüfbar. Sicherheit der Einordnung: Hoch.
+
+Fehlende Information: Freiwillig veröffentlichte, hinreichend dokumentierte Nachweise zu den konkreten Transaktionen und Abläufen.
+
+- Durchgang 1 am 2026-11-20 (Codex): Im Untertiteltext die einzelnen Angaben und ihre Herkunft geprüft. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Zahlungen und Arbeitsabläufe werden vom Host selbst beschrieben.
+
+- Durchgang 2 am 2026-11-20 (Codex): Im öffentlichen Web nach einer zuordenbaren Abrechnung oder technischen Dokumentation der genannten Abläufe gesucht. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Es ergab sich kein öffentliches Dokument, das diese einzelnen Transaktionen und den internen Einsatz der Software prüfen ließe.
 
 ## smBg5wh2nHw-A0043
 
@@ -396,7 +406,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die reine Technik für die im Video beschriebene Anlage würde ungefähr 6.000 bis 8.000 Euro kosten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -415,20 +425,34 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die Schätzung hängt von den Geräten und den konkreten Preisen ab. Die Anzahl der Innengeräte und Außengeräte allein bestimmt keinen Preis.
+Die Stiftung Warentest nennt 3.930 Euro für ein konkretes Multi-Split-Testgerät mit einem Außenteil für bis zu drei Innenräume. Eine separate Vertriebs-Preisliste zeigt je nach Bauart deutlich unterschiedliche Preise für Außen- und Innengeräte. Beide Vergleichswege machen eine große Preisspanne nachvollziehbar, bilden aber die Kombination mit zwei Außen- und fünf Innengeräten aus dem Video nicht ab. Ohne Gerätebezeichnungen, erforderliche Leistung und den damaligen Preisvergleich lässt sich die genannte Spanne für das Vorhaben weder bestätigen noch widerlegen.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Automatische deutsche Originaluntertitel zum Inhalt. Die ergänzende Prüfung und ihre Reichweite sind dokumentiert.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Vorher Offen, jetzt Nicht ausreichend belegbar nach abschließender Prüfung der öffentlichen Grundlage.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Klimageräte im Test](https://www.test.de/Klimageraete-im-Test-4722766-0) · Stiftung Warentest, 27.05.2026.
+  Quellenzugriff am 2026-11-20. Öffentlich einsehbare Zusammenfassung mit dem Preis eines Multi-Split-Beispiels gelesen. Unabhängiger Preisvergleich für eine andere Konfiguration.
+
+- [Preisliste Klimaanlagen 2025](https://downloads.cooldown-vivax.de/katalog_preisliste/Preisliste%20Klimaanlagen%202025.pdf) · Vivax / Cooldown, Hersteller- und Vertriebsangaben, 2025.
+  Quellenzugriff am 2026-11-20. Preislisten für Außen- und Innengeräte gelesen. Nur Beispielpreise eines Anbieters. Anbieterpreise für einzelne Komponenten, zeitlich und sachlich nur als Vergleich geeignet.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Modelle und Preisangebote gehörten zur beschriebenen Zusammenstellung am 23. Oktober 2026?
+- Ein datierter Preisvergleich für die tatsächlich vorgesehene Geräteauswahl könnte die Schätzung überprüfen.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Gerätemodelle, passende Leistung und Preise der vom Host genannten Zusammenstellung zum damaligen Zeitpunkt.
+
+- Durchgang 1 am 2026-11-20 (Codex): Unabhängigen Klimagerätetest auf einen nachvollziehbar bepreisten Multi-Split-Vergleich geprüft. Gepruefte Quellen: S068. Ergebnis: Der Vergleich betrifft ein Außengerät und höchstens drei Innenräume.
+
+- Durchgang 2 am 2026-11-20 (Codex): Separat nach Preisen einzelner Innen- und Außengeräte gesucht und die Anbieter-Preisliste abgeglichen. Gepruefte Quellen: S069. Ergebnis: Aus Anzahl und Einzelpreisen ohne passende Gerätespezifikation lässt sich das konkrete Vorhaben nicht kalkulieren.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

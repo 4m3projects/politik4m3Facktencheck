@@ -1,8 +1,8 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht über 00:00:00 bis 00:39:32. Automatische Untertitel von 00:00:00 bis 00:39:28. Die strukturierten Aussagen bilden eine Teilprüfung. Von 60 erfassten Prüfpunkten bleiben vier mangels konkreter oder zeitnaher Angaben offen. Die Einzelerfassung des gesamten Videos und Hör- oder Sichtkontrolle sind nicht abgeschlossen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht von 00:00:00 bis 00:39:32. Automatische Untertitel liegen von 00:00:00 bis 00:39:28 vor. Die Prüfung der 60 erfassten Punkte ist abgeschlossen. Davon sind zwei ohne öffentliche Prüfgrundlage. Die Einzelpunkte ergeben einen Teilbestand. Die thematische Übersicht umfasst die gesamte Laufzeit.
 
-Automatische deutsche Originaluntertitel und die jeweils genannten Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Die Nachprüfung trennt die Wiedergabe von Medienartikeln von der unabhängigen Überprüfung ihrer Zahlen und Zuschreibungen.
+Grundlage sind automatische deutsche Originaluntertitel und die jeweils angegebenen Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Eine Hör- oder Sichtkontrolle fand nicht statt. Pressewiedergaben und tatsächliche Sachverhalte wurden gesondert geprüft.
 
 ## smBg5wh2nHw-A0018
 
@@ -52,7 +52,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Host beobachtet in Bonner Schulen schlecht gepflegte Sanitäranlagen und reinigt selbst regelmäßig eine Sporthalle.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -71,21 +71,35 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die geschilderte Hallenreinigung und der Zustand der vom Host besuchten Sanitäranlagen sind persönliche Beobachtungen. Allgemeine Haushalts- oder Gebäudedaten dokumentieren diese konkreten Vorgänge nicht.
+Nicht überprüfbar – Der Host schildert eigene Beobachtungen und eine regelmäßige Tätigkeit. Die Schulgebäude sind nicht eindeutig benannt. Die Bonner Angaben zu Ferienreinigung und Sanierung betreffen städtische Abläufe und einzelne Bauprojekte. Sie können weder den Zustand der vom Host besuchten Anlagen noch seine private Mithilfe feststellen.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Automatische deutsche Originaluntertitel zum Inhalt. Die ergänzende Prüfung und ihre Reichweite sind dokumentiert.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Vorher Offen, jetzt Nicht überprüfbar nach abschließender Prüfung der öffentlichen Grundlage.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Sportstätten und Hallenreinigung](https://www.bonn.de/bonn-erleben/aktiv-und-unterwegs/sportstaetten.php?loc=de) · Bundesstadt Bonn, Hinweis zur Hallenreinigung in den Ferien.
+  Quellenzugriff am 2026-11-20. Veröffentlichte Angaben zur städtischen Hallenreinigung gelesen. Allgemeine städtische Angabe. Kein Beleg für die konkrete Erfahrung.
+
+- [Sanierung und Ausbau an der Paul-Gerhardt-Schule](https://www.bonn.de/pressemitteilungen/maerz-2026/sanierung-und-ausbau-an-der-paul-gerhardt-schule.php?loc=de) · Bundesstadt Bonn, 30.03.2026.
+  Quellenzugriff am 2026-11-20. Städtische Darstellung der Gebäudesanierung in Beuel gelesen. Das Video nennt diese Schule nicht. Kontrollquelle zur Reichweite öffentlich dokumentierter Arbeiten. Keine Zuordnung zum Video.
 
 ### Offene Fragen und Unsicherheiten
 
-- Gibt es eine öffentliche Stellungnahme zur konkret gemeinten Einrichtung oder zur beschriebenen Tätigkeit?
+- Für einen späteren Abgleich wären die eindeutig gemeinten Gebäude und zeitnahe unabhängige Angaben zu den geschilderten Vorfällen nötig.
+
+### Recherchedokumentation
+
+Einordnung: Derzeit nicht überprüfbar. Sicherheit der Einordnung: Hoch.
+
+Fehlende Information: Eindeutige Zuordnung der Gebäude und unabhängige Dokumentation der konkreten Beobachtungen.
+
+- Durchgang 1 am 2026-11-20 (Codex): Öffentliche Bonner Hinweise zur Reinigung und Nutzung von Sportstätten geprüft. Gepruefte Quellen: S063. Ergebnis: Die Stadt beschreibt die Ferienreinigung. Sie dokumentiert keine persönliche Sonntagsreinigung.
+
+- Durchgang 2 am 2026-11-20 (Codex): Gezielt nach veröffentlichten Sanierungsangaben zu Beueler Schulen gesucht. Gepruefte Quellen: S064. Ergebnis: Ein benanntes Einzelprojekt gibt keinen Hinweis auf die im Video gemeinte Einrichtung oder Beobachtung.
 
 ## smBg5wh2nHw-A0020
 
