@@ -63,7 +63,7 @@ Ein Lied darf zuspitzen, übertreiben, in Bildern sprechen, Rollen einnehmen und
 - Kennzeichen „♪ Musikvideo“ auf der Startseitenkarte und im Videokopf (`format-music` in `site/style.css`).
 - Über der Aussagenliste und neben dem Player steht ein fester Hinweis, dass Kunst geprüft wird, nur Tatsachenkerne bewertet sind und der Liedtext nicht wiedergegeben wird (`musicNotice` in `site/app.js`).
 - Der Player bleibt im normalen 16:9-Format; ein quadratisches Art-Track-Bild zeigt YouTube darin mit Rand.
-- **Faktenampel:** Musikvideos sind Vollerhebungen mit wenigen Tatsachenkernen. Es gilt dieselbe Mindestgrundlage wie bei Shorts (mindestens 3 entschiedene Tatsachenbehauptungen und mindestens 50 %, `RULES.musikvideo` in `site/ampel.js`, docs/AMPEL.md). Kunstsprache ist nicht erfasst und zählt nie mit; Meinungen zählen wie überall nicht.
+- **Faktenampel:** Musikvideos sind Vollerhebungen mit wenigen Tatsachenkernen. Es gilt dieselbe Mindestgrundlage wie bei Shorts (mindestens 3 bewertete Tatsachenbehauptungen, `CONFIG.fullCapture` in `site/faktenindex.js`, docs/FAKTENINDEX.md). Kunstsprache ist nicht erfasst und zählt nie mit; Meinungen zählen wie überall nicht.
 
 ## Tests
 

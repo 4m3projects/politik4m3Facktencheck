@@ -29,7 +29,7 @@ Andere Dateien werden nicht übernommen. Der Titel stammt aus der ersten Übersc
 - Je Fundstelle: Zeitmarke mit Link zum Original, Zeitpräzision, Sprecherzuordnung (bestätigt / plausibel / ungeklärt) und Aussagebezug mit Begründung.
 - Quellen mit direktem Link, Datenstand, Abrufdatum und Zugriffsgrundlage.
 - Keine Personenrankings oder Glaubwürdigkeitsnoten.
-- Faktenampel je Video (Startseitenkarten, Videokopf, Listen von Originalen und Reaktionen), zur Laufzeit aus den Einzelbewertungen berechnet; Regel nur in `site/ampel.js`, siehe [AMPEL.md](AMPEL.md).
+- Faktenampel je Video (Startseitenkarten, Videokopf, Listen von Originalen und Reaktionen), zur Laufzeit aus den Einzelbewertungen berechnet; Regel nur in `site/faktenindex.js`, siehe [FAKTENINDEX.md](FAKTENINDEX.md).
 
 ## Einmalige Einrichtung
 
@@ -140,8 +140,8 @@ Erstellt von: Claude, auf Auftrag des Nutzers (18.11.2026). Faktenchecks zu Inte
 
 ## YouTube Shorts
 
-Videos mit `"format": "short"` in `video.json` (oder ohne `video.json` mit einer `/shorts/`-Adresse) tragen auf der Startseitenkarte und im Videokopf das Kennzeichen „Short“. In der Video-Ansicht steht der Player im Hochformat 9:16 und ist höchstens so hoch wie das Fenster; nebeneinander bekommt die Aussagenliste den übrigen Platz, untereinander ist der Player schmal und mittig. Die Faktenampel nutzt für Shorts eine eigene Mindestgrundlage (docs/AMPEL.md). Erfassung und Datenmodell: [SHORTS.md](SHORTS.md).
+Videos mit `"format": "short"` in `video.json` (oder ohne `video.json` mit einer `/shorts/`-Adresse) tragen auf der Startseitenkarte und im Videokopf das Kennzeichen „Short“. In der Video-Ansicht steht der Player im Hochformat 9:16 und ist höchstens so hoch wie das Fenster; nebeneinander bekommt die Aussagenliste den übrigen Platz, untereinander ist der Player schmal und mittig. Die Faktenampel nutzt für Shorts eine eigene Mindestgrundlage (docs/FAKTENINDEX.md). Erfassung und Datenmodell: [SHORTS.md](SHORTS.md).
 
 ## Musikvideos
 
-Videos mit `"format": "musikvideo"` in `video.json` tragen auf der Startseitenkarte und im Videokopf das Kennzeichen „♪ Musikvideo“. Über der Aussagenliste und in der Ansicht „Video mit Faktencheck“ erklärt ein fester Hinweis, dass nur Tatsachenkerne bewertet werden, künstlerische Zuspitzung keine Falschaussage ist und der Liedtext nicht wiedergegeben wird. Der Player bleibt 16:9. Die Faktenampel nutzt dieselbe Mindestgrundlage wie bei Shorts (docs/AMPEL.md). Erkennung und Prüfregeln: [MUSIKVIDEOS.md](MUSIKVIDEOS.md).
+Videos mit `"format": "musikvideo"` in `video.json` tragen auf der Startseitenkarte und im Videokopf das Kennzeichen „♪ Musikvideo“. Über der Aussagenliste und in der Ansicht „Video mit Faktencheck“ erklärt ein fester Hinweis, dass nur Tatsachenkerne bewertet werden, künstlerische Zuspitzung keine Falschaussage ist und der Liedtext nicht wiedergegeben wird. Der Player bleibt 16:9. Die Faktenampel nutzt dieselbe Mindestgrundlage wie bei Shorts (docs/FAKTENINDEX.md). Erkennung und Prüfregeln: [MUSIKVIDEOS.md](MUSIKVIDEOS.md).
