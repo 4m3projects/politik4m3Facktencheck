@@ -331,6 +331,61 @@
       "topics": [
         "wirtschaft"
       ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0050",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0051",
+      "topics": [
+        "frankreich/vorstaedte",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0052",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0053",
+      "topics": [
+        "frankreich/proteste",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0054",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0055",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0056",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0060",
+      "topics": [
+        "wirtschaft"
+      ]
     }
   ],
   "history": [
@@ -338,6 +393,11 @@
       "date": "2026-11-20",
       "agent": "Codex",
       "change": "Erstzuordnung für die Teilprüfung."
+    },
+    {
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "Themen für zusätzliche Prüfpunkte ergänzt."
     }
   ]
 }

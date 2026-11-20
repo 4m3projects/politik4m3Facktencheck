@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die französische Komödie Monsieur Claude und seine Töchter stammt aus dem Jahr 2014.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,21 +29,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Titel und das Erscheinungsjahr werden zur Einordnung eines Filmausschnitts genannt.
+Unifrance nennt den 16. April 2014 als französischen Kinostart. In den technischen Filmdaten steht zusätzlich 2013 als Produktionsjahr.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Fundstelle aus den deutschen Originaluntertiteln und Abgleich mit den zugeordneten Sachquellen.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Recherche des ersten Teilstands fortgeschrieben.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Qu’est-ce qu’on a fait au bon Dieu ?](https://www.unifrance.org/film/36592/qu-est-ce-qu-on-a-fait-au-bon-dieu) · Unifrance, französischer Kinostart 16.04.2014.
+  Quellenzugriff am 2026-11-20. Filmregister zu Produktion und Starttermin gelesen. Bezug und Reichweite stehen in der Begründung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welches Erscheinungsjahr nennt der französische Originalverleih?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## smBg5wh2nHw-A0038
 
@@ -51,7 +52,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Auch die Bundesrepublik warb ausländische Arbeitskräfte an und behandelte den Aufenthalt ursprünglich als vorübergehend.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -70,21 +71,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Vergleich betrifft die westdeutsche Anwerbepolitik und die zunächst vorausgesetzte Aufenthaltsdauer.
+Das Politische Archiv dokumentiert das Abkommen mit Italien vom Dezember 1955 und weitere bilaterale Anwerbeabkommen. Es beschreibt auch, dass die damalige Politik eine dauerhafte Integration zunächst nicht einplante. Die einzelnen Abkommen und tatsächlichen Aufenthalte entwickelten sich unterschiedlich.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Fundstelle aus den deutschen Originaluntertiteln und Abgleich mit den zugeordneten Sachquellen.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Recherche des ersten Teilstands fortgeschrieben.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Wie Deutschland Einwanderungsland wurde](https://archiv.diplo.de/arc-de/das-politische-archiv/das-besondere-dokument/70-jahre-anwerbeabkommen-2748034) · Politisches Archiv des Auswärtigen Amts, zum 70. Jahrestag des Abkommens von 1955.
+  Quellenzugriff am 2026-11-20. Darstellung der bilateralen Anwerbeabkommen und der ursprünglichen Erwartungen an den Aufenthalt gelesen. Bezug und Reichweite stehen in der Begründung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Anwerbeabkommen und damaligen Regeln zur Verweildauer stützen die Darstellung?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## smBg5wh2nHw-A0039
 

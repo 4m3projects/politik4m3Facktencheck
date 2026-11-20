@@ -91,7 +91,7 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Nach dem Sommer sind Klimageräte deutlich teurer geworden und die vorgesehene Technik kostet ungefähr 6.000 bis 8.000 Euro.
+**Eigene Beschreibung:** Klimageräte wurden nach dem Sommer 2026 deutlich teurer.
 
 Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
@@ -112,7 +112,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Zeitreihe der Marktpreise und die Schätzung für die konkrete Gerätekombination brauchen unterschiedliche Belege.
+Ein allgemeiner Preisanstieg erfordert vergleichbare Marktdaten für dieselben Produkte und Zeiträume. Der individuelle Hardwarepreis wird separat geprüft.
 
 Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
 
@@ -126,15 +126,15 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche konkreten Modelle und welchen Preisvergleich nutzt der Host, und gibt es einen vergleichbaren Preisstand vor dem Sommer?
+- Welche Zeitreihe vergleichbarer Marktpreise stützt den behaupteten Anstieg?
 
 ## smBg5wh2nHw-A0045
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Bei der Installation einer Split-Anlage sind Arbeiten am Kältemittel und bestimmte elektrische Anschlüsse Fachkräften vorbehalten.
+**Eigene Beschreibung:** Für Arbeiten am Kältemittelkreislauf bestimmter Split-Klimaanlagen ist eine Zertifizierung erforderlich.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -153,21 +153,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Anforderungen hängen vom Gerät, vom Kältemittel und von der Art des Anschlusses ab.
+Die Durchführungsverordnung verlangt für einschlägige Arbeiten an stationären Klimaanlagen mit den erfassten Kältemitteln zertifiziertes Personal. Damit ist der Kern der Aussage für den Kältemittelkreislauf belegt. Welche elektrische Anschlussart im Privatfall nötig wäre, ist gesondert offen.
 
-Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+Grundlage der Bewertung: Fundstelle aus den deutschen Originaluntertiteln und Abgleich mit den zugeordneten Sachquellen.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Recherche des ersten Teilstands fortgeschrieben.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Durchführungsverordnung (EU) 2024/2215](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32024R2215) · Europäische Kommission, 06.09.2024.
+  Quellenzugriff am 2026-11-20. Artikel 1 bis 3 und 5 zu Anlagen, Tätigkeiten und Zertifizierung gelesen. Bezug und Reichweite stehen in der Begründung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Zertifikate und Anschlussregeln gelten für die besprochene Anlage in Deutschland am 23. Oktober 2026?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## smBg5wh2nHw-A0046
 
@@ -236,7 +237,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das einschlägige Urteil V ZR 162/25 stammt vom Bundesgerichtshof. Es erkennt einen grundsätzlichen Anspruch auf Gestattung für ein Splitgerät am eigenen Balkon an. Der Anspruch hängt unter anderem davon ab, ob andere Eigentümer über das unvermeidliche Maß hinaus beeinträchtigt werden. Die Entscheidung erlaubt keine eigenmächtige Installation und entscheidet den im Video besprochenen Fall mit mehreren Geräten nicht.
+Die einschlägige Entscheidung V ZR 162/25 stammt vom Bundesgerichtshof. Für ein Splitgerät am eigenen Balkon kann ein Anspruch auf Gestattung bestehen. Eine rechtlich erhebliche Beeinträchtigung anderer Eigentümer setzt deren Einverständnis voraus. Die Entscheidung erlaubt keine eigenmächtige Installation und beurteilt das Vorhaben im Video nicht.
 
 Grundlage der Bewertung: Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.
 
@@ -252,5 +253,170 @@ Bewertungsuebergang: Erstprüfung für dieses Video.
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## smBg5wh2nHw-A0057
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Für bestimmte elektrische Anschlussarbeiten an einer Split-Anlage gelten Anforderungen an das ausführende Unternehmen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:34:07–00:34:19](https://www.youtube.com/watch?v=smBg5wh2nHw&t=2047s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
+
+Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Zeitbereich aus dem Untertitelverlauf.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Host erwähnt elektrische Arbeiten als eigenen Fall. Die konkrete Anschlussart der vorgesehenen Geräte ist unbekannt.
+
+Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+
+Uebernahme: Direkt erfasster Prüfgegenstand.
+
+Bewertungsuebergang: Erstprüfung für dieses Video.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche Anschlussart ist vorgesehen und welche Vorgaben gelten dafür im Einzelfall?
+
+## smBg5wh2nHw-A0058
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Für die vorgesehene Anlage könnte ein KfW-Zuschuss in Betracht kommen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:34:30–00:34:34](https://www.youtube.com/watch?v=smBg5wh2nHw&t=2070s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
+
+Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Zeitbereich aus dem Untertitelverlauf.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Das beim Erscheinen geltende KfW-Merkblatt sieht Heizungsförderung unter Bedingungen vor. Das prüft noch nicht die Förderfähigkeit der konkret angebotenen Kombination.
+
+Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+
+Uebernahme: Direkt erfasster Prüfgegenstand.
+
+Bewertungsuebergang: Erstprüfung für dieses Video.
+
+### Zugeordnete Quellen
+
+- [BEG Heizungsförderung für Privatpersonen – Wohngebäude](https://www.kfw.de/PDF/Download-Center/F%C3%B6rderprogramme-%28Inlandsf%C3%B6rderung%29/PDF-Dokumente/6000005131_M_458.pdf?channel=MSN) · KfW, Merkblatt zum Zuschuss 458, gültig ab 24.09.2026.
+  Quellenzugriff am 2026-11-20. Geltungsdatum und allgemeine Fördervoraussetzungen gelesen. Bezug und Reichweite stehen in der Begründung.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche Modelle, Heizfunktion, Antragssituation und förderfähigen Kosten sind für das Vorhaben einschlägig?
+
+## smBg5wh2nHw-A0059
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Der vorangegangene Sommer erreichte einen Wetterrekord.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:32:43–00:32:54](https://www.youtube.com/watch?v=smBg5wh2nHw&t=1963s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
+
+Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Zeitbereich aus dem Untertitelverlauf.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Host nennt keinen geografischen Raum und keine meteorologische Kennzahl. Die Formulierung kann beispielsweise Temperatur, Hitzetage oder Dauer meinen.
+
+Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+
+Uebernahme: Direkt erfasster Prüfgegenstand.
+
+Bewertungsuebergang: Erstprüfung für dieses Video.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Welches Gebiet und welchen Rekord meint die Aussage?
+
+## smBg5wh2nHw-A0060
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die reine Technik für die im Video beschriebene Anlage würde ungefähr 6.000 bis 8.000 Euro kosten.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:32:56–00:33:13](https://www.youtube.com/watch?v=smBg5wh2nHw&t=1976s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
+
+Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Zeitbereich aus dem Untertitelverlauf.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Schätzung bezieht sich auf zwei Außen- und fünf Innengeräte, deren genaue Modelle der Host im verfügbaren Untertiteltext nicht nennt.
+
+Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+
+Uebernahme: Direkt erfasster Prüfgegenstand.
+
+Bewertungsuebergang: Erstprüfung für dieses Video.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche konkreten Geräte und Preisangebote würden die Schätzung nachvollziehbar machen?
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

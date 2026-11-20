@@ -203,7 +203,8 @@ Bewertungsuebergang: Erstprüfung für dieses Video.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Proteste in Frankreich: Macrons Regierung wankt](https://taz.de/%216222810/) · Rudolf Balmer, taz, 20.10.2026.
+  Quellenzugriff am 2026-11-20. Den Bericht zu politischem Druck von links und rechts gelesen. Belegt die im Video referierte Position des Autors. Die Sitzverhältnisse sind separat zu klären.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -234,7 +235,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Tagesschau gibt den Stand wieder, den Premierminister Sébastien Lecornu zuerst nannte. Le Parisien dokumentiert die am Folgetag konsolidierte Bilanz des Innenministeriums mit 2.397 Festnahmen. Die Zahl 1.200 ist als damalige Meldung nachvollziehbar. Bei Veröffentlichung des Videos am 23. Oktober war bereits ein neuerer Stand berichtet worden.
+Die Tagesschau gibt den Stand wieder, den Premierminister Sébastien Lecornu zuerst nannte. Le Parisien dokumentiert die am Folgetag konsolidierte Bilanz des Innenministeriums mit 2.397 Festnahmen. Die Zahl 1.200 ist als damalige Meldung nachvollziehbar. Bei Veröffentlichung des Videos am 23. Oktober war bereits ein neuerer Stand berichtet worden. Der amtliche Sammelband der Präfektur Haute-Vienne führt diese Zahl am 23. Oktober ebenfalls. In der später veröffentlichten Vergleichsbilanz vom 25. Oktober nannte das Ministerium für den 17. Oktober 2.628 Festnahmen.
 
 Grundlage der Bewertung: Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.
 
@@ -249,6 +250,12 @@ Bewertungsuebergang: Erstprüfung für dieses Video.
 
 - [Mobilisation du 17 octobre – aktualisierte Bilanz](https://www.leparisien.fr/societe/direct-17-octobre-18-10-2026-YTR2AFZ2JJED7PHQ7YGVHM5K3A.php) · Le Parisien, 18.10.2026, Wiedergabe der konsolidierten Bilanz des französischen Innenministeriums.
   Quellenzugriff am 2026-11-20. Den Eintrag mit der Bilanz von 2.397 Festnahmen und 997 verletzten Angehörigen der Sicherheitskräfte gelesen. Bezug und Reichweite stehen in der Begründung.
+
+- [Recueil n° 87-2026-218 du 23 octobre 2026](https://politique.pappers.fr/commune/document/4d3370616782116a7c0273d7883419de) · Préfecture de la Haute-Vienne, 23.10.2026, öffentlich lesbare Wiedergabe des amtlichen Sammelbands.
+  Quellenzugriff am 2026-11-20. Erwägungsgründe zum Brand und zur Zahl der landesweiten Festnahmen gelesen. Bestätigt den am 23. Oktober im amtlichen Sammelband veröffentlichten Zahlenstand.
+
+- [Bilan de la journée de mobilisation nationale du 24 octobre 2026](https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-nationale-du-24-octobre-2026) · Französisches Innenministerium, 25.10.2026.
+  Quellenzugriff am 2026-11-20. Den Vergleich zwischen den beiden Samstagen mit dem späteren Stand für den 17. Oktober gelesen. Spätere landesweite Angabe zum 17. Oktober, nach Veröffentlichung des Videos.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -279,13 +286,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Associated Press dokumentierte entsprechende Vorfälle aus mehreren Städten vor Ort. Die Polizeipräfektur beschreibt in ihrem späteren Rückblick ebenfalls Brandstiftungen und Plünderungen im Zusammenhang mit der Mobilisierung.
+Associated Press dokumentierte Ausschreitungen in mehreren Städten. Das Innenministerium bestätigte Plünderungen und die Polizeipräfektur nennt in ihrem Rückblick Brandstiftungen und Plünderungen in Paris.
 
-Grundlage der Bewertung: Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.
+Grundlage der Bewertung: Fundstelle aus den deutschen Originaluntertiteln und Abgleich mit den zugeordneten Sachquellen.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Recherche des ersten Teilstands fortgeschrieben.
 
 ### Zugeordnete Quellen
 
@@ -294,6 +301,9 @@ Bewertungsuebergang: Erstprüfung für dieses Video.
 
 - [Recueil des actes administratifs spécial n° 75-2026-667](https://www.prefectures-regions.gouv.fr/ile-de-france/irecontenu/telechargement/142339/1034675/file/recueil-75-2026-667-recueil-des-actes-administratifs-special%20du%2006.11.2026.pdf) · Préfecture de police, 06.11.2026.
   Quellenzugriff am 2026-11-20. Begründung mit dem Rückblick auf Paris am 17. und 18. Oktober gelesen. Bezug und Reichweite stehen in der Begründung.
+
+- [Journée de mobilisation du samedi 24 octobre 2026](https://www.interieur.gouv.fr/actualites/communiques-de-presse/journee-de-mobilisation-du-samedi-24-octobre-2026) · Französisches Innenministerium, Oktober 2026.
+  Quellenzugriff am 2026-11-20. Amtlicher Rückblick auf Schäden und Angriffe vom 17. Oktober gelesen. Bezug und Reichweite stehen in der Begründung.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -339,6 +349,9 @@ Bewertungsuebergang: Erstprüfung für dieses Video.
 
 - [Clashes, fires and looting break out as protesters rally across France](https://apnews.com/article/france-school-protests-yellow-vest-44b9d3ba91ffad4029f975dced7e31cb) · Associated Press, 17.10.2026.
   Quellenzugriff am 2026-11-20. Vor-Ort-Bericht zu Protesten und Ausschreitungen in mehreren Städten sowie zum Einsatz polizeilicher Mittel. Bezug und Reichweite stehen in der Begründung.
+
+- [Recueil n° 87-2026-218 du 23 octobre 2026](https://politique.pappers.fr/commune/document/4d3370616782116a7c0273d7883419de) · Préfecture de la Haute-Vienne, 23.10.2026, öffentlich lesbare Wiedergabe des amtlichen Sammelbands.
+  Quellenzugriff am 2026-11-20. Erwägungsgründe zum Brand und zur Zahl der landesweiten Festnahmen gelesen. Amtliche Rückschau zum Brand des Rathauses in Limoges.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -411,7 +424,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Apollo News nennt den Wert. Die gelesene Meldung über den konsolidierten Stand enthält lediglich die Gesamtzahl der Festnahmen.
+Im Nachrichtenjournal vom 17. Oktober nannte Europe 1 rund 90 Prozent bei einem frühen Stand von 190 Festnahmen in Paris. Der Pariser Staatsanwaltschaft zufolge waren später 433 von 557 Personen im dortigen Polizeigewahrsam erwachsen, rechnerisch rund 78 Prozent. Paris und Polizeigewahrsam sind engere Bezugsgrößen als sämtliche Festnahmen in Frankreich. Die Angaben bestätigen die landesweite Quote bei Apollo News daher nicht, erlauben aber auch keine Umrechnung in eine nationale Altersverteilung.
 
 Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
 
@@ -426,6 +439,12 @@ Bewertungsuebergang: Erstprüfung für dieses Video.
 
 - [Randale in Paris: Gewalttäter waren vor allem Linksextreme und migrantische Männer – keine Schüler](https://apollo-news.net/randale-in-paris-gewalttaeter-waren-vor-allem-linksextreme-und-migrantische-maenner-keine-schueler/) · Apollo News, 20.10.2026.
   Quellenzugriff am 2026-11-20. Überschrift und Text gelesen. Primärquelle für die Wiedergabe des Artikels. Bezug und Reichweite stehen in der Begründung.
+
+- [Le journal de 19h00 du 17/10/2026](https://www.dailymotion.com/video/xbp4xj6) · Europe 1, Nachrichten vom 17.10.2026.
+  Quellenzugriff am 2026-11-20. Den automatisch wiedergegebenen Nachrichtenabschnitt von etwa 08:00 bis 08:22 auf der Plattform gelesen. Der frühe Bericht bezieht die Altersquote auf Pariser Festnahmen zu diesem Zeitpunkt.
+
+- [Manifestation du 17 octobre – Point de situation](https://fr.linkedin.com/posts/parquet-de-paris_laure-beccuau-77-de-majeurs-ont-%C3%A9t%C3%A9-activity-7517899333166350336-L_4j) · Staatsanwaltschaft Paris, Stand 19.10.2026.
+  Quellenzugriff am 2026-11-20. Die veröffentlichte Meldung zu Zahl und Alter der in Paris in Polizeigewahrsam genommenen Personen gelesen. Die Staatsanwaltschaft meldet Alter für einen anderen, abgegrenzten Personenkreis.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -501,7 +520,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Apollo News beruft sich auf Einschätzungen aus Polizeikreisen. Die abgerufene Bilanz liefert keine nach Wohnort, Herkunft und politischer Zugehörigkeit aufgeschlüsselte Grundgesamtheit.
+Apollo News beruft sich auf Einschätzungen aus Polizeikreisen. Die abgerufene Bilanz liefert keine nach Wohnort, Herkunft und politischer Zugehörigkeit aufgeschlüsselte Grundgesamtheit. Les Surligneurs dokumentierte zudem, warum die Daten zur Staatsangehörigkeit keine verlässliche Herkunftsauswertung erlauben.
 
 Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
 
@@ -519,6 +538,9 @@ Bewertungsuebergang: Erstprüfung für dieses Video.
 
 - [Audition de Laurent Nuñez sur les manifestations du 17 octobre](https://www.assemblee-nationale.fr/dyn/docs/CRCANR5L17S2027PO59051N012.raw) · Assemblée nationale, Anhörung vom 03.11.2026.
   Quellenzugriff am 2026-11-20. Amtliches Wortprotokoll, insbesondere zur Unterscheidung von Schülerprotesten und späteren Mobilisierungen. Bezug und Reichweite stehen in der Begründung.
+
+- [Mobilisation du 17 octobre : l’immigration a-t-elle été la cause des violences urbaines ?](https://lessurligneurs.eu/mobilisation-du-17-octobre-limmigration-a-t-elle-ete-la-cause-des-violences-urbaines/) · Les Surligneurs, Oktober 2026.
+  Quellenzugriff am 2026-11-20. Recherche zu vorhandenen Nationalitätsdaten sowie zur fehlenden systematischen Erfassung doppelter Staatsangehörigkeit gelesen. Bezug und Reichweite stehen in der Begründung.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -549,18 +571,24 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Le Parisien dokumentiert unter Berufung auf das Innenministerium in der am 18. Oktober konsolidierten Bilanz 997 verletzte Angehörige der Sicherheitskräfte einschließlich Polizei und Gendarmerie. Damit ist die Größenordnung für diese Gruppe belegt.
+Für den 17. Oktober wurden in der am 18. Oktober berichteten Bilanz 997 verletzte Angehörige der Sicherheitskräfte genannt. Das Innenministerium veröffentlichte am 25. Oktober einen späteren Stand von 1.144. Am 27. Oktober nannte der Minister im Parlament 1.693. Die Zahlen beziehen sich auf dieselbe Mobilisierung, aber auf unterschiedliche Meldestände.
 
-Grundlage der Bewertung: Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.
+Grundlage der Bewertung: Fundstelle aus den deutschen Originaluntertiteln und Abgleich mit den zugeordneten Sachquellen.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: Erstprüfung für dieses Video.
+Bewertungsuebergang: 20.11.2026, Codex: Recherche des ersten Teilstands fortgeschrieben.
 
 ### Zugeordnete Quellen
 
 - [Mobilisation du 17 octobre – aktualisierte Bilanz](https://www.leparisien.fr/societe/direct-17-octobre-18-10-2026-YTR2AFZ2JJED7PHQ7YGVHM5K3A.php) · Le Parisien, 18.10.2026, Wiedergabe der konsolidierten Bilanz des französischen Innenministeriums.
   Quellenzugriff am 2026-11-20. Den Eintrag mit der Bilanz von 2.397 Festnahmen und 997 verletzten Angehörigen der Sicherheitskräfte gelesen. Bezug und Reichweite stehen in der Begründung.
+
+- [Compte rendu de la première séance du 27 octobre 2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-27-octobre-2026) · Assemblée nationale, 27.10.2026.
+  Quellenzugriff am 2026-11-20. Angaben des Innenministers zu verletzten Angehörigen der Sicherheitskräfte gelesen. Bezug und Reichweite stehen in der Begründung.
+
+- [Bilan de la journée de mobilisation nationale du 24 octobre 2026](https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-nationale-du-24-octobre-2026) · Französisches Innenministerium, 25.10.2026.
+  Quellenzugriff am 2026-11-20. Den Vergleich zwischen den beiden Samstagen mit dem späteren Stand für den 17. Oktober gelesen. Weitere zeitgebundene Angabe zu Verletzten am 17. Oktober, veröffentlicht am 25. Oktober.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -705,12 +733,12 @@ Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
-- [00:11:15–00:11:56](https://www.youtube.com/watch?v=smBg5wh2nHw&t=675s) · nicht bestaetigt; Kandidat: Sinan · Zurückweisung · Ungefähr
+- [00:11:15–00:11:56](https://www.youtube.com/watch?v=smBg5wh2nHw&t=675s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
 
 Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
 
-Grundlage des Aussagebezugs: Der Host reagiert ablehnend auf die zitierte Zuschreibung.
+Grundlage des Aussagebezugs: Der Host äußert seine eigene Einschätzung der fremden Charakterisierung.
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
@@ -720,7 +748,7 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtk
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Host weist die zugespitzte Charakterisierung der besprochenen Medien spöttisch zurück. Die Bewertung betrifft die sprachliche Einordnung.
+Der Host weist die Zuspitzung zurück. Das IKRK unterscheidet innere Unruhen von bewaffneten Konflikten mittels der Intensität der Gewalt und des Organisationsgrads der Parteien. Die behördliche Dokumentation belegt schwere Unruhen, liefert aber keine Grundlage für die Einordnung als bewaffneter Konflikt.
 
 Grundlage der Bewertung: Fundstelle aus deutschen automatischen Originaluntertiteln eingegrenzt. Die zugeordneten Quellen belegen den jeweils genannten Sachstand.
 
@@ -733,8 +761,183 @@ Bewertungsuebergang: Erstprüfung für dieses Video.
 - [Recueil des actes administratifs spécial n° 75-2026-667](https://www.prefectures-regions.gouv.fr/ile-de-france/irecontenu/telechargement/142339/1034675/file/recueil-75-2026-667-recueil-des-actes-administratifs-special%20du%2006.11.2026.pdf) · Préfecture de police, 06.11.2026.
   Quellenzugriff am 2026-11-20. Begründung mit dem Rückblick auf Paris am 17. und 18. Oktober gelesen. Bezug und Reichweite stehen in der Begründung.
 
+- [Krawalle in Frankreich: Reichelt zum europäischen Bürgerkrieg](https://nius.de/nius-live/reichelt-der-europaeische-buergerkrieg-ist-da) · NIUS, 19.10.2026.
+  Quellenzugriff am 2026-11-20. Artikel mit der Einordnung des Chefredakteurs gelesen. Dokumentiert die von Sinan aufgegriffene Einordnung bei NIUS.
+
+- [International Humanitarian Law: Answers to your Questions](https://www.icrc.org/en/doc/assets/files/other/icrc-002-0703.pdf) · Internationales Komitee vom Roten Kreuz, Abschnitt zum Anwendungsbereich des humanitären Völkerrechts.
+  Quellenzugriff am 2026-11-20. Erläuterung zu internen Unruhen und bewaffneten Konflikten gelesen, S. 20–21. Kriterien zur Unterscheidung zwischen Unruhen und bewaffneten Konflikten.
+
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## smBg5wh2nHw-A0051
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** In sozial benachteiligten französischen Stadtvierteln gibt es erhebliche Armut.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:07:49–00:08:16](https://www.youtube.com/watch?v=smBg5wh2nHw&t=469s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
+
+Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Zeitbereich aus dem Untertitelverlauf.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Insee misst für 2021 in den französischen Förderquartieren des Mutterlands 44,3 Prozent unter der Armutsgrenze, verglichen mit 14,5 Prozent im Mutterland insgesamt. Diese Gebietsstatistik sagt nichts über die Wohnorte einzelner Beteiligter am 17. Oktober.
+
+Grundlage der Bewertung: Fundstelle in den deutschen Originaluntertiteln und Sachquellen geprüft.
+
+Uebernahme: Direkt erfasster Prüfgegenstand.
+
+Bewertungsuebergang: Erstprüfung für dieses Video.
+
+### Zugeordnete Quellen
+
+- [Politique de la ville et prestations de la CAF en 2023](https://www.insee.fr/fr/statistiques/8357246) · Insee Focus 348, Armutsdaten für 2021.
+  Quellenzugriff am 2026-11-20. Definition und Armutswerte für Förderquartiere und das französische Mutterland gelesen. Bezug und Reichweite stehen in der Begründung.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## smBg5wh2nHw-A0052
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Bei den Protesten übte die Polizei physischen Zwang aus.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:08:18–00:08:41](https://www.youtube.com/watch?v=smBg5wh2nHw&t=498s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
+
+Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Zeitbereich aus dem Untertitelverlauf.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Associated Press beschreibt dokumentierte Zwangsmittel und die nach schweren Verletzungen eingeleiteten Untersuchungen. Das amtliche Protokoll bestätigt laufende Untersuchungen zu Vorfällen. Ob in einem bestimmten Fall die Grenze zulässigen Zwangs überschritten wurde, bleibt eine eigene Frage.
+
+Grundlage der Bewertung: Fundstelle in den deutschen Originaluntertiteln und Sachquellen geprüft.
+
+Uebernahme: Direkt erfasster Prüfgegenstand.
+
+Bewertungsuebergang: Erstprüfung für dieses Video.
+
+### Zugeordnete Quellen
+
+- [Audition de Laurent Nuñez sur les manifestations du 17 octobre](https://www.assemblee-nationale.fr/dyn/docs/CRCANR5L17S2027PO59051N012.raw) · Assemblée nationale, Anhörung vom 03.11.2026.
+  Quellenzugriff am 2026-11-20. Amtliches Wortprotokoll, insbesondere zur Unterscheidung von Schülerprotesten und späteren Mobilisierungen. Bezug und Reichweite stehen in der Begründung.
+
+- [Clashes, fires and looting break out as protesters rally across France](https://apnews.com/article/france-school-protests-yellow-vest-44b9d3ba91ffad4029f975dced7e31cb) · Associated Press, 17.10.2026.
+  Quellenzugriff am 2026-11-20. Vor-Ort-Bericht zu Protesten und Ausschreitungen in mehreren Städten sowie zum Einsatz polizeilicher Mittel. Bezug und Reichweite stehen in der Begründung.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## smBg5wh2nHw-A0053
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die Polizei handelt im Rahmen staatlicher Befugnisse zur Anwendung von Zwang.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:08:31–00:08:41](https://www.youtube.com/watch?v=smBg5wh2nHw&t=511s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
+
+Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Zeitbereich aus dem Untertitelverlauf.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Aussage folgt auf die Diskussion von Polizeigewalt. Aus einem staatlichen Zwangsmonopol ergibt sich keine Aussage über die Rechtmäßigkeit jedes konkreten Einsatzes.
+
+Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+
+Uebernahme: Direkt erfasster Prüfgegenstand.
+
+Bewertungsuebergang: Erstprüfung für dieses Video.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche französischen Rechtsgrundlagen und Kriterien gelten für die angesprochenen Einsätze?
+
+## smBg5wh2nHw-A0054
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Bei Tatverdächtigen mit Einwanderungsgeschichte wird die Herkunft in der öffentlichen Debatte häufiger durch das Geschlecht als Erklärung ersetzt.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:09:44–00:10:04](https://www.youtube.com/watch?v=smBg5wh2nHw&t=584s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
+
+Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Zeitbereich aus dem Untertitelverlauf.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Host übernimmt die Stoßrichtung eines Leserkommentars. Die angesprochenen Politikerinnen werden vom Host nicht als tatsächliche Urheberinnen des betreffenden Satzes bestätigt.
+
+Grundlage der Bewertung: Vorläufige Erfassung aus deutschen automatischen Originaluntertiteln.
+
+Uebernahme: Direkt erfasster Prüfgegenstand.
+
+Bewertungsuebergang: Erstprüfung für dieses Video.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche benannten Fälle oder systematischen Medienanalysen tragen die behauptete Häufigkeit?
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
