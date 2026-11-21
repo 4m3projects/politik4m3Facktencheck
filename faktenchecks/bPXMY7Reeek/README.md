@@ -1,8 +1,8 @@
 # Campertalk mit Sinan (SinansWoche) bei IT Camper: unabhängiger Faktencheck
 
-**Status: Öffentliche Recherche abgeschlossen – Teilbestand**
+**Status: Teilbestand geprüft – 16 erfasste Tatsachenbehauptungen noch offen**
 
-Stand: 18.11.2026.
+Stand: 21.11.2026.
 
 - Original: [YouTube, Video-ID bPXMY7Reeek](https://www.youtube.com/watch?v=bPXMY7Reeek)
 - Kanal: IT Camper (Talks und Meinungen)
@@ -20,7 +20,11 @@ Dieses Gespräch ist das **Original**, auf das sich das Video [GbhI-p_ycJE](../G
 
 Die automatisch erzeugten deutschen Originaluntertitel wurden vollständig gelesen (Text von 00:00:00 bis 03:11:13). Es gibt keine Textlücke über zehn Sekunden; die längste Pause liegt bei 02:46:43 (rund zehn Sekunden während einer Unterbrechung im Studio). Die letzten etwa drei Sekunden enthalten keinen Text. Das ist keine Hör- oder Sichtkontrolle. Namen von Creatorn sind in den automatischen Untertiteln teils unsicher geschrieben; solche Fälle sind bei den Aussagen vermerkt.
 
-Der Datenstand enthält 170 Prüfgegenstände aus allen 18 eigenen Themenbereichen: 50 Tatsachenbehauptungen sind mit tatsächlich gelesenen Quellen bewertet, 38 sind Meinungen oder Prognosen, 82 sind mit Grund als nicht überprüfbar gekennzeichnet (vor allem persönliche Angaben, anonyme Quellen und Plattformdaten, die aus der Prüfumgebung nicht abrufbar waren). Keine Aussage steht mehr unbearbeitet offen. Belanglose Plaudereien ohne Prüfrelevanz wurden bewusst nicht als eigene Prüfgegenstände aufgenommen.
+Der aktuelle strukturierte Datenstand enthält 170 Prüfgegenstände aus allen 18 Themenbereichen: **68 abgeschlossene Tatsachenprüfungen, 16 noch offene Tatsachenprüfungen, 38 Meinungen/Prognosen und 48 begründet nicht überprüfbare Sachangaben**. Offene Einträge sind Arbeitsaufträge und keine Fehler. Der erfasste Faktenbestand umfasst nicht jede beiläufige Bemerkung des mehr als dreistündigen Gesprächs. Die automatisierte Faktenampel bewertet nur die erfassten und zugeordneten Aussagen bei ausreichender Abdeckung; sie ist kein Vollständigkeitsurteil. Belanglose Plaudereien wurden nicht als eigene Sachbehauptungen aufgenommen.
+
+## [ChatGPT] Nachprüfung am 21.11.2026
+
+Zwei bislang offene Aussagen wurden anhand der Video-Untertitel und externer Originalquellen erneut geprüft: [A0013](strukturiert/berichte/kapitel-02.md) zu Sinans Musikprojekt **Tavengo** mit Belegen des Musikvertriebs You Love Dance und [A0164](strukturiert/berichte/kapitel-17.md) zu familiären Konflikten während Corona mit Erhebungen von Pronova BKK und Infratest dimap. Beide sind im eng definierten Sachkern **Belegt**; bei letzterer Aussage wird ausdrücklich zwischen Familien und Freundeskreis sowie überwiegend vorübergehenden Kontaktabbrüchen unterschieden. Die Prüfabdeckung der erfassten relevanten Tatsachen steigt dadurch von 78,6 auf 81,0 Prozent. Index und Ampelfarbe werden auf der Webseite *berechnet* und hier nicht festgelegt. Die übrigen offenen Aufgaben bleiben erhalten; eine vollständige Hör- oder Bildkontrolle fand nicht statt.
 
 - [Kurzbeschreibung](01_kurz.md)
 - [Eigenes Themenregister und Abdeckung](02_analyse.md)
