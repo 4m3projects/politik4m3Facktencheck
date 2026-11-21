@@ -1,6 +1,6 @@
 # Faktencheck zur KI-Debatte bei SinansWoche
 
-**Teilprüfung · Nachprüfung vom 20. November 2026**
+**Teilprüfung · Nachrecherche vom 21. November 2026 · Gesamtprüfung weiterhin unvollständig**
 
 - Veröffentlichung: 2026-11-20
 - Kanal: SinansWoche
@@ -14,11 +14,11 @@
 | Veröffentlichung | 20. November 2026 laut Importmetadaten |
 | Aufnahme | Nicht unabhängig bekannt; relative Zeitangaben nicht als Aufnahmedatum behandelt |
 | Laufzeit | 01:04:04 laut Importmetadaten, Playeranzeige 1:04:03 |
-| Auswertungsdatum | 20. November 2026 |
+| Auswertungsdatum | 21. November 2026 |
 | Grundlage | Deutsche automatische Originaluntertitel, vollständig gelesen; gezielte Bildstichproben |
 | Inhaltliche Gliederung | 13 Themenabschnitte über die gesamte angegebene Laufzeit |
 
-Erfasst sind **140 Prüfgegenstände** mit 143 Fundstellen: **83 abgeschlossene Sachprüfungen**, **38 als Meinung oder Prognose eingeordnete Inhalte** und **19 offene Tatsachenprüfungen**. Das ist ein Teilbestand. Die Zahlen sind keine Statistik sämtlicher Aussagen des Videos. Verbliebene offene Prüfungen sind kein Sachurteil; unzureichende Beleglagen wurden nur nach dokumentierter Recherche abgeschlossen. Die Recherche liefert belastbare Teilbefunde, aber noch keine umfassend verifizierte Auswertung.
+Erfasst sind **140 Prüfgegenstände** mit 143 Fundstellen: **100 abgeschlossene Sachprüfungen**, **38 als Meinung oder Prognose eingeordnete Inhalte** und **2 offene Tatsachenprüfungen**. Das ist ein Teilbestand. Die Zahlen sind keine Statistik sämtlicher Aussagen des Videos. Verbliebene offene Prüfungen sind kein Sachurteil; unzureichende Beleglagen wurden nur nach dokumentierter Recherche abgeschlossen. Die Recherche liefert belastbare Teilbefunde, aber noch keine umfassend verifizierte Auswertung.
 
 Die Untertitel beginnen bei etwa 00:00:00,7; das letzte Ereignis reicht rechnerisch bis etwa 01:04:01,3. Für die letzten rund drei Sekunden fehlt eine Inhaltsgrundlage. Zwischen Untertitelereignissen wurde keine Lücke über zehn Sekunden gefunden; fehlende Wörter oder Bildaussagen werden damit nicht ausgeschlossen. Automatische Untertitel sind keine eigene Spracherkennung. Die englische Spur scheiterte beim Import mit HTTP 429; zwei deutsche Fassungen waren vorhanden, gelesen wurde die Originalfassung.
 
@@ -26,7 +26,7 @@ Im Originalplayer wurden Bilder bei **00:00:31, 00:31:07, 00:33:39, 00:43:10 und
 
 Der Kanal- und Textzusammenhang legt Sinan als Moderator nahe. Die einzelnen Stimmen der Podcastausschnitte wurden Felix Lobrecht und Tommi Schmitt nicht verbindlich zugeordnet. Alfred ist als inszenierte Rolle erfasst, nicht als verifizierte autonome Person. Es gibt keine bestätigte Personenstatistik.
 
-Die wichtigsten Einschränkungen betreffen die Übertragung von Benchmarks auf ganze Berufe, die Ursachen des Personalabbaus, direkten Wasserverbrauch, Rebound und die Einordnung mathematischer KI-Ergebnisse. Persönliche Projektabläufe, einzelne Zahlungsangaben und weitere konkrete Beleglücken bleiben offen. Die Markt- und Technikzahlen sind inzwischen im belegten Umfang eingeordnet.
+Die wichtigsten Einschränkungen betreffen die Übertragung von Benchmarks auf ganze Berufe, die Ursachen des Personalabbaus, direkten Wasserverbrauch, Rebound und die Einordnung mathematischer KI-Ergebnisse. Persönliche Projektabläufe und einzelne Zahlungsangaben bleiben trotz Recherche unabhängig unbestätigt; ihre unzureichende öffentliche Beleglage ist ausdrücklich bewertet. Die Markt- und Technikzahlen sind inzwischen im belegten Umfang eingeordnet.
 
 - [Kurzbeschreibung](01_kurz.md)
 - [Analyse und vollständige Zeitgliederung](02_analyse.md)
@@ -34,7 +34,7 @@ Die wichtigsten Einschränkungen betreffen die Übertragung von Benchmarks auf g
 - [Strukturierte Übersicht](strukturiert/README.md)
 - [Zentrale Aussagen und Quellen](strukturiert/aussagen.json)
 
-Nur eigene Beschreibungen und Bewertungen sind gespeichert. Keine Medien, Untertiteldateien, Originalnachrichten oder Quelldokumente gehören zum öffentlichen Dateibestand. Die Veröffentlichung dieser ausdrücklich als Teilprüfung gekennzeichneten Fassung im Repository und ihre Übertragung nach main wurden am 20. November 2026 ausdrücklich beauftragt. Der Veröffentlichungsauftrag ändert den fachlichen Prüfstatus nicht. Der aktuelle Stand enthält 19 offene Sachprüfungen und die dokumentierten Grenzen der Bild- und Tonprüfung.
+Nur eigene Beschreibungen und Bewertungen sind gespeichert. Keine Medien, Untertiteldateien, Originalnachrichten oder Quelldokumente gehören zum öffentlichen Dateibestand. Die Veröffentlichung dieser ausdrücklich als Teilprüfung gekennzeichneten Fassung im Repository und ihre Übertragung nach main wurden am 20. November 2026 ausdrücklich beauftragt. Der Veröffentlichungsauftrag ändert den fachlichen Prüfstatus nicht. Der aktuelle Stand enthält zwei offene Sachprüfungen und die dokumentierten Grenzen der Bild- und Tonprüfung.
 
 ## Aktualisierung gegenüber der lokalen Erstfassung
 
@@ -47,3 +47,9 @@ Veröffentlichungsvermerk, 20. November 2026: Teilprüfung auf ausdrücklichen N
 35 zuvor offene Prüfgegenstände weiterbearbeitet: 34 Sachbewertungen abgeschlossen und eine subjektive Nutzeneinschätzung als Meinung eingeordnet. Neu belegt sind unter anderem der passende GPT-5-Messstand und die METR-Aufgabenbeispiele. Die Zahlen zu KI-Verbreitung, Strom und Rechenkapazität sind genauer abgegrenzt; Speichertechnik, Arbeitszeit und Trainingsverfahren fachlich ergänzt. Öffentliche Finanzsummen wurden mit der Kanalübersicht verglichen, nicht als unabhängige Buchungsprüfung behandelt.
 
 [Änderungen, verbleibende 19 Prüfaufträge und Abschlussgrenzen](NACHPRUEFUNG.md). Die ursprüngliche Fassung bleibt in der Git-Historie nachvollziehbar.
+
+## Nachrecherche am 21. November 2026
+
+17 weitere Sachprüfungen eingeordnet: zwei teilweise belegt, 15 nach zweiter Recherche nicht ausreichend belegbar. Diese 15 Ergebnisse bedeuten keine Widerlegung und keine Bestätigung privater Vorgänge. Die Originalfundstellen zu Alfreds frühem Auftreten und zu Grönemeyers konkreter Äußerung bleiben offen. Die Darstellung ist weiterhin teilweise geprüft; eine vollständige Prüfung der gesamten Bild- und Tonebene ist nicht erfolgt.
+
+[Rechercheumfang, Ergebnisse und verbleibende Lücken](NACHRECHERCHE_2026-11-21.md). Veröffentlichung dieser Ergänzung am 21. November ausdrücklich beauftragt. Die bestehenden Zeitmarken und unsicheren Sprecherzuordnungen bleiben unverändert.

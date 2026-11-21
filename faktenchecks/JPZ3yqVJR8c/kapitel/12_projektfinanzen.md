@@ -12,8 +12,10 @@ Der Beitrag wechselt von der allgemeinen Debatte zu selbst berichteten Zahlungen
 
 ## Fazit und offene Punkte
 
-Zwei Jahressummen stimmen mit der öffentlichen Kanalübersicht überein. Das ist ein Zahlenvergleich mit einer Selbstauskunft, keine unabhängige Kontrolle von Buchungen. Einzelzahlungen, Zweckzuordnungen und die konkrete Wochensumme bleiben offen. 3 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
+Die öffentlich angezeigten Ranglisten bleiben als Selbstauskunft behandelt. Einzelzahlungen, eine überwiegende Alfred-Widmung und die genaue Wochensumme sind anhand der erneut gelesenen Monats- und Jahresübersicht nicht ausreichend belegbar. Fehlende unabhängige Bestätigung ist keine Widerlegung; private Namen und Nachrichten werden nicht veröffentlicht.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
 
 Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.
+
+Aktualisierung 21. November 2026 (Codex): Gezielte Nachrecherche; frühere Einordnung in der Git-Historie und im zentralen Datensatz erhalten.

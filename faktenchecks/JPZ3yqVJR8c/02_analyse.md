@@ -1,6 +1,6 @@
 # Analyse nach Themenabschnitten
 
-**Eigene thematische Beschreibungen · Teilprüfung · 20. November 2026**
+**Eigene thematische Beschreibungen · Teilprüfung · aktualisiert am 21. November 2026**
 
 Die Grenzen orientieren sich an den vom Herausgeber angegebenen Themenwechseln. Sämtliche Überschriften und Beschreibungen sind eigenständig formuliert. Die letzte Grenze verwendet die importierte Gesamtlaufzeit; die Playeranzeige ist eine Sekunde kürzer. Zeitliche Gliederung bedeutet keine vollständige Sachverifikation.
 
@@ -111,3 +111,5 @@ Die Figur Alfred kommentiert die vorangegangenen Überlegungen und trennt persö
 ## Grenzen der Abdeckung
 
 Die Untertitelspur wurde über die gesamte verfügbare Länge gelesen. Kleine Pausen und automatische Erkennungsfehler sind möglich. Allein sichtbare Grafiken, Herkunft und Schnitt der Podcastausschnitte, Sprecherwechsel sowie Musik wurden nicht flächendeckend kontrolliert. Die letzten rund drei Sekunden nach dem Ende der Untertitel bleiben ausdrücklich ungeprüft. Für die Bildstichproben und die vollständige Quellenart siehe [Grundlage](README.md).
+
+Aktualisierung 21. November 2026 (Codex): Die abschließende Einordnung der recherchierten Beleggrenzen ist von den zwei offenen Originalbelegen getrennt; Themen- und Zeitgliederung unverändert. [Aktueller Recherchebericht](NACHRECHERCHE_2026-11-21.md).

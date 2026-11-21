@@ -12,8 +12,10 @@ Tierischer Werkzeuggebrauch und menschliche Wissensweitergabe dienen als Verglei
 
 ## Fazit und offene Punkte
 
-Kumulative kulturelle Weitergabe ist ein belastbares Konzept; begrenzte Formen sind auch bei Schimpansen dokumentiert. Öffentlich geschilderte Entwicklungstrends bestätigen keine privaten Qualitätsgewinne durch eigene Prüfagenten. Eine führende Tatsachenprüfung dieses Kapitels ist offen; die konkrete Frage steht im verlinkten Bericht.
+Die allgemeine Forschung zu Kultur und KI-Entwicklung bleibt von Alfreds privatem Prüfablauf getrennt. Für dessen angebliche selbstständige Qualitätsverbesserung fehlen trotz Projektrecherche bewertete Vorher-Nachher-Läufe. Die erfassten Sachpunkte sind eingeordnet; die Einordnung der unzureichenden Beleglage ist kein Nachweis eines nicht funktionierenden Systems.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
 
 Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.
+
+Aktualisierung 21. November 2026 (Codex): Gezielte Nachrecherche; frühere Einordnung in der Git-Historie und im zentralen Datensatz erhalten.

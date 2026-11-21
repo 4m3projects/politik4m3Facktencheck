@@ -12,10 +12,12 @@ Der Beitrag verbindet Aufgabenbenchmarks mit einem Produktionsablauf und anschli
 
 ## Fazit und offene Punkte
 
-Die METR-Aufgabenbeispiele und der passende GPT-5-Messstand sind nachvollzogen. Öffentliche Kanalzahlen bestätigen die erreichte Größenordnung am Abrufdatum; den genauen Aufnahmezeitpunkt beweisen sie nicht. Der interne Alfred-Produktionsablauf bleibt offen. Eine führende Tatsachenprüfung dieses Kapitels ist offen; die konkrete Frage steht im verlinkten Bericht.
+Benchmark- und Plattformbefunde bleiben bestehen. Für den konkreten Modelleinsatz in Alfreds Produktionssystem ergab die gezielte Nachrecherche keine ausreichenden Ausführungs- und Vergleichsbelege. Die erfassten Sachpunkte sind eingeordnet; Bild und Ton des gesamten Abschnitts sind damit nicht vollständig geprüft.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
 
 Aktualisierung vom 20. November 2026: Ergänzende Primärquellenprüfung gegenüber der lokalen Erstfassung; aktueller Einzelaussagenstand im generierten Kapitelbericht.
 
 Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.
+
+Aktualisierung 21. November 2026 (Codex): Gezielte Nachrecherche; frühere Einordnung in der Git-Historie und im zentralen Datensatz erhalten.

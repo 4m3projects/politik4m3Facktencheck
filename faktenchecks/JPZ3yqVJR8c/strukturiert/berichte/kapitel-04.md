@@ -1,8 +1,8 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen. Nachrecherche 21.11.2026: gesamte verfügbare Textspur erneut gelesen; weitere einzelne Playerbilder bei ungefähr 51:51 und 54:34 gesehen, ohne zusätzliche belastbare Grafik- oder Tonbefunde. Keine Erweiterung zu einer durchgehenden Bild- oder Tonkontrolle.
 
-Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
+Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. Zwei konkrete Originalbelegprüfungen bleiben offen (früher Alfred-Auftritt und Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0029
 
@@ -287,7 +287,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eigene Prüfagenten verbesserten Ergebnisse ohne erneuten menschlichen Eingriff.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -306,20 +306,37 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Beschriebener privater Workflow; weder Fehlerrate noch Unabhängigkeit der Prüfungen kontrolliert.
+Eine zusätzliche KI-Prüfung kann Änderungen erzeugen, beweist aber noch keine Qualitätsverbesserung. Für den eigenen Ablauf fehlen in den geprüften öffentlichen Angeboten bewertete Vorher-Nachher-Paare, unabhängige Fehlermaße und vollständige Eingriffsprotokolle. Die gezielte Suche nach Prüfagenten und Produktionscode ergab dafür keinen geeigneten Beleg. Die konkrete selbstständige Qualitätssteigerung ist somit nicht ausreichend belegt; allgemeine Verfahren sind unter A0112 gesondert bewertet.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Beschriebener privater Workflow; weder Fehlerrate noch Unabhängigkeit der Prüfungen kontrolliert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [SinansWoche: Eigene Analyse zur KI-Entwicklung](https://www.youtube.com/watch?v=JPZ3yqVJR8c) · SinansWoche; veröffentlicht 20.11.2026; Originalplayer, Beschreibung und automatische deutsche Untertitel.
+  Quellenzugriff am 2026-11-20. Originalbeschreibung sowie vollständig verfügbare automatische Untertitel gelesen. Bildstichprobe 31:07 ergänzt; kein Originalton gehört. Diese Quelle belegt, was der Kanal darstellt, nicht die Wahrheit privater Vorgänge. Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs.
+
+- [SinansWoche: öffentliche Projekt- und Selbstdarstellung](https://sinanswoche.de/) · Sinan Kurtulus / SinansWoche; undatierte laufende Website, Abrufstand 21.11.2026.
+  Quellenzugriff am 2026-11-21. Im öffentlichen Browser Hauptseite einschließlich Projektübersicht, Produktionsbeschreibung und Verweisen gelesen. Belegt die öffentliche Selbstdarstellung und Existenz von Angeboten, keine internen Produktionsprotokolle oder unabhängige Qualitätsprüfung. Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis.
+
+- [SinansWoche: Projektübersicht](https://sinanswoche.de/projekte/) · SinansWoche; laufende Herausgeberseite, Abrufstand 21.11.2026.
+  Quellenzugriff am 2026-11-21. Projektliste im öffentlichen Browser gelesen. Wetter-App, Sonnenrechner und Freiburg-Projekt sind verlinkt; keine datierten vollständigen Entstehungs- oder Agentenprotokolle geprüft. Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
 - Welche Vorher-Nachher-Ergebnisse und Prüfprotokolle belegen Qualitätsgewinne?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Welche Vorher-Nachher-Ergebnisse und Prüfprotokolle belegen Qualitätsgewinne?
+
+- Durchgang 1 am 2026-11-21 (Codex): Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen. Gepruefte Quellen: S061. Ergebnis: Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung.
+
+- Durchgang 2 am 2026-11-21 (Codex): Suche nach Prüfagenten, Code und dokumentierten Verbesserungen; direkte Kontrolle der Herausgeberangebote. Gepruefte Quellen: S075, S076. Ergebnis: Die gelesenen Endproduktbeschreibungen messen weder Qualitätsgewinn noch menschlichen Eingriff.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

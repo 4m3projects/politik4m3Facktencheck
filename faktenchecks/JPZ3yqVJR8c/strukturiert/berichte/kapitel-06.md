@@ -1,8 +1,8 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen. Nachrecherche 21.11.2026: gesamte verfügbare Textspur erneut gelesen; weitere einzelne Playerbilder bei ungefähr 51:51 und 54:34 gesehen, ohne zusätzliche belastbare Grafik- oder Tonbefunde. Keine Erweiterung zu einer durchgehenden Bild- oder Tonkontrolle.
 
-Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
+Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. Zwei konkrete Originalbelegprüfungen bleiben offen (früher Alfred-Auftritt und Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0044
 
@@ -383,21 +383,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die Originaläußerung wurde nicht aufgefunden und in ihrem Kontext geprüft.
+Noch nicht geprüft – Der im Video gemeinte Grönemeyer-Beitrag ist weiterhin nicht identifiziert. Das als Kandidat gefundene SZ-Interview vom März 2023 war nur am Anfang lesbar; aus Titel und Einleitung wird keine Bewertung von KI-Musik abgeleitet.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 21.11.2026 (Codex): Originaluntertitel erneut gelesen; konkrete Quellen- und Zugriffslücke bleibt offen.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Recherche 21.11.2026 (Codex): Status Offen bleibt wegen der konkret fehlenden Originalfundstelle erhalten.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Interview zu Grönemeyers Textarbeit und ChatGPT](https://www.sueddeutsche.de/magazin/musik/herbert-groenemeyer-chat-gpt-kuenstliche-intelligenz-mensch-szm.92539?reduced=true) · Max Fellmann / Lara Fritzsche, SZ-Magazin; 23.03.2023, Heft 12/23.
+  Quellenzugriff am 2026-11-21. Webabruf zunächst erfolglos (Cache miss); im öffentlichen Browser nur Überschrift, Datierung, Einleitung und erster Gesprächswechsel zugänglich. Die relevante Bewertung von KI-Musik nicht gelesen; kein Sachbeleg für die behauptete Äußerung. Erfolgloser Abrufversuch – kein Sachbeleg für die behauptete Äußerung; nur Datierung und Interviewanfang im Browser gelesen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche datierte Originaläußerung ist gemeint?
+- Die konkrete Originaläußerung mit Datum und vollständigem Kontext finden; das nur teilweise zugängliche SZ-Interview ist dafür bislang kein Beleg.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-21 (Codex): Suche nach der angeblichen KI-Musikbewertung und nach datierten Originalinterviews; SZ-Interview und Tübinger Veranstaltungsbericht als Kandidaten geprüft. Gepruefte Quellen: S081. Ergebnis: Im SZ-Browser nur Anfang und Datierung lesbar; keine relevante KI-Musikbewertung. Tübinger Bericht behandelt andere künstlerische Fragen, daher kein Ersatzbeleg.
 
 ## JPZ3yqVJR8c-A0053
 

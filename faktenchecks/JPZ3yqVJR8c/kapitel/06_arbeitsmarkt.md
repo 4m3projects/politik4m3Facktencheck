@@ -12,8 +12,10 @@ Der Beitrag erwägt Wegfall kreativer und beratender Tätigkeiten sowie ausbleib
 
 ## Fazit und offene Punkte
 
-Beschäftigungspläne stützen ein zurückhaltendes Einstellungsumfeld. Berufliche Ersetzung bleibt eine Prognose. Die Kameraprozentzahl ist nach zwei unterschiedlichen Prüfwegen nicht ausreichend belegbar; Musikerfahrung kann begrenzte Erkennungsvorteile bieten. Private KI-Nutzung hebt Fehler- und Haftungsfolgen nicht auf. Eine führende Tatsachenprüfung dieses Kapitels ist offen; die konkrete Frage steht im verlinkten Bericht.
+Berufsprognosen bleiben von eingetretenen Beschäftigungseffekten getrennt. Die genaue Grönemeyer-Originaläußerung bleibt offen; das aufgefundene Interview war nur am Anfang zugänglich und trägt die behauptete Bewertung nicht. Die übrigen bisherigen Befunde bleiben unverändert.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
 
 Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.
+
+Aktualisierung 21. November 2026 (Codex): Gezielte Nachrecherche; frühere Einordnung in der Git-Historie und im zentralen Datensatz erhalten.

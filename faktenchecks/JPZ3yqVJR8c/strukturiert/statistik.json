@@ -1,7 +1,7 @@
 {
     "schemaVersion":  2,
     "scope":  "Teilbestand",
-    "coverageNote":  "Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.",
+    "coverageNote":  "Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen. Nachrecherche 21.11.2026: gesamte verfügbare Textspur erneut gelesen; weitere einzelne Playerbilder bei ungefähr 51:51 und 54:34 gesehen, ohne zusätzliche belastbare Grafik- oder Tonbefunde. Keine Erweiterung zu einer durchgehenden Bild- oder Tonkontrolle.",
     "videoId":  "JPZ3yqVJR8c",
     "selectedLegacyPoints":  0,
     "totalLegacyPoints":  0,
@@ -15,47 +15,47 @@
     "referenceOccurrences":  1,
     "unresolvedRoleOccurrences":  0,
     "statusCounts":  {
-                         "Offen":  19,
+                         "Offen":  2,
                          "In Bearbeitung":  0,
                          "Nicht überprüfbar":  0,
-                         "Abgeschlossen":  121
+                         "Abgeschlossen":  138
                      },
     "kindCounts":  {
                        "Tatsachenbehauptung":  102,
                        "Meinung":  9,
                        "Prognose":  29
                    },
-    "completedFacts":  83,
-    "openFacts":  19,
+    "completedFacts":  100,
+    "openFacts":  2,
     "inProgressFacts":  0,
     "unverifiableFacts":  0,
-    "percentageDenominator":  83,
+    "percentageDenominator":  100,
     "percentageDenominatorDefinition":  "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
     "categories":  [
                        {
                            "category":  "Belegt",
                            "completedCount":  29,
-                           "completedFactPercent":  34.9
+                           "completedFactPercent":  29
                        },
                        {
                            "category":  "Teilweise belegt",
-                           "completedCount":  36,
-                           "completedFactPercent":  43.4
+                           "completedCount":  38,
+                           "completedFactPercent":  38
                        },
                        {
                            "category":  "Irreführend / Kontext fehlt",
                            "completedCount":  14,
-                           "completedFactPercent":  16.9
+                           "completedFactPercent":  14
                        },
                        {
                            "category":  "Widerlegt",
                            "completedCount":  3,
-                           "completedFactPercent":  3.6
+                           "completedFactPercent":  3
                        },
                        {
                            "category":  "Nicht ausreichend belegbar",
-                           "completedCount":  1,
-                           "completedFactPercent":  1.2
+                           "completedCount":  16,
+                           "completedFactPercent":  16
                        },
                        {
                            "category":  "Meinung / Prognose",

@@ -14,8 +14,10 @@ Der erneut genannte KI-Codeanteil bleibt als zusätzliches Vorkommen an der ursp
 
 ## Fazit und offene Punkte
 
-CPU-Takte haben praktische Wärmegrenzen, aber keine starre Sechs-GHz-Schranke. DDR, GDDR und HBM sind parallele Speicherfamilien. Netflix-Klauseln sind öffentlich dokumentiert; ihre Rechtsfolgen und Schutzwirkung sind umstritten. Synthetische Daten können unter kontrollierten Bedingungen nützlich sein. Die private Rechnererinnerung bleibt offen. Eine führende Tatsachenprüfung dieses Kapitels ist offen; die konkrete Frage steht im verlinkten Bericht.
+Die bestehenden Technik- und Trainingsbewertungen bleiben erhalten. Die private Erinnerung an einen bestimmten Turboknopf ist ohne Gerätedaten nach gezielter Recherche nicht ausreichend belegbar; allgemeine Herstellerhistorie identifiziert diesen Rechner nicht. Die erfassten Sachpunkte sind eingeordnet, die gesamte Bild- und Tonebene ist weiterhin nicht geprüft.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
 
 Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.
+
+Aktualisierung 21. November 2026 (Codex): Gezielte Nachrecherche; frühere Einordnung in der Git-Historie und im zentralen Datensatz erhalten.
