@@ -16,7 +16,7 @@ Der Moderator nimmt eine öffentliche KI-Debatte zum Anlass, seine eigene Entwic
 
 [Originalstelle](https://www.youtube.com/watch?v=JPZ3yqVJR8c&t=86s)
 
-Private Arbeitsabläufe bilden den Ausgangspunkt für eine allgemeine Zukunftsthese. Zwischen praktischer Hilfe und vollständiger Ersetzung bleibt ein Begründungsschritt. Die persönlichen Abläufe und Kündigungen sind offen. Zahlengebundene Darstellung verhindert keine Fehler bei Daten, Skalierung oder Code.
+Private Arbeitsabläufe bilden den Ausgangspunkt für eine allgemeine Zukunftsthese. Zwischen praktischer Hilfe und vollständiger Ersetzung bleibt ein Begründungsschritt. Persönliche Automatisierungserfahrungen sind keine kontrollierten Produktivitätsvergleiche. Der subjektive Suchvergleich ist als Meinung eingeordnet; aus der späteren Finanzamtsübermittlung folgt keine geringe Gefährdung zusätzlicher KI-Verarbeitung. Projektprotokolle und konkrete Datenherkunft fehlen weiterhin.
 
 [Kapitelprüfung](kapitel/02_eigene_automatisierung.md)
 
@@ -24,7 +24,7 @@ Private Arbeitsabläufe bilden den Ausgangspunkt für eine allgemeine Zukunftsth
 
 [Originalstelle](https://www.youtube.com/watch?v=JPZ3yqVJR8c&t=580s)
 
-Der Beitrag verbindet Aufgabenbenchmarks mit einem Produktionsablauf und anschließenden Überlegungen zur Finanzierung eines KI-Kanals. Benchmarks sind abgegrenzte Tests. Die Monetarisierung hängt zusätzlich von Plattformprüfung und gültigen Messgrößen ab; konkrete Kanalstände bleiben offen.
+Der Beitrag verbindet Aufgabenbenchmarks mit einem Produktionsablauf und anschließenden Überlegungen zur Finanzierung eines KI-Kanals. Die METR-Aufgabenbeispiele und der passende GPT-5-Messstand sind nachvollzogen. Öffentliche Kanalzahlen bestätigen die erreichte Größenordnung am Abrufdatum; den genauen Aufnahmezeitpunkt beweisen sie nicht. Der interne Alfred-Produktionsablauf bleibt offen.
 
 [Kapitelprüfung](kapitel/03_leistungsmessung.md)
 
@@ -32,7 +32,7 @@ Der Beitrag verbindet Aufgabenbenchmarks mit einem Produktionsablauf und anschli
 
 [Originalstelle](https://www.youtube.com/watch?v=JPZ3yqVJR8c&t=956s)
 
-Tierischer Werkzeuggebrauch und menschliche Wissensweitergabe dienen als Vergleich für KI-unterstützte Entwicklung. Zusammengesetzte Krähenwerkzeuge sind dokumentiert. Codeanteile eines Unternehmens messen nicht den Anteil autonomer Forschung; kulturelle Artvergleiche bleiben offen.
+Tierischer Werkzeuggebrauch und menschliche Wissensweitergabe dienen als Vergleich für KI-unterstützte Entwicklung. Kumulative kulturelle Weitergabe ist ein belastbares Konzept; begrenzte Formen sind auch bei Schimpansen dokumentiert. Öffentlich geschilderte Entwicklungstrends bestätigen keine privaten Qualitätsgewinne durch eigene Prüfagenten.
 
 [Kapitelprüfung](kapitel/04_wissen_und_entwicklung.md)
 
@@ -40,7 +40,7 @@ Tierischer Werkzeuggebrauch und menschliche Wissensweitergabe dienen als Verglei
 
 [Originalstelle](https://www.youtube.com/watch?v=JPZ3yqVJR8c&t=1194s)
 
-Umfragen und große Kürzungsrunden werden als Anzeichen für wirtschaftlichen Umbruch angeführt. Nutzung, geplante Kürzung und direkte KI-Ersetzung sind verschiedene Befunde. Für Amazon und Microsoft stimmen die Ankündigungszahlen; eine pauschale Kausalbehauptung folgt daraus nicht.
+Umfragen und große Kürzungsrunden werden als Anzeichen für wirtschaftlichen Umbruch angeführt. Die Bitkom-Reihe und die Größenordnung des Amazon-Abbaus sind mit abgegrenzten Bezugsgrößen eingeordnet. Eine unmittelbare KI-Ursache folgt daraus nicht. Die konkrete Nutzung im befreundeten Unternehmen ist nicht unabhängig geprüft.
 
 [Kapitelprüfung](kapitel/05_unternehmen.md)
 
@@ -48,7 +48,7 @@ Umfragen und große Kürzungsrunden werden als Anzeichen für wirtschaftlichen U
 
 [Originalstelle](https://www.youtube.com/watch?v=JPZ3yqVJR8c&t=1338s)
 
-Der Beitrag erwägt Wegfall kreativer und beratender Tätigkeiten sowie ausbleibende Einstiegsangebote. Podcastausschnitte setzen Gegenakzente. Berufsprognosen bleiben Szenarien. Musiktests stützen Erkennungsprobleme in einer begrenzten Versuchsanordnung; konkrete Einstellungszahlen und Haftungsfragen sind offen.
+Der Beitrag erwägt Wegfall kreativer und beratender Tätigkeiten sowie ausbleibende Einstiegsangebote. Podcastausschnitte setzen Gegenakzente. Beschäftigungspläne stützen ein zurückhaltendes Einstellungsumfeld. Berufliche Ersetzung bleibt eine Prognose. Die Kameraprozentzahl ist nach zwei unterschiedlichen Prüfwegen nicht ausreichend belegbar; Musikerfahrung kann begrenzte Erkennungsvorteile bieten. Private KI-Nutzung hebt Fehler- und Haftungsfolgen nicht auf.
 
 [Kapitelprüfung](kapitel/06_arbeitsmarkt.md)
 
@@ -64,7 +64,7 @@ Globale und regionale Verbrauchsgrößen werden verglichen und anschließend Umw
 
 [Originalstelle](https://www.youtube.com/watch?v=JPZ3yqVJR8c&t=2027s)
 
-Rebound dient als Erklärung für wachsende Nachfrage. Danach vergleicht der Beitrag politische Möglichkeiten zur Begrenzung gefährlicher Technik. Rebound ist keine allgemeine Aufhebung jeder Einsparung. Umweltabkommen sind reale Präzedenzfälle, aber weder Erfolg noch Scheitern einer KI-Regulierung folgen automatisch aus ihnen. Arbeitszeitgeschichte und Firmenmotive bleiben offen.
+Rebound dient als Erklärung für wachsende Nachfrage. Danach vergleicht der Beitrag politische Möglichkeiten zur Begrenzung gefährlicher Technik. Rebound ist keine allgemeine Aufhebung jeder Einsparung. Historische Daten zeigen deutliche Arbeitszeitverkürzungen und zugleich höhere Produktion. Öffentliche Überlegungen zu einer KI-Pause sind dokumentiert; Firmenmotive und pauschale menschliche Leistungsgrenzen bleiben getrennte, offene Fragen.
 
 [Kapitelprüfung](kapitel/08_effizienz_und_politik.md)
 
@@ -72,7 +72,7 @@ Rebound dient als Erklärung für wachsende Nachfrage. Danach vergleicht der Bei
 
 [Originalstelle](https://www.youtube.com/watch?v=JPZ3yqVJR8c&t=2500s)
 
-Fertigung, Speicher, Infrastruktur und Trainingsmaterial werden als mögliche Grenzen erörtert, bevor ein hypothetischer Leistungssprung diskutiert wird. Die sichtbare 14-nm-Angabe ist als Beschreibung führender Fertigung überholt. Datenknappheit und Modellkollaps brauchen präzise Begriffe. Speicherchronologie, Vertragsklauseln und konkrete Verfahren sind noch offen.
+Fertigung, Speicher, Infrastruktur und Trainingsmaterial werden als mögliche Grenzen erörtert, bevor ein hypothetischer Leistungssprung diskutiert wird. CPU-Takte haben praktische Wärmegrenzen, aber keine starre Sechs-GHz-Schranke. DDR, GDDR und HBM sind parallele Speicherfamilien. Netflix-Klauseln sind öffentlich dokumentiert; ihre Rechtsfolgen und Schutzwirkung sind umstritten. Synthetische Daten können unter kontrollierten Bedingungen nützlich sein. Die private Rechnererinnerung bleibt offen.
 
 [Kapitelprüfung](kapitel/09_technik_und_daten.md)
 
@@ -80,7 +80,7 @@ Fertigung, Speicher, Infrastruktur und Trainingsmaterial werden als mögliche Gr
 
 [Originalstelle](https://www.youtube.com/watch?v=JPZ3yqVJR8c&t=3099s)
 
-Marktmacht, Einkommensverteilung und die Bedeutung menschlicher Fähigkeiten werden miteinander verbunden. Die 71-Prozent- und Nvidia-Angaben benötigen eindeutige Marktabgrenzungen. Die Mathematikveröffentlichung ist real, aber Modell, Zähleinheit und Verifikationsstand werden verkürzt dargestellt.
+Marktmacht, Einkommensverteilung und die Bedeutung menschlicher Fähigkeiten werden miteinander verbunden. Die 71-Prozent-Schätzung betrifft KI-Rechenkapazität, Nvidia-Anteile abgegrenzte Chipmärkte. Historisch breite Verbesserungen beantworten noch nicht die stärkere Frage nach einer Teilhabe aller; diese Stelle bleibt deshalb offen. Die Mathematikveröffentlichung ist real; Verifikationsstand und Auswirkungen auf konkrete Menschen sind zu trennen.
 
 [Kapitelprüfung](kapitel/10_konzentration_und_teilhabe.md)
 
@@ -96,7 +96,7 @@ Der Moderator stellt Verteilungskonflikten ein persönliches Ideal von mehr frei
 
 [Originalstelle](https://www.youtube.com/watch?v=JPZ3yqVJR8c&t=3552s)
 
-Der Beitrag wechselt von der allgemeinen Debatte zu selbst berichteten Zahlungen und den wirtschaftlichen Aussichten des eigenen Projekts. Einzelbeträge, Jahressummen, Zahlungsanzahlen und die Wochensumme sind als überprüfbare Unterbehauptungen erfasst, aber nicht durch gelesene Buchungsbelege bestätigt. Private Namen und Nachrichten bleiben außen vor.
+Der Beitrag wechselt von der allgemeinen Debatte zu selbst berichteten Zahlungen und den wirtschaftlichen Aussichten des eigenen Projekts. Zwei Jahressummen stimmen mit der öffentlichen Kanalübersicht überein. Das ist ein Zahlenvergleich mit einer Selbstauskunft, keine unabhängige Kontrolle von Buchungen. Einzelzahlungen, Zweckzuordnungen und die konkrete Wochensumme bleiben offen.
 
 [Kapitelprüfung](kapitel/12_projektfinanzen.md)
 

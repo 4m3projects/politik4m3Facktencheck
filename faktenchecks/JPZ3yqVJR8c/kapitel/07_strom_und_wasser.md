@@ -12,8 +12,10 @@ Globale und regionale Verbrauchsgrößen werden verglichen und anschließend Umw
 
 ## Fazit und offene Punkte
 
-Die IEA-Zahlen gelten für alle Rechenzentren. Direkte Kühlung braucht je nach Technik Wasser. Die deutsche 495-TWh-Vergleichsgröße ist jetzt als Lastwert belegt, mit klar benannter Abgrenzung. Der angenommene Drei-Prozent-Anteil für 2026 ist mit der gelesenen IEA-Einordnung nicht ausreichend begründet. 2 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
+Der Stromwert für 2026 ist eine Prognose. Die zusätzlich betrachtete Grafik nennt 565 TWh. Gasstrom ist relevant, doch dessen Anteil misst keine direkte Nachbarschaft von Kraftwerken. Direkter Kühlwasserbedarf bleibt ein eigenständiger Sachpunkt. 0 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
 
 Aktualisierung vom 20. November 2026: Ergänzende Primärquellenprüfung gegenüber der lokalen Erstfassung; aktueller Einzelaussagenstand im generierten Kapitelbericht.
+
+Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.

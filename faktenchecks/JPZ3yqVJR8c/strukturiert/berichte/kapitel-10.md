@@ -1,8 +1,8 @@
 # Kapitel 10: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
 
-Teilprüfung mit abgeschlossenen Sachbefunden und konkret offenen Prüfaufträgen. Persönliche Abläufe, Zahlungsangaben, einzelne historische Zahlen, Marktanteile, Speichertechnik und Vertragsfälle sind nicht abschließend recherchiert. Quellen tatsächlich geöffnet, Zugriffsgrenzen dokumentiert; Unternehmensangaben bleiben Selbstauskünfte. Keine Gesamtvideonote und keine bestätigte Personenstatistik.
+Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0116
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Fünf genannte US-Konzerne kontrollierten 71 Prozent der gesamten weltweiten Rechenleistung.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,22 +29,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die gefundene Synergy-Quelle beschreibt Hyperscale-Rechenzentrumskapazität, nicht alle weltweiten Rechenoperationen oder Endgeräte. Der konkrete 71-Prozent-Wert mit diesem Firmenkreis wurde nicht nachgewiesen.
+Die 71 Prozent lassen sich einer Epoch-AI-Schätzung für Ende 2025 zuordnen. Erfasst ist KI-Rechenkapazität der fünf genannten Unternehmen, umgerechnet in H100-Äquivalente, nicht sämtliche Rechenleistung aller Geräte weltweit. Die Untersuchung nennt selbst unvollständige Eigentümererfassung und Grenzen der theoretischen Vergleichseinheit. Die Konzentrationsaussage hat also eine reale Grundlage, ihre Bezugsgröße ist im Beitrag zu weit gefasst.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Irreführend / Kontext fehlt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die gefundene Synergy-Quelle beschreibt Hyperscale-Rechenzentrumskapazität, nicht alle weltweiten Rechenoperationen oder Endgeräte. Der konkrete 71-Prozent-Wert mit diesem Firmenkreis wurde nicht nachgewiesen.
 
 ### Zugeordnete Quellen
 
-- [US Rises Again as Synergy Updates Its Ranking of Hyperscale Data Center Locations](https://www.srgresearch.com/articles/us-rises-again-as-synergy-updates-its-ranking-of-hyperscale-data-center-locations) · Synergy Research Group / TechInsights; 19.08.2026; Hyperscale-Kapazitäten, keine Gesamtrechenleistungsstatistik.
-  Quellenzugriff am 2026-11-20. Webseite geöffnet; die für den Prüfpunkt genannten Abschnitte gelesen. Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis.
+- [Five hyperscalers now own over two-thirds of global AI compute](https://epoch.ai/data-insights/hyperscalers-control-most-compute) · Luke Emberson, Josh You und Venkat Somala / Epoch AI; Analyse zu Q4/2025; Abrufstand 20.11.2026.
+  Quellenzugriff am 2026-11-20. Originalanalyse mit Tabelle, Umrechnung in H100-Äquivalente und Grenzen der Eigentümererfassung gelesen; keine Gleichsetzung mit sämtlicher globaler Rechenleistung. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Originaltabelle, Einheit und Abgrenzung belegen 71 Prozent für genau diese fünf Firmen?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S053. Ergebnis: Die 71 Prozent lassen sich einer Epoch-AI-Schätzung für Ende 2025 zuordnen. Erfasst ist KI-Rechenkapazität der fünf genannten Unternehmen, umgerechnet in H100-Äquivalente, nicht sämtliche Rechenleistung aller Geräte weltweit. Die Untersuchung nennt selbst unvollständige Eigentümererfassung und Grenzen der theoretischen Vergleichseinheit. Die Konzentrationsaussage hat also eine reale Grundlage, ihre Bezugsgröße ist im Beitrag zu weit gefasst.
 
 ## JPZ3yqVJR8c-A0117
 
@@ -52,7 +58,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nvidia liefere 80 bis 90 Prozent der Chips.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -71,21 +77,31 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Ohne Marktdefinition ist die Angabe nicht bewertbar: alle Halbleiter, Rechenzentrums-GPUs, KI-Beschleuniger sowie Stück- und Umsatzanteile unterscheiden sich.
+Eine sehr hohe Nvidia-Konzentration bei KI-GPUs ist dokumentiert. Die OECD nennt Schätzungen von über 80 Prozent, Jon Peddie Research 2025 sogar 95 Prozent in seiner Hardware-Abgrenzung. Das stützt die Größenordnung, aber keinen universellen Anteil von 80 bis 90 Prozent sämtlicher Chips. Marktsegment, Jahr sowie Umsatz- oder Stückzählung müssen genannt werden; verschiedene Schätzungen sind nicht unmittelbar vergleichbar.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Ohne Marktdefinition ist die Angabe nicht bewertbar: alle Halbleiter, Rechenzentrums-GPUs, KI-Beschleuniger sowie Stück- und Umsatzanteile unterscheiden sich.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [AI processor sales are moving all the needles](https://www.jonpeddie.com/news/ai-processor-sales-are-moving-all-the-needles/) · Jon Peddie Research; 28.08.2025; eigene Markteinschätzung, öffentliche Kurzfassung.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
+
+- [Overview of the AI supply chain](https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html) · OECD; Competition in artificial intelligence infrastructure, 2025; Abschnitt zum GPU-Markt; herangezogene Marktschätzungen, keine eigene Vollerhebung.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Produktklasse, welches Jahr und welcher Mengen- oder Umsatznenner sind gemeint?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S054, S055. Ergebnis: Eine sehr hohe Nvidia-Konzentration bei KI-GPUs ist dokumentiert. Die OECD nennt Schätzungen von über 80 Prozent, Jon Peddie Research 2025 sogar 95 Prozent in seiner Hardware-Abgrenzung. Das stützt die Größenordnung, aber keinen universellen Anteil von 80 bis 90 Prozent sämtlicher Chips. Marktsegment, Jahr sowie Umsatz- oder Stückzählung müssen genannt werden; verschiedene Schätzungen sind nicht unmittelbar vergleichbar.
 
 ## JPZ3yqVJR8c-A0118
 
@@ -173,7 +189,7 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Eine breite Teilhabe an Produktivitätsgewinnen wäre historisch ein Novum.
+**Eigene Beschreibung:** Eine Verteilung der Produktivitätsgewinne an alle Menschen werde als historisch erstmalig beschrieben.
 
 Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
@@ -194,21 +210,30 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die starke Aussage erfordert überprüfbare Definitionen von breiter Teilhabe, Wohlstand und historischer Vergleichsperiode.
+Noch nicht geprüft – Die Originalstelle entwirft eine künftige Teilhabe aller. Historische Forschung belegt breite, aber ungleiche Produktivitäts- und Freizeitgewinne. Das klärt nicht, ob mit allen eine ausnahmslose Beteiligung oder allgemein breite Teilhabe gemeint ist. Ohne diese Präzisierung wäre eine abschließende historische Bewertung zu weitgehend.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Nachrecherche 20.11.2026 (Codex): weiterhin Offen ohne Endurteil. Der Prüfgegenstand wurde anhand des vollständigen Untertitelkontexts auf die behauptete Teilhabe aller präzisiert; eine bloße breite Teilhabe wäre eine schwächere Behauptung. Die alte Beschreibung lautete in unserer Paraphrase: Eine breite Teilhabe an Produktivitätsgewinnen wäre historisch ein Novum.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Past and future trajectories for labour hours, productivity, gender inequality and structural transformation, 1800–2100](https://wid.world/news-article/past-and-future-trajectories-for-labour-hours-productivity-gender-inequality-and-structural-transformation-1800-2100/) · World Inequality Lab / WID; 14.05.2025; Zusammenfassung des Working Paper 2025/08 von Andreescu, Loubes, Piketty und Robilliard.
+  Quellenzugriff am 2026-11-20. Institutionelle Studienzusammenfassung einschließlich historischer Schätzungen und methodischer Reichweite gelesen; keine vollständige Replikation der Zeitreihen. Gelesene historische Vergleichsgrundlage; belegt keine ausnahmslose Beteiligung sämtlicher Menschen und keine abschließende Bewertung der mehrdeutigen Videostelle.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Einkommens-, Arbeitszeit- und Wohlfahrtsreihen begründen den behaupteten erstmaligen Charakter?
+- Was genau umfasst die Teilhabe aller: breite Verbesserungen, ausnahmslose Beteiligung oder gleiche Verteilung, und welcher historische Vergleich ist gemeint?
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Operationalisierung der ausnahmslosen Teilhabe und des gemeinten Vergleichs.
+
+- Durchgang 1 am 2026-11-20 (Codex): Wissenssuche zur Produktivitäts- und Arbeitszeitgeschichte, historische Studienzusammenfassung des World Inequality Lab und Originaltextzusammenhang verglichen. Gepruefte Quellen: S040. Ergebnis: Noch nicht geprüft – Die Originalstelle entwirft eine künftige Teilhabe aller. Historische Forschung belegt breite, aber ungleiche Produktivitäts- und Freizeitgewinne. Das klärt nicht, ob mit allen eine ausnahmslose Beteiligung oder allgemein breite Teilhabe gemeint ist. Ohne diese Präzisierung wäre eine abschließende historische Bewertung zu weitgehend.
 
 ## JPZ3yqVJR8c-A0121
 

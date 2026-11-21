@@ -14,6 +14,8 @@ Der erneut genannte KI-Codeanteil bleibt als zusätzliches Vorkommen an der ursp
 
 ## Fazit und offene Punkte
 
-Die sichtbare 14-nm-Angabe ist als Beschreibung führender Fertigung überholt. Datenknappheit und Modellkollaps brauchen präzise Begriffe. Speicherchronologie, Vertragsklauseln und konkrete Verfahren sind noch offen. 8 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
+CPU-Takte haben praktische Wärmegrenzen, aber keine starre Sechs-GHz-Schranke. DDR, GDDR und HBM sind parallele Speicherfamilien. Netflix-Klauseln sind öffentlich dokumentiert; ihre Rechtsfolgen und Schutzwirkung sind umstritten. Synthetische Daten können unter kontrollierten Bedingungen nützlich sein. Die private Rechnererinnerung bleibt offen. Eine führende Tatsachenprüfung dieses Kapitels ist offen; die konkrete Frage steht im verlinkten Bericht.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
+
+Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.

@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Teilprüfung mit abgeschlossenen Sachbefunden und konkret offenen Prüfaufträgen. Persönliche Abläufe, Zahlungsangaben, einzelne historische Zahlen, Marktanteile, Speichertechnik und Vertragsfälle sind nicht abschließend recherchiert. Quellen tatsächlich geöffnet, Zugriffsgrenzen dokumentiert; Unternehmensangaben bleiben Selbstauskünfte. Keine Gesamtvideonote und keine bestätigte Personenstatistik.",
-    "coverageNote": "Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen."
+    "researchNote": "Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.",
+    "coverageNote": "Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen."
   },
   "legacyPoints": [],
   "sources": [
@@ -307,9 +307,289 @@
       "id": "S037",
       "title": "Time Horizon 1.1: Benchmark-Ergebnisdatei",
       "url": "https://metr.org/assets/benchmark_results_1_1.yaml",
-      "details": "METR; Ergebnisdatei über die offizielle Zeithorizontseite verlinkt; Dateistand mangels lesbaren Abrufs nicht geprüft.",
+      "details": "METR; Benchmark METR-Horizon-v1.1; Datensatz gpt_5_2025_08_07_inspect, Release 07.08.2025.",
       "accessedOn": "2026-11-20",
-      "accessBasis": "Erfolgloser Abrufversuch: Webwerkzeug meldete HTTP 400 beziehungsweise nicht unterstützten Inhaltstyp application/x-yaml. Dateiinhalt nicht gelesen. Der separate Originalbericht S036 konnte gelesen werden, ersetzt aber nicht diesen Versionsabgleich."
+      "accessBasis": "Erstabruf im Webwerkzeug nicht lesbar. Nachabruf 20.11.2026 per HTTP 200 erfolgreich; UTF-8-Byteinhalt im Arbeitsspeicher gelesen. p50-Schätzwert 203,012577 Minuten, Intervall 112,641357–405,551565 Minuten. Keine Rohdatei im Repository gespeichert."
+    },
+    {
+      "id": "S038",
+      "title": "Erstmals nutzt die Mehrheit der Unternehmen KI",
+      "url": "https://www.bitkom.org/Presse/Presseinformation/Erstmals-nutzt-Mehrheit-Unternehmen-KI",
+      "details": "Bitkom; 14.09.2026; 603 Unternehmen ab 20 Beschäftigten in Deutschland; Telefonbefragung KW 28–33/2026.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S039",
+      "title": "Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39571020/",
+      "details": "Gunasekaram et al.; Science 386, 920–925; online 21.11.2024; DOI 10.1126/science.adk3381.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalabstract in PubMed vollständig gelesen. Volltext beim Science-Verlag nicht zugänglich (HTTP 403); keine Volltextprüfung behauptet."
+    },
+    {
+      "id": "S040",
+      "title": "Past and future trajectories for labour hours, productivity, gender inequality and structural transformation, 1800–2100",
+      "url": "https://wid.world/news-article/past-and-future-trajectories-for-labour-hours-productivity-gender-inequality-and-structural-transformation-1800-2100/",
+      "details": "World Inequality Lab / WID; 14.05.2025; Zusammenfassung des Working Paper 2025/08 von Andreescu, Loubes, Piketty und Robilliard.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Institutionelle Studienzusammenfassung einschließlich historischer Schätzungen und methodischer Reichweite gelesen; keine vollständige Replikation der Zeitreihen."
+    },
+    {
+      "id": "S041",
+      "title": "Energy supply for AI",
+      "url": "https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai",
+      "details": "IEA; Energy and AI, 2025; globale und regionale physische Stromversorgung von Rechenzentren.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S042",
+      "title": "CPU Speed: What Is CPU Clock Speed?",
+      "url": "https://www.intel.com/content/www/us/en/gaming/resources/cpu-clock-speed.html",
+      "details": "Intel; Erläuterung zu Takt, Wärmeentwicklung, Turbo und Mehrkernbetrieb; Abrufstand 20.11.2026; Herstellerdarstellung.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S043",
+      "title": "Intel Core 14th Gen i9-14900KS Powers Desktop PCs to Record-Breaking Speeds",
+      "url": "https://download.intel.com/newsroom/archive/2025/en-us-2024-03-14-intel-core-14th-gen-i914900ks-powers-desktop-pcs-to-recordbreaking-speeds.pdf",
+      "details": "Intel; 14.03.2024; Herstellerangaben zu maximalem Turbo und Leistungsaufnahme.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliches Herstellerdokument im Webwerkzeug gelesen; keine Datei im Repository abgelegt."
+    },
+    {
+      "id": "S044",
+      "title": "The Effect of Communication and Synchronization on Amdahl Law in Multicore Systems",
+      "url": "https://arxiv.org/abs/1306.3302",
+      "details": "Yavits, Morad und Ginosar; Preprint vom 14.06.2013.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalabstract vollständig gelesen; keine Replikation der Messungen."
+    },
+    {
+      "id": "S045",
+      "title": "Which DDR SDRAM Memory to Use and When",
+      "url": "https://www.synopsys.com/dw/doc.php/wp/which_DDR_SDRAM_memory_to_use_and_when_LI.pdf",
+      "details": "Vadhiraj Sankaranarayanan / Synopsys; Whitepaper; Datenstand vor breiter DDR5-Einführung; Architekturvergleich, nicht als aktuelle Marktübersicht verwendet.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Abschnitte zu Standard-DDR, Grafik-DDR und HBM gelesen."
+    },
+    {
+      "id": "S046",
+      "title": "Meet the Engineers Leading the World’s First Mass-production of HBM3",
+      "url": "https://news.skhynix.com/en/meet-the-engineers-leading-the-worlds-first-mass-production-of-hbm3/",
+      "details": "SK hynix; 22.06.2022; Herstellerdarstellung; HBM-Einführung 2013 und HBM3-Massenproduktion 2022.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S047",
+      "title": "Internet use grows, but gaps in quality and affordability persist",
+      "url": "https://www.itu.int/en/mediacentre/Pages/PR-2025-11-17-facts-and-figures.aspx",
+      "details": "Internationale Fernmeldeunion ITU; 17.11.2025; Facts and Figures 2025.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S048",
+      "title": "Self-Instruct: Aligning Language Models with Self-Generated Instructions",
+      "url": "https://aclanthology.org/2023.acl-long.754/",
+      "details": "Wang et al.; ACL 2023; arXiv-Erstfassung 20.12.2022; DOI 10.18653/v1/2023.acl-long.754.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalabstract bei ACL und arXiv gelesen; Generierung, Filterung und berichtete Aufgabenmessungen geprüft."
+    },
+    {
+      "id": "S049",
+      "title": "Constitutional AI: Harmlessness from AI feedback",
+      "url": "https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback",
+      "details": "Bai et al. / Anthropic; 15.12.2022; Forschungsabstract; Entwicklerbericht.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S050",
+      "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2501.12948",
+      "details": "DeepSeek-AI et al.; Erstfassung 22.01.2025; Revision 04.01.2026; Nature 645, 633–638 (2025).",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalabstract gelesen; keine unabhängige Replikation der Entwicklerergebnisse."
+    },
+    {
+      "id": "S051",
+      "title": "§ 30 Abgabenordnung: Steuergeheimnis",
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__30.html",
+      "details": "Bundesministerium der Justiz / Bundesamt für Justiz; am 20.11.2026 gelesene konsolidierte Fassung; keine historische Normrekonstruktion.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S052",
+      "title": "Gartner Says Data Center Electricity Consumption to Grow 26% in 2026",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-06-10-gartner-says-data-center-electricity-demand-to-grow-26-percent-in-2026",
+      "details": "Gartner; 10.06.2026; weltweite Prognose für 2026, keine abgeschlossene Jahresmessung.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S053",
+      "title": "Five hyperscalers now own over two-thirds of global AI compute",
+      "url": "https://epoch.ai/data-insights/hyperscalers-control-most-compute",
+      "details": "Luke Emberson, Josh You und Venkat Somala / Epoch AI; Analyse zu Q4/2025; Abrufstand 20.11.2026.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalanalyse mit Tabelle, Umrechnung in H100-Äquivalente und Grenzen der Eigentümererfassung gelesen; keine Gleichsetzung mit sämtlicher globaler Rechenleistung."
+    },
+    {
+      "id": "S054",
+      "title": "AI processor sales are moving all the needles",
+      "url": "https://www.jonpeddie.com/news/ai-processor-sales-are-moving-all-the-needles/",
+      "details": "Jon Peddie Research; 28.08.2025; eigene Markteinschätzung, öffentliche Kurzfassung.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S055",
+      "title": "Overview of the AI supply chain",
+      "url": "https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html",
+      "details": "OECD; Competition in artificial intelligence infrastructure, 2025; Abschnitt zum GPU-Markt; herangezogene Marktschätzungen, keine eigene Vollerhebung.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S056",
+      "title": "Rechtsgutachten: Netflix AI Training – Pressemeldung",
+      "url": "https://www.sprecherverband.de/wp-content/uploads/2026/02/SL_02_06_2026_VDS_Netflix_AI_Training-Pressemeldung.pdf",
+      "details": "Verband Deutscher Sprecher:innen / Spirit Legal; 09.02.2026; Verbandsdarstellung eines beauftragten Gutachtens.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S057",
+      "title": "Information zu BFFS-Netflix-Verträgen zu Regeln für den Einsatz von KI",
+      "url": "https://www.bffs.de/information-zu-bffs-netflix-vertraegen-zu-regeln-fuer-den-einsatz-von-ki/",
+      "details": "Bundesverband Schauspiel BFFS; laufend aktualisierte FAQ, Abruf 20.11.2026; beschreibt eine bis 31.12.2026 geltende Vereinbarung.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "FAQ zu KI-Training, Einwilligung, Vergütung und divergierenden Verbandspositionen gelesen; kein datierter Einzelvertrag eines konkreten Sprechers eingesehen."
+    },
+    {
+      "id": "S058",
+      "title": "ifo Beschäftigungsbarometer",
+      "url": "https://www.ifo.de/umfrage/ifo-beschaeftigungsbarometer",
+      "details": "ifo Institut; Ergebnis Oktober 2026; monatliche Angaben von etwa 9.500 Unternehmen zu ihren Beschäftigungsplänen für die nächsten drei Monate.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S059",
+      "title": "SinansWoche: Support & Einnahmen",
+      "url": "https://finanzen.sinanswoche.de/",
+      "details": "Sinan Kurtulus / SinansWoche; öffentlicher Datenstand 19.11.2026, Kalenderjahr 2026; Selbstauskunft des Zahlungsempfängers.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Am 20.11.2026 im öffentlichen Browser gelesen: Ranglisten für Gesamtbetrag und exakte Ein-Euro-Zahlungen. Keine Zahlungsdienstleister- oder Kontobelege eingesehen. Vorangegangener Zugriff über das Webwerkzeug scheiterte; Browserzugriff erfolgreich."
+    },
+    {
+      "id": "S060",
+      "title": "Measuring AI Ability to Complete Long Tasks",
+      "url": "https://arxiv.org/html/2503.14499v1",
+      "details": "Kwa et al. / METR; 18.03.2025, Fassung 1; Aufgabentabelle 1 und Methodik.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originaltext der Abschnitte zu Aufgabenbestand und Tabelle 1 gelesen; keine fremden Aufgabenformulierungen in die öffentliche Prüfung kopiert."
+    },
+    {
+      "id": "S061",
+      "title": "SinansWoche: Eigene Analyse zur KI-Entwicklung",
+      "url": "https://www.youtube.com/watch?v=JPZ3yqVJR8c",
+      "details": "SinansWoche; veröffentlicht 20.11.2026; Originalplayer, Beschreibung und automatische deutsche Untertitel.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalbeschreibung sowie vollständig verfügbare automatische Untertitel gelesen. Bildstichprobe 31:07 ergänzt; kein Originalton gehört. Diese Quelle belegt, was der Kanal darstellt, nicht die Wahrheit privater Vorgänge."
+    },
+    {
+      "id": "S062",
+      "title": "Hart aber Fair: Falsches Diagramm sorgt für Irritation",
+      "url": "https://www.bild.de/politik/inland/hart-aber-fair-falsches-diagramm-sorgt-fuer-irritation-67a3638d334072169a3e10f8",
+      "details": "Anisha von der Lancken / BILD; 06.02.2025; eigener Bericht mit auf Anfrage mitgeteilter Senderantwort.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Abschnitt zum Diagramm der Sendung vom 03.02.2025 und zur Antwort des ARD-Pressesprechers gelesen; Originalsendung nicht nachvermessen. Keine Übernahme politischer Absichtsvorwürfe."
+    },
+    {
+      "id": "S063",
+      "title": "2026 Outlook on the Shipment by Product-Type Concerning Cameras and Related Goods",
+      "url": "https://www.cipa.jp/documents/e/PRESSRELEASE20260226_e.pdf",
+      "details": "Camera & Imaging Products Association CIPA; 26.02.2026; Mitgliedermeldungen zu Auslieferungen 2025 und Ausblick 2026.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S064",
+      "title": "Wecker, Kamera, Navi – was das Smartphone heute alles ersetzt",
+      "url": "https://www.bitkom.org/print/pdf/node/25110",
+      "details": "Bitkom; 29.08.2025; 1.004 Befragte ab 16 Jahren in Deutschland, darunter 827 Smartphone-Nutzende.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S065",
+      "title": "Echoes of Humanity: Exploring the Perceived Humanness of AI Music",
+      "url": "https://arxiv.org/html/2509.25601v1",
+      "details": "Figueiredo et al.; 29.09.2025; Preprint; 308 Teilnehmende, Hörerexperiment mit KI- und menschlicher Musik.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Methodik, Stichprobe und Ergebnisse 4.1 einschließlich Kovariaten zu praktischer Erfahrung und formaler Ausbildung gelesen; kein allgemeiner Nachweis professioneller Überlegenheit."
+    },
+    {
+      "id": "S066",
+      "title": "§ 150 Abgabenordnung: Form und Inhalt der Steuererklärungen",
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__150.html",
+      "details": "Bundesministerium der Justiz / Bundesamt für Justiz; konsolidierte Fassung am 20.11.2026; insbesondere Absatz 2.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S067",
+      "title": "Hinweise zum Einsatz von künstlicher Intelligenz – KI-Leitfaden",
+      "url": "https://www.brak.de/fileadmin/service/publikationen/Handlungshinweise/BRAK_Leitfaden_mit_Hinweisen_zum_KI-Einsatz_Stand_10_2026.pdf",
+      "details": "Dr. Frank Remmertz / Bundesrechtsanwaltskammer; Stand Oktober 2026.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Abschnitte zu Fehlantworten, eigenverantwortlicher Kontrolle und Sorgfaltspflichten gelesen; allgemeine deutsche Rechtslage, keine Einzelrechtsberatung."
+    },
+    {
+      "id": "S068",
+      "title": "Light-Duty Vehicle Trends Since 1975",
+      "url": "https://www.epa.gov/greenvehicles/light-duty-vehicle-trends-1975-text-only",
+      "details": "US Environmental Protection Agency EPA; Stand 10.11.2026; US-Neufahrzeugdaten der Modelljahre 1975–2024.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S069",
+      "title": "Highlights of the Automotive Trends Report",
+      "url": "https://www.epa.gov/automotive-trends/highlights-automotive-trends-report",
+      "details": "US EPA; Automotive Trends Report 2025 / Ausgabe 2026; Angaben zu US-Neufahrzeugen, Modelljahr 2024.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen."
+    },
+    {
+      "id": "S070",
+      "title": "Transistors to Transformations",
+      "url": "https://www.intel.com.tw/content/dam/www/public/us/en/documents/corporate-information/museum-transistors-to-transformations-brochure.pdf",
+      "details": "Intel; Museum-Broschüre mit Produktdaten 1971–2011 und 22-nm-Einführung 2012; Herstellerdokument.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Historische Produkttabelle gelesen; 4004 mit 2.300 Transistoren (1971), Core i7 mit 1,16 Milliarden (2010). Keine Hochrechnung auf alle Produktklassen."
+    },
+    {
+      "id": "S071",
+      "title": "Alfred räumt auf: öffentlicher YouTube-Kanal",
+      "url": "https://www.youtube.com/@alfredraeumtauf",
+      "details": "Alfred räumt auf; Kanalstand 20.11.2026; gerundete öffentliche Anzeige, keine internen Kanalstatistiken.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Kanal im öffentlichen Browser geöffnet: 2.750 Abonnenten, sieben sichtbare Videos; ältestes sichtbares Einführungsvideo acht Tage zuvor. Die Kanalidentität ist in der Originalbeschreibung verlinkt. Kein Medien- oder Untertiteldownload."
+    },
+    {
+      "id": "S072",
+      "title": "Is Amazon’s massive wave of layoffs the first of the AI era?",
+      "url": "https://www.lemonde.fr/en/economy/article/2025/10/28/is-amazon-s-massive-wave-of-layoffs-the-first-of-the-ai-era_6746852_19.html",
+      "details": "Le Monde; 28.10.2025; zeitgenössischer Wirtschaftsbericht, keine eigene Personalvollerhebung.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentlich zugängliche Absätze zu rund 350.000 Corporate-Beschäftigten und damaligen Abbauplänen gelesen. Nicht mit dem Gesamtpersonalbestand oder einem verifizierten Januar-2026-Nenner gleichgesetzt."
     }
   ],
   "speakers": [
@@ -453,21 +733,24 @@
       "videoId": "JPZ3yqVJR8c",
       "chapter": 2,
       "legacyId": null,
-      "kind": "Tatsachenbehauptung",
+      "kind": "Meinung",
       "description": "KI habe dem Moderator beim Formulieren und Recherchieren besser geholfen als die zuvor verwendete Suche.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Subjektiver Vergleich ohne definierten Aufgabenbestand oder kontrollierten Vergleich.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Der Textzusammenhang schildert einen persönlichen Nutzenvergleich bei Formulierungen und Recherche. Ohne festgelegte Aufgaben, Qualitätskriterien und Messreihe ist die Aussage eine subjektive Erfahrungseinschätzung, kein allgemeiner Leistungsvergleich zwischen KI und Suchmaschinen. Die konkrete Nutzungsgeschichte wird dadurch nicht unabhängig bestätigt.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Meinung / Prognose. Frühere Arbeitsbegründung: Noch nicht geprüft – Subjektiver Vergleich ohne definierten Aufgabenbestand oder kontrollierten Vergleich."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Suchaufgaben, Systeme, Daten und Qualitätskriterien wurden verglichen?"
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0004",
@@ -487,7 +770,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Der Textzusammenhang schildert einen persönlichen Nutzenvergleich bei Formulierungen und Recherche. Ohne festgelegte Aufgaben, Qualitätskriterien und Messreihe ist die Aussage eine subjektive Erfahrungseinschätzung, kein allgemeiner Leistungsvergleich zwischen KI und Suchmaschinen. Die konkrete Nutzungsgeschichte wird dadurch nicht unabhängig bestätigt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0005",
@@ -703,18 +1003,23 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine frühere Grafik in hart aber fair habe unpassende Balkenlängen enthalten.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Konkrete Sendung, Datum und Originalgrafik fehlen in der gelesenen Passage; kein bestimmter redaktioneller Fehler als nachgewiesen behandelt.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Ein konkreter Fall vom 3. Februar 2025 ist dokumentiert: Nach einer BILD-Anfrage räumte der Sender abweichende Balkenproportionen bei zutreffenden Prozentangaben ein. Damit ist der allgemeine Hinweis auf einen solchen Fehler gestützt. Der Beitrag nennt keine Folge; ob genau dieser Fall gemeint ist, bleibt offen. Der Fehler beweist keine politische Manipulationsabsicht.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Konkrete Sendung, Datum und Originalgrafik fehlen in der gelesenen Passage; kein bestimmter redaktioneller Fehler als nachgewiesen behandelt."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S062",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
-        "Welche Originalsendung und welche korrigierte Grafik sind gemeint?"
+        "Bezieht sich der Hinweis auf die Sendung vom 3. Februar 2025 oder einen anderen Fall?"
       ],
       "occurrences": [
         {
@@ -735,7 +1040,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Ein solcher Diagrammfehler ist für Februar 2025 dokumentiert; welche Folge der Beitrag meint, bleibt ungenannt.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S062"
+            ],
+            "result": "Ein konkreter Fall vom 3. Februar 2025 ist dokumentiert: Nach einer BILD-Anfrage räumte der Sender abweichende Balkenproportionen bei zutreffenden Prozentangaben ein. Damit ist der allgemeine Hinweis auf einen solchen Fehler gestützt. Der Beitrag nennt keine Folge; ob genau dieser Fall gemeint ist, bleibt offen. Der Fehler beweist keine politische Manipulationsabsicht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0011",
@@ -830,18 +1153,23 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Weitergabe von Fahrtenbuchdaten an das Finanzamt mache ihre KI-Verarbeitung zu einem geringen Sicherheitsrisiko.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Verschiedene Empfänger, Zugriffsrechte und Verarbeitungszwecke sind nicht gleichzusetzen. Eine konkrete technische oder datenschutzrechtliche Prüfung fehlt.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Eine spätere Übermittlung an das Finanzamt macht Fahrtenbuchdaten nicht öffentlich oder generell risikoarm. Für Amtsträger gilt das Steuergeheimnis. Eine zusätzliche Verarbeitung durch einen KI- oder Cloudanbieter hat andere Empfänger, Zwecke und Schutzvorkehrungen. Ob der konkrete Aufbau ein geringes Risiko hat, hängt von diesen bisher nicht bekannten Umständen ab; die Finanzamtsübermittlung begründet diese Schlussfolgerung nicht.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Irreführend / Kontext fehlt. Frühere Arbeitsbegründung: Noch nicht geprüft – Verschiedene Empfänger, Zugriffsrechte und Verarbeitungszwecke sind nicht gleichzusetzen. Eine konkrete technische oder datenschutzrechtliche Prüfung fehlt."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S051",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
-        "Welche Daten verarbeitet welcher Dienst, mit welchen Speicherfristen und Zugriffsrechten?"
+        "Welche Anbieter, Speicherorte, Zugriffsmöglichkeiten und Vertragsbedingungen hat die konkrete Verarbeitung?"
       ],
       "occurrences": [
         {
@@ -862,7 +1190,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Steuerdaten bleiben vertraulich; ihre Übermittlung an das Finanzamt begründet keine geringe Gefährdung bei zusätzlicher KI-Verarbeitung.",
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S051"
+            ],
+            "result": "Eine spätere Übermittlung an das Finanzamt macht Fahrtenbuchdaten nicht öffentlich oder generell risikoarm. Für Amtsträger gilt das Steuergeheimnis. Eine zusätzliche Verarbeitung durch einen KI- oder Cloudanbieter hat andere Empfänger, Zwecke und Schutzvorkehrungen. Ob der konkrete Aufbau ein geringes Risiko hat, hängt von diesen bisher nicht bekannten Umständen ab; die Finanzamtsübermittlung begründet diese Schlussfolgerung nicht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0014",
@@ -1053,19 +1399,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Aufgabenbeispiele reichten von einfachen Dateifragen bis zu aufwendigeren Programmier- und Simulationsproblemen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Aufgabengruppen sind plausibel, aber die genannten Einzelaufgaben und Sekundenwerte wurden nicht mit dem vollständigen Aufgabenkatalog abgeglichen.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die im Beitrag angeführte Spannweite stimmt mit METRs Beispieltabelle überein: einfache Dateierkennung, kurze Informationssuche, Fehlersuche in einer Simulation und komplexere Programmieraufgaben. Die Zeiten sind menschliche Vergleichszeiten für konkrete Aufgaben. Daraus folgt keine Messung sämtlicher Berufe oder jeder Form von Komplexität.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Aufgabengruppen sind plausibel, aber die genannten Einzelaufgaben und Sekundenwerte wurden nicht mit dem vollständigen Aufgabenkatalog abgeglichen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Benchmarkversion enthält die konkreten Aufgaben und Zeitwerte?"
+      "sourceRefs": [
+        {
+          "sourceId": "S060",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0018",
@@ -1085,7 +1434,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S060"
+            ],
+            "result": "Die im Beitrag angeführte Spannweite stimmt mit METRs Beispieltabelle überein: einfache Dateierkennung, kurze Informationssuche, Fehlersuche in einer Simulation und komplexere Programmieraufgaben. Die Zeiten sind menschliche Vergleichszeiten für konkrete Aufgaben. Daraus folgt keine Messung sämtlicher Berufe oder jeder Form von Komplexität."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0019",
@@ -1226,32 +1592,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "GPT-5 habe im August 2025 einen Zeithorizont von annähernd dreieinhalb Stunden erreicht.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Der gelesene METR-Bericht zur ursprünglichen GPT-5-Evaluation nennt 2 h 17 min, nicht dreieinhalb Stunden. Die im Video möglicherweise verwendete spätere Version 1.1 konnte nicht aus der Ergebnisdatei gelesen werden. Da Neubewertungen möglich sind, lässt sich der Videowert noch nicht abschließend beurteilen.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "In METR-Horizon-v1.1 liegt der Punktwert für GPT-5 vom 7. August 2025 bei 203,0 Minuten, also rund drei Stunden 23 Minuten. Das entspricht der ungefähren Angabe im Beitrag. Der ursprüngliche Evaluationsbericht nannte 137 Minuten; unterschiedliche Benchmarkstände erklären die Abweichung. Der Punktwert ist kein garantierter Arbeitszeitraum: Er bezeichnet die geschätzte 50-Prozent-Erfolgsschwelle für das geprüfte Aufgabenspektrum und hat ein breites Unsicherheitsintervall.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Der gelesene METR-Bericht zur ursprünglichen GPT-5-Evaluation nennt 2 h 17 min, nicht dreieinhalb Stunden. Die im Video möglicherweise verwendete spätere Version 1.1 konnte nicht aus der Ergebnisdatei gelesen werden. Da Neubewertungen möglich sind, lässt sich der Videowert noch nicht abschließend beurteilen."
       },
       "sourceRefs": [
         {
-          "sourceId": "S001",
-          "note": "Methodik und Hinweis auf unterschiedliche Benchmarkversionen; kein geprüfter einzelner GPT-5-Datenpunkt."
+          "sourceId": "S037",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
         },
         {
           "sourceId": "S036",
-          "note": "Gelesener ursprünglicher Evaluationsbericht; dessen Messstand darf nicht ungeprüft mit einer späteren Grafik gleichgesetzt werden."
-        },
-        {
-          "sourceId": "S037",
-          "note": "Erfolgloser Abrufversuch – kein Sachbeleg. Der Inhalt der verlinkten YAML-Ergebnisdatei war im Webwerkzeug nicht lesbar."
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
         }
       ],
-      "openQuestions": [
-        "Welcher konkrete GPT-5-Datenpunkt welcher Benchmarkversion ist in der Videografik gemeint, und wie unterscheidet er sich vom ursprünglichen Evaluationsbericht?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0022",
@@ -1271,7 +1631,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S037",
+              "S036"
+            ],
+            "result": "In METR-Horizon-v1.1 liegt der Punktwert für GPT-5 vom 7. August 2025 bei 203,0 Minuten, also rund drei Stunden 23 Minuten. Das entspricht der ungefähren Angabe im Beitrag. Der ursprüngliche Evaluationsbericht nannte 137 Minuten; unterschiedliche Benchmarkstände erklären die Abweichung. Der Punktwert ist kein garantierter Arbeitszeitraum: Er bezeichnet die geschätzte 50-Prozent-Erfolgsschwelle für das geprüfte Aufgabenspektrum und hat ein breites Unsicherheitsintervall."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0023",
@@ -1456,19 +1834,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Alfred habe bereits mehr als 1.000 Abonnenten.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Historischer Kanalstand zum Aufnahmezeitpunkt nicht unabhängig geprüft; heutige Zähler wären dafür kein ausreichender Nachweis.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Am Veröffentlichungstag zeigt der öffentlich zugeordnete Kanal 2.750 Abonnenten. Die Schwelle von 1.000 ist damit zum Abrufzeitpunkt überschritten. Der genaue Aufnahmezeitpunkt und sein damaliger Stand sind nicht unabhängig dokumentiert; die aktuelle Anzeige kann diesen früheren Stand nicht beweisen.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Historischer Kanalstand zum Aufnahmezeitpunkt nicht unabhängig geprüft; heutige Zähler wären dafür kein ausreichender Nachweis."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welcher verifizierbare Kanalstand lag bei Aufnahme vor?"
+      "sourceRefs": [
+        {
+          "sourceId": "S071",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0027",
@@ -1488,7 +1869,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Am Veröffentlichungstag sind öffentlich 2.750 Abonnenten sichtbar; der Stand beim unbekannten Aufnahmezeitpunkt ist nicht belegt.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S071"
+            ],
+            "result": "Am Veröffentlichungstag zeigt der öffentlich zugeordnete Kanal 2.750 Abonnenten. Die Schwelle von 1.000 ist damit zum Abrufzeitpunkt überschritten. Der genaue Aufnahmezeitpunkt und sein damaliger Stand sind nicht unabhängig dokumentiert; die aktuelle Anzeige kann diesen früheren Stand nicht beweisen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0028",
@@ -1624,19 +2023,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Kumulativer Wissenserwerb ermögliche Menschen eine fortlaufende Weiterentwicklung über Generationen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Die Grundidee wird als Erklärung herangezogen; Forschung zu kumulativer Kultur und ihrer Abgrenzung wurde hier noch nicht systematisch geprüft.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Weitergabe und schrittweise Erweiterung kulturellen Wissens ist eine tragende Erklärung menschlicher technologischer Entwicklung. Die Studie untersucht kulturelle Komplexifizierung und Austausch zwischen Populationen. Das stützt das beschriebene Prinzip; es beweist weder einen stets linearen Fortschritt noch die menschliche Exklusivität aller Formen kumulativer Kultur.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die Grundidee wird als Erklärung herangezogen; Forschung zu kumulativer Kultur und ihrer Abgrenzung wurde hier noch nicht systematisch geprüft."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Wie definiert die einschlägige Forschung kumulative Kultur und welche Vergleichsbefunde gibt es?"
+      "sourceRefs": [
+        {
+          "sourceId": "S039",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0031",
@@ -1656,7 +2058,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S039"
+            ],
+            "result": "Die Weitergabe und schrittweise Erweiterung kulturellen Wissens ist eine tragende Erklärung menschlicher technologischer Entwicklung. Die Studie untersucht kulturelle Komplexifizierung und Austausch zwischen Populationen. Das stützt das beschriebene Prinzip; es beweist weder einen stets linearen Fortschritt noch die menschliche Exklusivität aller Formen kumulativer Kultur."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0032",
@@ -1665,19 +2084,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Schimpansen würden ihre Fähigkeiten generationenübergreifend kaum erweitern.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Pauschaler Artvergleich ohne definierte Fähigkeit oder Zeitreihe; die Werkzeugstudie allein entscheidet diese Behauptung nicht.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der starke Unterschied zur menschlichen technischen Entwicklung ist plausibel. Die Studie findet aber Anzeichen schrittweiser kultureller Erweiterung auch bei Schimpansen, wenn Gruppen Wissen austauschen. Ein weitgehend unveränderliches Fähigkeitsniveau über Generationen ist daher zu pauschal. Die Forschung beschreibt frühe, begrenzte Formen kumulativer Kultur; eine menschliche Entwicklungsgeschwindigkeit folgt daraus nicht.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Pauschaler Artvergleich ohne definierte Fähigkeit oder Zeitreihe; die Werkzeugstudie allein entscheidet diese Behauptung nicht."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Langzeitbefunde stützen oder relativieren die behauptete kulturelle Stagnation?"
+      "sourceRefs": [
+        {
+          "sourceId": "S039",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0032",
@@ -1697,7 +2119,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Auch bei Schimpansen gibt es Hinweise auf schrittweise kulturelle Erweiterung; der Unterschied zum Menschen ist gradueller als dargestellt.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S039"
+            ],
+            "result": "Der starke Unterschied zur menschlichen technischen Entwicklung ist plausibel. Die Studie findet aber Anzeichen schrittweiser kultureller Erweiterung auch bei Schimpansen, wenn Gruppen Wissen austauschen. Ein weitgehend unveränderliches Fähigkeitsniveau über Generationen ist daher zu pauschal. Die Forschung beschreibt frühe, begrenzte Formen kumulativer Kultur; eine menschliche Entwicklungsgeschwindigkeit folgt daraus nicht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0033",
@@ -1902,24 +2342,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Anteil der Unternehmen ohne Interesse an KI sei binnen zwei Jahren von 41 auf vier Prozent gesunken.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Die genaue Fragestellung und Bezugsgruppe dieser beiden Werte wurden in der gelesenen Erhebung nicht eindeutig identifiziert.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Zahlen passen zur Bitkom-Erhebung: 2024 betraf die Antwort, KI sei kein Thema, 41 Prozent, 2026 vier Prozent. Befragt wurden Unternehmen in Deutschland ab 20 Beschäftigten, nicht alle Unternehmen weltweit. Im Textzusammenhang folgt die Angabe auf McKinsey; diese Zuordnung der Erhebungen ist ungenau. Die Antwortkategorie misst auch keine allgemeine Ablehnung von KI.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die genaue Fragestellung und Bezugsgruppe dieser beiden Werte wurden in der gelesenen Erhebung nicht eindeutig identifiziert."
       },
       "sourceRefs": [
         {
-          "sourceId": "S002",
-          "note": "Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis."
+          "sourceId": "S038",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
         }
       ],
-      "openQuestions": [
-        "Auf welche Grafik, Erhebungsjahre und Antwortkategorie beziehen sich 41 und vier Prozent?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0037",
@@ -1939,7 +2377,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "41 und vier Prozent stammen von Bitkom für deutsche Unternehmen ab 20 Beschäftigten; die Erhebungen und Antwortkategorien dürfen nicht vermischt werden.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S038"
+            ],
+            "result": "Die Zahlen passen zur Bitkom-Erhebung: 2024 betraf die Antwort, KI sei kein Thema, 41 Prozent, 2026 vier Prozent. Befragt wurden Unternehmen in Deutschland ab 20 Beschäftigten, nicht alle Unternehmen weltweit. Im Textzusammenhang folgt die Angabe auf McKinsey; diese Zuordnung der Erhebungen ist ungenau. Die Antwortkategorie misst auch keine allgemeine Ablehnung von KI."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0038",
@@ -2076,28 +2532,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Dies entspreche fast einem Zehntel der Amazon-Verwaltung.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Die beiden Mitteilungen bestätigen die Größenordnung der Kürzungen, liefern aber keinen vollständig abgeglichenen Nenner für diese Verhältniszahl.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Ankündigungen von 14.000 und 16.000 Rollen ergeben zusammen 30.000. Bei dem im Oktober 2025 von Le Monde genannten Corporate-Bestand von rund 350.000 wären das rechnerisch 8,6 Prozent, also ungefähr die bezeichnete Größenordnung. Der Nenner stammt aus Medienberichterstattung und ist kein exakt abgeglichener Bestand vor beiden Runden. Ankündigungen, tatsächliche Abgänge und Ersatzbesetzungen sind außerdem zu trennen.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die beiden Mitteilungen bestätigen die Größenordnung der Kürzungen, liefern aber keinen vollständig abgeglichenen Nenner für diese Verhältniszahl."
       },
       "sourceRefs": [
         {
           "sourceId": "S012",
-          "note": "Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis."
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
         },
         {
           "sourceId": "S013",
-          "note": "Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis."
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S072",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
         }
       ],
-      "openQuestions": [
-        "Welche Definition und welcher datierte Bestand der Corporate-Beschäftigung bilden den Nenner?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0041",
@@ -2117,7 +2575,27 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "30.000 entsprächen bei rund 350.000 Corporate-Beschäftigten etwa 8,6 Prozent; ein exakt zeitgleicher Personalbestand wurde nicht nachgewiesen.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S012",
+              "S013",
+              "S072"
+            ],
+            "result": "Die Ankündigungen von 14.000 und 16.000 Rollen ergeben zusammen 30.000. Bei dem im Oktober 2025 von Le Monde genannten Corporate-Bestand von rund 350.000 wären das rechnerisch 8,6 Prozent, also ungefähr die bezeichnete Größenordnung. Der Nenner stammt aus Medienberichterstattung und ist kein exakt abgeglichener Bestand vor beiden Runden. Ankündigungen, tatsächliche Abgänge und Ersatzbesetzungen sind außerdem zu trennen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0042",
@@ -2317,19 +2795,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Viele Unternehmen planten derzeit keine Neueinstellungen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Kein eindeutig datierter und abgegrenzter Einstellungsindikator wurde in der Passage benannt.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das ifo-Beschäftigungsbarometer berichtet im Oktober 2026 für Deutschland weiterhin überwiegend schwache Beschäftigungspläne und in Summe geplanten Stellenabbau. Das stützt die Beschreibung eines zurückhaltenden Einstellungsumfelds. Es misst aber geplante Beschäftigtenbestände, nicht ausdrücklich den Anteil von Unternehmen ohne jede Neueinstellung. Ersatzbesetzungen bleiben möglich; ein KI-Ursachennachweis ist diese Umfrage nicht.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Kein eindeutig datierter und abgegrenzter Einstellungsindikator wurde in der Passage benannt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche repräsentative Erhebung, Region, Branche und Befragungszeit sind gemeint?"
+      "sourceRefs": [
+        {
+          "sourceId": "S058",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0046",
@@ -2349,7 +2830,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Schwache Beschäftigungspläne sind dokumentiert; geplante Bestandsveränderungen messen weder jede Neueinstellung noch deren KI-Ursache.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S058"
+            ],
+            "result": "Das ifo-Beschäftigungsbarometer berichtet im Oktober 2026 für Deutschland weiterhin überwiegend schwache Beschäftigungspläne und in Summe geplanten Stellenabbau. Das stützt die Beschreibung eines zurückhaltenden Einstellungsumfelds. Es misst aber geplante Beschäftigtenbestände, nicht ausdrücklich den Anteil von Unternehmen ohne jede Neueinstellung. Ersatzbesetzungen bleiben möglich; ein KI-Ursachennachweis ist diese Umfrage nicht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0047",
@@ -2406,18 +2905,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Für 90 bis 99 Prozent der Menschen bestehe praktisch kein Bedarf mehr an professionellen Kameras.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Ungeklärte Prozentangabe ohne definierten Markt oder Erhebung; private Kamerakäufe und professionelle Fotodienstleistungen sind nicht gleichzusetzen.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "CIPA meldet 2025 rund sieben Millionen ausgelieferte Wechselobjektivkameras; das misst weder den Anteil aller Menschen mit Kamerabedarf noch speziell berufliche Nutzung. Eine ergänzende Bitkom-Erhebung nennt 65 Prozent der Smartphone-Nutzenden in Deutschland, die ihren Fotoapparat weitgehend oder vollständig ersetzt haben. Auch das ist ein anderer Nenner und kein Nachweis für 90 bis 99 Prozent ohne Bedarf an professionellen Kameras. Die konkrete Prozentbehauptung bleibt nach beiden Prüfwegen unzureichend belegt.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Ungeklärte Prozentangabe ohne definierten Markt oder Erhebung; private Kamerakäufe und professionelle Fotodienstleistungen sind nicht gleichzusetzen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S063",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S064",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
-        "Welche repräsentativen Nachfragezahlen stützen die Prozentangabe?"
+        "Welche repräsentative Bedarfserhebung definiert professionelle Kameras und beziffert den Anteil im behaupteten Bezugsraum?"
       ],
       "occurrences": [
         {
@@ -2438,7 +2946,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Auslieferungszahlen und Smartphone-Befragung messen andere Größen; den behaupteten Bevölkerungsanteil von 90 bis 99 Prozent belegen sie nicht.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach Wissenssuche zunächst branchenseitige Auslieferungszahlen bei CIPA geprüft.",
+            "sourceIds": [
+              "S063"
+            ],
+            "result": "Verkäufe und Produktarten sind dokumentiert, aber kein Bevölkerungsanteil ohne Bedarf."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Zweiter Prüfweg über eine repräsentative Verbraucherbefragung zur Verdrängung von Fotoapparaten durch Smartphones bei Bitkom.",
+            "sourceIds": [
+              "S064"
+            ],
+            "result": "65 Prozent der Smartphone-Nutzenden in Deutschland berichten weitgehenden oder vollständigen Ersatz; der behauptete Anteil von 90 bis 99 Prozent für professionelle Kameras wird nicht gemessen."
+          }
+        ],
+        "missingInformation": "Eine repräsentative Bedarfserhebung mit Definition professioneller Kameras, Bezugsland und passendem Nenner.",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0049",
@@ -2650,19 +3185,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Musikfachleute könnten Unterschiede noch besser erkennen als andere Hörer.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Der gelesene Bericht liefert keinen belastbaren kontrollierten Expertenvergleich für diese Behauptung.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Ein Hörerexperiment findet eine bessere Erkennung bei Teilnehmenden mit mehr als fünf Jahren praktischer Musikerfahrung sowie Vorkenntnissen zu KI-Musik. Formale Ausbildung zeigt keinen einfachen gleichgerichteten Zusammenhang. Das stützt einen begrenzten Erfahrungseffekt, aber nicht zuverlässig jede Berufsgruppe oder jedes aktuelle Musikmodell. Stichprobe, Liedpaare und Signalmerkmale begrenzen die Übertragbarkeit.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Der gelesene Bericht liefert keinen belastbaren kontrollierten Expertenvergleich für diese Behauptung."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Wie unterscheiden sich Erkennungsraten nach Expertise und Musikmaterial?"
+      "sourceRefs": [
+        {
+          "sourceId": "S065",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0054",
@@ -2682,7 +3220,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Praktische Musikerfahrung kann die Erkennung verbessern; ein allgemeiner Vorteil sämtlicher Musikprofis ist damit nicht belegt.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S065"
+            ],
+            "result": "Ein Hörerexperiment findet eine bessere Erkennung bei Teilnehmenden mit mehr als fünf Jahren praktischer Musikerfahrung sowie Vorkenntnissen zu KI-Musik. Formale Ausbildung zeigt keinen einfachen gleichgerichteten Zusammenhang. Das stützt einen begrenzten Erfahrungseffekt, aber nicht zuverlässig jede Berufsgruppe oder jedes aktuelle Musikmodell. Stichprobe, Liedpaare und Signalmerkmale begrenzen die Übertragbarkeit."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0055",
@@ -2769,19 +3325,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Fehlende KI-Haftung sei nur im professionellen Markt ein wesentlicher Einwand.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Die Passage vermischt individuelles Kostenkalkül und Rechtsfolgen. Eine einschlägige Prüfung der konkreten Rechtsordnung und Leistungen steht aus.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Haftung und Fehlerfolgen betreffen auch private Nutzende. Wer eine eigene Steuererklärung mit KI erstellt, bleibt für wahrheitsgemäße Angaben verantwortlich. Der BRAK-Leitfaden erläutert Fehler- und Haftungsrisiken auch bei öffentlich verfügbaren Sprachmodellen; bei anwaltlicher Unterstützung bleibt persönliche Kontrolle erforderlich. Dass jemand bei kleinen Anliegen trotzdem KI bevorzugt, ist eine Verhaltensvermutung, kein Beleg fehlender Relevanz des Risikos.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Irreführend / Kontext fehlt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die Passage vermischt individuelles Kostenkalkül und Rechtsfolgen. Eine einschlägige Prüfung der konkreten Rechtsordnung und Leistungen steht aus."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Rechtsordnung, Zulassungspflichten, Beratungsleistung und Haftungskonstellation sind gemeint?"
+      "sourceRefs": [
+        {
+          "sourceId": "S066",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S067",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0057",
@@ -2801,7 +3364,26 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Auch Privatpersonen tragen Folgen falscher KI-Auskünfte; bei Steuererklärungen bleibt die Verantwortung für richtige Angaben bestehen.",
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S066",
+              "S067"
+            ],
+            "result": "Haftung und Fehlerfolgen betreffen auch private Nutzende. Wer eine eigene Steuererklärung mit KI erstellt, bleibt für wahrheitsgemäße Angaben verantwortlich. Der BRAK-Leitfaden erläutert Fehler- und Haftungsrisiken auch bei öffentlich verfügbaren Sprachmodellen; bei anwaltlicher Unterstützung bleibt persönliche Kontrolle erforderlich. Dass jemand bei kleinen Anliegen trotzdem KI bevorzugt, ist eine Verhaltensvermutung, kein Beleg fehlender Relevanz des Risikos."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0058",
@@ -3055,24 +3637,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der weltweite Rechenzentrumsstrombedarf liege 2026 bei ungefähr 570 TWh.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Für den laufenden Jahrgang ist das eine Schätzung. Die gelesene IEA-Aktualisierung nennt 485 TWh für 2025, aber der konkrete 570-TWh-Punkt wurde nicht verifiziert.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Gartner prognostizierte im Juni 2026 weltweit 565 TWh für Rechenzentren. Die im Original bei 31:07 betrachtete Grafik nennt ebenfalls 565 TWh und kennzeichnet den Wert ausdrücklich als Prognose; die Untertitel geben ungefähr 570 wieder. Die gerundete Größenordnung und die Prognosekennzeichnung sind damit belegt. Ein gemessener Jahresendverbrauch ist das nicht; eine solche Gewissheit ist der betrachteten Grafik auch nicht zuzuschreiben.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Für den laufenden Jahrgang ist das eine Schätzung. Die gelesene IEA-Aktualisierung nennt 485 TWh für 2025, aber der konkrete 570-TWh-Punkt wurde nicht verifiziert."
       },
       "sourceRefs": [
         {
-          "sourceId": "S006",
-          "note": "Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis."
+          "sourceId": "S052",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
         }
       ],
-      "openQuestions": [
-        "Welche Szenarioreihe mit welchem Veröffentlichungsstand nennt 570 TWh für 2026?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0064",
@@ -3092,7 +3672,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Die Grafik kennzeichnet 565 TWh ausdrücklich als Prognose; ungefähr 570 TWh ist eine passende Rundung.",
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S052"
+            ],
+            "result": "Gartner prognostizierte im Juni 2026 weltweit 565 TWh für Rechenzentren. Die im Original bei 31:07 betrachtete Grafik nennt ebenfalls 565 TWh und kennzeichnet den Wert ausdrücklich als Prognose; die Untertitel geben ungefähr 570 wieder. Die gerundete Größenordnung und die Prognosekennzeichnung sind damit belegt. Ein gemessener Jahresendverbrauch ist das nicht; eine solche Gewissheit ist der betrachteten Grafik auch nicht zuzuschreiben."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0065",
@@ -3416,23 +4014,23 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Gaskraftwerke stünden häufig unmittelbar neben Rechenzentren.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Die gelesenen Quellen bestätigen neue Vor-Ort-Projekte, aber keine definierte weltweite Häufigkeit der behaupteten räumlichen Nachbarschaft.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Gasstrom ist eine bedeutende Versorgungsquelle, besonders in den USA. Die IEA unterscheidet jedoch Netzstrom und Erzeugung am Standort; global kamen 2024 ungefähr 26 Prozent der Versorgung aus Gas. Dieser Anteil sagt nichts darüber aus, wie oft ein Gaskraftwerk direkt neben einem Rechenzentrum steht. Die räumliche Häufigkeitsbehauptung wird durch die gelesene Quelle nicht gestützt.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die gelesenen Quellen bestätigen neue Vor-Ort-Projekte, aber keine definierte weltweite Häufigkeit der behaupteten räumlichen Nachbarschaft."
       },
       "sourceRefs": [
         {
-          "sourceId": "S006",
-          "note": "Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis."
+          "sourceId": "S041",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
         }
       ],
       "openQuestions": [
-        "Welcher Anteil welcher Rechenzentren wird tatsächlich von unmittelbar benachbarten Gaskraftwerken versorgt?"
+        "Welcher repräsentative Standortdatensatz quantifiziert direkt benachbarte Gaskraftwerke?"
       ],
       "occurrences": [
         {
@@ -3453,7 +4051,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Gasstrom ist relevant, doch sein Anteil am Strommix belegt keine häufige direkte Nachbarschaft von Kraftwerk und Rechenzentrum.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S041"
+            ],
+            "result": "Gasstrom ist eine bedeutende Versorgungsquelle, besonders in den USA. Die IEA unterscheidet jedoch Netzstrom und Erzeugung am Standort; global kamen 2024 ungefähr 26 Prozent der Versorgung aus Gas. Dieser Anteil sagt nichts darüber aus, wie oft ein Gaskraftwerk direkt neben einem Rechenzentrum steht. Die räumliche Häufigkeitsbehauptung wird durch die gelesene Quelle nicht gestützt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0073",
@@ -3591,19 +4207,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Modelle und Hardware würden bei einzelnen Aufgaben effizienter.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Der allgemeine Trend ist plausibel, aber kein bestimmter Modellvergleich mit identischen Aufgaben und Qualitätsschwellen wurde nachgeprüft.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der IEA-Bericht beschreibt deutlich sinkenden Energieeinsatz für vergleichbare einzelne KI-Aufgaben durch Software- und Hardwarefortschritte. Damit ist der begrenzte Kern der Aussage belegt. Daraus folgt keine Abnahme des Gesamtbedarfs: Nutzungshäufigkeit und aufwendigere Anwendungen können die Einsparungen übersteigen.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Der allgemeine Trend ist plausibel, aber kein bestimmter Modellvergleich mit identischen Aufgaben und Qualitätsschwellen wurde nachgeprüft."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Vergleichsmessungen erfassen Energie pro erfolgreich gelöster gleicher Aufgabe?"
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0076",
@@ -3623,7 +4242,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S006"
+            ],
+            "result": "Der IEA-Bericht beschreibt deutlich sinkenden Energieeinsatz für vergleichbare einzelne KI-Aufgaben durch Software- und Hardwarefortschritte. Damit ist der begrenzte Kern der Aussage belegt. Daraus folgt keine Abnahme des Gesamtbedarfs: Nutzungshäufigkeit und aufwendigere Anwendungen können die Einsparungen übersteigen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0077",
@@ -3677,24 +4313,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Effizientere Automotoren hätten den Verbrauchsvorteil vor allem in höhere Leistung statt niedrigeren Verbrauch umgesetzt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Mehr Leistung kann Einsparungen mindern. Das konkrete historische Übergewicht und der hypothetische Drei-Liter-Vergleich wurden nicht an Fahrzeug- und Fahrleistungsreihen überprüft.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "US-Neufahrzeugdaten zeigen zugleich stärkere Motoren, höhere Gewichte und effizienteren Kraftstoffverbrauch je Strecke. Die EPA beschreibt zudem, dass der Wechsel zu verbrauchsintensiveren Fahrzeugklassen einen Teil technischer Einsparungen aufzehrt. Das stützt den Mechanismus, aber keine allgemeine Aussage, der Effizienzgewinn sei überwiegend nur in Leistung geflossen oder Verbrauch sei kaum gesunken. US-Neufahrzeuge sind nicht die deutsche Bestandsflotte.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Mehr Leistung kann Einsparungen mindern. Das konkrete historische Übergewicht und der hypothetische Drei-Liter-Vergleich wurden nicht an Fahrzeug- und Fahrleistungsreihen überprüft."
       },
       "sourceRefs": [
         {
-          "sourceId": "S007",
-          "note": "Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis."
+          "sourceId": "S068",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S069",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
         }
       ],
-      "openQuestions": [
-        "Wie entwickelten sich reale Flottenverbräuche, Fahrzeuggewichte und Fahrleistungen im bezeichneten Zeitraum?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0078",
@@ -3714,7 +4352,26 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Mehr Leistung und größere Fahrzeuge zehren Einsparungen teilweise auf; der Verbrauch je Strecke ist langfristig trotzdem deutlich gesunken.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S068",
+              "S069"
+            ],
+            "result": "US-Neufahrzeugdaten zeigen zugleich stärkere Motoren, höhere Gewichte und effizienteren Kraftstoffverbrauch je Strecke. Die EPA beschreibt zudem, dass der Wechsel zu verbrauchsintensiveren Fahrzeugklassen einen Teil technischer Einsparungen aufzehrt. Das stützt den Mechanismus, aber keine allgemeine Aussage, der Effizienzgewinn sei überwiegend nur in Leistung geflossen oder Verbrauch sei kaum gesunken. US-Neufahrzeuge sind nicht die deutsche Bestandsflotte."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0079",
@@ -3762,19 +4419,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Vor ungefähr hundert Jahren habe es die Erwartung deutlich kürzerer Arbeitszeiten durch Produktivitätsfortschritte gegeben.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Keine konkrete historische Veröffentlichung in dieser Prüfung zugeordnet.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Ein dokumentiertes Beispiel ist Keynes’ Prognose von 1930 einer stark verkürzten Arbeitswoche bis 2030. Die historische Studienzusammenfassung ordnet diese Erwartung ein. Damit ist die Existenz einer solchen Erwartung ungefähr ein Jahrhundert vor dem Beitrag belegt; der damalige Prognosehorizont ist von der tatsächlichen Entwicklung zu trennen.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Keine konkrete historische Veröffentlichung in dieser Prüfung zugeordnet."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche damalige Prognose mit welchem Zeithorizont ist gemeint?"
+      "sourceRefs": [
+        {
+          "sourceId": "S040",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0080",
@@ -3794,7 +4454,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S040"
+            ],
+            "result": "Ein dokumentiertes Beispiel ist Keynes’ Prognose von 1930 einer stark verkürzten Arbeitswoche bis 2030. Die historische Studienzusammenfassung ordnet diese Erwartung ein. Damit ist die Existenz einer solchen Erwartung ungefähr ein Jahrhundert vor dem Beitrag belegt; der damalige Prognosehorizont ist von der tatsächlichen Entwicklung zu trennen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0081",
@@ -3803,19 +4480,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Produktivitätssteigerungen hätten die Arbeitszeit insgesamt kaum reduziert.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Weder Land noch Personengruppe oder Arbeitszeitbegriff sind festgelegt; Vollzeitwochen, Jahresstunden und unbezahlte Arbeit sind zu unterscheiden.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die Studie rekonstruiert einen Rückgang der globalen jährlichen Erwerbsarbeitszeit von ungefähr 3.200 auf 2.100 Stunden zwischen 1800 und 2025, rund ein Drittel. Regionen, Gruppen und unbezahlte Arbeit unterscheiden sich erheblich. Dass Keynes’ kurze Arbeitswoche nicht allgemein erreicht wurde, macht die tatsächliche Verkürzung nicht geringfügig. Aus den Zeitreihen lässt sich allerdings keine alleinige Ursache Produktivität ableiten.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Irreführend / Kontext fehlt. Frühere Arbeitsbegründung: Noch nicht geprüft – Weder Land noch Personengruppe oder Arbeitszeitbegriff sind festgelegt; Vollzeitwochen, Jahresstunden und unbezahlte Arbeit sind zu unterscheiden."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche langfristigen Zeitreihen sollen die behauptete geringe Reduktion zeigen?"
+      "sourceRefs": [
+        {
+          "sourceId": "S040",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0081",
@@ -3835,7 +4515,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Die globale Erwerbsarbeitszeit sank nach historischen Schätzungen um rund ein Drittel; eine allgemein sehr kurze Arbeitswoche wurde dennoch nicht erreicht.",
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S040"
+            ],
+            "result": "Die Studie rekonstruiert einen Rückgang der globalen jährlichen Erwerbsarbeitszeit von ungefähr 3.200 auf 2.100 Stunden zwischen 1800 und 2025, rund ein Drittel. Regionen, Gruppen und unbezahlte Arbeit unterscheiden sich erheblich. Dass Keynes’ kurze Arbeitswoche nicht allgemein erreicht wurde, macht die tatsächliche Verkürzung nicht geringfügig. Aus den Zeitreihen lässt sich allerdings keine alleinige Ursache Produktivität ableiten."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0082",
@@ -3933,19 +4631,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "KI-Technologie befinde sich mittlerweile in den Händen aller.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Pauschale Formulierung im Podcastausschnitt; Zugang zu Anwendungen, offenen Modellen, Spitzenmodellen und Rechenleistung ist verschieden.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Wenn mit allen konkurrierende Staaten und viele Anbieter gemeint sind, ist die breite Verfügbarkeit von KI-Werkzeugen zutreffend. Als Aussage über sämtliche Menschen wäre sie falsch: Die ITU schätzte für 2025 noch 2,2 Milliarden Menschen ohne Internetzugang. Zugang zu einem Chatbot bedeutet zudem keine Kontrolle über große Trainingsrechner oder Modelle. Der Podcastkontext spricht eher für die erste, begrenzte Lesart.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Pauschale Formulierung im Podcastausschnitt; Zugang zu Anwendungen, offenen Modellen, Spitzenmodellen und Rechenleistung ist verschieden."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Zugangsart und welche Personengruppen sind gemeint?"
+      "sourceRefs": [
+        {
+          "sourceId": "S047",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0084",
@@ -3974,6 +4675,24 @@
         "basis": "Die Untertitel ordnen den Inhalt einem Podcastausschnitt zu; die eigene Übernahme durch die Moderation wurde nicht durchgehend am Originalton kontrolliert.",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-20"
+      },
+      "shortReason": "KI-Werkzeuge sind breit verfügbar; das bedeutet weder Zugang für jeden Menschen noch gleiche Verfügung über führende Modelle und Rechenleistung.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S047"
+            ],
+            "result": "Wenn mit allen konkurrierende Staaten und viele Anbieter gemeint sind, ist die breite Verfügbarkeit von KI-Werkzeugen zutreffend. Als Aussage über sämtliche Menschen wäre sie falsch: Die ITU schätzte für 2025 noch 2,2 Milliarden Menschen ohne Internetzugang. Zugang zu einem Chatbot bedeutet zudem keine Kontrolle über große Trainingsrechner oder Modelle. Der Podcastkontext spricht eher für die erste, begrenzte Lesart."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -3983,19 +4702,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Internationale Konkurrenz, insbesondere mit China, erschwere einen globalen KI-Konsens.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Politische Ursachenerklärung im Podcast; konkrete Verhandlungen, Gegenpositionen und Beschlüsse wurden nicht untersucht.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Anthropic beschreibt ausdrücklich, wie geopolitischer Wettbewerb und die Möglichkeit heimlicher Weiterentwicklung eine überprüfbare gemeinsame Pause erschweren. Das stützt den Mechanismus, ist aber eine interessengebundene Unternehmensanalyse. Sie beweist weder, dass China allein die Hürde ist, noch dass internationale Vereinbarungen unmöglich sind.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Politische Ursachenerklärung im Podcast; konkrete Verhandlungen, Gegenpositionen und Beschlüsse wurden nicht untersucht."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche internationalen Verhandlungsstände belegen die behauptete Hemmwirkung?"
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0085",
@@ -4024,6 +4746,24 @@
         "basis": "Die Untertitel ordnen den Inhalt einem Podcastausschnitt zu; die eigene Übernahme durch die Moderation wurde nicht durchgehend am Originalton kontrolliert.",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-20"
+      },
+      "shortReason": "Internationaler Wettbewerb erschwert überprüfbare Pausen; daraus folgt weder eine alleinige Verantwortung Chinas noch die Unmöglichkeit von Vereinbarungen.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S009"
+            ],
+            "result": "Anthropic beschreibt ausdrücklich, wie geopolitischer Wettbewerb und die Möglichkeit heimlicher Weiterentwicklung eine überprüfbare gemeinsame Pause erschweren. Das stützt den Mechanismus, ist aber eine interessengebundene Unternehmensanalyse. Sie beweist weder, dass China allein die Hürde ist, noch dass internationale Vereinbarungen unmöglich sind."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -4204,19 +4944,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "KI-Unternehmen hätten vor einigen Monaten öffentlich vor weiterer Beschleunigung gewarnt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Welche Erklärung und welche Firmen gemeint sind, bleibt im gelesenen Abschnitt unbestimmt.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Anthropic befürwortete im Juni 2026 öffentlich die Möglichkeit einer überprüfbaren gemeinsamen Verlangsamung oder Pause führender KI-Entwicklung. Das passt zeitlich zu einigen Monaten vor dem Beitrag. Der Text fordert keine sofortige pauschale Einstellung und steht nicht für alle KI-Unternehmen. Eine unterstellte wirtschaftliche Absicht bleibt eine davon getrennte Spekulation.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Welche Erklärung und welche Firmen gemeint sind, bleibt im gelesenen Abschnitt unbestimmt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche datierte Originalerklärung wird angesprochen?"
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0090",
@@ -4236,7 +4979,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Anthropic trat 2026 für eine überprüfbare gemeinsame Pause ein; das war keine pauschale Erklärung sämtlicher KI-Unternehmen.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S009"
+            ],
+            "result": "Anthropic befürwortete im Juni 2026 öffentlich die Möglichkeit einer überprüfbaren gemeinsamen Verlangsamung oder Pause führender KI-Entwicklung. Das passt zeitlich zu einigen Monaten vor dem Beitrag. Der Text fordert keine sofortige pauschale Einstellung und steht nicht für alle KI-Unternehmen. Eine unterstellte wirtschaftliche Absicht bleibt eine davon getrennte Spekulation."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0091",
@@ -4412,24 +5173,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die reale Verdopplungszeit habe letztlich ungefähr drei Jahre betragen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Ohne benannten Zeitraum, Chiptyp und Messgröße ist diese alternative historische Rate nicht eindeutig prüfbar.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Eine einheitliche historische Verdopplungszeit von drei Jahren lässt sich aus den Herstellerdaten nicht ableiten. Zwischen Intels 4004 von 1971 mit 2.300 Transistoren und dem Core i7 von 2010 mit 1,16 Milliarden ergeben die Endpunkte rechnerisch ungefähr 2,1 Jahre je Verdopplung. Das ist kein vollständiger Trendfit und berücksichtigt unterschiedliche Chipflächen nicht. Jüngere Fertigungsschritte können langsamer verlaufen; dafür müssten Zeitraum und Messgröße separat benannt werden.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Irreführend / Kontext fehlt. Frühere Arbeitsbegründung: Noch nicht geprüft – Ohne benannten Zeitraum, Chiptyp und Messgröße ist diese alternative historische Rate nicht eindeutig prüfbar."
       },
       "sourceRefs": [
         {
-          "sourceId": "S018",
-          "note": "Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis."
+          "sourceId": "S070",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
         }
       ],
-      "openQuestions": [
-        "Welche Chipreihe, Zeitspanne und Regressionsmethode ergeben drei Jahre?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0095",
@@ -4449,7 +5208,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Historische Produktdaten ergeben über Jahrzehnte eher rund zwei Jahre; eine spätere Verlangsamung braucht einen eigenen Zeitraum und Maßstab.",
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S070"
+            ],
+            "result": "Eine einheitliche historische Verdopplungszeit von drei Jahren lässt sich aus den Herstellerdaten nicht ableiten. Zwischen Intels 4004 von 1971 mit 2.300 Transistoren und dem Core i7 von 2010 mit 1,16 Milliarden ergeben die Endpunkte rechnerisch ungefähr 2,1 Jahre je Verdopplung. Das ist kein vollständiger Trendfit und berücksichtigt unterschiedliche Chipflächen nicht. Jüngere Fertigungsschritte können langsamer verlaufen; dafür müssten Zeitraum und Messgröße separat benannt werden."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0096",
@@ -4589,19 +5366,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Wärme- und Kühlungsprobleme begrenzten übliche CPU-Taktsteigerungen ungefähr auf vier bis sechs GHz.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Wärme ist relevant, die genaue Verallgemeinerung und die vereinfachte Erklärung als mechanische Schwingungswärme wurden nicht technisch abgeglichen.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Höherer Takt kann mehr elektrische Leistung und Wärme bedeuten; Kühlung und zulässige Leistungsaufnahme begrenzen praktische Taktraten. Vier bis sechs GHz ist eine brauchbare Größenordnung für viele Desktop-CPUs, aber keine feste physikalische Grenze: Intel spezifizierte bereits 2024 bis zu 6,2 GHz maximalen Turbo. Turbo einzelner Kerne ist vom dauerhaften Takt aller Kerne zu unterscheiden; mechanische Bewegung erklärt die Verlustleistung nicht.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Wärme ist relevant, die genaue Verallgemeinerung und die vereinfachte Erklärung als mechanische Schwingungswärme wurden nicht technisch abgeglichen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Prozessoren, Leistungsaufnahme, Spannung und Betriebsbedingungen begründen den angegebenen Bereich?"
+      "sourceRefs": [
+        {
+          "sourceId": "S042",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S043",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0099",
@@ -4621,7 +5405,26 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Wärme und Leistungsaufnahme begrenzen den Takt praktisch; eine feste Grenze bei sechs GHz besteht nicht.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S042",
+              "S043"
+            ],
+            "result": "Höherer Takt kann mehr elektrische Leistung und Wärme bedeuten; Kühlung und zulässige Leistungsaufnahme begrenzen praktische Taktraten. Vier bis sechs GHz ist eine brauchbare Größenordnung für viele Desktop-CPUs, aber keine feste physikalische Grenze: Intel spezifizierte bereits 2024 bis zu 6,2 GHz maximalen Turbo. Turbo einzelner Kerne ist vom dauerhaften Takt aller Kerne zu unterscheiden; mechanische Bewegung erklärt die Verlustleistung nicht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0100",
@@ -4630,19 +5433,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Mehrere Kerne und Threads hätten zusätzliche Leistung trotz begrenzter Einzeltakte ermöglicht.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Allgemeiner Technikbefund, dessen konkrete historische Entwicklung und Grenzen der Parallelisierung hier noch nicht anhand technischer Primärquellen überprüft wurden.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Mehrere Kerne können parallelisierbare Arbeit gleichzeitig ausführen und dadurch mehr Gesamtdurchsatz erreichen, ohne den Einzeltakt entsprechend anzuheben. Das gilt nicht für jeden Programmteil: Serielle Arbeit, Kommunikation und Synchronisation begrenzen den Gewinn. Zusätzliche Hardwarethreads sind außerdem keine gleichwertigen zusätzlichen physischen Kerne.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Allgemeiner Technikbefund, dessen konkrete historische Entwicklung und Grenzen der Parallelisierung hier noch nicht anhand technischer Primärquellen überprüft wurden."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Aufgaben profitieren und welche Grenzen setzt der nicht parallelisierbare Anteil?"
+      "sourceRefs": [
+        {
+          "sourceId": "S044",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S042",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0100",
@@ -4662,7 +5472,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S044",
+              "S042"
+            ],
+            "result": "Mehrere Kerne können parallelisierbare Arbeit gleichzeitig ausführen und dadurch mehr Gesamtdurchsatz erreichen, ohne den Einzeltakt entsprechend anzuheben. Das gilt nicht für jeden Programmteil: Serielle Arbeit, Kommunikation und Synchronisation begrenzen den Gewinn. Zusätzliche Hardwarethreads sind außerdem keine gleichwertigen zusätzlichen physischen Kerne."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0101",
@@ -4671,19 +5499,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "DDR5, GDDR7 und gestapelter HBM-Speicher bildeten aufeinanderfolgende Antworten auf Datenengpässe.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Die Passage behandelt unterschiedliche Speicherklassen wie eine zeitliche Ablösungskette. Entstehung, Einsatzbereiche und parallele Verwendung müssen gesondert geprüft werden.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "DDR, GDDR und HBM lösen unterschiedliche Anforderungen an Kapazität, Kosten, Energie und Bandbreite. Sie sind keine lineare Folge, in der GDDR7 auf DDR5 und erst danach HBM folgt. HBM existierte laut Hersteller bereits 2013 und HBM3 war 2022 in Massenproduktion. Der Grundgedanke, Speicherbandbreite durch andere Schnittstellen und räumliche Nähe zu erhöhen, ist richtig.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Irreführend / Kontext fehlt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die Passage behandelt unterschiedliche Speicherklassen wie eine zeitliche Ablösungskette. Entstehung, Einsatzbereiche und parallele Verwendung müssen gesondert geprüft werden."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Wann entstanden diese Standards und welche jeweils verschiedenen Einsatzbereiche bedienen sie?"
+      "sourceRefs": [
+        {
+          "sourceId": "S045",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S046",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0101",
@@ -4703,7 +5538,26 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "DDR, GDDR und HBM sind parallele Speicherfamilien; HBM gab es schon lange vor GDDR7.",
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S045",
+              "S046"
+            ],
+            "result": "DDR, GDDR und HBM lösen unterschiedliche Anforderungen an Kapazität, Kosten, Energie und Bandbreite. Sie sind keine lineare Folge, in der GDDR7 auf DDR5 und erst danach HBM folgt. HBM existierte laut Hersteller bereits 2013 und HBM3 war 2022 in Massenproduktion. Der Grundgedanke, Speicherbandbreite durch andere Schnittstellen und räumliche Nähe zu erhöhen, ist richtig."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0102",
@@ -4925,19 +5779,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Synchronsprecher würden bei Netflix zu Klauseln für die Nutzung ihrer Stimmen zu Trainingszwecken aufgefordert.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Keine konkrete Vertragsfassung, Produktionsfirma, betroffene Person oder verbindliche Originalstellungnahme in dieser Prüfung gelesen.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der VDS dokumentiert 2026 eine Netflix-AOR-Vertragsklausel zur Nutzung von Stimmaufnahmen für KI-Training. Auch der BFFS behandelt ausdrücklich die vertraglich geregelte Trainingsnutzung, bewertet deren Schutzwirkung aber günstiger als der VDS. Der enge Tatsachenkern ist daher belegt. Die Rechtmäßigkeit einzelner Klauseln, konkrete Einwilligungen und ein zwangsläufiger späterer Berufswegfall sind dadurch nicht entschieden.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Keine konkrete Vertragsfassung, Produktionsfirma, betroffene Person oder verbindliche Originalstellungnahme in dieser Prüfung gelesen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Originalklausel gilt für welche Produktion und welche konkrete Nutzung erlaubt sie?"
+      "sourceRefs": [
+        {
+          "sourceId": "S056",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S057",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0107",
@@ -4957,7 +5818,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S056",
+              "S057"
+            ],
+            "result": "Der VDS dokumentiert 2026 eine Netflix-AOR-Vertragsklausel zur Nutzung von Stimmaufnahmen für KI-Training. Auch der BFFS behandelt ausdrücklich die vertraglich geregelte Trainingsnutzung, bewertet deren Schutzwirkung aber günstiger als der VDS. Der enge Tatsachenkern ist daher belegt. Die Rechtmäßigkeit einzelner Klauseln, konkrete Einwilligungen und ein zwangsläufiger späterer Berufswegfall sind dadurch nicht entschieden."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0108",
@@ -5050,19 +5929,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Nur zusätzliche hochwertige Texte könnten weitere KI-Leistungssteigerungen ermöglichen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Eine alleinige notwendige Ursache wird aus dem Beispiel nicht bewiesen. Alternative Lernverfahren, Rechenaufwand und Feedback sind gesondert zu untersuchen.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Hochwertige Trainingsinformationen sind wichtig. Die Forschung zeigt aber auch Verbesserungen durch gefilterte synthetische Aufgaben und Verstärkungslernen; zusätzliche menschliche Texte sind keine allgemeine notwendige Bedingung jedes Leistungsgewinns. Der Beitrag relativiert seine zunächst sehr enge Formulierung später selbst durch die Erläuterung KI-geprüfter synthetischer Daten (A0112). Die Einzelstelle ist deshalb im Zusammenhang zu lesen, nicht als durchgängige Verneinung dieses Verfahrens.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Eine alleinige notwendige Ursache wird aus dem Beispiel nicht bewiesen. Alternative Lernverfahren, Rechenaufwand und Feedback sind gesondert zu untersuchen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Wie groß sind die Beiträge neuer Texte, verbesserter Algorithmen, Rückmeldungen und zusätzlicher Rechenleistung?"
+      "sourceRefs": [
+        {
+          "sourceId": "S048",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S050",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0110",
@@ -5082,7 +5968,26 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Hochwertige Daten sind wichtig; der Beitrag ergänzt später selbst synthetische Prüfverfahren, und Leistungsgewinne haben mehrere Ursachen.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S048",
+              "S050"
+            ],
+            "result": "Hochwertige Trainingsinformationen sind wichtig. Die Forschung zeigt aber auch Verbesserungen durch gefilterte synthetische Aufgaben und Verstärkungslernen; zusätzliche menschliche Texte sind keine allgemeine notwendige Bedingung jedes Leistungsgewinns. Der Beitrag relativiert seine zunächst sehr enge Formulierung später selbst durch die Erläuterung KI-geprüfter synthetischer Daten (A0112). Die Einzelstelle ist deshalb im Zusammenhang zu lesen, nicht als durchgängige Verneinung dieses Verfahrens."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0111",
@@ -5136,19 +6041,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "KI-generierte Trainingsinhalte könnten durch zusätzliche KI-Prüfer brauchbarer werden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Ein mögliches Verfahren wird genannt; konkrete Studie, Auswahlkriterien und gemessene Verbesserungen fehlen im geprüften Belegbestand.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Constitutional AI nutzt erzeugte Selbstkritik, Überarbeitung und modellgestützte Präferenzbewertung zur weiteren Modellanpassung. Damit ist ein konkretes Verfahren dokumentiert, das generierte Inhalte durch KI-Prüfung nutzbarer macht. Die Aussage gilt für die getesteten Ziele und Bedingungen; KI-Prüfer garantieren keine Wahrheit und verhindern Modellkollaps nicht allgemein.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Ein mögliches Verfahren wird genannt; konkrete Studie, Auswahlkriterien und gemessene Verbesserungen fehlen im geprüften Belegbestand."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche kontrollierte Studie zeigt für das behauptete Prüfverfahren nachhaltige Verbesserungen?"
+      "sourceRefs": [
+        {
+          "sourceId": "S049",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0112",
@@ -5168,7 +6076,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S049"
+            ],
+            "result": "Constitutional AI nutzt erzeugte Selbstkritik, Überarbeitung und modellgestützte Präferenzbewertung zur weiteren Modellanpassung. Damit ist ein konkretes Verfahren dokumentiert, das generierte Inhalte durch KI-Prüfung nutzbarer macht. Die Aussage gilt für die getesteten Ziele und Bedingungen; KI-Prüfer garantieren keine Wahrheit und verhindern Modellkollaps nicht allgemein."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0113",
@@ -5299,24 +6224,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Fünf genannte US-Konzerne kontrollierten 71 Prozent der gesamten weltweiten Rechenleistung.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Die gefundene Synergy-Quelle beschreibt Hyperscale-Rechenzentrumskapazität, nicht alle weltweiten Rechenoperationen oder Endgeräte. Der konkrete 71-Prozent-Wert mit diesem Firmenkreis wurde nicht nachgewiesen.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die 71 Prozent lassen sich einer Epoch-AI-Schätzung für Ende 2025 zuordnen. Erfasst ist KI-Rechenkapazität der fünf genannten Unternehmen, umgerechnet in H100-Äquivalente, nicht sämtliche Rechenleistung aller Geräte weltweit. Die Untersuchung nennt selbst unvollständige Eigentümererfassung und Grenzen der theoretischen Vergleichseinheit. Die Konzentrationsaussage hat also eine reale Grundlage, ihre Bezugsgröße ist im Beitrag zu weit gefasst.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Irreführend / Kontext fehlt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die gefundene Synergy-Quelle beschreibt Hyperscale-Rechenzentrumskapazität, nicht alle weltweiten Rechenoperationen oder Endgeräte. Der konkrete 71-Prozent-Wert mit diesem Firmenkreis wurde nicht nachgewiesen."
       },
       "sourceRefs": [
         {
-          "sourceId": "S023",
-          "note": "Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis."
+          "sourceId": "S053",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
         }
       ],
-      "openQuestions": [
-        "Welche Originaltabelle, Einheit und Abgrenzung belegen 71 Prozent für genau diese fünf Firmen?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0116",
@@ -5336,7 +6259,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "71 Prozent beziehen sich auf geschätzte KI-Rechenkapazität Ende 2025, nicht auf sämtliche Rechenleistung weltweit.",
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S053"
+            ],
+            "result": "Die 71 Prozent lassen sich einer Epoch-AI-Schätzung für Ende 2025 zuordnen. Erfasst ist KI-Rechenkapazität der fünf genannten Unternehmen, umgerechnet in H100-Äquivalente, nicht sämtliche Rechenleistung aller Geräte weltweit. Die Untersuchung nennt selbst unvollständige Eigentümererfassung und Grenzen der theoretischen Vergleichseinheit. Die Konzentrationsaussage hat also eine reale Grundlage, ihre Bezugsgröße ist im Beitrag zu weit gefasst."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0117",
@@ -5345,19 +6286,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Nvidia liefere 80 bis 90 Prozent der Chips.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Ohne Marktdefinition ist die Angabe nicht bewertbar: alle Halbleiter, Rechenzentrums-GPUs, KI-Beschleuniger sowie Stück- und Umsatzanteile unterscheiden sich.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Eine sehr hohe Nvidia-Konzentration bei KI-GPUs ist dokumentiert. Die OECD nennt Schätzungen von über 80 Prozent, Jon Peddie Research 2025 sogar 95 Prozent in seiner Hardware-Abgrenzung. Das stützt die Größenordnung, aber keinen universellen Anteil von 80 bis 90 Prozent sämtlicher Chips. Marktsegment, Jahr sowie Umsatz- oder Stückzählung müssen genannt werden; verschiedene Schätzungen sind nicht unmittelbar vergleichbar.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Ohne Marktdefinition ist die Angabe nicht bewertbar: alle Halbleiter, Rechenzentrums-GPUs, KI-Beschleuniger sowie Stück- und Umsatzanteile unterscheiden sich."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Produktklasse, welches Jahr und welcher Mengen- oder Umsatznenner sind gemeint?"
+      "sourceRefs": [
+        {
+          "sourceId": "S054",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S055",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0117",
@@ -5377,7 +6325,26 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Nvidia dominiert KI-GPUs; die Prozentwerte gelten für abgegrenzte Märkte und Zeitstände, nicht für sämtliche Chips.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S054",
+              "S055"
+            ],
+            "result": "Eine sehr hohe Nvidia-Konzentration bei KI-GPUs ist dokumentiert. Die OECD nennt Schätzungen von über 80 Prozent, Jon Peddie Research 2025 sogar 95 Prozent in seiner Hardware-Abgrenzung. Das stützt die Größenordnung, aber keinen universellen Anteil von 80 bis 90 Prozent sämtlicher Chips. Marktsegment, Jahr sowie Umsatz- oder Stückzählung müssen genannt werden; verschiedene Schätzungen sind nicht unmittelbar vergleichbar."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0118",
@@ -5463,19 +6430,24 @@
       "chapter": 10,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Eine breite Teilhabe an Produktivitätsgewinnen wäre historisch ein Novum.",
+      "description": "Eine Verteilung der Produktivitätsgewinne an alle Menschen werde als historisch erstmalig beschrieben.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – Die starke Aussage erfordert überprüfbare Definitionen von breiter Teilhabe, Wohlstand und historischer Vergleichsperiode.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "reason": "Noch nicht geprüft – Die Originalstelle entwirft eine künftige Teilhabe aller. Historische Forschung belegt breite, aber ungleiche Produktivitäts- und Freizeitgewinne. Das klärt nicht, ob mit allen eine ausnahmslose Beteiligung oder allgemein breite Teilhabe gemeint ist. Ohne diese Präzisierung wäre eine abschließende historische Bewertung zu weitgehend.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Nachrecherche 20.11.2026 (Codex): weiterhin Offen ohne Endurteil. Der Prüfgegenstand wurde anhand des vollständigen Untertitelkontexts auf die behauptete Teilhabe aller präzisiert; eine bloße breite Teilhabe wäre eine schwächere Behauptung. Die alte Beschreibung lautete in unserer Paraphrase: Eine breite Teilhabe an Produktivitätsgewinnen wäre historisch ein Novum."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S040",
+          "note": "Gelesene historische Vergleichsgrundlage; belegt keine ausnahmslose Beteiligung sämtlicher Menschen und keine abschließende Bewertung der mehrdeutigen Videostelle."
+        }
+      ],
       "openQuestions": [
-        "Welche Einkommens-, Arbeitszeit- und Wohlfahrtsreihen begründen den behaupteten erstmaligen Charakter?"
+        "Was genau umfasst die Teilhabe aller: breite Verbesserungen, ausnahmslose Beteiligung oder gleiche Verteilung, und welcher historische Vergleich ist gemeint?"
       ],
       "occurrences": [
         {
@@ -5496,7 +6468,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Wissenssuche zur Produktivitäts- und Arbeitszeitgeschichte, historische Studienzusammenfassung des World Inequality Lab und Originaltextzusammenhang verglichen.",
+            "sourceIds": [
+              "S040"
+            ],
+            "result": "Noch nicht geprüft – Die Originalstelle entwirft eine künftige Teilhabe aller. Historische Forschung belegt breite, aber ungleiche Produktivitäts- und Freizeitgewinne. Das klärt nicht, ob mit allen eine ausnahmslose Beteiligung oder allgemein breite Teilhabe gemeint ist. Ohne diese Präzisierung wäre eine abschließende historische Bewertung zu weitgehend."
+          }
+        ],
+        "missingInformation": "Operationalisierung der ausnahmslosen Teilhabe und des gemeinten Vergleichs.",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0121",
@@ -5943,19 +6932,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Zwei führende Kleinstspender hätten Jahressummen von 166 und 153 Euro erreicht.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Beide Summen als getrennt nachzuprüfende Unterbehauptungen geführt; keine privaten Namen oder Zahlungsnachrichten übernommen.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die öffentliche Finanzübersicht des Kanals weist mit Datenstand 19. November 2026 dieselben beiden führenden Summen für exakte Ein-Euro-Zahlungen aus: 166 und 153 Euro. Das bestätigt die Übereinstimmung mit der veröffentlichten Jahresübersicht. Diese ist eine Selbstauskunft des Empfängers, kein unabhängig kontrollierter Nachweis tatsächlicher Buchungen. Personenkennungen werden hier nicht wiedergegeben.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Beide Summen als getrennt nachzuprüfende Unterbehauptungen geführt; keine privaten Namen oder Zahlungsnachrichten übernommen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Sind die Summen 166 und 153 Euro anhand der datierten Jahresauswertung nachvollziehbar?"
+      "sourceRefs": [
+        {
+          "sourceId": "S059",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0131",
@@ -5975,7 +6967,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Die öffentliche Jahresübersicht nennt dieselben Summen; die zugrunde liegenden Zahlungsvorgänge wurden nicht unabhängig geprüft.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S059"
+            ],
+            "result": "Die öffentliche Finanzübersicht des Kanals weist mit Datenstand 19. November 2026 dieselben beiden führenden Summen für exakte Ein-Euro-Zahlungen aus: 166 und 153 Euro. Das bestätigt die Übereinstimmung mit der veröffentlichten Jahresübersicht. Diese ist eine Selbstauskunft des Empfängers, kein unabhängig kontrollierter Nachweis tatsächlicher Buchungen. Personenkennungen werden hier nicht wiedergegeben."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0132",
@@ -5984,19 +6994,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine weitere Person habe im laufenden Jahr 610 Euro in 38 Zahlungen beigetragen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Zwei Unterbehauptungen, Gesamtsumme und Anzahl; die private Kontoführung wurde nicht geprüft.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die öffentliche Finanzübersicht des Kanals nennt für einen Eintrag 610 Euro aus 38 Zahlungen im Kalenderjahr 2026, Stand 19. November. Der Zahlenvergleich passt. Die Übersicht legt keine unabhängig geprüften Einzelbuchungen vor; der Vorgang ist nur als veröffentlichte Selbstauskunft bestätigt.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Zwei Unterbehauptungen, Gesamtsumme und Anzahl; die private Kontoführung wurde nicht geprüft."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Stimmen die Jahressumme von 610 Euro und die Anzahl von 38 Zahlungen überein?"
+      "sourceRefs": [
+        {
+          "sourceId": "S059",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0132",
@@ -6016,7 +7029,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "610 Euro aus 38 Zahlungen stehen auch in der öffentlichen Jahresübersicht; die Einzelbuchungen sind damit nicht unabhängig verifiziert.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S059"
+            ],
+            "result": "Die öffentliche Finanzübersicht des Kanals nennt für einen Eintrag 610 Euro aus 38 Zahlungen im Kalenderjahr 2026, Stand 19. November. Der Zahlenvergleich passt. Die Übersicht legt keine unabhängig geprüften Einzelbuchungen vor; der Vorgang ist nur als veröffentlichte Selbstauskunft bestätigt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0133",
@@ -6266,19 +7297,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Alfred betreibe seit ungefähr einer Woche einen eigenen YouTube-Kanal.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Die behauptete Kanalgründung und der historische Beginn wurden nicht unabhängig über ein datiertes Kanalarchiv überprüft.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die öffentliche Kanalseite zeigt sieben Videos, das früheste sichtbare Einführungsvideo mit einer Altersangabe von acht Tagen. Das passt ungefähr zu einer Woche vor Veröffentlichung. Nichtöffentliche oder gelöschte Uploads sowie der genaue Beginn des Betriebs sind daraus nicht erschließbar.",
+      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die behauptete Kanalgründung und der historische Beginn wurden nicht unabhängig über ein datiertes Kanalarchiv überprüft."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welches erste öffentliche Video und welcher Kanalverlauf bestätigen den Beginn?"
+      "sourceRefs": [
+        {
+          "sourceId": "S071",
+          "note": "Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0139",
@@ -6298,7 +7332,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Die sichtbare Uploadfolge beginnt ungefähr eine Woche zuvor; frühere nichtöffentliche Aktivitäten lassen sich daraus nicht ausschließen.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen.",
+            "sourceIds": [
+              "S071"
+            ],
+            "result": "Die öffentliche Kanalseite zeigt sieben Videos, das früheste sichtbare Einführungsvideo mit einer Altersangabe von acht Tagen. Das passt ungefähr zu einer Woche vor Veröffentlichung. Nichtöffentliche oder gelöschte Uploads sowie der genaue Beginn des Betriebs sind daraus nicht erschließbar."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0140",

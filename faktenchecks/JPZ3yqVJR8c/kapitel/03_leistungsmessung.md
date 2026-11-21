@@ -12,8 +12,10 @@ Der Beitrag verbindet Aufgabenbenchmarks mit einem Produktionsablauf und anschli
 
 ## Fazit und offene Punkte
 
-Benchmarks sind abgegrenzte Tests. Die Monetarisierung hängt zusätzlich von Plattformprüfung und gültigen Messgrößen ab; konkrete Kanalstände bleiben offen. 4 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
+Die METR-Aufgabenbeispiele und der passende GPT-5-Messstand sind nachvollzogen. Öffentliche Kanalzahlen bestätigen die erreichte Größenordnung am Abrufdatum; den genauen Aufnahmezeitpunkt beweisen sie nicht. Der interne Alfred-Produktionsablauf bleibt offen. Eine führende Tatsachenprüfung dieses Kapitels ist offen; die konkrete Frage steht im verlinkten Bericht.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
 
 Aktualisierung vom 20. November 2026: Ergänzende Primärquellenprüfung gegenüber der lokalen Erstfassung; aktueller Einzelaussagenstand im generierten Kapitelbericht.
+
+Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.

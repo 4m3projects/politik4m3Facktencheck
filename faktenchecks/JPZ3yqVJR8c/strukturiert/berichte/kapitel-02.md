@@ -1,8 +1,8 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
 
-Teilprüfung mit abgeschlossenen Sachbefunden und konkret offenen Prüfaufträgen. Persönliche Abläufe, Zahlungsangaben, einzelne historische Zahlen, Marktanteile, Speichertechnik und Vertragsfälle sind nicht abschließend recherchiert. Quellen tatsächlich geöffnet, Zugriffsgrenzen dokumentiert; Unternehmensangaben bleiben Selbstauskünfte. Keine Gesamtvideonote und keine bestätigte Personenstatistik.
+Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0002
 
@@ -92,7 +92,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** KI habe dem Moderator beim Formulieren und Recherchieren besser geholfen als die zuvor verwendete Suche.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
 
 ### Fundstellen und Zuordnung
 
@@ -111,21 +111,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Subjektiver Vergleich ohne definierten Aufgabenbestand oder kontrollierten Vergleich.
+Der Textzusammenhang schildert einen persönlichen Nutzenvergleich bei Formulierungen und Recherche. Ohne festgelegte Aufgaben, Qualitätskriterien und Messreihe ist die Aussage eine subjektive Erfahrungseinschätzung, kein allgemeiner Leistungsvergleich zwischen KI und Suchmaschinen. Die konkrete Nutzungsgeschichte wird dadurch nicht unabhängig bestätigt.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Meinung / Prognose. Frühere Arbeitsbegründung: Noch nicht geprüft – Subjektiver Vergleich ohne definierten Aufgabenbestand oder kontrollierten Vergleich.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [SinansWoche: Eigene Analyse zur KI-Entwicklung](https://www.youtube.com/watch?v=JPZ3yqVJR8c) · SinansWoche; veröffentlicht 20.11.2026; Originalplayer, Beschreibung und automatische deutsche Untertitel.
+  Quellenzugriff am 2026-11-20. Originalbeschreibung sowie vollständig verfügbare automatische Untertitel gelesen. Bildstichprobe 31:07 ergänzt; kein Originalton gehört. Diese Quelle belegt, was der Kanal darstellt, nicht die Wahrheit privater Vorgänge. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Suchaufgaben, Systeme, Daten und Qualitätskriterien wurden verglichen?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: Kein überprüfbarer Tatsachenkern. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S061. Ergebnis: Der Textzusammenhang schildert einen persönlichen Nutzenvergleich bei Formulierungen und Recherche. Ohne festgelegte Aufgaben, Qualitätskriterien und Messreihe ist die Aussage eine subjektive Erfahrungseinschätzung, kein allgemeiner Leistungsvergleich zwischen KI und Suchmaschinen. Die konkrete Nutzungsgeschichte wird dadurch nicht unabhängig bestätigt.
 
 ## JPZ3yqVJR8c-A0005
 
@@ -339,7 +346,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine frühere Grafik in hart aber fair habe unpassende Balkenlängen enthalten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -358,21 +365,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Konkrete Sendung, Datum und Originalgrafik fehlen in der gelesenen Passage; kein bestimmter redaktioneller Fehler als nachgewiesen behandelt.
+Ein konkreter Fall vom 3. Februar 2025 ist dokumentiert: Nach einer BILD-Anfrage räumte der Sender abweichende Balkenproportionen bei zutreffenden Prozentangaben ein. Damit ist der allgemeine Hinweis auf einen solchen Fehler gestützt. Der Beitrag nennt keine Folge; ob genau dieser Fall gemeint ist, bleibt offen. Der Fehler beweist keine politische Manipulationsabsicht.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Konkrete Sendung, Datum und Originalgrafik fehlen in der gelesenen Passage; kein bestimmter redaktioneller Fehler als nachgewiesen behandelt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Hart aber Fair: Falsches Diagramm sorgt für Irritation](https://www.bild.de/politik/inland/hart-aber-fair-falsches-diagramm-sorgt-fuer-irritation-67a3638d334072169a3e10f8) · Anisha von der Lancken / BILD; 06.02.2025; eigener Bericht mit auf Anfrage mitgeteilter Senderantwort.
+  Quellenzugriff am 2026-11-20. Abschnitt zum Diagramm der Sendung vom 03.02.2025 und zur Antwort des ARD-Pressesprechers gelesen; Originalsendung nicht nachvermessen. Keine Übernahme politischer Absichtsvorwürfe. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Originalsendung und welche korrigierte Grafik sind gemeint?
+- Bezieht sich der Hinweis auf die Sendung vom 3. Februar 2025 oder einen anderen Fall?
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S062. Ergebnis: Ein konkreter Fall vom 3. Februar 2025 ist dokumentiert: Nach einer BILD-Anfrage räumte der Sender abweichende Balkenproportionen bei zutreffenden Prozentangaben ein. Damit ist der allgemeine Hinweis auf einen solchen Fehler gestützt. Der Beitrag nennt keine Folge; ob genau dieser Fall gemeint ist, bleibt offen. Der Fehler beweist keine politische Manipulationsabsicht.
 
 ## JPZ3yqVJR8c-A0011
 
@@ -463,7 +477,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Weitergabe von Fahrtenbuchdaten an das Finanzamt mache ihre KI-Verarbeitung zu einem geringen Sicherheitsrisiko.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -482,21 +496,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Verschiedene Empfänger, Zugriffsrechte und Verarbeitungszwecke sind nicht gleichzusetzen. Eine konkrete technische oder datenschutzrechtliche Prüfung fehlt.
+Eine spätere Übermittlung an das Finanzamt macht Fahrtenbuchdaten nicht öffentlich oder generell risikoarm. Für Amtsträger gilt das Steuergeheimnis. Eine zusätzliche Verarbeitung durch einen KI- oder Cloudanbieter hat andere Empfänger, Zwecke und Schutzvorkehrungen. Ob der konkrete Aufbau ein geringes Risiko hat, hängt von diesen bisher nicht bekannten Umständen ab; die Finanzamtsübermittlung begründet diese Schlussfolgerung nicht.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Irreführend / Kontext fehlt. Frühere Arbeitsbegründung: Noch nicht geprüft – Verschiedene Empfänger, Zugriffsrechte und Verarbeitungszwecke sind nicht gleichzusetzen. Eine konkrete technische oder datenschutzrechtliche Prüfung fehlt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [§ 30 Abgabenordnung: Steuergeheimnis](https://www.gesetze-im-internet.de/ao_1977/__30.html) · Bundesministerium der Justiz / Bundesamt für Justiz; am 20.11.2026 gelesene konsolidierte Fassung; keine historische Normrekonstruktion.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Daten verarbeitet welcher Dienst, mit welchen Speicherfristen und Zugriffsrechten?
+- Welche Anbieter, Speicherorte, Zugriffsmöglichkeiten und Vertragsbedingungen hat die konkrete Verarbeitung?
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S051. Ergebnis: Eine spätere Übermittlung an das Finanzamt macht Fahrtenbuchdaten nicht öffentlich oder generell risikoarm. Für Amtsträger gilt das Steuergeheimnis. Eine zusätzliche Verarbeitung durch einen KI- oder Cloudanbieter hat andere Empfänger, Zwecke und Schutzvorkehrungen. Ob der konkrete Aufbau ein geringes Risiko hat, hängt von diesen bisher nicht bekannten Umständen ab; die Finanzamtsübermittlung begründet diese Schlussfolgerung nicht.
 
 ## JPZ3yqVJR8c-A0014
 
@@ -640,7 +661,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Alfred betreibe seit ungefähr einer Woche einen eigenen YouTube-Kanal.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -659,20 +680,27 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die behauptete Kanalgründung und der historische Beginn wurden nicht unabhängig über ein datiertes Kanalarchiv überprüft.
+Die öffentliche Kanalseite zeigt sieben Videos, das früheste sichtbare Einführungsvideo mit einer Altersangabe von acht Tagen. Das passt ungefähr zu einer Woche vor Veröffentlichung. Nichtöffentliche oder gelöschte Uploads sowie der genaue Beginn des Betriebs sind daraus nicht erschließbar.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die behauptete Kanalgründung und der historische Beginn wurden nicht unabhängig über ein datiertes Kanalarchiv überprüft.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Alfred räumt auf: öffentlicher YouTube-Kanal](https://www.youtube.com/@alfredraeumtauf) · Alfred räumt auf; Kanalstand 20.11.2026; gerundete öffentliche Anzeige, keine internen Kanalstatistiken.
+  Quellenzugriff am 2026-11-20. Kanal im öffentlichen Browser geöffnet: 2.750 Abonnenten, sieben sichtbare Videos; ältestes sichtbares Einführungsvideo acht Tage zuvor. Die Kanalidentität ist in der Originalbeschreibung verlinkt. Kein Medien- oder Untertiteldownload. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welches erste öffentliche Video und welcher Kanalverlauf bestätigen den Beginn?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S071. Ergebnis: Die öffentliche Kanalseite zeigt sieben Videos, das früheste sichtbare Einführungsvideo mit einer Altersangabe von acht Tagen. Das passt ungefähr zu einer Woche vor Veröffentlichung. Nichtöffentliche oder gelöschte Uploads sowie der genaue Beginn des Betriebs sind daraus nicht erschließbar.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

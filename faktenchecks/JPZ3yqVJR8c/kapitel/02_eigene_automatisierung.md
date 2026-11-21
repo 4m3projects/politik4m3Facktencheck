@@ -12,6 +12,8 @@ Private Arbeitsabläufe bilden den Ausgangspunkt für eine allgemeine Zukunftsth
 
 ## Fazit und offene Punkte
 
-Die persönlichen Abläufe und Kündigungen sind offen. Zahlengebundene Darstellung verhindert keine Fehler bei Daten, Skalierung oder Code. 12 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
+Persönliche Automatisierungserfahrungen sind keine kontrollierten Produktivitätsvergleiche. Der subjektive Suchvergleich ist als Meinung eingeordnet; aus der späteren Finanzamtsübermittlung folgt keine geringe Gefährdung zusätzlicher KI-Verarbeitung. Projektprotokolle und konkrete Datenherkunft fehlen weiterhin. 8 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
+
+Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.
