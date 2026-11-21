@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text. [ChatGPT] 21.11.2026: Zwei zuvor offene Aussagen anhand externer Quellen geprüft; die erfasste Prüfabdeckung steigt, ohne dass dies eine Vollerfassung des Gesprächs bedeutet.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen. Nachrecherche 21.11.2026 (Codex): neun zuvor offene Punkte mit selbst gelesenen Quellen bewertet; Identifikations- und Definitionsgrenzen einzeln dokumentiert. Keine neue vollständige Hör-/Sichtkontrolle.
 
 ## bPXMY7Reeek-A0020
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein Influencer (laut Untertitel Laser Luca) habe vor etwa sechs bis sieben Jahren in einem Video geschildert, nicht in den Kölner Club Bootshaus eingelassen worden zu sein, obwohl er seine Reichweite anbot; das Video habe heftige Gegenreaktionen ausgelöst.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,21 +29,33 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – älteres Creator-Video und Reaktionen darauf; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.
+Die Clubkontroverse und öffentliche Kritik sind in Berichten von April 2019 dokumentiert; der ungefähre zeitliche Abstand zum Gespräch passt. Die abgelehnte Anfrage betraf jedoch einen nicht genannten Club in Düsseldorf und eine vorher verhandelte Kooperation. Das Kölner Bootshaus erscheint bei DJ Mag gerade als Beispiel früherer erfolgreicher Kooperationen. Die Gesprächserinnerung vertauscht damit Ort und Rolle des Bootshauses und verkürzt die Vorgeschichte zu einer Abweisung an der Tür. Der Originalvlog wurde nicht abgespielt.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Irreführend / Kontext fehlt; frühere Begründung: Noch nicht geprüft – älteres Creator-Video und Reaktionen darauf; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch. Neue Begründung und gelesene Belege unten dokumentiert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Influencer-Eigentor: Internet-Promi ConCrafter lästert über Club ab!](https://www.djmag.de/einzelnews/influencer-eigentor-internet-promi-concrafter-laestert-ueber-club-ab) · Marie Kaltenegger, DJ Mag Germany, 10.04.2019.
+  Quellenzugriff am 2026-11-21. Zeitgenössischen Artikel vollständig gelesen: abgelehnte Kooperation mit einem unbenannten Düsseldorfer Club, Bootshaus dagegen als Beispiel früherer Zusammenarbeit. Originalvlog nicht abgespielt. Zeitgenössische Unterscheidung zwischen Düsseldorfer Ablehnung und früherer Bootshaus-Kooperation.
+
+- [Influencer darf nicht gratis in einen Club und blamiert sich mit Rachevideo](https://www.derstandard.de/story/2000101760004/influencer-darf-nicht-gratis-in-einen-club-und-erntet-spott) · derStandard, Redaktion, 19.04.2019.
+  Quellenzugriff am 2026-11-21. Bericht über Anfrage, Ablehnung, Reaktionsvideo und Kritik vollständig gelesen. Sekundärbericht mit Verweis auf Stern; keine eigene Kontrolle privater Nachrichten. Zusätzlicher zeitgenössischer Bericht über Anfrage und öffentliche Reaktionen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Kanalsuche 19.11.2026: Das ursprüngliche Beschwerdevideo von laserluca (ConCrafter, April 2019) ist nicht mehr auf seinem Kanal; nach den Untertiteln einer Fremdkopie ging es um einen Club in Düsseldorf, das Bootshaus wird dort positiv erwähnt. Vor einer Bewertung Originalquelle oder zeitgenössischen Bericht lesen.
+- Originalvlog oder vollständige archivierte Herausgeberfassung für den genauen Ablauf zusätzlich kontrollieren.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Originalvlog oder vollständige archivierte Herausgeberfassung für den genauen Ablauf zusätzlich kontrollieren.
+
+- Durchgang 1 am 2026-11-21 (Codex): Wissenssuche und erneute Lektüre 23:55–25:45; zeitgenössische Berichte gezielt zu Laserluca/ConCrafter, Bootshaus und Düsseldorfer Club verglichen. Gepruefte Quellen: S088, S089. Ergebnis: Realer Vorgang, aber Ort und Ablauf werden im Gespräch vermischt.
 
 ## bPXMY7Reeek-A0021
 

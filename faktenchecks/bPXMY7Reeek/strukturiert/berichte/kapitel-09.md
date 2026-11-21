@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text. [ChatGPT] 21.11.2026: Zwei zuvor offene Aussagen anhand externer Quellen geprüft; die erfasste Prüfabdeckung steigt, ohne dass dies eine Vollerfassung des Gesprächs bedeutet.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen. Nachrecherche 21.11.2026 (Codex): neun zuvor offene Punkte mit selbst gelesenen Quellen bewertet; Identifikations- und Definitionsgrenzen einzeln dokumentiert. Keine neue vollständige Hör-/Sichtkontrolle.
 
 ## bPXMY7Reeek-A0042
 
@@ -189,7 +189,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Waffen-YouTuber Schlomo habe eine CO2-Pistole entwickelt, die sechs lange Nadeln verschießt und unter 7,5 Joule bleiben sollte; die Physikalisch-Technische Bundesanstalt habe sie nicht als erlaubnisfreie Waffe zugelassen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -208,22 +208,33 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Ein konkretes Produkt und eine PTB-Entscheidung dazu fanden sich in keiner gelesenen Quelle. Kontext: Die Bundesregierung hat 2025 eine Erlaubnispflicht für bestimmte Druckluftwaffen mit Hartnadelgeschossen unter 7,5 Joule eingeführt; ob das gemeinte Produkt darunter fiel, bleibt offen. Fehlende Bestätigung bedeutet nicht falsch.
+Die Bundestagsunterlagen von Juli/August 2025 dokumentieren den Streit um die verweigerte Kennzeichnung des Six Needler und ordnen den Antrag der GoGun GmbH beziehungsweise Jörg Sprave zu. Die Parlamentsmeldung gibt den 12. Juni 2025 als Ablehnungsdatum wieder, ausdrücklich nach Darstellung der Fragesteller. Die Bundesregierung bestätigt ihre rechtliche Auslegungshilfe und den Austausch mit der PTB. Das stützt den historischen Verfahrenskern; der im Gespräch verwendete Name Schlomo ist damit nicht als Entwickler bestätigt. Der Ablehnungsbescheid selbst und eine unabhängige technische Prüfung lagen nicht vor. Aus den Unterlagen folgt weder eine allgemeine Bewertung sämtlicher Druckluftwaffen noch eine abschließende Entscheidung über die Rechtmäßigkeit der Ablehnung.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Campertalk-Fundstelle 01:05:52–01:06:42 im automatischen deutschen Originaltext gelesen; Bundestagsdokument und Parlamentsmeldung selbst geöffnet. Keine neue Hörkontrolle, kein PTB-Bescheid und kein technischer Versuch.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 21.11.2026 (Codex): vorher Offen, jetzt Teilweise belegt; frühere Begründung: Noch nicht geprüft – Ein konkretes Produkt und eine PTB-Entscheidung dazu fanden sich in keiner gelesenen Quelle. Kontext: Die Bundesregierung hat 2025 eine Erlaubnispflicht für bestimmte Druckluftwaffen mit Hartnadelgeschossen unter 7,5 Joule eingeführt; ob das gemeinte Produkt darunter fiel, bleibt offen. Fehlende Bestätigung bedeutet nicht falsch. Verfahrensunterlagen und Herkunft der Angaben nun getrennt dokumentiert.
 
 ### Zugeordnete Quellen
 
-- [Risiken neuer Druckluftwaffen eindämmen](https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/kabinett-druckluftwaffen-2355052) · Bundesregierung, 23.07.2025.
-  Quellenzugriff am 2026-11-18. Seite gelesen. Der Abruf von Anlage 2 WaffG auf gesetze-im-internet.de scheiterte mit einem Serverfehler und dient nicht als Beleg. Kontext, kein Sachbeleg für den konkreten Prüfgegenstand.
+- [Drucksache 21/1174: Antwort der Bundesregierung zur Six-Needler-Kennzeichnung](https://dserver.bundestag.de/btd/21/011/2101174.pdf) · Deutscher Bundestag, 08.08.2025; Antwort der Bundesregierung mit wiedergegebenen Fragen und deren Vorbemerkung.
+  Quellenzugriff am 2026-11-21. Im Web geöffnet; S. 1–4 gelesen, Fragestellervorbemerkung und Regierungsantworten getrennt. Technische und Datumsangaben der Vorbemerkung nicht als eigene Messung oder unabhängige Regierungsbestätigung ausgegeben. Keine Quellenkopie veröffentlicht. Vorbemerkung und Regierungsantworten unterscheiden: Antragsteller-/Fraktionsangaben sind keine eigene technische Verifikation der Bundesregierung.
+
+- [Erwerb der Six-Needler-Waffe](https://www.bundestag.de/presse/hib/kurzmeldungen-1105284) · Deutscher Bundestag, Parlamentsnachrichten hib 347/2025, 14.08.2025.
+  Quellenzugriff am 2026-11-21. Vollständig geöffnet und gelesen. Meldung unterscheidet ausdrücklich die Schilderung der Antragstellerseite in der AfD-Anfrage von der ministeriellen Auslegungshilfe in der Regierungsantwort. Zeitgenössische amtliche Verfahrensberichterstattung; keine unabhängige zweite Sachquelle.
 
 ### Offene Fragen und Unsicherheiten
 
-- Kanalsuche 19.11.2026: Gemeint ist vermutlich Jörg Sprave („Six Needler“, Video vom 02.02.2025: Bestellung erst nach PTB-Bestätigung). Ob die PTB die Zulassung als erlaubnisfreie Waffe verweigert hat, ist noch nicht belegt; Folgevideos und PTB-Angaben lesen.
+- PTB-Originalbescheid oder gerichtliche Entscheidung zum damaligen Ablehnungsgrund prüfen; die Namenszuordnung am Gesprächston kontrollieren.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Originalbescheid, technische Einzelprüfung und akustisch bestätigte Namenszuordnung fehlen.
+
+- Durchgang 1 am 2026-11-21 (Codex): Nach Originallektüre gezielte Suche nach Six Needler/PTB/Zulassung; amtliche parlamentarische Antwort und Parlamentsmeldung vor dem Videodatum gelesen. Vorhandener Quellenhinweis S003 wurde nicht als Verifikation übernommen. Gepruefte Quellen: S099, S100. Ergebnis: Verfahrenskern und Zuordnung zu GoGun/Jörg Sprave nachvollziehbar; kein unabhängiger technischer Befund und kein vorliegender Ablehnungsbescheid.
 
 ## bPXMY7Reeek-A0047
 

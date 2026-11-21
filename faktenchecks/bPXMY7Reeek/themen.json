@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "videoId": "bPXMY7Reeek",
-  "basis": "Zuordnung aus den erfassten Aussagen des strukturierten Faktenchecks (Beschreibung), nicht aus dem Titel. KI-gestützt von Claude erstellt; Aussagen ohne öffentliches Sachthema (z. B. Biografisches, Aussagen über Creator) bleiben ohne Thema.",
+  "basis": "Zuordnung aus den erfassten Aussagen des strukturierten Faktenchecks (Beschreibung), nicht aus dem Titel. KI-gestützt von Claude erstellt; Aussagen ohne öffentliches Sachthema (z. B. Biografisches, Aussagen über Creator) bleiben ohne Thema. Am 21.11.2026 durch Codex nach neun Nachprüfungen kontrolliert: Gegenstände und Zuordnungen unverändert; keine neue öffentliche Themenkategorie.",
   "topics": [
     {
       "topic": "geschlecht",

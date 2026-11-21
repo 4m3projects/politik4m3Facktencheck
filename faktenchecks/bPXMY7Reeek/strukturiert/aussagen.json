@@ -10,7 +10,7 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen.",
+    "researchNote": "Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen. Nachrecherche 21.11.2026 (Codex): neun zuvor offene Punkte mit selbst gelesenen Quellen bewertet; Identifikations- und Definitionsgrenzen einzeln dokumentiert. Keine neue vollständige Hör-/Sichtkontrolle.",
     "coverageNote": "Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text. [ChatGPT] 21.11.2026: Zwei zuvor offene Aussagen anhand externer Quellen geprüft; die erfasste Prüfabdeckung steigt, ohne dass dies eine Vollerfassung des Gesprächs bedeutet."
   },
   "legacyPoints": [],
@@ -670,6 +670,166 @@
       "details": "Infratest dimap / ARD-DeutschlandTrend; Befragung 06.–08.01.2025, 1323 wahlberechtigte Personen in Deutschland per Telefon- und Onlineerhebung.",
       "accessedOn": "2026-11-21",
       "accessBasis": "Originalveröffentlichung von Infratest dimap am 21.11.2026 vollständig im HTML gelesen: fast Hälfte mit ernsten Meinungsverschiedenheiten in Familie ODER Freundeskreis; jeder Vierte berichtet Kontaktabbrüche, überwiegend nur vorübergehend. Keine getrennten Familien-Dauerabbruchsquoten, daher genaue Reichweite begrenzt."
+    },
+    {
+      "id": "S083",
+      "title": "Geld-Streit um Papaplatte: Was sein Ex-Cutter von ihm verlangen kann",
+      "url": "https://www.watson.de/unterhaltung/social-media/865407236-papaplatte-gegen-ex-cutter-experte-klaert-entscheidende-frage-im-streit",
+      "details": "Jennifer Ullrich, watson, 14.08.2025; zeitgenössischer Bericht über Pamabus Tätigkeit am Kanal Lattensepp.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Artikel am 21.11.2026 im HTML gelesen, insbesondere berufliche Zuordnung und Trennung der Tätigkeitsangabe von strittigen Vertragsbehauptungen. Kein eigener Zugriff auf Verträge oder Originalstatements."
+    },
+    {
+      "id": "S084",
+      "title": "Twitch-Streamer Papaplatte und Ex-Cutter zoffen sich ums Geld",
+      "url": "https://www.nau.ch/people/welt/twitch-streamer-papaplatte-und-ex-cutter-zoffen-sich-ums-geld-67031499",
+      "details": "Sandra Morgenroth, Nau.ch, 17.08.2025; Bericht über den früheren Cutter Pamabu.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Artikel direkt gelesen; Sekundärbericht unter Bezug auf weitere Medien, deshalb kein zusätzlicher unabhängiger Beweis für Vertragsdetails."
+    },
+    {
+      "id": "S085",
+      "title": "MasterSinan: Mixdown und Mastering",
+      "url": "https://mastersinan.de/",
+      "details": "Sinan Kurtulus, undatierte eigene Angebotsseite; nennt Neptunica und 89ers als Referenzen.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Referenzbereich und Anbieterzuordnung am 21.11.2026 direkt gelesen. Geschäftliche Selbstauskunft; weder datierte Produktionscredits noch Nachweis des Zustands im August 2025."
+    },
+    {
+      "id": "S086",
+      "title": "Mastering Service – Futorial",
+      "url": "https://www.futorial.de/mastering-service/",
+      "details": "Futorial / Sinan Kurtulus, undatierte eigene Leistungs- und Referenzseite.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Referenzen Neptunica und 89ers sowie Anbieterbiografie direkt gelesen. Gleicher Anbieter wie S085, keine unabhängige Zweitbestätigung."
+    },
+    {
+      "id": "S087",
+      "title": "Kontor Records: Impressum",
+      "url": "https://kontorrecords.de/impressum/",
+      "details": "Kontor Records GmbH, undatierte Anbieterangabe; Sitz Hamburg.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Impressum direkt gelesen. Aktuelle Unternehmensselbstauskunft zum Sitz, keine Bestätigung einzelner Mixaufträge oder historischer Mitarbeiterangaben."
+    },
+    {
+      "id": "S088",
+      "title": "Influencer-Eigentor: Internet-Promi ConCrafter lästert über Club ab!",
+      "url": "https://www.djmag.de/einzelnews/influencer-eigentor-internet-promi-concrafter-laestert-ueber-club-ab",
+      "details": "Marie Kaltenegger, DJ Mag Germany, 10.04.2019.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Zeitgenössischen Artikel vollständig gelesen: abgelehnte Kooperation mit einem unbenannten Düsseldorfer Club, Bootshaus dagegen als Beispiel früherer Zusammenarbeit. Originalvlog nicht abgespielt."
+    },
+    {
+      "id": "S089",
+      "title": "Influencer darf nicht gratis in einen Club und blamiert sich mit Rachevideo",
+      "url": "https://www.derstandard.de/story/2000101760004/influencer-darf-nicht-gratis-in-einen-club-und-erntet-spott",
+      "details": "derStandard, Redaktion, 19.04.2019.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Bericht über Anfrage, Ablehnung, Reaktionsvideo und Kritik vollständig gelesen. Sekundärbericht mit Verweis auf Stern; keine eigene Kontrolle privater Nachrichten."
+    },
+    {
+      "id": "S090",
+      "title": "SinansWoche – Das Interview",
+      "url": "https://www.youtube.com/watch?v=4oJkmaclzBA",
+      "details": "Rederei FM, veröffentlicht 31.03.2021, Laufzeit 00:50:49.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originale Veröffentlichungsdaten mit dem Projekt-Importskript privat abgerufen; deutsche automatische Originaluntertitel der Eröffnung 00:00:14–00:03:15 gelesen. Identifiziert Gespräch und Teilnehmerkontext, keine vollständige Inhalts- oder Hörprüfung. Webabruf des Players zuvor erfolglos; keine Verifikation aus dem Suchausschnitt. Englische Untertitelanfrage mit HTTP 429 gescheitert; deutsche Originalspur zugänglich."
+    },
+    {
+      "id": "S091",
+      "title": "Dara vs. Sinan | Strategie von Links",
+      "url": "https://www.youtube.com/watch?v=DdoMGJkiQ4M",
+      "details": "SiniMachtAuge, veröffentlicht 07.02.2024, Laufzeit 03:08:34.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Identifikationsdaten über das Projekt-Importskript privat abgerufen, deutsche Originaluntertitel der Gesprächseröffnung 00:00:00–00:02:35 gelesen. Teilnehmer begrüßen sich und beginnen ihre Debatte; kein gehörtes Audio und keine vollständige Analyse dieser Debatte. Direkter Webabruf zuvor fehlgeschlagen, Suchausschnitt nicht als Sachverifikation verwendet."
+    },
+    {
+      "id": "S092",
+      "title": "S2k-Leitlinie Varianten der Geschlechtsentwicklung, AWMF 174-001",
+      "url": "https://register.awmf.org/assets/guidelines/174-001l_S2k_Varianten-der-Geschlechtsentwicklung_2025-07.pdf",
+      "details": "DGU, DGPAED und DGKCH; Langfassung Stand 03/2025, veröffentlicht Juli 2025.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "PDF im Web geöffnet; Präambel und Definition S. 2–3, Klassifikation S. 6–7 sowie Abschnitte zu Androgenresistenz und 46,XX-DSD gelesen. Keine PDF-Datei im Repository. Nur diese Teile fachlich ausgewertet; keine individuelle medizinische Diagnose."
+    },
+    {
+      "id": "S093",
+      "title": "Considering Sex as a Biological Variable in Basic and Clinical Studies: An Endocrine Society Scientific Statement",
+      "url": "https://www.endocrine.org/-/media/endocrine/files/advancing-research/scientific-statement--considering-sex-as-a-biological-variable-in-basic-and-clinical-studies.pdf",
+      "details": "Bhargava et al., Endocrine Society, Endocrine Reviews 2021, DOI 10.1210/endrev/bnaa034.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Fachgesellschaftliche Originalfassung im Web geöffnet; Abschnitt zur Definition biologischen Geschlechts auf S. 3 mit Keimzell- und Gonadenbezug sowie Abgrenzung zu Gender gelesen. Kein vollständiges Review aller 40 Seiten."
+    },
+    {
+      "id": "S094",
+      "title": "Action, bitte! Wie der öffentliche Sektor den Mangel an digitalen Fachkräften meistern kann",
+      "url": "https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/publikationen/2023-01-25%20it%20talent%20im%20public%20sector/action%20bittemckinsey.pdf",
+      "details": "McKinsey & Company, Januar 2023, insbesondere S. 5–6; Auswertung vorhandener Statistiken.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originalstudie im Web geöffnet und Abschnitt zum öffentlichen Sektor sowie IT-Beschäftigtenanteil gelesen; Quelle beziffert 3 Prozent der sozialversicherungspflichtigen IT-Fachkräfte. Beschäftigte, offene Stellen und künftige Bedarfe werden getrennt."
+    },
+    {
+      "id": "S095",
+      "title": "Studie: Im öffentlichen Dienst fehlen bis 2030 140.000 IT-Fachkräfte",
+      "url": "https://www.mckinsey.com/de/news/presse/2023-01-25-it-talent-im-public-sector",
+      "details": "McKinsey & Company, Pressemitteilung vom 25.01.2023 zur Studie S094.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originalmitteilung vollständig gelesen. Gleiche Studie wie S094, keine unabhängige zweite Datenquelle und keine exakte Aktualisierung für August 2025."
+    },
+    {
+      "id": "S096",
+      "title": "Gründe für die Ablehnung behördlicher Empfehlungen und Maßnahmen zum Schutz vor SARS-CoV-2",
+      "url": "https://link.springer.com/article/10.1007/s00103-021-03315-y",
+      "details": "Diana Wahidie, Yüce Yılmaz-Aslan, Sabahat Ölcer, Tuğba Aksakal und Patrick Brzoska; Bundesgesundheitsblatt, veröffentlicht 14.04.2021, DOI 10.1007/s00103-021-03315-y; 119 Social-Media-Beiträge vom 02.03.–18.04.2020.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originalartikel im Web gelesen: Fragestellung, Methoden, Ergebnisse, Diskussion und Limitationen. Keine repräsentative Längsschnitt- oder Kausalprüfung einer politischen Radikalisierung."
+    },
+    {
+      "id": "S097",
+      "title": "Attitudes about containment measures during the 2020/2021 coronavirus pandemic: self-interest, or broader political orientations?",
+      "url": "https://journals.sagepub.com/doi/10.1177/20531680211035319",
+      "details": "Claudia Diehl und Felix Wolter, Research & Politics 2021, DOI 10.1177/20531680211035319.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originalartikel geöffnet; Methoden zu zwei Befragungswellen Mai/Juni und November 2020 sowie Ergebnis- und Schlussabschnitte gelesen. Keine Hinweise auf zunehmende politische Polarisierung der Maßnahmenhaltungen im untersuchten Zeitraum; das ist kein allgemeiner Beweis eines Pandemie-Nulleffekts."
+    },
+    {
+      "id": "S098",
+      "title": "From rally to reality: unveiling long-term dynamics in political trust over two years of COVID-19 in Germany",
+      "url": "https://fis.uni-bamberg.de/server/api/core/bitstreams/1f0f54af-4867-4fed-8f6e-f3251a3d54c1/content",
+      "details": "Gundula Zoch und Steffen Wamsler, Political Research Exchange 2024, DOI 10.1080/2474736X.2024.2403438; Hochschul-Zweitveröffentlichung 17.04.2026.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Verlagsabruf mit HTTP 403 gescheitert. Tatsächlich gelesen wurde die identische veröffentlichte Fassung im Repositorium der Universität Bamberg: Methoden, Ergebnisse und Diskussion. 21.001 Beobachtungen von 6.501 Personen, 2017–2022; Primärpublikation vor dem Video, Repositoriumsdatum danach. Keine ausschließlich durch Reaktanz verursachte Entwicklung nachgewiesen."
+    },
+    {
+      "id": "S099",
+      "title": "Drucksache 21/1174: Antwort der Bundesregierung zur Six-Needler-Kennzeichnung",
+      "url": "https://dserver.bundestag.de/btd/21/011/2101174.pdf",
+      "details": "Deutscher Bundestag, 08.08.2025; Antwort der Bundesregierung mit wiedergegebenen Fragen und deren Vorbemerkung.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Im Web geöffnet; S. 1–4 gelesen, Fragestellervorbemerkung und Regierungsantworten getrennt. Technische und Datumsangaben der Vorbemerkung nicht als eigene Messung oder unabhängige Regierungsbestätigung ausgegeben. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S100",
+      "title": "Erwerb der Six-Needler-Waffe",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1105284",
+      "details": "Deutscher Bundestag, Parlamentsnachrichten hib 347/2025, 14.08.2025.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Vollständig geöffnet und gelesen. Meldung unterscheidet ausdrücklich die Schilderung der Antragstellerseite in der AfD-Anfrage von der ministeriellen Auslegungshilfe in der Regierungsantwort."
+    },
+    {
+      "id": "S101",
+      "title": "Bosetti will reden: Folge vom 03.12.2021, historischer Herausgeberlink",
+      "url": "https://www.zdf.de/comedy/bosetti-will-reden/211203-bosetti-will-reden-100.html",
+      "details": "ZDF, historischer Folgenlink; ursprünglicher Beitrag am 21.11.2026 nicht zugänglich.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Erfolgloser Abrufversuch – kein Sachbeleg: HTTP 404 am 21.11.2026. Kein Originalbeitrag, Originalton oder vollständiger satirischer Kontext gelesen bzw. gehört."
+    },
+    {
+      "id": "S102",
+      "title": "Staatsanwaltschaft Mainz: Auszug einer Entscheidung zum Bosetti-Vergleich",
+      "url": "https://media.frag-den-staat.de/files/foi/671553/sta-mainz-zu-zdf-volksverhetzung-s-4_geschwaerzt.pdf",
+      "details": "Staatsanwaltschaft Mainz, bei FragDenStaat öffentlich zugängliche geschwärzte Einzelseite; Entscheidungsdatum und vollständiges Aktenzeichen auf dieser Seite nicht feststellbar.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Einseitiges amtliches Schriftstück im Web gelesen. Behandelt die strafrechtliche Einordnung eines Vergleichs; Datum und vorgelagerte Sachverhaltsdarstellung fehlen. Kein Ersatz für die vollständige Sendung und keine eigene abschließende Rechtsprüfung."
     }
   ],
   "speakers": [
@@ -694,36 +854,52 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Creator Hamabu (Schreibweise laut Untertitel) sei früher Cutter des Streamers Papaplatte gewesen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Angabe zur Biografie eines Creators; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Zeitgenössische Berichte vom 14. und 17. August 2025 identifizieren Pamabu als früheren Cutter für Papaplattes Kanal Lattensepp. Das stützt die berufliche Angabe. In der Campertalk-Unterschrift steht Hamabu; die ähnliche Aussprache und der aktuelle Gesprächskontext machen Pamabu als gemeinte Person plausibel. Ohne Hörabgleich bleibt diese Namenszuordnung unsicher. Vertrags-, Zahlungs- und Streitvorwürfe werden hier nicht mitbewertet.",
+      "assessmentBasis": "Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Teilweise belegt; frühere Begründung: Noch nicht geprüft – Angabe zur Biografie eines Creators; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch. Neue Begründung und gelesene Belege unten dokumentiert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S083",
+          "note": "Zeitgenössischer Bericht zur Tätigkeit, kein Nachweis strittiger Vertragsdetails."
+        },
+        {
+          "sourceId": "S084",
+          "note": "Ergänzender Sekundärbericht zur gleichen beruflichen Zuordnung."
+        }
+      ],
       "openQuestions": [
-        "Kanalsuche 19.11.2026: Auf YouTube kein Kanal oder Video gefunden, das Hamabu als früheren Cutter von Papaplatte ausweist; andere Plattformen (Twitch, TikTok, Instagram) nicht geprüft."
+        "Den Namen am Originalton bei etwa 03:20 kontrollieren; keine Aussagen über die Berechtigung des Zahlungsstreits ableiten."
       ],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0001",
-          "startSeconds": 183,
-          "endSeconds": 200,
+          "startSeconds": 200,
+          "endSeconds": 205,
           "precision": "Ungefähr",
           "speakerId": null,
-          "candidateSpeakerId": "SP01",
+          "candidateSpeakerId": "SP02",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Nur Gesprächsverlauf im automatischen Text (Frage-Antwort-Wechsel, autobiografische Bezüge); keine bestätigte Stimme.",
+          "attributionBasis": "Textkontext: Der Gastgeber beschreibt seinen eigenen Campertalk mit dem früheren Cutter; der andere Gesprächspartner antwortet, den Namen nicht gekannt zu haben. Am 21.11.2026 (Codex) früheren Kandidaten SP01 zu SP02 berichtigt; weiterhin keine bestätigte Stimme.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
           "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
-          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
-          "timeHistory": []
+          "timeBasis": "Am 21.11.2026 (Codex) anhand der deutschen automatischen Originaluntertitel textlich auf 03:20–03:25 eingegrenzt; kein Hörabgleich, weiterhin ungefähr.",
+          "timeHistory": [
+            {
+              "startSeconds": 183,
+              "endSeconds": 200,
+              "precision": "Ungefähr",
+              "basis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert. Vorheriger Bereich bis 03:20 verfehlte die anschließende Cutterangabe; am 21.11.2026 (Codex) nach Textlektüre verschoben."
+            }
+          ]
         }
       ],
       "relations": [],
@@ -734,6 +910,25 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
+      },
+      "shortReason": "Pamabus frühere Cuttertätigkeit ist dokumentiert; die Zuordnung des automatisch erfassten Namens bleibt ohne Hörabgleich plausibel.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Wissenssuche Papaplatte/Pamabu ohne passende Vorprüfung; zunächst automatische Schreibweise gesucht, anschließend alternative Namensformen und zeitgenössische Berichte.",
+            "result": "Beruflicher Kern bestätigt; Namensauflösung aus Textkontext plausibel, nicht akustisch bestätigt.",
+            "sourceIds": [
+              "S083",
+              "S084"
+            ]
+          }
+        ],
+        "missingInformation": "Den Namen am Originalton bei etwa 03:20 kontrollieren; keine Aussagen über die Berechtigung des Zahlungsstreits ableiten.",
+        "conflicts": null
       }
     },
     {
@@ -1127,20 +1322,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan habe Musik unter anderem für den Dance-Act Neptunica und für 89ers abgemischt, vielfach aus dem Umfeld des Hamburger Dance-Labels Contor.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – berufliche Selbstauskunft ohne öffentlich gelesenen Nachweis (Credits der genannten Produktionen nicht geprüft). Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Sinan nennt Neptunica und 89ers auf zwei eigenen Mastering-Angebotsseiten als Referenzen. Das passt zur beruflichen Selbstauskunft, ist aber keine unabhängige Bestätigung und belegt weder konkrete Mixcredits noch Auftragszeitpunkte vor dem Gespräch. Kontors eigene Anbieterangabe bestätigt den Sitz in Hamburg; die Untertitelschreibung Contor wird dadurch als wahrscheinliche Namensverwechslung erkennbar. Der Umfang der behaupteten Zusammenarbeit bleibt offen.",
+      "assessmentBasis": "Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Teilweise belegt; frühere Begründung: Noch nicht geprüft – berufliche Selbstauskunft ohne öffentlich gelesenen Nachweis (Credits der genannten Produktionen nicht geprüft). Fehlende Bestätigung bedeutet nicht falsch. Neue Begründung und gelesene Belege unten dokumentiert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S085",
+          "note": "Undatierte geschäftliche Selbstauskunft, kein historischer Einzelfallbeweis."
+        },
+        {
+          "sourceId": "S086",
+          "note": "Weitere Angebotsseite desselben Anbieters, nicht unabhängig."
+        },
+        {
+          "sourceId": "S087",
+          "note": "Hamburger Sitz; kein Beleg für Mixaufträge."
+        }
+      ],
       "openQuestions": [
-        "Sind Mix- oder Mastering-Credits auf Discogs oder in Veröffentlichungsangaben dokumentiert?",
-        "Ist Contor ein in Hamburg ansässiges Dance-Label?",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Datierte Label- oder Künstlercredits zu einzelnen Produktionen vor dem 23.08.2025 suchen."
       ],
       "occurrences": [
         {
@@ -1169,6 +1375,26 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
+      },
+      "shortReason": "Neptunica und 89ers stehen in Sinans eigenen Referenzen; konkrete datierte Mixcredits sind damit nicht unabhängig bestätigt.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Wissenssuche Musik/Mastering/Neptunica; Angebotsreferenzen selbst gelesen und separat die Labelangabe überprüft.",
+            "result": "Öffentliche Referenzen und Labelort nachvollziehbar, konkrete Leistungszuordnung und Zeitraum begrenzt.",
+            "sourceIds": [
+              "S085",
+              "S086",
+              "S087"
+            ]
+          }
+        ],
+        "missingInformation": "Datierte Label- oder Künstlercredits zu einzelnen Produktionen vor dem 23.08.2025 suchen.",
+        "conflicts": null
       }
     },
     {
@@ -1552,18 +1778,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein Influencer (laut Untertitel Laser Luca) habe vor etwa sechs bis sieben Jahren in einem Video geschildert, nicht in den Kölner Club Bootshaus eingelassen worden zu sein, obwohl er seine Reichweite anbot; das Video habe heftige Gegenreaktionen ausgelöst.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – älteres Creator-Video und Reaktionen darauf; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die Clubkontroverse und öffentliche Kritik sind in Berichten von April 2019 dokumentiert; der ungefähre zeitliche Abstand zum Gespräch passt. Die abgelehnte Anfrage betraf jedoch einen nicht genannten Club in Düsseldorf und eine vorher verhandelte Kooperation. Das Kölner Bootshaus erscheint bei DJ Mag gerade als Beispiel früherer erfolgreicher Kooperationen. Die Gesprächserinnerung vertauscht damit Ort und Rolle des Bootshauses und verkürzt die Vorgeschichte zu einer Abweisung an der Tür. Der Originalvlog wurde nicht abgespielt.",
+      "assessmentBasis": "Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Irreführend / Kontext fehlt; frühere Begründung: Noch nicht geprüft – älteres Creator-Video und Reaktionen darauf; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch. Neue Begründung und gelesene Belege unten dokumentiert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S088",
+          "note": "Zeitgenössische Unterscheidung zwischen Düsseldorfer Ablehnung und früherer Bootshaus-Kooperation."
+        },
+        {
+          "sourceId": "S089",
+          "note": "Zusätzlicher zeitgenössischer Bericht über Anfrage und öffentliche Reaktionen."
+        }
+      ],
       "openQuestions": [
-        "Kanalsuche 19.11.2026: Das ursprüngliche Beschwerdevideo von laserluca (ConCrafter, April 2019) ist nicht mehr auf seinem Kanal; nach den Untertiteln einer Fremdkopie ging es um einen Club in Düsseldorf, das Bootshaus wird dort positiv erwähnt. Vor einer Bewertung Originalquelle oder zeitgenössischen Bericht lesen."
+        "Originalvlog oder vollständige archivierte Herausgeberfassung für den genauen Ablauf zusätzlich kontrollieren."
       ],
       "occurrences": [
         {
@@ -1592,6 +1827,25 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
+      },
+      "shortReason": "Der Streit von 2019 betraf eine abgelehnte Kooperation in Düsseldorf; das Kölner Bootshaus war ein früherer Kooperationspartner.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Wissenssuche und erneute Lektüre 23:55–25:45; zeitgenössische Berichte gezielt zu Laserluca/ConCrafter, Bootshaus und Düsseldorfer Club verglichen.",
+            "result": "Realer Vorgang, aber Ort und Ablauf werden im Gespräch vermischt.",
+            "sourceIds": [
+              "S088",
+              "S089"
+            ]
+          }
+        ],
+        "missingInformation": "Originalvlog oder vollständige archivierte Herausgeberfassung für den genauen Ablauf zusätzlich kontrollieren.",
+        "conflicts": null
       }
     },
     {
@@ -1752,20 +2006,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan habe früher unter anderem mit Dara und etwa vier Jahre zuvor in einem Format namens Redereien FM (Schreibweise laut Untertitel) Gespräche geführt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – frühere Gesprächsformate; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Eine Originalveröffentlichung von Rederei FM datiert das Gespräch mit SinansWoche auf den 31. März 2021; die zugängliche deutsche Eröffnung bestätigt die Gesprächssituation. Eine weitere Originalveröffentlichung auf SiniMachtAuge vom 7. Februar 2024 zeigt in der gelesenen Eröffnung die direkte Debatte zwischen Dara und Sinan. Beide liegen vor dem Campertalk vom August 2025. Der Abstand von gut vier Jahren zur Rederei-Folge entspricht der ungefähren Erinnerung. Dies prüft die Existenz der Gespräche, nicht deren vollständigen Inhalt.",
+      "assessmentBasis": "Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Belegt; frühere Begründung: Noch nicht geprüft – frühere Gesprächsformate; YouTube- und Plattformdaten sind aus der Prüfumgebung nicht abrufbar, und eine unabhängige öffentliche Quelle wurde nicht gelesen. Fehlende Bestätigung bedeutet nicht falsch. Neue Begründung und gelesene Belege unten dokumentiert."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Existieren diese Gespräche öffentlich, und wann erschienen sie?",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S090",
+          "note": "Originalveröffentlichung und deutsche Gesprächseröffnung; Datum 31.03.2021."
+        },
+        {
+          "sourceId": "S091",
+          "note": "Originalveröffentlichung und Begrüßung der Debatte; Datum 07.02.2024."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0025",
@@ -1793,6 +2053,25 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
+      },
+      "shortReason": "Originalveröffentlichungen belegen das Rederei-Gespräch 2021 und die Dara-Debatte 2024.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Wissenssuche Rederei/Interview und öffentliche Kanalsuche; anschließend Originaldaten mit dem vorhandenen Projektimport privat abgerufen und beide deutsche Gesprächseröffnungen gelesen.",
+            "result": "Existenz, Teilnehmerkontext und zeitliche Einordnung der zwei genannten Gespräche bestätigt.",
+            "sourceIds": [
+              "S090",
+              "S091"
+            ]
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -2763,23 +3042,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Waffen-YouTuber Schlomo habe eine CO2-Pistole entwickelt, die sechs lange Nadeln verschießt und unter 7,5 Joule bleiben sollte; die Physikalisch-Technische Bundesanstalt habe sie nicht als erlaubnisfreie Waffe zugelassen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Ein konkretes Produkt und eine PTB-Entscheidung dazu fanden sich in keiner gelesenen Quelle. Kontext: Die Bundesregierung hat 2025 eine Erlaubnispflicht für bestimmte Druckluftwaffen mit Hartnadelgeschossen unter 7,5 Joule eingeführt; ob das gemeinte Produkt darunter fiel, bleibt offen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Bundestagsunterlagen von Juli/August 2025 dokumentieren den Streit um die verweigerte Kennzeichnung des Six Needler und ordnen den Antrag der GoGun GmbH beziehungsweise Jörg Sprave zu. Die Parlamentsmeldung gibt den 12. Juni 2025 als Ablehnungsdatum wieder, ausdrücklich nach Darstellung der Fragesteller. Die Bundesregierung bestätigt ihre rechtliche Auslegungshilfe und den Austausch mit der PTB. Das stützt den historischen Verfahrenskern; der im Gespräch verwendete Name Schlomo ist damit nicht als Entwickler bestätigt. Der Ablehnungsbescheid selbst und eine unabhängige technische Prüfung lagen nicht vor. Aus den Unterlagen folgt weder eine allgemeine Bewertung sämtlicher Druckluftwaffen noch eine abschließende Entscheidung über die Rechtmäßigkeit der Ablehnung.",
+      "assessmentBasis": "Campertalk-Fundstelle 01:05:52–01:06:42 im automatischen deutschen Originaltext gelesen; Bundestagsdokument und Parlamentsmeldung selbst geöffnet. Keine neue Hörkontrolle, kein PTB-Bescheid und kein technischer Versuch.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 21.11.2026 (Codex): vorher Offen, jetzt Teilweise belegt; frühere Begründung: Noch nicht geprüft – Ein konkretes Produkt und eine PTB-Entscheidung dazu fanden sich in keiner gelesenen Quelle. Kontext: Die Bundesregierung hat 2025 eine Erlaubnispflicht für bestimmte Druckluftwaffen mit Hartnadelgeschossen unter 7,5 Joule eingeführt; ob das gemeinte Produkt darunter fiel, bleibt offen. Fehlende Bestätigung bedeutet nicht falsch. Verfahrensunterlagen und Herkunft der Angaben nun getrennt dokumentiert."
       },
       "sourceRefs": [
         {
-          "sourceId": "S003",
-          "note": "Kontext, kein Sachbeleg für den konkreten Prüfgegenstand."
+          "sourceId": "S099",
+          "note": "Vorbemerkung und Regierungsantworten unterscheiden: Antragsteller-/Fraktionsangaben sind keine eigene technische Verifikation der Bundesregierung."
+        },
+        {
+          "sourceId": "S100",
+          "note": "Zeitgenössische amtliche Verfahrensberichterstattung; keine unabhängige zweite Sachquelle."
         }
       ],
       "openQuestions": [
-        "Kanalsuche 19.11.2026: Gemeint ist vermutlich Jörg Sprave („Six Needler“, Video vom 02.02.2025: Bestellung erst nach PTB-Bestätigung). Ob die PTB die Zulassung als erlaubnisfreie Waffe verweigert hat, ist noch nicht belegt; Folgevideos und PTB-Angaben lesen."
+        "PTB-Originalbescheid oder gerichtliche Entscheidung zum damaligen Ablehnungsgrund prüfen; die Namenszuordnung am Gesprächston kontrollieren."
       ],
       "occurrences": [
         {
@@ -2808,6 +3091,25 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
+      },
+      "shortReason": "Der Kennzeichnungsstreit ist parlamentarisch dokumentiert; die Unterlagen betreffen Jörg Sprave und GoGun, nicht den genannten Namen Schlomo.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Nach Originallektüre gezielte Suche nach Six Needler/PTB/Zulassung; amtliche parlamentarische Antwort und Parlamentsmeldung vor dem Videodatum gelesen. Vorhandener Quellenhinweis S003 wurde nicht als Verifikation übernommen.",
+            "sourceIds": [
+              "S099",
+              "S100"
+            ],
+            "result": "Verfahrenskern und Zuordnung zu GoGun/Jörg Sprave nachvollziehbar; kein unabhängiger technischer Befund und kein vorliegender Ablehnungsbescheid."
+          }
+        ],
+        "missingInformation": "Originalbescheid, technische Einzelprüfung und akustisch bestätigte Namenszuordnung fehlen.",
+        "conflicts": null
       }
     },
     {
@@ -3059,20 +3361,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Biologisch gebe es zwei Geschlechter; Varianten der Geschlechtsentwicklung (DSD) seien Diagnosen und begründeten keine weiteren Geschlechter.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde. Ob man von zwei Geschlechtern mit Varianten oder von einem Spektrum spricht, hängt von der Definition ab; das Gespräch enthält dazu selbst gegensätzliche Positionen (siehe A0055). Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Nach der fortpflanzungsbezogenen Definition der Endocrine Society bestehen zwei Keimzelltypen und entsprechende männliche und weibliche Funktionen. DSD bezeichnen diagnostisch erfassbare Varianten und begründen keinen dritten Keimzelltyp. Daraus folgt aber keine ausnahmslos eindeutige Zuordnung sämtlicher körperlicher Merkmale: Die schon vor dem Gespräch veröffentlichte deutsche DSD-Leitlinie berücksichtigt nicht übereinstimmende chromosomale, gonadale und phänotypische Merkmale. Ob man Kategorien oder Merkmalsausprägungen beschreibt, ist deshalb ausdrücklich zu unterscheiden. Die persönliche Begriffsentscheidung des Sprechers ist kein zusätzlicher medizinischer Befund.",
+      "assessmentBasis": "Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Teilweise belegt; frühere Begründung: Noch nicht geprüft – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde. Ob man von zwei Geschlechtern mit Varianten oder von einem Spektrum spricht, hängt von der Definition ab; das Gespräch enthält dazu selbst gegensätzliche Positionen (siehe A0055). Fehlende Bestätigung bedeutet nicht falsch. Neue Begründung und gelesene Belege unten dokumentiert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S092",
+          "note": "Präambel und DSD-Definition berücksichtigen körperliche Varianten."
+        },
+        {
+          "sourceId": "S093",
+          "note": "Klassische Definition über Keimzellen und Gonaden, S. 3."
+        }
+      ],
       "openQuestions": [
-        "Welche Definitionen nutzt die Biologie (z. B. Keimzellen) und welche die Medizin für Varianten der Geschlechtsentwicklung?",
-        "Wie ordnen Fachgesellschaften DSD/Intergeschlechtlichkeit begrifflich ein?",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Keine pauschale Aussage über Geschlechtsidentität oder rechtliche Kategorien aus der Keimzelldefinition ableiten."
       ],
       "occurrences": [
         {
@@ -3107,6 +3416,25 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
+      },
+      "shortReason": "Zwei Fortpflanzungsfunktionen sind von der mehrdimensionalen körperlichen Geschlechtsentwicklung zu unterscheiden.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Wissenssuche Geschlecht/DSD und gezielte medizinische Recherche; vor dem Videodatum veröffentlichte Leitlinie und fachgesellschaftliche Originalstellungnahme selbst gelesen.",
+            "result": "Fortpflanzungsbezogener Kern gestützt; Übertragung auf sämtliche Merkmalskombinationen erfordert Definitionskontext.",
+            "sourceIds": [
+              "S092",
+              "S093"
+            ]
+          }
+        ],
+        "missingInformation": "Keine pauschale Aussage über Geschlechtsidentität oder rechtliche Kategorien aus der Keimzelldefinition ableiten.",
+        "conflicts": null
       }
     },
     {
@@ -3196,20 +3524,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Biologisch-medizinisch gebe es im Regelfall zwei Geschlechter, mit Ausnahmen bei Intergeschlechtlichkeit (etwa XX-Chromosomen mit Y-Anteilen oder Androgenresistenz); deshalb sei das biologische Geschlecht nach der Recherche des Gastgebers kein striktes Binär, sondern ein Spektrum.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde; Gegenposition zu A0052 im selben Gespräch. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die DSD-Leitlinie bestätigt Varianten und Androgenresistenz sowie mögliche Abweichungen zwischen Chromosomen, Gonaden und äußerem Erscheinungsbild. Eine ausschließlich binäre Beschreibung aller körperlichen Merkmale greift daher zu kurz. Spektrum bezeichnet hier unterschiedliche Merkmalskombinationen, keine zusätzliche Reihe von Fortpflanzungsfunktionen; die Endocrine Society erläutert weiterhin zwei Keimzelltypen. Das undeutlich erfasste Chromosomenbeispiel lässt ohne Hörkontrolle keine genaue Diagnosezuordnung zu. Intergeschlechtlichkeit und Geschlechtsidentität sind ebenfalls getrennt zu behandeln.",
+      "assessmentBasis": "Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Teilweise belegt; frühere Begründung: Noch nicht geprüft – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde; Gegenposition zu A0052 im selben Gespräch. Fehlende Bestätigung bedeutet nicht falsch. Neue Begründung und gelesene Belege unten dokumentiert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S092",
+          "note": "DSD-Definition und klinische Abschnitte zu Androgenresistenz und Chromosomenvarianten."
+        },
+        {
+          "sourceId": "S093",
+          "note": "Fortpflanzungsbezogene Definition mit zwei Keimzelltypen."
+        }
+      ],
       "openQuestions": [
-        "Wie definieren Fachpublikationen das biologische Geschlecht, und wie werden Intergeschlechtlichkeit und Androgenresistenz eingeordnet?",
-        "Der Gastgeber nennt als Recherchegrundlage unter anderem ChatGPT; eine Fachquelle ist nicht benannt.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Das Chromosomenbeispiel am Originalton prüfen; aus der automatischen Schreibweise keine bestimmte Diagnose ableiten."
       ],
       "occurrences": [
         {
@@ -3238,6 +3573,25 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
+      },
+      "shortReason": "Die Leitlinie stützt vielfältige körperliche Merkmalskombinationen; daraus folgen keine zusätzlichen Keimzelltypen.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Wissenssuche Geschlecht/Varianten der Geschlechtsentwicklung; medizinische Primärfassungen vor August 2025 mit der Gesprächspassage 01:13:49–01:14:28 abgeglichen.",
+            "result": "Merkmalsvielfalt bestätigt; Reichweite des Spektrumbegriffs und die unklare Chromosomenangabe begrenzt.",
+            "sourceIds": [
+              "S092",
+              "S093"
+            ]
+          }
+        ],
+        "missingInformation": "Das Chromosomenbeispiel am Originalton prüfen; aus der automatischen Schreibweise keine bestimmte Diagnose ableiten.",
+        "conflicts": null
       }
     },
     {
@@ -5218,19 +5572,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der öffentliche Dienst mache nur einen Bruchteil der IT-Stellen in Deutschland aus.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine Beschäftigtenstatistik zu IT-Stellen gelesen. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die vor dem Gespräch veröffentlichte McKinsey-Studie von Januar 2023 beziffert den Anteil des öffentlichen Sektors an den sozialversicherungspflichtigen IT-Fachkräften auf rund drei Prozent. Das stützt den eng gefassten Kern eines kleinen Beschäftigtenanteils. Die Zahl bezeichnet Beschäftigte, keine Quote offener Stellen und keine genaue Aktualisierung für August 2025; öffentliche Unternehmen und Berufsabgrenzungen sind zu beachten. Aus dem geringen Anteil folgt nicht, dass dortige Gleichstellungs- oder Einstellungsregeln bedeutungslos wären.",
+      "assessmentBasis": "Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Belegt; frühere Begründung: Noch nicht geprüft – keine Beschäftigtenstatistik zu IT-Stellen gelesen. Fehlende Bestätigung bedeutet nicht falsch. Neue Begründung und gelesene Belege unten dokumentiert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S094",
+          "note": "Originalstudie S. 5–6: Anteil an sozialversicherungspflichtigen IT-Fachkräften, keine Vakanzquote."
+        },
+        {
+          "sourceId": "S095",
+          "note": "Mitteilung derselben Studie; keine unabhängige zweite Zählung."
+        }
+      ],
       "openQuestions": [
-        "Anteil der IT-Fachkräfte im öffentlichen Dienst an allen IT-Beschäftigten (Bundesagentur für Arbeit, Destatis) feststellen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Für eine genaue Quote im August 2025 wären vergleichbar abgegrenzte aktuelle Berufsdaten erforderlich."
       ],
       "occurrences": [
         {
@@ -5259,6 +5621,25 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
+      },
+      "shortReason": "Eine vor dem Gespräch veröffentlichte Studie beziffert den öffentlichen Anteil an sozialversicherungspflichtigen IT-Fachkräften auf etwa drei Prozent.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Wissenssuche IT/Fachkräfte/Beschäftigte, amtliche Abgrenzungen und Studienhinweise geprüft; anschließend Originalstudie und zugehörige Pressemitteilung gelesen.",
+            "result": "Kleiner Beschäftigtenanteil durch zeitlich passende Originalstudie gestützt, politische Folgerung getrennt.",
+            "sourceIds": [
+              "S094",
+              "S095"
+            ]
+          }
+        ],
+        "missingInformation": "Für eine genaue Quote im August 2025 wären vergleichbar abgegrenzte aktuelle Berufsdaten erforderlich.",
+        "conflicts": null
       }
     },
     {
@@ -7104,19 +7485,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Studien zeigten, dass die Reaktanz in der Pandemie bereits bestehende staats- und autoritätskritische Strömungen verstärkt habe; andere Studien fänden keinen zusätzlichen Effekt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die gemeinten Studien werden nicht benannt; Forschung zu Protestmilieus und Vertrauen in der Pandemie wurde noch nicht gelesen. Grundsätzlich mit Fachliteratur prüfbar.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Originalforschung belegt Zusammenhänge von Misstrauen, politischen Voreinstellungen und Maßnahmenablehnung. Diehl und Wolter finden zwischen ihren zwei Befragungswellen 2020 keine zunehmende politische Polarisierung der Maßnahmenhaltungen. Zoch und Wamsler zeigen dagegen zeit- und institutionsabhängige Vertrauensveränderungen gegenüber der Zeit vor der Pandemie. Die qualitative Social-Media-Studie beschreibt Reaktanz als möglichen Mechanismus, weist aber keine gesamtgesellschaftliche Kausalwirkung nach. Damit ist eine differenzierte Befundlage belegt, nicht die stärkere Behauptung eines durch Reaktanz verursachten Verstärkens bestehender staatskritischer Strömungen. Die vom Gastgeber konkret gemeinten Studien bleiben unbekannt.",
+      "assessmentBasis": "Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): grundsätzlich öffentlich prüfbar, aber noch nicht recherchiert; deshalb zurück auf Offen (Arbeitsauftrag), keine Bewertung."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): grundsätzlich öffentlich prüfbar, aber noch nicht recherchiert; deshalb zurück auf Offen (Arbeitsauftrag), keine Bewertung. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Teilweise belegt; frühere Begründung: Noch nicht geprüft – die gemeinten Studien werden nicht benannt; Forschung zu Protestmilieus und Vertrauen in der Pandemie wurde noch nicht gelesen. Grundsätzlich mit Fachliteratur prüfbar. Neue Begründung und gelesene Belege unten dokumentiert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S096",
+          "note": "Qualitative Mechanismenanalyse mit begrenzter Stichprobe, kein Kausalnachweis."
+        },
+        {
+          "sourceId": "S097",
+          "note": "Zwei Befragungen 2020; keine zunehmende Polarisierung in der untersuchten Haltung."
+        },
+        {
+          "sourceId": "S098",
+          "note": "Originalpublikation 2024: Vertrauensverläufe und begrenzte Erklärung durch Maßnahmen; Repositoriumsdatum 2026 getrennt."
+        }
+      ],
       "openQuestions": [
-        "Welche Studien sind gemeint? Der Gastgeber kann sie nach eigener Angabe nicht benennen.",
-        "Forschung zu Protestmilieus und Vertrauen während der Pandemie in Deutschland sichten."
+        "Die im Gespräch gemeinten Studien identifizieren; Reaktanz, Vertrauensverlust und politische Radikalisierung als unterschiedliche Messgrößen prüfen."
       ],
       "occurrences": [
         {
@@ -7179,6 +7572,26 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
+      },
+      "shortReason": "Studien zeigen unterschiedliche Entwicklungen; eine allgemeine Radikalisierungswirkung durch Reaktanz ist damit nicht nachgewiesen.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Wissenssuche Pandemie/Reaktanz/Vertrauen und Gegenprüfung mit unterschiedlich angelegten Originalstudien; zugängliche Methoden, Ergebnisse und Grenzen gelesen.",
+            "result": "Gemischte und zeitabhängige Befunde stützen den allgemeinen Forschungsbezug; konkrete Reaktanz-Kausalität und unbenannte Nulleffektstudien nicht bestätigt.",
+            "sourceIds": [
+              "S096",
+              "S097",
+              "S098"
+            ]
+          }
+        ],
+        "missingInformation": "Die im Gespräch gemeinten Studien identifizieren; Reaktanz, Vertrauensverlust und politische Radikalisierung als unterschiedliche Messgrößen prüfen.",
+        "conflicts": null
       }
     },
     {
@@ -7404,17 +7817,25 @@
       "description": "Die Satirikerin Sarah Bosetti habe Ungeimpfte mit dem Blinddarm der Gesellschaft verglichen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – die Fernsehsendung selbst ist nicht zugänglich, und es wurden nur Berichte mit deutlicher eigener Tendenz gefunden, keine neutrale Quelle. Fehlende Bestätigung bedeutet nicht falsch.",
+      "reason": "Noch nicht geprüft – der historische ZDF-Link lieferte am 21.11.2026 HTTP 404. Ein öffentliches amtliches Schriftstück aus Mainz behandelt den Vergleich und seine rechtliche Einordnung, ersetzt aber ohne Datierung und vollständige Sachverhaltsdarstellung nicht den Originalkontext der Sendung. Insbesondere bleibt zu kontrollieren, ob die Äußerung alle Ungeimpften oder eine enger bestimmte politische Gruppe betrifft. Der fehlende Zugang wird nicht als Widerlegung oder abschließende Unbelegbarkeit bewertet.",
       "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Recherchefortschritt 21.11.2026 (Codex): Status bleibt Offen. Historischer Herausgeberabruf erfolglos; amtliche Einzelseite gelesen, aber Originalkontext weiterhin nicht verifiziert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S101",
+          "note": "Erfolgloser Abrufversuch – kein Sachbeleg: HTTP 404; Sendung nicht kontrolliert."
+        },
+        {
+          "sourceId": "S102",
+          "note": "Gelesener amtlicher Kontextbeleg, keine vollständige oder datierte Wiedergabe der Originalsendung."
+        }
+      ],
       "openQuestions": [
-        "Sendung (ZDF, Ende 2021) und den genauen Kontext der Äußerung prüfen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+        "Vollständige datierte ZDF-Folge vom 03.12.2021 oder belegbar identische Herausgeberfassung öffnen und Vergleichsziel im Zusammenhang kontrollieren."
       ],
       "occurrences": [
         {
@@ -7460,6 +7881,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Wissenssuche Bosetti und Kontrolle des vorhandenen Hinweises in Issue #112; historischer ZDF-Link direkt geöffnet, anschließend öffentliches amtliches Schriftstück gelesen.",
+            "sourceIds": [
+              "S101",
+              "S102"
+            ],
+            "result": "ZDF-Link nicht erreichbar; amtliche Seite liefert Kontext, aber keine ausreichende Verifikation von Wortbezug und vollständigem Sendungskontext."
+          }
+        ],
+        "missingInformation": "Zugängliche vollständige Herausgeberfassung und genaue Vergleichsgruppe.",
+        "conflicts": null
       }
     },
     {

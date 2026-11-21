@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text. [ChatGPT] 21.11.2026: Zwei zuvor offene Aussagen anhand externer Quellen geprüft; die erfasste Prüfabdeckung steigt, ohne dass dies eine Vollerfassung des Gesprächs bedeutet.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen. Nachrecherche 21.11.2026 (Codex): neun zuvor offene Punkte mit selbst gelesenen Quellen bewertet; Identifikations- und Definitionsgrenzen einzeln dokumentiert. Keine neue vollständige Hör-/Sichtkontrolle.
 
 ## bPXMY7Reeek-A0135
 
@@ -42,23 +42,33 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Fernsehsendung selbst ist nicht zugänglich, und es wurden nur Berichte mit deutlicher eigener Tendenz gefunden, keine neutrale Quelle. Fehlende Bestätigung bedeutet nicht falsch.
+Noch nicht geprüft – der historische ZDF-Link lieferte am 21.11.2026 HTTP 404. Ein öffentliches amtliches Schriftstück aus Mainz behandelt den Vergleich und seine rechtliche Einordnung, ersetzt aber ohne Datierung und vollständige Sachverhaltsdarstellung nicht den Originalkontext der Sendung. Insbesondere bleibt zu kontrollieren, ob die Äußerung alle Ungeimpften oder eine enger bestimmte politische Gruppe betrifft. Der fehlende Zugang wird nicht als Widerlegung oder abschließende Unbelegbarkeit bewertet.
 
 Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Recherchefortschritt 21.11.2026 (Codex): Status bleibt Offen. Historischer Herausgeberabruf erfolglos; amtliche Einzelseite gelesen, aber Originalkontext weiterhin nicht verifiziert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Bosetti will reden: Folge vom 03.12.2021, historischer Herausgeberlink](https://www.zdf.de/comedy/bosetti-will-reden/211203-bosetti-will-reden-100.html) · ZDF, historischer Folgenlink; ursprünglicher Beitrag am 21.11.2026 nicht zugänglich.
+  Quellenzugriff am 2026-11-21. Erfolgloser Abrufversuch – kein Sachbeleg: HTTP 404 am 21.11.2026. Kein Originalbeitrag, Originalton oder vollständiger satirischer Kontext gelesen bzw. gehört. Erfolgloser Abrufversuch – kein Sachbeleg: HTTP 404; Sendung nicht kontrolliert.
+
+- [Staatsanwaltschaft Mainz: Auszug einer Entscheidung zum Bosetti-Vergleich](https://media.frag-den-staat.de/files/foi/671553/sta-mainz-zu-zdf-volksverhetzung-s-4_geschwaerzt.pdf) · Staatsanwaltschaft Mainz, bei FragDenStaat öffentlich zugängliche geschwärzte Einzelseite; Entscheidungsdatum und vollständiges Aktenzeichen auf dieser Seite nicht feststellbar.
+  Quellenzugriff am 2026-11-21. Einseitiges amtliches Schriftstück im Web gelesen. Behandelt die strafrechtliche Einordnung eines Vergleichs; Datum und vorgelagerte Sachverhaltsdarstellung fehlen. Kein Ersatz für die vollständige Sendung und keine eigene abschließende Rechtsprüfung. Gelesener amtlicher Kontextbeleg, keine vollständige oder datierte Wiedergabe der Originalsendung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Sendung (ZDF, Ende 2021) und den genauen Kontext der Äußerung prüfen.
+- Vollständige datierte ZDF-Folge vom 03.12.2021 oder belegbar identische Herausgeberfassung öffnen und Vergleichsziel im Zusammenhang kontrollieren.
 
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
+
+Fehlende Information: Zugängliche vollständige Herausgeberfassung und genaue Vergleichsgruppe.
+
+- Durchgang 1 am 2026-11-21 (Codex): Wissenssuche Bosetti und Kontrolle des vorhandenen Hinweises in Issue #112; historischer ZDF-Link direkt geöffnet, anschließend öffentliches amtliches Schriftstück gelesen. Gepruefte Quellen: S101, S102. Ergebnis: ZDF-Link nicht erreichbar; amtliche Seite liefert Kontext, aber keine ausreichende Verifikation von Wortbezug und vollständigem Sendungskontext.
 
 ## bPXMY7Reeek-A0136
 
