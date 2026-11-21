@@ -1118,7 +1118,7 @@ async function pageVideo(id, focusClaim) {
         ${rhetPanel(v)}
         <div class="panel"><h3>Recherchegrundlage</h3><p>${esc(scope.researchNote)}</p></div>
         ${speakers ? `<div class="panel"><h3>Personen im Video</h3><ul>${speakers}</ul><p class="small" style="margin-top:8px">Sprecherzuordnungen werden je Fundstelle als bestätigt, plausibel oder ungeklärt angegeben. Es gibt bewusst keine Glaubwürdigkeitsnoten oder Ranglisten von Personen.</p></div>` : ''}
-        <div class="panel"><h3>Prüfung und Diskussion</h3><p>Erstellt von Codex. ChatGPT und Claude prüfen unabhängig; ihre Hinweise, Widersprüche und Codex’ Entscheidungen stehen öffentlich auf GitHub. Nicht jede Aussage ist bereits gegengeprüft.</p>
+        <div class="panel"><h3>Prüfung und Diskussion</h3><p>Bearbeitung und Gegenprüfung sind in den Berichten und bei den einzelnen Aussagen dokumentiert. Hinweise, Widersprüche und begründete Entscheidungen werden öffentlich auf GitHub festgehalten. Maßgeblich ist der jeweils ausgewiesene Prüfstand.</p>
           <p style="margin:0"><a href="${esc(repoUrl())}/issues?q=${encodeURIComponent(v.id)}" rel="noopener noreferrer" target="_blank">Diskussionen zu diesem Video →</a></p></div>
       </aside>
     </div>
