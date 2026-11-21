@@ -6,15 +6,15 @@ Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
 Stand: 2026-11-21 · Video: JPZ3yqVJR8c
 
-Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. In der anschließenden Originalquellenprüfung wurde Alfreds Einsatz am 03.02.2023 belegt und A0002 teilweise belegt abgeschlossen. Damit 101 abgeschlossene Tatsachenprüfungen, 38 Meinungen/Prognosen und eine offene Tatsachenprüfung (Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.
+Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. In der anschließenden Originalquellenprüfung wurde Alfreds Einsatz am 03.02.2023 belegt und A0002 teilweise belegt abgeschlossen. Damit 101 abgeschlossene Tatsachenprüfungen, 38 Meinungen/Prognosen und eine offene Tatsachenprüfung (Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik. [ChatGPT] 21.11.2026: A0052 auf Grundlage eines lesbaren SZ-Interviewauszugs in musikpädagogischer Fachpublikation abgeschlossen; Reichweite auf KI-Liedtexte begrenzt, kein Audio abgehört.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 140
-- Abgeschlossen: 139
-- Offen (noch nicht geprueft): 1
+- Abgeschlossen: 140
+- Offen (noch nicht geprueft): 0
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
 - Erfasste Behauptungsvorkommen: 142
@@ -30,17 +30,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 101 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 102 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 29 | 28.7 % |
-| Teilweise belegt | 39 | 38.6 % |
-| Irreführend / Kontext fehlt | 14 | 13.9 % |
-| Widerlegt | 3 | 3.0 % |
-| Nicht ausreichend belegbar | 16 | 15.8 % |
+| Belegt | 29 | 28.4 % |
+| Teilweise belegt | 40 | 39.2 % |
+| Irreführend / Kontext fehlt | 14 | 13.7 % |
+| Widerlegt | 3 | 2.9 % |
+| Nicht ausreichend belegbar | 16 | 15.7 % |
 | Meinung / Prognose | 38 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
