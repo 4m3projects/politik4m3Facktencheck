@@ -48,6 +48,10 @@ Veröffentlichungsvermerk, 20. November 2026: Teilprüfung auf ausdrücklichen N
 
 [Änderungen, verbleibende 19 Prüfaufträge und Abschlussgrenzen](NACHPRUEFUNG.md). Die ursprüngliche Fassung bleibt in der Git-Historie nachvollziehbar.
 
+## Ampelfreigabe am 21. November 2026
+
+Auf Nutzerauftrag als „Teilbestand geprüft“ freigegeben. Die Faktenampel wird damit nach der bestehenden Projektregel aus den bewerteten und dem Video zurechenbaren Aussagen berechnet. Noch nicht geprüfte Aussagen oder ungeklärte Übernahmen bleiben sichtbar, zählen nicht in den Faktenindex und senken die Prüfabdeckung. Die angezeigten 97 Prozent beziehen sich nur auf die erfassten relevanten Aussagen und belegen keine vollständige Bild- und Tonabdeckung. Die Freigabe ändert keine Einzelbewertung und behauptet keinen Gesamtabschluss.
+
 ## Nachrecherche am 21. November 2026
 
 17 weitere Sachprüfungen eingeordnet: zwei teilweise belegt, 15 nach zweiter Recherche nicht ausreichend belegbar. Diese 15 Ergebnisse bedeuten keine Widerlegung und keine Bestätigung privater Vorgänge. Fortsetzung am selben Tag: Eine Originalsendung vom 3. Februar 2023 stützt Alfreds ungefähre Nutzungsgeschichte; A0002 ist teilweise belegt abgeschlossen. Grönemeyers konkrete Äußerung bleibt offen. Die Darstellung ist weiterhin teilweise geprüft; eine vollständige Prüfung der gesamten Bild- und Tonebene ist nicht erfolgt.
