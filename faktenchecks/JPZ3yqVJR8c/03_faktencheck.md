@@ -2,7 +2,7 @@
 
 **Teilprüfung · 20. November 2026**
 
-Die Sachrecherche ist noch nicht abgeschlossen: 49 Tatsachenprüfungen tragen ein begründetes Ergebnis, 54 weitere bleiben ohne Endbewertung offen. 37 Inhalte sind als Meinungen oder Prognosen eingeordnet. Eine statistische Gesamtnote für das Video ist daraus nicht zulässig. Die Bewertung der erfassten Aussagen, die Sicherheit ihrer Zuordnung und die Reichweite der Bild-/Tonprüfung sind getrennte Fragen.
+Die Sachrecherche ist noch nicht abgeschlossen: 83 Tatsachenprüfungen tragen ein begründetes Ergebnis, 19 weitere bleiben ohne Endbewertung offen. 38 Inhalte sind als Meinungen oder Prognosen eingeordnet. Eine statistische Gesamtnote für das Video ist daraus nicht zulässig. Die Bewertung der erfassten Aussagen, die Sicherheit ihrer Zuordnung und die Reichweite der Bild-/Tonprüfung sind getrennte Fragen.
 
 ## Wichtigste Befunde
 
@@ -19,9 +19,9 @@ Diese Befunde sind eigene Bewertungen einzelner Prüfgegenstände, keine pauscha
 ## Nächste notwendige Prüfungen
 
 1. Die relevanten Zahlen und Sprecherwechsel am tatsächlich zugänglichen Originalton prüfen; weitere Grafiken über die gesamte Laufzeit mit ihren Quellen abgleichen. Podcastausschnitte gegebenenfalls mit der vollständigen Herausgeberfassung vergleichen.
-2. Die historischen METR-Messpunkte samt Benchmarkversion, die McKinsey-Werte 41 und vier Prozent, den 2026-Wert von 570 TWh mit eindeutigen Originalreihen belegen.
-3. Die 71-Prozent-Angabe und den Nvidia-Marktanteil nach Einheit, Markt und Datum abgrenzen. Aussagen über Speicherklassen, CPU-Grenzen, kulturelle Weitergabe und Arbeitszeitgeschichte anhand fachlicher Primärquellen überprüfen.
-4. Für die Netflix-/Synchronsprecherfrage die konkrete Vertragsfassung und Originalstellungnahmen lesen; rechtliche Voraussetzungen und Haftungsfolgen getrennt prüfen.
+2. Die verbleibenden persönlichen Automatisierungsbehauptungen mit freiwillig zugänglichen datierten Projektprotokollen und konkreten Demonstrationen abgleichen.
+3. Den im Beitrag gemeinten Grönemeyer-Ausschnitt und die behaupteten Auswirkungen auf Mathematiker anhand konkreter Originaläußerungen und geeigneter Erhebungen identifizieren.
+4. Die unbestimmte historische Leistungsgrenzenbehauptung präzisieren und die private Rechnererinnerung nur anhand datierter Angaben zum tatsächlichen Gerät prüfen.
 5. Persönliche Automationsabläufe, Kanalhistorie und finanzielle Angaben nur mit freiwillig zugänglichen, ausreichend datierten Belegen abschließen. Öffentliche Selbstberichte sind kein unabhängiger Zahlungsnachweis.
 
 Die offenen Punkte sind konkrete Rechercheaufträge, kein Urteil der Unwahrheit. Es wurde kein offener Inhalt allein wegen fehlender Bestätigung als widerlegt oder nicht ausreichend belegbar abgeschlossen.
@@ -48,8 +48,12 @@ Die offenen Punkte sind konkrete Rechercheaufträge, kein Urteil der Unwahrheit.
 
 Die [Einzelberichte](strukturiert/README.md) ordnen Belege direkt zu. Institution, Datum, URL, Abrufdatum und tatsächliche Zugriffsgrundlage stehen bei jeder Quelle im [zentralen Datensatz](strukturiert/aussagen.json). Es wurden nur die dort beschriebenen Abschnitte gelesen; nicht sämtliche Originalstudien, Beweise oder Rohdatensätze eigenständig repliziert. Unternehmensmitteilungen sind als Selbstauskunft behandelt.
 
-Die Veröffentlichung dieser ausdrücklich als Teilprüfung gekennzeichneten Fassung im Repository und ihre Übertragung nach main wurden am 20. November 2026 ausdrücklich beauftragt. Der Auftrag ändert weder die 54 offenen Sachprüfungen noch die dokumentierten Grenzen der Bild- und Tonprüfung. Technische Prüfungen werden vor Abschluss ausgeführt; sie ersetzen keine abschließende inhaltliche oder rechtliche Prüfung.
+Die Veröffentlichung dieser ausdrücklich als Teilprüfung gekennzeichneten Fassung im Repository und ihre Übertragung nach main wurden am 20. November 2026 ausdrücklich beauftragt. Der aktuelle Stand enthält 19 offene Sachprüfungen; die Grenzen der Bild- und Tonprüfung bestehen fort. Technische Prüfungen werden vor Abschluss ausgeführt; sie ersetzen keine abschließende inhaltliche oder rechtliche Prüfung.
 
 Aktualisierungsvermerk, 20. November 2026: Drei zuvor offene Sachprüfungen mit neuen Primärquellen abgeschlossen; Versionsunsicherheit der GPT-5-Zahl weiter konkretisiert.
 
 Veröffentlichungsvermerk, 20. November 2026: Teilprüfung auf ausdrücklichen Nutzerauftrag für die Veröffentlichung auf main vorbereitet. Kurzbegründungen, Kennzeichnung zitierter Personen und Website-Angaben an die aktuellen Projektregeln angepasst; Sachbewertungen unverändert.
+
+## Nachprüfung vom 20. November 2026
+
+35 weitere Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine Meinung. Die 41-zu-vier-Prozent-Reihe stammt von Bitkom, der Stromwert von Gartner; 71 Prozent beziehen sich auf geschätzte KI-Rechenkapazität. Eine zusätzliche Bildstichprobe bei 31:07 und die öffentlichen Kanal- und Finanzübersichten wurden kontrolliert. Kein Originalton wurde gehört. [Vollständiges Änderungsprotokoll und verbleibende Aufgaben](NACHPRUEFUNG.md).

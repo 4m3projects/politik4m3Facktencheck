@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
 
-Teilprüfung mit abgeschlossenen Sachbefunden und konkret offenen Prüfaufträgen. Persönliche Abläufe, Zahlungsangaben, einzelne historische Zahlen, Marktanteile, Speichertechnik und Vertragsfälle sind nicht abschließend recherchiert. Quellen tatsächlich geöffnet, Zugriffsgrenzen dokumentiert; Unternehmensangaben bleiben Selbstauskünfte. Keine Gesamtvideonote und keine bestätigte Personenstatistik.
+Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0017
 
@@ -52,7 +52,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Aufgabenbeispiele reichten von einfachen Dateifragen bis zu aufwendigeren Programmier- und Simulationsproblemen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -71,21 +71,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Aufgabengruppen sind plausibel, aber die genannten Einzelaufgaben und Sekundenwerte wurden nicht mit dem vollständigen Aufgabenkatalog abgeglichen.
+Die im Beitrag angeführte Spannweite stimmt mit METRs Beispieltabelle überein: einfache Dateierkennung, kurze Informationssuche, Fehlersuche in einer Simulation und komplexere Programmieraufgaben. Die Zeiten sind menschliche Vergleichszeiten für konkrete Aufgaben. Daraus folgt keine Messung sämtlicher Berufe oder jeder Form von Komplexität.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Aufgabengruppen sind plausibel, aber die genannten Einzelaufgaben und Sekundenwerte wurden nicht mit dem vollständigen Aufgabenkatalog abgeglichen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Measuring AI Ability to Complete Long Tasks](https://arxiv.org/html/2503.14499v1) · Kwa et al. / METR; 18.03.2025, Fassung 1; Aufgabentabelle 1 und Methodik.
+  Quellenzugriff am 2026-11-20. Originaltext der Abschnitte zu Aufgabenbestand und Tabelle 1 gelesen; keine fremden Aufgabenformulierungen in die öffentliche Prüfung kopiert. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Benchmarkversion enthält die konkreten Aufgaben und Zeitwerte?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S060. Ergebnis: Die im Beitrag angeführte Spannweite stimmt mit METRs Beispieltabelle überein: einfache Dateierkennung, kurze Informationssuche, Fehlersuche in einer Simulation und komplexere Programmieraufgaben. Die Zeiten sind menschliche Vergleichszeiten für konkrete Aufgaben. Daraus folgt keine Messung sämtlicher Berufe oder jeder Form von Komplexität.
 
 ## JPZ3yqVJR8c-A0019
 
@@ -219,7 +226,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** GPT-5 habe im August 2025 einen Zeithorizont von annähernd dreieinhalb Stunden erreicht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -238,28 +245,31 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Der gelesene METR-Bericht zur ursprünglichen GPT-5-Evaluation nennt 2 h 17 min, nicht dreieinhalb Stunden. Die im Video möglicherweise verwendete spätere Version 1.1 konnte nicht aus der Ergebnisdatei gelesen werden. Da Neubewertungen möglich sind, lässt sich der Videowert noch nicht abschließend beurteilen.
+In METR-Horizon-v1.1 liegt der Punktwert für GPT-5 vom 7. August 2025 bei 203,0 Minuten, also rund drei Stunden 23 Minuten. Das entspricht der ungefähren Angabe im Beitrag. Der ursprüngliche Evaluationsbericht nannte 137 Minuten; unterschiedliche Benchmarkstände erklären die Abweichung. Der Punktwert ist kein garantierter Arbeitszeitraum: Er bezeichnet die geschätzte 50-Prozent-Erfolgsschwelle für das geprüfte Aufgabenspektrum und hat ein breites Unsicherheitsintervall.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Der gelesene METR-Bericht zur ursprünglichen GPT-5-Evaluation nennt 2 h 17 min, nicht dreieinhalb Stunden. Die im Video möglicherweise verwendete spätere Version 1.1 konnte nicht aus der Ergebnisdatei gelesen werden. Da Neubewertungen möglich sind, lässt sich der Videowert noch nicht abschließend beurteilen.
 
 ### Zugeordnete Quellen
 
-- [Task-Completion Time Horizons of Frontier AI Models](https://metr.org/time-horizons/) · METR; letzter Seitenstand 08.09.2026; Methodik und FAQ gelesen.
-  Quellenzugriff am 2026-11-20. Webseite geöffnet; die für den Prüfpunkt genannten Abschnitte gelesen. Methodik und Hinweis auf unterschiedliche Benchmarkversionen; kein geprüfter einzelner GPT-5-Datenpunkt.
+- [Time Horizon 1.1: Benchmark-Ergebnisdatei](https://metr.org/assets/benchmark_results_1_1.yaml) · METR; Benchmark METR-Horizon-v1.1; Datensatz gpt_5_2025_08_07_inspect, Release 07.08.2025.
+  Quellenzugriff am 2026-11-20. Erstabruf im Webwerkzeug nicht lesbar. Nachabruf 20.11.2026 per HTTP 200 erfolgreich; UTF-8-Byteinhalt im Arbeitsspeicher gelesen. p50-Schätzwert 203,012577 Minuten, Intervall 112,641357–405,551565 Minuten. Keine Rohdatei im Repository gespeichert. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 - [Details about METR’s evaluation of OpenAI GPT-5](https://metr.org/evaluations/gpt-5-report/) · METR; GPT-5-Evaluation im Sommer 2025; Bericht nennt 2 h 17 min mit Unsicherheitsintervall und abweichenden Auswertungsvarianten.
-  Quellenzugriff am 2026-11-20. Originalbericht nach sichtbarer Weiterleitung geöffnet; Abschnitte Time horizon measurement und Behandlung unzulässiger Aufgabenlösungen gelesen. Kein Nachweis der im Video tatsächlich verwendeten späteren Benchmarkversion. Gelesener ursprünglicher Evaluationsbericht; dessen Messstand darf nicht ungeprüft mit einer späteren Grafik gleichgesetzt werden.
-
-- [Time Horizon 1.1: Benchmark-Ergebnisdatei](https://metr.org/assets/benchmark_results_1_1.yaml) · METR; Ergebnisdatei über die offizielle Zeithorizontseite verlinkt; Dateistand mangels lesbaren Abrufs nicht geprüft.
-  Quellenzugriff am 2026-11-20. Erfolgloser Abrufversuch: Webwerkzeug meldete HTTP 400 beziehungsweise nicht unterstützten Inhaltstyp application/x-yaml. Dateiinhalt nicht gelesen. Der separate Originalbericht S036 konnte gelesen werden, ersetzt aber nicht diesen Versionsabgleich. Erfolgloser Abrufversuch – kein Sachbeleg. Der Inhalt der verlinkten YAML-Ergebnisdatei war im Webwerkzeug nicht lesbar.
+  Quellenzugriff am 2026-11-20. Originalbericht nach sichtbarer Weiterleitung geöffnet; Abschnitte Time horizon measurement und Behandlung unzulässiger Aufgabenlösungen gelesen. Kein Nachweis der im Video tatsächlich verwendeten späteren Benchmarkversion. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welcher konkrete GPT-5-Datenpunkt welcher Benchmarkversion ist in der Videografik gemeint, und wie unterscheidet er sich vom ursprünglichen Evaluationsbericht?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S037, S036. Ergebnis: In METR-Horizon-v1.1 liegt der Punktwert für GPT-5 vom 7. August 2025 bei 203,0 Minuten, also rund drei Stunden 23 Minuten. Das entspricht der ungefähren Angabe im Beitrag. Der ursprüngliche Evaluationsbericht nannte 137 Minuten; unterschiedliche Benchmarkstände erklären die Abweichung. Der Punktwert ist kein garantierter Arbeitszeitraum: Er bezeichnet die geschätzte 50-Prozent-Erfolgsschwelle für das geprüfte Aufgabenspektrum und hat ein breites Unsicherheitsintervall.
 
 ## JPZ3yqVJR8c-A0023
 
@@ -434,7 +444,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Alfred habe bereits mehr als 1.000 Abonnenten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -453,21 +463,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Historischer Kanalstand zum Aufnahmezeitpunkt nicht unabhängig geprüft; heutige Zähler wären dafür kein ausreichender Nachweis.
+Am Veröffentlichungstag zeigt der öffentlich zugeordnete Kanal 2.750 Abonnenten. Die Schwelle von 1.000 ist damit zum Abrufzeitpunkt überschritten. Der genaue Aufnahmezeitpunkt und sein damaliger Stand sind nicht unabhängig dokumentiert; die aktuelle Anzeige kann diesen früheren Stand nicht beweisen.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Historischer Kanalstand zum Aufnahmezeitpunkt nicht unabhängig geprüft; heutige Zähler wären dafür kein ausreichender Nachweis.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Alfred räumt auf: öffentlicher YouTube-Kanal](https://www.youtube.com/@alfredraeumtauf) · Alfred räumt auf; Kanalstand 20.11.2026; gerundete öffentliche Anzeige, keine internen Kanalstatistiken.
+  Quellenzugriff am 2026-11-20. Kanal im öffentlichen Browser geöffnet: 2.750 Abonnenten, sieben sichtbare Videos; ältestes sichtbares Einführungsvideo acht Tage zuvor. Die Kanalidentität ist in der Originalbeschreibung verlinkt. Kein Medien- oder Untertiteldownload. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welcher verifizierbare Kanalstand lag bei Aufnahme vor?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S071. Ergebnis: Am Veröffentlichungstag zeigt der öffentlich zugeordnete Kanal 2.750 Abonnenten. Die Schwelle von 1.000 ist damit zum Abrufzeitpunkt überschritten. Der genaue Aufnahmezeitpunkt und sein damaliger Stand sind nicht unabhängig dokumentiert; die aktuelle Anzeige kann diesen früheren Stand nicht beweisen.
 
 ## JPZ3yqVJR8c-A0028
 

@@ -1,8 +1,8 @@
 # Kapitel 12: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
 
-Teilprüfung mit abgeschlossenen Sachbefunden und konkret offenen Prüfaufträgen. Persönliche Abläufe, Zahlungsangaben, einzelne historische Zahlen, Marktanteile, Speichertechnik und Vertragsfälle sind nicht abschließend recherchiert. Quellen tatsächlich geöffnet, Zugriffsgrenzen dokumentiert; Unternehmensangaben bleiben Selbstauskünfte. Keine Gesamtvideonote und keine bestätigte Personenstatistik.
+Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0129
 
@@ -105,7 +105,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Zwei führende Kleinstspender hätten Jahressummen von 166 und 153 Euro erreicht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -124,21 +124,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Beide Summen als getrennt nachzuprüfende Unterbehauptungen geführt; keine privaten Namen oder Zahlungsnachrichten übernommen.
+Die öffentliche Finanzübersicht des Kanals weist mit Datenstand 19. November 2026 dieselben beiden führenden Summen für exakte Ein-Euro-Zahlungen aus: 166 und 153 Euro. Das bestätigt die Übereinstimmung mit der veröffentlichten Jahresübersicht. Diese ist eine Selbstauskunft des Empfängers, kein unabhängig kontrollierter Nachweis tatsächlicher Buchungen. Personenkennungen werden hier nicht wiedergegeben.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Beide Summen als getrennt nachzuprüfende Unterbehauptungen geführt; keine privaten Namen oder Zahlungsnachrichten übernommen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [SinansWoche: Support & Einnahmen](https://finanzen.sinanswoche.de/) · Sinan Kurtulus / SinansWoche; öffentlicher Datenstand 19.11.2026, Kalenderjahr 2026; Selbstauskunft des Zahlungsempfängers.
+  Quellenzugriff am 2026-11-20. Am 20.11.2026 im öffentlichen Browser gelesen: Ranglisten für Gesamtbetrag und exakte Ein-Euro-Zahlungen. Keine Zahlungsdienstleister- oder Kontobelege eingesehen. Vorangegangener Zugriff über das Webwerkzeug scheiterte; Browserzugriff erfolgreich. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Sind die Summen 166 und 153 Euro anhand der datierten Jahresauswertung nachvollziehbar?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S059. Ergebnis: Die öffentliche Finanzübersicht des Kanals weist mit Datenstand 19. November 2026 dieselben beiden führenden Summen für exakte Ein-Euro-Zahlungen aus: 166 und 153 Euro. Das bestätigt die Übereinstimmung mit der veröffentlichten Jahresübersicht. Diese ist eine Selbstauskunft des Empfängers, kein unabhängig kontrollierter Nachweis tatsächlicher Buchungen. Personenkennungen werden hier nicht wiedergegeben.
 
 ## JPZ3yqVJR8c-A0132
 
@@ -146,7 +153,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine weitere Person habe im laufenden Jahr 610 Euro in 38 Zahlungen beigetragen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -165,21 +172,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Zwei Unterbehauptungen, Gesamtsumme und Anzahl; die private Kontoführung wurde nicht geprüft.
+Die öffentliche Finanzübersicht des Kanals nennt für einen Eintrag 610 Euro aus 38 Zahlungen im Kalenderjahr 2026, Stand 19. November. Der Zahlenvergleich passt. Die Übersicht legt keine unabhängig geprüften Einzelbuchungen vor; der Vorgang ist nur als veröffentlichte Selbstauskunft bestätigt.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Zwei Unterbehauptungen, Gesamtsumme und Anzahl; die private Kontoführung wurde nicht geprüft.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [SinansWoche: Support & Einnahmen](https://finanzen.sinanswoche.de/) · Sinan Kurtulus / SinansWoche; öffentlicher Datenstand 19.11.2026, Kalenderjahr 2026; Selbstauskunft des Zahlungsempfängers.
+  Quellenzugriff am 2026-11-20. Am 20.11.2026 im öffentlichen Browser gelesen: Ranglisten für Gesamtbetrag und exakte Ein-Euro-Zahlungen. Keine Zahlungsdienstleister- oder Kontobelege eingesehen. Vorangegangener Zugriff über das Webwerkzeug scheiterte; Browserzugriff erfolgreich. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Stimmen die Jahressumme von 610 Euro und die Anzahl von 38 Zahlungen überein?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S059. Ergebnis: Die öffentliche Finanzübersicht des Kanals nennt für einen Eintrag 610 Euro aus 38 Zahlungen im Kalenderjahr 2026, Stand 19. November. Der Zahlenvergleich passt. Die Übersicht legt keine unabhängig geprüften Einzelbuchungen vor; der Vorgang ist nur als veröffentlichte Selbstauskunft bestätigt.
 
 ## JPZ3yqVJR8c-A0133
 

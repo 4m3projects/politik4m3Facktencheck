@@ -12,6 +12,8 @@ Rebound dient als Erklärung für wachsende Nachfrage. Danach vergleicht der Bei
 
 ## Fazit und offene Punkte
 
-Rebound ist keine allgemeine Aufhebung jeder Einsparung. Umweltabkommen sind reale Präzedenzfälle, aber weder Erfolg noch Scheitern einer KI-Regulierung folgen automatisch aus ihnen. Arbeitszeitgeschichte und Firmenmotive bleiben offen. 8 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
+Rebound ist keine allgemeine Aufhebung jeder Einsparung. Historische Daten zeigen deutliche Arbeitszeitverkürzungen und zugleich höhere Produktion. Öffentliche Überlegungen zu einer KI-Pause sind dokumentiert; Firmenmotive und pauschale menschliche Leistungsgrenzen bleiben getrennte, offene Fragen. Eine führende Tatsachenprüfung dieses Kapitels ist offen; die konkrete Frage steht im verlinkten Bericht.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
+
+Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.

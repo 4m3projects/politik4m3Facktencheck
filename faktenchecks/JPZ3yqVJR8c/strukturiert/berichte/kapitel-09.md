@@ -1,8 +1,8 @@
 # Kapitel 09: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
 
-Teilprüfung mit abgeschlossenen Sachbefunden und konkret offenen Prüfaufträgen. Persönliche Abläufe, Zahlungsangaben, einzelne historische Zahlen, Marktanteile, Speichertechnik und Vertragsfälle sind nicht abschließend recherchiert. Quellen tatsächlich geöffnet, Zugriffsgrenzen dokumentiert; Unternehmensangaben bleiben Selbstauskünfte. Keine Gesamtvideonote und keine bestätigte Personenstatistik.
+Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0093
 
@@ -94,7 +94,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die reale Verdopplungszeit habe letztlich ungefähr drei Jahre betragen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -113,22 +113,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Ohne benannten Zeitraum, Chiptyp und Messgröße ist diese alternative historische Rate nicht eindeutig prüfbar.
+Eine einheitliche historische Verdopplungszeit von drei Jahren lässt sich aus den Herstellerdaten nicht ableiten. Zwischen Intels 4004 von 1971 mit 2.300 Transistoren und dem Core i7 von 2010 mit 1,16 Milliarden ergeben die Endpunkte rechnerisch ungefähr 2,1 Jahre je Verdopplung. Das ist kein vollständiger Trendfit und berücksichtigt unterschiedliche Chipflächen nicht. Jüngere Fertigungsschritte können langsamer verlaufen; dafür müssten Zeitraum und Messgröße separat benannt werden.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Irreführend / Kontext fehlt. Frühere Arbeitsbegründung: Noch nicht geprüft – Ohne benannten Zeitraum, Chiptyp und Messgröße ist diese alternative historische Rate nicht eindeutig prüfbar.
 
 ### Zugeordnete Quellen
 
-- [Moore’s Law](https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.htm) · Intel; 18.09.2023; historische Darstellung und Einordnung als empirische Regel.
-  Quellenzugriff am 2026-11-20. Webseite geöffnet; die für den Prüfpunkt genannten Abschnitte gelesen. Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis.
+- [Transistors to Transformations](https://www.intel.com.tw/content/dam/www/public/us/en/documents/corporate-information/museum-transistors-to-transformations-brochure.pdf) · Intel; Museum-Broschüre mit Produktdaten 1971–2011 und 22-nm-Einführung 2012; Herstellerdokument.
+  Quellenzugriff am 2026-11-20. Historische Produkttabelle gelesen; 4004 mit 2.300 Transistoren (1971), Core i7 mit 1,16 Milliarden (2010). Keine Hochrechnung auf alle Produktklassen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Chipreihe, Zeitspanne und Regressionsmethode ergeben drei Jahre?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S070. Ergebnis: Eine einheitliche historische Verdopplungszeit von drei Jahren lässt sich aus den Herstellerdaten nicht ableiten. Zwischen Intels 4004 von 1971 mit 2.300 Transistoren und dem Core i7 von 2010 mit 1,16 Milliarden ergeben die Endpunkte rechnerisch ungefähr 2,1 Jahre je Verdopplung. Das ist kein vollständiger Trendfit und berücksichtigt unterschiedliche Chipflächen nicht. Jüngere Fertigungsschritte können langsamer verlaufen; dafür müssten Zeitraum und Messgröße separat benannt werden.
 
 ## JPZ3yqVJR8c-A0096
 
@@ -261,7 +267,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Wärme- und Kühlungsprobleme begrenzten übliche CPU-Taktsteigerungen ungefähr auf vier bis sechs GHz.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -280,21 +286,31 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Wärme ist relevant, die genaue Verallgemeinerung und die vereinfachte Erklärung als mechanische Schwingungswärme wurden nicht technisch abgeglichen.
+Höherer Takt kann mehr elektrische Leistung und Wärme bedeuten; Kühlung und zulässige Leistungsaufnahme begrenzen praktische Taktraten. Vier bis sechs GHz ist eine brauchbare Größenordnung für viele Desktop-CPUs, aber keine feste physikalische Grenze: Intel spezifizierte bereits 2024 bis zu 6,2 GHz maximalen Turbo. Turbo einzelner Kerne ist vom dauerhaften Takt aller Kerne zu unterscheiden; mechanische Bewegung erklärt die Verlustleistung nicht.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Wärme ist relevant, die genaue Verallgemeinerung und die vereinfachte Erklärung als mechanische Schwingungswärme wurden nicht technisch abgeglichen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [CPU Speed: What Is CPU Clock Speed?](https://www.intel.com/content/www/us/en/gaming/resources/cpu-clock-speed.html) · Intel; Erläuterung zu Takt, Wärmeentwicklung, Turbo und Mehrkernbetrieb; Abrufstand 20.11.2026; Herstellerdarstellung.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
+
+- [Intel Core 14th Gen i9-14900KS Powers Desktop PCs to Record-Breaking Speeds](https://download.intel.com/newsroom/archive/2025/en-us-2024-03-14-intel-core-14th-gen-i914900ks-powers-desktop-pcs-to-recordbreaking-speeds.pdf) · Intel; 14.03.2024; Herstellerangaben zu maximalem Turbo und Leistungsaufnahme.
+  Quellenzugriff am 2026-11-20. Öffentliches Herstellerdokument im Webwerkzeug gelesen; keine Datei im Repository abgelegt. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Prozessoren, Leistungsaufnahme, Spannung und Betriebsbedingungen begründen den angegebenen Bereich?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S042, S043. Ergebnis: Höherer Takt kann mehr elektrische Leistung und Wärme bedeuten; Kühlung und zulässige Leistungsaufnahme begrenzen praktische Taktraten. Vier bis sechs GHz ist eine brauchbare Größenordnung für viele Desktop-CPUs, aber keine feste physikalische Grenze: Intel spezifizierte bereits 2024 bis zu 6,2 GHz maximalen Turbo. Turbo einzelner Kerne ist vom dauerhaften Takt aller Kerne zu unterscheiden; mechanische Bewegung erklärt die Verlustleistung nicht.
 
 ## JPZ3yqVJR8c-A0100
 
@@ -302,7 +318,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Mehrere Kerne und Threads hätten zusätzliche Leistung trotz begrenzter Einzeltakte ermöglicht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -321,21 +337,31 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Allgemeiner Technikbefund, dessen konkrete historische Entwicklung und Grenzen der Parallelisierung hier noch nicht anhand technischer Primärquellen überprüft wurden.
+Mehrere Kerne können parallelisierbare Arbeit gleichzeitig ausführen und dadurch mehr Gesamtdurchsatz erreichen, ohne den Einzeltakt entsprechend anzuheben. Das gilt nicht für jeden Programmteil: Serielle Arbeit, Kommunikation und Synchronisation begrenzen den Gewinn. Zusätzliche Hardwarethreads sind außerdem keine gleichwertigen zusätzlichen physischen Kerne.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Allgemeiner Technikbefund, dessen konkrete historische Entwicklung und Grenzen der Parallelisierung hier noch nicht anhand technischer Primärquellen überprüft wurden.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [The Effect of Communication and Synchronization on Amdahl Law in Multicore Systems](https://arxiv.org/abs/1306.3302) · Yavits, Morad und Ginosar; Preprint vom 14.06.2013.
+  Quellenzugriff am 2026-11-20. Originalabstract vollständig gelesen; keine Replikation der Messungen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
+
+- [CPU Speed: What Is CPU Clock Speed?](https://www.intel.com/content/www/us/en/gaming/resources/cpu-clock-speed.html) · Intel; Erläuterung zu Takt, Wärmeentwicklung, Turbo und Mehrkernbetrieb; Abrufstand 20.11.2026; Herstellerdarstellung.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Aufgaben profitieren und welche Grenzen setzt der nicht parallelisierbare Anteil?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S044, S042. Ergebnis: Mehrere Kerne können parallelisierbare Arbeit gleichzeitig ausführen und dadurch mehr Gesamtdurchsatz erreichen, ohne den Einzeltakt entsprechend anzuheben. Das gilt nicht für jeden Programmteil: Serielle Arbeit, Kommunikation und Synchronisation begrenzen den Gewinn. Zusätzliche Hardwarethreads sind außerdem keine gleichwertigen zusätzlichen physischen Kerne.
 
 ## JPZ3yqVJR8c-A0101
 
@@ -343,7 +369,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** DDR5, GDDR7 und gestapelter HBM-Speicher bildeten aufeinanderfolgende Antworten auf Datenengpässe.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -362,21 +388,31 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die Passage behandelt unterschiedliche Speicherklassen wie eine zeitliche Ablösungskette. Entstehung, Einsatzbereiche und parallele Verwendung müssen gesondert geprüft werden.
+DDR, GDDR und HBM lösen unterschiedliche Anforderungen an Kapazität, Kosten, Energie und Bandbreite. Sie sind keine lineare Folge, in der GDDR7 auf DDR5 und erst danach HBM folgt. HBM existierte laut Hersteller bereits 2013 und HBM3 war 2022 in Massenproduktion. Der Grundgedanke, Speicherbandbreite durch andere Schnittstellen und räumliche Nähe zu erhöhen, ist richtig.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Irreführend / Kontext fehlt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die Passage behandelt unterschiedliche Speicherklassen wie eine zeitliche Ablösungskette. Entstehung, Einsatzbereiche und parallele Verwendung müssen gesondert geprüft werden.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Which DDR SDRAM Memory to Use and When](https://www.synopsys.com/dw/doc.php/wp/which_DDR_SDRAM_memory_to_use_and_when_LI.pdf) · Vadhiraj Sankaranarayanan / Synopsys; Whitepaper; Datenstand vor breiter DDR5-Einführung; Architekturvergleich, nicht als aktuelle Marktübersicht verwendet.
+  Quellenzugriff am 2026-11-20. Abschnitte zu Standard-DDR, Grafik-DDR und HBM gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
+
+- [Meet the Engineers Leading the World’s First Mass-production of HBM3](https://news.skhynix.com/en/meet-the-engineers-leading-the-worlds-first-mass-production-of-hbm3/) · SK hynix; 22.06.2022; Herstellerdarstellung; HBM-Einführung 2013 und HBM3-Massenproduktion 2022.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Wann entstanden diese Standards und welche jeweils verschiedenen Einsatzbereiche bedienen sie?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S045, S046. Ergebnis: DDR, GDDR und HBM lösen unterschiedliche Anforderungen an Kapazität, Kosten, Energie und Bandbreite. Sie sind keine lineare Folge, in der GDDR7 auf DDR5 und erst danach HBM folgt. HBM existierte laut Hersteller bereits 2013 und HBM3 war 2022 in Massenproduktion. Der Grundgedanke, Speicherbandbreite durch andere Schnittstellen und räumliche Nähe zu erhöhen, ist richtig.
 
 ## JPZ3yqVJR8c-A0102
 
@@ -592,7 +628,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Synchronsprecher würden bei Netflix zu Klauseln für die Nutzung ihrer Stimmen zu Trainingszwecken aufgefordert.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -611,21 +647,31 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Keine konkrete Vertragsfassung, Produktionsfirma, betroffene Person oder verbindliche Originalstellungnahme in dieser Prüfung gelesen.
+Der VDS dokumentiert 2026 eine Netflix-AOR-Vertragsklausel zur Nutzung von Stimmaufnahmen für KI-Training. Auch der BFFS behandelt ausdrücklich die vertraglich geregelte Trainingsnutzung, bewertet deren Schutzwirkung aber günstiger als der VDS. Der enge Tatsachenkern ist daher belegt. Die Rechtmäßigkeit einzelner Klauseln, konkrete Einwilligungen und ein zwangsläufiger späterer Berufswegfall sind dadurch nicht entschieden.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Keine konkrete Vertragsfassung, Produktionsfirma, betroffene Person oder verbindliche Originalstellungnahme in dieser Prüfung gelesen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Rechtsgutachten: Netflix AI Training – Pressemeldung](https://www.sprecherverband.de/wp-content/uploads/2026/02/SL_02_06_2026_VDS_Netflix_AI_Training-Pressemeldung.pdf) · Verband Deutscher Sprecher:innen / Spirit Legal; 09.02.2026; Verbandsdarstellung eines beauftragten Gutachtens.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
+
+- [Information zu BFFS-Netflix-Verträgen zu Regeln für den Einsatz von KI](https://www.bffs.de/information-zu-bffs-netflix-vertraegen-zu-regeln-fuer-den-einsatz-von-ki/) · Bundesverband Schauspiel BFFS; laufend aktualisierte FAQ, Abruf 20.11.2026; beschreibt eine bis 31.12.2026 geltende Vereinbarung.
+  Quellenzugriff am 2026-11-20. FAQ zu KI-Training, Einwilligung, Vergütung und divergierenden Verbandspositionen gelesen; kein datierter Einzelvertrag eines konkreten Sprechers eingesehen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Originalklausel gilt für welche Produktion und welche konkrete Nutzung erlaubt sie?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S056, S057. Ergebnis: Der VDS dokumentiert 2026 eine Netflix-AOR-Vertragsklausel zur Nutzung von Stimmaufnahmen für KI-Training. Auch der BFFS behandelt ausdrücklich die vertraglich geregelte Trainingsnutzung, bewertet deren Schutzwirkung aber günstiger als der VDS. Der enge Tatsachenkern ist daher belegt. Die Rechtmäßigkeit einzelner Klauseln, konkrete Einwilligungen und ein zwangsläufiger späterer Berufswegfall sind dadurch nicht entschieden.
 
 ## JPZ3yqVJR8c-A0108
 
@@ -716,7 +762,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nur zusätzliche hochwertige Texte könnten weitere KI-Leistungssteigerungen ermöglichen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -735,21 +781,31 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Eine alleinige notwendige Ursache wird aus dem Beispiel nicht bewiesen. Alternative Lernverfahren, Rechenaufwand und Feedback sind gesondert zu untersuchen.
+Hochwertige Trainingsinformationen sind wichtig. Die Forschung zeigt aber auch Verbesserungen durch gefilterte synthetische Aufgaben und Verstärkungslernen; zusätzliche menschliche Texte sind keine allgemeine notwendige Bedingung jedes Leistungsgewinns. Der Beitrag relativiert seine zunächst sehr enge Formulierung später selbst durch die Erläuterung KI-geprüfter synthetischer Daten (A0112). Die Einzelstelle ist deshalb im Zusammenhang zu lesen, nicht als durchgängige Verneinung dieses Verfahrens.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Eine alleinige notwendige Ursache wird aus dem Beispiel nicht bewiesen. Alternative Lernverfahren, Rechenaufwand und Feedback sind gesondert zu untersuchen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://aclanthology.org/2023.acl-long.754/) · Wang et al.; ACL 2023; arXiv-Erstfassung 20.12.2022; DOI 10.18653/v1/2023.acl-long.754.
+  Quellenzugriff am 2026-11-20. Originalabstract bei ACL und arXiv gelesen; Generierung, Filterung und berichtete Aufgabenmessungen geprüft. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
+
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) · DeepSeek-AI et al.; Erstfassung 22.01.2025; Revision 04.01.2026; Nature 645, 633–638 (2025).
+  Quellenzugriff am 2026-11-20. Originalabstract gelesen; keine unabhängige Replikation der Entwicklerergebnisse. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Wie groß sind die Beiträge neuer Texte, verbesserter Algorithmen, Rückmeldungen und zusätzlicher Rechenleistung?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S048, S050. Ergebnis: Hochwertige Trainingsinformationen sind wichtig. Die Forschung zeigt aber auch Verbesserungen durch gefilterte synthetische Aufgaben und Verstärkungslernen; zusätzliche menschliche Texte sind keine allgemeine notwendige Bedingung jedes Leistungsgewinns. Der Beitrag relativiert seine zunächst sehr enge Formulierung später selbst durch die Erläuterung KI-geprüfter synthetischer Daten (A0112). Die Einzelstelle ist deshalb im Zusammenhang zu lesen, nicht als durchgängige Verneinung dieses Verfahrens.
 
 ## JPZ3yqVJR8c-A0111
 
@@ -799,7 +855,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** KI-generierte Trainingsinhalte könnten durch zusätzliche KI-Prüfer brauchbarer werden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -818,21 +874,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Ein mögliches Verfahren wird genannt; konkrete Studie, Auswahlkriterien und gemessene Verbesserungen fehlen im geprüften Belegbestand.
+Constitutional AI nutzt erzeugte Selbstkritik, Überarbeitung und modellgestützte Präferenzbewertung zur weiteren Modellanpassung. Damit ist ein konkretes Verfahren dokumentiert, das generierte Inhalte durch KI-Prüfung nutzbarer macht. Die Aussage gilt für die getesteten Ziele und Bedingungen; KI-Prüfer garantieren keine Wahrheit und verhindern Modellkollaps nicht allgemein.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Ein mögliches Verfahren wird genannt; konkrete Studie, Auswahlkriterien und gemessene Verbesserungen fehlen im geprüften Belegbestand.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Constitutional AI: Harmlessness from AI feedback](https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback) · Bai et al. / Anthropic; 15.12.2022; Forschungsabstract; Entwicklerbericht.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche kontrollierte Studie zeigt für das behauptete Prüfverfahren nachhaltige Verbesserungen?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S049. Ergebnis: Constitutional AI nutzt erzeugte Selbstkritik, Überarbeitung und modellgestützte Präferenzbewertung zur weiteren Modellanpassung. Damit ist ein konkretes Verfahren dokumentiert, das generierte Inhalte durch KI-Prüfung nutzbarer macht. Die Aussage gilt für die getesteten Ziele und Bedingungen; KI-Prüfer garantieren keine Wahrheit und verhindern Modellkollaps nicht allgemein.
 
 ## JPZ3yqVJR8c-A0113
 

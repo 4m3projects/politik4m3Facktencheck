@@ -12,6 +12,8 @@ Der Beitrag wechselt von der allgemeinen Debatte zu selbst berichteten Zahlungen
 
 ## Fazit und offene Punkte
 
-Einzelbeträge, Jahressummen, Zahlungsanzahlen und die Wochensumme sind als überprüfbare Unterbehauptungen erfasst, aber nicht durch gelesene Buchungsbelege bestätigt. Private Namen und Nachrichten bleiben außen vor. 5 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
+Zwei Jahressummen stimmen mit der öffentlichen Kanalübersicht überein. Das ist ein Zahlenvergleich mit einer Selbstauskunft, keine unabhängige Kontrolle von Buchungen. Einzelzahlungen, Zweckzuordnungen und die konkrete Wochensumme bleiben offen. 3 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
+
+Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.

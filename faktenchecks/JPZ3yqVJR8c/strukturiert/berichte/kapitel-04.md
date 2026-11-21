@@ -1,8 +1,8 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
 
-Teilprüfung mit abgeschlossenen Sachbefunden und konkret offenen Prüfaufträgen. Persönliche Abläufe, Zahlungsangaben, einzelne historische Zahlen, Marktanteile, Speichertechnik und Vertragsfälle sind nicht abschließend recherchiert. Quellen tatsächlich geöffnet, Zugriffsgrenzen dokumentiert; Unternehmensangaben bleiben Selbstauskünfte. Keine Gesamtvideonote und keine bestätigte Personenstatistik.
+Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0029
 
@@ -94,7 +94,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Kumulativer Wissenserwerb ermögliche Menschen eine fortlaufende Weiterentwicklung über Generationen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -113,21 +113,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die Grundidee wird als Erklärung herangezogen; Forschung zu kumulativer Kultur und ihrer Abgrenzung wurde hier noch nicht systematisch geprüft.
+Die Weitergabe und schrittweise Erweiterung kulturellen Wissens ist eine tragende Erklärung menschlicher technologischer Entwicklung. Die Studie untersucht kulturelle Komplexifizierung und Austausch zwischen Populationen. Das stützt das beschriebene Prinzip; es beweist weder einen stets linearen Fortschritt noch die menschliche Exklusivität aller Formen kumulativer Kultur.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die Grundidee wird als Erklärung herangezogen; Forschung zu kumulativer Kultur und ihrer Abgrenzung wurde hier noch nicht systematisch geprüft.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture](https://pubmed.ncbi.nlm.nih.gov/39571020/) · Gunasekaram et al.; Science 386, 920–925; online 21.11.2024; DOI 10.1126/science.adk3381.
+  Quellenzugriff am 2026-11-20. Originalabstract in PubMed vollständig gelesen. Volltext beim Science-Verlag nicht zugänglich (HTTP 403); keine Volltextprüfung behauptet. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Wie definiert die einschlägige Forschung kumulative Kultur und welche Vergleichsbefunde gibt es?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S039. Ergebnis: Die Weitergabe und schrittweise Erweiterung kulturellen Wissens ist eine tragende Erklärung menschlicher technologischer Entwicklung. Die Studie untersucht kulturelle Komplexifizierung und Austausch zwischen Populationen. Das stützt das beschriebene Prinzip; es beweist weder einen stets linearen Fortschritt noch die menschliche Exklusivität aller Formen kumulativer Kultur.
 
 ## JPZ3yqVJR8c-A0032
 
@@ -135,7 +142,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Schimpansen würden ihre Fähigkeiten generationenübergreifend kaum erweitern.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -154,21 +161,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Pauschaler Artvergleich ohne definierte Fähigkeit oder Zeitreihe; die Werkzeugstudie allein entscheidet diese Behauptung nicht.
+Der starke Unterschied zur menschlichen technischen Entwicklung ist plausibel. Die Studie findet aber Anzeichen schrittweiser kultureller Erweiterung auch bei Schimpansen, wenn Gruppen Wissen austauschen. Ein weitgehend unveränderliches Fähigkeitsniveau über Generationen ist daher zu pauschal. Die Forschung beschreibt frühe, begrenzte Formen kumulativer Kultur; eine menschliche Entwicklungsgeschwindigkeit folgt daraus nicht.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Pauschaler Artvergleich ohne definierte Fähigkeit oder Zeitreihe; die Werkzeugstudie allein entscheidet diese Behauptung nicht.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture](https://pubmed.ncbi.nlm.nih.gov/39571020/) · Gunasekaram et al.; Science 386, 920–925; online 21.11.2024; DOI 10.1126/science.adk3381.
+  Quellenzugriff am 2026-11-20. Originalabstract in PubMed vollständig gelesen. Volltext beim Science-Verlag nicht zugänglich (HTTP 403); keine Volltextprüfung behauptet. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Langzeitbefunde stützen oder relativieren die behauptete kulturelle Stagnation?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S039. Ergebnis: Der starke Unterschied zur menschlichen technischen Entwicklung ist plausibel. Die Studie findet aber Anzeichen schrittweiser kultureller Erweiterung auch bei Schimpansen, wenn Gruppen Wissen austauschen. Ein weitgehend unveränderliches Fähigkeitsniveau über Generationen ist daher zu pauschal. Die Forschung beschreibt frühe, begrenzte Formen kumulativer Kultur; eine menschliche Entwicklungsgeschwindigkeit folgt daraus nicht.
 
 ## JPZ3yqVJR8c-A0033
 

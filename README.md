@@ -20,7 +20,7 @@ Die Webseite ist der zentrale Zugang zu allen Videoanalysen, Aussagen, Quellen u
 
 ## Projektstand
 
-- [KI-Debatte bei SinansWoche](faktenchecks/JPZ3yqVJR8c/README.md) · veröffentlichte Teilprüfung mit 140 Prüfgegenständen: 49 abgeschlossene Sachprüfungen, 37 Meinungen/Prognosen und 54 offene Sachprüfungen; Darstellung teilweise geprüft.
+- [KI-Debatte bei SinansWoche](faktenchecks/JPZ3yqVJR8c/README.md) · veröffentlichte Teilprüfung mit 140 Prüfgegenständen: 83 abgeschlossene Sachprüfungen, 38 Meinungen/Prognosen und 19 offene Sachprüfungen; Darstellung teilweise geprüft.
 
 - [Proteste und Gewalt in Frankreich (MrWissen2go)](faktenchecks/nrnpcqzhd44/README.md) · 76 bearbeitete Prüfpunkte einschließlich des ergänzenden Bildabgleichs.
 - **Campertalk mit Sinan (SinansWoche) bei IT Camper:** 170 erfasste Aussagen; 104 abgeschlossen, 48 mit Grund nicht überprüfbar, 18 noch nicht geprüft.

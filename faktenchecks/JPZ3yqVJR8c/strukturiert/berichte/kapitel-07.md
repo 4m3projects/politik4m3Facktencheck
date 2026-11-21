@@ -1,8 +1,8 @@
 # Kapitel 07: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
 
-Teilprüfung mit abgeschlossenen Sachbefunden und konkret offenen Prüfaufträgen. Persönliche Abläufe, Zahlungsangaben, einzelne historische Zahlen, Marktanteile, Speichertechnik und Vertragsfälle sind nicht abschließend recherchiert. Quellen tatsächlich geöffnet, Zugriffsgrenzen dokumentiert; Unternehmensangaben bleiben Selbstauskünfte. Keine Gesamtvideonote und keine bestätigte Personenstatistik.
+Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0062
 
@@ -94,7 +94,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der weltweite Rechenzentrumsstrombedarf liege 2026 bei ungefähr 570 TWh.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -113,22 +113,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Für den laufenden Jahrgang ist das eine Schätzung. Die gelesene IEA-Aktualisierung nennt 485 TWh für 2025, aber der konkrete 570-TWh-Punkt wurde nicht verifiziert.
+Gartner prognostizierte im Juni 2026 weltweit 565 TWh für Rechenzentren. Die im Original bei 31:07 betrachtete Grafik nennt ebenfalls 565 TWh und kennzeichnet den Wert ausdrücklich als Prognose; die Untertitel geben ungefähr 570 wieder. Die gerundete Größenordnung und die Prognosekennzeichnung sind damit belegt. Ein gemessener Jahresendverbrauch ist das nicht; eine solche Gewissheit ist der betrachteten Grafik auch nicht zuzuschreiben.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Für den laufenden Jahrgang ist das eine Schätzung. Die gelesene IEA-Aktualisierung nennt 485 TWh für 2025, aber der konkrete 570-TWh-Punkt wurde nicht verifiziert.
 
 ### Zugeordnete Quellen
 
-- [Key Questions on Energy and AI: Executive summary](https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary) · IEA; 2026; aktualisierte Verbrauchsschätzungen und Engpässe.
-  Quellenzugriff am 2026-11-20. Webseite geöffnet; die für den Prüfpunkt genannten Abschnitte gelesen. Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis.
+- [Gartner Says Data Center Electricity Consumption to Grow 26% in 2026](https://www.gartner.com/en/newsroom/press-releases/2026-06-10-gartner-says-data-center-electricity-demand-to-grow-26-percent-in-2026) · Gartner; 10.06.2026; weltweite Prognose für 2026, keine abgeschlossene Jahresmessung.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Szenarioreihe mit welchem Veröffentlichungsstand nennt 570 TWh für 2026?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S052. Ergebnis: Gartner prognostizierte im Juni 2026 weltweit 565 TWh für Rechenzentren. Die im Original bei 31:07 betrachtete Grafik nennt ebenfalls 565 TWh und kennzeichnet den Wert ausdrücklich als Prognose; die Untertitel geben ungefähr 570 wieder. Die gerundete Größenordnung und die Prognosekennzeichnung sind damit belegt. Ein gemessener Jahresendverbrauch ist das nicht; eine solche Gewissheit ist der betrachteten Grafik auch nicht zuzuschreiben.
 
 ## JPZ3yqVJR8c-A0065
 
@@ -433,7 +439,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Gaskraftwerke stünden häufig unmittelbar neben Rechenzentren.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -452,22 +458,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die gelesenen Quellen bestätigen neue Vor-Ort-Projekte, aber keine definierte weltweite Häufigkeit der behaupteten räumlichen Nachbarschaft.
+Gasstrom ist eine bedeutende Versorgungsquelle, besonders in den USA. Die IEA unterscheidet jedoch Netzstrom und Erzeugung am Standort; global kamen 2024 ungefähr 26 Prozent der Versorgung aus Gas. Dieser Anteil sagt nichts darüber aus, wie oft ein Gaskraftwerk direkt neben einem Rechenzentrum steht. Die räumliche Häufigkeitsbehauptung wird durch die gelesene Quelle nicht gestützt.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die gelesenen Quellen bestätigen neue Vor-Ort-Projekte, aber keine definierte weltweite Häufigkeit der behaupteten räumlichen Nachbarschaft.
 
 ### Zugeordnete Quellen
 
-- [Key Questions on Energy and AI: Executive summary](https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary) · IEA; 2026; aktualisierte Verbrauchsschätzungen und Engpässe.
-  Quellenzugriff am 2026-11-20. Webseite geöffnet; die für den Prüfpunkt genannten Abschnitte gelesen. Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis.
+- [Energy supply for AI](https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai) · IEA; Energy and AI, 2025; globale und regionale physische Stromversorgung von Rechenzentren.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welcher Anteil welcher Rechenzentren wird tatsächlich von unmittelbar benachbarten Gaskraftwerken versorgt?
+- Welcher repräsentative Standortdatensatz quantifiziert direkt benachbarte Gaskraftwerke?
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S041. Ergebnis: Gasstrom ist eine bedeutende Versorgungsquelle, besonders in den USA. Die IEA unterscheidet jedoch Netzstrom und Erzeugung am Standort; global kamen 2024 ungefähr 26 Prozent der Versorgung aus Gas. Dieser Anteil sagt nichts darüber aus, wie oft ein Gaskraftwerk direkt neben einem Rechenzentrum steht. Die räumliche Häufigkeitsbehauptung wird durch die gelesene Quelle nicht gestützt.
 
 ## JPZ3yqVJR8c-A0073
 

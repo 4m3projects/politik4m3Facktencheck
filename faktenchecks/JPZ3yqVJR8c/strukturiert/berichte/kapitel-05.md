@@ -1,8 +1,8 @@
 # Kapitel 05: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
 
-Teilprüfung mit abgeschlossenen Sachbefunden und konkret offenen Prüfaufträgen. Persönliche Abläufe, Zahlungsangaben, einzelne historische Zahlen, Marktanteile, Speichertechnik und Vertragsfälle sind nicht abschließend recherchiert. Quellen tatsächlich geöffnet, Zugriffsgrenzen dokumentiert; Unternehmensangaben bleiben Selbstauskünfte. Keine Gesamtvideonote und keine bestätigte Personenstatistik.
+Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0036
 
@@ -55,7 +55,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Anteil der Unternehmen ohne Interesse an KI sei binnen zwei Jahren von 41 auf vier Prozent gesunken.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -74,22 +74,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die genaue Fragestellung und Bezugsgruppe dieser beiden Werte wurden in der gelesenen Erhebung nicht eindeutig identifiziert.
+Die Zahlen passen zur Bitkom-Erhebung: 2024 betraf die Antwort, KI sei kein Thema, 41 Prozent, 2026 vier Prozent. Befragt wurden Unternehmen in Deutschland ab 20 Beschäftigten, nicht alle Unternehmen weltweit. Im Textzusammenhang folgt die Angabe auf McKinsey; diese Zuordnung der Erhebungen ist ungenau. Die Antwortkategorie misst auch keine allgemeine Ablehnung von KI.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die genaue Fragestellung und Bezugsgruppe dieser beiden Werte wurden in der gelesenen Erhebung nicht eindeutig identifiziert.
 
 ### Zugeordnete Quellen
 
-- [The state of AI in 2025: Agents, innovation, and transformation](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-2025) · McKinsey / QuantumBlack; 05.11.2025; Befragung Juni/Juli 2025, 1.993 Teilnehmende.
-  Quellenzugriff am 2026-11-20. Webseite geöffnet; die für den Prüfpunkt genannten Abschnitte gelesen. Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis.
+- [Erstmals nutzt die Mehrheit der Unternehmen KI](https://www.bitkom.org/Presse/Presseinformation/Erstmals-nutzt-Mehrheit-Unternehmen-KI) · Bitkom; 14.09.2026; 603 Unternehmen ab 20 Beschäftigten in Deutschland; Telefonbefragung KW 28–33/2026.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Auf welche Grafik, Erhebungsjahre und Antwortkategorie beziehen sich 41 und vier Prozent?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S038. Ergebnis: Die Zahlen passen zur Bitkom-Erhebung: 2024 betraf die Antwort, KI sei kein Thema, 41 Prozent, 2026 vier Prozent. Befragt wurden Unternehmen in Deutschland ab 20 Beschäftigten, nicht alle Unternehmen weltweit. Im Textzusammenhang folgt die Angabe auf McKinsey; diese Zuordnung der Erhebungen ist ungenau. Die Antwortkategorie misst auch keine allgemeine Ablehnung von KI.
 
 ## JPZ3yqVJR8c-A0038
 
@@ -224,7 +230,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Dies entspreche fast einem Zehntel der Amazon-Verwaltung.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -243,25 +249,34 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die beiden Mitteilungen bestätigen die Größenordnung der Kürzungen, liefern aber keinen vollständig abgeglichenen Nenner für diese Verhältniszahl.
+Die Ankündigungen von 14.000 und 16.000 Rollen ergeben zusammen 30.000. Bei dem im Oktober 2025 von Le Monde genannten Corporate-Bestand von rund 350.000 wären das rechnerisch 8,6 Prozent, also ungefähr die bezeichnete Größenordnung. Der Nenner stammt aus Medienberichterstattung und ist kein exakt abgeglichener Bestand vor beiden Runden. Ankündigungen, tatsächliche Abgänge und Ersatzbesetzungen sind außerdem zu trennen.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die beiden Mitteilungen bestätigen die Größenordnung der Kürzungen, liefern aber keinen vollständig abgeglichenen Nenner für diese Verhältniszahl.
 
 ### Zugeordnete Quellen
 
 - [Staying nimble and continuing to strengthen our organizations](https://www.aboutamazon.com/news/company-news/amazon-workforce-reduction) · Amazon / Beth Galetti; 28.10.2025; Unternehmensselbstauskunft.
-  Quellenzugriff am 2026-11-20. Webseite geöffnet; die für den Prüfpunkt genannten Abschnitte gelesen. Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis.
+  Quellenzugriff am 2026-11-20. Webseite geöffnet; die für den Prüfpunkt genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 - [Update on our organization](https://www.aboutamazon.com/news/company-news/amazon-layoffs-corporate-jan-2026) · Amazon / Beth Galetti; 28.01.2026; Unternehmensselbstauskunft.
-  Quellenzugriff am 2026-11-20. Webseite geöffnet; die für den Prüfpunkt genannten Abschnitte gelesen. Belegt nur den in der Begründung beschriebenen Teilbefund; Einzelheiten und Zugriffsgrenzen im Quellenverzeichnis.
+  Quellenzugriff am 2026-11-20. Webseite geöffnet; die für den Prüfpunkt genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
+
+- [Is Amazon’s massive wave of layoffs the first of the AI era?](https://www.lemonde.fr/en/economy/article/2025/10/28/is-amazon-s-massive-wave-of-layoffs-the-first-of-the-ai-era_6746852_19.html) · Le Monde; 28.10.2025; zeitgenössischer Wirtschaftsbericht, keine eigene Personalvollerhebung.
+  Quellenzugriff am 2026-11-20. Öffentlich zugängliche Absätze zu rund 350.000 Corporate-Beschäftigten und damaligen Abbauplänen gelesen. Nicht mit dem Gesamtpersonalbestand oder einem verifizierten Januar-2026-Nenner gleichgesetzt. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Definition und welcher datierte Bestand der Corporate-Beschäftigung bilden den Nenner?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S012, S013, S072. Ergebnis: Die Ankündigungen von 14.000 und 16.000 Rollen ergeben zusammen 30.000. Bei dem im Oktober 2025 von Le Monde genannten Corporate-Bestand von rund 350.000 wären das rechnerisch 8,6 Prozent, also ungefähr die bezeichnete Größenordnung. Der Nenner stammt aus Medienberichterstattung und ist kein exakt abgeglichener Bestand vor beiden Runden. Ankündigungen, tatsächliche Abgänge und Ersatzbesetzungen sind außerdem zu trennen.
 
 ## JPZ3yqVJR8c-A0042
 

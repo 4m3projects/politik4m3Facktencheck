@@ -12,6 +12,8 @@ Umfragen und große Kürzungsrunden werden als Anzeichen für wirtschaftlichen U
 
 ## Fazit und offene Punkte
 
-Nutzung, geplante Kürzung und direkte KI-Ersetzung sind verschiedene Befunde. Für Amazon und Microsoft stimmen die Ankündigungszahlen; eine pauschale Kausalbehauptung folgt daraus nicht. 3 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
+Die Bitkom-Reihe und die Größenordnung des Amazon-Abbaus sind mit abgegrenzten Bezugsgrößen eingeordnet. Eine unmittelbare KI-Ursache folgt daraus nicht. Die konkrete Nutzung im befreundeten Unternehmen ist nicht unabhängig geprüft. Eine führende Tatsachenprüfung dieses Kapitels ist offen; die konkrete Frage steht im verlinkten Bericht.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
+
+Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.

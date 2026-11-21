@@ -12,6 +12,8 @@ Tierischer Werkzeuggebrauch und menschliche Wissensweitergabe dienen als Verglei
 
 ## Fazit und offene Punkte
 
-Zusammengesetzte Krähenwerkzeuge sind dokumentiert. Codeanteile eines Unternehmens messen nicht den Anteil autonomer Forschung; kulturelle Artvergleiche bleiben offen. 3 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
+Kumulative kulturelle Weitergabe ist ein belastbares Konzept; begrenzte Formen sind auch bei Schimpansen dokumentiert. Öffentlich geschilderte Entwicklungstrends bestätigen keine privaten Qualitätsgewinne durch eigene Prüfagenten. Eine führende Tatsachenprüfung dieses Kapitels ist offen; die konkrete Frage steht im verlinkten Bericht.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
+
+Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.

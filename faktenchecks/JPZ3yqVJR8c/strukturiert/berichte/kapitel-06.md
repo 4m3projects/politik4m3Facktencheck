@@ -1,8 +1,8 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
 
-Teilprüfung mit abgeschlossenen Sachbefunden und konkret offenen Prüfaufträgen. Persönliche Abläufe, Zahlungsangaben, einzelne historische Zahlen, Marktanteile, Speichertechnik und Vertragsfälle sind nicht abschließend recherchiert. Quellen tatsächlich geöffnet, Zugriffsgrenzen dokumentiert; Unternehmensangaben bleiben Selbstauskünfte. Keine Gesamtvideonote und keine bestätigte Personenstatistik.
+Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0044
 
@@ -97,7 +97,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Viele Unternehmen planten derzeit keine Neueinstellungen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -116,21 +116,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Kein eindeutig datierter und abgegrenzter Einstellungsindikator wurde in der Passage benannt.
+Das ifo-Beschäftigungsbarometer berichtet im Oktober 2026 für Deutschland weiterhin überwiegend schwache Beschäftigungspläne und in Summe geplanten Stellenabbau. Das stützt die Beschreibung eines zurückhaltenden Einstellungsumfelds. Es misst aber geplante Beschäftigtenbestände, nicht ausdrücklich den Anteil von Unternehmen ohne jede Neueinstellung. Ersatzbesetzungen bleiben möglich; ein KI-Ursachennachweis ist diese Umfrage nicht.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Kein eindeutig datierter und abgegrenzter Einstellungsindikator wurde in der Passage benannt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [ifo Beschäftigungsbarometer](https://www.ifo.de/umfrage/ifo-beschaeftigungsbarometer) · ifo Institut; Ergebnis Oktober 2026; monatliche Angaben von etwa 9.500 Unternehmen zu ihren Beschäftigungsplänen für die nächsten drei Monate.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche repräsentative Erhebung, Region, Branche und Befragungszeit sind gemeint?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S058. Ergebnis: Das ifo-Beschäftigungsbarometer berichtet im Oktober 2026 für Deutschland weiterhin überwiegend schwache Beschäftigungspläne und in Summe geplanten Stellenabbau. Das stützt die Beschreibung eines zurückhaltenden Einstellungsumfelds. Es misst aber geplante Beschäftigtenbestände, nicht ausdrücklich den Anteil von Unternehmen ohne jede Neueinstellung. Ersatzbesetzungen bleiben möglich; ein KI-Ursachennachweis ist diese Umfrage nicht.
 
 ## JPZ3yqVJR8c-A0047
 
@@ -179,7 +186,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Für 90 bis 99 Prozent der Menschen bestehe praktisch kein Bedarf mehr an professionellen Kameras.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -198,21 +205,35 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Ungeklärte Prozentangabe ohne definierten Markt oder Erhebung; private Kamerakäufe und professionelle Fotodienstleistungen sind nicht gleichzusetzen.
+CIPA meldet 2025 rund sieben Millionen ausgelieferte Wechselobjektivkameras; das misst weder den Anteil aller Menschen mit Kamerabedarf noch speziell berufliche Nutzung. Eine ergänzende Bitkom-Erhebung nennt 65 Prozent der Smartphone-Nutzenden in Deutschland, die ihren Fotoapparat weitgehend oder vollständig ersetzt haben. Auch das ist ein anderer Nenner und kein Nachweis für 90 bis 99 Prozent ohne Bedarf an professionellen Kameras. Die konkrete Prozentbehauptung bleibt nach beiden Prüfwegen unzureichend belegt.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Ungeklärte Prozentangabe ohne definierten Markt oder Erhebung; private Kamerakäufe und professionelle Fotodienstleistungen sind nicht gleichzusetzen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [2026 Outlook on the Shipment by Product-Type Concerning Cameras and Related Goods](https://www.cipa.jp/documents/e/PRESSRELEASE20260226_e.pdf) · Camera & Imaging Products Association CIPA; 26.02.2026; Mitgliedermeldungen zu Auslieferungen 2025 und Ausblick 2026.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
+
+- [Wecker, Kamera, Navi – was das Smartphone heute alles ersetzt](https://www.bitkom.org/print/pdf/node/25110) · Bitkom; 29.08.2025; 1.004 Befragte ab 16 Jahren in Deutschland, darunter 827 Smartphone-Nutzende.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche repräsentativen Nachfragezahlen stützen die Prozentangabe?
+- Welche repräsentative Bedarfserhebung definiert professionelle Kameras und beziffert den Anteil im behaupteten Bezugsraum?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Hoch.
+
+Fehlende Information: Eine repräsentative Bedarfserhebung mit Definition professioneller Kameras, Bezugsland und passendem Nenner.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach Wissenssuche zunächst branchenseitige Auslieferungszahlen bei CIPA geprüft. Gepruefte Quellen: S063. Ergebnis: Verkäufe und Produktarten sind dokumentiert, aber kein Bevölkerungsanteil ohne Bedarf.
+
+- Durchgang 2 am 2026-11-20 (Codex): Zweiter Prüfweg über eine repräsentative Verbraucherbefragung zur Verdrängung von Fotoapparaten durch Smartphones bei Bitkom. Gepruefte Quellen: S064. Ergebnis: 65 Prozent der Smartphone-Nutzenden in Deutschland berichten weitgehenden oder vollständigen Ersatz; der behauptete Anteil von 90 bis 99 Prozent für professionelle Kameras wird nicht gemessen.
 
 ## JPZ3yqVJR8c-A0049
 
@@ -426,7 +447,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Musikfachleute könnten Unterschiede noch besser erkennen als andere Hörer.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -445,21 +466,28 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Der gelesene Bericht liefert keinen belastbaren kontrollierten Expertenvergleich für diese Behauptung.
+Ein Hörerexperiment findet eine bessere Erkennung bei Teilnehmenden mit mehr als fünf Jahren praktischer Musikerfahrung sowie Vorkenntnissen zu KI-Musik. Formale Ausbildung zeigt keinen einfachen gleichgerichteten Zusammenhang. Das stützt einen begrenzten Erfahrungseffekt, aber nicht zuverlässig jede Berufsgruppe oder jedes aktuelle Musikmodell. Stichprobe, Liedpaare und Signalmerkmale begrenzen die Übertragbarkeit.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Der gelesene Bericht liefert keinen belastbaren kontrollierten Expertenvergleich für diese Behauptung.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Echoes of Humanity: Exploring the Perceived Humanness of AI Music](https://arxiv.org/html/2509.25601v1) · Figueiredo et al.; 29.09.2025; Preprint; 308 Teilnehmende, Hörerexperiment mit KI- und menschlicher Musik.
+  Quellenzugriff am 2026-11-20. Methodik, Stichprobe und Ergebnisse 4.1 einschließlich Kovariaten zu praktischer Erfahrung und formaler Ausbildung gelesen; kein allgemeiner Nachweis professioneller Überlegenheit. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Wie unterscheiden sich Erkennungsraten nach Expertise und Musikmaterial?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S065. Ergebnis: Ein Hörerexperiment findet eine bessere Erkennung bei Teilnehmenden mit mehr als fünf Jahren praktischer Musikerfahrung sowie Vorkenntnissen zu KI-Musik. Formale Ausbildung zeigt keinen einfachen gleichgerichteten Zusammenhang. Das stützt einen begrenzten Erfahrungseffekt, aber nicht zuverlässig jede Berufsgruppe oder jedes aktuelle Musikmodell. Stichprobe, Liedpaare und Signalmerkmale begrenzen die Übertragbarkeit.
 
 ## JPZ3yqVJR8c-A0055
 
@@ -549,7 +577,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Fehlende KI-Haftung sei nur im professionellen Markt ein wesentlicher Einwand.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -568,21 +596,31 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die Passage vermischt individuelles Kostenkalkül und Rechtsfolgen. Eine einschlägige Prüfung der konkreten Rechtsordnung und Leistungen steht aus.
+Haftung und Fehlerfolgen betreffen auch private Nutzende. Wer eine eigene Steuererklärung mit KI erstellt, bleibt für wahrheitsgemäße Angaben verantwortlich. Der BRAK-Leitfaden erläutert Fehler- und Haftungsrisiken auch bei öffentlich verfügbaren Sprachmodellen; bei anwaltlicher Unterstützung bleibt persönliche Kontrolle erforderlich. Dass jemand bei kleinen Anliegen trotzdem KI bevorzugt, ist eine Verhaltensvermutung, kein Beleg fehlender Relevanz des Risikos.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 20.11.2026 (Codex): zuvor Offen ohne Urteil; jetzt Irreführend / Kontext fehlt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die Passage vermischt individuelles Kostenkalkül und Rechtsfolgen. Eine einschlägige Prüfung der konkreten Rechtsordnung und Leistungen steht aus.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [§ 150 Abgabenordnung: Form und Inhalt der Steuererklärungen](https://www.gesetze-im-internet.de/ao_1977/__150.html) · Bundesministerium der Justiz / Bundesamt für Justiz; konsolidierte Fassung am 20.11.2026; insbesondere Absatz 2.
+  Quellenzugriff am 2026-11-20. Öffentliche Primärquelle geöffnet; die für die Bewertung genannten Abschnitte gelesen. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
+
+- [Hinweise zum Einsatz von künstlicher Intelligenz – KI-Leitfaden](https://www.brak.de/fileadmin/service/publikationen/Handlungshinweise/BRAK_Leitfaden_mit_Hinweisen_zum_KI-Einsatz_Stand_10_2026.pdf) · Dr. Frank Remmertz / Bundesrechtsanwaltskammer; Stand Oktober 2026.
+  Quellenzugriff am 2026-11-20. Abschnitte zu Fehlantworten, eigenverantwortlicher Kontrolle und Sorgfaltspflichten gelesen; allgemeine deutsche Rechtslage, keine Einzelrechtsberatung. Sachgrundlage der Nachrecherche; Umfang und Zugriffsgrenzen im Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Rechtsordnung, Zulassungspflichten, Beratungsleistung und Haftungskonstellation sind gemeint?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach gezielter Wissenssuche die Originalquelle mit dem Prüfgegenstand und dem Zeitbezug abgeglichen. Gepruefte Quellen: S066, S067. Ergebnis: Haftung und Fehlerfolgen betreffen auch private Nutzende. Wer eine eigene Steuererklärung mit KI erstellt, bleibt für wahrheitsgemäße Angaben verantwortlich. Der BRAK-Leitfaden erläutert Fehler- und Haftungsrisiken auch bei öffentlich verfügbaren Sprachmodellen; bei anwaltlicher Unterstützung bleibt persönliche Kontrolle erforderlich. Dass jemand bei kleinen Anliegen trotzdem KI bevorzugt, ist eine Verhaltensvermutung, kein Beleg fehlender Relevanz des Risikos.
 
 ## JPZ3yqVJR8c-A0058
 

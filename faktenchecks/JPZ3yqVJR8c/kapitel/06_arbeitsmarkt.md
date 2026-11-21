@@ -12,6 +12,8 @@ Der Beitrag erwägt Wegfall kreativer und beratender Tätigkeiten sowie ausbleib
 
 ## Fazit und offene Punkte
 
-Berufsprognosen bleiben Szenarien. Musiktests stützen Erkennungsprobleme in einer begrenzten Versuchsanordnung; konkrete Einstellungszahlen und Haftungsfragen sind offen. 5 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
+Beschäftigungspläne stützen ein zurückhaltendes Einstellungsumfeld. Berufliche Ersetzung bleibt eine Prognose. Die Kameraprozentzahl ist nach zwei unterschiedlichen Prüfwegen nicht ausreichend belegbar; Musikerfahrung kann begrenzte Erkennungsvorteile bieten. Private KI-Nutzung hebt Fehler- und Haftungsfolgen nicht auf. Eine führende Tatsachenprüfung dieses Kapitels ist offen; die konkrete Frage steht im verlinkten Bericht.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
+
+Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.

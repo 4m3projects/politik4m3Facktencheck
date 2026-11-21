@@ -12,6 +12,8 @@ Marktmacht, Einkommensverteilung und die Bedeutung menschlicher Fähigkeiten wer
 
 ## Fazit und offene Punkte
 
-Die 71-Prozent- und Nvidia-Angaben benötigen eindeutige Marktabgrenzungen. Die Mathematikveröffentlichung ist real, aber Modell, Zähleinheit und Verifikationsstand werden verkürzt dargestellt. 4 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
+Die 71-Prozent-Schätzung betrifft KI-Rechenkapazität, Nvidia-Anteile abgegrenzte Chipmärkte. Historisch breite Verbesserungen beantworten noch nicht die stärkere Frage nach einer Teilhabe aller; diese Stelle bleibt deshalb offen. Die Mathematikveröffentlichung ist real; Verifikationsstand und Auswirkungen auf konkrete Menschen sind zu trennen. 2 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
+
+Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.
