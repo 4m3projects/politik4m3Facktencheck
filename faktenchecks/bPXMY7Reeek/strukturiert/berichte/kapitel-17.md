@@ -1,8 +1,8 @@
 # Kapitel 17: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text. [ChatGPT] 21.11.2026: Zwei zuvor offene Aussagen anhand externer Quellen geprüft; die erfasste Prüfabdeckung steigt, ohne dass dies eine Vollerfassung des Gesprächs bedeutet.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen.
 
 ## bPXMY7Reeek-A0156
 
@@ -417,7 +417,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Corona habe in vielen Familien zu Konflikten und auch zu dauerhaften Brüchen geführt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -449,21 +449,31 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Umfragen oder Studien zu familiären Konflikten über Corona-Maßnahmen wurden noch nicht gelesen. Grundsätzlich mit Erhebungen prüfbar.
+Mehrere repräsentative bzw. themenspezifische Befragungen dokumentieren familiäre Spannungen und Kontaktabbrüche im Zusammenhang mit der Pandemie. Laut Infratest dimap (Januar 2025, 1323 Befragte) berichtete fast die Hälfte von ernsten Differenzen im Familien- oder Freundeskreis; jeder Vierte gab Kontaktabbrüche an, meist vorübergehend, also nicht ausschließlich. Die Pronova-BKK-Erhebung zu Elternfamilien dokumentiert zusätzliche Belastungen und Konflikte. Damit ist das Vorkommen solcher Konflikte und auch länger anhaltender Brüche plausibel belegt, jedoch keine Häufigkeit ausschließlich dauerhafter Familienabbrüche oder ein allgemeiner Kausalbeweis für jede Familie.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Nachrecherche 21.11.2026 (ChatGPT): ungefähre Fundstelle in der vollständigen deutschen automatischen Transkriptfassung nachgelesen und getrennt mit den bezeichneten öffentlich zugänglichen Erstquellen abgeglichen; Originalton nicht abgehört.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): grundsätzlich öffentlich prüfbar, aber noch nicht recherchiert; deshalb zurück auf Offen (Arbeitsauftrag), keine Bewertung.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): grundsätzlich öffentlich prüfbar, aber noch nicht recherchiert; deshalb zurück auf Offen (Arbeitsauftrag), keine Bewertung. Nachrecherche 21.11.2026 (ChatGPT): vorher Offen, jetzt Belegt; konkret benannte Primärquellen erneut gelesen und dokumentiert, Bewertung unter ausdrücklichem Vorbehalt der genannten Reichweite.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Studie zum Familienleben nach dem Corona-Modus](https://www.pronovabkk.de/unternehmen/presse/pressemitteilungen/pressemitteilungen-2021/studie-zum-familienleben-nach-dem-corona-modus-erleichterung-bei-eltern-und-kindern.html) · Pronova BKK, Pressemitteilung von 2021; Befragung von Eltern mit minderjährigen Kindern zum Familienleben und Konflikten in der Pandemie.
+  Quellenzugriff am 2026-11-21. Originalmitteilung der Pronova BKK am 21.11.2026 öffentlich gelesen, insbesondere Methodik und Ergebnisse zu familiären Belastungen/Konflikten. Selbstauskunft in einer Befragung, keine kausale Einzelfallprüfung. Direkte Familienbefragung: Belastungen und Konflikte unter Pandemiebedingungen; begrenzte Zielgruppe.
+
+- [5 Jahre Corona: Meinungsverschiedenheiten in Familien und im Freundeskreis](https://www.infratest-dimap.de/umfragen-analysen/bundesweit/umfragen/aktuell/5-jahre-corona-ernsthafte-meinungsverschiedenheiten-in-familien-und-im-freundeskreis/) · Infratest dimap / ARD-DeutschlandTrend; Befragung 06.–08.01.2025, 1323 wahlberechtigte Personen in Deutschland per Telefon- und Onlineerhebung.
+  Quellenzugriff am 2026-11-21. Originalveröffentlichung von Infratest dimap am 21.11.2026 vollständig im HTML gelesen: fast Hälfte mit ernsten Meinungsverschiedenheiten in Familie ODER Freundeskreis; jeder Vierte berichtet Kontaktabbrüche, überwiegend nur vorübergehend. Keine getrennten Familien-Dauerabbruchsquoten, daher genaue Reichweite begrenzt. DeutschlandTrend 2025, repräsentativ für Wahlberechtigte: ernste Meinungsunterschiede und Kontaktabbrüche in Familie oder Freundeskreis, meist zeitweilig.
 
 ### Offene Fragen und Unsicherheiten
 
-- Umfragen oder Studien zu familiären Konflikten über Corona-Maßnahmen in Deutschland prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-21 (ChatGPT): Gezielte GitHub-Code-Suche zur Vorarbeit und unabhängiger Abgleich der Original-Untertitelfundstelle mit den direkt geöffneten Originalquellen. Frühere KI-Bewertungen wurden nicht als Beleg benutzt. Gepruefte Quellen: S081, S082. Ergebnis: Die herangezogenen Originalquellen stützen den konkret abgegrenzten Sachkern der Behauptung; Reichweite, Sprecher- und Transkriptgrenzen sind in der Begründung genannt.
 
 ## bPXMY7Reeek-A0165
 

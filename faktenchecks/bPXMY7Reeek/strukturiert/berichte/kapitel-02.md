@@ -1,8 +1,8 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text. [ChatGPT] 21.11.2026: Zwei zuvor offene Aussagen anhand externer Quellen geprüft; die erfasste Prüfabdeckung steigt, ohne dass dies eine Vollerfassung des Gesprächs bedeutet.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen.
 
 ## bPXMY7Reeek-A0002
 
@@ -473,7 +473,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Sinan veröffentliche elektronische Musik unter dem Künstlernamen Tavengo, unter anderem auf Spotify.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -492,22 +492,30 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Selbstauskunft zum Künstlernamen; Streamingdienste sind aus der Prüfumgebung nicht geprüft worden. Fehlende Bestätigung bedeutet nicht falsch.
+Das offizielle Künstlerprofil des Musikvertriebs You Love Dance bezeichnet Tavengo als Künstlernamen von Sinan Kurtulus und listet elektronische Veröffentlichungen. Ein zusätzlicher Katalogeintrag von 2015 nennt Tavengo ausdrücklich als Projekt von Gimbal und Sinan und verlinkt den Song zu Spotify. Die im Gespräch genannte Künstlerzuordnung und Veröffentlichung elektronischer Musik ist daher belegt; die aktuelle Verfügbarkeit auf Spotify wurde nicht gesondert kontrolliert.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Nachrecherche 21.11.2026 (ChatGPT): ungefähre Fundstelle in der vollständigen deutschen automatischen Transkriptfassung nachgelesen und getrennt mit den bezeichneten öffentlich zugänglichen Erstquellen abgeglichen; Originalton nicht abgehört.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 21.11.2026 (ChatGPT): vorher Offen, jetzt Belegt; konkret benannte Primärquellen erneut gelesen und dokumentiert, Bewertung unter ausdrücklichem Vorbehalt der genannten Reichweite.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Tavengo – Künstlerbiografie](https://www.youlovedance.de/artist/tavengo/) · You Love Dance, offizielles Label-/Vertriebsprofil; nennt Tavengo als Künstlernamen von Sinan Kurtulus und zeigt veröffentlichte Songs sowie Spotify-Zugang. Veröffentlichungsdatum der Profilseite nicht bekannt.
+  Quellenzugriff am 2026-11-21. Öffentliches Künstlerprofil im HTML am 21.11.2026 direkt gelesen: Biografie zur Künstleridentität, Album-/Singleliste und Spotify-Schaltfläche. Die aufgeführten Veröffentlichungen selbst nicht einzeln angehört. Musikvertrieb nennt den Künstlernamen, die Person und veröffentlichte elektronische Musik; kein Hörnachweis.
+
+- [Tavengo: Hoarrr (2015), Labelveröffentlichung](https://www.youlovedance.de/release/bbm111_-_tavengo_-_hoarrr/) · Big Blind Music / You Love Dance, Katalogeintrag von 2015, Bestellnummer BBM 111; Tavengo als Projekt von Gimbal und Sinan, Spotify-Link zur Aufnahme.
+  Quellenzugriff am 2026-11-21. Original-Katalogeintrag des Vertriebs am 21.11.2026 vollständig im HTML gelesen. Identität und veröffentlichte elektronische Musik mit Spotify-Verlinkung angegeben; Abrufbarkeit des externen Spotify-Tracks selbst nicht kontrolliert. Original-Release aus 2015 nennt Sinan, das Projekt Tavengo und eine Spotify-Verknüpfung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Existiert ein Spotify-Künstlerprofil Tavengo, und ist die Zuordnung zu Sinan öffentlich bestätigt?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-21 (ChatGPT): Gezielte GitHub-Code-Suche zur Vorarbeit und unabhängiger Abgleich der Original-Untertitelfundstelle mit den direkt geöffneten Originalquellen. Frühere KI-Bewertungen wurden nicht als Beleg benutzt. Gepruefte Quellen: S079, S080. Ergebnis: Die herangezogenen Originalquellen stützen den konkret abgegrenzten Sachkern der Behauptung; Reichweite, Sprecher- und Transkriptgrenzen sind in der Begründung genannt.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
