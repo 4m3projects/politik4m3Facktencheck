@@ -5,13 +5,13 @@
     "videoId": "bPXMY7Reeek",
     "videoUrl": "https://www.youtube.com/watch?v=bPXMY7Reeek",
     "durationSeconds": 11474,
-    "asOf": "2026-11-18",
+    "asOf": "2026-11-21",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet.",
-    "coverageNote": "Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text."
+    "researchNote": "Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen.",
+    "coverageNote": "Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text. [ChatGPT] 21.11.2026: Zwei zuvor offene Aussagen anhand externer Quellen geprüft; die erfasste Prüfabdeckung steigt, ohne dass dies eine Vollerfassung des Gesprächs bedeutet."
   },
   "legacyPoints": [],
   "sources": [
@@ -638,6 +638,38 @@
       "details": "Diehl und Hunkler, PLoS ONE 2022, DOI 10.1371/journal.pone.0263871; KiGGS-Daten 2003–2006; verweist auf stabiles Impfvertrauen in Deutschland 2015–2018 und steigende positive Einstellungen in BZgA-Befragungen 2012–2018. Keine Pandemiedaten. Nur teilweise im Wortlaut gelesen.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S079",
+      "title": "Tavengo – Künstlerbiografie",
+      "url": "https://www.youlovedance.de/artist/tavengo/",
+      "details": "You Love Dance, offizielles Label-/Vertriebsprofil; nennt Tavengo als Künstlernamen von Sinan Kurtulus und zeigt veröffentlichte Songs sowie Spotify-Zugang. Veröffentlichungsdatum der Profilseite nicht bekannt.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Öffentliches Künstlerprofil im HTML am 21.11.2026 direkt gelesen: Biografie zur Künstleridentität, Album-/Singleliste und Spotify-Schaltfläche. Die aufgeführten Veröffentlichungen selbst nicht einzeln angehört."
+    },
+    {
+      "id": "S080",
+      "title": "Tavengo: Hoarrr (2015), Labelveröffentlichung",
+      "url": "https://www.youlovedance.de/release/bbm111_-_tavengo_-_hoarrr/",
+      "details": "Big Blind Music / You Love Dance, Katalogeintrag von 2015, Bestellnummer BBM 111; Tavengo als Projekt von Gimbal und Sinan, Spotify-Link zur Aufnahme.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-Katalogeintrag des Vertriebs am 21.11.2026 vollständig im HTML gelesen. Identität und veröffentlichte elektronische Musik mit Spotify-Verlinkung angegeben; Abrufbarkeit des externen Spotify-Tracks selbst nicht kontrolliert."
+    },
+    {
+      "id": "S081",
+      "title": "Studie zum Familienleben nach dem Corona-Modus",
+      "url": "https://www.pronovabkk.de/unternehmen/presse/pressemitteilungen/pressemitteilungen-2021/studie-zum-familienleben-nach-dem-corona-modus-erleichterung-bei-eltern-und-kindern.html",
+      "details": "Pronova BKK, Pressemitteilung von 2021; Befragung von Eltern mit minderjährigen Kindern zum Familienleben und Konflikten in der Pandemie.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originalmitteilung der Pronova BKK am 21.11.2026 öffentlich gelesen, insbesondere Methodik und Ergebnisse zu familiären Belastungen/Konflikten. Selbstauskunft in einer Befragung, keine kausale Einzelfallprüfung."
+    },
+    {
+      "id": "S082",
+      "title": "5 Jahre Corona: Meinungsverschiedenheiten in Familien und im Freundeskreis",
+      "url": "https://www.infratest-dimap.de/umfragen-analysen/bundesweit/umfragen/aktuell/5-jahre-corona-ernsthafte-meinungsverschiedenheiten-in-familien-und-im-freundeskreis/",
+      "details": "Infratest dimap / ARD-DeutschlandTrend; Befragung 06.–08.01.2025, 1323 wahlberechtigte Personen in Deutschland per Telefon- und Onlineerhebung.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originalveröffentlichung von Infratest dimap am 21.11.2026 vollständig im HTML gelesen: fast Hälfte mit ernsten Meinungsverschiedenheiten in Familie ODER Freundeskreis; jeder Vierte berichtet Kontaktabbrüche, überwiegend nur vorübergehend. Keine getrennten Familien-Dauerabbruchsquoten, daher genaue Reichweite begrenzt."
     }
   ],
   "speakers": [
@@ -1189,20 +1221,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sinan veröffentliche elektronische Musik unter dem Künstlernamen Tavengo, unter anderem auf Spotify.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Selbstauskunft zum Künstlernamen; Streamingdienste sind aus der Prüfumgebung nicht geprüft worden. Fehlende Bestätigung bedeutet nicht falsch.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das offizielle Künstlerprofil des Musikvertriebs You Love Dance bezeichnet Tavengo als Künstlernamen von Sinan Kurtulus und listet elektronische Veröffentlichungen. Ein zusätzlicher Katalogeintrag von 2015 nennt Tavengo ausdrücklich als Projekt von Gimbal und Sinan und verlinkt den Song zu Spotify. Die im Gespräch genannte Künstlerzuordnung und Veröffentlichung elektronischer Musik ist daher belegt; die aktuelle Verfügbarkeit auf Spotify wurde nicht gesondert kontrolliert.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (ChatGPT): ungefähre Fundstelle in der vollständigen deutschen automatischen Transkriptfassung nachgelesen und getrennt mit den bezeichneten öffentlich zugänglichen Erstquellen abgeglichen; Originalton nicht abgehört.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 21.11.2026 (ChatGPT): vorher Offen, jetzt Belegt; konkret benannte Primärquellen erneut gelesen und dokumentiert, Bewertung unter ausdrücklichem Vorbehalt der genannten Reichweite."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Existiert ein Spotify-Künstlerprofil Tavengo, und ist die Zuordnung zu Sinan öffentlich bestätigt?",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten."
+      "sourceRefs": [
+        {
+          "sourceId": "S079",
+          "note": "Musikvertrieb nennt den Künstlernamen, die Person und veröffentlichte elektronische Musik; kein Hörnachweis."
+        },
+        {
+          "sourceId": "S080",
+          "note": "Original-Release aus 2015 nennt Sinan, das Projekt Tavengo und eine Spotify-Verknüpfung."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0013",
@@ -1230,6 +1268,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT",
+            "strategy": "Gezielte GitHub-Code-Suche zur Vorarbeit und unabhängiger Abgleich der Original-Untertitelfundstelle mit den direkt geöffneten Originalquellen. Frühere KI-Bewertungen wurden nicht als Beleg benutzt.",
+            "sourceIds": [
+              "S079",
+              "S080"
+            ],
+            "result": "Die herangezogenen Originalquellen stützen den konkret abgegrenzten Sachkern der Behauptung; Reichweite, Sprecher- und Transkriptgrenzen sind in der Begründung genannt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -8885,19 +8941,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Corona habe in vielen Familien zu Konflikten und auch zu dauerhaften Brüchen geführt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Umfragen oder Studien zu familiären Konflikten über Corona-Maßnahmen wurden noch nicht gelesen. Grundsätzlich mit Erhebungen prüfbar.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Mehrere repräsentative bzw. themenspezifische Befragungen dokumentieren familiäre Spannungen und Kontaktabbrüche im Zusammenhang mit der Pandemie. Laut Infratest dimap (Januar 2025, 1323 Befragte) berichtete fast die Hälfte von ernsten Differenzen im Familien- oder Freundeskreis; jeder Vierte gab Kontaktabbrüche an, meist vorübergehend, also nicht ausschließlich. Die Pronova-BKK-Erhebung zu Elternfamilien dokumentiert zusätzliche Belastungen und Konflikte. Damit ist das Vorkommen solcher Konflikte und auch länger anhaltender Brüche plausibel belegt, jedoch keine Häufigkeit ausschließlich dauerhafter Familienabbrüche oder ein allgemeiner Kausalbeweis für jede Familie.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (ChatGPT): ungefähre Fundstelle in der vollständigen deutschen automatischen Transkriptfassung nachgelesen und getrennt mit den bezeichneten öffentlich zugänglichen Erstquellen abgeglichen; Originalton nicht abgehört.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): grundsätzlich öffentlich prüfbar, aber noch nicht recherchiert; deshalb zurück auf Offen (Arbeitsauftrag), keine Bewertung."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): grundsätzlich öffentlich prüfbar, aber noch nicht recherchiert; deshalb zurück auf Offen (Arbeitsauftrag), keine Bewertung. Nachrecherche 21.11.2026 (ChatGPT): vorher Offen, jetzt Belegt; konkret benannte Primärquellen erneut gelesen und dokumentiert, Bewertung unter ausdrücklichem Vorbehalt der genannten Reichweite."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Umfragen oder Studien zu familiären Konflikten über Corona-Maßnahmen in Deutschland prüfen."
+      "sourceRefs": [
+        {
+          "sourceId": "S081",
+          "note": "Direkte Familienbefragung: Belastungen und Konflikte unter Pandemiebedingungen; begrenzte Zielgruppe."
+        },
+        {
+          "sourceId": "S082",
+          "note": "DeutschlandTrend 2025, repräsentativ für Wahlberechtigte: ernste Meinungsunterschiede und Kontaktabbrüche in Familie oder Freundeskreis, meist zeitweilig."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "bPXMY7Reeek-O0189",
@@ -8942,6 +9005,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT",
+            "strategy": "Gezielte GitHub-Code-Suche zur Vorarbeit und unabhängiger Abgleich der Original-Untertitelfundstelle mit den direkt geöffneten Originalquellen. Frühere KI-Bewertungen wurden nicht als Beleg benutzt.",
+            "sourceIds": [
+              "S081",
+              "S082"
+            ],
+            "result": "Die herangezogenen Originalquellen stützen den konkret abgegrenzten Sachkern der Behauptung; Reichweite, Sprecher- und Transkriptgrenzen sind in der Begründung genannt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
