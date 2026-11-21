@@ -172,6 +172,273 @@
           "note": "Die als Feindbild gezählte Stelle korrekt eingeordnet und als Ausschnitt eingeblendet."
         }
       ]
+    },
+    {
+      "id": "R0002",
+      "reactionVideoId": "Rxl7rShgdTs",
+      "originalVideoId": "JPZ3yqVJR8c",
+      "certainty": "Belegt",
+      "basis": "Das Politik4m3-Video bezeichnet sich als Reaktion auf Sinans neue KI-Folge. Arbeitsmarkt, Rechenzentren, Selbstverbesserung und Alfreds Schluss wurden mit den sichtbaren deutschen Originalplayer-Transkripten beider Videos abgeglichen. Die konkrete Kombination und Reihenfolge stimmen mit JPZ3yqVJR8c überein. Textlicher Abgleich durch ChatGPT am 21.11.2026; kein vollständiger Bild- und Tonvergleich. Ergänzungen werden nicht als nachgewiesene Widerlegungen ausgegeben. Einzelheiten: faktenchecks/Rxl7rShgdTs/REAKTIONSABGLEICH.md.",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "change": "ChatGPT: Reaktionszuordnung und 18 inhaltlich begrenzte Verknüpfungen nach eigenständigem Originalabgleich angelegt. Keine Originalbewertung verändert; Zeitmarken und Sprecherzuordnung bleiben textbasiert."
+        }
+      ],
+      "claimLinks": [
+        {
+          "id": "L0020",
+          "type": "gibt_wieder",
+          "originalClaimId": "JPZ3yqVJR8c-A0051",
+          "reactionClaimId": "Rxl7rShgdTs-A0001",
+          "reactionSeconds": 17,
+          "note": "Die zugespitzte Einleitung greift Sinans weitgehende Prognose zur Nachfrage nach Grafik- und Musikproduktion auf (Original etwa 24:55–25:13). Sie ist kein Originalzitat und keine vollständige Wiedergabe seiner Einschränkungen; der Arbeitsmarktausblick wird im Original bei etwa 29:39 ausdrücklich als unsichere Prognose bezeichnet.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0021",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0049",
+          "reactionClaimId": "Rxl7rShgdTs-A0006",
+          "reactionSeconds": 92,
+          "note": "Der Unterschied zwischen erzeugbaren Bildern und dem vollständigen Wegfall eines Berufs schränkt die Sportfotografie-Prognose ein (Original etwa 24:20–24:37). Die Reaktion beweist damit weder unveränderte Nachfrage noch die Entstehung eines bestimmten Nachfolgeberufs.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0022",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0050",
+          "reactionClaimId": "Rxl7rShgdTs-A0006",
+          "reactionSeconds": 127,
+          "note": "Die Unterscheidung zwischen automatisierbarer Tätigkeit und ganzem Beruf begrenzt den Schluss vom technischen Können auf das Verschwinden von Werbetext als Beruf (Original etwa 24:46–24:55). Es handelt sich um eine logische Einschränkung, nicht um eine gemessene Beschäftigungsprognose.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0023",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0051",
+          "reactionClaimId": "Rxl7rShgdTs-A0006",
+          "reactionSeconds": 82,
+          "note": "Die Reaktion hält fest, dass technische Musik- und Bilderzeugung allein das Ende menschlicher Nachfrage nicht belegt (Original etwa 24:55–25:13). Sie schließt erhebliche Verdrängung nicht aus; Sinans zusätzliche Argumentation über ausreichende Qualität für viele Käufer wird dadurch nicht vollständig widerlegt.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0024",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0056",
+          "reactionClaimId": "Rxl7rShgdTs-A0008",
+          "reactionSeconds": 143,
+          "note": "Das hypothetische Beispiel gleicher Leistung mit weniger Beschäftigten ähnelt Sinans Unterscheidung zwischen fortbestehender Jurabranche und geringerem Personalbedarf (Original etwa 28:10–28:27). Verschiedene Beispiele und Zahlen, keine identische gemessene Entwicklung.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0025",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0127",
+          "reactionClaimId": "Rxl7rShgdTs-A0009",
+          "reactionSeconds": 215,
+          "note": "Das ungünstige Verteilungsszenario der Reaktion ergänzt Sinans bereits dargestellte Konzentration von Gewinnen und fehlende politische Verteilung (Original etwa 56:55–57:31). Ein gemeinsames Risikoszenario, keine Widerlegung und kein sicherer Zukunftsbefund.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0026",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0128",
+          "reactionClaimId": "Rxl7rShgdTs-A0009",
+          "reactionSeconds": 193,
+          "note": "Die Aussicht auf kürzere Arbeitszeit und mehr soziale Zeit passt zu Sinans eigener Utopie frei gewählter Tätigkeiten, Beziehungen und Naturerleben (Original etwa 57:34–59:00). Die Reaktion setzt einen optimistischeren Schwerpunkt; der positive Ausgang fehlt im Original nicht.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0027",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0138",
+          "reactionClaimId": "Rxl7rShgdTs-A0010",
+          "reactionSeconds": 241,
+          "note": "Die politische Gestaltungsfrage in der Reaktion stimmt in ihrer Richtung mit Alfreds Schluss über menschliche Entscheidungen zur Verteilung überein (Original etwa 1:03:48). Die Reaktion konkretisiert politische Zuständigkeit; kein gegensätzlicher Tatsachenbefund.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0028",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0062",
+          "reactionClaimId": "Rxl7rShgdTs-A0013",
+          "reactionSeconds": 275,
+          "note": "Die Reaktion grenzt Rechenzentrumsstrom von ausschließlich KI-bedingtem Strom ab. Sinan bezeichnet die 415-TWh-Zahl im Original bei etwa 30:36 bereits ausdrücklich als Rechenzentrumsverbrauch. Der Zusatz ist sachlich relevant, belegt aber keine falsche Benennung dieser Zahl durch Sinan.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0029",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0079",
+          "reactionClaimId": "Rxl7rShgdTs-A0014",
+          "reactionSeconds": 288,
+          "note": "Beide behandeln zusätzliche Nutzung bei effizienterer Rechenleistung (Original etwa 35:05–35:43). Die Reaktion formuliert eine Möglichkeit ohne Garantie für sinkenden Gesamtverbrauch; Sinan erwartet die Nutzungszunahme deutlich bestimmter. Das Zahlenbeispiel der Reaktion ist hypothetisch.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0030",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0077",
+          "reactionClaimId": "Rxl7rShgdTs-A0015",
+          "reactionSeconds": 312,
+          "note": "Die Aussage, dass technische Verbesserungen trotz Rebound nützlich bleiben können, begrenzt die Reichweite der historischen Verallgemeinerung im Original bei etwa 34:12–34:28. Sinan erklärt dort nicht ausdrücklich sämtliche Verbesserungen für sinnlos. Unterschiedliche Prüfgegenstände, keine automatische Gegenbehauptung.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0031",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0073",
+          "reactionClaimId": "Rxl7rShgdTs-A0016",
+          "reactionSeconds": 321,
+          "note": "Die politischen Fragen nach Effizienz, Stromherkunft und örtlichen Belastungen ergänzen Sinans Hinweis auf sauberere Stromerzeugung (Original etwa 33:16). Die Empfehlung der Reaktion ist weiter gefasst als die konkrete Umweltwirkung im Original.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0032",
+          "type": "gibt_wieder",
+          "originalClaimId": "JPZ3yqVJR8c-A0113",
+          "reactionClaimId": "Rxl7rShgdTs-A0018",
+          "reactionSeconds": 346,
+          "note": "Die Reaktion greift Sinans bedingtes Szenario einer sich selbst weiterentwickelnden KI auf (Original etwa 50:31–50:54). Im Original wird es ausdrücklich spekulativ eingeführt und setzt gelöste Ressourcenprobleme voraus.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0033",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0103",
+          "reactionClaimId": "Rxl7rShgdTs-A0019",
+          "reactionSeconds": 378,
+          "note": "Die Beispiele Chipfabrik, Rechenzentrum und Stromanschluss veranschaulichen physische Voraussetzungen. Sinan nennt fehlende Baukapazität, Chips und Rechenzentren bereits bei etwa 45:38–46:12. Die Reaktion ergänzt diesen Kontext, sie deckt keine dort verschwiegene Ressourcengrenze auf.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0034",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0113",
+          "reactionClaimId": "Rxl7rShgdTs-A0019",
+          "reactionSeconds": 378,
+          "note": "Die physische Infrastruktur begrenzt den Schluss von besserem Code auf sofortige zusätzliche Kapazität. Sinans Szenario nimmt bei etwa 50:38–50:54 gelöste Ressourcenprobleme bereits als Bedingung an. Der Hinweis ist kein Gegenbeweis gegen dieses ausdrücklich bedingte Szenario.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0035",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0115",
+          "reactionClaimId": "Rxl7rShgdTs-A0020",
+          "reactionSeconds": 398,
+          "note": "Die Reaktion mahnt Unsicherheit über langfristigen KI-Fortschritt an. Sinan hält bei etwa 51:23–51:30 selbst offen, ob eine Intelligenzexplosion erlebt wird. Die Reaktion behandelt einen breiteren Entwicklungszeitraum; beide Stellen rechtfertigen keine sichere Zukunftsbehauptung.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0036",
+          "type": "gibt_wieder",
+          "originalClaimId": "JPZ3yqVJR8c-A0136",
+          "reactionClaimId": "Rxl7rShgdTs-A0021",
+          "reactionSeconds": 426,
+          "note": "Alfreds Trennung von menschlichem Wert und Nützlichkeit wird zustimmend aufgegriffen (Original etwa 1:02:54–1:03:09). Die Reaktion nennt Einkommen und Produktivität als eigene Konkretisierung. Die Sprecherrollen sind textlich plausibel, nicht durch Hörkontrolle bestätigt.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        },
+        {
+          "id": "L0037",
+          "type": "ergaenzt",
+          "originalClaimId": "JPZ3yqVJR8c-A0136",
+          "reactionClaimId": "Rxl7rShgdTs-A0022",
+          "reactionSeconds": 453,
+          "note": "Die Reaktion erweitert Alfreds normative Aussage um Menschen, die nicht arbeiten können, und gesellschaftliche Teilhabe. Inhaltliche Zustimmung und Ausführung, keine empirische Bestätigung eines messbaren Menschenwerts.",
+          "history": [
+            {
+              "date": "2026-11-21",
+              "change": "ChatGPT: Nach gezieltem Vergleich der sichtbaren deutschen Transkripte im Originalplayer angelegt; keine Hörkontrolle und keine Änderung eines Faktenurteils."
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "videoId": "Rxl7rShgdTs",
+  "basis": "Redaktionelle Zuordnung durch ChatGPT anhand gelesener Inhalte. KI ist Schwerpunkt; Arbeitsmarkt und Verteilung sowie Energie haben eigene Sachabschnitte. Private Produktion, biografisches Beiwerk und einzelne subjektive Machartbeobachtungen erhalten kein künstliches Sachthema. Keine automatische Wortzuordnung.",
+  "topics": [
+    {
+      "topic": "ki",
+      "relevance": "Schwerpunkt",
+      "basis": "Fähigkeiten, Arbeitsfolgen, Ressourcen und gesellschaftliche Bedingungen von KI bilden den sachlichen Hauptteil.",
+      "segments": [
+        {
+          "startSeconds": 58,
+          "endSeconds": 566,
+          "note": "KI-Fähigkeiten, Folgen, Grenzen und gesellschaftliche Gestaltung."
+        }
+      ]
+    },
+    {
+      "topic": "wirtschaft",
+      "relevance": "Behandelt",
+      "basis": "Aufgaben, Berufe, Personalbedarf und Verteilung der Produktivitätsgewinne werden eigenständig behandelt.",
+      "segments": [
+        {
+          "startSeconds": 82,
+          "endSeconds": 247,
+          "note": "Arbeitsmarkt und Verteilung."
+        },
+        {
+          "startSeconds": 426,
+          "endSeconds": 566,
+          "note": "Wert, gesellschaftliche Folgen und politische Verantwortung."
+        }
+      ]
+    },
+    {
+      "topic": "energie",
+      "relevance": "Behandelt",
+      "basis": "Eigener Abschnitt zu Rechenzentren, Effizienz und Gesamtbedarf; erneuter Bezug bei physischen Ausbaugrenzen.",
+      "segments": [
+        {
+          "startSeconds": 247,
+          "endSeconds": 346,
+          "note": "Strombedarf, Effizienz, Nutzung und örtliche Versorgung."
+        },
+        {
+          "startSeconds": 378,
+          "endSeconds": 398,
+          "note": "Rechenzentren, Chipfabriken und Stromanschlüsse."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "Rxl7rShgdTs-A0001",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0003",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0004",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0005",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0006",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0008",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0009",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0010",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0011",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0012",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0013",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0014",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0015",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0016",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0017",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0018",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0019",
+      "topics": [
+        "ki",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0020",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0021",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0022",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0023",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0024",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0026",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0027",
+      "topics": [
+        "ki"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "agent": "ChatGPT",
+      "change": "Erstzuordnung der Reaktion anhand neuer Aussagen und Fundstellen; vorhandene Themen verwendet."
+    }
+  ]
+}

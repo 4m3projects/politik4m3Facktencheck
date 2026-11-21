@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "videoId": "JPZ3yqVJR8c",
-  "basis": "Redaktionelle Zuordnung durch Codex anhand der erfassten Beschreibungen und Fundstellen. Private Zahlungsangaben und die beiläufige Katzenstatistik erhalten kein künstliches Sachthema; keine automatische Wortzuordnung. Die vorhandenen Themen anderer Videos benötigen durch diese Ergänzung keine Umstufung. Nachprüfung 20.11.2026 (Codex): Die Themenzuordnung der fortgeschriebenen Aussage-IDs wurde kontrolliert; keine neue Aussage und kein zusätzliches Thema. Nachrecherche 21.11.2026 (Codex): bestehende KI-, Wirtschafts- und Energiezuordnungen kontrolliert; keine neuen Themen oder Aussage-IDs und keine zusätzliche öffentliche Themenkategorie.",
+  "basis": "Redaktionelle Zuordnung durch Codex anhand der erfassten Beschreibungen und Fundstellen. Private Zahlungsangaben und die beiläufige Katzenstatistik erhalten kein künstliches Sachthema; keine automatische Wortzuordnung. Die vorhandenen Themen anderer Videos benötigen durch diese Ergänzung keine Umstufung. Nachprüfung 20.11.2026 (Codex): Die Themenzuordnung der fortgeschriebenen Aussage-IDs wurde kontrolliert; keine neue Aussage und kein zusätzliches Thema. Nachrecherche 21.11.2026 (Codex): bestehende KI-, Wirtschafts- und Energiezuordnungen kontrolliert; keine neuen Themen oder Aussage-IDs und keine zusätzliche öffentliche Themenkategorie. Reaktionsabgleich 21.11.2026 (ChatGPT): Die angesprochenen Abschnitte zu Arbeit, Energie, Ressourcen und Verteilung wurden erneut am sichtbaren Originalplayer-Transkript kontrolliert. KI, Wirtschaft und Energie decken diese Bezüge bereits ab; keine neue Originalaussage, keine Änderung der Themenrelevanz.",
   "topics": [
     {
       "topic": "ki",
@@ -914,6 +914,11 @@
       "date": "2026-11-20",
       "agent": "Codex",
       "change": "Erstzuordnung für die Veröffentlichung der bestehenden Teilprüfung; Bewertungen unverändert."
+    },
+    {
+      "date": "2026-11-21",
+      "agent": "ChatGPT",
+      "change": "Themen bei der Aufnahme der Politik4m3-Reaktion Rxl7rShgdTs kontrolliert: bestehende KI-, Wirtschafts- und Energiezuordnung beibehalten. Der inhaltliche Rückabgleich ist im REAKTIONSABGLEICH.md der Reaktion dokumentiert; Originalurteile unverändert."
     }
   ]
 }

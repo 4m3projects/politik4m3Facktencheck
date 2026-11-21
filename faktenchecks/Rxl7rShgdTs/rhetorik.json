@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "videoId": "Rxl7rShgdTs",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-21",
+    "by": "ChatGPT",
+    "basis": "Vollständige Lektüre der sichtbaren deutschen automatischen Originaluntertitel im YouTube-Player und der öffentlichen Beschreibung. Keine Videobildstelle visuell geprüft und kein Originalton gehört.",
+    "coverage": "87 sichtbare Untertitelsegmente mit Segmentanfängen von 00:00:00 bis 00:10:44; Gliederung bis zur angezeigten Laufzeit 00:10:54. Drei ausschließlich textgestützte Hinweise zu Auftakt und Selbstironie; keine vollständige Darstellungsprüfung.",
+    "limits": [
+      "Stimmführung, hörbare Sprecherwechsel und tatsächlicher Ironieton wurden nicht kontrolliert.",
+      "Bildauswahl, Einblendungen, Schnitt, Musik und sämtliche nur visuellen Inhalte wurden nicht geprüft.",
+      "Automatische Untertitel können Erkennungsfehler enthalten; Zeitmarken bleiben ungefähr.",
+      "Das letzte Untertitelsegment beginnt bei 00:10:44; sein genaues Tonende und zusätzliche Inhalte bis 00:10:54 wurden nicht kontrolliert."
+    ],
+    "history": [
+      {
+        "date": "2026-11-21",
+        "by": "ChatGPT",
+        "change": "Textgestützte Erstprüfung der Darstellung mit drei begrenzten Hinweisen; audiovisuelle Abdeckung ausdrücklich offen ausgewiesen."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "Rxl7rShgdTs-R0001",
+      "claimId": "Rxl7rShgdTs-A0001",
+      "feature": "emotionalisierung",
+      "startSeconds": 0,
+      "endSeconds": 34,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Einleitungszusammenhang der Skriptstimme vor dem Hauptargument; keine Stimmenidentifikation und keine sichere Feststellung einer tatsächlichen Sprechergrenze."
+      },
+      "observation": "Der Auftakt bündelt sehr weitreichende Befürchtungen über den Verlust menschlicher Arbeitsmöglichkeiten und führt anschließend in eine differenzierende Reaktion ein.",
+      "reason": "Die zugespitzte Zukunftsszene stellt das Bedrohungspotenzial voran. Der folgende Kontext relativiert ihren Gewissheitsgrad; sie ist nicht als eigene sichere Totalverdrängungsprognose zu lesen.",
+      "context": "Thematischer Einstieg in eine Reaktion, die ausdrücklich Zustimmung und Widerspruch zu Sinans Folge verbindet.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Die Textfassung zeigt die Zuspitzung; ihre audiovisuelle Wirkung und Stimmführung sind nicht kontrolliert.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Vollständig gelesene automatische Originaluntertitel; keine Bild- oder Tonprüfung.",
+      "history": [
+        {"date": "2026-11-21", "by": "ChatGPT", "change": "Sprachliche Zuspitzung mit ihrer anschließenden Relativierung erstmals erfasst; kein Einfluss auf das Faktenurteil."}
+      ]
+    },
+    {
+      "id": "Rxl7rShgdTs-R0002",
+      "claimId": null,
+      "feature": "ironie",
+      "startSeconds": 110,
+      "endSeconds": 127,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Textlicher Zusammenhang im eingeführten Hauptbeitrag der Figur K(A)i; keine Stimmenidentifikation."
+      },
+      "observation": "Die KI-Figur stellt ihre Programmierfähigkeiten scherzhaft als Anlass dar, ihren softwareentwickelnden Gastgeber zu beunruhigen und selbst abgeschaltet zu werden.",
+      "reason": "Die Passage personifiziert das System und löst den Scherz im Text ausdrücklich wieder auf. Sie beschreibt keine tatsächlich beobachtete Abschaltdrohung.",
+      "context": "Selbstironischer Einschub zwischen technischen Anwendungsbeispielen und der Unterscheidung von Aufgaben und Berufen.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Die humorvolle Textfunktion ist erkennbar; konkrete Stimmführung und Bildgestaltung wurden nicht geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Automatische Originaluntertitel und unmittelbarer Textkontext.",
+      "history": [
+        {"date": "2026-11-21", "by": "ChatGPT", "change": "Textlich erkennbaren Scherz als Darstellungsmerkmal erfasst; keine zusätzliche Tatsachenbehauptung oder Fehlerwertung erzeugt."}
+      ]
+    },
+    {
+      "id": "Rxl7rShgdTs-R0003",
+      "claimId": null,
+      "feature": "ironie",
+      "startSeconds": 584,
+      "endSeconds": 604,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Textlicher Schluss des Hauptbeitrags der Figur K(A)i vor Jens' Nachwort; keine Stimmenidentifikation."
+      },
+      "observation": "Kai wendet sich an Alfred als möglichen Prüfer und kehrt eine scherzhafte Bitte um Nachsicht unmittelbar in die Forderung nach besonders strenger Kontrolle um.",
+      "reason": "Die gegensätzlichen Bitten erzeugen eine selbstironische Wendung. Daraus folgt weder eine tatsächliche Prüfung durch Alfred noch ein Sondermaßstab für dieses Video.",
+      "context": "Schlussansprache an die Zuschauer und an eine weitere KI-Figur.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Die Wendung ist im Transkript erkennbar; Tonfall und visuelle Inszenierung sind unkontrolliert.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Automatische Originaluntertitel und unmittelbarer Textkontext.",
+      "history": [
+        {"date": "2026-11-21", "by": "ChatGPT", "change": "Selbstironische Schlusswendung textgestützt erfasst; Sachprüfung unverändert."}
+      ]
+    }
+  ]
+}

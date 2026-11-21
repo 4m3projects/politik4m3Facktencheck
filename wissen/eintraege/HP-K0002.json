@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "HP-K0002",
+  "revision": 1,
+  "claim": "Sinkender Energiebedarf je vergleichbarer KI-Aufgabe garantiert keinen Rückgang des gesamten Energieverbrauchs.",
+  "topics": ["ki", "energie"],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Nach der IEA bestimmen Effizienz, Nutzungshäufigkeit und die Rechenintensität neuer Anwendungen gemeinsam den Energiebedarf. Effizienz kann den Verbrauch gegenüber gleich umfangreicher, weniger effizienter Nutzung senken, während der tatsächliche Gesamtbedarf wächst. Das UBA beschreibt Rebound als durch Effizienzgewinne ausgelöste Mehrnutzung oder zusätzliche Ausgaben; dadurch können Einsparungen teilweise aufgehoben werden. Ein vollständiger Ausgleich ist keine allgemeine Regel. Unabhängiges Nachfragewachstum ist nicht automatisch ein Rebound-Effekt.",
+  "validity": {
+    "asOf": "2026-11-21",
+    "timeScope": "Allgemeiner Zusammenhang zwischen Effizienz und Gesamtverbrauch, mit KI-Bezug nach IEA 2026; Kenntnisstand 21.11.2026.",
+    "subjectScope": "Vergleichbare KI-Aufgaben, Nutzungsumfang und wechselnder Anwendungsmix. Keine empirische Bestätigung hypothetischer Zahlenbeispiele und keine Behauptung, Effizienz führe historisch immer zu steigendem Gesamtverbrauch.",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-21",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "Key Questions on Energy and AI: Executive summary",
+      "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
+      "details": "International Energy Agency (IEA), 2026; Abschnitt zum Energiebedarf je KI-Aufgabe, zur wachsenden Nutzung und zu rechenintensiveren Anwendungen.",
+      "accessedOn": "2026-11-21",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q2",
+      "title": "Rebound-Effekte",
+      "url": "https://www.umweltbundesamt.de/themen/abfall-ressourcen/oekonomische-rechtliche-aspekte-der/rebound-effekte",
+      "details": "Umweltbundesamt, aktualisiert am 17.09.2019; Definition, Reichweite und Abgrenzung von Rebound-Effekten gegenüber Wachstums- und Strukturwandeleffekten.",
+      "accessedOn": "2026-11-21",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "JPZ3yqVJR8c-A0076",
+      "repo": null,
+      "relation": "teilaspekt",
+      "contextNote": "Die Aussage vom 20.11.2026 behandelt Effizienzsteigerungen je KI-Aufgabe und damit eine Größe des hier geprüften Gesamtzusammenhangs. Sie trifft für sich noch keine Aussage über die Entwicklung des gesamten Verbrauchs.",
+      "linkedBy": "ChatGPT",
+      "linkedOn": "2026-11-21"
+    },
+    {
+      "claimId": "JPZ3yqVJR8c-A0077",
+      "repo": null,
+      "relation": "verwandt",
+      "contextNote": "Die Aussage vom 20.11.2026 verallgemeinert, Effizienz habe historisch nie den Gesamtverbrauch gesenkt. Das ist wesentlich weitergehend als die hier belegte fehlende Garantie. Gemeinsames Thema, aber weder gleichwertige Aussage noch künstlich gegensätzliches Urteil.",
+      "linkedBy": "ChatGPT",
+      "linkedOn": "2026-11-21"
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0014",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Die Reaktion vom 21.11.2026 unterscheidet ebenfalls zwischen Energie je Anwendung und Gesamtbedarf bei wachsender Nutzung. Das Zahlenbeispiel illustriert den Zusammenhang und wird nicht als gemessene Entwicklung übernommen.",
+      "linkedBy": "ChatGPT",
+      "linkedOn": "2026-11-21"
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0015",
+      "repo": null,
+      "relation": "teilaspekt",
+      "contextNote": "Die Reaktion vom 21.11.2026 betrachtet den Verbrauch im Vergleich zu einer gleich umfangreichen Nutzung ohne Effizienzgewinn. Dieser Vergleich ergänzt die Frage nach dem tatsächlichen Gesamtverbrauch; er ist deshalb nur ein Teilaspekt.",
+      "linkedBy": "ChatGPT",
+      "linkedOn": "2026-11-21"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-21",
+      "agent": "ChatGPT",
+      "change": "Neu angelegt nach eigener erneuter Lektüre der IEA- und UBA-Primärquellen. Effizienz je Nutzung, tatsächlicher Gesamtverbrauch und Rebound getrennt; bestehende Videoaussagen bleiben unverändert.",
+      "previous": null
+    }
+  ]
+}
