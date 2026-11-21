@@ -18,7 +18,7 @@
 | Grundlage | Deutsche automatische Originaluntertitel, vollständig gelesen; gezielte Bildstichproben |
 | Inhaltliche Gliederung | 13 Themenabschnitte über die gesamte angegebene Laufzeit |
 
-Erfasst sind **140 Prüfgegenstände** mit 143 Fundstellen: **100 abgeschlossene Sachprüfungen**, **38 als Meinung oder Prognose eingeordnete Inhalte** und **2 offene Tatsachenprüfungen**. Das ist ein Teilbestand. Die Zahlen sind keine Statistik sämtlicher Aussagen des Videos. Verbliebene offene Prüfungen sind kein Sachurteil; unzureichende Beleglagen wurden nur nach dokumentierter Recherche abgeschlossen. Die Recherche liefert belastbare Teilbefunde, aber noch keine umfassend verifizierte Auswertung.
+Erfasst sind **140 Prüfgegenstände** mit 143 Fundstellen: **101 abgeschlossene Sachprüfungen**, **38 als Meinung oder Prognose eingeordnete Inhalte** und **1 offene Tatsachenprüfung**. Das ist ein Teilbestand. Die Zahlen sind keine Statistik sämtlicher Aussagen des Videos. Verbliebene offene Prüfungen sind kein Sachurteil; unzureichende Beleglagen wurden nur nach dokumentierter Recherche abgeschlossen. Die Recherche liefert belastbare Teilbefunde, aber noch keine umfassend verifizierte Auswertung.
 
 Die Untertitel beginnen bei etwa 00:00:00,7; das letzte Ereignis reicht rechnerisch bis etwa 01:04:01,3. Für die letzten rund drei Sekunden fehlt eine Inhaltsgrundlage. Zwischen Untertitelereignissen wurde keine Lücke über zehn Sekunden gefunden; fehlende Wörter oder Bildaussagen werden damit nicht ausgeschlossen. Automatische Untertitel sind keine eigene Spracherkennung. Die englische Spur scheiterte beim Import mit HTTP 429; zwei deutsche Fassungen waren vorhanden, gelesen wurde die Originalfassung.
 
@@ -34,7 +34,7 @@ Die wichtigsten Einschränkungen betreffen die Übertragung von Benchmarks auf g
 - [Strukturierte Übersicht](strukturiert/README.md)
 - [Zentrale Aussagen und Quellen](strukturiert/aussagen.json)
 
-Nur eigene Beschreibungen und Bewertungen sind gespeichert. Keine Medien, Untertiteldateien, Originalnachrichten oder Quelldokumente gehören zum öffentlichen Dateibestand. Die Veröffentlichung dieser ausdrücklich als Teilprüfung gekennzeichneten Fassung im Repository und ihre Übertragung nach main wurden am 20. November 2026 ausdrücklich beauftragt. Der Veröffentlichungsauftrag ändert den fachlichen Prüfstatus nicht. Der aktuelle Stand enthält zwei offene Sachprüfungen und die dokumentierten Grenzen der Bild- und Tonprüfung.
+Nur eigene Beschreibungen und Bewertungen sind gespeichert. Keine Medien, Untertiteldateien, Originalnachrichten oder Quelldokumente gehören zum öffentlichen Dateibestand. Die Veröffentlichung dieser ausdrücklich als Teilprüfung gekennzeichneten Fassung im Repository und ihre Übertragung nach main wurden am 20. November 2026 ausdrücklich beauftragt. Der Veröffentlichungsauftrag ändert den fachlichen Prüfstatus nicht. Der aktuelle Stand enthält eine offene Sachprüfung und die dokumentierten Grenzen der Bild- und Tonprüfung.
 
 ## Aktualisierung gegenüber der lokalen Erstfassung
 
@@ -50,6 +50,6 @@ Veröffentlichungsvermerk, 20. November 2026: Teilprüfung auf ausdrücklichen N
 
 ## Nachrecherche am 21. November 2026
 
-17 weitere Sachprüfungen eingeordnet: zwei teilweise belegt, 15 nach zweiter Recherche nicht ausreichend belegbar. Diese 15 Ergebnisse bedeuten keine Widerlegung und keine Bestätigung privater Vorgänge. Die Originalfundstellen zu Alfreds frühem Auftreten und zu Grönemeyers konkreter Äußerung bleiben offen. Die Darstellung ist weiterhin teilweise geprüft; eine vollständige Prüfung der gesamten Bild- und Tonebene ist nicht erfolgt.
+17 weitere Sachprüfungen eingeordnet: zwei teilweise belegt, 15 nach zweiter Recherche nicht ausreichend belegbar. Diese 15 Ergebnisse bedeuten keine Widerlegung und keine Bestätigung privater Vorgänge. Fortsetzung am selben Tag: Eine Originalsendung vom 3. Februar 2023 stützt Alfreds ungefähre Nutzungsgeschichte; A0002 ist teilweise belegt abgeschlossen. Grönemeyers konkrete Äußerung bleibt offen. Die Darstellung ist weiterhin teilweise geprüft; eine vollständige Prüfung der gesamten Bild- und Tonebene ist nicht erfolgt.
 
 [Rechercheumfang, Ergebnisse und verbleibende Lücken](NACHRECHERCHE_2026-11-21.md). Veröffentlichung dieser Ergänzung am 21. November ausdrücklich beauftragt. Die bestehenden Zeitmarken und unsicheren Sprecherzuordnungen bleiben unverändert.

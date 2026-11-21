@@ -12,7 +12,7 @@ Private Arbeitsabläufe bilden den Ausgangspunkt für eine allgemeine Zukunftsth
 
 ## Fazit und offene Punkte
 
-Reale Projektangebote ersetzen keine Prüfung ihrer Herstellungsprozesse. Die Grafikherkunft wurde am Freiburger Wahlbeispiel teilweise abgeglichen. Für frühe KI-Nutzung, Codeanteile, Kündigung, Fahrtenbuch und Produktionsprotokolle reicht die recherchierte öffentliche Grundlage nicht aus; diese Ergebnisse sind einzeln begründet. Nur Alfreds frühe Originalfundstelle bleibt als unerledigter Prüfauftrag offen.
+Reale Projektangebote ersetzen keine Prüfung ihrer Herstellungsprozesse. Die Grafikherkunft wurde am Freiburger Wahlbeispiel teilweise abgeglichen. Für frühe KI-Nutzung, Codeanteile, Kündigung, Fahrtenbuch und Produktionsprotokolle reicht die recherchierte öffentliche Grundlage nicht aus; diese Ergebnisse sind einzeln begründet. Fortsetzung am 21. November 2026: Alfreds Einsatz am 3. Februar 2023 ist anhand einer datierten Originalsendung textlich nachgewiesen. A0002 ist teilweise belegt; ein lückenloser Nutzungsverlauf bleibt unbelegt.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
 

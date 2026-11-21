@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen. Nachrecherche 21.11.2026: gesamte verfügbare Textspur erneut gelesen; weitere einzelne Playerbilder bei ungefähr 51:51 und 54:34 gesehen, ohne zusätzliche belastbare Grafik- oder Tonbefunde. Keine Erweiterung zu einer durchgehenden Bild- oder Tonkontrolle.
 
-Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. Zwei konkrete Originalbelegprüfungen bleiben offen (früher Alfred-Auftritt und Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.
+Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. In der anschließenden Originalquellenprüfung wurde Alfreds Einsatz am 03.02.2023 belegt und A0002 teilweise belegt abgeschlossen. Damit 101 abgeschlossene Tatsachenprüfungen, 38 Meinungen/Prognosen und eine offene Tatsachenprüfung (Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0002
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Figur Alfred werde seit ungefähr vier Jahren in eigenen Sendungen eingesetzt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,27 +29,30 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Persönliche Projektgeschichte; ein vollständiges datiertes Archiv wurde nicht geprüft.
+Eine datierte Originalsendung vom 3. Februar 2023 dokumentiert Alfred bereits als gestaltete Roboterkatze und KI-Assistenten. Die gelesenen Originaltranskriptstellen erklären die Namensgebung und fragen am Ende nach seiner weiteren Verwendung als Sidekick. Bis zur Veröffentlichung des geprüften Videos am 20. November 2026 sind das rund drei Jahre und neun Monate; die ungefähre Vierjahresangabe ist damit zeitlich plausibel gestützt. Nicht nachgewiesen sind ein ausnahmsloser Einsatz während des gesamten Zeitraums, der allererste Auftritt oder eine unveränderte technische Umsetzung. Das heutige eigenständige Kanalprojekt wird nicht mit dem damaligen Assistenten gleichgesetzt.
 
-Grundlage der Bewertung: Nachrecherche 21.11.2026 (Codex): Originaluntertitel erneut gelesen; konkrete Quellen- und Zugriffslücke bleibt offen.
+Grundlage der Bewertung: Fortgesetzte Originalquellenprüfung 21.11.2026 (Codex): datierte Herausgeberseite und relevante deutsche Transkriptstellen gelesen; keine Audio- oder Bildbestätigung dieser älteren Sendung.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen. Recherche 21.11.2026 (Codex): Status Offen bleibt wegen der konkret fehlenden Originalfundstelle erhalten.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Recherche 21.11.2026 (Codex): Status Offen bleibt wegen der konkret fehlenden Originalfundstelle erhalten. Fortsetzung 21.11.2026: früher Originalbeleg gefunden; von Offen zu Abgeschlossen / Teilweise belegt geändert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [So hast du Chat-GPT noch nie erlebt | SinansWoche DIE SHOW](https://www.youtube.com/watch?v=CtQbMitkIKk) · SinansWoche; veröffentlicht 03.02.2023 laut aufgeklappter Originalbeschreibung.
+  Quellenzugriff am 2026-11-21. Originalseite im öffentlichen YouTube-Player geöffnet; Datum und deutsche Transkriptstellen ungefähr 00:09–03:03 sowie 24:24–24:50 gelesen. Dort werden Gestaltung, Benennung und Assistentenrolle Alfreds beschrieben. Kein Originalton gehört. Der Sprungversuch zur Bildstelle blieb während vorgeschalteter Werbung ohne Sichtkontrolle der Sendung; kein Bildbefund daraus abgeleitet. Sachbeleg für den dokumentierten Einsatz am 03.02.2023; etwa 02:10–03:03 und 24:24–24:50 in der Textspur. Kein Beweis für lückenlosen Einsatz oder frühestmöglichen Beginn.
 
 ### Offene Fragen und Unsicherheiten
 
-- Wann erschien die Figur erstmals und in welcher technischen Form?
+- Für eine lückenlose Nutzungsgeschichte wären weitere datierte Sendungen und Belege zur technischen Entwicklung nötig. Ein früherer Beginn wird durch die gefundene Sendung nicht ausgeschlossen.
 
 ### Recherchedokumentation
 
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
 - Durchgang 1 am 2026-11-21 (Codex): Zwei Suchen nach früher Alfred-Nutzung, mit Jahresbezug 2022/2023 und Roboterkatze; direkte Kontrolle der aktuellen Projektseiten. Gepruefte Quellen: S075, S076. Ergebnis: Keine früheste Originalsendung identifiziert. Der Kanalbeginn 2021 belegt nicht den ersten Auftritt Alfreds.
+
+- Durchgang 2 am 2026-11-21 (Codex): Öffentliche Kanalsuche nach Alfred und anschließend ChatGPT; Kandidaten anhand tatsächlicher Originalseiten und zugänglicher deutscher Transkriptstellen geprüft. Gepruefte Quellen: S084. Ergebnis: Ein Treffer von April 2021 enthielt in der Transkriptsuche keinen Alfred-Bezug und wurde verworfen. Die Sendung vom 03.02.2023 benennt und verwendet Alfred als KI-Assistenten. Sie trägt die ungefähre Dauer, aber keinen lückenlosen Nutzungsverlauf.
 
 ## JPZ3yqVJR8c-A0003
 
