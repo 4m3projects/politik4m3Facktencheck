@@ -10,7 +10,7 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. In der anschließenden Originalquellenprüfung wurde Alfreds Einsatz am 03.02.2023 belegt und A0002 teilweise belegt abgeschlossen. Damit 101 abgeschlossene Tatsachenprüfungen, 38 Meinungen/Prognosen und eine offene Tatsachenprüfung (Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik. [ChatGPT] 21.11.2026: A0052 auf Grundlage eines lesbaren SZ-Interviewauszugs aus pädagogischer Dokumentation und Fachpublikation abgeschlossen; Reichweite auf KI-Liedtexte begrenzt, kein Audio abgehört.",
+    "researchNote": "Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. In der anschließenden Originalquellenprüfung wurde Alfreds Einsatz am 03.02.2023 belegt und A0002 teilweise belegt abgeschlossen. Damit 101 abgeschlossene Tatsachenprüfungen, 38 Meinungen/Prognosen und eine offene Tatsachenprüfung (Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik. [ChatGPT] 21.11.2026: A0052 auf Grundlage eines lesbaren SZ-Interviewauszugs in musikpädagogischer Fachpublikation abgeschlossen; Reichweite auf KI-Liedtexte begrenzt, kein Audio abgehört.",
     "coverageNote": "Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen. Nachrecherche 21.11.2026: gesamte verfügbare Textspur erneut gelesen; weitere einzelne Playerbilder bei ungefähr 51:51 und 54:34 gesehen, ohne zusätzliche belastbare Grafik- oder Tonbefunde. Keine Erweiterung zu einer durchgehenden Bild- oder Tonkontrolle."
   },
   "legacyPoints": [],
@@ -718,14 +718,6 @@
       "details": "Wolfgang Rüdiger; üben & musizieren, Heft 5/2024, Seite 42; zitiert SZ-Magazin 23.03.2023, S. 17 (Fußnote 8).",
       "accessedOn": "2026-11-21",
       "accessBasis": "Öffentlichen Fachbeitrag und Fußnote 8 im HTML-Volltext gelesen. Darin sind seine kritischen Äußerungen zu ChatGPT-Liedtexten, Unvollkommenheit und künstlerischem Ausdruck als Fremdzitat referenziert. Kein unabhängig überprüfter Videoauftritt oder wörtlicher Beleg für den Ausdruck 'KI-Musik ist seelenlos'."
-    },
-    {
-      "id": "S089",
-      "title": "KI im Bildungskontext: Dokumentation des Grönemeyer-Interviews",
-      "url": "https://medienbildung-muenchen.de/wp-content/uploads/ki_in_der_bildung_2304.pdf",
-      "details": "Pädagogisches Institut / Zentrum für Kommunales Bildungsmanagement der Landeshauptstadt München, Vortragsfolien vom April 2023; verweist auf das SZ-Magazin-Interview vom 23.03.2023.",
-      "accessedOn": "2026-11-21",
-      "accessBasis": "Relevanten Auszug des Grönemeyer-Interviews in der öffentlich verfügbaren PDF-Textansicht selbst gelesen. Bildseiten-Kontrollabruf schlug fehl (Cache-Miss); es handelt sich um einen zitierten Sekundärabdruck des SZ-Gesprächs, nicht um ein unabhängig aufgesuchtes Audio oder das vollständige Interview."
     }
   ],
   "speakers": [
@@ -3672,8 +3664,8 @@
       "description": "Grönemeyer habe KI-Musik als künstlerisch unzureichend bzw. seelenlos kritisiert.",
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
-      "reason": "Grönemeyer äußerte im SZ-Magazin vom März 2023 deutliche Skepsis, ob ChatGPT Liedtexte mit menschlicher Unsicherheit, Zweifel und künstlerischem Ausdruck schaffen kann. Das dokumentieren ein Auszug der städtischen Münchener Bildungseinrichtung und ein darauf bezogener musikpädagogischer Fachbeitrag. Eine kritische Haltung gegenüber KI-generierter Kunst ist somit belegbar. Beide Quellen behandeln aber vor allem generierte Songtexte und Kreativität; den von Sinan sinngemäß erwähnten konkret formulierten Satz zu KI-Musik als Ganzem oder ein bestimmtes Tonbeispiel belegen sie nicht. Deshalb keine volle Bestätigung des umfassenden Wortlauts.",
-      "assessmentBasis": "Nachrecherche am 21.11.2026 durch ChatGPT: Sinans zeitmarkierte Originaltextstelle bei ungefähr 25:36 erneut mit zugänglichem Grönemeyer-Interviewauszug und Fachpublikation verglichen. Automatischer Untertitel; keine eigene Hörkontrolle, kein Vollzugriff auf das SZ-Interview.",
+      "reason": "Grönemeyer äußerte im SZ-Magazin vom März 2023 deutliche Skepsis, ob ChatGPT Liedtexte mit menschlicher Unsicherheit, Zweifel und künstlerischem Ausdruck schaffen kann. Das dokumentiert eine musikpädagogische Fachpublikation von 2024 mit ausdrücklicher Fundstelle des SZ-Interviews vom März 2023. Eine kritische Haltung gegenüber KI-generierter Kunst ist somit belegbar. Beide Quellen behandeln aber vor allem generierte Songtexte und Kreativität; den von Sinan sinngemäß erwähnten konkret formulierten Satz zu KI-Musik als Ganzem oder ein bestimmtes Tonbeispiel belegen sie nicht. Deshalb keine volle Bestätigung des umfassenden Wortlauts.",
+      "assessmentBasis": "Nachrecherche am 21.11.2026 durch ChatGPT: Sinans zeitmarkierte Originaltextstelle bei ungefähr 25:36 erneut mit musikpädagogischer Fachpublikation, die das SZ-Interview 2023 ausdrücklich zitiert verglichen. Automatischer Untertitel; keine eigene Hörkontrolle, kein Vollzugriff auf das SZ-Interview.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
@@ -3699,10 +3691,6 @@
         {
           "sourceId": "S088",
           "note": "Gelese­ne Fachpublikation reproduziert begrenzt Grönemeyers skeptische Aussagen zu KI-Liedtexten und nennt Originalinterview und Seite. Belegt nicht das genaue Pauschalzitat zu KI-Musik."
-        },
-        {
-          "sourceId": "S089",
-          "note": "Gelesener Textauszug aus dem Interview zu ChatGPT-Kreativität; abgeleiteter Sachkern, keine automatische Gleichsetzung von KI-Texten mit jeder KI-Musik."
         }
       ],
       "openQuestions": [
@@ -3755,12 +3743,11 @@
           {
             "date": "2026-11-21",
             "agent": "ChatGPT",
-            "strategy": "Gezielte Wiederholung der Suche mit Titeln und Originalpersonen, Vergleich der Originaltextstelle bei SinansWoche ca. 25:36, SZ-Heftübersicht und der nachgewiesenen Wiedergabe des SZ-Interviews in einer musikpädagogischen Fachpublikation sowie auf den Folien eines kommunalen Pädagogischen Instituts.",
+            "strategy": "Sinans 25:36-Passage mit einer 2024 erschienenen musikpädagogischen Fachpublikation verglichen, die Grönemeyers SZ-Interview vom 23.03.2023 mit Seitenzahl referenziert. Eine zusätzlich aufgerufene Präsentation einer Bildungseinrichtung erwies sich bei der Textprüfung als nicht einschlägig und wird ausdrücklich nicht als Beleg verwendet.",
             "sourceIds": [
-              "S088",
-              "S089"
+              "S088"
             ],
-            "result": "Grönemeyer äußerte in einem Interview 2023 klar seine Skepsis gegenüber kreativem KI-Liedtexten; allgemeiner Wortlaut über KI-Musik bleibt unbelegt. Daher nur teilweise belegt."
+            "result": "Direktes Grönemeyer-Zitat zur menschlichen Unvollkommenheit und ein KI-versus-Liedtext-Beispiel vorhanden; pauschaler Wortlaut über KI-Musik nicht nachgewiesen."
           }
         ],
         "missingInformation": null,
