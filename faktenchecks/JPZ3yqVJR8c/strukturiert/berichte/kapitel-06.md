@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen. Nachrecherche 21.11.2026: gesamte verfügbare Textspur erneut gelesen; weitere einzelne Playerbilder bei ungefähr 51:51 und 54:34 gesehen, ohne zusätzliche belastbare Grafik- oder Tonbefunde. Keine Erweiterung zu einer durchgehenden Bild- oder Tonkontrolle.
 
-Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. In der anschließenden Originalquellenprüfung wurde Alfreds Einsatz am 03.02.2023 belegt und A0002 teilweise belegt abgeschlossen. Damit 101 abgeschlossene Tatsachenprüfungen, 38 Meinungen/Prognosen und eine offene Tatsachenprüfung (Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.
+Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. In der anschließenden Originalquellenprüfung wurde Alfreds Einsatz am 03.02.2023 belegt und A0002 teilweise belegt abgeschlossen. Damit 101 abgeschlossene Tatsachenprüfungen, 38 Meinungen/Prognosen und eine offene Tatsachenprüfung (Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik. [ChatGPT] 21.11.2026: A0052 auf Grundlage eines lesbaren SZ-Interviewauszugs in musikpädagogischer Fachpublikation abgeschlossen; Reichweite auf KI-Liedtexte begrenzt, kein Audio abgehört.
 
 ## JPZ3yqVJR8c-A0044
 
@@ -362,9 +362,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Herbert Grönemeyer habe KI-Musik als künstlerisch unzureichend kritisiert.
+**Eigene Beschreibung:** Grönemeyer habe KI-Musik als künstlerisch unzureichend bzw. seelenlos kritisiert.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -383,13 +383,13 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Der im Video gemeinte Grönemeyer-Beitrag ist weiterhin nicht identifiziert. Das als Kandidat gefundene SZ-Interview vom März 2023 war nur am Anfang lesbar; aus Titel und Einleitung wird keine Bewertung von KI-Musik abgeleitet. Fortgesetzte Recherche: Das öffentlich gelesene Podcasttranskript vom 3. Mai 2026 betrifft an der KI-Stelle Vergütung statt künstlerischer Qualität. Radio Bremens Ankündigung und der nur 2:35 lange offizielle Ausschnitt vom März 2023 ersetzen das fehlende vollständige Gespräch nicht.
+Grönemeyer äußerte im SZ-Magazin vom März 2023 deutliche Skepsis, ob ChatGPT Liedtexte mit menschlicher Unsicherheit, Zweifel und künstlerischem Ausdruck schaffen kann. Das dokumentiert eine musikpädagogische Fachpublikation von 2024 mit ausdrücklicher Fundstelle des SZ-Interviews vom März 2023. Eine kritische Haltung gegenüber KI-generierter Kunst ist somit belegbar. Beide Quellen behandeln aber vor allem generierte Songtexte und Kreativität; den von Sinan sinngemäß erwähnten konkret formulierten Satz zu KI-Musik als Ganzem oder ein bestimmtes Tonbeispiel belegen sie nicht. Deshalb keine volle Bestätigung des umfassenden Wortlauts.
 
-Grundlage der Bewertung: Nachrecherche 21.11.2026 (Codex): Originaluntertitel erneut gelesen; konkrete Quellen- und Zugriffslücke bleibt offen.
+Grundlage der Bewertung: Nachrecherche am 21.11.2026 durch ChatGPT: Sinans zeitmarkierte Originaltextstelle bei ungefähr 25:36 erneut mit musikpädagogischer Fachpublikation, die das SZ-Interview 2023 ausdrücklich zitiert verglichen. Automatischer Untertitel; keine eigene Hörkontrolle, kein Vollzugriff auf das SZ-Interview.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen. Recherche 21.11.2026 (Codex): Status Offen bleibt wegen der konkret fehlenden Originalfundstelle erhalten.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Recherche 21.11.2026 (Codex): Status Offen bleibt wegen der konkret fehlenden Originalfundstelle erhalten. Nachrecherche 21.11.2026 (ChatGPT): zuvor Offen, jetzt Teilweise belegt; eine publizierte Grönemeyer-Kritik an KI-generierten Liedtexten ist nachlesbar, seine behauptete generelle Bewertung von KI-Musik bzw. der genaue Ausdruck bleibt unbestätigt.
 
 ### Zugeordnete Quellen
 
@@ -405,9 +405,12 @@ Bewertungsuebergang: Keine frühere Bewertung übernommen. Recherche 21.11.2026 
 - [Herbert Grönemeyer bei „3nach9“](https://www.youtube.com/watch?v=kOshpsLXhII) · 3nach9 / Radio Bremen; veröffentlicht 25.03.2023; öffentlich angezeigte Laufzeit 02:35.
   Quellenzugriff am 2026-11-21. Originalseite und aufgeklappte Beschreibung gelesen. Kurzer Ausschnitt mit Angaben über Textarbeit und Gesang; Untertitel im Player als nicht verfügbar angezeigt, kein Transkript angeboten. Kein Originalton gehört; kein vollständiger Abgleich des Interviews und kein Sachbeleg für A0052. Geprüfter Kandidat – kein Sachbeleg für die konkret zugeschriebene künstlerische Bewertung; tatsächliche Zugriffsgrenzen im Quellenverzeichnis.
 
+- [Ki quer KI: musikpädagogische Betrachtung zur KI-Kreativität mit Grönemeyer-Verweis](https://uebenundmusizieren.de/artikel/ki-quer-ki/) · Wolfgang Rüdiger; üben & musizieren, Heft 5/2024, Seite 42; zitiert SZ-Magazin 23.03.2023, S. 17 (Fußnote 8).
+  Quellenzugriff am 2026-11-21. Öffentlichen Fachbeitrag und Fußnote 8 im HTML-Volltext gelesen. Darin sind seine kritischen Äußerungen zu ChatGPT-Liedtexten, Unvollkommenheit und künstlerischem Ausdruck als Fremdzitat referenziert. Kein unabhängig überprüfter Videoauftritt oder wörtlicher Beleg für den Ausdruck 'KI-Musik ist seelenlos'. Gelese­ne Fachpublikation reproduziert begrenzt Grönemeyers skeptische Aussagen zu KI-Liedtexten und nennt Originalinterview und Seite. Belegt nicht das genaue Pauschalzitat zu KI-Musik.
+
 ### Offene Fragen und Unsicherheiten
 
-- Die konkrete Originaläußerung mit Datum und vollständigem Kontext finden; das nur teilweise zugängliche SZ-Interview ist dafür bislang kein Beleg.
+- Zur wörtlichen Bestätigung des im Sinan-Video sinngemäß beschriebenen Vortrags wäre die konkrete Grönemeyer-Videofundstelle bzw. der vollständige SZ-Beitrag mit Kontext hilfreich.
 
 ### Recherchedokumentation
 
@@ -416,6 +419,8 @@ Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 - Durchgang 1 am 2026-11-21 (Codex): Suche nach der angeblichen KI-Musikbewertung und nach datierten Originalinterviews; SZ-Interview und Tübinger Veranstaltungsbericht als Kandidaten geprüft. Gepruefte Quellen: S081. Ergebnis: Im SZ-Browser nur Anfang und Datierung lesbar; keine relevante KI-Musikbewertung. Tübinger Bericht behandelt andere künstlerische Fragen, daher kein Ersatzbeleg.
 
 - Durchgang 2 am 2026-11-21 (Codex): Weitere datierte Originalkandidaten geprüft: Herausgebertranskript eines Podcasts sowie Radio-Bremen-Ankündigung und offizieller YouTube-Ausschnitt von 3nach9. Gepruefte Quellen: S085, S086, S087. Ergebnis: Podcaststelle behandelt Streamingvergütung. Ankündigung nennt keine KI-Bewertung; offizieller Ausschnitt bietet kein zugängliches Transkript und ersetzt nicht die gesamte Sendung. Ein Drittanbieter-Repost wurde nur als Suchhinweis behandelt, nicht als Beleg. A0052 bleibt ohne Endbewertung offen.
+
+- Durchgang 3 am 2026-11-21 (ChatGPT): Sinans 25:36-Passage mit einer 2024 erschienenen musikpädagogischen Fachpublikation verglichen, die Grönemeyers SZ-Interview vom 23.03.2023 mit Seitenzahl referenziert. Eine zusätzlich aufgerufene Präsentation einer Bildungseinrichtung erwies sich bei der Textprüfung als nicht einschlägig und wird ausdrücklich nicht als Beleg verwendet. Gepruefte Quellen: S088. Ergebnis: Direktes Grönemeyer-Zitat zur menschlichen Unvollkommenheit und ein KI-versus-Liedtext-Beispiel vorhanden; pauschaler Wortlaut über KI-Musik nicht nachgewiesen.
 
 ## JPZ3yqVJR8c-A0053
 
