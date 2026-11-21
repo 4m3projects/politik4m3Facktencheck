@@ -2,7 +2,7 @@
 
 Bearbeitet von: Codex. Grundlage ist der veröffentlichte Stand 26faf0f702c6d7aea11546f0cb3dcd4804eb9183; die ältere lokale Arbeitskopie wurde nicht darübergeschrieben.
 
-## Tatsächlicher Umfang
+## Erster veröffentlichter Rechercheumfang
 
 Alle 19 zuvor offenen Prüfgegenstände wurden erneut betrachtet. 17 erhalten ein Ergebnis: zwei teilweise belegt und 15 nicht ausreichend belegbar. Insgesamt stehen damit 100 abgeschlossene Tatsachenprüfungen, 38 Meinungen/Prognosen und zwei offene Originalbelegprüfungen im Datensatz mit unverändert 140 Aussagen und 143 Vorkommen. Die 15 neuen ungeklärten Ergebnisse sind keine Widerlegungen. Die Kategorie enthält eine Bewertung der recherchierten Beleglage zum Stichtag, keinen Beweis, dass weitere Belege unmöglich sind.
 
@@ -41,7 +41,7 @@ Die historischen Aussagen über Leistungsgrenzen und erstmalige Teilhabe wurden 
 | [JPZ3yqVJR8c-A0130](strukturiert/berichte/kapitel-12.md) | Nicht ausreichend belegbar | Eine vergleichbare Wochenreihe und eine belegte Zweckauswertung für Alfred fehlen. |
 | [JPZ3yqVJR8c-A0133](strukturiert/berichte/kapitel-12.md) | Nicht ausreichend belegbar | Die Monatssumme ist mit 1.711 Euro pro Teilwoche vereinbar, bestätigt diese Wochensumme aber nicht. |
 
-## Zwei unerledigte Originalbelegprüfungen
+## Zwei zunächst unerledigte Originalbelegprüfungen
 
 - **A0002, ungefähr 01:29–01:56:** Die erste datierte Originalsendung mit Alfred ist noch zu identifizieren. Kanalbeginn und heutige Projektbeschreibung bestimmen keinen ersten Auftritt. Die bloße erfolglose Suche wird nicht in ein Urteil über die behauptete vierjährige Geschichte umgewandelt.
 - **A0052, ungefähr 25:35–25:44:** Der konkret gemeinte Grönemeyer-Beitrag bleibt unidentifiziert. Das SZ-Interview vom 23. März 2023 war nur am Anfang lesbar. Überschrift und Einleitung bestätigen die behauptete Bewertung nicht. Der erfolglose Zugriff ist unmittelbar am Quellenverweis als kein Sachbeleg markiert.
@@ -55,3 +55,13 @@ Veröffentlicht werden eigene Formulierungen, knappe Quellenangaben und Links. K
 ## Technische Kontrolle
 
 Erfolgreich ausgeführt: Generator-Prüfmodus für dieses Video, 117 Faktencheck-Regressionstests unter Windows PowerShell und alle 136 Website-Tests des Veröffentlichungsworkflows. Wissensdatenbank, Änderungsschutz gegen origin/main und Faktenindex-Felder sind gültig; die bestehende Themenzuordnung ist kontrolliert und erzeugt keine neue öffentliche Themenkategorie. Der Publikationsprüfer hat Arbeitsbaum und Index geprüft; lokale Markdownlinks sind durch die Regressionstests kontrolliert. Die anfängliche Node-Prozesssperre und die Git-Dateibesitzprüfung wurden durch einen zulässigen Testlauf mit prozesslokaler Verzeichnisausnahme behoben, ohne globale Einstellungen zu ändern. Die technische Prüfung ersetzt weder die Sachprüfung noch den fehlenden vollständigen Bild- und Tonabgleich.
+
+## Fortgesetzte Originalquellenprüfung am selben Tag
+
+Aktualisierung durch Codex auf Grundlage des veröffentlichten Stands 76f92e7cb5c03c54492030ca5de5611f269d55cb. Der aktuelle Datensatz enthält **101 abgeschlossene Tatsachenprüfungen, 38 Meinungen/Prognosen und eine offene Tatsachenprüfung** bei unverändert 140 Aussagen und 143 Vorkommen. Die vorstehenden Zahlen dokumentieren den ersten Stand des Tages.
+
+**A0002 ist nun teilweise belegt:** Die datierte [Originalsendung vom 3. Februar 2023](https://www.youtube.com/watch?v=CtQbMitkIKk&t=130s) dokumentiert Gestaltung, Benennung und Verwendung der Roboterkatze als KI-Assistenten. Gelesen wurden die deutschen Transkriptstellen ungefähr 00:09–03:03 und 24:24–24:50. Rund drei Jahre und neun Monate bis zum geprüften Video stützen die ungefähre Vierjahresangabe. Das beweist keinen lückenlosen Einsatz, keinen früheren Ausschlusszeitpunkt und keine unveränderte technische Umsetzung. Ein Suchtreffer von April 2021 wurde mangels Alfred-Bezug verworfen. Der Versuch einer ergänzenden Bildkontrolle blieb in vorgeschalteter Werbung; daraus wird kein Bild- oder Tonbefund abgeleitet.
+
+**A0052 bleibt offen:** Das [Herausgebertranskript des Podcasts vom 3. Mai 2026](https://dudes.podigee.io/382-der-weg-das-idioten-system-mit-herbert-gronemeyer) wurde im Kontext ungefähr 41–49 Minuten gelesen. Die KI-Stelle betrifft Streamingvergütung und trägt die gesuchte künstlerische Abwertung nicht. [Radio Bremens Ankündigung vom 22. März 2023](https://www.presseportal.de/pm/118095/5469910) bestätigt den Interviewtermin; der [offizielle 2:35-Ausschnitt](https://www.youtube.com/watch?v=kOshpsLXhII) bietet kein zugängliches Transkript und ersetzt das vollständige Gespräch nicht. Ein Drittanbieter-Repost blieb ein Suchhinweis. Keiner dieser Kandidaten wird als Bestätigung der konkreten Äußerung angeführt.
+
+**Ein vollständiger Abschluss ist damit weiterhin nicht erreicht.** Es fehlen die konkrete Grönemeyer-Originalstelle und eine durchgehende Kontrolle der ganzen Folge mit tatsächlich zugänglichem Originalton und Bild einschließlich Podcastkontext und Schlusssekunden. Die verfügbare Browserkontrolle liefert Text und einzelne Bilder, aber keinen von uns gehörten Originalton. Die kostenpflichtige Szenenanalyse wurde auf Nutzerwunsch nicht eingesetzt. Weitere bloße Playerlaufzeit oder Standbilder würden diese Grenze nicht beseitigen.

@@ -10,7 +10,7 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. Zwei konkrete Originalbelegprüfungen bleiben offen (früher Alfred-Auftritt und Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.",
+    "researchNote": "Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. In der anschließenden Originalquellenprüfung wurde Alfreds Einsatz am 03.02.2023 belegt und A0002 teilweise belegt abgeschlossen. Damit 101 abgeschlossene Tatsachenprüfungen, 38 Meinungen/Prognosen und eine offene Tatsachenprüfung (Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.",
     "coverageNote": "Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen. Nachrecherche 21.11.2026: gesamte verfügbare Textspur erneut gelesen; weitere einzelne Playerbilder bei ungefähr 51:51 und 54:34 gesehen, ohne zusätzliche belastbare Grafik- oder Tonbefunde. Keine Erweiterung zu einer durchgehenden Bild- oder Tonkontrolle."
   },
   "legacyPoints": [],
@@ -678,6 +678,38 @@
       "details": "SinansWoche; öffentlich ausgewiesener Datenstand 19.11.2026; Kalenderjahr 2026; Selbstauskunft des Empfängers.",
       "accessedOn": "2026-11-21",
       "accessBasis": "Im Browser gesamte sichtbare Jahres-, Monats- und Ranglistenübersicht gelesen: November-Support 2.722,09 Euro und Jahres-Support 25.870,89 Euro. Keine datierten Einzelbuchungen, Nachrichten oder abgegrenzte Wochensumme von 1.711 Euro eingesehen. Öffentliche Pseudonyme und private Zahlungsdaten werden nicht übernommen."
+    },
+    {
+      "id": "S084",
+      "title": "So hast du Chat-GPT noch nie erlebt | SinansWoche DIE SHOW",
+      "url": "https://www.youtube.com/watch?v=CtQbMitkIKk",
+      "details": "SinansWoche; veröffentlicht 03.02.2023 laut aufgeklappter Originalbeschreibung.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originalseite im öffentlichen YouTube-Player geöffnet; Datum und deutsche Transkriptstellen ungefähr 00:09–03:03 sowie 24:24–24:50 gelesen. Dort werden Gestaltung, Benennung und Assistentenrolle Alfreds beschrieben. Kein Originalton gehört. Der Sprungversuch zur Bildstelle blieb während vorgeschalteter Werbung ohne Sichtkontrolle der Sendung; kein Bildbefund daraus abgeleitet."
+    },
+    {
+      "id": "S085",
+      "title": "Der Weg & das Idioten-System (mit Herbert Grönemeyer)",
+      "url": "https://dudes.podigee.io/382-der-weg-das-idioten-system-mit-herbert-gronemeyer",
+      "details": "Zwei wie Pech & Schwafel / Podigee; 03.05.2026; Herausgebertranskript, geprüfter Kontext ungefähr 41–49 Minuten.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Öffentliche Herausgeberseite geöffnet und Transkript im genannten Zeitbereich gelesen. KI-Musik wird im Zusammenhang mit Streamingvergütung behandelt; kein Nachweis der gesuchten künstlerischen Abwertung. Eingespielte Beiträge anderer Personen nicht Grönemeyer zugerechnet."
+    },
+    {
+      "id": "S086",
+      "title": "Kostproben von Herbert Grönemeyer in der Radio Bremen-Talkshow 3nach9 am 24.3.",
+      "url": "https://www.presseportal.de/pm/118095/5469910",
+      "details": "Radio Bremen; Pressemitteilung 22.03.2023; Ankündigung des Auftritts am 24.03.2023.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originalmitteilung von Radio Bremen gelesen. Bestätigt Termin und Gast, enthält keine gesuchte KI-Musikbewertung."
+    },
+    {
+      "id": "S087",
+      "title": "Herbert Grönemeyer bei „3nach9“",
+      "url": "https://www.youtube.com/watch?v=kOshpsLXhII",
+      "details": "3nach9 / Radio Bremen; veröffentlicht 25.03.2023; öffentlich angezeigte Laufzeit 02:35.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originalseite und aufgeklappte Beschreibung gelesen. Kurzer Ausschnitt mit Angaben über Textarbeit und Gesang; Untertitel im Player als nicht verfügbar angezeigt, kein Transkript angeboten. Kein Originalton gehört; kein vollständiger Abgleich des Interviews und kein Sachbeleg für A0052."
     }
   ],
   "speakers": [
@@ -741,18 +773,23 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Figur Alfred werde seit ungefähr vier Jahren in eigenen Sendungen eingesetzt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Persönliche Projektgeschichte; ein vollständiges datiertes Archiv wurde nicht geprüft.",
-      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): Originaluntertitel erneut gelesen; konkrete Quellen- und Zugriffslücke bleibt offen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Eine datierte Originalsendung vom 3. Februar 2023 dokumentiert Alfred bereits als gestaltete Roboterkatze und KI-Assistenten. Die gelesenen Originaltranskriptstellen erklären die Namensgebung und fragen am Ende nach seiner weiteren Verwendung als Sidekick. Bis zur Veröffentlichung des geprüften Videos am 20. November 2026 sind das rund drei Jahre und neun Monate; die ungefähre Vierjahresangabe ist damit zeitlich plausibel gestützt. Nicht nachgewiesen sind ein ausnahmsloser Einsatz während des gesamten Zeitraums, der allererste Auftritt oder eine unveränderte technische Umsetzung. Das heutige eigenständige Kanalprojekt wird nicht mit dem damaligen Assistenten gleichgesetzt.",
+      "assessmentBasis": "Fortgesetzte Originalquellenprüfung 21.11.2026 (Codex): datierte Herausgeberseite und relevante deutsche Transkriptstellen gelesen; keine Audio- oder Bildbestätigung dieser älteren Sendung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen. Recherche 21.11.2026 (Codex): Status Offen bleibt wegen der konkret fehlenden Originalfundstelle erhalten."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Recherche 21.11.2026 (Codex): Status Offen bleibt wegen der konkret fehlenden Originalfundstelle erhalten. Fortsetzung 21.11.2026: früher Originalbeleg gefunden; von Offen zu Abgeschlossen / Teilweise belegt geändert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S084",
+          "note": "Sachbeleg für den dokumentierten Einsatz am 03.02.2023; etwa 02:10–03:03 und 24:24–24:50 in der Textspur. Kein Beweis für lückenlosen Einsatz oder frühestmöglichen Beginn."
+        }
+      ],
       "openQuestions": [
-        "Wann erschien die Figur erstmals und in welcher technischen Form?"
+        "Für eine lückenlose Nutzungsgeschichte wären weitere datierte Sendungen und Belege zur technischen Entwicklung nötig. Ein früherer Beginn wird durch die gefundene Sendung nicht ausgeschlossen."
       ],
       "occurrences": [
         {
@@ -787,11 +824,21 @@
               "S076"
             ],
             "result": "Keine früheste Originalsendung identifiziert. Der Kanalbeginn 2021 belegt nicht den ersten Auftritt Alfreds."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Öffentliche Kanalsuche nach Alfred und anschließend ChatGPT; Kandidaten anhand tatsächlicher Originalseiten und zugänglicher deutscher Transkriptstellen geprüft.",
+            "sourceIds": [
+              "S084"
+            ],
+            "result": "Ein Treffer von April 2021 enthielt in der Transkriptsuche keinen Alfred-Bezug und wurde verworfen. Die Sendung vom 03.02.2023 benennt und verwendet Alfred als KI-Assistenten. Sie trägt die ungefähre Dauer, aber keinen lückenlosen Nutzungsverlauf."
           }
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Eine Originalsendung vom Februar 2023 belegt Alfreds frühen Einsatz; die ungefähre Zeitspanne passt, ein durchgehender Einsatz ist nicht belegt."
     },
     {
       "id": "JPZ3yqVJR8c-A0003",
@@ -3609,7 +3656,7 @@
       "description": "Herbert Grönemeyer habe KI-Musik als künstlerisch unzureichend kritisiert.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – Der im Video gemeinte Grönemeyer-Beitrag ist weiterhin nicht identifiziert. Das als Kandidat gefundene SZ-Interview vom März 2023 war nur am Anfang lesbar; aus Titel und Einleitung wird keine Bewertung von KI-Musik abgeleitet.",
+      "reason": "Noch nicht geprüft – Der im Video gemeinte Grönemeyer-Beitrag ist weiterhin nicht identifiziert. Das als Kandidat gefundene SZ-Interview vom März 2023 war nur am Anfang lesbar; aus Titel und Einleitung wird keine Bewertung von KI-Musik abgeleitet. Fortgesetzte Recherche: Das öffentlich gelesene Podcasttranskript vom 3. Mai 2026 betrifft an der KI-Stelle Vergütung statt künstlerischer Qualität. Radio Bremens Ankündigung und der nur 2:35 lange offizielle Ausschnitt vom März 2023 ersetzen das fehlende vollständige Gespräch nicht.",
       "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): Originaluntertitel erneut gelesen; konkrete Quellen- und Zugriffslücke bleibt offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3620,6 +3667,18 @@
         {
           "sourceId": "S081",
           "note": "Erfolgloser Abrufversuch – kein Sachbeleg für die behauptete Äußerung; nur Datierung und Interviewanfang im Browser gelesen."
+        },
+        {
+          "sourceId": "S085",
+          "note": "Geprüfter Kandidat – kein Sachbeleg für die konkret zugeschriebene künstlerische Bewertung; tatsächliche Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S086",
+          "note": "Geprüfter Kandidat – kein Sachbeleg für die konkret zugeschriebene künstlerische Bewertung; tatsächliche Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S087",
+          "note": "Geprüfter Kandidat – kein Sachbeleg für die konkret zugeschriebene künstlerische Bewertung; tatsächliche Zugriffsgrenzen im Quellenverzeichnis."
         }
       ],
       "openQuestions": [
@@ -3657,6 +3716,17 @@
               "S081"
             ],
             "result": "Im SZ-Browser nur Anfang und Datierung lesbar; keine relevante KI-Musikbewertung. Tübinger Bericht behandelt andere künstlerische Fragen, daher kein Ersatzbeleg."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Weitere datierte Originalkandidaten geprüft: Herausgebertranskript eines Podcasts sowie Radio-Bremen-Ankündigung und offizieller YouTube-Ausschnitt von 3nach9.",
+            "sourceIds": [
+              "S085",
+              "S086",
+              "S087"
+            ],
+            "result": "Podcaststelle behandelt Streamingvergütung. Ankündigung nennt keine KI-Bewertung; offizieller Ausschnitt bietet kein zugängliches Transkript und ersetzt nicht die gesamte Sendung. Ein Drittanbieter-Repost wurde nur als Suchhinweis behandelt, nicht als Beleg. A0052 bleibt ohne Endbewertung offen."
           }
         ],
         "missingInformation": null,

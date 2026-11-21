@@ -1,6 +1,6 @@
 # Nachprüfung der KI-Debatte bei SinansWoche
 
-Historischer Zwischenstand der Nachprüfung vom 20. November. Für den aktuellen Umfang und die nun zwei offenen Originalbelege siehe [Nachrecherche 21. November 2026](NACHRECHERCHE_2026-11-21.md).
+Historischer Zwischenstand der Nachprüfung vom 20. November. Für den aktuellen Umfang und den aktuellen offenen Originalbeleg siehe [Nachrecherche 21. November 2026](NACHRECHERCHE_2026-11-21.md).
 
 Bearbeitet von: Codex · 20. November 2026 · Nachprüfung auf ausdrücklichen Nutzerauftrag.
 

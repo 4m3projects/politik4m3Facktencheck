@@ -112,4 +112,4 @@ Die Figur Alfred kommentiert die vorangegangenen Überlegungen und trennt persö
 
 Die Untertitelspur wurde über die gesamte verfügbare Länge gelesen. Kleine Pausen und automatische Erkennungsfehler sind möglich. Allein sichtbare Grafiken, Herkunft und Schnitt der Podcastausschnitte, Sprecherwechsel sowie Musik wurden nicht flächendeckend kontrolliert. Die letzten rund drei Sekunden nach dem Ende der Untertitel bleiben ausdrücklich ungeprüft. Für die Bildstichproben und die vollständige Quellenart siehe [Grundlage](README.md).
 
-Aktualisierung 21. November 2026 (Codex): Die abschließende Einordnung der recherchierten Beleggrenzen ist von den zwei offenen Originalbelegen getrennt; Themen- und Zeitgliederung unverändert. [Aktueller Recherchebericht](NACHRECHERCHE_2026-11-21.md).
+Aktualisierung 21. November 2026 (Codex): Die abschließende Einordnung der recherchierten Beleggrenzen ist von dem verbleibenden offenen Originalbeleg getrennt; Themen- und Zeitgliederung unverändert. [Aktueller Recherchebericht](NACHRECHERCHE_2026-11-21.md).

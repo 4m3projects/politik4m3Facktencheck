@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen. Nachrecherche 21.11.2026: gesamte verfügbare Textspur erneut gelesen; weitere einzelne Playerbilder bei ungefähr 51:51 und 54:34 gesehen, ohne zusätzliche belastbare Grafik- oder Tonbefunde. Keine Erweiterung zu einer durchgehenden Bild- oder Tonkontrolle.
 
-Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. Zwei konkrete Originalbelegprüfungen bleiben offen (früher Alfred-Auftritt und Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.
+Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. In der anschließenden Originalquellenprüfung wurde Alfreds Einsatz am 03.02.2023 belegt und A0002 teilweise belegt abgeschlossen. Damit 101 abgeschlossene Tatsachenprüfungen, 38 Meinungen/Prognosen und eine offene Tatsachenprüfung (Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0044
 
@@ -383,7 +383,7 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Der im Video gemeinte Grönemeyer-Beitrag ist weiterhin nicht identifiziert. Das als Kandidat gefundene SZ-Interview vom März 2023 war nur am Anfang lesbar; aus Titel und Einleitung wird keine Bewertung von KI-Musik abgeleitet.
+Noch nicht geprüft – Der im Video gemeinte Grönemeyer-Beitrag ist weiterhin nicht identifiziert. Das als Kandidat gefundene SZ-Interview vom März 2023 war nur am Anfang lesbar; aus Titel und Einleitung wird keine Bewertung von KI-Musik abgeleitet. Fortgesetzte Recherche: Das öffentlich gelesene Podcasttranskript vom 3. Mai 2026 betrifft an der KI-Stelle Vergütung statt künstlerischer Qualität. Radio Bremens Ankündigung und der nur 2:35 lange offizielle Ausschnitt vom März 2023 ersetzen das fehlende vollständige Gespräch nicht.
 
 Grundlage der Bewertung: Nachrecherche 21.11.2026 (Codex): Originaluntertitel erneut gelesen; konkrete Quellen- und Zugriffslücke bleibt offen.
 
@@ -396,6 +396,15 @@ Bewertungsuebergang: Keine frühere Bewertung übernommen. Recherche 21.11.2026 
 - [Interview zu Grönemeyers Textarbeit und ChatGPT](https://www.sueddeutsche.de/magazin/musik/herbert-groenemeyer-chat-gpt-kuenstliche-intelligenz-mensch-szm.92539?reduced=true) · Max Fellmann / Lara Fritzsche, SZ-Magazin; 23.03.2023, Heft 12/23.
   Quellenzugriff am 2026-11-21. Webabruf zunächst erfolglos (Cache miss); im öffentlichen Browser nur Überschrift, Datierung, Einleitung und erster Gesprächswechsel zugänglich. Die relevante Bewertung von KI-Musik nicht gelesen; kein Sachbeleg für die behauptete Äußerung. Erfolgloser Abrufversuch – kein Sachbeleg für die behauptete Äußerung; nur Datierung und Interviewanfang im Browser gelesen.
 
+- [Der Weg & das Idioten-System (mit Herbert Grönemeyer)](https://dudes.podigee.io/382-der-weg-das-idioten-system-mit-herbert-gronemeyer) · Zwei wie Pech & Schwafel / Podigee; 03.05.2026; Herausgebertranskript, geprüfter Kontext ungefähr 41–49 Minuten.
+  Quellenzugriff am 2026-11-21. Öffentliche Herausgeberseite geöffnet und Transkript im genannten Zeitbereich gelesen. KI-Musik wird im Zusammenhang mit Streamingvergütung behandelt; kein Nachweis der gesuchten künstlerischen Abwertung. Eingespielte Beiträge anderer Personen nicht Grönemeyer zugerechnet. Geprüfter Kandidat – kein Sachbeleg für die konkret zugeschriebene künstlerische Bewertung; tatsächliche Zugriffsgrenzen im Quellenverzeichnis.
+
+- [Kostproben von Herbert Grönemeyer in der Radio Bremen-Talkshow 3nach9 am 24.3.](https://www.presseportal.de/pm/118095/5469910) · Radio Bremen; Pressemitteilung 22.03.2023; Ankündigung des Auftritts am 24.03.2023.
+  Quellenzugriff am 2026-11-21. Originalmitteilung von Radio Bremen gelesen. Bestätigt Termin und Gast, enthält keine gesuchte KI-Musikbewertung. Geprüfter Kandidat – kein Sachbeleg für die konkret zugeschriebene künstlerische Bewertung; tatsächliche Zugriffsgrenzen im Quellenverzeichnis.
+
+- [Herbert Grönemeyer bei „3nach9“](https://www.youtube.com/watch?v=kOshpsLXhII) · 3nach9 / Radio Bremen; veröffentlicht 25.03.2023; öffentlich angezeigte Laufzeit 02:35.
+  Quellenzugriff am 2026-11-21. Originalseite und aufgeklappte Beschreibung gelesen. Kurzer Ausschnitt mit Angaben über Textarbeit und Gesang; Untertitel im Player als nicht verfügbar angezeigt, kein Transkript angeboten. Kein Originalton gehört; kein vollständiger Abgleich des Interviews und kein Sachbeleg für A0052. Geprüfter Kandidat – kein Sachbeleg für die konkret zugeschriebene künstlerische Bewertung; tatsächliche Zugriffsgrenzen im Quellenverzeichnis.
+
 ### Offene Fragen und Unsicherheiten
 
 - Die konkrete Originaläußerung mit Datum und vollständigem Kontext finden; das nur teilweise zugängliche SZ-Interview ist dafür bislang kein Beleg.
@@ -405,6 +414,8 @@ Bewertungsuebergang: Keine frühere Bewertung übernommen. Recherche 21.11.2026 
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
 - Durchgang 1 am 2026-11-21 (Codex): Suche nach der angeblichen KI-Musikbewertung und nach datierten Originalinterviews; SZ-Interview und Tübinger Veranstaltungsbericht als Kandidaten geprüft. Gepruefte Quellen: S081. Ergebnis: Im SZ-Browser nur Anfang und Datierung lesbar; keine relevante KI-Musikbewertung. Tübinger Bericht behandelt andere künstlerische Fragen, daher kein Ersatzbeleg.
+
+- Durchgang 2 am 2026-11-21 (Codex): Weitere datierte Originalkandidaten geprüft: Herausgebertranskript eines Podcasts sowie Radio-Bremen-Ankündigung und offizieller YouTube-Ausschnitt von 3nach9. Gepruefte Quellen: S085, S086, S087. Ergebnis: Podcaststelle behandelt Streamingvergütung. Ankündigung nennt keine KI-Bewertung; offizieller Ausschnitt bietet kein zugängliches Transkript und ersetzt nicht die gesamte Sendung. Ein Drittanbieter-Repost wurde nur als Suchhinweis behandelt, nicht als Beleg. A0052 bleibt ohne Endbewertung offen.
 
 ## JPZ3yqVJR8c-A0053
 
