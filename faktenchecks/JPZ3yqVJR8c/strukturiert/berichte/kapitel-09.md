@@ -1,8 +1,8 @@
 # Kapitel 09: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen. Nachrecherche 21.11.2026: gesamte verfügbare Textspur erneut gelesen; weitere einzelne Playerbilder bei ungefähr 51:51 und 54:34 gesehen, ohne zusätzliche belastbare Grafik- oder Tonbefunde. Keine Erweiterung zu einer durchgehenden Bild- oder Tonkontrolle.
 
-Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
+Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. Zwei konkrete Originalbelegprüfungen bleiben offen (früher Alfred-Auftritt und Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0093
 
@@ -226,7 +226,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein früher eigener Rechner habe per Turboknopf von 60 auf 90 MHz umgeschaltet.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -245,21 +245,35 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Individuelle Hardwareerinnerung ohne Modell und Schaltungsbeleg; kein Vergleichsgerät untersucht.
+Die private Erinnerung lässt sich ohne Rechner-, Mainboard- und Prozessormodell nicht einem dokumentierten Gerät zuordnen. Eine gezielte Suche nach der konkreten Erinnerung brachte keinen geeigneten Gerätebeleg; die zusätzlich gelesene Intel-Historie beschreibt allgemeine Prozessorentwicklungen, nicht den Rechner des Moderators. Ob die Anzeige reale Kerntakte, Busfrequenzen oder eine andere Betriebsart bezeichnete, bleibt unklar. Die Zahlen werden weder bestätigt noch als unmöglich verworfen.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Individuelle Hardwareerinnerung ohne Modell und Schaltungsbeleg; kein Vergleichsgerät untersucht.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [SinansWoche: Eigene Analyse zur KI-Entwicklung](https://www.youtube.com/watch?v=JPZ3yqVJR8c) · SinansWoche; veröffentlicht 20.11.2026; Originalplayer, Beschreibung und automatische deutsche Untertitel.
+  Quellenzugriff am 2026-11-20. Originalbeschreibung sowie vollständig verfügbare automatische Untertitel gelesen. Bildstichprobe 31:07 ergänzt; kein Originalton gehört. Diese Quelle belegt, was der Kanal darstellt, nicht die Wahrheit privater Vorgänge. Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs.
+
+- [Transistors to Transformations](https://www.intel.com.tw/content/dam/www/public/us/en/documents/corporate-information/museum-transistors-to-transformations-brochure.pdf) · Intel; Museum-Broschüre mit Produktdaten 1971–2011 und 22-nm-Einführung 2012; Herstellerdokument.
+  Quellenzugriff am 2026-11-20. Historische Produkttabelle gelesen; 4004 mit 2.300 Transistoren (1971), Core i7 mit 1,16 Milliarden (2010). Keine Hochrechnung auf alle Produktklassen. Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis.
 
 ### Offene Fragen und Unsicherheiten
 
 - Welches Rechnermodell und welche tatsächlichen Taktraten sind gemeint?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Welches Rechnermodell und welche tatsächlichen Taktraten sind gemeint?
+
+- Durchgang 1 am 2026-11-21 (Codex): Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen. Gepruefte Quellen: S061. Ergebnis: Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung.
+
+- Durchgang 2 am 2026-11-21 (Codex): Suche nach der konkreten Rechnererinnerung; alternativ historische Herstellerdarstellung zur Prozessorentwicklung gelesen. Gepruefte Quellen: S070. Ergebnis: Keine identifizierende Angabe zum privaten Gerät gefunden; allgemeine Herstellerdaten entscheiden diesen Einzelfall nicht.
 
 ## JPZ3yqVJR8c-A0099
 

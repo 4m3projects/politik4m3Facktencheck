@@ -1,8 +1,8 @@
 # Kapitel 05: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen. Nachrecherche 21.11.2026: gesamte verfügbare Textspur erneut gelesen; weitere einzelne Playerbilder bei ungefähr 51:51 und 54:34 gesehen, ohne zusätzliche belastbare Grafik- oder Tonbefunde. Keine Erweiterung zu einer durchgehenden Bild- oder Tonkontrolle.
 
-Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
+Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. Zwei konkrete Originalbelegprüfungen bleiben offen (früher Alfred-Auftritt und Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0036
 
@@ -103,7 +103,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein befreundeter Unternehmer optimiere Logistik, Lager und Buchhaltung seiner Grillgeschäfte mit KI.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -122,21 +122,32 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Wiedergegebene persönliche Auskunft; betriebliche Abläufe und Einsparungen wurden nicht geprüft.
+Im Beitrag wird eine persönliche Auskunft über einen befreundeten Unternehmer wiedergegeben. Die Suche nach Joscha, Grillhandel und KI-Buchhaltung beziehungsweise Logistik ergab keinen gelesenen betrieblichen Ablauf- oder Ergebnisbeleg. Ein zusätzlicher Lokalbericht war wegen HTTP 429 nicht lesbar und wird nicht als Bestätigung geführt. Allgemeine Automatisierungsangebote oder die Existenz eines Unternehmens bestätigen diese konkreten internen Einsätze nicht. Die Einschätzung betrifft die unzureichende öffentliche Beleglage, nicht die Glaubwürdigkeit des Erzählers.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Wiedergegebene persönliche Auskunft; betriebliche Abläufe und Einsparungen wurden nicht geprüft.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [SinansWoche: Eigene Analyse zur KI-Entwicklung](https://www.youtube.com/watch?v=JPZ3yqVJR8c) · SinansWoche; veröffentlicht 20.11.2026; Originalplayer, Beschreibung und automatische deutsche Untertitel.
+  Quellenzugriff am 2026-11-20. Originalbeschreibung sowie vollständig verfügbare automatische Untertitel gelesen. Bildstichprobe 31:07 ergänzt; kein Originalton gehört. Diese Quelle belegt, was der Kanal darstellt, nicht die Wahrheit privater Vorgänge. Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs.
 
 ### Offene Fragen und Unsicherheiten
 
 - Welche konkreten Anwendungen und belegbaren betrieblichen Auswirkungen gibt es?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Welche konkreten Anwendungen und belegbaren betrieblichen Auswirkungen gibt es?
+
+- Durchgang 1 am 2026-11-21 (Codex): Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen. Gepruefte Quellen: S061. Ergebnis: Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung.
+
+- Durchgang 2 am 2026-11-21 (Codex): Suche nach dem genannten Unternehmer, Grillhandel, KI, Logistik und Buchhaltung; alternativer indirekter Prüfweg über Unternehmensberichterstattung. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Kein geeigneter gelesener Beleg zu den konkreten internen Anwendungen; ein gesperrter Lokalbericht zählt nicht als Sachbeleg.
 
 ## JPZ3yqVJR8c-A0039
 

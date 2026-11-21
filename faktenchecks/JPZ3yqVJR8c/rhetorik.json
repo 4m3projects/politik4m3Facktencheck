@@ -3,10 +3,10 @@
   "videoId": "JPZ3yqVJR8c",
   "review": {
     "status": "Teilweise geprüft",
-    "checkedOn": "2026-11-20",
+    "checkedOn": "2026-11-21",
     "by": "Codex",
-    "basis": "Vollständige erneute Lektüre der deutschen automatischen Originaluntertitel und fünf dokumentierte Bildstichproben. Ergänzende Betrachtung der Stromgrafik bei 31:07 in der Nachprüfung; kein Originalton gehört.",
-    "coverage": "Textgrundlage über die verfügbare Länge; Originalbilder bei 00:00:31, 00:31:07, 00:33:39, 00:43:10 und 00:43:21. Keine vollständige Darstellungsprüfung.",
+    "basis": "Vollständige erneute Lektüre der deutschen automatischen Originaluntertitel und fünf dokumentierte Bildstichproben. Ergänzende Betrachtung der Stromgrafik bei 31:07 in der Nachprüfung; kein Originalton gehört. Nachrecherche 21.11.2026: Textspur erneut vollständig gelesen; zwei zusätzliche Einzelbilder bei ungefähr 51:51 und 54:34 ohne daraus abgeleitete neue Sachbefunde.",
+    "coverage": "Textgrundlage über die verfügbare Länge; Originalbilder bei 00:00:31, 00:31:07, 00:33:39, 00:43:10 und 00:43:21. Keine vollständige Darstellungsprüfung. Weitere Einzelbilder ungefähr 51:51 und 54:34; kein neuer Tonzugang.",
     "limits": [
       "Originalton wurde nicht gehört; Stimmführung und Sprecherwechsel bleiben unkontrolliert.",
       "Bilder, Einblendungen und Schnitt wurden nicht über die gesamte Laufzeit kontrolliert.",
@@ -22,6 +22,11 @@
         "date": "2026-11-20",
         "by": "Codex",
         "change": "Zusätzliche Bildstichprobe 31:07: Stromgrafik zeigt 565 TWh als Prognose. Keine vollständige Darstellungs- oder Tonprüfung."
+      },
+      {
+        "date": "2026-11-21",
+        "by": "Codex",
+        "change": "Erneute Textprüfung und ergänzende Einzelbilder dokumentiert; Status Teilweise geprüft und sämtliche Abdeckungsgrenzen bleiben erhalten."
       }
     ]
   },

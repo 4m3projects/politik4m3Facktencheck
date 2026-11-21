@@ -12,8 +12,10 @@ Rebound dient als Erklärung für wachsende Nachfrage. Danach vergleicht der Bei
 
 ## Fazit und offene Punkte
 
-Rebound ist keine allgemeine Aufhebung jeder Einsparung. Historische Daten zeigen deutliche Arbeitszeitverkürzungen und zugleich höhere Produktion. Öffentliche Überlegungen zu einer KI-Pause sind dokumentiert; Firmenmotive und pauschale menschliche Leistungsgrenzen bleiben getrennte, offene Fragen. Eine führende Tatsachenprüfung dieses Kapitels ist offen; die konkrete Frage steht im verlinkten Bericht.
+Historische Arbeitszeitreihen belegen weder eine einheitliche individuelle Leistungsgrenze noch deren dauerhafte Ausschöpfung. Diese Verallgemeinerung ist nach Vergleich zweier Forschungsgrundlagen nicht ausreichend belegbar. Die bestehenden Rebound- und Politikbewertungen bleiben erhalten.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
 
 Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.
+
+Aktualisierung 21. November 2026 (Codex): Gezielte Nachrecherche; frühere Einordnung in der Git-Historie und im zentralen Datensatz erhalten.

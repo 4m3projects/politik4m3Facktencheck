@@ -5,13 +5,13 @@
     "videoId": "JPZ3yqVJR8c",
     "videoUrl": "https://www.youtube.com/watch?v=JPZ3yqVJR8c",
     "durationSeconds": 3844,
-    "asOf": "2026-11-20",
+    "asOf": "2026-11-21",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.",
-    "coverageNote": "Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen."
+    "researchNote": "Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. Zwei konkrete Originalbelegprüfungen bleiben offen (früher Alfred-Auftritt und Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.",
+    "coverageNote": "Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen. Nachrecherche 21.11.2026: gesamte verfügbare Textspur erneut gelesen; weitere einzelne Playerbilder bei ungefähr 51:51 und 54:34 gesehen, ohne zusätzliche belastbare Grafik- oder Tonbefunde. Keine Erweiterung zu einer durchgehenden Bild- oder Tonkontrolle."
   },
   "legacyPoints": [],
   "sources": [
@@ -590,6 +590,94 @@
       "details": "Le Monde; 28.10.2025; zeitgenössischer Wirtschaftsbericht, keine eigene Personalvollerhebung.",
       "accessedOn": "2026-11-20",
       "accessBasis": "Öffentlich zugängliche Absätze zu rund 350.000 Corporate-Beschäftigten und damaligen Abbauplänen gelesen. Nicht mit dem Gesamtpersonalbestand oder einem verifizierten Januar-2026-Nenner gleichgesetzt."
+    },
+    {
+      "id": "S073",
+      "title": "Mathematics in the Age of AI: Befragung zur mathematischen Arbeit",
+      "url": "https://martingale.foundation/nine-in-ten-mathematicians-surveyed-expect-ai-to-threaten-their-work-as-phd-students-fear-for-their-development-and-careers/",
+      "details": "Martingale Foundation; 27.10.2026; freiwillige Befragung von 262 Studierenden und Forschenden an britischen Universitäten.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originalmitteilung vollständig einschließlich Stichprobenbeschreibung, Ergebnisgruppen und Selbstselektion gelesen; keine repräsentative Vollerhebung oder klinische Diagnostik."
+    },
+    {
+      "id": "S074",
+      "title": "Mathematics in the age of AI",
+      "url": "https://royalsociety.org/news-resources/publications/2026/mathematics-in-the-age-of-ai/",
+      "details": "Royal Society; 16.11.2026; Veranstaltungsbericht zum 29.10.2026.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Publikationsseite und Beschreibung der erörterten Chancen und Probleme gelesen; keine eigene Befragung und kein Beweis einer individuellen psychischen Erkrankung."
+    },
+    {
+      "id": "S075",
+      "title": "SinansWoche: öffentliche Projekt- und Selbstdarstellung",
+      "url": "https://sinanswoche.de/",
+      "details": "Sinan Kurtulus / SinansWoche; undatierte laufende Website, Abrufstand 21.11.2026.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Im öffentlichen Browser Hauptseite einschließlich Projektübersicht, Produktionsbeschreibung und Verweisen gelesen. Belegt die öffentliche Selbstdarstellung und Existenz von Angeboten, keine internen Produktionsprotokolle oder unabhängige Qualitätsprüfung."
+    },
+    {
+      "id": "S076",
+      "title": "SinansWoche: Projektübersicht",
+      "url": "https://sinanswoche.de/projekte/",
+      "details": "SinansWoche; laufende Herausgeberseite, Abrufstand 21.11.2026.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Projektliste im öffentlichen Browser gelesen. Wetter-App, Sonnenrechner und Freiburg-Projekt sind verlinkt; keine datierten vollständigen Entstehungs- oder Agentenprotokolle geprüft."
+    },
+    {
+      "id": "S077",
+      "title": "Quellen und Lizenzen: Freiburg Edition",
+      "url": "https://sinanswoche.de/freiburg/quellen.html",
+      "details": "SinansWoche; ausgewiesener redaktioneller Datenstand August 2026.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Gesamte Quellenübersicht im öffentlichen Browser gelesen: DWD, Freiburger Wahlergebnisse, BKA, INKAR, Bundesagentur für Arbeit und amtliche Wohn-/Einkommensdaten. Die Lizenzangaben sind Herausgeberangaben; keine pauschale Rechtefreigabe und keine vollständige Replikation sämtlicher Reihen."
+    },
+    {
+      "id": "S078",
+      "title": "Politik: Freiburg Edition",
+      "url": "https://sinanswoche.de/freiburg/politik.html",
+      "details": "SinansWoche; Gemeinderatswahlen 1999–2024, Seitenstand mit Grafikversion August 2026.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Beschreibung, Zahlen zur Entwicklung von CDU und SPD und Quellenverweise der eingebetteten interaktiven Wahlgrafik im öffentlichen Browser gelesen. Keine vollständige Kontrolle aller Datenpunkte oder historischen Websiteversionen."
+    },
+    {
+      "id": "S079",
+      "title": "Amtliches Endergebnis Gemeinderatswahl 1999: Stimmen und Sitzverteilung",
+      "url": "https://fritz.freiburg.de/wahl/gw99.htm",
+      "details": "Stadt Freiburg im Breisgau; Gemeinderatswahl 1999; amtliches Endergebnis.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originaltabelle geöffnet; die zusammenfassenden Parteiwerte gelesen und CDU 31,1 Prozent sowie SPD 20,8 Prozent mit der Projektseite abgeglichen. Kandidaten- und Stadtbezirkstabellen nicht einzeln geprüft."
+    },
+    {
+      "id": "S080",
+      "title": "The working week in manufacturing since 1820",
+      "url": "https://www.oecd.org/en/publications/how-was-life-volume-ii_3d96efc5-en/full-report/component-8.html",
+      "details": "OECD, How Was Life? Volume II; 2021; historische Reihe 1820–2010, produzierendes Gewerbe.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Einleitung, Zusammenfassung und historische Entwicklung der Wochenarbeitszeit gelesen. Die Reihe misst Arbeitsdauer, keine individuelle körperliche oder psychische Leistungsgrenze."
+    },
+    {
+      "id": "S081",
+      "title": "Interview zu Grönemeyers Textarbeit und ChatGPT",
+      "url": "https://www.sueddeutsche.de/magazin/musik/herbert-groenemeyer-chat-gpt-kuenstliche-intelligenz-mensch-szm.92539?reduced=true",
+      "details": "Max Fellmann / Lara Fritzsche, SZ-Magazin; 23.03.2023, Heft 12/23.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Webabruf zunächst erfolglos (Cache miss); im öffentlichen Browser nur Überschrift, Datierung, Einleitung und erster Gesprächswechsel zugänglich. Die relevante Bewertung von KI-Musik nicht gelesen; kein Sachbeleg für die behauptete Äußerung."
+    },
+    {
+      "id": "S082",
+      "title": "Wenn Provokation plötzlich von rechts kommt",
+      "url": "https://www.youtube.com/watch?v=CddMQIyueII",
+      "details": "SinansWoche; öffentlich angezeigte Veröffentlichung 22.08.2025; Beschreibung am 21.11.2026 gelesen.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Titel, Datum und aktuell ausgeklappte Beschreibung im Originalplayer gelesen; kein Ton kontrolliert. Ein Suchausschnitt erwähnte einen Teleprompterverweis, der in der tatsächlich gelesenen aktuellen Beschreibung nicht enthalten war. Suchausschnitt ausdrücklich nicht als historischer Projektbeleg verwendet."
+    },
+    {
+      "id": "S083",
+      "title": "SinansWoche: Support und Einnahmen, erneuter Abgleich",
+      "url": "https://finanzen.sinanswoche.de/",
+      "details": "SinansWoche; öffentlich ausgewiesener Datenstand 19.11.2026; Kalenderjahr 2026; Selbstauskunft des Empfängers.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Im Browser gesamte sichtbare Jahres-, Monats- und Ranglistenübersicht gelesen: November-Support 2.722,09 Euro und Jahres-Support 25.870,89 Euro. Keine datierten Einzelbuchungen, Nachrichten oder abgegrenzte Wochensumme von 1.711 Euro eingesehen. Öffentliche Pseudonyme und private Zahlungsdaten werden nicht übernommen."
     }
   ],
   "speakers": [
@@ -656,11 +744,11 @@
       "status": "Offen",
       "verdict": null,
       "reason": "Noch nicht geprüft – Persönliche Projektgeschichte; ein vollständiges datiertes Archiv wurde nicht geprüft.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): Originaluntertitel erneut gelesen; konkrete Quellen- und Zugriffslücke bleibt offen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Recherche 21.11.2026 (Codex): Status Offen bleibt wegen der konkret fehlenden Originalfundstelle erhalten."
       },
       "sourceRefs": [],
       "openQuestions": [
@@ -685,7 +773,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Zwei Suchen nach früher Alfred-Nutzung, mit Jahresbezug 2022/2023 und Roboterkatze; direkte Kontrolle der aktuellen Projektseiten.",
+            "sourceIds": [
+              "S075",
+              "S076"
+            ],
+            "result": "Keine früheste Originalsendung identifiziert. Der Kanalbeginn 2021 belegt nicht den ersten Auftritt Alfreds."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0003",
@@ -694,16 +800,29 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Frühe eigene KI-Nutzung habe vor allem kurze Erklärtexte geliefert.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Selbstauskunft über einen privaten Arbeitsablauf; ohne damalige Arbeitsbelege nicht unabhängig verifiziert.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die Selbstauskunft über frühe Erklärungstexte ist nachvollziehbar beschrieben, aber durch die geprüften öffentlichen Projektseiten nicht historisch belegt. Deren heutige Angebote dokumentieren weder damalige Prompts noch Ausgaben oder den Anteil solcher Aufgaben. Die Recherche ergab keinen geeigneten datierten Arbeitsbeleg; daraus folgt keine Widerlegung.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Selbstauskunft über einen privaten Arbeitsablauf; ohne damalige Arbeitsbelege nicht unabhängig verifiziert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        },
+        {
+          "sourceId": "S075",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S076",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
         "Welche zeitgenössischen Arbeitsstände dokumentieren diese Nutzung?"
       ],
@@ -726,7 +845,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Zeitgenössische Arbeitsbelege für frühe Erklärungstexte fehlen.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Suche nach frühen KI- und Alfred-Verwendungen; Abgleich mit der öffentlichen Projektchronologie.",
+            "sourceIds": [
+              "S075",
+              "S076"
+            ],
+            "result": "Die heutige Selbstdarstellung enthält keine nachvollziehbare Dokumentation der damaligen Nutzung."
+          }
+        ],
+        "missingInformation": "Welche zeitgenössischen Arbeitsstände dokumentieren diese Nutzung?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0004",
@@ -796,16 +943,29 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein selbst mit KI gebauter sprachgesteuerter Teleprompter habe ein bezahltes Abonnement ersetzt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Privater Kündigungs- und Entwicklungsbericht; Kündigung, Funktionsumfang und Qualität wurden nicht unabhängig belegt.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die öffentliche Projektsuche und die Prüfung einer älteren Originalbeschreibung liefern keinen ausreichenden Nachweis des behaupteten Gesamtvorgangs. Ein im Suchausschnitt erwähnter Teleprompterlink ist in der aktuell gelesenen Beschreibung nicht vorhanden und wurde nicht als Beleg benutzt. Auch ein funktionierendes Programm würde weder KI-Urheberschaft noch Kündigung und Qualitätsgleichheit nachweisen. Der private Abonnementwechsel bleibt mit der gelesenen Grundlage unbestätigt.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Privater Kündigungs- und Entwicklungsbericht; Kündigung, Funktionsumfang und Qualität wurden nicht unabhängig belegt."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        },
+        {
+          "sourceId": "S076",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S082",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
         "Sind datierte Eigenentwicklung, Vergleich und Kündigung nachweisbar?"
       ],
@@ -828,7 +988,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Entwicklung, Kündigung und Qualitätsvergleich sind öffentlich nicht hinreichend dokumentiert.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche nach Teleprompter, Sinan Kurtulus und öffentlichem Code; Gegenprüfung des älteren Videotreffers im Original.",
+            "sourceIds": [
+              "S076",
+              "S082"
+            ],
+            "result": "Der ältere Suchhinweis ließ sich in der gelesenen Beschreibung nicht bestätigen; ein Kündigungsbeleg liegt nicht vor."
+          }
+        ],
+        "missingInformation": "Sind datierte Eigenentwicklung, Vergleich und Kündigung nachweisbar?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0006",
@@ -876,16 +1064,33 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eigene Webseiten seien weitgehend mit KI gebaut und von Fachleuten positiv beurteilt worden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Entstehungsgeschichte und fremde Zuschriften sind nicht unabhängig nachvollzogen. Ein sichtbares Endprodukt beweist keinen bestimmten Herstellungsprozess.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die Haupt-, Finanz- und Projektseiten sind real und öffentlich einsehbar. Ihre Existenz erlaubt jedoch keinen Rückschluss auf den Anteil KI-generierten Codes oder die Entstehung der gesamten Website. Die wiedergegebenen Zuschriften von Fachleuten sind nicht unabhängig zugänglich. Nach Suche nach Projekt- und Codebelegen und direkter Prüfung der Herausgeberangebote ist der behauptete Herstellungs- und Bewertungsprozess nicht ausreichend belegt.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Entstehungsgeschichte und fremde Zuschriften sind nicht unabhängig nachvollzogen. Ein sichtbares Endprodukt beweist keinen bestimmten Herstellungsprozess."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        },
+        {
+          "sourceId": "S075",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S076",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S083",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
         "Welche Repositoryhistorie und welche nachvollziehbaren Qualitätsprüfungen liegen vor?"
       ],
@@ -908,7 +1113,36 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Sichtbare Webseiten belegen weder den KI-Codeanteil noch die erwähnten Fachleute-Zuschriften.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Suche nach öffentlichem Code und Entwicklungsbelegen; direkte Prüfung der verlinkten Projekte.",
+            "sourceIds": [
+              "S075",
+              "S076",
+              "S083"
+            ],
+            "result": "Öffentliche Endprodukte gefunden, aber keine belastbare Zuordnung ihres Herstellungsprozesses oder der Zuschriften."
+          }
+        ],
+        "missingInformation": "Welche Repositoryhistorie und welche nachvollziehbaren Qualitätsprüfungen liegen vor?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0008",
@@ -917,19 +1151,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die eigenen interaktiven Diagramme beruhten auf realen Institutsdaten.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Die konkret gezeigten Datensätze und Umformungen wurden nicht vollständig abgeglichen.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Freiburger Projektseite nennt konkrete amtliche Datenquellen, Datenstände und Bearbeitungsschritte. Die dort angegebenen Ausgangswerte für CDU und SPD bei der Gemeinderatswahl 1999 stimmen mit der geöffneten amtlichen Tabelle überein. Damit ist reale Datenherkunft für diesen geprüften Teil nachvollziehbar. Nicht sämtliche Klimaraster, Delikttabellen, Wirtschaftsdaten oder Wohnungsberechnungen wurden reproduziert; die pauschale Aussage über alle Diagramme ist damit nicht vollständig verifiziert. Auch die aktuelle Seite beweist nicht jeden früheren Websitezustand.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Die konkret gezeigten Datensätze und Umformungen wurden nicht vollständig abgeglichen."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Originalreihen, Datenstände, Lizenzen und Berechnungen gehören zu jedem Diagramm?"
+      "sourceRefs": [
+        {
+          "sourceId": "S077",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S078",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S079",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0008",
@@ -949,7 +1194,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Amtliche Quellen sind dokumentiert; die Wahlwerte von 1999 stimmen, aber sämtliche Diagramme sind damit nicht geprüft.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Direkte Navigation von der Herausgeber-Projektübersicht zur Freiburg-Edition und ihrer Quellenliste.",
+            "sourceIds": [
+              "S077",
+              "S078"
+            ],
+            "result": "Konkrete amtliche Reihen, Datenstände und Bearbeitungen benannt; Zahlen der Wahlentwicklung gelesen."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Unabhängiger Abgleich der genannten Wahlwerte 1999 mit der verlinkten Stadttabelle.",
+            "sourceIds": [
+              "S079"
+            ],
+            "result": "CDU 31,1 Prozent und SPD 20,8 Prozent stimmen überein; keine Vollreplikation aller Datenreihen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0009",
@@ -1112,16 +1385,29 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein eigener Agentenablauf erstelle aus Belegbildern und Kilometerständen ein Fahrtenbuch.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Selbstauskunft; weder Vollständigkeit noch steuerliche Anerkennung des konkreten Systems geprüft.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Der geschilderte Fahrtenbuchablauf betrifft ein privates System. Die erneute Suche nach dessen Dokumentation sowie die geprüften Projektangebote liefern keine prüfbare Ausführung mit Ein- und Ausgabedaten oder Änderungsprotokoll. Daher lässt sich nicht bestätigen, welche Fahrten korrekt und vollständig erfasst werden. Es wird weder ein Funktionsfehler noch eine steuerliche Ablehnung behauptet; die steuerliche Eignung wäre gesondert zu prüfen.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Selbstauskunft; weder Vollständigkeit noch steuerliche Anerkennung des konkreten Systems geprüft."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        },
+        {
+          "sourceId": "S075",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S076",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
         "Wie werden Fahrzweck, Zeitnähe, Unveränderbarkeit und fehlerhafte Erkennung dokumentiert?"
       ],
@@ -1144,7 +1430,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Für das konkrete Fahrtenbuch fehlen öffentlich prüfbare Ausführungs- und Änderungsprotokolle.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Suche nach SinansWoche, Fahrtenbuch und KI; zusätzlicher Abgleich der veröffentlichten Projektliste.",
+            "sourceIds": [
+              "S075",
+              "S076"
+            ],
+            "result": "Kein geeigneter öffentlicher Funktionsnachweis des konkreten Systems gefunden."
+          }
+        ],
+        "missingInformation": "Wie werden Fahrzweck, Zeitnähe, Unveränderbarkeit und fehlerhafte Erkennung dokumentiert?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0013",
@@ -1217,16 +1531,29 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Alfred produziere Sendungen nach einem Startauftrag mit wenigen menschlichen Zwischenfreigaben.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Ein sichtbares Video bestätigt nicht die Zahl der menschlichen Eingriffe. Arbeitsprotokolle und vollständiger Prozess wurden nicht untersucht.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die Selbstauskunft beschreibt einen weitgehend automatisierten Ablauf. Öffentliche fertige Sendungen und Projektangebote zeigen jedoch weder sämtliche Zwischenstände noch die Zahl menschlicher Eingriffe. Die gezielte Suche nach Prüfagenten, Code und Produktionsdokumentation sowie die Kontrolle der Herausgeberseiten ergaben keinen unabhängigen Ablaufbeleg. Der Automationsgrad bleibt daher unbestätigt; das ist kein Nachweis, dass die geschilderte Produktion nicht möglich ist.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Ein sichtbares Video bestätigt nicht die Zahl der menschlichen Eingriffe. Arbeitsprotokolle und vollständiger Prozess wurden nicht untersucht."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        },
+        {
+          "sourceId": "S075",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S076",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
         "Welche Arbeits- und Freigabeprotokolle belegen den Automationsgrad?"
       ],
@@ -1266,7 +1593,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Fertige Sendungen zeigen nicht, wie viele menschliche Eingriffe ihre Produktion erforderte.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Suche nach Alfred, Prüfagenten und Produktionscode; direkte Prüfung der öffentlichen Projektseiten.",
+            "sourceIds": [
+              "S075",
+              "S076"
+            ],
+            "result": "Keine vollständigen datierten Ausführungs- und Freigabeprotokolle gefunden."
+          }
+        ],
+        "missingInformation": "Welche Arbeits- und Freigabeprotokolle belegen den Automationsgrad?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0015",
@@ -1275,16 +1630,29 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die zeitlichen Abstände zwischen den eigenen Automatisierungsschritten würden kürzer.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Anekdotische Chronologie; konkrete Startdaten und vergleichbare Entwicklungsschritte fehlen.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die beschriebenen Entwicklungsstufen sind eine persönliche Rückschau. In den geprüften öffentlichen Angeboten findet sich keine durchgehend datierte Reihe gleichartig abgegrenzter Automatisierungsschritte. Eine Folge unterschiedlicher Endprodukte misst weder Entwicklungsaufwand noch vergleichbare Zeitabstände. Nach Projekt- und Chronologiesuche reicht die Grundlage für eine messbare Beschleunigung dieses konkreten Arbeitsablaufs nicht aus.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Anekdotische Chronologie; konkrete Startdaten und vergleichbare Entwicklungsschritte fehlen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        },
+        {
+          "sourceId": "S075",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S076",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
         "Welche datierten Meilensteine erlauben einen belastbaren Vergleich?"
       ],
@@ -1307,7 +1675,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Eine vergleichbare datierte Reihe der eigenen Automatisierungsschritte fehlt.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Suche nach früher KI-Nutzung und Projektterminen; Gegenprüfung der aktuellen Herausgeberübersicht.",
+            "sourceIds": [
+              "S075",
+              "S076"
+            ],
+            "result": "Heutige Projektbeschreibungen erlauben keine belastbare Messung der behaupteten kürzer werdenden Entwicklungszyklen."
+          }
+        ],
+        "missingInformation": "Welche datierten Meilensteine erlauben einen belastbaren Vergleich?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0016",
@@ -1703,16 +2099,29 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die neueren Modelle ermöglichten den beschriebenen mehrstufigen Produktionsablauf von Alfred.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Die Modellnamen und der tatsächliche Ablauf wurden nicht anhand von Ausführungsprotokollen abgeglichen; aus allgemeiner Leistungssteigerung folgt nicht dieser konkrete Prozess.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Allgemeine Benchmarkfortschritte sind bereits getrennt bewertet. Sie belegen nicht, welche Modellversion Alfred für welchen Produktionsschritt tatsächlich ausführte oder ob gerade diese Version den Ablauf erstmals ermöglichte. Die öffentliche Projekt- und Codesuche liefert dafür keine hinreichenden datierten Läufe mit Werkzeugen, Eingriffen und Vergleichsmodell. Die konkrete Ursache des privaten Produktionsfortschritts bleibt unbestätigt.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Die Modellnamen und der tatsächliche Ablauf wurden nicht anhand von Ausführungsprotokollen abgeglichen; aus allgemeiner Leistungssteigerung folgt nicht dieser konkrete Prozess."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        },
+        {
+          "sourceId": "S075",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S076",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
         "Welche Modelle wurden wann mit welchen Werkzeugen und menschlichen Eingriffen eingesetzt?"
       ],
@@ -1735,7 +2144,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Für Alfreds tatsächlichen Modelleinsatz fehlen datierte Läufe und ein Vergleich der Versionen.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Suche nach Alfreds Modell- und Produktionsdokumentation; Abgleich mit den öffentlich verlinkten Projekten.",
+            "sourceIds": [
+              "S075",
+              "S076"
+            ],
+            "result": "Kein belastbarer Nachweis des konkreten Modelleinsatzes oder seiner kausalen Bedeutung gefunden."
+          }
+        ],
+        "missingInformation": "Welche Modelle wurden wann mit welchen Werkzeugen und menschlichen Eingriffen eingesetzt?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0025",
@@ -2252,16 +2689,29 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eigene Prüfagenten verbesserten Ergebnisse ohne erneuten menschlichen Eingriff.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Beschriebener privater Workflow; weder Fehlerrate noch Unabhängigkeit der Prüfungen kontrolliert.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Eine zusätzliche KI-Prüfung kann Änderungen erzeugen, beweist aber noch keine Qualitätsverbesserung. Für den eigenen Ablauf fehlen in den geprüften öffentlichen Angeboten bewertete Vorher-Nachher-Paare, unabhängige Fehlermaße und vollständige Eingriffsprotokolle. Die gezielte Suche nach Prüfagenten und Produktionscode ergab dafür keinen geeigneten Beleg. Die konkrete selbstständige Qualitätssteigerung ist somit nicht ausreichend belegt; allgemeine Verfahren sind unter A0112 gesondert bewertet.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Beschriebener privater Workflow; weder Fehlerrate noch Unabhängigkeit der Prüfungen kontrolliert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        },
+        {
+          "sourceId": "S075",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S076",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
         "Welche Vorher-Nachher-Ergebnisse und Prüfprotokolle belegen Qualitätsgewinne?"
       ],
@@ -2284,7 +2734,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Für die behauptete Qualitätssteigerung fehlen bewertete Vorher-Nachher-Ergebnisse des eigenen Systems.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Suche nach Prüfagenten, Code und dokumentierten Verbesserungen; direkte Kontrolle der Herausgeberangebote.",
+            "sourceIds": [
+              "S075",
+              "S076"
+            ],
+            "result": "Die gelesenen Endproduktbeschreibungen messen weder Qualitätsgewinn noch menschlichen Eingriff."
+          }
+        ],
+        "missingInformation": "Welche Vorher-Nachher-Ergebnisse und Prüfprotokolle belegen Qualitätsgewinne?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0036",
@@ -2404,16 +2882,21 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein befreundeter Unternehmer optimiere Logistik, Lager und Buchhaltung seiner Grillgeschäfte mit KI.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Wiedergegebene persönliche Auskunft; betriebliche Abläufe und Einsparungen wurden nicht geprüft.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Im Beitrag wird eine persönliche Auskunft über einen befreundeten Unternehmer wiedergegeben. Die Suche nach Joscha, Grillhandel und KI-Buchhaltung beziehungsweise Logistik ergab keinen gelesenen betrieblichen Ablauf- oder Ergebnisbeleg. Ein zusätzlicher Lokalbericht war wegen HTTP 429 nicht lesbar und wird nicht als Bestätigung geführt. Allgemeine Automatisierungsangebote oder die Existenz eines Unternehmens bestätigen diese konkreten internen Einsätze nicht. Die Einschätzung betrifft die unzureichende öffentliche Beleglage, nicht die Glaubwürdigkeit des Erzählers.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Wiedergegebene persönliche Auskunft; betriebliche Abläufe und Einsparungen wurden nicht geprüft."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        }
+      ],
       "openQuestions": [
         "Welche konkreten Anwendungen und belegbaren betrieblichen Auswirkungen gibt es?"
       ],
@@ -2436,7 +2919,32 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Die wiedergegebenen internen KI-Anwendungen sind durch keinen gelesenen Betriebsbeleg bestätigt.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Suche nach dem genannten Unternehmer, Grillhandel, KI, Logistik und Buchhaltung; alternativer indirekter Prüfweg über Unternehmensberichterstattung.",
+            "sourceIds": [],
+            "result": "Kein geeigneter gelesener Beleg zu den konkreten internen Anwendungen; ein gesperrter Lokalbericht zählt nicht als Sachbeleg."
+          }
+        ],
+        "missingInformation": "Welche konkreten Anwendungen und belegbaren betrieblichen Auswirkungen gibt es?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0039",
@@ -3101,16 +3609,21 @@
       "description": "Herbert Grönemeyer habe KI-Musik als künstlerisch unzureichend kritisiert.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – Die Originaläußerung wurde nicht aufgefunden und in ihrem Kontext geprüft.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "reason": "Noch nicht geprüft – Der im Video gemeinte Grönemeyer-Beitrag ist weiterhin nicht identifiziert. Das als Kandidat gefundene SZ-Interview vom März 2023 war nur am Anfang lesbar; aus Titel und Einleitung wird keine Bewertung von KI-Musik abgeleitet.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): Originaluntertitel erneut gelesen; konkrete Quellen- und Zugriffslücke bleibt offen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Recherche 21.11.2026 (Codex): Status Offen bleibt wegen der konkret fehlenden Originalfundstelle erhalten."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S081",
+          "note": "Erfolgloser Abrufversuch – kein Sachbeleg für die behauptete Äußerung; nur Datierung und Interviewanfang im Browser gelesen."
+        }
+      ],
       "openQuestions": [
-        "Welche datierte Originaläußerung ist gemeint?"
+        "Die konkrete Originaläußerung mit Datum und vollständigem Kontext finden; das nur teilweise zugängliche SZ-Interview ist dafür bislang kein Beleg."
       ],
       "occurrences": [
         {
@@ -3131,7 +3644,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Suche nach der angeblichen KI-Musikbewertung und nach datierten Originalinterviews; SZ-Interview und Tübinger Veranstaltungsbericht als Kandidaten geprüft.",
+            "sourceIds": [
+              "S081"
+            ],
+            "result": "Im SZ-Browser nur Anfang und Datierung lesbar; keine relevante KI-Musikbewertung. Tübinger Bericht behandelt andere künstlerische Fragen, daher kein Ersatzbeleg."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0053",
@@ -4542,16 +5072,29 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Menschen hätten trotz Effizienzgewinnen in der Regel stets an ihrer Leistungsgrenze gearbeitet.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Sehr weitreichende historische Verallgemeinerung ohne operationalisierten Grenzbegriff oder systematische Belege.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die historischen Reihen von OECD und World Inequality Lab messen Arbeitsstunden und Produktivität, keine einheitliche körperliche oder psychische Leistungsgrenze. Sie können deshalb das behauptete fortgesetzte Arbeiten an einer solchen Grenze weder bestätigen noch aus sinkenden Stunden widerlegen. Nach Vergleich zweier unterschiedlich abgegrenzter historischer Forschungsgrundlagen fehlt weiterhin ein messbarer Grenzbegriff samt zugehöriger Erhebung. Die Verallgemeinerung ist nicht ausreichend belegbar.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Sehr weitreichende historische Verallgemeinerung ohne operationalisierten Grenzbegriff oder systematische Belege."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S040",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S080",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        }
+      ],
       "openQuestions": [
         "Wie wird eine Leistungsgrenze über Länder und Jahrhunderte messbar definiert?"
       ],
@@ -4574,7 +5117,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Historische Arbeitsstunden messen keine einheitliche menschliche Leistungsgrenze.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Historische Wochenarbeitszeiten im OECD-Datensatz als alternativen Maßstab geprüft.",
+            "sourceIds": [
+              "S040",
+              "S080"
+            ],
+            "result": "Die zweite Forschungsgrundlage misst ebenfalls Arbeitsdauer, nicht die behauptete Leistungsgrenze."
+          }
+        ],
+        "missingInformation": "Wie wird eine Leistungsgrenze über Länder und Jahrhunderte messbar definiert?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0083",
@@ -5325,16 +5896,25 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein früher eigener Rechner habe per Turboknopf von 60 auf 90 MHz umgeschaltet.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Individuelle Hardwareerinnerung ohne Modell und Schaltungsbeleg; kein Vergleichsgerät untersucht.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die private Erinnerung lässt sich ohne Rechner-, Mainboard- und Prozessormodell nicht einem dokumentierten Gerät zuordnen. Eine gezielte Suche nach der konkreten Erinnerung brachte keinen geeigneten Gerätebeleg; die zusätzlich gelesene Intel-Historie beschreibt allgemeine Prozessorentwicklungen, nicht den Rechner des Moderators. Ob die Anzeige reale Kerntakte, Busfrequenzen oder eine andere Betriebsart bezeichnete, bleibt unklar. Die Zahlen werden weder bestätigt noch als unmöglich verworfen.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Individuelle Hardwareerinnerung ohne Modell und Schaltungsbeleg; kein Vergleichsgerät untersucht."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        },
+        {
+          "sourceId": "S070",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
         "Welches Rechnermodell und welche tatsächlichen Taktraten sind gemeint?"
       ],
@@ -5357,7 +5937,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Ohne das konkrete Rechnermodell lassen sich die erinnerten 60 und 90 MHz nicht zuordnen.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Suche nach der konkreten Rechnererinnerung; alternativ historische Herstellerdarstellung zur Prozessorentwicklung gelesen.",
+            "sourceIds": [
+              "S070"
+            ],
+            "result": "Keine identifizierende Angabe zum privaten Gerät gefunden; allgemeine Herstellerdaten entscheiden diesen Einzelfall nicht."
+          }
+        ],
+        "missingInformation": "Welches Rechnermodell und welche tatsächlichen Taktraten sind gemeint?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0099",
@@ -6431,19 +7038,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine Verteilung der Produktivitätsgewinne an alle Menschen werde als historisch erstmalig beschrieben.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Die Originalstelle entwirft eine künftige Teilhabe aller. Historische Forschung belegt breite, aber ungleiche Produktivitäts- und Freizeitgewinne. Das klärt nicht, ob mit allen eine ausnahmslose Beteiligung oder allgemein breite Teilhabe gemeint ist. Ohne diese Präzisierung wäre eine abschließende historische Bewertung zu weitgehend.",
-      "assessmentBasis": "Nachrecherche 20.11.2026 (Codex): automatisches Originaltranskript und unmittelbar zugeordnete, tatsächlich gelesene Quellen; kein zusätzlicher Originaltonabgleich.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die Passage verbindet den politischen Wunsch nach einer Beteiligung aller mit einer historischen Erstmaligkeitsbehauptung. Die erneut gelesenen WID-Ergebnisse und die OECD-Arbeitszeitgeschichte dokumentieren breite, ungleiche Verbesserungen. Sie beweisen keine ausnahmslose Beteiligung jedes Menschen. Umgekehrt lässt sich aus ihnen nicht ableiten, dass breite Teilhabe erst künftig möglich wäre. Ohne Definition von Bevölkerung, Gewinn und Beteiligung ist die historische Erstmaligkeit nicht ausreichend belegbar. Die normative Forderung nach gerechter Verteilung wird damit nicht widerlegt.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Nachrecherche 20.11.2026 (Codex): weiterhin Offen ohne Endurteil. Der Prüfgegenstand wurde anhand des vollständigen Untertitelkontexts auf die behauptete Teilhabe aller präzisiert; eine bloße breite Teilhabe wäre eine schwächere Behauptung. Die alte Beschreibung lautete in unserer Paraphrase: Eine breite Teilhabe an Produktivitätsgewinnen wäre historisch ein Novum."
+        "assessmentChange": "Nachrecherche 20.11.2026 (Codex): weiterhin Offen ohne Endurteil. Der Prüfgegenstand wurde anhand des vollständigen Untertitelkontexts auf die behauptete Teilhabe aller präzisiert; eine bloße breite Teilhabe wäre eine schwächere Behauptung. Die alte Beschreibung lautete in unserer Paraphrase: Eine breite Teilhabe an Produktivitätsgewinnen wäre historisch ein Novum. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Die Originalstelle entwirft eine künftige Teilhabe aller. Historische Forschung belegt breite, aber ungleiche Produktivitäts- und Freizeitgewinne. Das klärt nicht, ob mit allen eine ausnahmslose Beteiligung oder allgemein breite Teilhabe gemeint ist. Ohne diese Präzisierung wäre eine abschließende historische Bewertung zu weitgehend."
       },
       "sourceRefs": [
         {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        },
+        {
           "sourceId": "S040",
-          "note": "Gelesene historische Vergleichsgrundlage; belegt keine ausnahmslose Beteiligung sämtlicher Menschen und keine abschließende Bewertung der mehrdeutigen Videostelle."
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S080",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
         }
       ],
       "openQuestions": [
@@ -6470,22 +7085,33 @@
       ],
       "relations": [],
       "research": {
-        "gap": null,
+        "gap": "Quellenlage unzureichend",
         "confidence": "Mittel",
         "rounds": [
           {
-            "date": "2026-11-20",
+            "date": "2026-11-21",
             "agent": "Codex",
-            "strategy": "Wissenssuche zur Produktivitäts- und Arbeitszeitgeschichte, historische Studienzusammenfassung des World Inequality Lab und Originaltextzusammenhang verglichen.",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
             "sourceIds": [
-              "S040"
+              "S061"
             ],
-            "result": "Noch nicht geprüft – Die Originalstelle entwirft eine künftige Teilhabe aller. Historische Forschung belegt breite, aber ungleiche Produktivitäts- und Freizeitgewinne. Das klärt nicht, ob mit allen eine ausnahmslose Beteiligung oder allgemein breite Teilhabe gemeint ist. Ohne diese Präzisierung wäre eine abschließende historische Bewertung zu weitgehend."
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Arbeitszeitentwicklung der OECD als zweiten historischen Vergleich geprüft; Lesarten breite und ausnahmslose Beteiligung getrennt.",
+            "sourceIds": [
+              "S040",
+              "S080"
+            ],
+            "result": "Auch dieser Vergleich entscheidet keine historisch erstmalige ausnahmslose Beteiligung aller Menschen."
           }
         ],
-        "missingInformation": "Operationalisierung der ausnahmslosen Teilhabe und des gemeinten Vergleichs.",
+        "missingInformation": "Was genau umfasst die Teilhabe aller: breite Verbesserungen, ausnahmslose Beteiligung oder gleiche Verteilung, und welcher historische Vergleich ist gemeint?",
         "conflicts": null
-      }
+      },
+      "shortReason": "Breite historische Verbesserungen und eine ausnahmslose Beteiligung aller sind verschiedene Aussagen."
     },
     {
       "id": "JPZ3yqVJR8c-A0121",
@@ -6581,19 +7207,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Mathematiker gerieten durch jüngste KI-Ergebnisse stark unter psychischen oder beruflichen Druck.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Kein abgegrenzter Personenkreis, keine systematische Erhebung und keine konkrete Originalauskunft unabhängig geprüft.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Eine am 27. Oktober 2026 veröffentlichte Martingale-Befragung von 262 Studierenden und Forschenden an britischen Universitäten dokumentiert Sorgen um Ausbildung, Forschung und Berufsperspektiven. Von 50 zu Karriereplänen befragten Studierenden berichteten 62 Prozent geringere wahrgenommene Chancen auf eine Forschungslaufbahn. Die Teilnehmenden meldeten sich freiwillig; die Erhebung ist keine Zufallsstichprobe. Das stützt reale Sorgen in einem benannten Personenkreis, aber weder einen allgemeinen klinisch nachgewiesenen psychischen Schaden noch eine alleinige Verursachung durch die konkrete OpenAI-Veröffentlichung. Die Royal Society beschreibt zugleich Chancen und Herausforderungen.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Teilweise belegt. Frühere Arbeitsbegründung: Noch nicht geprüft – Kein abgegrenzter Personenkreis, keine systematische Erhebung und keine konkrete Originalauskunft unabhängig geprüft."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Befragung oder konkret zugeordnete Selbstauskunft belegt diese Auswirkungen?"
+      "sourceRefs": [
+        {
+          "sourceId": "S073",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S074",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "JPZ3yqVJR8c-O0123",
@@ -6613,7 +7246,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Eine freiwillige Befragung dokumentiert reale Karrieresorgen; ein allgemeiner psychischer Schaden ist damit nicht belegt.",
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Nach eigener Wissenssuche gezielte Suche nach zeitgenössischen Befragungen zu Mathematik, KI und Karriereangst.",
+            "sourceIds": [
+              "S073"
+            ],
+            "result": "Originalmitteilung mit Stichprobengröße, Karriere-Untergruppe und Selbstselektionshinweis vollständig gelesen."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Ergänzender Abgleich mit dem zeitgenössischen Veranstaltungsbericht der Royal Society.",
+            "sourceIds": [
+              "S074"
+            ],
+            "result": "Der Bericht nennt Chancen, Ausbildung und Forschungskultur; er ist kein klinischer Befund."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0124",
@@ -6833,16 +7493,25 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Mehrere im Beitrag erwähnte Personen hätten konkrete Geldbeträge gespendet.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Zusammengeführte Unterbehauptungen: einzelne aktuelle Zahlungen von 1, 100, 10 und 13,37 Euro sowie eine weitere nicht bezifferte Zahlung. Zahlungsbelege wurden nicht geprüft; Namen und Nachrichten werden nicht übernommen.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die einzelnen im Beitrag genannten Beträge sind als Selbstauskunft erfasst. Die erneut gelesene öffentliche Finanzübersicht nennt Ranglisten, Monats- und Jahressummen, erlaubt aber keine datensparsame Zuordnung dieser aktuellen Einzelzahlungen zu Datum und Anlass. Eine zusätzliche Suche nach einem geeigneten datierten Nachweis ergab keine unabhängige Bestätigung. Die Prüfung endet mit unzureichender öffentlicher Beleglage; private Namen und Nachrichten werden nicht veröffentlicht und fehlende Bestätigung gilt nicht als Gegenbeweis.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Zusammengeführte Unterbehauptungen: einzelne aktuelle Zahlungen von 1, 100, 10 und 13,37 Euro sowie eine weitere nicht bezifferte Zahlung. Zahlungsbelege wurden nicht geprüft; Namen und Nachrichten werden nicht übernommen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        },
+        {
+          "sourceId": "S083",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
         "Welche datierten und datensparsam prüfbaren Buchungsbelege bestätigen die genannten Einzelzahlungen?"
       ],
@@ -6865,7 +7534,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Die öffentliche Übersicht bestätigt die genannten aktuellen Einzelzahlungen nicht einzeln.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Direkter Abgleich mit Jahres- und Monatsübersicht statt alleiniger Suche nach den Einzelbeträgen.",
+            "sourceIds": [
+              "S083"
+            ],
+            "result": "Keine Zuordnung der im Video genannten Einzelzahlungen zu datierten öffentlich prüfbaren Buchungen möglich."
+          }
+        ],
+        "missingInformation": "Welche datierten und datensparsam prüfbaren Buchungsbelege bestätigen die genannten Einzelzahlungen?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0130",
@@ -6874,16 +7570,25 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der aktuelle Zuspruch und die Zahlungen seien ungewöhnlich hoch und vorwiegend Alfred gewidmet.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Selbstauskunft ohne unabhängig geprüfte Vergleichsreihe oder Zuordnung der Zahlungseingänge.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Eine ungewöhnlich hohe Unterstützung setzt einen festgelegten Vergleichszeitraum voraus; eine überwiegende Widmung an Alfred zusätzlich eine nachvollziehbare Auswertung der Zwecke. Die öffentliche Finanzübersicht enthält solche Wochen- und Alfred-Zuordnungen nicht. Eine gesonderte Recherche nach zeitlich passenden Nachweisen und der direkte Finanzabgleich bestätigen daher weder den Rekordcharakter noch den überwiegenden Zweck. Das persönliche Dankes- und Begeisterungsurteil bleibt davon unberührt.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Selbstauskunft ohne unabhängig geprüfte Vergleichsreihe oder Zuordnung der Zahlungseingänge."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        },
+        {
+          "sourceId": "S083",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
         "Welcher Vergleichszeitraum und welche belegbaren Zweckzuordnungen liegen zugrunde?"
       ],
@@ -6923,7 +7628,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Eine vergleichbare Wochenreihe und eine belegte Zweckauswertung für Alfred fehlen.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Zusätzlicher direkter Abgleich der Einnahmenübersicht mit den behaupteten Vergleichs- und Zweckgrößen.",
+            "sourceIds": [
+              "S083"
+            ],
+            "result": "Die sichtbaren Monats- und Jahresdaten liefern die erforderlichen Wochen- und Zweckangaben nicht."
+          }
+        ],
+        "missingInformation": "Welcher Vergleichszeitraum und welche belegbaren Zweckzuordnungen liegen zugrunde?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0131",
@@ -7056,16 +7788,25 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die wöchentlichen Unterstützungszahlungen hätten insgesamt 1.711 Euro betragen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Selbstauskunft; Zeitfenster, Brutto-/Nettobezug und Summe wurden nicht anhand eines gelesenen unabhängigen Belegs verifiziert.",
-      "assessmentBasis": "Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die öffentliche Finanzübersicht weist zum Datenstand 19. November den Monatssupport mit 2.722,09 Euro aus. Das ist mit einer Teilwochensumme von 1.711 Euro grundsätzlich vereinbar, bestätigt sie aber nicht. Ein genauer Wochenbeginn, das Buchungsdatum der einbezogenen Zahlungen und der Gebührenbezug fehlen. Auch die zusätzliche Suche nach der konkreten Wochenangabe ergab keinen geeigneten unabhängigen Nachweis. Mit der geprüften Grundlage ist die Wochensumme nicht ausreichend belegbar und nicht widerlegt.",
+      "assessmentBasis": "Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Keine frühere Bewertung übernommen."
+        "assessmentChange": "Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Selbstauskunft; Zeitfenster, Brutto-/Nettobezug und Summe wurden nicht anhand eines gelesenen unabhängigen Belegs verifiziert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs."
+        },
+        {
+          "sourceId": "S083",
+          "note": "Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis."
+        }
+      ],
       "openQuestions": [
         "Welche datierte Abrechnung mit Zeitraum und Gebührenbezug ergibt 1.711 Euro?"
       ],
@@ -7088,7 +7829,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Die Monatssumme ist mit 1.711 Euro pro Teilwoche vereinbar, bestätigt diese Wochensumme aber nicht.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Suche nach der konkreten 1.711-Euro-Woche; zusätzlich Abgleich mit der direkt gelesenen Finanzübersicht.",
+            "sourceIds": [
+              "S083"
+            ],
+            "result": "Monats- und Jahressummen vorhanden, aber keine abgegrenzte Wochenabrechnung mit Gebührenbezug."
+          }
+        ],
+        "missingInformation": "Welche datierte Abrechnung mit Zeitraum und Gebührenbezug ergibt 1.711 Euro?",
+        "conflicts": null
+      }
     },
     {
       "id": "JPZ3yqVJR8c-A0134",

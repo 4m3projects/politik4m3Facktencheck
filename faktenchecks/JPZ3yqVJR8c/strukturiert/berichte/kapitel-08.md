@@ -1,8 +1,8 @@
 # Kapitel 08: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte deutsche automatische Originaluntertitel gelesen, 1.621 Zeilen über ungefähr 00:00:00–01:04:01; 13 an Herausgebergrenzen orientierte, eigenständig benannte Themenabschnitte bis 01:04:04. Keine zeitlichen Untertitellücken über zehn Sekunden erkannt; dies beweist keine Vollständigkeit. Bildstichproben bei 00:00:31, 00:33:39, 00:43:10 und 00:43:21 im Originalplayer; zusätzliche Bildstichprobe bei 00:31:07 in der Nachprüfung. Kein Originalton gehört und keine durchgehende Bildprüfung. Englische Spur beim Import mit HTTP 429 gescheitert. Nicht sämtliche Bildbehauptungen erfasst; deshalb Teilbestand und keine Statistik aller Videoaussagen. Nachrecherche 21.11.2026: gesamte verfügbare Textspur erneut gelesen; weitere einzelne Playerbilder bei ungefähr 51:51 und 54:34 gesehen, ohne zusätzliche belastbare Grafik- oder Tonbefunde. Keine Erweiterung zu einer durchgehenden Bild- oder Tonkontrolle.
 
-Nachprüfung 20.11.2026 (Codex): 35 zuvor offene Prüfgegenstände abschließend eingeordnet, davon 34 Sachprüfungen und eine subjektive Nutzeneinschätzung. 19 Sachprüfungen bleiben offen, darunter private Abläufe und Zahlungen sowie konkrete nicht abgeglichene Originalaussagen. Öffentliche Kanal- und Finanzangaben nur im belegten Umfang ihrer Selbstauskunft bestätigt. Gesamte verfügbare Untertitel erneut gelesen; keine vollständige Bild- oder Tonprüfung. Kein Vollbestand und keine bestätigte Personenstatistik.
+Nachrecherche 21.11.2026 (Codex) auf veröffentlichtem main-Stand: 17 zuvor offene Sachprüfungen eingeordnet, davon zwei teilweise belegt und 15 nach dokumentierter zweiter Recherche nicht ausreichend belegbar. Letztere sind ungeklärte Ergebnisse, keine Widerlegungen. Zwei konkrete Originalbelegprüfungen bleiben offen (früher Alfred-Auftritt und Grönemeyer-Äußerung). Öffentliche Projekt- und Finanzangaben sind Selbstauskünfte; keine privaten Protokolle oder Kontobelege geprüft. Teilbestand: Bild, Ton, Podcastkontext und letzte Sekunden nicht vollständig kontrolliert. Kein Gesamtabschluss und keine bestätigte Personenstatistik.
 
 ## JPZ3yqVJR8c-A0076
 
@@ -288,7 +288,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Menschen hätten trotz Effizienzgewinnen in der Regel stets an ihrer Leistungsgrenze gearbeitet.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -307,21 +307,38 @@ Zeitgrundlage: Textbasierte Eingrenzung der deutschen automatischen Originalunte
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Sehr weitreichende historische Verallgemeinerung ohne operationalisierten Grenzbegriff oder systematische Belege.
+Die historischen Reihen von OECD und World Inequality Lab messen Arbeitsstunden und Produktivität, keine einheitliche körperliche oder psychische Leistungsgrenze. Sie können deshalb das behauptete fortgesetzte Arbeiten an einer solchen Grenze weder bestätigen noch aus sinkenden Stunden widerlegen. Nach Vergleich zweier unterschiedlich abgegrenzter historischer Forschungsgrundlagen fehlt weiterhin ein messbarer Grenzbegriff samt zugehöriger Erhebung. Die Verallgemeinerung ist nicht ausreichend belegbar.
 
-Grundlage der Bewertung: Eigenständige Sachprüfung anhand der unmittelbar zugeordneten gelesenen Quellen; offene Grenzen ausdrücklich genannt.
+Grundlage der Bewertung: Nachrecherche 21.11.2026 (Codex): gesamte verfügbare deutsche Originaluntertitel erneut gelesen; öffentliche Quellen tatsächlich im angegebenen Umfang geprüft. Kein Originalton gehört und keine durchgehende Bildprüfung.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere Bewertung übernommen.
+Bewertungsuebergang: Keine frühere Bewertung übernommen. Nachrecherche 21.11.2026 (Codex): zuvor Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Arbeitsbegründung: Noch nicht geprüft – Sehr weitreichende historische Verallgemeinerung ohne operationalisierten Grenzbegriff oder systematische Belege.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Past and future trajectories for labour hours, productivity, gender inequality and structural transformation, 1800–2100](https://wid.world/news-article/past-and-future-trajectories-for-labour-hours-productivity-gender-inequality-and-structural-transformation-1800-2100/) · World Inequality Lab / WID; 14.05.2025; Zusammenfassung des Working Paper 2025/08 von Andreescu, Loubes, Piketty und Robilliard.
+  Quellenzugriff am 2026-11-20. Institutionelle Studienzusammenfassung einschließlich historischer Schätzungen und methodischer Reichweite gelesen; keine vollständige Replikation der Zeitreihen. Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis.
+
+- [The working week in manufacturing since 1820](https://www.oecd.org/en/publications/how-was-life-volume-ii_3d96efc5-en/full-report/component-8.html) · OECD, How Was Life? Volume II; 2021; historische Reihe 1820–2010, produzierendes Gewerbe.
+  Quellenzugriff am 2026-11-21. Einleitung, Zusammenfassung und historische Entwicklung der Wochenarbeitszeit gelesen. Die Reihe misst Arbeitsdauer, keine individuelle körperliche oder psychische Leistungsgrenze. Gelesene Prüfgrundlage; Reichweite und Grenzen ausdrücklich in Begründung und Quellenverzeichnis.
+
+- [SinansWoche: Eigene Analyse zur KI-Entwicklung](https://www.youtube.com/watch?v=JPZ3yqVJR8c) · SinansWoche; veröffentlicht 20.11.2026; Originalplayer, Beschreibung und automatische deutsche Untertitel.
+  Quellenzugriff am 2026-11-20. Originalbeschreibung sowie vollständig verfügbare automatische Untertitel gelesen. Bildstichprobe 31:07 ergänzt; kein Originalton gehört. Diese Quelle belegt, was der Kanal darstellt, nicht die Wahrheit privater Vorgänge. Original-Selbstauskunft als Prüfgegenstand; keine unabhängige Bestätigung des behaupteten Vorgangs.
 
 ### Offene Fragen und Unsicherheiten
 
 - Wie wird eine Leistungsgrenze über Länder und Jahrhunderte messbar definiert?
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Wie wird eine Leistungsgrenze über Länder und Jahrhunderte messbar definiert?
+
+- Durchgang 1 am 2026-11-21 (Codex): Eigene Wissenssuche als Orientierung, erneute Lektüre der vollständigen Originaluntertitel; thematische Websuche nach dem konkreten Vorgang und öffentlichen Belegen. Gepruefte Quellen: S061. Ergebnis: Die Selbstauskunft beziehungsweise historische Verallgemeinerung ist erfasst; die erste Suche liefert keine hinreichende unabhängige Bestätigung.
+
+- Durchgang 2 am 2026-11-21 (Codex): Historische Wochenarbeitszeiten im OECD-Datensatz als alternativen Maßstab geprüft. Gepruefte Quellen: S040, S080. Ergebnis: Die zweite Forschungsgrundlage misst ebenfalls Arbeitsdauer, nicht die behauptete Leistungsgrenze.
 
 ## JPZ3yqVJR8c-A0083
 

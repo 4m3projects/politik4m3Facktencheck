@@ -12,8 +12,10 @@ Private Arbeitsabläufe bilden den Ausgangspunkt für eine allgemeine Zukunftsth
 
 ## Fazit und offene Punkte
 
-Persönliche Automatisierungserfahrungen sind keine kontrollierten Produktivitätsvergleiche. Der subjektive Suchvergleich ist als Meinung eingeordnet; aus der späteren Finanzamtsübermittlung folgt keine geringe Gefährdung zusätzlicher KI-Verarbeitung. Projektprotokolle und konkrete Datenherkunft fehlen weiterhin. 8 führende Tatsachenprüfungen dieses Kapitels sind offen; die konkreten Fragen stehen jeweils im verlinkten Bericht.
+Reale Projektangebote ersetzen keine Prüfung ihrer Herstellungsprozesse. Die Grafikherkunft wurde am Freiburger Wahlbeispiel teilweise abgeglichen. Für frühe KI-Nutzung, Codeanteile, Kündigung, Fahrtenbuch und Produktionsprotokolle reicht die recherchierte öffentliche Grundlage nicht aus; diese Ergebnisse sind einzeln begründet. Nur Alfreds frühe Originalfundstelle bleibt als unerledigter Prüfauftrag offen.
 
 [Prüfstand aller Kapitel](../03_faktencheck.md)
 
 Nachprüfung 20. November 2026 (Codex): Quellen und Fazit nach eigener Recherche fortgeschrieben; frühere Fassung in der Git-Historie.
+
+Aktualisierung 21. November 2026 (Codex): Gezielte Nachrecherche; frühere Einordnung in der Git-Historie und im zentralen Datensatz erhalten.
