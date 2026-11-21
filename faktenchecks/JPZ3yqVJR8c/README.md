@@ -53,3 +53,9 @@ Veröffentlichungsvermerk, 20. November 2026: Teilprüfung auf ausdrücklichen N
 17 weitere Sachprüfungen eingeordnet: zwei teilweise belegt, 15 nach zweiter Recherche nicht ausreichend belegbar. Diese 15 Ergebnisse bedeuten keine Widerlegung und keine Bestätigung privater Vorgänge. Fortsetzung am selben Tag: Eine Originalsendung vom 3. Februar 2023 stützt Alfreds ungefähre Nutzungsgeschichte; A0002 ist teilweise belegt abgeschlossen. Grönemeyers konkrete Äußerung bleibt offen. Die Darstellung ist weiterhin teilweise geprüft; eine vollständige Prüfung der gesamten Bild- und Tonebene ist nicht erfolgt.
 
 [Rechercheumfang, Ergebnisse und verbleibende Lücken](NACHRECHERCHE_2026-11-21.md). Veröffentlichung dieser Ergänzung am 21. November ausdrücklich beauftragt. Die bestehenden Zeitmarken und unsicheren Sprecherzuordnungen bleiben unverändert.
+
+## Reaktion von Politik4m3 und Originalabgleich
+
+Die eigene Reaktion [K(A)I reagiert auf SinansWoche: Nimmt KI uns die Arbeit weg?](../Rxl7rShgdTs/README.md) ist mit einer gesonderten Sachprüfung erfasst. Auf der Webseite erscheint sie bei dieser Folge im Reiter „Reaktionen“. Der [ausführliche Originalabgleich](../Rxl7rShgdTs/REAKTIONSABGLEICH.md) ordnet ihre Aussagen zu Arbeit, Energie, Selbstverbesserung und Menschenwert den konkreten Stellen dieses Videos zu.
+
+Beim gezielten textlichen Rückabgleich am 21. November 2026 zeigte sich: Sinan bezeichnet die Stromzahlen bereits als Rechenzentrumsverbrauch, nennt Ressourcenengpässe und Prognoseunsicherheit und behandelt die Verteilung der Produktivitätsgewinne ausdrücklich. Die Reaktion ergänzt diese Punkte vielfach; ihre Einschränkung einzelner weitgehender Berufsprognosen ist gesondert dokumentiert. Diese neue Verknüpfung ändert keine bestehende Sachbewertung, Zeitmarke oder Sprecherzuordnung des Originals. Eine erneute vollständige Bild- und Tonprüfung wurde dabei nicht durchgeführt.

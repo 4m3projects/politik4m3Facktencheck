@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "HP-K0001",
+  "revision": 2,
+  "claim": "Der Ausbau von KI-Rechenkapazität benötigt physische Hardware und Energieversorgung; bessere Software ersetzt nicht unmittelbar den Bau zusätzlich benötigter Infrastruktur.",
+  "topics": ["ki", "energie"],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Die IEA beschreibt 2026 Engpässe bei Stromversorgung, Netzanschlüssen, fortgeschrittenen Chips und Arbeitsspeicher mit hoher Bandbreite. Diese begrenzen den kurzfristigen Ausbau von Rechenzentren, auf denen KI trainiert und betrieben wird. Softwarefortschritte beseitigen diese materiellen Voraussetzungen nicht. Daraus folgt weder, dass sämtliche Chips ausverkauft sind, noch dass schneller KI-Fortschritt ausgeschlossen ist.",
+  "validity": {
+    "asOf": "2026-11-21",
+    "timeScope": "Technische Grundvoraussetzungen und die von der IEA 2026 beschriebenen Ausbauhemmnisse; Kenntnisstand 21.11.2026.",
+    "subjectScope": "Physische Voraussetzungen und mögliche Engpässe beim Ausbau von KI-Rechenkapazität. Keine Aussage über vollständige Lieferausfälle oder eine bestimmte Entwicklungsgeschwindigkeit von KI-Fähigkeiten.",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-21",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "Key Questions on Energy and AI: Executive summary",
+      "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
+      "details": "International Energy Agency (IEA), 2026; Abschnitte zu Engpässen entlang der KI-Wertschöpfungskette und zum Ausbau von Rechenzentren.",
+      "accessedOn": "2026-11-21",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "JPZ3yqVJR8c-A0103",
+      "repo": null,
+      "relation": "teilaspekt",
+      "contextNote": "Der Infrastrukturteil der Aussage vom 20.11.2026 betrifft denselben Ausbaukontext. Die weitergehende Behauptung, sämtliche Chips seien ausverkauft, wird von diesem Eintrag nicht übernommen; deshalb nur ein Teilaspekt.",
+      "linkedBy": "ChatGPT",
+      "linkedOn": "2026-11-21"
+    },
+    {
+      "claimId": "Rxl7rShgdTs-A0019",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Die Reaktion vom 21.11.2026 beschreibt im selben KI-Kontext physische Infrastruktur als Voraussetzung des Kapazitätsausbaus. Zeitbezug und sachlicher Geltungsbereich stimmen überein.",
+      "linkedBy": "ChatGPT",
+      "linkedOn": "2026-11-21"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-21",
+      "agent": "ChatGPT",
+      "change": "Neu angelegt nach eigener erneuter Lektüre der IEA-Primärquelle. Original und Reaktion mit getrennt geprüftem Geltungsbereich verknüpft; bestehende Videoaussagen bleiben unverändert.",
+      "previous": null
+    },
+    {
+      "revision": 2,
+      "date": "2026-11-21",
+      "agent": "ChatGPT",
+      "change": "Im Abschlussreview den Claim auf physische Voraussetzungen zusätzlicher Kapazität präzisiert. So wird kein Rechenzentrum als notwendiger Ort jeder einzelnen KI-Anwendung vorausgesetzt; die Gleichwertigkeit mit Rxl7rShgdTs-A0019 ist enger formuliert. Urteil, Begründung, Quellen und Links unverändert.",
+      "previous": {
+        "claim": "KI-Kapazität setzt Rechenhardware, Rechenzentren und Energieversorgung voraus; Engpässe bei Chips, Speicher oder Stromnetzen können ihren Ausbau begrenzen.",
+        "verdict": "Belegt",
+        "reason": "Die IEA beschreibt 2026 Engpässe bei Stromversorgung, Netzanschlüssen, fortgeschrittenen Chips und Arbeitsspeicher mit hoher Bandbreite. Diese begrenzen den kurzfristigen Ausbau von Rechenzentren, auf denen KI trainiert und betrieben wird. Softwarefortschritte beseitigen diese materiellen Voraussetzungen nicht. Daraus folgt weder, dass sämtliche Chips ausverkauft sind, noch dass schneller KI-Fortschritt ausgeschlossen ist."
+      }
+    }
+  ]
+}

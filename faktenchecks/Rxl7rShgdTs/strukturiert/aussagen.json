@@ -1,0 +1,1758 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "Rxl7rShgdTs",
+    "videoUrl": "https://www.youtube.com/watch?v=Rxl7rShgdTs",
+    "durationSeconds": 654,
+    "asOf": "2026-11-21",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "ChatGPT, 21.11.2026: Die vollständige verfügbare automatische Textspur der Reaktion analysiert, relevante Originalpassagen separat verglichen und Primärquellen zu KI-Fähigkeiten, Arbeit, Energie und Personalisierung gelesen. Positive Befunde, Wertungen, Prognosen und private nicht überprüfbare Angaben bleiben getrennt. Keine Neubewertung bestehender Originalurteile. Eigene Kanalinhalte werden nach denselben Kriterien geprüft.",
+    "coverageNote": "28 eigenständige Prüfgegenstände in acht Themenabschnitten über die 10:54 lange Reaktion; Wiederholungen zusammengeführt. Grundlage sind 87 sichtbare automatische Transkriptsegmente von 00:00 bis zum letzten Segmentbeginn 10:44. Kein Originalton gehört und keine Bildstelle visuell geprüft; daher Teilbestand, keine vollständige audiovisuelle Prüfung oder Gesamtvideostatistik. Alle Zeitfenster und Sprecherzuordnungen sind textlich eingegrenzt und nur plausibel. Fremdbezüge zählen getrennt."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Politik4m3: K(A)I reagiert auf SinansWoche: Nimmt KI uns die Arbeit weg?",
+      "url": "https://www.youtube.com/watch?v=Rxl7rShgdTs",
+      "details": "Veröffentlicht am 21.11.2026; Laufzeit 10:54. Primärquelle für den Reaktionsinhalt, kein unabhängiger Nachweis privater Produktionsangaben.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Videoseite und vollständiges sichtbares deutsches automatisches Originalplayertranskript gelesen: 87 Segmente von 00:00 bis zum letzten Segmentbeginn 10:44. Kein Originalton gehört, keine Bildstelle visuell geprüft. Keine Rohdaten im öffentlichen Bestand."
+    },
+    {
+      "id": "S002",
+      "title": "SinansWoche: Felix Lobrecht und Tommi Schmitt streiten über KI... ich gebe mehr Kontext",
+      "url": "https://www.youtube.com/watch?v=JPZ3yqVJR8c",
+      "details": "Veröffentlicht am 20.11.2026; Laufzeit 1:04:04. Original der Reaktion; Alfred spricht im Schlussabschnitt.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Sichtbares deutsches Originalplayertranskript eingelesen: 495 Segmente bis 1:03:53. Gezielt verglichen: 22:12–37:27, 41:40–59:08 und 1:02:10–1:03:53. Keine neue Hör- oder Bildkontrolle."
+    },
+    {
+      "id": "S003",
+      "title": "ILO: Generative AI and Jobs — A Refined Global Index of Occupational Exposure",
+      "url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+      "details": "ILO Working Paper 140, 20.05.2025. Aufgabenexposition ist keine gemessene Entlassungsquote.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Offizielle Publikationsseite mit Zusammenfassung und Methodeneinordnung geöffnet und gelesen; kein vollständiger Nachbau der Studienauswertung."
+    },
+    {
+      "id": "S004",
+      "title": "OECD: Skills in the AI Age — Executive summary",
+      "url": "https://www.oecd.org/en/publications/skills-in-the-ai-age_972bd15e-en/full-report/component-4.html",
+      "details": "OECD, 08.07.2026. Aufgabenexposition, Automatisierung, Produktivität und neue Aufgaben.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Offizielle Zusammenfassung geöffnet; einschlägige Abschnitte zu Aufgaben, Berufen und gegenläufigen Arbeitsmarkteffekten gelesen."
+    },
+    {
+      "id": "S005",
+      "title": "OECD: Financing of Social Protection — Securing the revenue base",
+      "url": "https://www.oecd.org/en/publications/financing-of-social-protection_b384fd31-en/full-report/securing-the-revenue-base-for-social-protection_fee691c9.html",
+      "details": "OECD, 09.09.2026, insbesondere Abschnitte 3.2.2–3.2.4 zu Substitution, Produktivität, neuen Aufgaben und Verteilung.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Offizielles Volltextkapitel geöffnet und einschlägige Abschnitte gelesen. Mechanismenanalyse, kein Beweis eines feststehenden Zukunftsergebnisses."
+    },
+    {
+      "id": "S006",
+      "title": "Copet et al.: Simple and Controllable Music Generation",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/94b472a1842cd7c56dcb125fb2765fbd-Abstract-Conference.html",
+      "details": "NeurIPS 2023, MusicGen. Originalarbeit zur konditionierten Musikgenerierung.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Offizielle Konferenzseite und Abstract der Originalarbeit gelesen. Belegt das Vorhandensein der Fähigkeit, keinen universellen Qualitätsvergleich."
+    },
+    {
+      "id": "S007",
+      "title": "OpenAI: Introducing 4o Image Generation",
+      "url": "https://openai.com/index/introducing-4o-image-generation/",
+      "details": "OpenAI, 25.03.2025. Herstellerdokumentation zur Bildgenerierung.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originale Produktveröffentlichung zur dokumentierten Generierungsfähigkeit gelesen. Keine unabhängige Qualitätsrangliste daraus abgeleitet."
+    },
+    {
+      "id": "S008",
+      "title": "METR: Task-Completion Time Horizons",
+      "url": "https://metr.org/time-horizons/",
+      "details": "METR, Seitenstand 08.09.2026. Empirische Aufgabenmessungen, überwiegend Software-, ML- und verwandte Aufgaben.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Ergebnisse, Methodenerläuterungen und Einschränkungen der offiziellen Forschungsseite gelesen. Begrenzte Aufgaben sind nicht mit sämtlichen Tätigkeiten eines Berufs gleichzusetzen."
+    },
+    {
+      "id": "S009",
+      "title": "IEA: Energy and AI — Energy demand from AI",
+      "url": "https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai",
+      "details": "International Energy Agency, 10.04.2025. Rechenzentrumskomponenten, Strombedarf und Kühlung.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Offizielles Berichtskapitel geöffnet; Abschnitte zu Servern, Speichern, Netzen und unterstützender Infrastruktur gelesen."
+    },
+    {
+      "id": "S010",
+      "title": "IEA: Energy and AI — Executive summary",
+      "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+      "details": "International Energy Agency, 10.04.2025. Rechenzentren, KI-Anteil, Effizienzszenarien und lokale Infrastruktur.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Offizielle Zusammenfassung vollständig gelesen. Szenarien sind bedingte Projektionen, keine garantierten Verbrauchswerte."
+    },
+    {
+      "id": "S011",
+      "title": "IEA: Key Questions on Energy and AI — Executive summary",
+      "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
+      "details": "International Energy Agency, 16.04.2026. Aktualisierung zu Effizienz, Nutzung und physischen Engpässen.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Offizielle Zusammenfassung geöffnet und gelesen: Effizienz je Aufgabe, wachsende Nutzung, Chips, Energieversorgung und weitere Kapazitätsengpässe."
+    },
+    {
+      "id": "S012",
+      "title": "Umweltbundesamt: Rebound-Effekte",
+      "url": "https://www.umweltbundesamt.de/themen/abfall-ressourcen/oekonomische-rechtliche-aspekte-der/rebound-effekte",
+      "details": "Umweltbundesamt, Stand 17.09.2019. Direkte und indirekte Rückwirkungen von Effizienzgewinnen.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Behördliche Erläuterungsseite vollständig gelesen. Teilweiser Ausgleich von Einsparungen bedeutet nicht zwangsläufig vollständigen Verbrauchsanstieg."
+    },
+    {
+      "id": "S013",
+      "title": "OpenAI: Memory in ChatGPT",
+      "url": "https://help.openai.com/en/articles/8590148-memory-in-chatgpt",
+      "details": "Offizielle Produktdokumentation, Abrufstand 21.11.2026. Beispiel für gespeicherte Personalisierung und getrennte Einstellungen zum Modelltraining.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Offizielle Dokumentation gelesen. Nur technisches Beispiel: Die Reaktion identifiziert öffentlich keinen Anbieter und keine konkrete Konfiguration von Kai."
+    },
+    {
+      "id": "S014",
+      "title": "OpenAI: Dreaming — Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming/",
+      "details": "OpenAI, 04.06.2026. Herstellererklärung zur Anpassung anhand von Gesprächsinformationen und Präferenzen.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Originale Veröffentlichung gelesen. Kein Nachweis zum unbenannten System im Video oder zu dessen privater Nutzungshistorie."
+    },
+    {
+      "id": "S015",
+      "title": "Everscreen Medienagentur: öffentliche Teamdarstellung",
+      "url": "https://neu.everscreen.de/",
+      "details": "Undatierte Unternehmensseite, Abschnitt Ansprechpartner. Öffentliche berufliche Einordnung von Jens Rentmeister.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Nach zwei gezielten Namens-/Berufssuchen geöffnet; berufliche Teamangabe gelesen. Nur Berufsbezug genutzt. Kein Nachweis eines aktuellen Beschäftigungsverhältnisses am Videotag."
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "K(A)I / Skriptstimme",
+      "videoRole": "Im Video als KI inszenierte eigene Kanalstimme im Hauptteil",
+      "identityBasis": "Skript- und Beschreibungskontext; kein Anbieter identifiziert und keine akustische Stimmkontrolle. Eine Kanalfigur, keine externe zitierte Person."
+    },
+    {
+      "id": "SP02",
+      "name": "Jens Rentmeister",
+      "videoRole": "Plausibler Ersteller im Nachwort ab ungefähr 10:04",
+      "identityBasis": "Textlicher Wechsel vom Skript zur persönlichen Einordnung und öffentlicher Kanalkontext; keine bestätigte Hör- oder Bildidentifikation."
+    }
+  ],
+  "claims": [
+    {
+      "id": "Rxl7rShgdTs-A0001",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sinans Original behandelt weitreichende mögliche Verdrängung menschlicher Arbeit durch KI.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Originalpassagen zu Sportfotografie, Werbetexten, Grafik und Musik behandeln starke Verdrängungsszenarien. Später unterscheidet Sinan jedoch Aufgaben und fortbestehende Berufe und benennt Prognoseunsicherheit. Belegt ist die Themenwiedergabe; der zugespitzte Einstieg ist keine vollständige Darstellung des Originals und keine bestätigte Zukunftsprognose.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Reaktionseinstieg als Prüfgegenstand."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Abgleich insbesondere 24:20–25:13, 28:10–28:27 und 29:39."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0001",
+          "startSeconds": 0,
+          "endSeconds": 34,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine Wiedergabe der fremden Position nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Sinan / SinansWoche",
+        "presentation": "Sinngemäße Wiedergabe",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Erfasst ist die Bezugnahme auf eine fremde Position; die eigene sachliche oder normative Einordnung steht in getrennten Aussagen.",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21"
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0002",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Reaktionsskript sei von einer KI ohne konkrete inhaltliche Vorgaben durch Jens verfasst worden.",
+      "status": "Nicht überprüfbar",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – Der vollständige private Entstehungsprozess einschließlich Eingaben, Auswahl, Überarbeitung und möglicher früherer Vorgaben ist nicht öffentlich dokumentiert. Die Selbstauskunft und die Kennzeichnung von KI-generiertem Text und Stimme belegen, wie das Video seine Entstehung beschreibt, aber nicht die gesamte Produktionsgeschichte. Daraus folgt weder eine Widerlegung noch ein Nachweis einer autonomen Überzeugung der KI.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Öffentliche Selbstauskunft zur Produktion, kein unabhängiger Nachweis des privaten Ablaufs."
+        }
+      ],
+      "openQuestions": [
+        "Welche vollständigen Eingaben und Bearbeitungsschritte wurden für dieses Skript verwendet, falls der Ersteller sie freiwillig dokumentieren möchte?"
+      ],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0002",
+          "startSeconds": 34,
+          "endSeconds": 58,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        },
+        {
+          "id": "Rxl7rShgdTs-O0003",
+          "startSeconds": 604,
+          "endSeconds": 612,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Derzeit nicht überprüfbar",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT",
+            "strategy": "Vollständiges öffentliches Transkript und Videobeschreibung auf Angaben zur Produktion geprüft.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Nur die Selbstauskunft über den privaten Prozess ist öffentlich; keine vollständige Eingabe- und Bearbeitungshistorie."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT",
+            "strategy": "Zweite, gezielte öffentliche Suche mit System2 nach der Video-ID und Produktionsangaben: Rxl7rShgdTs, Prompt, KI, Skript.",
+            "sourceIds": [],
+            "result": "Keine zusätzlichen öffentlichen Produktionsangaben gefunden. Der Status beruht auf dem privaten Entstehungsprozess und der fehlenden vollständigen Eingabe- und Bearbeitungshistorie, nicht auf den leeren Suchtreffern."
+          }
+        ],
+        "missingInformation": "Vollständiger freiwillig veröffentlichter Produktionsverlauf einschließlich Vorgaben und nachträglicher Bearbeitung.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0003",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Generative KI kann Musik erzeugen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Originalarbeit zu MusicGen dokumentiert Musikgenerierung anhand von Text- und Melodievorgaben. Damit ist die allgemeine Fähigkeit belegt. Eine Überlegenheit in jeder musikalischen Aufgabe oder der Wegfall menschlicher Nachfrage folgt daraus nicht.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Primärbeleg für die vorhandene Generierungsfähigkeit."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0004",
+          "startSeconds": 82,
+          "endSeconds": 92,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Fähigkeitsangabe als Beispiel im Arbeitsmarktargument; keine eigene Hauptthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "ChatGPT – Integrationsreview",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "reason": "Bestätigt nach eigenständiger Prüfung der Textfunktion: Die Musikgenerierung ist ein normales technisches Beispiel bei etwa 01:22. Die weitergehende Hauptthese zur Berufsautomatisierung wird separat in A0006 gewichtet; der Faktor folgt nicht dem positiven Urteil."
+          }
+        ],
+        "history": []
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0004",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Generative KI kann Bilder erzeugen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die originale Veröffentlichung zur 4o-Bildgenerierung dokumentiert eine solche Produktfunktion. Für die schlichte Existenz dieser Fähigkeit ist sie einschlägig; daraus werden weder universelle professionelle Qualität noch Folgen für sämtliche Fotografen abgeleitet.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Herstellerprimärquelle für die Funktion, kein neutraler Berufs- oder Qualitätsvergleich."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0005",
+          "startSeconds": 92,
+          "endSeconds": 100,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Fähigkeitsangabe; die Folgerung zu Berufen wird separat erfasst.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "ChatGPT – Integrationsreview",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "reason": "Bestätigt: Die Bildgenerierung ist eine eigenständige Fähigkeit und ein normales Beispiel bei etwa 01:32. Sie enthält weder die zentrale Arbeitsmarktfolgerung noch einen universellen Qualitätsvergleich; die getrennte Erfassung von A0006 ist nachvollziehbar."
+          }
+        ],
+        "history": []
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0005",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "KI-Systeme können Programmcode erzeugen und bestimmte Softwareaufgaben lösen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "METR misst tatsächlich gelöste, begrenzte Softwareaufgaben durch KI-Systeme. Das trägt die allgemeine Programmierfähigkeit, nicht die Behauptung, alle Anforderungen einer realen Entwicklungsstelle würden bereits zuverlässig erfüllt. Die Messung betrifft überwiegend klar definierte Aufgaben mit begrenztem Kontext.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Empirische Originalmessungen und explizite Grenzen ihrer Übertragbarkeit."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0006",
+          "startSeconds": 100,
+          "endSeconds": 110,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiges technisches Beispiel mit normaler Bedeutung; der zentrale Schluss zum Beruf steht in A0006.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "ChatGPT – Integrationsreview",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "reason": "Bestätigt: Programmcode und begrenzte Softwareaufgaben dienen bei etwa 01:40 als technisches Beispiel. Die gesellschaftliche Schlussfolgerung steht in A0006. Der normale Faktor vermeidet, das Fähigkeitsbeispiel selbst zur zusätzlichen Hauptthese zu machen."
+          }
+        ],
+        "history": []
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0006",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Dass einzelne Tätigkeiten technisch automatisierbar sind, bedeutet nicht automatisch, dass ganze Berufe oder die gesamte Nachfrage nach menschlichen Leistungen verschwinden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "ILO und OECD unterscheiden Aufgabenexposition von vollständiger Berufsautomatisierung und tatsächlicher Beschäftigungsentwicklung. Tätigkeiten innerhalb eines Berufs, neue Aufgaben und veränderte Nachfrage können sich unterschiedlich entwickeln. Die im Video bestrittene Zwangsläufigkeit besteht deshalb nicht. Das schließt erhebliche Verdrängung in einzelnen Bereichen nicht aus; die Reaktion räumt dieses Risiko anschließend selbst ein.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Aufgabenbasierte Exposition und weiterhin nötiger menschlicher Beitrag."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Unterschied zwischen Aufgaben, Berufen und Nettoarbeitsmarkteffekten."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0007",
+          "startSeconds": 82,
+          "endSeconds": 110,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        },
+        {
+          "id": "Rxl7rShgdTs-O0008",
+          "startSeconds": 127,
+          "endSeconds": 138,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Zentrale Antwort auf die Titelfrage und wiederholte Grundlage der Arbeitsmarktargumentation. Der hohe Faktor folgt dieser Rolle unabhängig vom positiven Urteil.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "ChatGPT – Integrationsreview",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "reason": "Bestätigt: Die Unterscheidung zwischen automatisierbarer Aufgabe, ganzem Beruf und menschlicher Nachfrage beantwortet die Titelfrage unmittelbar und wird in mehreren Beispielen sowie bei etwa 02:07 wiederholt. Hohe Bedeutung 2,0 ist unabhängig vom Faktenurteil angemessen."
+          }
+        ],
+        "history": []
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0007",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Jens hat einen beruflichen Hintergrund in der Softwareentwicklung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die öffentliche Teamdarstellung der Everscreen Medienagentur ordnet Jens Rentmeister der Web- und App-Entwicklung zu. Das belegt den im Video angeführten fachlichen Hintergrund. Die undatierte Seite wird nicht als Beweis eines aktuellen Beschäftigungsverhältnisses am Veröffentlichungstag verwendet.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S015",
+          "note": "Öffentliche berufliche Primärangabe im Teamabschnitt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0009",
+          "startSeconds": 110,
+          "endSeconds": 115,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige biografische Bemerkung im Übergang zu einem Witz, keine tragende Arbeitsmarktthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "ChatGPT – Integrationsreview",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "reason": "Bestätigt: Der Berufsbezug erscheint bei etwa 01:50 als kurze persönliche Nebenbemerkung vor einem Witz. Weder der allgemeine Arbeitsmarktmechanismus noch die Energieargumente hängen davon ab. Der niedrige Faktor 0,5 entspricht dieser Funktion."
+          }
+        ],
+        "history": []
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0008",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Teilautomatisierung kann für eine feste Arbeitsmenge bereits den erforderlichen Personaleinsatz verringern.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die OECD beschreibt den Substitutionseffekt, bei dem Technik menschliche Aufgaben übernimmt. Bei festgehaltenem Output kann dafür weniger Arbeit erforderlich sein. Nachfragewachstum, neue Aufgaben und andere Anpassungen können den Nettoeffekt verändern. Das Beschäftigtenbeispiel im Video ist eine Illustration und wird nicht als erhobene Unternehmensstatistik bewertet.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S005",
+          "note": "Substitution, Produktivität und gegenläufige Nachfrageeffekte."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0010",
+          "startSeconds": 138,
+          "endSeconds": 163,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Einschränkung des eigenen Arguments: Auch ohne vollständige Berufsautomatisierung bleibt ein Beschäftigungsrisiko. Keine Gewichtung nach Wahrheitsurteil.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "ChatGPT – Integrationsreview",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "reason": "Bestätigt: Das Beispiel bei etwa 02:23–02:38 begrenzt die eigene Hauptthese wesentlich, weil Teilautomatisierung bei gleichem Output trotzdem Personalbedarf senken kann. Es ist ein tragender Argumentationsschritt, daher 1,5; die hypothetischen Zahlen erzeugen keinen zusätzlichen Faktenpunkt."
+          }
+        ],
+        "history": []
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0009",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Prognose",
+      "description": "Produktivitätsgewinne durch KI könnten mehr freie Zeit ermöglichen oder überwiegend Eigentümern zugutekommen; eine breite Verteilung wäre eine gesellschaftliche Chance.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Das Video entwirft ausdrücklich alternative Zukunftsszenarien. Die OECD erläutert passende Verteilungsmechanismen, beweist aber weder eine Drei- oder Viertagewoche noch einen zwangsläufigen Gewinneffekt zulasten aller Beschäftigten. Die Bedingungen und die gewünschte Verteilung sind offen beziehungsweise normativ. Wiederkehrende Chancenformulierungen werden hier gemeinsam geführt.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S005",
+          "note": "Sachlicher Hintergrund zu Verteilung; kein empirischer Nachweis eines bereits eingetretenen Szenarios."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0011",
+          "startSeconds": 163,
+          "endSeconds": 236,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        },
+        {
+          "id": "Rxl7rShgdTs-O0012",
+          "startSeconds": 475,
+          "endSeconds": 513,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "Rxl7rShgdTs-A0010",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Über gesellschaftliche Ziele und die Verteilung der Vorteile von KI sollen Menschen politisch entscheiden.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Dies ist eine demokratische und normative Forderung. Im Zusammenhang verlangt die Reaktion menschliche Verantwortung für Ziele und Verteilung; sie behauptet nicht nachprüfbar, KI könne bei politischen Entscheidungen keinerlei Analysehilfe leisten. Die spätere Wiederholung begründet keinen zusätzlichen Faktenpunkt.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0013",
+          "startSeconds": 236,
+          "endSeconds": 247,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        },
+        {
+          "id": "Rxl7rShgdTs-O0014",
+          "startSeconds": 537,
+          "endSeconds": 566,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "Rxl7rShgdTs-A0011",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sinans Original thematisiert den Energie- und Wasserbedarf von Rechenzentren.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die entsprechenden Themen werden im Original ab etwa 30:14 behandelt. Die Reaktion gibt diesen Gegenstand zutreffend wieder. Mit dieser Inhaltsprüfung werden nicht sämtliche dort genannten Zahlen oder Prognosen erneut bestätigt.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Bezugnahme in der Reaktion."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Originalabschnitt ungefähr 30:14–37:27."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0015",
+          "startSeconds": 247,
+          "endSeconds": 253,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine Wiedergabe der fremden Position nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Sinan / SinansWoche",
+        "presentation": "Sinngemäße Wiedergabe",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Erfasst ist die Bezugnahme auf eine fremde Position; die eigene sachliche oder normative Einordnung steht in getrennten Aussagen.",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21"
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0012",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Betrieb von KI in Rechenzentren benötigt elektrische Energie und die Abfuhr entstehender Wärme.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die IEA beschreibt Server und unterstützende Rechenzentrumsinfrastruktur einschließlich Kühlung als Stromverbraucher. Das bestätigt den allgemeinen Sachkern. Wärmeabfuhr bedeutet nicht, dass jedes Rechenzentrum dasselbe Kühlsystem nutzt oder überall im gleichen Maß Wasser verbraucht.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Rechenzentrumskomponenten, Energiebedarf und Kühlungsanforderungen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0016",
+          "startSeconds": 253,
+          "endSeconds": 267,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige technische Grundlage des Energieabschnitts; weder Zahl noch alleinige Hauptthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "ChatGPT – Integrationsreview",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "reason": "Bestätigt: Strom und Wärmeabfuhr sind die kurz eingeführte physische Ausgangslage des Energieabschnitts. Die Aussage ist eigenständig, aber weder eine zentrale Zahl noch die Hauptfolgerung zu Gesamtbedarf und Effizienz. Faktor 1,0 ist angemessen."
+          }
+        ],
+        "history": []
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0013",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der gesamte Stromverbrauch von Rechenzentren ist nicht ausschließlich KI zuzurechnen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die IEA unterscheidet KI-bezogene Nutzung von anderen digitalen Diensten und der gesamten unterstützenden Infrastruktur. Die Abgrenzung ist sachlich richtig. Im Original benennt Sinan seine entsprechenden Gesamtzahlen allerdings ausdrücklich als Rechenzentrumsverbrauch; eine Verwechslung seiner Wortwahl ist mit dieser Reaktionspassage nicht nachgewiesen.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Abgrenzung der gesamten Rechenzentren von KI-bezogenen Lasten."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Wortwahl im Original bei ungefähr 30:36 und 31:30 textlich verglichen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0017",
+          "startSeconds": 275,
+          "endSeconds": 288,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige begriffliche Abgrenzung im Energieabschnitt; keine zentrale numerische Hauptthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "ChatGPT – Integrationsreview",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "reason": "Bestätigt: Die Abgrenzung zwischen Rechenzentren insgesamt und KI ist ein normaler eigenständiger Begriffspunkt im Energieabschnitt. Sie enthält keine quantitative KI-Anteilsbehauptung und keinen belegten Vorwurf einer falschen Benennung im Original. Faktor 1,0 bleibt sachgerecht."
+          }
+        ],
+        "history": []
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0014",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein geringerer Energiebedarf je KI-Anwendung garantiert keinen Rückgang des gesamten Energieverbrauchs.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Gesamtbedarf hängt von Bedarf je Nutzung und Umfang beziehungsweise Art der Nutzung ab. Das UBA erläutert Rückwirkungen von Effizienzgewinnen; die IEA beschreibt gleichzeitig Effizienzfortschritte und wachsende KI-Nutzung. Im ausdrücklich hypothetischen Video-Beispiel ergibt ein Zehntel Energie je Anfrage bei hundertfacher Zahl rechnerisch den zehnfachen Gesamtbedarf. Das ist keine Messreihe. Nicht jede unabhängig wachsende Nachfrage ist bereits ein kausal nachgewiesener Rebound.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S012",
+          "note": "Definition und Grenzen von Rebound-Effekten."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Aktueller Kontext zu Effizienz je Aufgabe und Nutzungswachstum."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0018",
+          "startSeconds": 288,
+          "endSeconds": 312,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Begründung dafür, im Energieabschnitt sowohl Effizienz als auch Gesamtnachfrage zu beachten; Bedeutung unabhängig vom Urteil.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "ChatGPT – Integrationsreview",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "reason": "Bestätigt: Der Unterschied zwischen Bedarf je Nutzung und Gesamtbedarf trägt den Energieabschnitt und wird durch ein ausdrücklich hypothetisches Zahlenbeispiel erläutert. Erhöhte Bedeutung 1,5 folgt diesem Erklärungsanteil, unabhängig vom Urteil."
+          }
+        ],
+        "history": []
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0015",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Effizienzverbesserungen können den Energiebedarf gegenüber derselben Nutzung ohne diese Verbesserung senken, auch wenn der beobachtete Gesamtverbrauch steigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Ein steigender Gesamtverbrauch zeigt allein nicht, dass Effizienz wirkungslos war: Bei gleichem Nutzungsumfang wäre der Bedarf ohne die Verbesserung höher. Das UBA beschreibt auch teilweise statt vollständig aufgehobene Einsparungen; die IEA untersucht entsprechende Effizienzszenarien. Daraus folgt keine Garantie für tatsächlich sinkenden Verbrauch oder unbegrenzt mögliche technische Verbesserungen. Sinan erklärt Verbesserungen im Originalabschnitt nicht ausdrücklich für sinnlos.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S012",
+          "note": "Rebound kann Einsparungen teilweise kompensieren, ohne jeden Effizienzvorteil aufzuheben."
+        },
+        {
+          "sourceId": "S010",
+          "note": "Bedingte Effizienzpfade als Gegenvergleich; kein garantiertes Szenario."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0019",
+          "startSeconds": 312,
+          "endSeconds": 321,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Einordnung des Gegenvergleichs nach der zentralen Verbrauchsaussage; ergänzende normale Bedeutung.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "ChatGPT – Integrationsreview",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "reason": "Bestätigt: Der Gegenvergleich gleicher Nutzung mit und ohne Effizienzverbesserung ist eine eigenständige normale Ergänzung. Er beantwortet eine andere Frage als die Garantie sinkenden Gesamtverbrauchs in A0014; keine bloße Wiederholung und keine weitere Hauptthese."
+          }
+        ],
+        "history": []
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0016",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "KI sollte effizient betrieben werden; Stromherkunft und örtliche Belastungen von Wasser- und Stromversorgung sollen berücksichtigt werden.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Das sind politische und planerische Anforderungen. Die Reaktion nennt an dieser Stelle keine konkrete Anlage und keinen quantifizierten örtlichen Schaden, die als eigenständige Tatsachenbehauptung zu prüfen wären. Die Forderungen werden deshalb nicht als bewiesene oder widerlegte Wirkung eines bestimmten Standorts behandelt.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0020",
+          "startSeconds": 321,
+          "endSeconds": 340,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "Rxl7rShgdTs-A0017",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Technischer Fortschritt und Umweltschutz müssen nach Auffassung der Reaktion keine Gegensätze sein.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Aussage formuliert ein gesellschaftliches Leitbild und eine Möglichkeit. Ohne bestimmte Technik, Umweltgröße und Vergleichsfall ist sie keine pauschal messbare Bilanz sämtlicher KI-Anwendungen.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0021",
+          "startSeconds": 340,
+          "endSeconds": 346,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "Rxl7rShgdTs-A0018",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sinan bespricht die Möglichkeit rekursiver KI-Selbstverbesserung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das Original diskutiert selbstverstärkende technische Entwicklung und kennzeichnet das spätere Szenario ausdrücklich als hypothetisch. Die Reaktion gibt diesen Themenbezug zutreffend wieder. Sie liefert damit keinen Nachweis, dass die beschriebene Entwicklung bereits vollständig stattfindet.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Sinngemäße Bezugnahme und hypothetische Darstellung."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Originalabschnitte zu Entwicklungsschritten sowie hypothetischer Zuspitzung bei 50:31–51:30."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0022",
+          "startSeconds": 346,
+          "endSeconds": 374,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine Wiedergabe der fremden Position nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Sinan / SinansWoche",
+        "presentation": "Sinngemäße Wiedergabe",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Erfasst ist die Bezugnahme auf eine fremde Position; die eigene sachliche oder normative Einordnung steht in getrennten Aussagen.",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21"
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0019",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bessere Software allein errichtet nicht sofort die zusätzlich benötigten Chipfabriken, Rechenzentren und Stromanschlüsse.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die IEA beschreibt physische Engpässe bei Energieversorgung, Chips und weiteren Kapazitäten. Zusätzliche reale Infrastruktur benötigt entsprechende Herstellungs- und Bauprozesse; Code ersetzt diese nicht unmittelbar. Das schließt Leistungsgewinne auf vorhandener Hardware und langfristige KI-Hilfe bei Planung oder Produktion nicht aus. Sinan berücksichtigt solche Ressourcenbedingungen selbst und setzt sie für ein späteres Szenario als gelöst voraus.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S011",
+          "note": "Physische Bedingungen und Engpässe des Kapazitätsausbaus."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Original 45:38–46:12 sowie 50:31–50:54: Engpässe und bedingtes Szenario."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0023",
+          "startSeconds": 378,
+          "endSeconds": 398,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende materielle Einschränkung des Selbstverbesserungsszenarios; keine bloße Nebenbemerkung und keine Gewichtung nach Urteil.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "ChatGPT – Integrationsreview",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "reason": "Bestätigt: Chipfabrik, Rechenzentrum und Stromanschluss bilden die zentrale materielle Einschränkung des Selbstverbesserungsabschnitts. Faktor 1,5 entspricht der tragenden Begründungsfunktion; dass Sinan diese Bedingungen ebenfalls nennt, ändert die Bedeutung im Reaktionsvideo nicht."
+          }
+        ],
+        "history": []
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0020",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Prognose",
+      "description": "Sehr schnelle weitere KI-Fortschritte bleiben möglich; die genaue Leistungsfähigkeit in zehn oder zwanzig Jahren ist eine unsichere Zukunftsfrage.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Reaktion grenzt Möglichkeit und Gewissheit voneinander ab und gibt keine messbare Vorhersage mit festem Leistungsmaß an. Auch das Original kennzeichnet sein zugespitztes Zukunftsbild als unsicher. Die Aussage wird als Prognoseeinordnung erfasst, nicht als Beweis gegen oder für ein bestimmtes Entwicklungstempo.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Original 50:31–51:30 markiert das Szenario und seine Unsicherheit."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0024",
+          "startSeconds": 398,
+          "endSeconds": 426,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "Rxl7rShgdTs-A0021",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Alfred trennt im Schluss des Originals den Wert eines Menschen von dessen wirtschaftlicher Nützlichkeit.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Im Originalschluss ungefähr 1:02:54–1:03:09 wird diese Trennung ausdrücklich formuliert. Die Wiedergabe ist sachlich zutreffend. Die ethische Zustimmung der Reaktion wird als eigenes Werturteil in A0022 geführt und ist keine zusätzliche empirische Behauptung.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Bezugnahme auf Alfred und anschließende Zustimmung."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Alfreds Schlussabschnitt im Originaltranskript verglichen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0025",
+          "startSeconds": 426,
+          "endSeconds": 449,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine Wiedergabe der fremden Position nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Alfred / KI-Figur im Original",
+        "presentation": "Sinngemäße Wiedergabe",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Hier wird ausschließlich geprüft, ob Alfreds Position zutreffend wiedergegeben wird. Die ausdrückliche Zustimmung der Reaktion bei ungefähr 07:29 und ihre eigene ethische Position sind getrennt als Werturteil in A0022 erfasst; Nur wiedergegeben bedeutet bei diesem Inhaltsprüfpunkt keine Distanzierung von Alfred.",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21"
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0022",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Menschlicher Wert soll unabhängig von Einkommen, Produktivität und Erwerbsfähigkeit anerkannt werden.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Dies ist eine ethische Position, die ausdrücklich auch Menschen ohne Erwerbsmöglichkeit einschließt. Sie wird als Werturteil erfasst; wirtschaftliche Messgrößen entscheiden nicht über die Wahrheit einer solchen normativen Forderung.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0026",
+          "startSeconds": 439,
+          "endSeconds": 475,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "Rxl7rShgdTs-A0023",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die Reaktion empfindet Sinans Zukunftsbetrachtung stellenweise als zu pessimistisch, hält aber viele Sorgen für nachvollziehbar.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Gewichtung ist eine subjektive Bewertung. Der vollständige Kontext des Originals umfasst auch eine ausführliche positive Zukunftsvision mit Freizeit, Beziehungen und Natur sowie eine Entscheidung über die Verteilung der Vorteile. Deshalb wäre eine Darstellung des gesamten Originals als ausschließlich pessimistisch unzutreffend; die Reaktion begrenzt ihre Kritik jedoch auf einzelne Stellen.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Original 57:34–59:00 und 1:03:48–1:03:53 liefern positiven und politischen Kontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0027",
+          "startSeconds": 513,
+          "endSeconds": 528,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "Rxl7rShgdTs-A0024",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Prognose",
+      "description": "KI könnte die Gesellschaft stark verändern; Richtung und Ausmaß dieser Veränderungen sind nicht festgelegt.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Der Umfang der erwarteten gesellschaftlichen Veränderung ist eine offene Zukunftseinschätzung ohne feste Zielgröße. Die zusätzlich wiederholte Forderung nach menschlichen Entscheidungen ist bereits in A0010 erfasst. Daraus wird kein zweites Tatsachenurteil erzeugt.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0028",
+          "startSeconds": 528,
+          "endSeconds": 556,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "Rxl7rShgdTs-A0025",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die verfügbare automatische Untertitelspur enthält an mehreren Stellen Formulierungen, die die Skriptstimme sprachlich in die Gruppe der Menschen einbeziehen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das Nachwort beschreibt ein tatsächlich im gelesenen Skript sichtbares Sprachmuster, etwa bei der politischen Verantwortung um 3:56–4:07 und dem Zukunftsbild um 6:05. Belegt ist nur diese sprachliche Form. Sie weist weder menschliches Bewusstsein noch eine tatsächliche menschliche Identität oder ein bestimmtes Selbstverständnis des Systems nach.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Videointerner Textabgleich zwischen Nachwort und früheren Skriptstellen; keine akustische Wortlautprüfung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0029",
+          "startSeconds": 612,
+          "endSeconds": 620,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beobachtung zur sprachlichen Machart im Nachwort; für die zentralen Arbeitsmarkt- und Energieargumente nebensächlich.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "ChatGPT – Integrationsreview",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "reason": "Bestätigt für die Bedeutung: Die sprachliche Selbstzuordnung wird erst im Nachwort als Beobachtung zur Machart besprochen. Die Arbeitsmarkt- und Energieargumente hängen davon nicht ab, weshalb 0,5 angemessen ist. Diese Gewichtskontrolle ersetzt keine Wortlaut- oder Hörprüfung."
+          }
+        ],
+        "history": []
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0026",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Prognose",
+      "description": "KI könnte für manche Menschen künftig eine sehr enge persönliche Begleiterrolle einnehmen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Äußerung ist als Möglichkeit und Vermutung formuliert. Das Video nennt weder einen konkreten Fall noch eine überprüfbare Häufigkeit. Die Beziehungskategorie bleibt subjektiv; daraus wird keine empirische Aussage über alle Nutzer oder über die Gegenseitigkeit einer Freundschaft abgeleitet.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0030",
+          "startSeconds": 620,
+          "endSeconds": 635,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "Rxl7rShgdTs-A0027",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die konkret verwendete KI sei durch Jens’ wiederholte Nutzung und die dabei gewonnenen Informationen geprägt worden.",
+      "status": "Nicht überprüfbar",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – Anbieter, Modell, Einstellungen, gespeicherte Informationen und die private Nutzungshistorie dieses Systems sind öffentlich nicht spezifiziert. Gesprächskontext und Erinnerungsfunktionen können Antworten personalisieren; die OpenAI-Dokumentation zeigt einen möglichen Mechanismus, identifiziert aber nicht Kai. Die Formulierung über Lernen behauptet nicht ausdrücklich ein fortlaufendes Training der Modellgewichte und wird deshalb nicht allein wegen dieses Wortes als falsch gewertet.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Persönliche Aussage im Nachwort; öffentlich kein Anbieter und kein Modell genannt."
+        },
+        {
+          "sourceId": "S013",
+          "note": "Beispiel für Personalisierung durch Erinnerungen; kein Beleg der konkreten Kai-Konfiguration."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Beispiel für präferenzbasierte Anpassung aus Gesprächsinformationen."
+        }
+      ],
+      "openQuestions": [
+        "Welches System und welche Kontext- oder Erinnerungsfunktionen sind gemeint, und welche konkrete Veränderung soll mit Prägung bezeichnet werden?"
+      ],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0031",
+          "startSeconds": 635,
+          "endSeconds": 644,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Derzeit nicht überprüfbar",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT",
+            "strategy": "Öffentliche Beschreibung und vollständiges Nachwort auf Anbieter- und Mechanismusangaben geprüft; offizielle Dokumentation zur Abgrenzung von Kontext, Erinnerung und Modelltraining gelesen.",
+            "sourceIds": [
+              "S001",
+              "S013",
+              "S014"
+            ],
+            "result": "Personalisierung ist technisch möglich. Der konkrete Anbieter, die private Konfiguration und der behauptete individuelle Einfluss lassen sich aus den öffentlichen Angaben nicht bestimmen."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT",
+            "strategy": "Zweite, gezielte öffentliche Suche mit System2 nach Kanal, Figur und Systemangaben: Politik4m3, Kai, KI, Modell, ChatGPT.",
+            "sourceIds": [],
+            "result": "Keine zusätzlichen öffentlichen Angaben zur konkreten Systemkonfiguration gefunden. Der Status beruht auf dem unbenannten System und der privaten Nutzungshistorie, nicht auf den leeren Suchtreffern."
+          }
+        ],
+        "missingInformation": "Benennung des tatsächlich verwendeten Systems, der aktivierten Funktionen und des konkret gemeinten Einflusses, falls freiwillig öffentlich erläutert.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Rxl7rShgdTs-A0028",
+      "videoId": "Rxl7rShgdTs",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Jens vermutet, die verwendete KI kenne ihn besonders gut, möglicherweise besser als andere Menschen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Das Nachwort kennzeichnet dies als persönliche Vermutung. Ohne Definition dafür, was gutes persönliches Kennen bedeutet, und ohne vergleichbare Messung ist es eine subjektive Einschätzung. Sie wird weder als Leistungsnachweis des Systems noch als nachgewiesene Überlegenheit gegenüber menschlichen Beziehungen behandelt.",
+      "assessmentBasis": "Neuerfassung 21.11.2026 durch ChatGPT anhand des vollständig gelesenen automatischen Originalplayertranskripts; eigene Paraphrase und Prüfung der jeweils genannten Quellen. Keine Ton- oder Bildkontrolle; Sprecher und Zeiten nur textlich eingegrenzt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt; Wiederholungen als zusätzliche Vorkommen zusammengeführt.",
+        "assessmentChange": "Keine frühere Bewertung übernommen."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Rxl7rShgdTs-O0032",
+          "startSeconds": 644,
+          "endSeconds": 654,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textlicher Skript- und Nachwortkontext; keine bestätigte akustische Identifikation.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der gelesene Zusammenhang legt eine eigene Aussage der Skriptstimme beziehungsweise des Nachworts nahe.",
+          "note": "Eigene sinngemäße Beschreibung, kein Originalzitat. Die Bereiche sind Suchfenster.",
+          "timeBasis": "Ungefähre Eingrenzung anhand von Segmentbeginnzeiten im automatischen deutschen Originalplayertranskript; Satzenden nicht gehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    }
+  ]
+}
