@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text. [ChatGPT] 21.11.2026: Zwei zuvor offene Aussagen anhand externer Quellen geprüft; die erfasste Prüfabdeckung steigt, ohne dass dies eine Vollerfassung des Gesprächs bedeutet.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen. Nachrecherche 21.11.2026 (Codex): neun zuvor offene Punkte mit selbst gelesenen Quellen bewertet; Identifikations- und Definitionsgrenzen einzeln dokumentiert. Keine neue vollständige Hör-/Sichtkontrolle.
 
 ## bPXMY7Reeek-A0051
 
@@ -51,7 +51,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Biologisch gebe es zwei Geschlechter; Varianten der Geschlechtsentwicklung (DSD) seien Diagnosen und begründeten keine weiteren Geschlechter.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -70,25 +70,33 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde. Ob man von zwei Geschlechtern mit Varianten oder von einem Spektrum spricht, hängt von der Definition ab; das Gespräch enthält dazu selbst gegensätzliche Positionen (siehe A0055). Fehlende Bestätigung bedeutet nicht falsch.
+Nach der fortpflanzungsbezogenen Definition der Endocrine Society bestehen zwei Keimzelltypen und entsprechende männliche und weibliche Funktionen. DSD bezeichnen diagnostisch erfassbare Varianten und begründen keinen dritten Keimzelltyp. Daraus folgt aber keine ausnahmslos eindeutige Zuordnung sämtlicher körperlicher Merkmale: Die schon vor dem Gespräch veröffentlichte deutsche DSD-Leitlinie berücksichtigt nicht übereinstimmende chromosomale, gonadale und phänotypische Merkmale. Ob man Kategorien oder Merkmalsausprägungen beschreibt, ist deshalb ausdrücklich zu unterscheiden. Die persönliche Begriffsentscheidung des Sprechers ist kein zusätzlicher medizinischer Befund.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Teilweise belegt; frühere Begründung: Noch nicht geprüft – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde. Ob man von zwei Geschlechtern mit Varianten oder von einem Spektrum spricht, hängt von der Definition ab; das Gespräch enthält dazu selbst gegensätzliche Positionen (siehe A0055). Fehlende Bestätigung bedeutet nicht falsch. Neue Begründung und gelesene Belege unten dokumentiert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [S2k-Leitlinie Varianten der Geschlechtsentwicklung, AWMF 174-001](https://register.awmf.org/assets/guidelines/174-001l_S2k_Varianten-der-Geschlechtsentwicklung_2025-07.pdf) · DGU, DGPAED und DGKCH; Langfassung Stand 03/2025, veröffentlicht Juli 2025.
+  Quellenzugriff am 2026-11-21. PDF im Web geöffnet; Präambel und Definition S. 2–3, Klassifikation S. 6–7 sowie Abschnitte zu Androgenresistenz und 46,XX-DSD gelesen. Keine PDF-Datei im Repository. Nur diese Teile fachlich ausgewertet; keine individuelle medizinische Diagnose. Präambel und DSD-Definition berücksichtigen körperliche Varianten.
+
+- [Considering Sex as a Biological Variable in Basic and Clinical Studies: An Endocrine Society Scientific Statement](https://www.endocrine.org/-/media/endocrine/files/advancing-research/scientific-statement--considering-sex-as-a-biological-variable-in-basic-and-clinical-studies.pdf) · Bhargava et al., Endocrine Society, Endocrine Reviews 2021, DOI 10.1210/endrev/bnaa034.
+  Quellenzugriff am 2026-11-21. Fachgesellschaftliche Originalfassung im Web geöffnet; Abschnitt zur Definition biologischen Geschlechts auf S. 3 mit Keimzell- und Gonadenbezug sowie Abgrenzung zu Gender gelesen. Kein vollständiges Review aller 40 Seiten. Klassische Definition über Keimzellen und Gonaden, S. 3.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Definitionen nutzt die Biologie (z. B. Keimzellen) und welche die Medizin für Varianten der Geschlechtsentwicklung?
+- Keine pauschale Aussage über Geschlechtsidentität oder rechtliche Kategorien aus der Keimzelldefinition ableiten.
 
-- Wie ordnen Fachgesellschaften DSD/Intergeschlechtlichkeit begrifflich ein?
+### Recherchedokumentation
 
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Keine pauschale Aussage über Geschlechtsidentität oder rechtliche Kategorien aus der Keimzelldefinition ableiten.
+
+- Durchgang 1 am 2026-11-21 (Codex): Wissenssuche Geschlecht/DSD und gezielte medizinische Recherche; vor dem Videodatum veröffentlichte Leitlinie und fachgesellschaftliche Originalstellungnahme selbst gelesen. Gepruefte Quellen: S092, S093. Ergebnis: Fortpflanzungsbezogener Kern gestützt; Übertragung auf sämtliche Merkmalskombinationen erfordert Definitionskontext.
 
 ### Beziehungen
 
@@ -182,7 +190,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Biologisch-medizinisch gebe es im Regelfall zwei Geschlechter, mit Ausnahmen bei Intergeschlechtlichkeit (etwa XX-Chromosomen mit Y-Anteilen oder Androgenresistenz); deshalb sei das biologische Geschlecht nach der Recherche des Gastgebers kein striktes Binär, sondern ein Spektrum.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -201,25 +209,33 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde; Gegenposition zu A0052 im selben Gespräch. Fehlende Bestätigung bedeutet nicht falsch.
+Die DSD-Leitlinie bestätigt Varianten und Androgenresistenz sowie mögliche Abweichungen zwischen Chromosomen, Gonaden und äußerem Erscheinungsbild. Eine ausschließlich binäre Beschreibung aller körperlichen Merkmale greift daher zu kurz. Spektrum bezeichnet hier unterschiedliche Merkmalskombinationen, keine zusätzliche Reihe von Fortpflanzungsfunktionen; die Endocrine Society erläutert weiterhin zwei Keimzelltypen. Das undeutlich erfasste Chromosomenbeispiel lässt ohne Hörkontrolle keine genaue Diagnosezuordnung zu. Intergeschlechtlichkeit und Geschlechtsidentität sind ebenfalls getrennt zu behandeln.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Teilweise belegt; frühere Begründung: Noch nicht geprüft – biologische Definitionsfrage, zu der keine medizinische Leitlinie gelesen wurde; Gegenposition zu A0052 im selben Gespräch. Fehlende Bestätigung bedeutet nicht falsch. Neue Begründung und gelesene Belege unten dokumentiert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [S2k-Leitlinie Varianten der Geschlechtsentwicklung, AWMF 174-001](https://register.awmf.org/assets/guidelines/174-001l_S2k_Varianten-der-Geschlechtsentwicklung_2025-07.pdf) · DGU, DGPAED und DGKCH; Langfassung Stand 03/2025, veröffentlicht Juli 2025.
+  Quellenzugriff am 2026-11-21. PDF im Web geöffnet; Präambel und Definition S. 2–3, Klassifikation S. 6–7 sowie Abschnitte zu Androgenresistenz und 46,XX-DSD gelesen. Keine PDF-Datei im Repository. Nur diese Teile fachlich ausgewertet; keine individuelle medizinische Diagnose. DSD-Definition und klinische Abschnitte zu Androgenresistenz und Chromosomenvarianten.
+
+- [Considering Sex as a Biological Variable in Basic and Clinical Studies: An Endocrine Society Scientific Statement](https://www.endocrine.org/-/media/endocrine/files/advancing-research/scientific-statement--considering-sex-as-a-biological-variable-in-basic-and-clinical-studies.pdf) · Bhargava et al., Endocrine Society, Endocrine Reviews 2021, DOI 10.1210/endrev/bnaa034.
+  Quellenzugriff am 2026-11-21. Fachgesellschaftliche Originalfassung im Web geöffnet; Abschnitt zur Definition biologischen Geschlechts auf S. 3 mit Keimzell- und Gonadenbezug sowie Abgrenzung zu Gender gelesen. Kein vollständiges Review aller 40 Seiten. Fortpflanzungsbezogene Definition mit zwei Keimzelltypen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Wie definieren Fachpublikationen das biologische Geschlecht, und wie werden Intergeschlechtlichkeit und Androgenresistenz eingeordnet?
+- Das Chromosomenbeispiel am Originalton prüfen; aus der automatischen Schreibweise keine bestimmte Diagnose ableiten.
 
-- Der Gastgeber nennt als Recherchegrundlage unter anderem ChatGPT; eine Fachquelle ist nicht benannt.
+### Recherchedokumentation
 
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Das Chromosomenbeispiel am Originalton prüfen; aus der automatischen Schreibweise keine bestimmte Diagnose ableiten.
+
+- Durchgang 1 am 2026-11-21 (Codex): Wissenssuche Geschlecht/Varianten der Geschlechtsentwicklung; medizinische Primärfassungen vor August 2025 mit der Gesprächspassage 01:13:49–01:14:28 abgeglichen. Gepruefte Quellen: S092, S093. Ergebnis: Merkmalsvielfalt bestätigt; Reichweite des Spektrumbegriffs und die unklare Chromosomenangabe begrenzt.
 
 ## bPXMY7Reeek-A0056
 

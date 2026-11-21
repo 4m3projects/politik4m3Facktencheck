@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text. [ChatGPT] 21.11.2026: Zwei zuvor offene Aussagen anhand externer Quellen geprüft; die erfasste Prüfabdeckung steigt, ohne dass dies eine Vollerfassung des Gesprächs bedeutet.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen. Nachrecherche 21.11.2026 (Codex): neun zuvor offene Punkte mit selbst gelesenen Quellen bewertet; Identifikations- und Definitionsgrenzen einzeln dokumentiert. Keine neue vollständige Hör-/Sichtkontrolle.
 
 ## bPXMY7Reeek-A0002
 
@@ -383,7 +383,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Sinan habe Musik unter anderem für den Dance-Act Neptunica und für 89ers abgemischt, vielfach aus dem Umfeld des Hamburger Dance-Labels Contor.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -402,25 +402,36 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – berufliche Selbstauskunft ohne öffentlich gelesenen Nachweis (Credits der genannten Produktionen nicht geprüft). Fehlende Bestätigung bedeutet nicht falsch.
+Sinan nennt Neptunica und 89ers auf zwei eigenen Mastering-Angebotsseiten als Referenzen. Das passt zur beruflichen Selbstauskunft, ist aber keine unabhängige Bestätigung und belegt weder konkrete Mixcredits noch Auftragszeitpunkte vor dem Gespräch. Kontors eigene Anbieterangabe bestätigt den Sitz in Hamburg; die Untertitelschreibung Contor wird dadurch als wahrscheinliche Namensverwechslung erkennbar. Der Umfang der behaupteten Zusammenarbeit bleibt offen.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Teilweise belegt; frühere Begründung: Noch nicht geprüft – berufliche Selbstauskunft ohne öffentlich gelesenen Nachweis (Credits der genannten Produktionen nicht geprüft). Fehlende Bestätigung bedeutet nicht falsch. Neue Begründung und gelesene Belege unten dokumentiert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [MasterSinan: Mixdown und Mastering](https://mastersinan.de/) · Sinan Kurtulus, undatierte eigene Angebotsseite; nennt Neptunica und 89ers als Referenzen.
+  Quellenzugriff am 2026-11-21. Referenzbereich und Anbieterzuordnung am 21.11.2026 direkt gelesen. Geschäftliche Selbstauskunft; weder datierte Produktionscredits noch Nachweis des Zustands im August 2025. Undatierte geschäftliche Selbstauskunft, kein historischer Einzelfallbeweis.
+
+- [Mastering Service – Futorial](https://www.futorial.de/mastering-service/) · Futorial / Sinan Kurtulus, undatierte eigene Leistungs- und Referenzseite.
+  Quellenzugriff am 2026-11-21. Referenzen Neptunica und 89ers sowie Anbieterbiografie direkt gelesen. Gleicher Anbieter wie S085, keine unabhängige Zweitbestätigung. Weitere Angebotsseite desselben Anbieters, nicht unabhängig.
+
+- [Kontor Records: Impressum](https://kontorrecords.de/impressum/) · Kontor Records GmbH, undatierte Anbieterangabe; Sitz Hamburg.
+  Quellenzugriff am 2026-11-21. Impressum direkt gelesen. Aktuelle Unternehmensselbstauskunft zum Sitz, keine Bestätigung einzelner Mixaufträge oder historischer Mitarbeiterangaben. Hamburger Sitz; kein Beleg für Mixaufträge.
 
 ### Offene Fragen und Unsicherheiten
 
-- Sind Mix- oder Mastering-Credits auf Discogs oder in Veröffentlichungsangaben dokumentiert?
+- Datierte Label- oder Künstlercredits zu einzelnen Produktionen vor dem 23.08.2025 suchen.
 
-- Ist Contor ein in Hamburg ansässiges Dance-Label?
+### Recherchedokumentation
 
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Datierte Label- oder Künstlercredits zu einzelnen Produktionen vor dem 23.08.2025 suchen.
+
+- Durchgang 1 am 2026-11-21 (Codex): Wissenssuche Musik/Mastering/Neptunica; Angebotsreferenzen selbst gelesen und separat die Labelangabe überprüft. Gepruefte Quellen: S085, S086, S087. Ergebnis: Öffentliche Referenzen und Labelort nachvollziehbar, konkrete Leistungszuordnung und Zeitraum begrenzt.
 
 ## bPXMY7Reeek-A0012
 

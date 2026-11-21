@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text. [ChatGPT] 21.11.2026: Zwei zuvor offene Aussagen anhand externer Quellen geprüft; die erfasste Prüfabdeckung steigt, ohne dass dies eine Vollerfassung des Gesprächs bedeutet.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen. Nachrecherche 21.11.2026 (Codex): neun zuvor offene Punkte mit selbst gelesenen Quellen bewertet; Identifikations- und Definitionsgrenzen einzeln dokumentiert. Keine neue vollständige Hör-/Sichtkontrolle.
 
 ## bPXMY7Reeek-A0117
 
@@ -641,7 +641,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Studien zeigten, dass die Reaktanz in der Pandemie bereits bestehende staats- und autoritätskritische Strömungen verstärkt habe; andere Studien fänden keinen zusätzlichen Effekt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -686,23 +686,36 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die gemeinten Studien werden nicht benannt; Forschung zu Protestmilieus und Vertrauen in der Pandemie wurde noch nicht gelesen. Grundsätzlich mit Fachliteratur prüfbar.
+Originalforschung belegt Zusammenhänge von Misstrauen, politischen Voreinstellungen und Maßnahmenablehnung. Diehl und Wolter finden zwischen ihren zwei Befragungswellen 2020 keine zunehmende politische Polarisierung der Maßnahmenhaltungen. Zoch und Wamsler zeigen dagegen zeit- und institutionsabhängige Vertrauensveränderungen gegenüber der Zeit vor der Pandemie. Die qualitative Social-Media-Studie beschreibt Reaktanz als möglichen Mechanismus, weist aber keine gesamtgesellschaftliche Kausalwirkung nach. Damit ist eine differenzierte Befundlage belegt, nicht die stärkere Behauptung eines durch Reaktanz verursachten Verstärkens bestehender staatskritischer Strömungen. Die vom Gastgeber konkret gemeinten Studien bleiben unbekannt.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): grundsätzlich öffentlich prüfbar, aber noch nicht recherchiert; deshalb zurück auf Offen (Arbeitsauftrag), keine Bewertung.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): grundsätzlich öffentlich prüfbar, aber noch nicht recherchiert; deshalb zurück auf Offen (Arbeitsauftrag), keine Bewertung. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Teilweise belegt; frühere Begründung: Noch nicht geprüft – die gemeinten Studien werden nicht benannt; Forschung zu Protestmilieus und Vertrauen in der Pandemie wurde noch nicht gelesen. Grundsätzlich mit Fachliteratur prüfbar. Neue Begründung und gelesene Belege unten dokumentiert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Gründe für die Ablehnung behördlicher Empfehlungen und Maßnahmen zum Schutz vor SARS-CoV-2](https://link.springer.com/article/10.1007/s00103-021-03315-y) · Diana Wahidie, Yüce Yılmaz-Aslan, Sabahat Ölcer, Tuğba Aksakal und Patrick Brzoska; Bundesgesundheitsblatt, veröffentlicht 14.04.2021, DOI 10.1007/s00103-021-03315-y; 119 Social-Media-Beiträge vom 02.03.–18.04.2020.
+  Quellenzugriff am 2026-11-21. Originalartikel im Web gelesen: Fragestellung, Methoden, Ergebnisse, Diskussion und Limitationen. Keine repräsentative Längsschnitt- oder Kausalprüfung einer politischen Radikalisierung. Qualitative Mechanismenanalyse mit begrenzter Stichprobe, kein Kausalnachweis.
+
+- [Attitudes about containment measures during the 2020/2021 coronavirus pandemic: self-interest, or broader political orientations?](https://journals.sagepub.com/doi/10.1177/20531680211035319) · Claudia Diehl und Felix Wolter, Research & Politics 2021, DOI 10.1177/20531680211035319.
+  Quellenzugriff am 2026-11-21. Originalartikel geöffnet; Methoden zu zwei Befragungswellen Mai/Juni und November 2020 sowie Ergebnis- und Schlussabschnitte gelesen. Keine Hinweise auf zunehmende politische Polarisierung der Maßnahmenhaltungen im untersuchten Zeitraum; das ist kein allgemeiner Beweis eines Pandemie-Nulleffekts. Zwei Befragungen 2020; keine zunehmende Polarisierung in der untersuchten Haltung.
+
+- [From rally to reality: unveiling long-term dynamics in political trust over two years of COVID-19 in Germany](https://fis.uni-bamberg.de/server/api/core/bitstreams/1f0f54af-4867-4fed-8f6e-f3251a3d54c1/content) · Gundula Zoch und Steffen Wamsler, Political Research Exchange 2024, DOI 10.1080/2474736X.2024.2403438; Hochschul-Zweitveröffentlichung 17.04.2026.
+  Quellenzugriff am 2026-11-21. Verlagsabruf mit HTTP 403 gescheitert. Tatsächlich gelesen wurde die identische veröffentlichte Fassung im Repositorium der Universität Bamberg: Methoden, Ergebnisse und Diskussion. 21.001 Beobachtungen von 6.501 Personen, 2017–2022; Primärpublikation vor dem Video, Repositoriumsdatum danach. Keine ausschließlich durch Reaktanz verursachte Entwicklung nachgewiesen. Originalpublikation 2024: Vertrauensverläufe und begrenzte Erklärung durch Maßnahmen; Repositoriumsdatum 2026 getrennt.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Studien sind gemeint? Der Gastgeber kann sie nach eigener Angabe nicht benennen.
+- Die im Gespräch gemeinten Studien identifizieren; Reaktanz, Vertrauensverlust und politische Radikalisierung als unterschiedliche Messgrößen prüfen.
 
-- Forschung zu Protestmilieus und Vertrauen während der Pandemie in Deutschland sichten.
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Die im Gespräch gemeinten Studien identifizieren; Reaktanz, Vertrauensverlust und politische Radikalisierung als unterschiedliche Messgrößen prüfen.
+
+- Durchgang 1 am 2026-11-21 (Codex): Wissenssuche Pandemie/Reaktanz/Vertrauen und Gegenprüfung mit unterschiedlich angelegten Originalstudien; zugängliche Methoden, Ergebnisse und Grenzen gelesen. Gepruefte Quellen: S096, S097, S098. Ergebnis: Gemischte und zeitabhängige Befunde stützen den allgemeinen Forschungsbezug; konkrete Reaktanz-Kausalität und unbenannte Nulleffektstudien nicht bestätigt.
 
 ## bPXMY7Reeek-A0131
 

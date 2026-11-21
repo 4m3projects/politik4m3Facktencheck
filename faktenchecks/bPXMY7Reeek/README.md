@@ -1,6 +1,6 @@
 # Campertalk mit Sinan (SinansWoche) bei IT Camper: unabhängiger Faktencheck
 
-**Status: Teilbestand geprüft – 16 erfasste Tatsachenbehauptungen noch offen**
+**Status: Teilbestand geprüft – 7 erfasste Tatsachenbehauptungen noch offen**
 
 Stand: 21.11.2026.
 
@@ -12,6 +12,10 @@ Stand: 21.11.2026.
 - Aufnahmezeitpunkt: nicht gesondert angegeben; das Gespräch wirkt wie ein aufgezeichneter Livestream mit Chatbeteiligung.
 - Gesprächspartner: der Gastgeber des Kanals (tritt als IT-Camper auf, bürgerlicher Name nicht festgestellt) und Sinan, Betreiber des Kanals SinansWoche. Beide Zuordnungen sind nur plausibel, nicht akustisch bestätigt.
 
+## Weitere Nachrecherche am 21.11.2026 (Codex)
+
+Neun zuvor offene Prüfungen sind jetzt quellenbasiert eingeordnet: zwei Belegt, sechs Teilweise belegt und eine Irreführend / Kontext fehlt. Die sieben noch offenen Sachfragen sind konkrete Folgeaufgaben. Die erfasste relevante Prüfabdeckung steigt von 68/84 auf 77/84 (91,7 Prozent). Der Index bleibt automatisch berechnet. [Ergebnisse, Quellen und verbleibende Arbeit](NACHRECHERCHE_2026-11-21.md). Kein vollständiger Bild- und Tonabgleich.
+
 ## Zusammenhang mit GbhI-p_ycJE
 
 Dieses Gespräch ist das **Original**, auf das sich das Video [GbhI-p_ycJE](../GbhI-p_ycJE/README.md) des Kanals Alfred räumt auf vom 18.11.2026 bezieht. Dort prüft eine KI-Erzählfigur drei Aussagen Sinans aus diesem Gespräch und bewertet das Gespräch insgesamt. Laut eigener Beschreibung ist der Kanal Alfred räumt auf ein Projekt von SinansWoche; der hier befragte Gast betreibt also den Kanal, der ihn später prüft. Die Zuordnung steht als R0001 in [beziehungen.json](../beziehungen.json).
@@ -20,7 +24,7 @@ Dieses Gespräch ist das **Original**, auf das sich das Video [GbhI-p_ycJE](../G
 
 Die automatisch erzeugten deutschen Originaluntertitel wurden vollständig gelesen (Text von 00:00:00 bis 03:11:13). Es gibt keine Textlücke über zehn Sekunden; die längste Pause liegt bei 02:46:43 (rund zehn Sekunden während einer Unterbrechung im Studio). Die letzten etwa drei Sekunden enthalten keinen Text. Das ist keine Hör- oder Sichtkontrolle. Namen von Creatorn sind in den automatischen Untertiteln teils unsicher geschrieben; solche Fälle sind bei den Aussagen vermerkt.
 
-Der aktuelle strukturierte Datenstand enthält 170 Prüfgegenstände aus allen 18 Themenbereichen: **68 abgeschlossene Tatsachenprüfungen, 16 noch offene Tatsachenprüfungen, 38 Meinungen/Prognosen und 48 begründet nicht überprüfbare Sachangaben**. Offene Einträge sind Arbeitsaufträge und keine Fehler. Der erfasste Faktenbestand umfasst nicht jede beiläufige Bemerkung des mehr als dreistündigen Gesprächs. Die automatisierte Faktenampel bewertet nur die erfassten und zugeordneten Aussagen bei ausreichender Abdeckung; sie ist kein Vollständigkeitsurteil. Belanglose Plaudereien wurden nicht als eigene Sachbehauptungen aufgenommen.
+Der aktuelle strukturierte Datenstand enthält 170 Prüfgegenstände aus allen 18 Themenbereichen: **77 abgeschlossene Tatsachenprüfungen, 7 noch offene Tatsachenprüfungen, 38 Meinungen/Prognosen und 48 begründet nicht überprüfbare Sachangaben**. Offene Einträge sind Arbeitsaufträge und keine Fehler. Der erfasste Faktenbestand umfasst nicht jede beiläufige Bemerkung des mehr als dreistündigen Gesprächs. Die automatisierte Faktenampel bewertet nur die erfassten und zugeordneten Aussagen bei ausreichender Abdeckung; sie ist kein Vollständigkeitsurteil. Belanglose Plaudereien wurden nicht als eigene Sachbehauptungen aufgenommen.
 
 ## [ChatGPT] Nachprüfung am 21.11.2026
 

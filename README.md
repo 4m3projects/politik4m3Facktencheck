@@ -23,7 +23,7 @@ Die Webseite ist der zentrale Zugang zu allen Videoanalysen, Aussagen, Quellen u
 - [KI-Debatte bei SinansWoche](faktenchecks/JPZ3yqVJR8c/README.md) · veröffentlichte Teilprüfung mit 140 Prüfgegenständen: 101 abgeschlossene Sachprüfungen, 38 Meinungen/Prognosen und 1 offene Sachprüfung; Darstellung teilweise geprüft.
 - [Eigene Reaktion: K(A)I reagiert auf SinansWoche](faktenchecks/Rxl7rShgdTs/README.md) · eigene Sachprüfung und [Abgleich mit dem Original](faktenchecks/Rxl7rShgdTs/REAKTIONSABGLEICH.md). Sie erscheint beim Original im Reiter „Reaktionen“; vollständige Bild- und Tonprüfung ausstehend.
 - [Proteste und Gewalt in Frankreich (MrWissen2go)](faktenchecks/nrnpcqzhd44/README.md) · 76 bearbeitete Prüfpunkte einschließlich des ergänzenden Bildabgleichs.
-- **Campertalk mit Sinan (SinansWoche) bei IT Camper:** 170 erfasste Aussagen; 104 abgeschlossen, 48 mit Grund nicht überprüfbar, 18 noch nicht geprüft.
+- **Campertalk mit Sinan (SinansWoche) bei IT Camper:** 170 erfasste Aussagen; 115 abgeschlossen (77 Sachprüfungen und 38 Meinungen/Prognosen), 48 mit Grund nicht überprüfbar, 7 noch nicht geprüft.
 - **Reaktion „Alfred räumt auf“ über dieses Gespräch:** 66 erfasste Aussagen; 62 abgeschlossen, 4 mit Grund nicht überprüfbar.
 - Beide Prüfungen sind **Teilbestände**: Nicht jede Nebenbemerkung ist erfasst, deshalb gibt es keine Bilanz des ganzen Videos.
 - Faktenchecks zu Interviews bei „{ungeskriptet} by Ben“ (Horst Lüning, Naomi Seibt) stehen auf der Schwesterseite **[Faktencheck Ungeskriptet](https://4m3projects.github.io/politik4m3FaktencheckUngeskriptet/)**. Beide Seiten sind über das Menü am Seitentitel verbunden. Die älteren Daten dazu bleiben hier im Repository ([Begründung](docs/WEBSEITE.md), Abschnitt „Ausgeblendete Videos“).

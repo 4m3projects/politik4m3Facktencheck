@@ -1,22 +1,23 @@
 # Prüfstand
 
-Stand: 18.11.2026. Eigenständige Neuerfassung durch Claude. Die automatischen deutschen Originaluntertitel wurden vollständig gelesen. Die 170 Datensätze erfassen Prüfgegenstände aus allen 18 Themenbereichen, aber nicht jede Teilbehauptung des Gesprächs.
+Aktualisiert am 21.11.2026 durch Codex. Die Ersterfassung vom 18.11.2026 und die späteren Nachrecherchen bleiben in der Aussagehistorie nachvollziehbar. Die 170 erfassten Prüfgegenstände verteilen sich weiterhin auf 18 Themenbereiche. Eine vollständige Hör-/Sichtkontrolle und die Erfassung sämtlicher Nebenbehauptungen stehen aus.
 
 ## Ergebnis
 
-Die öffentliche Recherche ist abgeschlossen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet.
+77 Tatsachenprüfungen und 38 Einordnungen als Meinung/Prognose sind abgeschlossen; 48 Sachangaben sind begründet nicht überprüfbar, sieben weitere Sachprüfungen stehen noch aus. Fehlender Quellenzugang wird als offene Arbeit geführt. [Nachrecherche und verbleibende Aufgaben](NACHRECHERCHE_2026-11-21.md).
 
 | Einordnung | Anzahl |
-|---|---:|
-| Belegt | 13 |
-| Teilweise belegt | 28 |
-| Irreführend / Kontext fehlt | 3 |
+| --- | ---: |
+| Teilweise belegt | 41 |
+| Nicht überprüfbar | 48 |
+| Belegt | 23 |
+| Meinung / Prognose | 38 |
+| Irreführend / Kontext fehlt | 5 |
+| Offen | 7 |
+| Nicht ausreichend belegbar | 4 |
 | Widerlegt | 4 |
-| Nicht ausreichend belegbar | 2 |
-| Meinung oder Prognose | 38 |
-| Mit Grund als nicht überprüfbar gekennzeichnet | 82 |
 
-„Nicht überprüfbar“ heißt nicht falsch. Die Gründe sind vor allem persönliche Darstellungen (Ausbildung, Familie, Gesundheit, Alltag), anonyme oder nicht genannte Quellen, zu unbestimmte Angaben über Dritte sowie Plattform- und Reichweitendaten, die aus der Prüfumgebung nicht abrufbar waren.
+Die folgenden älteren Sachbefunde sind übernommene Zusammenfassungen und wurden in diesem Durchgang nicht pauschal neu verifiziert.
 
 ## Wichtigste Befunde
 

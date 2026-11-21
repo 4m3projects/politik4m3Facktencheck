@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Alle 18 eigenen Themenbereiche (00:00:00–03:11:14) sind mit Aussagen erfasst, aber nicht jede Teilbehauptung des Gesprächs; bewusst nicht aufgenommen wurden belanglose Plaudereien ohne Prüfrelevanz (Wochenende, Kappenfarben, Vereinsfarben, Katze im Studio, Chatgrüße, Verabschiedung) sowie reine Definitionsbemerkungen. Deshalb keine Statistik des gesamten Gesprächs. Sprecher nur plausibel zugeordnet. Untertitel ohne Lücke über zehn Sekunden; letzte rund drei Sekunden ohne Text. [ChatGPT] 21.11.2026: Zwei zuvor offene Aussagen anhand externer Quellen geprüft; die erfasste Prüfabdeckung steigt, ohne dass dies eine Vollerfassung des Gesprächs bedeutet.
 
-Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen.
+Unabhängige Neuerfassung durch Claude am 18.11.2026 auf Grundlage der vollständig gelesenen automatischen deutschen Originaluntertitel (Text 00:00:00–03:11:13). Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen: Gesetzestexte, Bundestags- und Bundesratsdrucksachen, amtliche Mitteilungen, eine Originalstudie und Presseberichte, jeweils tatsächlich gelesen. Nicht Überprüfbares ist mit Grund gekennzeichnet, nicht geraten. YouTube- und Plattformdaten waren aus der Prüfumgebung nicht abrufbar. Keine Audio-/Videokontrolle; Sprecher nur plausibel zugeordnet. [ChatGPT] 21.11.2026: A0013 (Tavengo) und A0164 (familiäre Corona-Konflikte) aufgrund direkt gelesener Originalveröffentlichungen als Belegt eingestuft. Keine Hör-/Sichtvollkontrolle; es bleiben andere offene Tatsachenaussagen. Nachrecherche 21.11.2026 (Codex): neun zuvor offene Punkte mit selbst gelesenen Quellen bewertet; Identifikations- und Definitionsgrenzen einzeln dokumentiert. Keine neue vollständige Hör-/Sichtkontrolle.
 
 ## bPXMY7Reeek-A0073
 
@@ -872,7 +872,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der öffentliche Dienst mache nur einen Bruchteil der IT-Stellen in Deutschland aus.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -891,23 +891,33 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine Beschäftigtenstatistik zu IT-Stellen gelesen. Fehlende Bestätigung bedeutet nicht falsch.
+Die vor dem Gespräch veröffentlichte McKinsey-Studie von Januar 2023 beziffert den Anteil des öffentlichen Sektors an den sozialversicherungspflichtigen IT-Fachkräften auf rund drei Prozent. Das stützt den eng gefassten Kern eines kleinen Beschäftigtenanteils. Die Zahl bezeichnet Beschäftigte, keine Quote offener Stellen und keine genaue Aktualisierung für August 2025; öffentliche Unternehmen und Berufsabgrenzungen sind zu beachten. Aus dem geringen Anteil folgt nicht, dass dortige Gleichstellungs- oder Einstellungsregeln bedeutungslos wären.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle; Sprecher nur plausibel) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Gezielte Nachrecherche 21.11.2026 (Codex): zugeordnete automatische deutsche Originaluntertitel des Campertalks im Kontext gelesen und die bezeichneten externen Quellen selbst geöffnet. Keine neue Hör- oder Sichtkontrolle; Sprecher und Zeitgenauigkeit bleiben unverändert plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 2026-11-21 (Codex): vorher Offen, jetzt Belegt; frühere Begründung: Noch nicht geprüft – keine Beschäftigtenstatistik zu IT-Stellen gelesen. Fehlende Bestätigung bedeutet nicht falsch. Neue Begründung und gelesene Belege unten dokumentiert.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Action, bitte! Wie der öffentliche Sektor den Mangel an digitalen Fachkräften meistern kann](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/publikationen/2023-01-25%20it%20talent%20im%20public%20sector/action%20bittemckinsey.pdf) · McKinsey & Company, Januar 2023, insbesondere S. 5–6; Auswertung vorhandener Statistiken.
+  Quellenzugriff am 2026-11-21. Originalstudie im Web geöffnet und Abschnitt zum öffentlichen Sektor sowie IT-Beschäftigtenanteil gelesen; Quelle beziffert 3 Prozent der sozialversicherungspflichtigen IT-Fachkräfte. Beschäftigte, offene Stellen und künftige Bedarfe werden getrennt. Originalstudie S. 5–6: Anteil an sozialversicherungspflichtigen IT-Fachkräften, keine Vakanzquote.
+
+- [Studie: Im öffentlichen Dienst fehlen bis 2030 140.000 IT-Fachkräfte](https://www.mckinsey.com/de/news/presse/2023-01-25-it-talent-im-public-sector) · McKinsey & Company, Pressemitteilung vom 25.01.2023 zur Studie S094.
+  Quellenzugriff am 2026-11-21. Originalmitteilung vollständig gelesen. Gleiche Studie wie S094, keine unabhängige zweite Datenquelle und keine exakte Aktualisierung für August 2025. Mitteilung derselben Studie; keine unabhängige zweite Zählung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Anteil der IT-Fachkräfte im öffentlichen Dienst an allen IT-Beschäftigten (Bundesagentur für Arbeit, Destatis) feststellen.
+- Für eine genaue Quote im August 2025 wären vergleichbar abgegrenzte aktuelle Berufsdaten erforderlich.
 
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als nicht überprüfbar gekennzeichnet; keine Bewertung geraten.
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Für eine genaue Quote im August 2025 wären vergleichbar abgegrenzte aktuelle Berufsdaten erforderlich.
+
+- Durchgang 1 am 2026-11-21 (Codex): Wissenssuche IT/Fachkräfte/Beschäftigte, amtliche Abgrenzungen und Studienhinweise geprüft; anschließend Originalstudie und zugehörige Pressemitteilung gelesen. Gepruefte Quellen: S094, S095. Ergebnis: Kleiner Beschäftigtenanteil durch zeitlich passende Originalstudie gestützt, politische Folgerung getrennt.
 
 ## bPXMY7Reeek-A0093
 
