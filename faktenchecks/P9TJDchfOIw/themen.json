@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "videoId": "P9TJDchfOIw",
+  "basis": "Manuelle sachbezogene Zuordnung aus den tatsächlich erfassten Einzelbehauptungen (ChatGPT, 21.11.2026). Wahlen/Sachsen-Anhalt bilden den Schwerpunkt, Rundfunkrecht einen vertieften Abschnitt. Neue Themen nur angelegt, nachdem die bestehenden Themen im Haupt- und Schwesterprojekt geprüft wurden; keine inhaltlich passende vorhandene ID.",
+  "topics": [
+    {
+      "topic": "wahlen",
+      "relevance": "Schwerpunkt",
+      "basis": "Wahlgänge, parlamentarische Mehrheiten, Abstimmungsverfahren und Terminabsichten sind die Hauptfragen des Videos.",
+      "segments": [
+        {
+          "startSeconds": 1,
+          "endSeconds": 714,
+          "note": "Regierungsbildung und Landtagsabstimmungen."
+        }
+      ]
+    },
+    {
+      "topic": "sachsen-anhalt",
+      "relevance": "Schwerpunkt",
+      "basis": "Alle wesentlichen Vorgänge betreffen Landtag und Regierung des Landes Sachsen-Anhalt.",
+      "segments": [
+        {
+          "startSeconds": 1,
+          "endSeconds": 714,
+          "note": "Landespolitik und Verfassungsordnung."
+        }
+      ]
+    },
+    {
+      "topic": "rundfunk",
+      "relevance": "Behandelt",
+      "basis": "Mehrere eigenständige Prüfpunkte zu MDR-Staatsvertrag, Kündigungsfrist und parlamentarischer Zustimmung.",
+      "segments": [
+        {
+          "startSeconds": 100,
+          "endSeconds": 215,
+          "note": "Rundfunk-Staatsverträge und Kündigungsbedingungen."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "P9TJDchfOIw-A0001",
+      "topics": [
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0002",
+      "topics": [
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0003",
+      "topics": [
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0004",
+      "topics": [
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0005",
+      "topics": [
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0006",
+      "topics": [
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0007",
+      "topics": [
+        "rundfunk",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0008",
+      "topics": [
+        "rundfunk",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0009",
+      "topics": [
+        "rundfunk",
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0010",
+      "topics": [
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0011",
+      "topics": [
+        "rundfunk",
+        "wahlen"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0012",
+      "topics": [
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0013",
+      "topics": [
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0014",
+      "topics": [
+        "wahlen"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0015",
+      "topics": [
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0016",
+      "topics": [
+        "wahlen"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0017",
+      "topics": [
+        "wahlen"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0018",
+      "topics": [
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0019",
+      "topics": [
+        "wahlen"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0020",
+      "topics": [
+        "wahlen"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0021",
+      "topics": [
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0022",
+      "topics": [
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0023",
+      "topics": [
+        "wahlen",
+        "sachsen-anhalt"
+      ]
+    },
+    {
+      "claimId": "P9TJDchfOIw-A0024",
+      "topics": [
+        "wahlen"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "agent": "ChatGPT",
+      "change": "Erstzuordnung der 24 Prüfpunkte zu Wahlen, Sachsen-Anhalt und Rundfunk; thematische Neueinträge im Hauptportal."
+    }
+  ]
+}

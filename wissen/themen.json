@@ -462,6 +462,57 @@
           "change": "Neues Sachthema aus den erfassten Aussagen der KI-Teilprüfung; zuvor vorhandene Themen und Aliasse beider Projekte auf Überschneidungen geprüft."
         }
       ]
+    },
+    {
+      "id": "sachsen-anhalt",
+      "name": "Sachsen-Anhalt",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Landespolitik und politische Institutionen in Sachsen-Anhalt.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-21",
+          "agent": "ChatGPT",
+          "change": "Neu angelegt für das Video P9TJDchfOIw; vorhandene Themen in Haupt- und Schwesterprojekt vorab überprüft."
+        }
+      ]
+    },
+    {
+      "id": "wahlen",
+      "name": "Wahlen und Regierungsbildung",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Wahlrecht, parlamentarische Mehrheiten, Regierungsbildung und Wahlverfahren.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-21",
+          "agent": "ChatGPT",
+          "change": "Neu angelegt für das Video P9TJDchfOIw; vorhandene Themen in Haupt- und Schwesterprojekt vorab überprüft."
+        }
+      ]
+    },
+    {
+      "id": "rundfunk",
+      "name": "Öffentlich-rechtlicher Rundfunk",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Rundfunkstaatsverträge, Medienauftrag und rechtliche Organisation des öffentlich-rechtlichen Rundfunks.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-21",
+          "agent": "ChatGPT",
+          "change": "Neu angelegt für das Video P9TJDchfOIw; vorhandene Themen in Haupt- und Schwesterprojekt vorab überprüft."
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "videoId": "P9TJDchfOIw",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-21",
+    "by": "ChatGPT",
+    "basis": "Textgebundene Analyse des zeitmarkierten vidIQ-Transkripts; keine eigenständige Originalton- oder Bildwiedergabe.",
+    "coverage": "Thematische Dramaturgie und die Unterscheidung zwischen Tatsachen, Ankündigungen und Szenarien textlich geprüft (00:00 bis 11:55).",
+    "limits": [
+      "Intonation, Schnitt, Bilder, Einblendungen und Audio nicht geprüft.",
+      "Sprecherwechsel und exakte Zeitfenster ohne Abgleich mit Originalplayer nicht bestätigt.",
+      "Keine audiovisuelle Gesamtnote oder vollständige Rhetorikprüfung."
+    ],
+    "history": [
+      {
+        "date": "2026-11-21",
+        "by": "ChatGPT",
+        "change": "Textbasierte Erstkontrolle; audiovisuelle Prüfung ausdrücklich offen gelassen."
+      }
+    ]
+  },
+  "annotations": []
+}
