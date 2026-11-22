@@ -57,11 +57,11 @@
     },
     {
       "id": "S006",
-      "title": "MDR-Staatsvertrag § 42: Gültigkeit und Kündigung",
-      "url": "https://www.recht.sachsen.de/vorschrift/19075-StV-MDR",
-      "details": "REVOSax, sächsisches Landesrecht; Kündigung zu Jahresende mit zwei Jahren Frist.",
+      "title": "MDR erläutert Kündigung des Rundfunkstaatsvertrages",
+      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/wahl-ministerpraesident-zeitpunkt-video-social-media-einschaetzung-mp-wahl%2Cafd-siegmund-114.html",
+      "details": "MDR Sachsen-Anhalt, 19.11.2026: Kündigung des MDR-Staatsvertrags zum 31.12. eines Jahres mit zweijähriger Frist, Austritt frühestens Ende 2028 bei Kündigung 2026.",
       "accessedOn": "2026-11-21",
-      "accessBasis": "Relevanter Normabschnitt im veröffentlichten Web-Suchergebnis eingesehen; vollständiger Direktabruf nicht erfolgreich. Ergänzend S016."
+      "accessBasis": "MDR-Bericht als veröffentlichter Webtext gelesen. Redaktionelle Darstellung; daneben S016 als eigenständige MDR-Erläuterung. Kein Normvolltext unter diesem Link."
     },
     {
       "id": "S007",
@@ -93,15 +93,15 @@
       "url": "https://www.onvista.de/news/2026/11-19-roundup-2-siegmund-will-frueher-gewaehlt-werden-doch-wer-hilft-ihm-0-10-26578523",
       "details": "dpa-Bericht vom 19.11.2026; AfD 44 Stimmen, BSW-Vorschlag zunächst 0, später 43.",
       "accessedOn": "2026-11-21",
-      "accessBasis": "Veröffentlichte dpa-Passage im Web-Suchergebnis eingesehen."
+      "accessBasis": "dpa-Bericht vom 19.11.2026 in der verfügbaren Onvista-Veröffentlichung als Web-Suchergebnis vollständig für die einschlägige Passage gelesen; enthält Abstimmung null/43 und die Geheimwahl."
     },
     {
       "id": "S011",
-      "title": "Deutschlandfunk: BSW-Spitze will sich enthalten",
-      "url": "https://www.deutschlandfunk.de/bsw-spitze-will-sich-bei-ministerpraesidentenwahl-enthalten-102.html",
-      "details": "Deutschlandfunk vom 16.10.2026; Ankündigung einer Enthaltung, keine tatsächliche Stimmabgabe.",
+      "title": "dpa: Ankündigung einer BSW-Enthaltung",
+      "url": "https://www.onvista.de/news/2026/11-19-roundup-2-siegmund-will-frueher-gewaehlt-werden-doch-wer-hilft-ihm-0-10-26578523",
+      "details": "dpa-Bericht vom 19.11.2026 mit BSW-Ankündigung, bei der Ministerpräsidentenwahl Enthaltung zu üben.",
       "accessedOn": "2026-11-21",
-      "accessBasis": "Veröffentlichten Bericht und die schriftlich dokumentierte Position gelesen."
+      "accessBasis": "Berichtstext im Web-Suchergebnis gelesen, als Bericht über eine Ankündigung und nicht als Vorwegnahme einer geheimen Abstimmung verwendet."
     },
     {
       "id": "S012",
@@ -141,15 +141,15 @@
       "url": "https://www.mdr.de/unternehmen/kuendigung-rundfunkstaatsvertrag-abschaltung-sachsen-anhalt-100.html",
       "details": "MDR, August 2026; Kündigung zu Jahresende, Zweijahresfrist, rechtliche Folgen für Sachsen-Anhalt.",
       "accessedOn": "2026-11-21",
-      "accessBasis": "Relevante Passagen der redaktionellen Erläuterung aus Webrecherche eingesehen, vollständiger Direktabruf nicht erfolgreich."
+      "accessBasis": "MDR-Unternehmensseite als aktueller veröffentlichter Webtext gelesen. Sie bestätigt zweijährige Kündigungsfrist, Kündigung zu Jahresende und Auswirkungen."
     },
     {
       "id": "S017",
-      "title": "Landtag: Einberufung auf Verlangen eines Viertels",
-      "url": "https://www.landtag.sachsen-anhalt.de/artikel/sondersitzung",
-      "details": "Landtag Sachsen-Anhalt, 13.10.2026, Anwendungsfall Art. 45 Abs. 2.",
+      "title": "Art. 45 Abs. 2 Landesverfassung: Einberufung auf Verlangen eines Viertels",
+      "url": "https://www.anwalt24.de/gesetze/verf_st/45",
+      "details": "Landesverfassung Sachsen-Anhalt, Art. 45 Abs. 2; Sitzung auf Verlangen von 1/4 der Abgeordneten.",
       "accessedOn": "2026-11-21",
-      "accessBasis": "Offiziellen veröffentlichten Bericht über die bereits einberufene Sitzung gelesen."
+      "accessBasis": "Verfassungsnorm selbst im Online-Rechtsportal geöffnet und gelesen; zusätzliche Referenz auf die bereits unter S003 verzeichnete Primärnorm."
     },
     {
       "id": "S018",
@@ -350,7 +350,7 @@
       "description": "Die Ministerpräsidentenwahl sei bereits verbindlich auf eine Sondersitzung am 8. Dezember vorgezogen worden.",
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
-      "reason": "Die Absicht war öffentlich erklärt; am 20.11. war nach MDR-Angaben ein förmlicher Antrag auf die Sondersitzung noch nicht eingereicht. Die Terminänderung stand folglich nicht bereits rechtlich fest.",
+      "reason": "Siegmund hatte den 8. Dezember angekündigt; laut zeitgenössischem MDR-Bericht lag am Donnerstagnachmittag, 19.11.2026, noch kein formeller Antrag für diese Sitzung vor. Der spätere Antragsstand am Veröffentlichungstag des Videos wurde nicht unabhängig festgestellt.",
       "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -388,7 +388,7 @@
         }
       ],
       "relations": [],
-      "shortReason": "Die AfD hatte den 8. Dezember angekündigt, aber der offizielle Antrag auf die Sondersitzung lag noch nicht vor.",
+      "shortReason": "Der 8. Dezember war angekündigt; laut MDR lag am 19. November noch kein förmlicher Antrag für die Sondersitzung vor.",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
