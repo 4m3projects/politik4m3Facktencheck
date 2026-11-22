@@ -2,11 +2,11 @@
 
 ## 1. Mandate, PKG-Wahl und Sitzungswunsch
 
-Die endgültige Wahlstatistik weist 83 Sitze aus: 39 AfD, 15 CDU, je acht SPD, Grüne und Linke sowie fünf BSW. Somit erfordert die Wahl des Ministerpräsidenten in den ersten beiden Wahlgängen mindestens 42 Stimmen. Das tatsächliche 44-Ja-Ergebnis für zwei AfD-Vertreter im Parlamentarischen Kontrollgremium liegt über dieser Schwelle. Die Abstimmung war geheim; ein verlässlicher Rückschluss auf genau fünf BSW-Stimmen ist daher ausgeschlossen. Siegmund kündigte eine Wahl am 8. Dezember an, obwohl ein formaler Antrag am 20. November noch fehlte.
+Die endgültige Wahlstatistik weist 83 Sitze aus: 39 AfD, 15 CDU, je acht SPD, Grüne und Linke sowie fünf BSW. Somit erfordert die Wahl des Ministerpräsidenten in den ersten beiden Wahlgängen mindestens 42 Stimmen. Das tatsächliche 44-Ja-Ergebnis für zwei AfD-Vertreter im Parlamentarischen Kontrollgremium liegt über dieser Schwelle. Die Abstimmung war geheim; ein verlässlicher Rückschluss auf genau fünf BSW-Stimmen ist daher ausgeschlossen. Siegmund kündigte den 8. Dezember an. Der übernommene MDR-Befund nennt einen fehlenden formellen Antrag am Nachmittag des 19. November; der Stand am Veröffentlichungstag des Videos ist ungeklärt.
 
 ## 2. Rundfunkstaatsvertrag
 
-Der MDR-Staatsvertrag ist zum jeweiligen Jahresende mit zwei Jahren Vorlauf kündbar. Das bedingte Szenario einer wirksamen Kündigung bis Ende 2026 führt zu einem Ende der Landesbeteiligung Ende 2028. Ein erst 2027 wirksamer Kündigungsschritt verschiebt den möglichen frühesten Endtermin auf Ende 2029. Darüber hinaus verlangt Art. 69 Abs. 2 der Verfassung Sachsen-Anhalts seit Mai 2026 die Zustimmung des Landtags zur Kündigung von Staatsverträgen. Eine vermeintlich alleinige Entscheidung des Ministerpräsidenten wäre deshalb unzutreffend. Ob ein solcher Zustimmungsvorbehalt einzigartig ist, bleibt offen.
+Der MDR-Staatsvertrag ist zum jeweiligen Jahresende mit zwei Jahren Vorlauf kündbar. Das bedingte Szenario einer wirksamen Kündigung bis Ende 2026 führt zu einem Ende der Landesbeteiligung Ende 2028. Ein erst 2027 wirksamer Kündigungsschritt verschiebt den möglichen frühesten Endtermin auf Ende 2029. Darüber hinaus verlangt Art. 69 Abs. 2 der Verfassung Sachsen-Anhalts nach der Verfassungsänderung von 2026 die Zustimmung des Landtags zur Kündigung von Staatsverträgen. Eine vermeintlich alleinige Entscheidung des Ministerpräsidenten wäre deshalb unzutreffend. Ob ein solcher Zustimmungsvorbehalt einzigartig ist, bleibt offen.
 
 ## 3. Wahlverfahren
 
@@ -19,3 +19,7 @@ Die CDU kündigte einen Auszug der meisten Fraktionsmitglieder an; Guido Heuer e
 ## Ergebnis und Grenze
 
 Die zentralen Zahlen und Rechtsregeln sind überwiegend belegt; ein wesentlicher Terminvorbehalt ist klarzustellen. Bei geheimen Stimmen und künftigen politischen Entscheidungen ist die Unsicherheit konstitutiv. Die Einzelaussagen enthalten alle Details und Quellen; eine vollständige Bild-/Tonprüfung und der systematische bundesweite Rechtsvergleich stehen noch aus.
+
+## Aktualisierung 22.11.2026 (Codex)
+
+[Gezielte Nachprüfung: Normvergleich, Quellenkonflikt, Gewichtsreview und Fundstelle](04_nachpruefung.md). Eigener Monatszusatz an A0009 zurückgenommen (HP-C0002); A0010 bleibt mit konkreten Restfragen offen. Vollständiges Originalplayer-Transkript gelesen; Wiedergabe fehlgeschlagen, keine Bild-/Tonkontrolle. Übrige Sachurteile sind übernommener Prüfstand.

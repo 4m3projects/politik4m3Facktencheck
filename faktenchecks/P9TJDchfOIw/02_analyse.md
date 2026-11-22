@@ -9,3 +9,7 @@ Die Erstprüfung konzentriert sich auf 24 überprüfbare und prognostische Kernp
 ## Methodische Leitplanken
 
 Die Sitzarithmetik belegt Möglichkeiten, keine zukünftigen geheimen Stimmabgaben. Angekündigte Abstimmungsabsichten sind keine zugesicherten Abstimmungsergebnisse. Zitate und fremde Positionen werden nicht als eigene Videofehler gewertet. Verfassungsrechtliche Fristen werden nicht zu festen Sitzungsterminen umgedeutet. Vorläufige Bedeutungsfaktoren müssen von einem zweiten Agenten unabhängig geprüft werden. Quellen- und Audiokontrollen dürfen erst dann als erledigt dokumentiert werden, wenn sie stattgefunden haben.
+
+## Aktualisierung 22.11.2026 (Codex)
+
+[Gezielte Nachprüfung: Normvergleich, Quellenkonflikt, Gewichtsreview und Fundstelle](04_nachpruefung.md). Eigener Monatszusatz an A0009 zurückgenommen (HP-C0002); A0010 bleibt mit konkreten Restfragen offen. Vollständiges Originalplayer-Transkript gelesen; Wiedergabe fehlgeschlagen, keine Bild-/Tonkontrolle. Übrige Sachurteile sind übernommener Prüfstand.

@@ -2,11 +2,11 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** 24 eigenständige zentrale Prüfpunkte über 00:00–11:55 einschließlich Verfassungsrecht, Sitzrechnungen, PKG-Abstimmung, Rundfunkstaatsvertrag und parteipolitischen Szenarien. Nicht alle Einspieler-/Nebensätze und keine rein visuellen Inhalte geprüft. Ein rechtsvergleichender Prüfpunkt ist offen; daher keine vollständige audiovisuelle Gesamtprüfung.
+**Abdeckung: Teilbestand.** Weiterhin 24 erfasste zentrale Prüfpunkte von 00:00 bis 11:55; Teilbestand. A0010 bleibt nach dokumentiertem Normvergleich offen: aktuelle Fassungsabsicherung und Rechtsreichweite fehlen. Eigener Datumszusatz an A0009 zurückgenommen; A0013 textlich neu lokalisiert. Keine erneute Sachprüfung aller 24 Urteile und keine audiovisuelle Gesamtprüfung.
 
-Stand: 2026-11-21 · Video: P9TJDchfOIw
+Stand: 2026-11-22 · Video: P9TJDchfOIw
 
-Erstanalyse ChatGPT 21.11.2026: deutschsprachiges, mit Zeitmarken versehenes vidIQ-Transkript zum Video vollständig inhaltlich durchgegangen; Sachbelege anhand amtlicher Wahldaten, aktueller Verfassung und zeitgenössischer Berichte recherchiert. Originalplayer weder gesehen noch gehört. Fremdpositionen nur als Ankündigungen, nicht als eigene gesicherte Prognosen gewertet. Normvergleich zu angeblicher Einzigartigkeit noch offen.
+Erstanalyse ChatGPT 21.11.2026: deutschsprachiges, mit Zeitmarken versehenes vidIQ-Transkript zum Video vollständig inhaltlich durchgegangen; Sachbelege anhand amtlicher Wahldaten, aktueller Verfassung und zeitgenössischer Berichte recherchiert. Originalplayer weder gesehen noch gehört. Fremdpositionen nur als Ankündigungen, nicht als eigene gesicherte Prognosen gewertet. Normvergleich zu angeblicher Einzigartigkeit noch offen. Nachprüfung 22.11.2026 (Codex): vollständiges Originalplayer-Transkript gelesen; Normtexte der übrigen 15 Länder verglichen, Fassungsgrenzen und Rechtsstreit dokumentiert. Monatsdatierung zu A0009 zurückgenommen. Gewichte durch separaten Codex-Reviewer gegen ChatGPT-Erstansatz geprüft; kein Bild-/Tonabgleich.
 
 ## Umfang und Bearbeitungsstand
 

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "HP-C0002",
+  "kind": "Quelle falsch interpretiert",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-22",
+  "reportedBy": "Codex",
+  "trigger": {
+    "claimId": "P9TJDchfOIw-A0009",
+    "entryId": null,
+    "description": "Die eigene Erstbegründung setzt das Inkrafttreten des Zustimmungsvorbehalts auf Mai 2026. Die gelesene Beschlussempfehlung und Gesetzeswiedergabe enthalten für Artikel 1 Nummer 5 dagegen einen späteren besonderen Inkrafttretenszeitpunkt. Den Monat bis zum Abgleich mit der amtlichen Endverkündung aus der eigenen Darstellung entfernen; den für November geltenden Zustimmungsvorbehalt erhalten."
+  },
+  "evidence": [
+    {
+      "title": "Artikel 69 Landesverfassung: Zustimmung zu Staatsvertragskündigungen",
+      "url": "https://www.haufe.de/id/norm/verfassung-sachsen-anhalt-art-69-vertretung-des-landes-staatsvertraege-HI8635922_p69.html",
+      "accessedOn": "2026-11-22",
+      "finding": "Volltext einschließlich Änderungsstand geöffnet und gelesen. Codex öffnete die Seite erneut am 22.11.2026; die Datierung 12.05.2026 widerspricht dem besonderen Inkrafttretensvorbehalt in S037/S038."
+    },
+    {
+      "title": "Originaltranskript im YouTube-Player",
+      "url": "https://www.youtube.com/watch?v=P9TJDchfOIw",
+      "accessedOn": "2026-11-22",
+      "finding": "Codex öffnete die Originalseite und las das eingeblendete deutsche Transkript vollständig von 00:01 bis 11:49. Die Wiedergabe meldete einen Medienfehler. Kein Originalton gehört, keine Filmstellen gesehen; Untertitelfehler und Sprecherwechsel bleiben möglich."
+    },
+    {
+      "title": "Beschlussempfehlung zur Parlamentsreform 2026",
+      "url": "https://padoka.landtag.sachsen-anhalt.de/files/drs/wp8/drs/d6871vbe.pdf",
+      "accessedOn": "2026-11-22",
+      "finding": "Amtliches Dokument geöffnet; neue Kündigungsregel und besonderen Inkrafttretensvorbehalt gelesen. Beschlussempfehlung ist kein Ersatz für die Endverkündung."
+    },
+    {
+      "title": "Gesetz zur Parlamentsreform 2026: Gesetzeswiedergabe",
+      "url": "https://www.umwelt-online.de/regelwerk/allgemei/laender/lsa/z26_0178.htm",
+      "accessedOn": "2026-11-22",
+      "finding": "Art. 1 Nr. 5 und Art. 8 Abs. 3 im geöffneten Text gelesen: besondere Anwendung zum Zusammentritt der neunten Wahlperiode. Widerspricht der pauschalen Datierung bei S005; amtliche Endverkündung noch abzugleichen."
+    },
+    {
+      "title": "Konstituierung des Landtags der neunten Wahlperiode",
+      "url": "https://www.landtag.sachsen-anhalt.de/artikel/landtag-hat-sich-konstituiert",
+      "accessedOn": "2026-11-22",
+      "finding": "Meldung geöffnet und gelesen: konstituierende Sitzung am 06.10.2026. Belegt den Sitzungstermin, ersetzt nicht das Inkrafttretensrecht."
+    }
+  ],
+  "affected": [
+    {
+      "target": "P9TJDchfOIw-A0009",
+      "reason": "Nur eigener Monatszusatz an A0009 betroffen. Andere automatisch gefundene Aussagen teilen die Originalvideoquelle, enthalten diesen Zusatz aber nicht."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Rücknahme eines ungesicherten redaktionellen Zusatzes",
+    "date": "2026-11-22",
+    "basis": "Originaltranskript nennt keinen Monat. Widersprüchliche Quellen rechtfertigen Rücknahme des eigenen ungesicherten Monatszusatzes. Kein alternativer Beginn als abschließend bewiesen eingesetzt und kein Faktenurteil geändert."
+  },
+  "changes": [
+    {
+      "target": "P9TJDchfOIw-A0009",
+      "field": "description",
+      "before": "Die Kündigung eines Staatsvertrags benötigt in Sachsen-Anhalt seit Mai 2026 die Zustimmung des Landtags.",
+      "after": "Nach der Verfassungsänderung von 2026 benötigt die Kündigung eines Staatsvertrags in Sachsen-Anhalt die Zustimmung des Landtags."
+    },
+    {
+      "target": "P9TJDchfOIw-A0009",
+      "field": "reason",
+      "before": "Art. 69 Abs. 2 der Landesverfassung wurde zum 12.05.2026 geändert. Anders als früher ist ausdrücklich auch die Kündigung zustimmungspflichtig.",
+      "after": "Art. 69 Abs. 2 enthält inzwischen ausdrücklich einen Zustimmungsvorbehalt auch für Kündigungen. Die eigene Erstprüfung ergänzte dafür den Monat Mai; diese Datierung wird zurückgenommen. S005 nennt den 12.05.2026, S037 und S038 verweisen für Art. 1 Nr. 5 dagegen auf den Zusammentritt der neunten Wahlperiode. Dieser fand laut S039 am 06.10.2026 statt. Für den im November beschriebenen Zustimmungsvorbehalt besteht zwischen diesen Quellen kein Unterschied; der genaue historische Beginn wird erst nach Kontrolle der amtlichen Endverkündung abschließend festgelegt."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "agent": "Codex",
+      "change": "Gemeldet; Betroffene automatisch über gleiche Quelle, Verknüpfungen und Abhängigkeiten ermittelt."
+    },
+    {
+      "date": "2026-11-22",
+      "agent": "Codex",
+      "change": "Im Auftrag zu Issue #117 geprüft. Automatische Betroffenenliste auf A0009 begrenzt. Monatszusatz zurückgenommen; Zustimmungsvorbehalt und Urteil unverändert. Endverkündung bleibt Rechercheauftrag."
+    }
+  ]
+}
