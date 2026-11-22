@@ -1,8 +1,8 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. 24 eigenständige zentrale Prüfpunkte über 00:00–11:55 einschließlich Verfassungsrecht, Sitzrechnungen, PKG-Abstimmung, Rundfunkstaatsvertrag und parteipolitischen Szenarien. Nicht alle Einspieler-/Nebensätze und keine rein visuellen Inhalte geprüft. Ein rechtsvergleichender Prüfpunkt ist offen; daher keine vollständige audiovisuelle Gesamtprüfung.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Weiterhin 24 erfasste zentrale Prüfpunkte von 00:00 bis 11:55; Teilbestand. A0010 bleibt nach dokumentiertem Normvergleich offen: aktuelle Fassungsabsicherung und Rechtsreichweite fehlen. Eigener Datumszusatz an A0009 zurückgenommen; A0013 textlich neu lokalisiert. Keine erneute Sachprüfung aller 24 Urteile und keine audiovisuelle Gesamtprüfung.
 
-Erstanalyse ChatGPT 21.11.2026: deutschsprachiges, mit Zeitmarken versehenes vidIQ-Transkript zum Video vollständig inhaltlich durchgegangen; Sachbelege anhand amtlicher Wahldaten, aktueller Verfassung und zeitgenössischer Berichte recherchiert. Originalplayer weder gesehen noch gehört. Fremdpositionen nur als Ankündigungen, nicht als eigene gesicherte Prognosen gewertet. Normvergleich zu angeblicher Einzigartigkeit noch offen.
+Erstanalyse ChatGPT 21.11.2026: deutschsprachiges, mit Zeitmarken versehenes vidIQ-Transkript zum Video vollständig inhaltlich durchgegangen; Sachbelege anhand amtlicher Wahldaten, aktueller Verfassung und zeitgenössischer Berichte recherchiert. Originalplayer weder gesehen noch gehört. Fremdpositionen nur als Ankündigungen, nicht als eigene gesicherte Prognosen gewertet. Normvergleich zu angeblicher Einzigartigkeit noch offen. Nachprüfung 22.11.2026 (Codex): vollständiges Originalplayer-Transkript gelesen; Normtexte der übrigen 15 Länder verglichen, Fassungsgrenzen und Rechtsstreit dokumentiert. Monatsdatierung zu A0009 zurückgenommen. Gewichte durch separaten Codex-Reviewer gegen ChatGPT-Erstansatz geprüft; kein Bild-/Tonabgleich.
 
 ## P9TJDchfOIw-A0012
 
@@ -59,7 +59,7 @@ Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
-- [00:04:00–00:04:31](https://www.youtube.com/watch?v=P9TJDchfOIw&t=240s) · nicht bestaetigt; Kandidat: SP01 · Behauptung · Ungefähr
+- [00:10:37–00:10:46](https://www.youtube.com/watch?v=P9TJDchfOIw&t=637s) · nicht bestaetigt; Kandidat: SP01 · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
 
 Grundlage der Sprecherzuordnung: Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.
@@ -68,9 +68,11 @@ Grundlage des Aussagebezugs: Eigenständige sinngemäße Darstellung des Moderat
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.
+Fundstellenhinweis: Textlich eingegrenztes Suchfenster; kein Originalton und keine Filmstelle kontrolliert. Sprecher nicht bestätigt.
 
-Zeitgrundlage: vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.
+Zeitgrundlage: Codex las am 22.11.2026 das Originalplayer-Transkript vollständig. Die Drittwahlmehrheit erscheint im Schluss-Szenario um 10:37–10:46; der alte Bereich behandelt die Wahlgangfolge.
+
+Frueherer Suchbereich: [00:04:00–00:04:31](https://www.youtube.com/watch?v=P9TJDchfOIw&t=240s), Ungefähr. vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört. Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
@@ -80,7 +82,7 @@ Grundlage der Bewertung: Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026.
+Bewertungsuebergang: Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026. Fundstellenkorrektur 22.11.2026 (Codex): von 04:00–04:31 auf 10:37–10:46; Urteil unverändert.
 
 ### Zugeordnete Quellen
 
@@ -89,6 +91,9 @@ Bewertungsuebergang: Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026
 
 - [Artikel 65 Landesverfassung: Wahl des Ministerpräsidenten](https://www.anwalt24.de/gesetze/verf_st/65) · Wolters Kluwer; Wahlgänge, sieben Tage, vierzehn Tage und Mehrheit im dritten Wahlgang.
   Quellenzugriff am 2026-11-21. Volltext der Norm im Online-Rechtsportal geöffnet und gelesen. Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt.
+
+- [Originaltranskript im YouTube-Player](https://www.youtube.com/watch?v=P9TJDchfOIw) · YouTube / Der Stimmzettel; Veröffentlichung laut Player 20.11.2026.
+  Quellenzugriff am 2026-11-22. Codex öffnete die Originalseite und las das eingeblendete deutsche Transkript vollständig von 00:01 bis 11:49. Die Wiedergabe meldete einen Medienfehler. Kein Originalton gehört, keine Filmstellen gesehen; Untertitelfehler und Sprecherwechsel bleiben möglich. Nur textliche Lokalisation; frühere Suchstelle bleibt in timeHistory.
 
 ### Offene Fragen und Unsicherheiten
 

@@ -5,13 +5,13 @@
     "videoId": "P9TJDchfOIw",
     "videoUrl": "https://www.youtube.com/watch?v=P9TJDchfOIw",
     "durationSeconds": 715,
-    "asOf": "2026-11-21",
+    "asOf": "2026-11-22",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Erstanalyse ChatGPT 21.11.2026: deutschsprachiges, mit Zeitmarken versehenes vidIQ-Transkript zum Video vollständig inhaltlich durchgegangen; Sachbelege anhand amtlicher Wahldaten, aktueller Verfassung und zeitgenössischer Berichte recherchiert. Originalplayer weder gesehen noch gehört. Fremdpositionen nur als Ankündigungen, nicht als eigene gesicherte Prognosen gewertet. Normvergleich zu angeblicher Einzigartigkeit noch offen.",
-    "coverageNote": "24 eigenständige zentrale Prüfpunkte über 00:00–11:55 einschließlich Verfassungsrecht, Sitzrechnungen, PKG-Abstimmung, Rundfunkstaatsvertrag und parteipolitischen Szenarien. Nicht alle Einspieler-/Nebensätze und keine rein visuellen Inhalte geprüft. Ein rechtsvergleichender Prüfpunkt ist offen; daher keine vollständige audiovisuelle Gesamtprüfung."
+    "researchNote": "Erstanalyse ChatGPT 21.11.2026: deutschsprachiges, mit Zeitmarken versehenes vidIQ-Transkript zum Video vollständig inhaltlich durchgegangen; Sachbelege anhand amtlicher Wahldaten, aktueller Verfassung und zeitgenössischer Berichte recherchiert. Originalplayer weder gesehen noch gehört. Fremdpositionen nur als Ankündigungen, nicht als eigene gesicherte Prognosen gewertet. Normvergleich zu angeblicher Einzigartigkeit noch offen. Nachprüfung 22.11.2026 (Codex): vollständiges Originalplayer-Transkript gelesen; Normtexte der übrigen 15 Länder verglichen, Fassungsgrenzen und Rechtsstreit dokumentiert. Monatsdatierung zu A0009 zurückgenommen. Gewichte durch separaten Codex-Reviewer gegen ChatGPT-Erstansatz geprüft; kein Bild-/Tonabgleich.",
+    "coverageNote": "Weiterhin 24 erfasste zentrale Prüfpunkte von 00:00 bis 11:55; Teilbestand. A0010 bleibt nach dokumentiertem Normvergleich offen: aktuelle Fassungsabsicherung und Rechtsreichweite fehlen. Eigener Datumszusatz an A0009 zurückgenommen; A0013 textlich neu lokalisiert. Keine erneute Sachprüfung aller 24 Urteile und keine audiovisuelle Gesamtprüfung."
   },
   "legacyPoints": [],
   "sources": [
@@ -51,9 +51,9 @@
       "id": "S005",
       "title": "Artikel 69 Landesverfassung: Zustimmung zu Staatsvertragskündigungen",
       "url": "https://www.haufe.de/id/norm/verfassung-sachsen-anhalt-art-69-vertretung-des-landes-staatsvertraege-HI8635922_p69.html",
-      "details": "Haufe; Änderung seit 12.05.2026: Abschluss und Kündigung von Staatsverträgen erfordern Landtagszustimmung.",
+      "details": "Haufe; Änderung seit 12.05.2026: Abschluss und Kündigung von Staatsverträgen erfordern Landtagszustimmung. Nachprüfung 22.11.2026: Historische Datierung gegenüber Art. 8 Abs. 3 in S037/S038 nicht abgesichert.",
       "accessedOn": "2026-11-21",
-      "accessBasis": "Volltext einschließlich Änderungsstand geöffnet und gelesen."
+      "accessBasis": "Volltext einschließlich Änderungsstand geöffnet und gelesen. Codex öffnete die Seite erneut am 22.11.2026; die Datierung 12.05.2026 widerspricht dem besonderen Inkrafttretensvorbehalt in S037/S038."
     },
     {
       "id": "S006",
@@ -158,6 +158,182 @@
       "details": "13.10.2026, 14 von 15 CDU-Abgeordneten befürworteten das Vorgehen; tatsächliche Abstimmung bleibt geheim.",
       "accessedOn": "2026-11-21",
       "accessBasis": "Öffentlichen Artikelinhalt gelesen, Ankündigung und Abstimmung unterschieden."
+    },
+    {
+      "id": "S019",
+      "title": "Originaltranskript im YouTube-Player",
+      "url": "https://www.youtube.com/watch?v=P9TJDchfOIw",
+      "details": "YouTube / Der Stimmzettel; Veröffentlichung laut Player 20.11.2026.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Codex öffnete die Originalseite und las das eingeblendete deutsche Transkript vollständig von 00:01 bis 11:49. Die Wiedergabe meldete einen Medienfehler. Kein Originalton gehört, keine Filmstellen gesehen; Untertitelfehler und Sprecherwechsel bleiben möglich."
+    },
+    {
+      "id": "S020",
+      "title": "Verfassung Baden-Württemberg: Art. 50",
+      "url": "https://www.landtag-bw.de/resource/blob/214062/86453d66b2cecf38f474a1b053ba363e/Grundgesetz_Landesverfassung_2023_bf.pdf",
+      "details": "Landtag; Ausgabe 2023.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Regierungs- und Parlamentszustimmung zum Abschluss. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S021",
+      "title": "Verfassung Bayern: Art. 72 Abs. 2",
+      "url": "https://www.gesetze-bayern.de/Content/Document/BayVerf-72",
+      "details": "Bayerische Staatskanzlei; Text laut Seite ab 01.01.2020.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Vorherige Parlamentszustimmung zum Abschluss. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S022",
+      "title": "Verfassung Berlin: Art. 50 Abs. 1",
+      "url": "https://www.berlin.de/rbmskzl/politik/senat/verfassung/artikel.41546.php",
+      "details": "Senatskanzlei; Verfassungsübersicht nennt Änderung 29.04.2026.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Unterrichtung vor Unterzeichnung und Zustimmung zum Abschluss. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S023",
+      "title": "Verfassung Brandenburg: Art. 91 Abs. 2",
+      "url": "https://bravors.brandenburg.de/de/gesetze-212792",
+      "details": "Landesregierung, BRAVORS; jüngsten Änderungsstand nicht sicher ermittelt.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Zustimmung zu Staatsverträgen, besonders bei Gesetzgebungs- oder Haushaltsbezug. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S024",
+      "title": "Verfassung Bremen: Art. 118 Abs. 1",
+      "url": "https://www.transparenz.bremen.de/sixcms/detail.php?gsid=bremen2014_tp.c.189922.de&template=00_html_to_pdf_d",
+      "details": "Transparenzportal; bereitgestellter Text berücksichtigt Änderung 19.06.2024, spätere Reform nicht abgeglichen.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Außenvertretung des Senats und Bindung an parlamentarische Richtlinien. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S025",
+      "title": "Verfassung Hamburg: Art. 43",
+      "url": "https://www.hamburg.de/resource/blob/206236/261218a1b191de079f72de271ef78322/verfassung-data.pdf",
+      "details": "Freie und Hansestadt Hamburg; Auszug, jüngsten Änderungsstand nicht sicher ermittelt.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Zustimmung zur Ratifikation bei Gesetzgebungs- oder Haushaltsbezug. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S026",
+      "title": "Verfassung Hessen: Art. 103 Abs. 2",
+      "url": "https://starweb.hessen.de/cache/hessen/verfassung.pdf",
+      "details": "Hessischer Landtag / Parlamentsdokumentation; jüngsten Änderungsstand nicht gesondert abgesichert.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Allgemeine Zustimmung zu Staatsverträgen. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S027",
+      "title": "Verfassung Mecklenburg-Vorpommern: Art. 47 Abs. 2",
+      "url": "https://www.landtag-mv.de/fileadmin/Publikationen/Publikationen_Aktuell/Verfassung_Neuauflage_April25.pdf",
+      "details": "Landtag; Neuauflage April 2025.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Gesetzesförmige Zustimmung bei Gesetzgebungsbezug. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S028",
+      "title": "Verfassung Niedersachsen: Art. 35 Abs. 2",
+      "url": "https://www.landtag-niedersachsen.de/fileadmin/user_upload/redaktion/hauptseite/downloads/publikationen/Landesverfassung_Web.pdf",
+      "details": "Landtag; Text berücksichtigt Änderung 16.11.2023.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Parlamentszustimmung für Verträge mit Gesetzgebungsbezug. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S029",
+      "title": "Verfassung Nordrhein-Westfalen: Art. 66 Satz 2",
+      "url": "https://recht.nrw.de/lrgv/gesetz/16012026-verfassung-fuer-das-land-nordrhein-westfalen/",
+      "details": "Ministerium des Innern; Fassung gültig ab 16.01.2026.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Allgemeine Zustimmung zu Staatsverträgen. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S030",
+      "title": "Verfassung Rheinland-Pfalz: Art. 101",
+      "url": "https://www.lpb.rlp.de/fileadmin/download_neu/Grundgesetz/GG_64_Auflage_Inhalt_2022.pdf",
+      "details": "Landeszentrale für politische Bildung; Ausgabe 2022.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Gesetzesförmige Zustimmung zu Staatsverträgen. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S031",
+      "title": "Verfassung Saarland: Art. 95 Abs. 2",
+      "url": "https://www.verfassungsgerichtshof-saarland.de/verfassungsgerichtshof/gesetzliche-grundlagen-fuer-den-verfassungsgerichtshof/verfassung-des-saarlandes-sverf/",
+      "details": "Verfassungsgerichtshof; jüngsten Änderungsstand nicht gesondert ermittelt.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Gesetzesförmige Zustimmung zum Abschluss, Unterrichtung über andere wichtige Vereinbarungen. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S032",
+      "title": "Verfassung Sachsen: Art. 65 Abs. 2",
+      "url": "https://www.revosax.sachsen.de/vorschrift/3975-Verfassung",
+      "details": "REVOSax; aufgerufene Onlinefassung.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Regierungs- und Parlamentszustimmung zum Abschluss. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S033",
+      "title": "Verfassung Schleswig-Holstein: Art. 37 Abs. 2",
+      "url": "https://www.landtag.ltsh.de/export/sites/ltsh/service/downloadgallery/kurzinfos/06_Landesverfassung.pdf",
+      "details": "Landtag; Broschüre, jüngsten Änderungsstand nicht gesondert abgesichert.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Regierungszustimmung zu Länder-/Bundesverträgen, zusätzlich Parlamentszustimmung bei Gesetzgebungsbezug. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S034",
+      "title": "Verfassung Thüringen: Art. 77 Abs. 2",
+      "url": "https://www.thueringer-landtag.de/fileadmin/Redaktion/1-Hauptmenue/6-Service_und_Kontakt/8-Publikationen/Dokumente/Rechtsgrundlagen.pdf",
+      "details": "Landtag; Rechtsgrundlagenbroschüre, jüngsten Änderungsstand nicht gesondert abgesichert.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtlich bereitgestellten Text geöffnet und einschlägigen Artikel gelesen: Allgemeine Zustimmung zu Staatsverträgen. Im Artikel keine ausdrückliche allgemeine Kündigungsklausel gefunden. Kein vollständiger Abgleich späterer Änderungen, Sondergesetze oder Rechtsprechung."
+    },
+    {
+      "id": "S035",
+      "title": "BVerwG: Kündigung des NDR-Staatsvertrags, 7 A 2.79",
+      "url": "https://www.anwalt24.de/urteile/bverwg/1980-05-28/bverwg-7-a-279",
+      "details": "Bundesverwaltungsgericht, 28.05.1980; Wiedergabe bei anwalt24, insbesondere Rn. 29–40.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Urteilstext geöffnet; Abgrenzung von Vertragsabschluss und Kündigung sowie Begründung gelesen. Historischer Fall Schleswig-Holstein, keine heutige Entscheidung über sämtliche Länder."
+    },
+    {
+      "id": "S036",
+      "title": "Rote und grüne Linien der Medienpolitik",
+      "url": "https://verfassungsblog.de/verfassungsrecht-medien-staatsvertrag-kundigen-recht/",
+      "details": "Hubertus Gersdorf, Verfassungsblog, 15.09.2026.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Abschnitt zum Parlamentsvorbehalt gelesen. Autor unterscheidet die ausdrückliche Klausel Sachsen-Anhalts von einem weitergehenden Vorbehalt aus Rundfunkfreiheit. Eigene wissenschaftliche These, keine neue Gerichtsentscheidung."
+    },
+    {
+      "id": "S037",
+      "title": "Beschlussempfehlung zur Parlamentsreform 2026",
+      "url": "https://padoka.landtag.sachsen-anhalt.de/files/drs/wp8/drs/d6871vbe.pdf",
+      "details": "Landtag Sachsen-Anhalt, Ältestenrat, Drucksache 8/6871; Art. 1 Nr. 5 und Art. 8 Abs. 3.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Amtliches Dokument geöffnet; neue Kündigungsregel und besonderen Inkrafttretensvorbehalt gelesen. Beschlussempfehlung ist kein Ersatz für die Endverkündung."
+    },
+    {
+      "id": "S038",
+      "title": "Gesetz zur Parlamentsreform 2026: Gesetzeswiedergabe",
+      "url": "https://www.umwelt-online.de/regelwerk/allgemei/laender/lsa/z26_0178.htm",
+      "details": "Gesetz vom 04.05.2026, GVBl. LSA S. 178; Wiedergabe bei umwelt-online.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Art. 1 Nr. 5 und Art. 8 Abs. 3 im geöffneten Text gelesen: besondere Anwendung zum Zusammentritt der neunten Wahlperiode. Widerspricht der pauschalen Datierung bei S005; amtliche Endverkündung noch abzugleichen."
+    },
+    {
+      "id": "S039",
+      "title": "Konstituierung des Landtags der neunten Wahlperiode",
+      "url": "https://www.landtag.sachsen-anhalt.de/artikel/landtag-hat-sich-konstituiert",
+      "details": "Landtag Sachsen-Anhalt, Meldung 06.10.2026.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Meldung geöffnet und gelesen: konstituierende Sitzung am 06.10.2026. Belegt den Sitzungstermin, ersetzt nicht das Inkrafttretensrecht."
+    },
+    {
+      "id": "S040",
+      "title": "Staatsverträge zwischen den Bundesländern",
+      "url": "https://www.bundestag.de/resource/blob/190052/Staatsvertraege_zwischen_den_Bundeslaendern.pdf",
+      "details": "Wissenschaftliche Dienste des Bundestags, Steffi Menzenbach/Torsten Lämmerzahl, Aktueller Begriff 48/07, 19.09.2007.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Zweiseitigen Text geöffnet und gelesen, insbesondere Beendigung und Normenliste. Historischer systematischer Ausgangspunkt, kein aktueller Einzigartigkeitsbeweis."
     }
   ],
   "speakers": [
@@ -219,10 +395,18 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Mandatszahlen tragen die Rechnung zum nötigen Stimmenzuwachs. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -279,10 +463,18 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "PKG-Ergebnis bildet Einstieg und Ausgangspunkt der möglichen BSW-Verbindung. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -335,10 +527,18 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Ankündigung ist Voraussetzung der Kalenderrechnung. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -456,10 +656,18 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachpunkt mit normaler Bedeutung, ohne besonderen Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Eigenständige Verfahrensvoraussetzung für ein Sitzungsverlangen. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -516,10 +724,18 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Einordnung und Hintergrundinformation, die den Hauptschluss nicht trägt.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Amtsinhaber erklärt Zuständigkeit, trägt aber nicht die Rechnung. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -576,10 +792,18 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Frist und Jahresendtermin begründen die Dringlichkeit. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -636,10 +860,18 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Angewandte Fristfolge erklärt den politischen Nutzen. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -648,15 +880,15 @@
       "chapter": 1,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Die Kündigung eines Staatsvertrags benötigt in Sachsen-Anhalt seit Mai 2026 die Zustimmung des Landtags.",
+      "description": "Nach der Verfassungsänderung von 2026 benötigt die Kündigung eines Staatsvertrags in Sachsen-Anhalt die Zustimmung des Landtags.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "Art. 69 Abs. 2 der Landesverfassung wurde zum 12.05.2026 geändert. Anders als früher ist ausdrücklich auch die Kündigung zustimmungspflichtig.",
-      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "reason": "Art. 69 Abs. 2 enthält inzwischen ausdrücklich einen Zustimmungsvorbehalt auch für Kündigungen. Die eigene Erstprüfung ergänzte dafür den Monat Mai; diese Datierung wird zurückgenommen. S005 nennt den 12.05.2026, S037 und S038 verweisen für Art. 1 Nr. 5 dagegen auf den Zusammentritt der neunten Wahlperiode. Dieser fand laut S039 am 06.10.2026 statt. Für den im November beschriebenen Zustimmungsvorbehalt besteht zwischen diesen Quellen kein Unterschied; der genaue historische Beginn wird erst nach Kontrolle der amtlichen Endverkündung abschließend festgelegt.",
+      "assessmentBasis": "Nachprüfung 22.11.2026 (Codex): Normtext, Gesetzgebungsunterlage, Gesetzeswiedergabe und Sitzungstermin gelesen. Die Monatsangabe war ein eigener Zusatz der Erstprüfung. HP-C0002 dokumentiert dessen Rücknahme.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026. Nachprüfung 22.11.2026 (Codex), HP-C0002: eigene Ergänzung seit Mai 2026 zurückgenommen; Zustimmungsvorbehalt zum Videozeitpunkt und Urteil Belegt erhalten. Vorheriger Prüfgegenstand: Die Kündigung eines Staatsvertrags benötigt in Sachsen-Anhalt seit Mai 2026 die Zustimmung des Landtags."
       },
       "sourceRefs": [
         {
@@ -666,9 +898,27 @@
         {
           "sourceId": "S005",
           "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S019",
+          "note": "Originaltranskript 02:59–03:15 nennt eine Verfassungsänderung, keinen Monat."
+        },
+        {
+          "sourceId": "S037",
+          "note": "Besonderen Inkrafttretensvorbehalt beachten; keine Endverkündung."
+        },
+        {
+          "sourceId": "S038",
+          "note": "Gesetzeswiedergabe mit besonderem Inkrafttreten; Widerspruch zu S005."
+        },
+        {
+          "sourceId": "S039",
+          "note": "Sitzungstermin 06.10.2026, kein eigener Beweis des rechtlichen Beginns."
         }
       ],
-      "openQuestions": [],
+      "openQuestions": [
+        "Amtliche Endverkündung des Gesetzes vom 04.05.2026 (GVBl. LSA S. 178), Art. 8 Abs. 3 und Art. 1 Nr. 5, gegenüber S005 abgleichen."
+      ],
       "occurrences": [
         {
           "id": "P9TJDchfOIw-O0009",
@@ -692,10 +942,18 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Zustimmungsvorbehalt ist weitere parlamentarische Hürde. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -707,25 +965,106 @@
       "description": "Sachsen-Anhalt sei das einzige Bundesland, in dem der Landtag einer Kündigung von Staatsverträgen zustimmen müsse.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – die Sonderstellung gegenüber allen anderen Ländern erfordert eine systematische Rechtsvergleichung der 16 Landesverfassungen. Art. 69 belegt allein die Rechtslage in Sachsen-Anhalt, nicht die bundesweite Einzigartigkeit.",
-      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "reason": "Noch nicht geprüft – abschließend fehlen die Absicherung der zum Videodatum geltenden Fassungen und die Unterscheidung zwischen ausdrücklicher Verfassungsklausel und weitergehenden Zustimmungspflichten. In den gelesenen einschlägigen Artikeln der 15 anderen Länder wurde keine ausdrückliche allgemeine Kündigungsklausel gefunden; mehrere Texte sind ältere amtliche Broschüren. Das belegt noch keine aktuelle bundesweite Einzigartigkeit. Das BVerwG lehnte 1980 für Schleswig-Holstein eine Ausdehnung der Vertragszustimmung auf die Kündigung ab. Gersdorf vertritt 2026 für Medienstaatsverträge einen weiteren Vorbehalt aus der Rundfunkfreiheit. Diese wissenschaftliche Gegenposition ist keine gerichtliche Feststellung. Ohne Klärung dieser Reichweite wird die Aussage weder bestätigt noch widerlegt.",
+      "assessmentBasis": "Eigene Normrecherche und vollständige Durchsicht des Originalplayer-Transkripts am 22.11.2026; eigener Prüfbericht 04_nachpruefung.md. Kein Bild-/Tonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026. Nachrecherche 22.11.2026 (Codex): Offen und Urteil null erhalten; tatsächlichen Normvergleich, Gegenposition und konkrete Restfragen ergänzt."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+          "note": "Übernommene Herkunftsangabe, im neuen Durchgang durch S019 textlich gegengeprüft."
         },
         {
           "sourceId": "S005",
-          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+          "note": "Ausdrückliche Klausel; Datierung zum Inkrafttreten widersprüchlich, siehe S037/S038."
+        },
+        {
+          "sourceId": "S019",
+          "note": "Nur textlicher Aussagebezug um 02:59–03:15."
+        },
+        {
+          "sourceId": "S020",
+          "note": "Art. 50: Regierungs- und Parlamentszustimmung zum Abschluss. Fassungsgrenze: Landtag; Ausgabe 2023."
+        },
+        {
+          "sourceId": "S021",
+          "note": "Art. 72 Abs. 2: Vorherige Parlamentszustimmung zum Abschluss. Fassungsgrenze: Bayerische Staatskanzlei; Text laut Seite ab 01.01.2020."
+        },
+        {
+          "sourceId": "S022",
+          "note": "Art. 50 Abs. 1: Unterrichtung vor Unterzeichnung und Zustimmung zum Abschluss. Fassungsgrenze: Senatskanzlei; Verfassungsübersicht nennt Änderung 29.04.2026."
+        },
+        {
+          "sourceId": "S023",
+          "note": "Art. 91 Abs. 2: Zustimmung zu Staatsverträgen, besonders bei Gesetzgebungs- oder Haushaltsbezug. Fassungsgrenze: Landesregierung, BRAVORS; jüngsten Änderungsstand nicht sicher ermittelt."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Art. 118 Abs. 1: Außenvertretung des Senats und Bindung an parlamentarische Richtlinien. Fassungsgrenze: Transparenzportal; bereitgestellter Text berücksichtigt Änderung 19.06.2024, spätere Reform nicht abgeglichen."
+        },
+        {
+          "sourceId": "S025",
+          "note": "Art. 43: Zustimmung zur Ratifikation bei Gesetzgebungs- oder Haushaltsbezug. Fassungsgrenze: Freie und Hansestadt Hamburg; Auszug, jüngsten Änderungsstand nicht sicher ermittelt."
+        },
+        {
+          "sourceId": "S026",
+          "note": "Art. 103 Abs. 2: Allgemeine Zustimmung zu Staatsverträgen. Fassungsgrenze: Hessischer Landtag / Parlamentsdokumentation; jüngsten Änderungsstand nicht gesondert abgesichert."
+        },
+        {
+          "sourceId": "S027",
+          "note": "Art. 47 Abs. 2: Gesetzesförmige Zustimmung bei Gesetzgebungsbezug. Fassungsgrenze: Landtag; Neuauflage April 2025."
+        },
+        {
+          "sourceId": "S028",
+          "note": "Art. 35 Abs. 2: Parlamentszustimmung für Verträge mit Gesetzgebungsbezug. Fassungsgrenze: Landtag; Text berücksichtigt Änderung 16.11.2023."
+        },
+        {
+          "sourceId": "S029",
+          "note": "Art. 66 Satz 2: Allgemeine Zustimmung zu Staatsverträgen. Fassungsgrenze: Ministerium des Innern; Fassung gültig ab 16.01.2026."
+        },
+        {
+          "sourceId": "S030",
+          "note": "Art. 101: Gesetzesförmige Zustimmung zu Staatsverträgen. Fassungsgrenze: Landeszentrale für politische Bildung; Ausgabe 2022."
+        },
+        {
+          "sourceId": "S031",
+          "note": "Art. 95 Abs. 2: Gesetzesförmige Zustimmung zum Abschluss, Unterrichtung über andere wichtige Vereinbarungen. Fassungsgrenze: Verfassungsgerichtshof; jüngsten Änderungsstand nicht gesondert ermittelt."
+        },
+        {
+          "sourceId": "S032",
+          "note": "Art. 65 Abs. 2: Regierungs- und Parlamentszustimmung zum Abschluss. Fassungsgrenze: REVOSax; aufgerufene Onlinefassung."
+        },
+        {
+          "sourceId": "S033",
+          "note": "Art. 37 Abs. 2: Regierungszustimmung zu Länder-/Bundesverträgen, zusätzlich Parlamentszustimmung bei Gesetzgebungsbezug. Fassungsgrenze: Landtag; Broschüre, jüngsten Änderungsstand nicht gesondert abgesichert."
+        },
+        {
+          "sourceId": "S034",
+          "note": "Art. 77 Abs. 2: Allgemeine Zustimmung zu Staatsverträgen. Fassungsgrenze: Landtag; Rechtsgrundlagenbroschüre, jüngsten Änderungsstand nicht gesondert abgesichert."
+        },
+        {
+          "sourceId": "S035",
+          "note": "Historischer gerichtlicher Maßstab; keine pauschale Übertragung auf heutiges Gesamtlandesrecht."
+        },
+        {
+          "sourceId": "S036",
+          "note": "Weitergehende medienrechtliche Gegenposition."
+        },
+        {
+          "sourceId": "S037",
+          "note": "Gesetzgebungsverfahren und zeitliche Abgrenzung."
+        },
+        {
+          "sourceId": "S040",
+          "note": "Historischer Vergleichsrahmen; Stand 2007, kein Aktualitätsbeweis."
         }
       ],
       "openQuestions": [
-        "Landesverfassungen aller übrigen 15 Länder in aktueller Fassung auf vergleichbare Zustimmungsvorbehalte für Kündigungen prüfen."
+        "Aktuelle konsolidierte Verfassungsfassungen einschließlich aller Änderungen bis 20.11.2026 statt bloßer älterer Broschüren absichern; besonders Bremer Reform 2026 abgleichen.",
+        "Ausdrückliche allgemeine Klauseln von besonderen medienrechtlichen Zustimmungspflichten und Informationsrechten unterscheiden; aktuelle Rechtsprechung zur Gegenposition Gersdorfs prüfen."
       ],
       "occurrences": [
         {
@@ -750,10 +1089,64 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachpunkt mit normaler Bedeutung, ohne besonderen Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Einzigartigkeit ist Kontext; die konkrete Landesrechnung hängt nicht davon ab. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Wissenssuche im Hauptprojekt und eingebundenen UG mit Parlamentsvorbehalt und Staatsvertragskündigung ohne übertragbare Vorprüfung; übernommene S001/S005 am Originaltranskript und amtlichen Texten gegenlesen.",
+            "sourceIds": [
+              "S001",
+              "S005",
+              "S019",
+              "S020",
+              "S021",
+              "S022",
+              "S023",
+              "S024",
+              "S025",
+              "S026",
+              "S027",
+              "S028",
+              "S029",
+              "S030",
+              "S031",
+              "S032",
+              "S033",
+              "S034",
+              "S037",
+              "S040"
+            ],
+            "result": "Alle 15 Vergleichsländer mit einschlägigem Artikel erfasst; im Material keine ausdrückliche allgemeine Kündigungsklausel. Mehrere neueste Fassungsstände noch nicht abgesichert."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gegenbelege und Auslegung recherchiert; historisches Originalurteil und aktuelle wissenschaftliche Argumentation getrennt gelesen.",
+            "sourceIds": [
+              "S035",
+              "S036"
+            ],
+            "result": "Gerichtlichen Maßstab und weitergehende rundfunkrechtliche These unterscheiden; keine pauschale Aussage über fehlende Rechte aller anderen Parlamente."
+          }
+        ],
+        "missingInformation": "Lückenlos aktueller Normstand und Reichweite weiterer medienrechtlicher Vorbehalte.",
+        "conflicts": "S035 behandelt einen historischen organisationsrechtlichen Zustimmungstatbestand; S036 begründet einen weiteren Vorbehalt aus Rundfunkfreiheit. Unterschiedliche Rechtsgrundlagen und Zeitstände."
       }
     },
     {
@@ -810,10 +1203,19 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachpunkt mit normaler Bedeutung, ohne besonderen Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Abweichend",
+            "reason": "Kündigungspatt trägt die Frage nach der Wirkung der frühen Wahl, ebenso wichtig wie A0009. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich.",
+            "proposedWeight": 1.5
+          }
+        ]
       }
     },
     {
@@ -866,10 +1268,18 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Zentrale Verfassungsregel, auf der die Szenarien des Videos beruhen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Wahlgangfolge bildet zentrale Erklärung des Kalendergewinns. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -886,7 +1296,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026. Fundstellenkorrektur 22.11.2026 (Codex): von 04:00–04:31 auf 10:37–10:46; Urteil unverändert."
       },
       "sourceRefs": [
         {
@@ -896,14 +1306,18 @@
         {
           "sourceId": "S004",
           "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S019",
+          "note": "Nur textliche Lokalisation; frühere Suchstelle bleibt in timeHistory."
         }
       ],
       "openQuestions": [],
       "occurrences": [
         {
           "id": "P9TJDchfOIw-O0013",
-          "startSeconds": 240,
-          "endSeconds": 271,
+          "startSeconds": 637,
+          "endSeconds": 646,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
@@ -913,19 +1327,34 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
-          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
-          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
-          "timeHistory": []
+          "note": "Textlich eingegrenztes Suchfenster; kein Originalton und keine Filmstelle kontrolliert. Sprecher nicht bestätigt.",
+          "timeBasis": "Codex las am 22.11.2026 das Originalplayer-Transkript vollständig. Die Drittwahlmehrheit erscheint im Schluss-Szenario um 10:37–10:46; der alte Bereich behandelt die Wahlgangfolge.",
+          "timeHistory": [
+            {
+              "startSeconds": 240,
+              "endSeconds": 271,
+              "precision": "Ungefähr",
+              "basis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört. Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert."
+            }
+          ]
         }
       ],
       "relations": [],
       "factIndex": {
         "weight": 2,
         "weightReason": "Zentrale Verfassungsregel, auf der die Szenarien des Videos beruhen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Mehrheitsschwelle entscheidet über Schluss-Szenario und Enthaltungen. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -982,10 +1411,19 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachpunkt mit normaler Bedeutung, ohne besonderen Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Abweichend",
+            "reason": "Kalendergewinn beantwortet unmittelbar die Hauptfrage nach der einen Woche. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich.",
+            "proposedWeight": 2
+          }
+        ]
       }
     },
     {
@@ -1042,10 +1480,18 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "CDU-Abwesenheit strukturiert den möglichen Stimmenzuwachs. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -1102,10 +1548,18 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Einordnung und Hintergrundinformation, die den Hauptschluss nicht trägt.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Restzahl ist abgeleiteter Rechenschritt. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -1158,10 +1612,18 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "BSW-Ankündigung ist tragende Voraussetzung der Wahlkonstellationen. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -1218,10 +1680,18 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Abstimmungsfolge stützt den untersuchten Zusammenhang zwischen PKG- und Ministerpräsidentenwahl. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -1282,10 +1752,18 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Geheimwahlgrenze ist für die zentrale BSW-Interpretation wesentlich. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -1338,10 +1816,18 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachpunkt mit normaler Bedeutung, ohne besonderen Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Parteidebatte erklärt mögliche Änderung der angekündigten Haltung. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -1394,10 +1880,18 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachpunkt mit normaler Bedeutung, ohne besonderen Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Gegenkandidatensuche ist Kontext der Alternativkonstellation. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -1450,10 +1944,18 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Einordnung und Hintergrundinformation, die den Hauptschluss nicht trägt.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "CDU-Vorsitzwettbewerb bleibt Hintergrund. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
@@ -1506,10 +2008,18 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-21",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "Mandatssumme trägt alternatives Mehrheitsmodell. Separater Reviewer gegenüber ChatGPT-Erstansatz; vollständig gelesenes Originaltranskript, kein Bild-/Tonabgleich."
+          }
+        ]
       }
     },
     {
