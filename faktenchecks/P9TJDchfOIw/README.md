@@ -28,3 +28,7 @@ Das Kapitel über den MDR ist im wesentlichen rechtlich korrekt: Kündigung zu J
 [Überblick](01_kurz.md) · [Prüfmethodik und Abdeckung](02_analyse.md) · [Thematischer Faktenbericht](03_faktencheck.md) · [Strukturierte Einzelbewertungen](strukturiert/aussagen.json) · [Themen](themen.json)
 
 Diese Veröffentlichung umfasst eigene Paraphrasen, Begründungen, bibliografische Angaben und Quellenlinks, keine fremden Untertitel oder Medienkopien. Stand nach Veröffentlichung weiterhin korrigierbar.
+
+## Weiterer Prüfbedarf
+
+Eine zweite KI sollte die vorläufigen Bedeutungsfaktoren sowie die tatsächlichen Bild- und Tonstellen unabhängig kontrollieren. Die im Text dokumentierte Rechtsvergleichsfrage bleibt offen und ist ausdrücklich kein nachgewiesener Fehler des Videos.
