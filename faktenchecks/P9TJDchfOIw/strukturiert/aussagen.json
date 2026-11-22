@@ -1,0 +1,1572 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "P9TJDchfOIw",
+    "videoUrl": "https://www.youtube.com/watch?v=P9TJDchfOIw",
+    "durationSeconds": 715,
+    "asOf": "2026-11-21",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "Erstanalyse ChatGPT 21.11.2026: deutschsprachiges, mit Zeitmarken versehenes vidIQ-Transkript zum Video vollständig inhaltlich durchgegangen; Sachbelege anhand amtlicher Wahldaten, aktueller Verfassung und zeitgenössischer Berichte recherchiert. Originalplayer weder gesehen noch gehört. Fremdpositionen nur als Ankündigungen, nicht als eigene gesicherte Prognosen gewertet. Normvergleich zu angeblicher Einzigartigkeit noch offen.",
+    "coverageNote": "24 eigenständige zentrale Prüfpunkte über 00:00–11:55 einschließlich Verfassungsrecht, Sitzrechnungen, PKG-Abstimmung, Rundfunkstaatsvertrag und parteipolitischen Szenarien. Nicht alle Einspieler-/Nebensätze und keine rein visuellen Inhalte geprüft. Ein rechtsvergleichender Prüfpunkt ist offen; daher keine vollständige audiovisuelle Gesamtprüfung."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Originalvideo: Siegmund zieht die Wahl vor: Woher sollen die 3 Stimmen kommen?",
+      "url": "https://www.youtube.com/watch?v=P9TJDchfOIw",
+      "details": "Der Stimmzettel; veröffentlicht am 20.11.2026; Dauer 11:55.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Videometadaten und zugeordnetes deutsches Untertitel-Transkript durch vidIQ abgerufen und ausgewertet. Originalton und Originalbilder nicht abgespielt; Zeitmarken ungefähr."
+    },
+    {
+      "id": "S002",
+      "title": "Amtliche Sitzverteilung Landtagswahl Sachsen-Anhalt 2026",
+      "url": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt26/sitze.html?v=1788902920120",
+      "details": "Landeswahlleitung; endgültiges Ergebnis vom 22.09.2026; 83 Sitze: AfD 39, CDU 15, SPD 8, Grüne 8, Linke 8, BSW 5.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Amtliche Sitzübersicht als veröffentlichter Webtext mit Zahlen gelesen."
+    },
+    {
+      "id": "S003",
+      "title": "Artikel 45 Landesverfassung: Einberufung",
+      "url": "https://www.anwalt24.de/gesetze/verf_st/45",
+      "details": "Wolters Kluwer; ein Viertel der Landtagsmitglieder kann eine Sitzung verlangen.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Volltext der Norm im Online-Rechtsportal geöffnet und gelesen."
+    },
+    {
+      "id": "S004",
+      "title": "Artikel 65 Landesverfassung: Wahl des Ministerpräsidenten",
+      "url": "https://www.anwalt24.de/gesetze/verf_st/65",
+      "details": "Wolters Kluwer; Wahlgänge, sieben Tage, vierzehn Tage und Mehrheit im dritten Wahlgang.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Volltext der Norm im Online-Rechtsportal geöffnet und gelesen."
+    },
+    {
+      "id": "S005",
+      "title": "Artikel 69 Landesverfassung: Zustimmung zu Staatsvertragskündigungen",
+      "url": "https://www.haufe.de/id/norm/verfassung-sachsen-anhalt-art-69-vertretung-des-landes-staatsvertraege-HI8635922_p69.html",
+      "details": "Haufe; Änderung seit 12.05.2026: Abschluss und Kündigung von Staatsverträgen erfordern Landtagszustimmung.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Volltext einschließlich Änderungsstand geöffnet und gelesen."
+    },
+    {
+      "id": "S006",
+      "title": "MDR erläutert Kündigung des Rundfunkstaatsvertrages",
+      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/wahl-ministerpraesident-zeitpunkt-video-social-media-einschaetzung-mp-wahl%2Cafd-siegmund-114.html",
+      "details": "MDR Sachsen-Anhalt, 19.11.2026: Kündigung des MDR-Staatsvertrags zum 31.12. eines Jahres mit zweijähriger Frist, Austritt frühestens Ende 2028 bei Kündigung 2026.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "MDR-Bericht als veröffentlichter Webtext gelesen. Redaktionelle Darstellung; daneben S016 als eigenständige MDR-Erläuterung. Kein Normvolltext unter diesem Link."
+    },
+    {
+      "id": "S007",
+      "title": "MDR: Siegmund kündigt vorgezogene Ministerpräsidentenwahl an",
+      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/wahl-ministerpraesident-zeitpunkt-video-social-media-einschaetzung-mp-wahl%2Cafd-siegmund-114.html",
+      "details": "MDR Sachsen-Anhalt, 20.11.2026; 8. Dezember angekündigt, Sondersitzung damals noch nicht offiziell beantragt.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Extrahierter aktueller Webartikeltext recherchiert und gelesen; vollständiger Direktabruf gelang nicht."
+    },
+    {
+      "id": "S008",
+      "title": "Landtag: AfD, CDU und BSW im Parlamentarischen Kontrollgremium",
+      "url": "https://www.landtag.sachsen-anhalt.de/artikel/afd-cdu-und-bsw-im-kontrollgremium",
+      "details": "Offizielle Meldung des Landtags vom 19.11.2026; Namen und Funktion des vierköpfigen Gremiums.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Offiziellen veröffentlichten Meldungstext eingesehen."
+    },
+    {
+      "id": "S009",
+      "title": "MDR: Zwei AfD-Politiker in Kontrollgremium gewählt",
+      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landespolitik/verfassungsschutz-parlamentarische-kontrolle%2Cafd-kontrollgremium-100.html",
+      "details": "MDR, 21.11.2026; AfD-Vorschlag 44 Ja-Stimmen, Mehrheit 42.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Extrahierten Webartikeltext mit konkreter Stimmenzahl gelesen."
+    },
+    {
+      "id": "S010",
+      "title": "dpa: Siegmund will früher gewählt werden – doch wer hilft ihm?",
+      "url": "https://www.onvista.de/news/2026/11-19-roundup-2-siegmund-will-frueher-gewaehlt-werden-doch-wer-hilft-ihm-0-10-26578523",
+      "details": "dpa-Bericht vom 19.11.2026; AfD 44 Stimmen, BSW-Vorschlag zunächst 0, später 43.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "dpa-Bericht vom 19.11.2026 in der verfügbaren Onvista-Veröffentlichung als Web-Suchergebnis vollständig für die einschlägige Passage gelesen; enthält Abstimmung null/43 und die Geheimwahl."
+    },
+    {
+      "id": "S011",
+      "title": "dpa: Ankündigung einer BSW-Enthaltung",
+      "url": "https://www.onvista.de/news/2026/11-19-roundup-2-siegmund-will-frueher-gewaehlt-werden-doch-wer-hilft-ihm-0-10-26578523",
+      "details": "dpa-Bericht vom 19.11.2026 mit BSW-Ankündigung, bei der Ministerpräsidentenwahl Enthaltung zu üben.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Berichtstext im Web-Suchergebnis gelesen, als Bericht über eine Ankündigung und nicht als Vorwegnahme einer geheimen Abstimmung verwendet."
+    },
+    {
+      "id": "S012",
+      "title": "ZDF: CDU-Abgeordneter Guido Heuer will im Saal bleiben",
+      "url": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-siegmund-ministerpraesidentenwahl-heuer-cdu-afd-100.html",
+      "details": "ZDF, 22.10.2026; Guido Heuer widerspricht Plan, Plenarsaal zu verlassen.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "ZDF-Bericht über öffentliche Ankündigung gelesen."
+    },
+    {
+      "id": "S013",
+      "title": "t-online/dpa: Richtungsstreit beim BSW vor Dresdner Parteitag",
+      "url": "https://www.t-online.de/nachrichten/deutschland/parteien/id_101530604/vor-bsw-parteitag-gruendungsmitglieder-fordern-klare-abgrenzung-zur-afd.html",
+      "details": "16.11.2026; Parteitag Ende November und Streit über Zusammenarbeit mit AfD.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Extrahierten Artikelinhalt der dpa-Meldung eingesehen."
+    },
+    {
+      "id": "S014",
+      "title": "MDR: Suche nach überparteilichem Ministerpräsidenten",
+      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/ueberparteilich-kandidat-spd%2Cministerpraesident-suche-100.html",
+      "details": "14.11.2026; SPD-Suche, eigene Kandidatur Eva von Angerns und fehlender gemeinsamer Kandidat.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Extrahierte redaktionelle Meldung mit Sachdetails gelesen."
+    },
+    {
+      "id": "S015",
+      "title": "Tagesschau/MDR: Konkurrenz um CDU-Landesvorsitz",
+      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/pusch-kandidatur-mueller-schulze%2Ccdu-landesvorsitz-100.html",
+      "details": "09.11.2026; Sonderparteitag 05.12., Bewerber Sepp Müller und Artjom Pusch.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Extrahierten redaktionellen Artikelinhalt gelesen."
+    },
+    {
+      "id": "S016",
+      "title": "MDR erklärt Kündigungsregeln und Folgen",
+      "url": "https://www.mdr.de/unternehmen/kuendigung-rundfunkstaatsvertrag-abschaltung-sachsen-anhalt-100.html",
+      "details": "MDR, August 2026; Kündigung zu Jahresende, Zweijahresfrist, rechtliche Folgen für Sachsen-Anhalt.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "MDR-Unternehmensseite als aktueller veröffentlichter Webtext gelesen. Sie bestätigt zweijährige Kündigungsfrist, Kündigung zu Jahresende und Auswirkungen."
+    },
+    {
+      "id": "S017",
+      "title": "Art. 45 Abs. 2 Landesverfassung: Einberufung auf Verlangen eines Viertels",
+      "url": "https://www.anwalt24.de/gesetze/verf_st/45",
+      "details": "Landesverfassung Sachsen-Anhalt, Art. 45 Abs. 2; Sitzung auf Verlangen von 1/4 der Abgeordneten.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Verfassungsnorm selbst im Online-Rechtsportal geöffnet und gelesen; zusätzliche Referenz auf die bereits unter S003 verzeichnete Primärnorm."
+    },
+    {
+      "id": "S018",
+      "title": "ZDF: CDU-Fraktion will bei Ministerpräsidentenwahl den Saal verlassen",
+      "url": "https://www.zdfheute.de/politik/deutschland/cdu-sachsen-anhalt-wahl-ministerpraesident-afd-siegmund-100.html",
+      "details": "13.10.2026, 14 von 15 CDU-Abgeordneten befürworteten das Vorgehen; tatsächliche Abstimmung bleibt geheim.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Öffentlichen Artikelinhalt gelesen, Ankündigung und Abstimmung unterschieden."
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": null,
+      "videoRole": "Erzählstimme / Moderator des Kanals Der Stimmzettel",
+      "identityBasis": "Vollständiger Untertiteltext als zusammenhängender Bericht; Identität und tatsächliche Stimme nicht selbst akustisch kontrolliert."
+    }
+  ],
+  "claims": [
+    {
+      "id": "P9TJDchfOIw-A0001",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Landtag von Sachsen-Anhalt sitzen nach der Wahl 83 Abgeordnete, 39 davon gehören der AfD an.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das endgültige amtliche Ergebnis weist 83 Sitze aus, davon 39 für die AfD. Die übrigen Mandate verteilen sich auf CDU, SPD, Grüne, Linke und BSW.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0001",
+          "startSeconds": 2,
+          "endSeconds": 28,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0002",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein AfD-Vorschlag zur Besetzung des Parlamentarischen Kontrollgremiums erhielt 44 Stimmen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Vorschlag mit Tobias Rausch und Matthias Büttner wurde mit 44 Ja-Stimmen gewählt; die nötige Mehrheit von 42 war damit erreicht.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S009",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0002",
+          "startSeconds": 3,
+          "endSeconds": 29,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0003",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ulrich Siegmund kündigte an, am 8. statt am bisher vorgesehenen 15. Dezember zur Ministerpräsidentenwahl antreten zu wollen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Am 19.11. kündigte Siegmund öffentlich den 8. Dezember an. Bis dahin war der 15. Dezember als Wahltermin vorgesehen; belegt ist zunächst die Ankündigung, nicht der formelle Vollzug.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S007",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0003",
+          "startSeconds": 25,
+          "endSeconds": 57,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0004",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Ministerpräsidentenwahl sei bereits verbindlich auf eine Sondersitzung am 8. Dezember vorgezogen worden.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Siegmund hatte den 8. Dezember angekündigt; laut zeitgenössischem MDR-Bericht lag am Donnerstagnachmittag, 19.11.2026, noch kein formeller Antrag für diese Sitzung vor. Der spätere Antragsstand am Veröffentlichungstag des Videos wurde nicht unabhängig festgestellt.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S007",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0004",
+          "startSeconds": 29,
+          "endSeconds": 59,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Der 8. Dezember war angekündigt; laut MDR lag am 19. November noch kein förmlicher Antrag für die Sondersitzung vor.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0005",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Mit 39 von 83 Sitzen kann die AfD die Einberufung einer außerplanmäßigen Landtagssitzung verlangen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Nach Art. 45 Abs. 2 genügt ein Viertel der Landtagsmitglieder. Bei 83 Sitzen sind mindestens 21 nötig. Die AfD verfügt über 39; der Landtag dokumentierte bereits einen vergleichbaren Einberufungsfall.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0005",
+          "startSeconds": 57,
+          "endSeconds": 81,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger Sachpunkt mit normaler Bedeutung, ohne besonderen Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0006",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Tobias Rausch ist Landtagspräsident und gehört zugleich der AfD an.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die offizielle Mitteilung des Landtags führt Tobias Rausch als AfD-Abgeordneten und Landtagspräsidenten auf.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S009",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0006",
+          "startSeconds": 55,
+          "endSeconds": 87,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Einordnung und Hintergrundinformation, die den Hauptschluss nicht trägt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0007",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der MDR-Staatsvertrag kann nur zum Jahresende unter Einhaltung einer zweijährigen Kündigungsfrist gekündigt werden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "§ 42 des MDR-Staatsvertrags sieht eine Kündigung zum Ende eines Kalenderjahres mit zweijähriger Frist vor; MDR erläutert denselben Ablauf.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S006",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S016",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0007",
+          "startSeconds": 110,
+          "endSeconds": 150,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0008",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei wirksamer Kündigung bis Ende 2026 würde Sachsen-Anhalt frühestens Ende 2028 aus dem MDR-Staatsvertrag ausscheiden; bei einer erst 2027 möglichen Kündigung frühestens Ende 2029.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Aus der zweijährigen Frist zum Jahresende folgen diese beiden hypothetischen Austrittstermine. Ob die Kündigung politisch gelingt und rechtlich wirksam wird, ist offen.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S006",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S016",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0008",
+          "startSeconds": 136,
+          "endSeconds": 160,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0009",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Kündigung eines Staatsvertrags benötigt in Sachsen-Anhalt seit Mai 2026 die Zustimmung des Landtags.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Art. 69 Abs. 2 der Landesverfassung wurde zum 12.05.2026 geändert. Anders als früher ist ausdrücklich auch die Kündigung zustimmungspflichtig.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0009",
+          "startSeconds": 153,
+          "endSeconds": 193,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0010",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sachsen-Anhalt sei das einzige Bundesland, in dem der Landtag einer Kündigung von Staatsverträgen zustimmen müsse.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Sonderstellung gegenüber allen anderen Ländern erfordert eine systematische Rechtsvergleichung der 16 Landesverfassungen. Art. 69 belegt allein die Rechtslage in Sachsen-Anhalt, nicht die bundesweite Einzigartigkeit.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [
+        "Landesverfassungen aller übrigen 15 Länder in aktueller Fassung auf vergleichbare Zustimmungsvorbehalte für Kündigungen prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0010",
+          "startSeconds": 160,
+          "endSeconds": 193,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger Sachpunkt mit normaler Bedeutung, ohne besonderen Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0011",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die für eine Zustimmung zu einer Staatsvertragskündigung nötige Parlamentsmehrheit ist mit 39 AfD-Stimmen gegen 39 Stimmen der übrigen vier Fraktionen bei fünf Enthaltungen nicht gesichert.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Stimmenbilanz ist arithmetisch korrekt: 39 Ja und 39 Nein ergeben keine angenommene Mehrheit. Es handelt sich um ein Szenario, keine Vorhersage des konkreten Abstimmungsverhaltens.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0011",
+          "startSeconds": 178,
+          "endSeconds": 214,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger Sachpunkt mit normaler Bedeutung, ohne besonderen Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0012",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Art. 65 sieht nach erfolglosem erstem Wahlgang einen weiteren Wahlgang binnen sieben Tagen und bei erneutem Scheitern ein Verfahren zur möglichen Auflösung und einen späteren dritten Wahlgang vor.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Landesverfassung beschreibt genau diesen Ablauf: innerhalb sieben Tagen zweiter Wahlgang; anschließend binnen weiterer 14 Tage Entscheidung über eine vorzeitige Beendigung der Wahlperiode und, wenn diese ausbleibt, sofortiger weiterer Wahlgang.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0012",
+          "startSeconds": 229,
+          "endSeconds": 272,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Zentrale Verfassungsregel, auf der die Szenarien des Videos beruhen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0013",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im dritten Wahlgang reicht die Mehrheit der abgegebenen Stimmen, anders als in den ersten beiden Wahlgängen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Art. 65 Abs. 2 verlangt zunächst die Mehrheit der Mitglieder, also mindestens 42. Im dritten Wahlgang zählt die Mehrheit der abgegebenen Stimmen; Enthaltungen sind nicht als Gegenstimmen zu zählen.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0013",
+          "startSeconds": 240,
+          "endSeconds": 271,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Zentrale Verfassungsregel, auf der die Szenarien des Videos beruhen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0014",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Mit dem Termin 8. Dezember könnten vor Weihnachten zusätzliche Wahlgänge stattfinden; die genannten Tage 15.–17. Dezember sind mögliche, nicht zwingend festgelegte Termine.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der verfassungsrechtliche Zeitrahmen macht einen solchen Kalender möglich, legt aber weder exakt den 15. noch den 16. oder 17. Dezember zwingend als nächsten Wahltermin fest.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S007",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0014",
+          "startSeconds": 270,
+          "endSeconds": 306,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger Sachpunkt mit normaler Bedeutung, ohne besonderen Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0015",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach der Absicht von 14 CDU-Abgeordneten, den Plenarsaal zu verlassen, würde Guido Heuer als einziger CDU-Abgeordneter im Saal bleiben.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Ein Fraktionsbeschluss zum Verlassen des Plenums wurde öffentlich gemacht; Guido Heuer kündigte abweichend an, im Saal bleiben zu wollen. Es handelt sich um erklärte Absichten, noch nicht um tatsächlich beobachtetes Verhalten.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S018",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0015",
+          "startSeconds": 311,
+          "endSeconds": 369,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0016",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Wenn 14 Abgeordnete den Saal verlassen und sonst alle anwesend sind, bleiben 69 der 83 Abgeordneten im Plenum.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "83 minus 14 ergibt 69. Ob tatsächlich alle übrigen Abgeordneten teilnehmen, bleibt ungewiss und ist deshalb als Voraussetzung der Rechnung zu nennen.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S018",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0016",
+          "startSeconds": 334,
+          "endSeconds": 397,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Einordnung und Hintergrundinformation, die den Hauptschluss nicht trägt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0017",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das BSW hatte angekündigt, bei der Wahl des AfD-Kandidaten für das Ministerpräsidentenamt nicht mit Ja zu stimmen, sondern sich zu enthalten.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die BSW-Spitze und ein Sprecher hatten die Enthaltungsabsicht erklärt. Für den späteren geheimen Wahlakt liefert die Ankündigung keine Stimmgarantie.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0017",
+          "startSeconds": 391,
+          "endSeconds": 429,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0018",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Beim Kontrollgremium erhielt der BSW-Kandidat Thomas Schulze zunächst keine Stimme, später 43.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die von dpa publizierte Abstimmungsfolge lautet null Stimmen im ersten und 43 im zweiten Durchgang. Thomas Schulze gehört laut Landtagsmitteilung dem gewählten Kontrollgremium an.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S010",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0018",
+          "startSeconds": 401,
+          "endSeconds": 445,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0019",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Aus den 44 Stimmen für den AfD-Vorschlag kann man nicht nachweisen, dass genau die fünf BSW-Abgeordneten dafür gestimmt haben.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Wahl war geheim. Die rechnerische Übereinstimmung von 39 AfD- plus fünf BSW-Mandaten mit 44 Ja-Stimmen ist ein Indiz, identifiziert aber keine einzelnen Stimmabgaben.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S010",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0019",
+          "startSeconds": 420,
+          "endSeconds": 480,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0020",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Beim BSW war vor dem Bundesparteitag Ende November die Haltung zu Zusammenarbeit mit der AfD innerparteilich umstritten.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Vor dem Dresdner Parteitag am 27./28.11. wurden unterschiedliche Anträge zur Abgrenzung und punktuellen Zusammenarbeit öffentlich diskutiert. Das bezeichnet eine dokumentierte Debatte, keine Festlegung des Abstimmungsergebnisses.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S013",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0020",
+          "startSeconds": 468,
+          "endSeconds": 542,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger Sachpunkt mit normaler Bedeutung, ohne besonderen Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0021",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "SPD und andere Fraktionen suchten weiterhin nach einer breit akzeptierten Person für das Ministerpräsidentenamt; Eva von Angern wurde von der Linken als Kandidatin genannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "MDR berichtete Mitte November über die fortgesetzte Suche, noch fehlende gemeinsame Namen und von Angerns Kandidatur.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0021",
+          "startSeconds": 528,
+          "endSeconds": 590,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger Sachpunkt mit normaler Bedeutung, ohne besonderen Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0022",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die CDU Sachsen-Anhalt plante für den 5. Dezember einen Parteitag zur Neuwahl ihres Vorsitzes; Sepp Müller und Artjom Pusch wollten kandidieren.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die beiden Bewerber und das angekündigte Datum wurden am 09.11. gemeldet. In automatischen Untertiteln kann Sepps Name falsch erkannt sein.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0022",
+          "startSeconds": 564,
+          "endSeconds": 602,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Einordnung und Hintergrundinformation, die den Hauptschluss nicht trägt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0023",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "CDU, SPD, Grüne und Linke kommen zusammen auf 39 Mandate; mit dem BSW wären es 44.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "15+8+8+8=39 und mit fünf BSW-Sitzen 44. Das ist eine rechnerische Mehrheit, aber keine politische Koalitionszusage.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0023",
+          "startSeconds": 584,
+          "endSeconds": 619,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "P9TJDchfOIw-A0024",
+      "videoId": "P9TJDchfOIw",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Mehrere denkbare Wahlkonstellationen, etwa drei zusätzliche Stimmen für Siegmund oder eine Verständigung der Gegenparteien mit dem BSW, könnten das Ergebnis der Ministerpräsidentenwahl verändern.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Das Video entwickelt konditionale Zukunftsszenarien auf Basis der bekannten Mandatszahlen. Sie sind logisch denkbar, aber keine Tatsachen über eine bereits erfolgte Wahl oder feststehendes Verhalten.",
+      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "P9TJDchfOIw-O0024",
+          "startSeconds": 613,
+          "endSeconds": 713,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
+          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
+          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    }
+  ]
+}

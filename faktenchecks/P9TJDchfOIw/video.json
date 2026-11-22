@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "videoId": "P9TJDchfOIw",
+  "role": "original",
+  "reactionType": null,
+  "channel": "Der Stimmzettel",
+  "title": "Siegmund zieht die Wahl vor: Woher sollen die 3 Stimmen kommen?",
+  "videoUrl": "https://www.youtube.com/watch?v=P9TJDchfOIw",
+  "workStatus": "Teilbestand geprüft",
+  "identification": {
+    "basis": "Titel, Kanal und Videolaufzeit aus vidIQ-Metadaten und durchgehender deutscher Untertiteltext; öffentliches Politik-Erklärvideo zur Ministerpräsidentenwahl Sachsen-Anhalt. Keine audiovisuelle Wiedergabe.",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-21"
+  }
+}
