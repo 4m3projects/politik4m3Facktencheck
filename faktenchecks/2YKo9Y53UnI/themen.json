@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "videoId": "2YKo9Y53UnI",
+  "basis": "Manuelle Zuordnung der tatsächlich erfassten 13 Prüfpunkte; vier grobe Themenblöcke, Zeitfenster nur Suchhilfen. Bestehende IDs wirtschaft und ki wiederverwendet; drei neue übergreifende Themen im Hauptprojekt.",
+  "topics": [
+    {
+      "topic": "geheimdienste",
+      "relevance": "Schwerpunkt",
+      "basis": "Überwachung, Spionage und Nachrichtendienstreform im zentralen Teil.",
+      "segments": [
+        {
+          "startSeconds": 300,
+          "endSeconds": 1900,
+          "note": "Industrie- und Nachrichtendienstthemen."
+        }
+      ]
+    },
+    {
+      "topic": "rechtsstaat",
+      "relevance": "Schwerpunkt",
+      "basis": "Kontrolle und Grenzen staatlicher Sicherheitsbefugnisse sowie Justizfall.",
+      "segments": [
+        {
+          "startSeconds": 1260,
+          "endSeconds": 2800,
+          "note": "Bürgerrechte und gerichtliche Rechtskontrolle."
+        }
+      ]
+    },
+    {
+      "topic": "internationale-politik",
+      "relevance": "Behandelt",
+      "basis": "Großmachtbeziehungen, Sanktionen und Sicherheitsinteressen.",
+      "segments": [
+        {
+          "startSeconds": 120,
+          "endSeconds": 600,
+          "note": "Geopolitik und internationale Machtkonflikte."
+        }
+      ]
+    },
+    {
+      "topic": "wirtschaft",
+      "relevance": "Behandelt",
+      "basis": "Volkswagen-Fall und Unternehmensschäden.",
+      "segments": [
+        {
+          "startSeconds": 700,
+          "endSeconds": 1350,
+          "note": "Industriespionage und volkswirtschaftliche Folgen."
+        }
+      ]
+    },
+    {
+      "topic": "ki",
+      "relevance": "Behandelt",
+      "basis": "Nvidia und KI-Chipindustrie als Konfliktgegenstand.",
+      "segments": [
+        {
+          "startSeconds": 330,
+          "endSeconds": 700,
+          "note": "Wirtschaftliche und sicherheitspolitische Bedeutung der KI."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "2YKo9Y53UnI-A0001",
+      "topics": [
+        "internationale-politik",
+        "ki"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0002",
+      "topics": [
+        "internationale-politik",
+        "ki"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0003",
+      "topics": [
+        "internationale-politik",
+        "ki"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0004",
+      "topics": [
+        "internationale-politik",
+        "ki"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0005",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0006",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0007",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0008",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0009",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0010",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0011",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0012",
+      "topics": [
+        "rechtsstaat",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0013",
+      "topics": [
+        "rechtsstaat",
+        "internationale-politik"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-24",
+      "agent": "ChatGPT",
+      "change": "Ersterfassung 13 ausgewählter Prüfpunkte mit Themenzuordnung, zeitlichen Unsicherheiten und Lückenhinweisen."
+    }
+  ]
+}

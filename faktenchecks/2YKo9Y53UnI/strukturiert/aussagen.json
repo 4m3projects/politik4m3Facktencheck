@@ -1,0 +1,756 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "2YKo9Y53UnI",
+    "videoUrl": "https://www.youtube.com/watch?v=2YKo9Y53UnI",
+    "durationSeconds": 2923,
+    "asOf": "2026-11-24",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "ZDF-Metadaten und nur Auszüge eines öffentlichen, maschinell erstellten Dritttranskripts. Externe Quellen für die jeweils dokumentierten Sachbefunde gelesen. Originalplayer-Audio/Bilder nicht zugänglich; keine vollständige Transkript-, Bild- und Tonprüfung. Bei unsicherer Wortlaut-/Sprecherlage ist eine Nachkontrolle ausdrücklich erforderlich.",
+    "coverageNote": "13 ausgewählte Prüfgegenstände aus vier Themenblöcken; sechs Sachurteile quellengeprüft, sieben weitere Originalstellen oder Sachfragen offen. Weite Suchfenster und ungesicherte Sprecheridentitäten. Keine vollständige Aussageerfassung der gesamten Laufzeit und kein Gesamturteil."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "ZDF: Lanz + Precht, Folge 272",
+      "url": "https://www.zdf.de/video/talk/lanz-precht-102/lanz-und-precht-folge272-100",
+      "details": "ZDF, Originalveröffentlichung 20.11.2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "ZDF-Folgenseite geöffnet und Metadaten sowie Zusammenfassung gelesen. Kein Originalton oder Originalbild abgespielt; kein unabhängiger Sachbeleg."
+    },
+    {
+      "id": "S002",
+      "title": "HappyScribe: Transkript Folge 272",
+      "url": "https://podcasts.happyscribe.com/de/lanz-precht/272-beginnt-ein-neues-zeitalter-der-spionage",
+      "details": "Maschinell erstellte Gesprächsabschrift mit Zeitmarken.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Öffentliches maschinelles Transkript auszugsweise eingesehen; weitere Abschnitte des langen Gesprächs nicht umfassend nachkontrolliert. Nur Such- und Zuordnungsgrundlage, kein unabhängiger Sachbeleg."
+    },
+    {
+      "id": "S003",
+      "title": "SIPRI Jahrbuch 2026 – nukleare Streitkräfte",
+      "url": "https://www.sipri.org/yearbook/2026/08",
+      "details": "SIPRI, Schätzung für Januar 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Veröffentlichte Übersicht geöffnet und Bestand China rund 620 nukleare Sprengköpfe gelesen."
+    },
+    {
+      "id": "S004",
+      "title": "Tagesschau: Nvidia-Affäre",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+      "details": "ARD, 09.11.2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Veröffentlichte Zusammenfassung der Verdachtslage und der Ermittlungen geöffnet; öffentlich belegte Affäre und ungeklärte Spionagefragen unterschieden."
+    },
+    {
+      "id": "S005",
+      "title": "Reuters: Jensen Huang und Nvidia, Zeitleiste",
+      "url": "https://www.investing.com/news/stock-market-news/how-nvidia-ceo-jensen-huang-got-entangled-in-a-china-chip-and-spy-scandal-5046015",
+      "details": "Reuters, 23.11.2026; späterer Kontext.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Veröffentlichte Reuters-Zeitleiste zur Wiedereinsetzung am 23.11.2026 gelesen; zeitlich NACH dem Podcast."
+    },
+    {
+      "id": "S006",
+      "title": "Heise: Volkswagen und Industriespionage",
+      "url": "https://www.heise.de/news/Industriespionage-VW-jahrelang-Ziel-mutmasslich-chinesischer-Angreifer-9692407.html",
+      "details": "Heise, 20.04.2024.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Bericht über Zeitraum 2010–2015, rund 19.000 Dateien und mutmaßliche China-Verbindung gelesen."
+    },
+    {
+      "id": "S007",
+      "title": "Bitkom Wirtschaftsschutzstudie 2026",
+      "url": "https://www.bitkom.org/Bitkom/Publikationen/Wirtschaftsschutz",
+      "details": "Bitkom, Studie 2026, 1.003 Unternehmen.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Studienmethodik und Schadenskorridor 211 bis 270,8 Milliarden Euro gelesen."
+    },
+    {
+      "id": "S008",
+      "title": "Bitkom: Angriffe auf deutsche Wirtschaft 2026",
+      "url": "https://www.bitkom.org/Presse/Presseinformation/Angriffe-auf-deutsche-Wirtschaft-Spur-auslaendische-Geheimdienste",
+      "details": "Bitkom, Pressemitteilung 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Zahlen gelesen: 67 Prozent sicher betroffen, 29 Prozent vermutet, Schäden hochgerechnet als Korridor."
+    },
+    {
+      "id": "S009",
+      "title": "Bundestag: Reform des Nachrichtendienstrechts beschlossen",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-nachrichtendienste-1231530",
+      "details": "Deutscher Bundestag, 13.11.2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Parlamentsbericht zu verabschiedeter Reform und Beispiel für zulässige aktive Maßnahmen gelesen; die juristischen Detailvoraussetzungen nicht vollständig anhand der Endgesetzfassung abgeglichen."
+    },
+    {
+      "id": "S010",
+      "title": "Bundestag: Erste Beratung der Nachrichtendienstreform",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-nachrichtendienstrecht-1211260",
+      "details": "Deutscher Bundestag, Debatte 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Parlamentarische Darstellung zur vorgesehenen operativen Gefahrenabwehr und den in der Debatte genannten Eingriffen gelesen."
+    },
+    {
+      "id": "S011",
+      "title": "Bundestagsdrucksache 21/9258 – Usmanow-Verfahren",
+      "url": "https://dserver.bundestag.de/btd/21/092/2109258.pdf",
+      "details": "Deutscher Bundestag, 2026, parlamentarische Anfrage.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Ergebnispassagen aus der Bundestagsdrucksache gelesen: BGH 21.10.2026 zur Zustellung und Streichung Usmanows aus der EU-Sanktionsliste 22.09.2026; keine vollständige eigene juristische Prüfung des BGH-Beschlusses."
+    },
+    {
+      "id": "S012",
+      "title": "Deutschlandfunk: VW-Datendiebstahl",
+      "url": "https://www.deutschlandfunk.de/recherchen-von-zdf-und-spiegel-volkswagen-gruppe-war-offenbar-jahrelang-erfolgreiches-ziel-von-hacke-100.html",
+      "details": "Deutschlandfunk, 20.04.2024.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Überblick zu rund 19.000 Dokumenten und fehlendem direkten Beweis für die China-Zuschreibung gelesen."
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Markus Lanz",
+      "videoRole": "Co-Moderator",
+      "identityBasis": "Sprecherbezeichnung im maschinellen Dritttranskript; konkrete Tonstelle nicht selbst überprüft."
+    },
+    {
+      "id": "SP02",
+      "name": "Richard David Precht",
+      "videoRole": "Co-Moderator",
+      "identityBasis": "Sprecherbezeichnung im maschinellen Dritttranskript; konkrete Tonstelle nicht selbst überprüft."
+    }
+  ],
+  "claims": [
+    {
+      "id": "2YKo9Y53UnI-A0001",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "China verfügt Ende 2026 über mehr als 1.000 nukleare Sprengköpfe.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – der konkrete Tatsachenkern ist mit den angegebenen externen Quellen abgleichbar, doch Wortlaut, zeitlicher Bezug und Zurechnung im Podcast müssen erst am Originalplayer bestätigt werden. Die bisher recherchierte Korrektur ist vorläufig nur ein Prüfhintergrund.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        }
+      ],
+      "openQuestions": [
+        "Die genaue Formulierung und zeitliche Referenz im Originalton abgleichen.",
+        "Exakten Wortlaut und Sprecher am YouTube-Original prüfen; prüfen, ob der Podcast diese Behauptung tatsächlich aufstellt."
+      ],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0001",
+          "startSeconds": 120,
+          "endSeconds": 350,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
+          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2YKo9Y53UnI-A0002",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine persönliche Beziehung des damaligen Nvidia-Chefs Jensen Huang zu Alice Huang und Ermittlungen im Zusammenhang mit möglichen China-Exportverstößen wurden öffentlich berichtet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Medienberichte vom 9. November dokumentieren die eingeräumte Beziehung und den Verdacht möglicher Exportverstöße. Die Berichterstattung beweist ausdrücklich keinen strafbaren Geheimnisverrat.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0002",
+          "startSeconds": 330,
+          "endSeconds": 560,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Namenszuordnung im maschinellen Dritttranskript; nicht am Ton kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
+          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Wichtiger Ausgangspunkt des Gesprächs über Industriespionage.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "2YKo9Y53UnI-A0003",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der mutmaßliche Nvidia-Spionagefall beweise bereits, dass Jensen Huang Geschäftsgeheimnisse an den chinesischen Staat verraten habe.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – es muss am Originalton geklärt werden, ob diese starke Behauptung tatsächlich erhoben oder gerade ausdrücklich infrage gestellt wurde; die zugängliche Abschrift betont offene Fragen.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Originalton abgleichen; keinen bewiesenen Geheimnisverrat aus einem Verdacht ableiten."
+      ],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0003",
+          "startSeconds": 450,
+          "endSeconds": 590,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
+          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2YKo9Y53UnI-A0004",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Anthropic habe unmittelbar vor der Folge einen Börsengang mit rund 1,4 bis 1,5 Billionen US-Dollar Marktbewertung vollzogen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – der belegte Börsengang und die behauptete Bewertung müssen anhand zeitgenössischer Börsenunterlagen oder offizieller Unternehmensmeldungen abgeglichen werden.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Börsenzulassung, Börsengang und Bewertung zum 20.11.2026 mittels Primärquellen ermitteln."
+      ],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0004",
+          "startSeconds": 550,
+          "endSeconds": 670,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Namenszuordnung im maschinellen Dritttranskript; nicht am Ton kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
+          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2YKo9Y53UnI-A0005",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Zwischen 2010 und 2015 wurden Volkswagen durch einen Cyberangriff rund 19.000 vertrauliche Dateien entwendet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "ZDF/Spiegel-Recherchen, von Heise und Deutschlandfunk wiedergegeben, berichten von ungefähr 19.000 Dateien. Rund 20.000 wäre eine zulässige Rundung; die staatliche Täterschaft ist nicht abschließend bewiesen.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0005",
+          "startSeconds": 830,
+          "endSeconds": 1180,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
+          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.25,
+        "weightReason": "Konkretes Beispiel aus dem ausführlichen Wirtschaftsspionageblock.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "2YKo9Y53UnI-A0006",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Wirtschaftsschutzstudie 2026 schätzt den jährlichen deutschen Schaden durch Datendiebstahl, Spionage und Sabotage auf mehr als 200 Milliarden Euro.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Bitkom beziffert den hochgerechneten Korridor auf 211,0 bis 270,8 Milliarden Euro. Es ist eine Schätzung mit methodisch unterschiedlichen sicheren und vermuteten Fällen, keine nachgewiesene Gesamtsumme.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0006",
+          "startSeconds": 1000,
+          "endSeconds": 1320,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
+          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Größenordnung für die wirtschaftspolitische Einordnung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "2YKo9Y53UnI-A0007",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "96 Prozent der befragten Firmen seien nachweislich erfolgreich von Spionage, Datendiebstahl oder Sabotage betroffen gewesen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – der konkrete Tatsachenkern ist mit den angegebenen externen Quellen abgleichbar, doch Wortlaut, zeitlicher Bezug und Zurechnung im Podcast müssen erst am Originalplayer bestätigt werden. Die bisher recherchierte Korrektur ist vorläufig nur ein Prüfhintergrund.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        }
+      ],
+      "openQuestions": [
+        "Exakten Wortlaut und ob eine Einschränkung im Gespräch folgt prüfen.",
+        "Exakten Wortlaut und Sprecher am YouTube-Original prüfen; prüfen, ob der Podcast diese Behauptung tatsächlich aufstellt."
+      ],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0007",
+          "startSeconds": 1050,
+          "endSeconds": 1340,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
+          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2YKo9Y53UnI-A0008",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Bundestag beschloss am 13. November 2026 eine umfangreiche Reform der Nachrichtendienste.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Bundestag dokumentiert den Beschluss vom 13. November 2026 mit 308 Ja-Stimmen, 190 Nein-Stimmen und 71 Enthaltungen. Beschluss und Zeitpunkt des tatsächlichen Inkrafttretens sind unterschiedliche Fragen.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0008",
+          "startSeconds": 1260,
+          "endSeconds": 1450,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
+          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Zentraler tatsächlicher Anlass der politischen Diskussion.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "2YKo9Y53UnI-A0009",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Reform sieht unter Voraussetzungen operative Eingriffe gegen fremde Hackerinfrastruktur vor, etwa die Abschaltung eines Servers.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Bundestag nennt ausdrücklich das Beispiel, dass der BND in bestimmten Situationen einen Server einer staatlichen Hackergruppe abschalten darf. Daraus folgt keine allgemeine unbeschränkte Sabotageerlaubnis.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0009",
+          "startSeconds": 1390,
+          "endSeconds": 1500,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Namenszuordnung im maschinellen Dritttranskript; nicht am Ton kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
+          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Eine der wichtigsten neuen Befugnisse als Kerngegenstand der Folge.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "2YKo9Y53UnI-A0010",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Reform erlaube Nachrichtendiensten ohne externe Kontrollmechanismen selbst zu bestimmen, wen sie abhören oder überwachen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die pauschale These muss an den tatsächlich verabschiedeten Vorschriften zu Richtervorbehalt, Prüf- und Kontrollgremien sowie Genehmigungsvoraussetzungen gemessen werden; im Gespräch erscheint sie als Zuspitzung.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Endgesetzfassung und Kontrollmechanismen prüfen; Meinung und Tatsachenbehauptung trennen."
+      ],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0010",
+          "startSeconds": 1460,
+          "endSeconds": 1590,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Namenszuordnung im maschinellen Dritttranskript; nicht am Ton kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
+          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2YKo9Y53UnI-A0011",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die neue Rechtslage gestatte unter bestimmten Umständen die Überwachung vertraulicher Gespräche in Psychotherapiepraxen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – Bundestagsdebatten reichen nicht aus, um die gesetzlichen Ausnahmen und Schutzregelungen für Therapie, Seelsorge und Rechtsbeistand abschließend zu belegen.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Endgültige Gesetzesfassung und Schutz besonderer Vertrauensbeziehungen prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0011",
+          "startSeconds": 1650,
+          "endSeconds": 1780,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Namenszuordnung im maschinellen Dritttranskript; nicht am Ton kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
+          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2YKo9Y53UnI-A0012",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Bundesgerichtshof beanstandete im Oktober 2026 die verweigerte gerichtliche Zustellung im Zusammenhang mit Alischer Usmanows Verfahren gegen den EU-Rat.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Bundestagsdrucksache nennt die BGH-Entscheidung vom 21. Oktober 2026. Sie betrifft die rechtswidrige Zustellungsverweigerung und entscheidet nicht abschließend über die Klage selbst.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S011",
+          "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0012",
+          "startSeconds": 2040,
+          "endSeconds": 2640,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
+          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.25,
+        "weightReason": "Wichtiger rechtsstaatlicher Fall aus dem Schlussteil des Gesprächs.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "2YKo9Y53UnI-A0013",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Alischer Usmanow stand zum Veröffentlichungszeitpunkt der Folge weiterhin auf derselben EU-Sanktionsliste.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – der konkrete Tatsachenkern ist mit den angegebenen externen Quellen abgleichbar, doch Wortlaut, zeitlicher Bezug und Zurechnung im Podcast müssen erst am Originalplayer bestätigt werden. Die bisher recherchierte Korrektur ist vorläufig nur ein Prüfhintergrund.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S011",
+          "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        }
+      ],
+      "openQuestions": [
+        "Originalaussage und genau gemeinte Liste im Kontext prüfen.",
+        "Exakten Wortlaut und Sprecher am YouTube-Original prüfen; prüfen, ob der Podcast diese Behauptung tatsächlich aufstellt."
+      ],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0013",
+          "startSeconds": 2040,
+          "endSeconds": 2640,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
+          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    }
+  ]
+}

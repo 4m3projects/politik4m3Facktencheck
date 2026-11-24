@@ -513,6 +513,70 @@
           "change": "Neu angelegt für das Video P9TJDchfOIw; vorhandene Themen in Haupt- und Schwesterprojekt vorab überprüft."
         }
       ]
+    },
+    {
+      "id": "geheimdienste",
+      "name": "Geheimdienste",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "BND",
+        "Verfassungsschutz",
+        "Spionage",
+        "Nachrichtendienste"
+      ],
+      "description": "Befugnisse, Tätigkeit und Kontrolle von Nachrichtendiensten sowie Spionage und Gegenspionage.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-24",
+          "agent": "ChatGPT",
+          "change": "Neu angelegt für Quellenprüfung Lanz + Precht Folge 272, Video 2YKo9Y53UnI."
+        }
+      ]
+    },
+    {
+      "id": "rechtsstaat",
+      "name": "Rechtsstaat",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Grundrechte",
+        "Bürgerrechte",
+        "Rechtsstaatlichkeit"
+      ],
+      "description": "Rechtsstaatliche Garantien, Grundrechte, staatliche Kontrolle und Rechtsschutz.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-24",
+          "agent": "ChatGPT",
+          "change": "Neu angelegt für Quellenprüfung Lanz + Precht Folge 272, Video 2YKo9Y53UnI."
+        }
+      ]
+    },
+    {
+      "id": "internationale-politik",
+      "name": "Internationale Politik",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Geopolitik",
+        "Außenpolitik",
+        "Sanktionen"
+      ],
+      "description": "Diplomatie, internationale Ordnung, Staatenbeziehungen und Sanktionen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-24",
+          "agent": "ChatGPT",
+          "change": "Neu angelegt für Quellenprüfung Lanz + Precht Folge 272, Video 2YKo9Y53UnI."
+        }
+      ]
     }
   ]
 }
