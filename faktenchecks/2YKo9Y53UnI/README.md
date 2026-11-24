@@ -18,7 +18,7 @@ Ausgewählte Tatsachenkerne aus internationalen Beziehungen, dem Nvidia-Skandal,
 
 ## Abdeckung
 
-13 ausgewählte Prüfpunkte; keine lückenlose Erfassung des 48:43 Minuten langen Gesprächs. Audio, Video, Schnitt, Einspieler und Bildaussagen wurden nicht überprüft. Die Fundstellen sind grobe Text-Suchfenster und müssen mit dem YouTube-Original abgeglichen werden. **Die Darstellung/Rhetorik ist nicht vollständig geprüft.**
+13 ausgewählte Prüfpunkte; davon 6 mit abgeschlossenem Sachurteil und 7 offen; keine lückenlose Erfassung des 48:43 Minuten langen Gesprächs. Audio, Video, Schnitt, Einspieler und Bildaussagen wurden nicht überprüft. Die Fundstellen sind grobe Text-Suchfenster und müssen mit dem YouTube-Original abgeglichen werden. **Die Darstellung/Rhetorik ist nicht vollständig geprüft.**
 
 Die maschinell erzeugten Texte sind nicht zur Veröffentlichung als Transkript freigegeben. Alle öffentlichen Formulierungen sind eigene inhaltliche Zusammenfassungen; verlinkte Quellen bleiben bei ihren jeweiligen Rechteinhabern.
 
@@ -29,3 +29,4 @@ Die maschinell erzeugten Texte sind nicht zur Veröffentlichung als Transkript f
 Weitere Arbeit: Gesamttranskript vollständig sichten, Originalton und Sprecheridentitäten kontrollieren, gesetzliche Detailvoraussetzungen der Nachrichtendienstreform nachlesen, offene Behauptungen nachrecherchieren und ein unabhängiges Reviewergebnis einholen.
 
 <!-- ChatGPT: Build der strukturierten Berichte über den GitHub-Actions-Generator veranlasst. -->
+ 
