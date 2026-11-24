@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "videoId": "2YKo9Y53UnI",
-  "basis": "Manuelle Zuordnung der bisherigen 16 und fünf neuen Prüfgegenstände nach unabhängiger Zweitprüfung Codex am 24.11.2026. Gesamtes angezeigtes Originaltranskript gelesen, keine vollständige Sach- oder audiovisuelle Prüfung.",
+  "basis": "Manuelle Themenzuordnung nach erneuter chronologischer Erfassung durch Codex am 24.11.2026. Neue Kandidaten und offene Recherche sind einbezogen; kein audiovisueller Gesamtabschluss.",
   "topics": [
     {
       "topic": "geheimdienste",
@@ -72,6 +72,42 @@
           "startSeconds": 2202,
           "endSeconds": 2496,
           "note": "Grobe redaktionelle Themenabdeckung aus vollständig gelesenem Originalplayertext; keine akustisch kontrollierte Grenze."
+        }
+      ]
+    },
+    {
+      "topic": "frankreich",
+      "relevance": "Erwähnt",
+      "basis": "Französische Wirtschaftsspionage als Vergleich.",
+      "segments": [
+        {
+          "startSeconds": 769,
+          "endSeconds": 791,
+          "note": "Textlich eingegrenzter Bereich; Bild und Ton nicht kontrolliert."
+        }
+      ]
+    },
+    {
+      "topic": "extremismus",
+      "relevance": "Behandelt",
+      "basis": "Amri, CSD-Fall und Einstufung der AfD sind eigenständige Gesprächsgegenstände.",
+      "segments": [
+        {
+          "startSeconds": 1897,
+          "endSeconds": 2078,
+          "note": "Textlich eingegrenzter Bereich; Bild und Ton nicht kontrolliert."
+        }
+      ]
+    },
+    {
+      "topic": "staatsfinanzen",
+      "relevance": "Erwähnt",
+      "basis": "Sozialleistungszahlung im konkreten Sicherheitsfall.",
+      "segments": [
+        {
+          "startSeconds": 1948,
+          "endSeconds": 1993,
+          "note": "Textlich eingegrenzter Bereich; Bild und Ton nicht kontrolliert."
         }
       ]
     }
@@ -222,6 +258,783 @@
         "geheimdienste",
         "rechtsstaat"
       ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0022",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0023",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0024",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0025",
+      "topics": [
+        "geheimdienste",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0026",
+      "topics": [
+        "geheimdienste",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0027",
+      "topics": [
+        "geheimdienste",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0028",
+      "topics": [
+        "geheimdienste",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0029",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0030",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0031",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0032",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0033",
+      "topics": [
+        "internationale-politik",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0034",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0035",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0036",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0037",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0038",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0039",
+      "topics": [
+        "wirtschaft",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0040",
+      "topics": [
+        "wirtschaft",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0041",
+      "topics": [
+        "wirtschaft",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0042",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0043",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0044",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0045",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0046",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0047",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0048",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0049",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0050",
+      "topics": [
+        "ki",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0051",
+      "topics": [
+        "wirtschaft",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0052",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0053",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0054",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0055",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft",
+        "frankreich"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0056",
+      "topics": [
+        "geheimdienste",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0057",
+      "topics": [
+        "geheimdienste",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0058",
+      "topics": [
+        "geheimdienste",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0059",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0060",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0061",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0062",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0063",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0064",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0065",
+      "topics": [
+        "wirtschaft",
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0066",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0067",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0068",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0069",
+      "topics": [
+        "ki",
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0070",
+      "topics": [
+        "ki",
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0071",
+      "topics": [
+        "ki",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0072",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0073",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0074",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0075",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0076",
+      "topics": [
+        "geheimdienste",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0077",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0078",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0079",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0080",
+      "topics": [
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0081",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0082",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0083",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0084",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0085",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0086",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0087",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0088",
+      "topics": [
+        "wahlen",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0089",
+      "topics": [
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0090",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0091",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0092",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0093",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0094",
+      "topics": [
+        "extremismus",
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0095",
+      "topics": [
+        "extremismus",
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0096",
+      "topics": [
+        "extremismus",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0097",
+      "topics": [
+        "extremismus",
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0098",
+      "topics": [
+        "extremismus"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0099",
+      "topics": [
+        "extremismus",
+        "staatsfinanzen"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0100",
+      "topics": [
+        "extremismus",
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0101",
+      "topics": [
+        "extremismus",
+        "staatsfinanzen"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0102",
+      "topics": [
+        "extremismus",
+        "staatsfinanzen"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0103",
+      "topics": [
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0104",
+      "topics": [
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0105",
+      "topics": [
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0106",
+      "topics": [
+        "extremismus",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0107",
+      "topics": [
+        "extremismus",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0108",
+      "topics": [
+        "wahlen"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0109",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0110",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0111",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat",
+        "wahlen"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0112",
+      "topics": [
+        "wahlen",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0113",
+      "topics": [
+        "wahlen",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0114",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0115",
+      "topics": [
+        "wahlen"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0116",
+      "topics": [
+        "wahlen",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0117",
+      "topics": [
+        "wahlen",
+        "rechtsstaat",
+        "extremismus"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0118",
+      "topics": [
+        "wahlen",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0119",
+      "topics": [
+        "wahlen"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0120",
+      "topics": [
+        "wahlen"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0121",
+      "topics": [
+        "wahlen",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0122",
+      "topics": [
+        "wahlen",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0123",
+      "topics": [
+        "wahlen",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0124",
+      "topics": [
+        "rechtsstaat",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0125",
+      "topics": [
+        "rechtsstaat",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0126",
+      "topics": [
+        "rechtsstaat",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0127",
+      "topics": [
+        "rechtsstaat",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0128",
+      "topics": [
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0129",
+      "topics": [
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0130",
+      "topics": [
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0131",
+      "topics": [
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0132",
+      "topics": [
+        "rechtsstaat",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0133",
+      "topics": [
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0134",
+      "topics": [
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0135",
+      "topics": [
+        "rechtsstaat",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0136",
+      "topics": [
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0137",
+      "topics": [
+        "rechtsstaat"
+      ]
     }
   ],
   "history": [
@@ -239,6 +1052,11 @@
       "date": "2026-11-24",
       "agent": "Codex",
       "change": "Fünf neue Gegenstände zu bestehenden Themen zugeordnet; sachfremde KI-Zuordnung der Atomwaffenzahl sowie Wirtschaftszuordnung des Reformbeschlusses berichtigt. Keine neue öffentliche Kategorie; alle sechs Themen bestehen bereits."
+    },
+    {
+      "date": "2026-11-24",
+      "agent": "Codex",
+      "change": "116 zusätzliche Erfassungskandidaten vorhandenen Themen zugeordnet; Extremismus behandelt, Frankreich und Staatsfinanzen nur erwähnt. Keine neue Themen-ID und keine neue öffentliche Kategorie."
     }
   ]
 }

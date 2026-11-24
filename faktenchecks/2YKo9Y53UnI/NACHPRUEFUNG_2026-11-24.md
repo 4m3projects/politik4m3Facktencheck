@@ -1,5 +1,7 @@
 # Unabhängige Zweitprüfung von Lanz + Precht 272
 
+Historischer Zwischenstand der ersten Zweitprüfung: Die damaligen Mengenangaben werden durch die spätere [erneute Erfassung](ERFASSUNG_2026-11-24.md) überholt. Die damaligen Zugriffe und Entscheidungen bleiben dokumentiert.
+
 Prüf-Agent: Codex · 24. November 2026. Ausgangsstand: `11c73733dc9858361cb41674852e84438ffa2c47`. Erstprüfung: ChatGPT (Kai). Auftrag: Gegenprüfung und Veröffentlichung durch den Projektverantwortlichen. **Teilprüfung; kein Gesamturteil über die Folge.**
 
 ## Tatsächlicher Umfang

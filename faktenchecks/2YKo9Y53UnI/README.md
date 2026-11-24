@@ -1,6 +1,6 @@
 # Lanz + Precht, Folge 272 – Geheimdienste und Spionage: vorläufiger Faktencheck
 
-**Teilprüfung · Erstprüfung ChatGPT (Kai), unabhängige Zweitprüfung Codex am 24.11.2026. Keine vollständige Analyse.**
+**Prüfung in Bearbeitung · Erstprüfung ChatGPT (Kai), erneute Erfassung und Recherche Codex am 24.11.2026. Kein Gesamtabschluss.**
 
 - Original: [YouTube](https://www.youtube.com/watch?v=2YKo9Y53UnI)
 - Herausgeberfassung: [ZDF](https://www.zdf.de/video/talk/lanz-precht-102/lanz-und-precht-folge272-100)
@@ -13,7 +13,7 @@
 
 ## Ergebnis und tatsächliche Abdeckung
 
-Alle 16 bisherigen Datensätze wurden gegengeprüft und fünf Gegenstände ergänzt. Der Bestand enthält **18 abgeschlossene Sachbewertungen, eine Meinung und zwei offene Prüfkandidaten ohne nachgewiesenen eigenen Aussagebezug**. Das ist keine Statistik sämtlicher Aussagen der Folge. Der eigenständige [Zweitprüfungsbericht](NACHPRUEFUNG_2026-11-24.md) nennt die Befunde, tatsächlich gelesenen Quellen und Grenzen je Punkt.
+137 Datensätze, 123 eigenständige Tatsachenkandidaten mit plausiblem eigenem Aussagebezug, 11 Meinungen/Prognosen und 3 ausschließlich referenzierte Prüfkandidaten. 149 gespeicherte Fundstellen; 45 abgeschlossene Sachprüfungen, 78 noch offene eigene Tatsachenkandidaten. Der neue [Erfassungs- und Recherchebericht](ERFASSUNG_2026-11-24.md) dokumentiert die gesamte Textzeitachse, neue Kandidaten, Zusammenführungen und Grenzen. Die frühere Auswahl von 21 Datensätzen war keine vollständige Aussageninventur.
 
 Unter anderem bestätigt wurden die dokumentierte Nvidia-Verdachtslage, Größenordnungen des VW-Datendiebstahls und des Bitkom-Schadenskorridors, der Reformbeschluss sowie kommunale Nichtzulassungen. Kontext brauchen sichere beziehungsweise vermutete Betroffenheit, Geheimdienstkontrolle und das politische EU-Sanktionsverfahren. Die chinesische Atomwaffenzahl widerspricht dem veröffentlichten Fachschätzstand; Jalta fand während des Zweiten Weltkriegs statt. Eine ungesicherte kategorische Spionagebehauptung und eine behauptete fortdauernde Usmanow-Listung werden dem Podcast nicht als eigene Fehler zugerechnet.
 
@@ -27,4 +27,8 @@ Codex las das gesamte im Originalplayer angezeigte deutsche Transkript von 00:01
 
 Die Erstfassung beruhte auf Ausschnitten einer maschinellen Drittabschrift. Die Zweitprüfung ergänzt vollständige Originalplayertext-Lektüre, unabhängig geöffnete Sachquellen, berichtigte Zeitbereiche, Gegenpositionen im Gespräch und fünf neue Gegenstände. Sie präzisiert Quellenarten und Bewertungsdefinitionen, erhält die 14 bisherigen Sachurteile und dokumentiert zwei zurückgenommene Zurechnungen in HP-C0003. 14 bisherige Bedeutungsfaktoren wurden gegengeprüft; neue Faktoren bleiben vorläufig. Keine manuelle Gesamtampel.
 
-Offen bleiben die zwei Kandidaten, gesetzliche Detailprüfung, alle bisher ausgelassenen Tatsachenbehauptungen sowie Bild und Ton. Öffentliche Beschreibungen sind unsere eigenen Paraphrasen. Keine Transkripte, Medien oder Quellenkopien werden veröffentlicht.
+Offen bleiben die einzeln aufgeführten Rechercheaufträge, eine möglichst unabhängige zweite Vollinventur, gesetzliche Details sowie Bild und Ton. Öffentliche Beschreibungen sind unsere eigenen Paraphrasen. Keine Transkripte, Medien oder Quellenkopien werden veröffentlicht.
+
+## Erneute Erfassung nach Methodenergänzung
+
+Am 24.11.2026 durch Codex: 116 zusätzliche Kandidaten angelegt, lokale Wahlfälle getrennt und weitere Fundstellen gleicher Inhalte zugeordnet. Neue Sachurteile stehen im [aktuellen Protokoll](ERFASSUNG_2026-11-24.md) und den [generierten Einzelprüfungen](strukturiert/README.md). Frühere Zwischenstände bleiben nachvollziehbar.

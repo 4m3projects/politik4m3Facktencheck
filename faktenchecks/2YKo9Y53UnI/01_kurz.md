@@ -1,9 +1,11 @@
-# Kurzüberblick: Sicherheitsbefugnisse und ihre Kontrolle
+# Geheimdienste zwischen Sicherheitsversprechen und rechtlichen Grenzen
 
-Aktualisiert am 24.11.2026 durch Codex nach unabhängiger Zweitprüfung; Erstfassung ChatGPT (Kai).
+Aktualisiert am 24.11.2026 durch Codex; Erstfassung ChatGPT (Kai).
 
-Lanz und Precht verbinden Geheimdienstgeschichte und Wirtschaftsspionage mit der deutschen Nachrichtendienstreform. Die Debatte betrifft den Schutz vor Angriffen und zugleich die Grenzen staatlicher Eingriffsmacht. Der Nvidia-Komplex bleibt eine öffentlich berichtete Verdachtslage; eine Beziehung und Ermittlungen beweisen keinen Geheimnisverrat.
+Die Folge verbindet historische Spionagebeispiele mit Technologiepolitik, einer Nachrichtendienstreform und Streit um staatliche Eingriffe. Daraus entsteht eine Debatte darüber, welche Mittel ein demokratischer Staat nutzen darf und wie er dabei kontrolliert wird. Die Gesprächspartner setzen unterschiedliche Akzente: Warnungen vor ausgeweiteter Überwachung stehen Hinweisen auf rechtliche Hürden und auf Versäumnisse von Sicherheitsbehörden gegenüber.
 
-Mehrere wirtschaftliche Größenordnungen sind belegt. Bei Bitkom umfasst die hohe Betroffenheitsquote jedoch sichere und vermutete Fälle. Sicherheitsbefugnisse müssen nach Dienst, Eingriff, Kontrolle und zeitlicher Geltung unterschieden werden. Im Gespräch widerspricht Lanz der Vorstellung unkontrollierter Überwachung. Zur Kritik an zu wenig öffentlicher Debatte gehört der Kontext, dass die Grünen parlamentarische Änderungen verlangten. EU-Sanktionslistungen beschließt der Rat; gerichtliche Nachkontrolle ist möglich.
+Die erneute Erfassung zeigt, dass der frühere Bestand von 21 Datensätzen zahlreiche eigenständige Prüfgegenstände ausließ. Nun werden Tatsachenkandidaten, Rückfragen, Wiederholungen und Wertungen getrennt dokumentiert. Zusätzliche Recherche bestätigt mehrere historische und institutionelle Angaben. Andernorts fehlen entscheidende Unterscheidungen, etwa zwischen verschiedenen Datenspeicherfristen oder zwischen einer behördlichen Einstufung und ihrer vorläufigen gerichtlichen Aussetzung.
 
-Die chinesische Sprengkopfzahl passt nicht zum veröffentlichten Schätzstand. Jalta fand im Februar 1945 während des Kriegs statt. Die Zweitprüfung ergänzt diese Befunde und präzisiert die bisherigen Prüfungen. Der Bestand bleibt eine Auswahl: 18 Sachbewertungen, eine Meinung und zwei offene, als eigene Aussagen nicht nachgewiesene Prüfkandidaten. Das angezeigte Originaltranskript wurde vollständig gelesen; vollständige Erfassung aller Behauptungen sowie Bild- und Tonkontrolle fehlen. [Details und Grenzen](NACHPRUEFUNG_2026-11-24.md).
+137 Datensätze, 123 eigenständige Tatsachenkandidaten mit plausiblem eigenem Aussagebezug, 11 Meinungen/Prognosen und 3 ausschließlich referenzierte Prüfkandidaten. 149 gespeicherte Fundstellen; 45 abgeschlossene Sachprüfungen, 78 noch offene eigene Tatsachenkandidaten.
+
+Die gesamte vorhandene deutsche Textanzeige wurde erneut gelesen. Originalton, durchgehende Bildprüfung und weitere Sachrecherchen fehlen. Diese Veröffentlichung ist ein nachvollziehbarer Arbeitsstand und kein abschließendes Urteil über die gesamte Folge. [Erfassung und offene Schritte](ERFASSUNG_2026-11-24.md).

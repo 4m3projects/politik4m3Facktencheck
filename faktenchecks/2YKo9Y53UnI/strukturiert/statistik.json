@@ -1,170 +1,170 @@
 {
-    "schemaVersion":  2,
-    "scope":  "Teilbestand",
-    "coverageNote":  "Teilbestand mit 21 Datensätzen: 18 abgeschlossene Sachbewertungen, eine Meinung und zwei offene, als eigene Videoaussagen nicht nachgewiesene Prüfkandidaten (A0003/A0013). Vollständige Lektüre des angezeigten Originaltranskripts ist keine vollständige Erfassung aller Tatsachenbehauptungen. Keine bestätigten Sprecherstimmen; Zeiten textlich Ungefähr. Übernommene Laufzeit 48:43, sichtbare Playeranzeige 48:39; letzter Transkriptbeginn 48:28, Rest nicht eigenständig geprüft. Keine Gesamtstatistik der Folge.",
-    "videoId":  "2YKo9Y53UnI",
-    "selectedLegacyPoints":  0,
-    "totalLegacyPoints":  0,
-    "statementRecords":  21,
-    "uniqueStatements":  19,
-    "referenceOnlyStatements":  2,
-    "unresolvedRoleOnlyStatements":  0,
-    "assertionOccurrences":  24,
-    "additionalAssertionOccurrences":  5,
-    "sameSpeakerRepeatedAssertionOccurrences":  0,
-    "referenceOccurrences":  2,
-    "unresolvedRoleOccurrences":  0,
-    "statusCounts":  {
-                         "Offen":  0,
-                         "In Bearbeitung":  0,
-                         "Nicht überprüfbar":  0,
-                         "Abgeschlossen":  19
-                     },
-    "kindCounts":  {
-                       "Tatsachenbehauptung":  18,
-                       "Meinung":  1,
-                       "Prognose":  0
-                   },
-    "completedFacts":  18,
-    "openFacts":  0,
-    "inProgressFacts":  0,
-    "unverifiableFacts":  0,
-    "percentageDenominator":  18,
-    "percentageDenominatorDefinition":  "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
-    "categories":  [
-                       {
-                           "category":  "Belegt",
-                           "completedCount":  10,
-                           "completedFactPercent":  55.6
-                       },
-                       {
-                           "category":  "Teilweise belegt",
-                           "completedCount":  2,
-                           "completedFactPercent":  11.1
-                       },
-                       {
-                           "category":  "Irreführend / Kontext fehlt",
-                           "completedCount":  4,
-                           "completedFactPercent":  22.2
-                       },
-                       {
-                           "category":  "Widerlegt",
-                           "completedCount":  2,
-                           "completedFactPercent":  11.1
-                       },
-                       {
-                           "category":  "Nicht ausreichend belegbar",
-                           "completedCount":  0,
-                           "completedFactPercent":  0
-                       },
-                       {
-                           "category":  "Meinung / Prognose",
-                           "completedCount":  1,
-                           "completedFactPercent":  null
-                       }
-                   ],
-    "speakerStatistics":  {
-                              "definition":  "Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.",
-                              "persons":  [
-                                              {
-                                                  "speakerId":  "SP01",
-                                                  "name":  "Markus Lanz",
-                                                  "uniqueFacts":  0,
-                                                  "completedFacts":  0,
-                                                  "openFacts":  0,
-                                                  "inProgressFacts":  0,
-                                                  "unverifiableFacts":  0,
-                                                  "percentageDenominator":  0,
-                                                  "categories":  [
-                                                                     {
-                                                                         "category":  "Belegt",
-                                                                         "completedCount":  0,
-                                                                         "completedFactPercent":  null
-                                                                     },
-                                                                     {
-                                                                         "category":  "Teilweise belegt",
-                                                                         "completedCount":  0,
-                                                                         "completedFactPercent":  null
-                                                                     },
-                                                                     {
-                                                                         "category":  "Irreführend / Kontext fehlt",
-                                                                         "completedCount":  0,
-                                                                         "completedFactPercent":  null
-                                                                     },
-                                                                     {
-                                                                         "category":  "Widerlegt",
-                                                                         "completedCount":  0,
-                                                                         "completedFactPercent":  null
-                                                                     },
-                                                                     {
-                                                                         "category":  "Nicht ausreichend belegbar",
-                                                                         "completedCount":  0,
-                                                                         "completedFactPercent":  null
-                                                                     },
-                                                                     {
-                                                                         "category":  "Meinung / Prognose",
-                                                                         "completedCount":  0,
-                                                                         "completedFactPercent":  null
-                                                                     }
-                                                                 ]
-                                              },
-                                              {
-                                                  "speakerId":  "SP02",
-                                                  "name":  "Richard David Precht",
-                                                  "uniqueFacts":  0,
-                                                  "completedFacts":  0,
-                                                  "openFacts":  0,
-                                                  "inProgressFacts":  0,
-                                                  "unverifiableFacts":  0,
-                                                  "percentageDenominator":  0,
-                                                  "categories":  [
-                                                                     {
-                                                                         "category":  "Belegt",
-                                                                         "completedCount":  0,
-                                                                         "completedFactPercent":  null
-                                                                     },
-                                                                     {
-                                                                         "category":  "Teilweise belegt",
-                                                                         "completedCount":  0,
-                                                                         "completedFactPercent":  null
-                                                                     },
-                                                                     {
-                                                                         "category":  "Irreführend / Kontext fehlt",
-                                                                         "completedCount":  0,
-                                                                         "completedFactPercent":  null
-                                                                     },
-                                                                     {
-                                                                         "category":  "Widerlegt",
-                                                                         "completedCount":  0,
-                                                                         "completedFactPercent":  null
-                                                                     },
-                                                                     {
-                                                                         "category":  "Nicht ausreichend belegbar",
-                                                                         "completedCount":  0,
-                                                                         "completedFactPercent":  null
-                                                                     },
-                                                                     {
-                                                                         "category":  "Meinung / Prognose",
-                                                                         "completedCount":  0,
-                                                                         "completedFactPercent":  null
-                                                                     }
-                                                                 ]
-                                              }
-                                          ],
-                              "eligibleFacts":  18,
-                              "reliablyAssignedFacts":  0,
-                              "factsWithoutReliablePerson":  18,
-                              "factsWithUncertainAttribution":  18,
-                              "factsWithUncertainOwnRole":  18,
-                              "occurrenceAttributionCounts":  {
-                                                                  "Bestätigt":  0,
-                                                                  "Plausibel":  20,
-                                                                  "Ungeklärt":  6
-                                                              },
-                              "occurrenceRoleStatusCounts":  {
-                                                                 "Bestätigt":  0,
-                                                                 "Plausibel":  24,
-                                                                 "Ungeklärt":  2
-                                                             }
-                          }
+  "schemaVersion": 2,
+  "scope": "Teilbestand",
+  "coverageNote": "Erneute vollständige Lektüre des im Originalplayer angezeigten deutschen Textes von 00:01 bis zum letzten Eintrag 48:28; Textsichtung über alle Themenabschnitte, siehe ERFASSUNG_2026-11-24.md. Teilbestand: noch offene Sachrecherche, unsichere Rollen und Zeitmarken, keine bestätigten Sprecherstimmen. Playerlaufzeit 48:39 gegenüber übernommenen 48:43 ungeklärt; letzter Texteintrag enthält Abspann, genauer Schluss nicht kontrolliert. Eine zweite unabhängige Vollinventur und vollständiger Bild-/Tonabgleich fehlen. Erfasste Fakten, Fundstellen und abgeschlossene Prüfungen sind getrennte Zählungen; keine Gesamtvideostatistik.",
+  "videoId": "2YKo9Y53UnI",
+  "selectedLegacyPoints": 0,
+  "totalLegacyPoints": 0,
+  "statementRecords": 137,
+  "uniqueStatements": 134,
+  "referenceOnlyStatements": 3,
+  "unresolvedRoleOnlyStatements": 0,
+  "assertionOccurrences": 146,
+  "additionalAssertionOccurrences": 12,
+  "sameSpeakerRepeatedAssertionOccurrences": 0,
+  "referenceOccurrences": 3,
+  "unresolvedRoleOccurrences": 0,
+  "statusCounts": {
+    "Offen": 78,
+    "In Bearbeitung": 0,
+    "Nicht überprüfbar": 0,
+    "Abgeschlossen": 56
+  },
+  "kindCounts": {
+    "Tatsachenbehauptung": 123,
+    "Meinung": 5,
+    "Prognose": 6
+  },
+  "completedFacts": 45,
+  "openFacts": 78,
+  "inProgressFacts": 0,
+  "unverifiableFacts": 0,
+  "percentageDenominator": 45,
+  "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
+  "categories": [
+    {
+      "category": "Belegt",
+      "completedCount": 29,
+      "completedFactPercent": 64.4
+    },
+    {
+      "category": "Teilweise belegt",
+      "completedCount": 8,
+      "completedFactPercent": 17.8
+    },
+    {
+      "category": "Irreführend / Kontext fehlt",
+      "completedCount": 6,
+      "completedFactPercent": 13.3
+    },
+    {
+      "category": "Widerlegt",
+      "completedCount": 2,
+      "completedFactPercent": 4.4
+    },
+    {
+      "category": "Nicht ausreichend belegbar",
+      "completedCount": 0,
+      "completedFactPercent": 0.0
+    },
+    {
+      "category": "Meinung / Prognose",
+      "completedCount": 11,
+      "completedFactPercent": null
+    }
+  ],
+  "speakerStatistics": {
+    "definition": "Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.",
+    "persons": [
+      {
+        "speakerId": "SP01",
+        "name": "Markus Lanz",
+        "uniqueFacts": 0,
+        "completedFacts": 0,
+        "openFacts": 0,
+        "inProgressFacts": 0,
+        "unverifiableFacts": 0,
+        "percentageDenominator": 0,
+        "categories": [
+          {
+            "category": "Belegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Teilweise belegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Irreführend / Kontext fehlt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Widerlegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Nicht ausreichend belegbar",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Meinung / Prognose",
+            "completedCount": 0,
+            "completedFactPercent": null
+          }
+        ]
+      },
+      {
+        "speakerId": "SP02",
+        "name": "Richard David Precht",
+        "uniqueFacts": 0,
+        "completedFacts": 0,
+        "openFacts": 0,
+        "inProgressFacts": 0,
+        "unverifiableFacts": 0,
+        "percentageDenominator": 0,
+        "categories": [
+          {
+            "category": "Belegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Teilweise belegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Irreführend / Kontext fehlt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Widerlegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Nicht ausreichend belegbar",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Meinung / Prognose",
+            "completedCount": 0,
+            "completedFactPercent": null
+          }
+        ]
+      }
+    ],
+    "eligibleFacts": 123,
+    "reliablyAssignedFacts": 0,
+    "factsWithoutReliablePerson": 123,
+    "factsWithUncertainAttribution": 123,
+    "factsWithUncertainOwnRole": 123,
+    "occurrenceAttributionCounts": {
+      "Bestätigt": 0,
+      "Plausibel": 143,
+      "Ungeklärt": 6
+    },
+    "occurrenceRoleStatusCounts": {
+      "Bestätigt": 0,
+      "Plausibel": 147,
+      "Ungeklärt": 2
+    }
+  }
 }
