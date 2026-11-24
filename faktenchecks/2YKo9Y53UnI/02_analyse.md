@@ -1,10 +1,10 @@
 # Thematische Analyse und Prüfabdeckung
 
-Aktualisiert am 24.11.2026 durch Codex; Erstfassung ChatGPT (Kai). Eigene Gliederung nach Themenwechseln im vollständig gelesenen Originalplayertext. Keine übernommenen Originalkapitelüberschriften. Die Vier-Kapitel-Zuordnung des Datensatzes bleibt erhalten; Unterabschnitte erklären den Verlauf. Zeiten sind textlich ungefähr. Keine lückenlose Fakteninventur.
+Aktualisiert am 24.11.2026 durch Codex; Erstfassung ChatGPT (Kai). Eigene Gliederung nach Themenwechseln im vollständig gelesenen Originalplayertext. Keine übernommenen Originalkapitelüberschriften. Die Vier-Kapitel-Zuordnung des Datensatzes bleibt erhalten; Unterabschnitte erklären den Verlauf. Zeiten sind textlich ungefähr. Chronologische Neuerfassung im [Erfassungsprotokoll](ERFASSUNG_2026-11-24.md); Vollständigkeit und audiovisuelle Ebene bleiben offen.
 
 ## 1. 00:00:00–00:11:56 – Historische Vergleiche und Technologiepolitik
 
-Ein Film dient als Einstieg in moralische Fragen geheimdienstlicher Arbeit. Es folgen Großmachtvergleich, Atomwaffenbestände, Nvidia-Verdacht und Anthropics Börsengang. Geprüft sind ausgewählte Kerne zur chinesischen Sprengkopfzahl, öffentlichen Verdachtsberichterstattung und IPO-Bewertung; ergänzt ist Jaltas zeitliche Einordnung. Historische CIA-Beispiele, Gipfelvergleich, weitere Bestandszahlen und Anthropics Ertragslage sind damit nicht vollständig geprüft. [Kapitelprüfungen 1](strukturiert/berichte/kapitel-01.md).
+Ein Film dient als Einstieg in moralische Fragen geheimdienstlicher Arbeit. Es folgen Großmachtvergleich, Atomwaffenbestände, Nvidia-Verdacht und Anthropics Börsengang. Geprüft sind ausgewählte Kerne zur chinesischen Sprengkopfzahl, öffentlichen Verdachtsberichterstattung und IPO-Bewertung; ergänzt ist Jaltas zeitliche Einordnung. Historische CIA-Beispiele, Gipfelvergleich, weitere Bestandszahlen und Anthropics Ertragslage sind nun als eigene Kandidaten erfasst; ihre Sachprüfung ist noch nicht vollständig. [Kapitelprüfungen 1](strukturiert/berichte/kapitel-01.md).
 
 ## 2. 00:11:56–00:20:46 – Industriespionage und Schäden
 
@@ -18,7 +18,7 @@ Die Reform bildet den Anlass einer Kontroverse über aktive Maßnahmen, Privathe
 
 ### 4.1 00:31:21–00:36:34 – Sicherheitsfälle und politische Risiken
 
-Mehrere Sicherheitsbehördenfälle und Risiken einer späteren Regierung werden diskutiert. Individuelle Fälle, Überwachungsbehauptungen, Umfragen und Zukunftsszenarien sind noch nicht systematisch als Einzelprüfungen erfasst.
+Mehrere Sicherheitsbehördenfälle und Risiken einer späteren Regierung werden diskutiert. Individuelle Fälle, Überwachungsbehauptungen, Umfragen und Zukunftsszenarien sind nun als eigene Prüfkandidaten mit offenen Schritten oder belegten Teilbefunden erfasst.
 
 ### 4.2 00:36:34–00:41:41 – Kommunale Direktwahlen
 
@@ -34,4 +34,4 @@ Der angezeigte Text enthält Produktionshinweise bis zum letzten Eintrag bei 48:
 
 ## Grenzen
 
-Die Textgrundlage ersetzt keine Ton- und Bildprüfung und keine vollständige Erfassung aller Tatsachenbehauptungen. Sprecher bleiben plausibel oder ungeklärt, Zeiten ungefähr. Auswahl, Quellenzugriffe, Korrekturen und weitere Recherche stehen im [Zweitprüfungsbericht](NACHPRUEFUNG_2026-11-24.md).
+Die Textgrundlage ersetzt keine Ton- und Bildprüfung und keinen Nachweis der lückenlosen Erfassung aller Tatsachenbehauptungen. Sprecher bleiben plausibel oder ungeklärt, Zeiten ungefähr. Auswahl, Quellenzugriffe, Korrekturen und weitere Recherche stehen im [Zweitprüfungsbericht](NACHPRUEFUNG_2026-11-24.md).

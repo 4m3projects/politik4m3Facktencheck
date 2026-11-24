@@ -2,46 +2,46 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Teilbestand mit 21 Datensätzen: 18 abgeschlossene Sachbewertungen, eine Meinung und zwei offene, als eigene Videoaussagen nicht nachgewiesene Prüfkandidaten (A0003/A0013). Vollständige Lektüre des angezeigten Originaltranskripts ist keine vollständige Erfassung aller Tatsachenbehauptungen. Keine bestätigten Sprecherstimmen; Zeiten textlich Ungefähr. Übernommene Laufzeit 48:43, sichtbare Playeranzeige 48:39; letzter Transkriptbeginn 48:28, Rest nicht eigenständig geprüft. Keine Gesamtstatistik der Folge.
+**Abdeckung: Teilbestand.** Erneute vollständige Lektüre des im Originalplayer angezeigten deutschen Textes von 00:01 bis zum letzten Eintrag 48:28; Textsichtung über alle Themenabschnitte, siehe ERFASSUNG_2026-11-24.md. Teilbestand: noch offene Sachrecherche, unsichere Rollen und Zeitmarken, keine bestätigten Sprecherstimmen. Playerlaufzeit 48:39 gegenüber übernommenen 48:43 ungeklärt; letzter Texteintrag enthält Abspann, genauer Schluss nicht kontrolliert. Eine zweite unabhängige Vollinventur und vollständiger Bild-/Tonabgleich fehlen. Erfasste Fakten, Fundstellen und abgeschlossene Prüfungen sind getrennte Zählungen; keine Gesamtvideostatistik.
 
 Stand: 2026-11-24 · Video: 2YKo9Y53UnI
 
-Erstprüfung ChatGPT (Kai), unabhängige Zweitprüfung Codex am 24.11.2026. Codex las das gesamte im Originalplayer angezeigte deutsche Transkript von 00:01 bis 48:28 und öffnete die in den einzelnen Nachprüfungen genannten Fach-, Nachrichten- und amtlichen Quellen. Alle 16 bisherigen Datensätze redaktionell und sachlich im dokumentierten Umfang kontrolliert, fünf weitere Prüfgegenstände ergänzt. Keine vollständige Endnormenprüfung, keine Ton- oder durchgehende Bildprüfung. Frühere Quellenabrufe bleiben als solche kenntlich; S018 ist ausdrücklich kein Sachbeleg.
+Codex, 24.11.2026: erneuter chronologischer Erfassungsdurchgang des ganzen angezeigten deutschen Originalplayertexts und anschließende Einzelrecherche. Bestehende 21 Datensätze bleiben erhalten; neue Kandidaten werden vor der Recherche angelegt. Bewertungen und offene Schritte sind je Aussage dokumentiert. Die bisherige Zweitprüfung bleibt als historischer Zwischenstand nachvollziehbar. Keine gehörte Originaltonspur, keine durchgehende Bildkontrolle.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 19
-- Abgeschlossen: 19
-- Offen (noch nicht geprueft): 0
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 134
+- Abgeschlossen: 56
+- Offen (noch nicht geprueft): 78
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
-- Erfasste Behauptungsvorkommen: 24
-- Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 5
+- Erfasste Behauptungsvorkommen: 146
+- Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 12
 - Davon bestaetigte Wiederholungen derselben Person: 0
-- Rueckfragen/Fremdbezuege/Zurueckweisungen: 2
+- Rueckfragen/Fremdbezuege/Zurueckweisungen: 3
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 0
 - Aussagen ausschliesslich mit ungeklaertem eigenem Bezug: 0
-- Nur referenzierte Aussagen ohne eigene Behauptung: 2
-- Meinungen: 1; Prognosen: 0
+- Nur referenzierte Aussagen ohne eigene Behauptung: 3
+- Meinungen: 5; Prognosen: 6
 
 Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen. Nur erneut derselben Person mit bestaetigter Zuordnung und bestaetigtem eigenem Bezug zugerechnete Vorkommen zaehlen als bestaetigte Personenwiederholung. Null bedeutet nur: im dokumentierten Datenbestand keine solchen Faelle erfasst.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 18 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 45 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 10 | 55.6 % |
-| Teilweise belegt | 2 | 11.1 % |
-| Irreführend / Kontext fehlt | 4 | 22.2 % |
-| Widerlegt | 2 | 11.1 % |
+| Belegt | 29 | 64.4 % |
+| Teilweise belegt | 8 | 17.8 % |
+| Irreführend / Kontext fehlt | 6 | 13.3 % |
+| Widerlegt | 2 | 4.4 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
-| Meinung / Prognose | 1 | nicht anwendbar |
+| Meinung / Prognose | 11 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
 
@@ -52,12 +52,12 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 18. Ohne verlaessliche Personenzuordnung: 18.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 123. Ohne verlaessliche Personenzuordnung: 123.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 18; mit unsicherem eigenem Aussagebezug: 18. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 123; mit unsicherem eigenem Aussagebezug: 123. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 20, Aussagebezug 24 Vorkommen.
+- Plausibel: Sprecherzuordnung 143, Aussagebezug 147 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 6, Aussagebezug 2 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |

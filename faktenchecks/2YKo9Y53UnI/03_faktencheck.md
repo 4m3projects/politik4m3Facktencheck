@@ -1,23 +1,19 @@
-# Faktenbericht – unabhängige Zweitprüfung
+# Faktenbericht – erneute Erfassung und Recherche
 
-Stand 24.11.2026 · Erstprüfung ChatGPT (Kai), Aktualisierung Codex. **21 ausgewählte Datensätze, keine Vollprüfung.** 18 abgeschlossene Sachbewertungen, eine Meinung, zwei offene Prüfkandidaten ohne nachgewiesenen eigenen Aussagebezug.
+Stand 24.11.2026 · Erstprüfung ChatGPT (Kai), Aktualisierung Codex. **Prüfung in Bearbeitung; kein Gesamtabschluss.**
 
-## Wichtigste Befunde
+137 Datensätze, 123 eigenständige Tatsachenkandidaten mit plausiblem eigenem Aussagebezug, 11 Meinungen/Prognosen und 3 ausschließlich referenzierte Prüfkandidaten. 149 gespeicherte Fundstellen; 45 abgeschlossene Sachprüfungen, 78 noch offene eigene Tatsachenkandidaten.
 
-- **China und Jalta:** Die chinesische Sprengkopfzahl über 1.000 passt nicht zu den veröffentlichten Fachschätzungen für 2026. Jalta fand während des Kriegs statt. [A0001/A0017 mit Quellen und Grenzen](strukturiert/berichte/kapitel-01.md).
-- **Verdacht bleibt Verdacht:** Beziehung und Ermittlungen im Nvidia-Komplex sind dokumentiert. Ein bewiesener Geheimnisverrat ist als eigene kategorische Behauptung nicht nachgewiesen; A0003 bleibt offen. Die IPO-Größenordnung ist auf vollständig verwässerter Basis belegt. [Kapitel 1](strukturiert/berichte/kapitel-01.md).
-- **Wirtschaftsschutz:** VW-Datendiebstahl und Bitkom-Schadenskorridor sind in der Größenordnung belegt. Bei 96 Prozent fehlen unmittelbar der Unterschied zwischen sicheren und vermuteten Fällen sowie die Stichprobeneingrenzung. [Kapitel 2](strukturiert/berichte/kapitel-02.md).
-- **Geheimdienstreform:** Beschluss und begrenzte aktive Maßnahmen sind dokumentiert. Geltungsbeginn, Eingriffsvoraussetzungen, externe Kontrolle und Schutzvorgaben unterscheiden. **Lanz widerspricht im Gespräch selbst einer Vorstellung unkontrollierter Überwachung.** Änderungsanträge der Grünen sind ebenfalls dokumentiert. [Kapitel 3](strukturiert/berichte/kapitel-03.md).
-- **Niedersachsen und EU:** Nichtzulassungen, Prüfverfahren und Zuständigkeiten sind belegt; Eilrechtsschutz ist von Sachentscheidung zu unterscheiden. Sanktionslistungen beschließt der Rat der EU, gerichtliche Anfechtung ist möglich. Der BGH-Zustellungsbefund entscheidet nicht die gesamte Usmanow-Klage. Eine aktuelle Listung wird dem Podcast ohne eigenen Aussagebezug nicht zugerechnet. [Kapitel 4](strukturiert/berichte/kapitel-04.md).
+## Befunde
 
-## Änderungen durch die Zweitprüfung
+- **Historischer Einstieg:** CIA-Unterstützung für Guatemalas Regierungswechsel und US-Interessen an Chiles Kupferwirtschaft sind dokumentiert. Bei Lumumba müssen Mordplanung, tatsächliche Tötung und weiter gefasste Mitverantwortung unterschieden werden. Jaltas Zeitpunkt bleibt korrigiert. [Kapitel 1](strukturiert/berichte/kapitel-01.md).
+- **Technologie und Wirtschaft:** Die früheren Prüfungen zu Nvidia-Verdachtsberichterstattung, Anthropics Bewertungsmaßstab, VW und Bitkom bleiben nachvollziehbar. Weitere wirtschaftliche und anonyme Unternehmensfälle sind jetzt ausdrücklich als offene Aufgaben erfasst. [Kapitel 2](strukturiert/berichte/kapitel-02.md).
+- **Reform und Kontrolle:** Der neue Prüfpunkt zu Speicherfristen korrigiert die Vereinheitlichung von Inhalts- und Verkehrsdaten. Einzelne aktive BND-Instrumente und Biometrie sind im Reformvorhaben dokumentiert; daraus folgt keine voraussetzungslose Befugnis und kein vorgezogener Geltungsbeginn. Die Gegenposition zur externen Kontrolle bleibt erhalten. [Kapitel 3](strukturiert/berichte/kapitel-03.md).
+- **Sicherheitsfälle:** 14 Amri-Identitäten sind amtlich dokumentiert. Anfangs fehlende Informationen dürfen nicht mit einem dauerhaft fehlenden Austausch gleichgesetzt werden. Fortgezahlte Leistungen im CSD-Fall und die Unkenntnis des Jobcenters werden durch eine Regierungsantwort belegt. Andere Details bleiben offen. [Kapitel 4](strukturiert/berichte/kapitel-04.md).
+- **Parteirecht und Rechtsschutz:** Historische BfV-Hochstufung und vorläufiges gerichtliches Anwendungsverbot sind zu unterscheiden. Sichert und Vogel erhalten getrennte Prüfpunkte; Eilrechtsschutz bestätigt keine materielle Rechtmäßigkeit ihrer Nichtzulassung. Bei EU-Sanktionen bleiben Ratsentscheidung, gerichtlicher Rechtsschutz und konkreter Usmanow-Fall getrennt. [Kapitel 4](strukturiert/berichte/kapitel-04.md).
 
-Die 16 bisherigen Datensätze wurden redaktionell gegengeprüft, ihre Zeitfenster am Originalplayertext berichtigt und fünf Gegenstände ergänzt. Die 14 bisherigen Sachurteile bleiben bestehen; Begründungen wurden präzisiert. Zwei offene Prüfhypothesen erhalten keine eigene Fehlerzurechnung; [HP-C0003](../../wissen/korrekturen/HP-C0003.json) dokumentiert dies. 14 vorhandene Bedeutungsfaktoren wurden separat gegengeprüft; neue bleiben vorläufig. Der Index wird ausschließlich programmatisch berechnet.
+## Erfassung, Änderungen und Grenzen
 
-Der [ausführliche Zweitprüfungsbericht](NACHPRUEFUNG_2026-11-24.md) ordnet jeden Punkt tatsächlich gelesenen Quellen zu. Er unterscheidet insbesondere die Kleine Anfrage der AfD vom BGH-Beschluss und bezeichnet erfolglose Abrufe als solche.
+Das [chronologische Protokoll](ERFASSUNG_2026-11-24.md) weist jeden Zeitbereich, alle gespeicherten Kandidaten, eigene Teilbehauptungen und Zusammenführungen aus. Es erklärt die Erweiterung um 116 Kandidaten und die Trennung des früher gebündelten A0014. Frühere Sachurteile werden dadurch nicht spurlos ersetzt. Der [vorherige Zweitprüfungsbericht](NACHPRUEFUNG_2026-11-24.md) bleibt als Zwischenstand erhalten.
 
-## Offene Recherche und Darstellung
-
-Der vollständige im Originalplayer angezeigte Text von 00:01 bis 48:28 wurde gelesen. Keine Stimme ist bestätigt; kein Originalton gehört, keine durchgehende Bildkontrolle. Ein fehlerfreier Wortlaut wird damit nicht behauptet. Laufzeitabweichung und Schluss bleiben offen.
-
-Ausstehend sind Endgesetze samt Geltungsbeginn, endgültige Bearbeitung von A0003/A0013 sowie zahlreiche noch nicht erfasste historische, wirtschaftliche und sicherheitspolitische Teilbehauptungen. Darstellung textlich teilweise geprüft; Bild, Ton und audiovisuelle Gesamtwirkung offen. **Kein vollständiges Urteil über die ganze Folge.**
+Die gesamte verfügbare Originalplayer-Textanzeige wurde erneut gelesen; keine konkrete Stimme ist bestätigt und kein Originalton gehört. Der Player zeigt 48:39 gegenüber übernommenen 48:43; der genaue Schluss bleibt ungeklärt. Eine möglichst unabhängige zweite vollständige Kandidatenliste und durchgehende audiovisuelle Darstellungsprüfung fehlen. Offene Rechercheaufträge stehen an jedem betroffenen Datensatz. Keine pauschale Wahr/Falsch-Note für das ganze Video und keine manuell gesetzte Ampel.
