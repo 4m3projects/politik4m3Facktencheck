@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Nachprüfung am 24.11.2026: indexierte Dritttranskript-Ausschnitte insbesondere 00:07–00:28, dazu SIPRI, Anthropic-Unternehmensmeldungen, AP, Bundesregierung und Fachverbandsstellungnahmen. Nicht die gesamte Folge gesichtet, keinen Originalton oder Originalbilder kontrolliert. Nachprüfung 24.11.2026: Bitkom-Originaltext und Gesprächstelle 15:34–16:02; niedersächsisches Innenministerium vom 28.04.2026, NDR-Fallberichte und FAQ, OVG-Mitteilung vom 04.09.2026, Gesprächsfenster 36:38–39:03. Kein Originalton gehört.",
-    "coverageNote": "16 ausgewählte Prüfpunkte aus 48:43 Minuten: 14 abgeschlossene Sachbewertungen und 2 offen. Die Bereiche 15:34–16:02 und 36:38–39:03 zusätzlich textgebunden recherchiert. Kein vollständiger Querschnitt der ganzen Folge, keine akustisch bestätigten Sprecher oder kontrollierten Originalzeiten, keine vollständige Rhetorikprüfung."
+    "researchNote": "Erstprüfung ChatGPT (Kai), unabhängige Zweitprüfung Codex am 24.11.2026. Codex las das gesamte im Originalplayer angezeigte deutsche Transkript von 00:01 bis 48:28 und öffnete die in den einzelnen Nachprüfungen genannten Fach-, Nachrichten- und amtlichen Quellen. Alle 16 bisherigen Datensätze redaktionell und sachlich im dokumentierten Umfang kontrolliert, fünf weitere Prüfgegenstände ergänzt. Keine vollständige Endnormenprüfung, keine Ton- oder durchgehende Bildprüfung. Frühere Quellenabrufe bleiben als solche kenntlich; S018 ist ausdrücklich kein Sachbeleg.",
+    "coverageNote": "Teilbestand mit 21 Datensätzen: 18 abgeschlossene Sachbewertungen, eine Meinung und zwei offene, als eigene Videoaussagen nicht nachgewiesene Prüfkandidaten (A0003/A0013). Vollständige Lektüre des angezeigten Originaltranskripts ist keine vollständige Erfassung aller Tatsachenbehauptungen. Keine bestätigten Sprecherstimmen; Zeiten textlich Ungefähr. Übernommene Laufzeit 48:43, sichtbare Playeranzeige 48:39; letzter Transkriptbeginn 48:28, Rest nicht eigenständig geprüft. Keine Gesamtstatistik der Folge."
   },
   "legacyPoints": [],
   "sources": [
@@ -99,9 +99,9 @@
       "id": "S011",
       "title": "Bundestagsdrucksache 21/9258 – Usmanow-Verfahren",
       "url": "https://dserver.bundestag.de/btd/21/092/2109258.pdf",
-      "details": "Deutscher Bundestag, 2026, parlamentarische Anfrage.",
+      "details": "Deutscher Bundestag, Kleine Anfrage von Abgeordneten und Fraktion der AfD, 17.11.2026; keine Antwort der Bundesregierung und keine Gerichtsentscheidung.",
       "accessedOn": "2026-11-24",
-      "accessBasis": "Ergebnispassagen aus der Bundestagsdrucksache gelesen: BGH 21.10.2026 zur Zustellung und Streichung Usmanows aus der EU-Sanktionsliste 22.09.2026; keine vollständige eigene juristische Prüfung des BGH-Beschlusses."
+      "accessBasis": "Ergebnispassagen aus der Bundestagsdrucksache gelesen: BGH 21.10.2026 zur Zustellung und Streichung Usmanows aus der EU-Sanktionsliste 22.09.2026; keine vollständige eigene juristische Prüfung des BGH-Beschlusses. Zweitprüfung Codex: Einleitung der Kleinen Anfrage selbst gelesen. Sie referiert Presseberichte und die Darstellung der Fragesteller; ihre amtliche Veröffentlichung macht diese Angaben nicht zu gerichtlich festgestellten Tatsachen. Für den engen Zustellungsbefund zusätzlich Entscheidungsgründe S027 gelesen."
     },
     {
       "id": "S012",
@@ -157,7 +157,7 @@
       "url": "https://www.kbv.de/presse/pressemitteilungen/2026/nachbesserungen-bei-nachrichtendienstreform-schritt-in-die-richtige-richtung",
       "details": "Kassenärztliche Bundesvereinigung, 13.11.2026.",
       "accessedOn": "2026-11-24",
-      "accessBasis": "Aussage aus öffentlichem Suchergebnis gelesen: zusätzlicher Schutz für Ärzte und Psychotherapeuten beim BND, weitere Defizite; Volltextzugriff nicht erfolgreich, daher ergänzender Kontext und nicht alleinige Sachquelle."
+      "accessBasis": "Erfolgloser Abrufversuch – kein Sachbeleg: Laut Erstprüfungsvermerk war nur ein Suchausschnitt lesbar, der Volltextzugriff scheiterte. Codex verwendet diese Quelle nicht zur Verifikation; gelesen wurden separat S017 und S019."
     },
     {
       "id": "S019",
@@ -187,7 +187,7 @@
       "id": "S022",
       "title": "Niedersächsisches Oberverwaltungsgericht: Eilbeschwerden kommunaler Direktwahlbewerber",
       "url": "https://oberverwaltungsgericht.niedersachsen.de/aktuelles/presseinformationen/erfolglose-beschwerden-von-nicht-zu-den-kommunalen-direktwahlen-in-niedersachsen-zugelassenen-bewerbern-253598.html",
-      "details": "Niedersächsisches OVG, Presseinformation zur Entscheidung vom 04.09.2026.",
+      "details": "Niedersächsisches OVG, Entscheidungen vom 04.09.2026; Pressemitteilung erstellt am 07.09.2026.",
       "accessBasis": "Amtliche Verlautbarung zu drei Eilbeschwerden und zum Vorrang der Wahlprüfung nach der Wahl textlich kontrolliert; keine Entscheidung über die materielle Rechtmäßigkeit der Nichtzulassungen.",
       "accessedOn": "2026-11-24"
     },
@@ -198,6 +198,70 @@
       "details": "NDR, Stand 07.08.2026.",
       "accessBasis": "Erklärtext zum Ablauf gelesen: bei begründeten Zweifeln Prüfung durch Kommunalaufsicht, möglicher Einbezug des Verfassungsschutzes, Empfehlung und eigenständige Entscheidung des Wahlausschusses.",
       "accessedOn": "2026-11-24"
+    },
+    {
+      "id": "S024",
+      "title": "Originaltranskript im YouTube-Player: Lanz + Precht 272",
+      "url": "https://www.youtube.com/watch?v=2YKo9Y53UnI",
+      "details": "ZDFheute Nachrichten; sichtbares Veröffentlichungsdatum 20.11.2026. Abruf am 24.11.2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Codex öffnete die Originalseite, klappte die Beschreibung auf und betätigte Transkript anzeigen. Das gesamte angezeigte deutsche Transkript einschließlich Abspann von 00:01 bis 48:28 wurde gelesen. Playeranzeige 48:39; der übernommene Laufzeitwert beträgt 48:43. Keine akustische oder durchgehende visuelle Verifikation. Nur Herkunftsbeleg, kein unabhängiger Sachbeleg."
+    },
+    {
+      "id": "S025",
+      "title": "Status of World Nuclear Forces, 2026",
+      "url": "https://fas.org/initiative/status-world-nuclear-forces/",
+      "details": "Federation of American Scientists; Hans M. Kristensen, Matt Korda, Eliana Johns und Mackenzie Knight-Boyle; Jahresübersicht 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Codex öffnete und las Tabelle, Definitionen und China-Fußnote: 620 chinesische Sprengköpfe; rund 1.000 als US-Projektion für 2030, keine aktuelle Bestandszahl. Schätzungen mit Geheimhaltungs- und Zeitgrenzen."
+    },
+    {
+      "id": "S026",
+      "title": "Amtliches Protokoll der 109. Sitzung des Deutschen Bundestages",
+      "url": "https://www.bundestag.de/resource/blob/1232636/amtpr21109.pdf",
+      "details": "Deutscher Bundestag, 13.11.2026, Tagesordnungspunkt 26, Seite 1.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Codex öffnete das Dokument und las TOP 26: Schlussabstimmung 308/190/71 sowie abgelehnte Änderungsanträge der Grünen. Kein Beleg des Inkrafttretens."
+    },
+    {
+      "id": "S027",
+      "title": "BGH-Beschluss vom 21.10.2026, IV AR (VZ) 2/25 – veröffentlichte Entscheidungsgründe",
+      "url": "https://datenbank.nwb.de/Dokument/1105066/",
+      "details": "Bundesgerichtshof; Wiedergabe bei NWB, Beschluss vom 21.10.2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Codex las den öffentlich sichtbaren Entscheidungskopf und die Gründe Randnummern 1–8: Gegenstand ist die Ablehnung der Zustellung einer Unterlassungsklage; die Rechtsbeschwerde hat insoweit Erfolg. Weiterer Volltext zugangsbeschränkt. Amtliche Volltextlinks über dejure scheiterten mit HTTP 403; kein vollständiger amtlicher Entscheidungsabruf."
+    },
+    {
+      "id": "S028",
+      "title": "How the EU adopts and reviews sanctions",
+      "url": "https://www.consilium.europa.eu/en/policies/sanctions-adoption-review-procedure/",
+      "details": "Rat der Europäischen Union; letzter ausgewiesener Prüfstand 14.10.2026, damit vor der Veröffentlichung der Folge.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Codex öffnete und las die Abschnitte zu Ratsbeschluss, Verordnung, Mitteilung, Überprüfung und Nichtigkeitsklage vor dem Gericht der Europäischen Union. Allgemeines Verfahren; kein Beweis für die Rechtmäßigkeit einer individuellen Listung."
+    },
+    {
+      "id": "S029",
+      "title": "The Yalta Conference, 1945",
+      "url": "https://history.state.gov/milestones/1937-1945/yalta-conf",
+      "details": "US Department of State, Office of the Historian; historische Darstellung, inzwischen als nicht weiter gepflegt gekennzeichnet.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Codex öffnete und las den Text: Konferenz vom 4.–11.02.1945 während des Zweiten Weltkriegs, mit Roosevelt, Churchill und Stalin."
+    },
+    {
+      "id": "S030",
+      "title": "Parlamentsbericht zur Schlussberatung der Nachrichtendienstreform",
+      "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=1043",
+      "details": "Deutscher Bundestag, 13.11.2026. Seitenkopf: erster Änderungsantrag der Grünen; Abschnitt Debatte: Schlussberatung und Parteienpositionen.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Codex las den Debattenabschnitt einschließlich der getrennten Position der Grünen zu BND und BfV sowie ihrer Kritik an einzelnen Eingriffen. Die Abstimmungszahl im Seitenkopf gehört zum Änderungsantrag; Schlussabstimmung separat mit S026 abgeglichen."
+    },
+    {
+      "id": "S031",
+      "title": "Ausschuss verabschiedet Reform des Nachrichtendienstrechts",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1232798",
+      "details": "Deutscher Bundestag, Parlamentsnachrichten, 11.11.2026, hib 922/2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Codex öffnete und las die Erläuterungen zu begrenzten aktiven Maßnahmen, Hackerinfrastruktur, fehlerhaften Bauteilen und Kontrollorganisation. Bericht zum Ausschussstand, keine vollständige juristische Endnormprüfung."
     }
   ],
   "speakers": [
@@ -205,13 +269,13 @@
       "id": "SP01",
       "name": "Markus Lanz",
       "videoRole": "Co-Moderator",
-      "identityBasis": "Sprecherbezeichnung im maschinellen Dritttranskript; konkrete Tonstelle nicht selbst überprüft."
+      "identityBasis": "Sprecherbezeichnung im maschinellen Dritttranskript; konkrete Tonstelle nicht selbst überprüft. Codex: Namen, wechselseitige Anreden und Gesprächsrollen im Originalplayer-Transkript plausibilisiert; keine konkrete Stimme bestätigt."
     },
     {
       "id": "SP02",
       "name": "Richard David Precht",
       "videoRole": "Co-Moderator",
-      "identityBasis": "Sprecherbezeichnung im maschinellen Dritttranskript; konkrete Tonstelle nicht selbst überprüft."
+      "identityBasis": "Sprecherbezeichnung im maschinellen Dritttranskript; konkrete Tonstelle nicht selbst überprüft. Codex: Namen, wechselseitige Anreden und Gesprächsrollen im Originalplayer-Transkript plausibilisiert; keine konkrete Stimme bestätigt."
     }
   ],
   "claims": [
@@ -224,12 +288,12 @@
       "description": "Markus Lanz schätzt Chinas nuklearen Sprengkopfbestand im November 2026 auf mehr als 1.000.",
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
-      "reason": "Die SIPRI-Schätzung Anfang 2026 liegt bei etwa 620 Sprengköpfen. Der im öffentlich indexierten Text unter Vorbehalt genannte aktuelle Bestand von mehr als 1.000 ist durch diese maßgebliche Schätzung nicht gedeckt. Der Gesprächspartner sagt seine Zahl ausdrücklich unsicher ('glaube ich'); das ist kein Hinweis auf eine absichtlich falsche Darstellung. Der Originalton wurde nicht gehört.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Nachprüfung mit zeitmarkierten Dritttranskript-Auszügen und Primär-/Fachquellen am 24.11.2026; kein Originalton gehört.",
+      "reason": "Die öffentlich zugänglichen Fachschätzungen von SIPRI und FAS für 2026 nennen rund 620 chinesische Sprengköpfe. FAS trennt dies ausdrücklich von einer US-Projektion von etwa 1.000 für 2030. Die im Originalplayertext als gegenwärtiger Bestand behandelte Zahl über 1.000 widerspricht damit dem damaligen veröffentlichten Schätzstand. Das sind keine geheimdienstlich bestätigten exakten Inventare; ein präziser Novemberbestand ist nicht öffentlich bekannt. Der Vorbehalt im Gespräch und die fehlende Tonkontrolle schließen eine Behauptung absichtlicher Täuschung aus.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Nachprüfung mit zeitmarkierten Dritttranskript-Auszügen und Primär-/Fachquellen am 24.11.2026; kein Originalton gehört. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Nachprüfung 24.11.2026 durch ChatGPT (Kai): Widerlegt; Grundlage und Grenzen im reason erläutert."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Nachprüfung 24.11.2026 durch ChatGPT (Kai): Widerlegt; Grundlage und Grenzen im reason erläutert. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
@@ -239,6 +303,14 @@
         {
           "sourceId": "S013",
           "note": "Nur zeitliche Herkunft und Wortsinngrenzen aus Dritttranskript; kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
+        },
+        {
+          "sourceId": "S025",
+          "note": "Selbst gelesene Fachschätzung und Abgrenzung von aktuellem Bestand und Prognose."
         }
       ],
       "openQuestions": [
@@ -247,38 +319,52 @@
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0001",
-          "startSeconds": 432,
-          "endSeconds": 475,
+          "startSeconds": 452,
+          "endSeconds": 469,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Namenslabel im maschinellen Dritttranskript; keine Originaltonkontrolle.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Engeres Suchfenster aus indexiertem Text, Originalbild und Ton nicht kontrolliert.",
-          "timeBasis": "Sprecherbezeichneter öffentlich indexierter Dritttranskript-Ausschnitt (HappyScribe), Suchfenster; nicht akustisch bestätigt.",
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
           "timeHistory": [
             {
               "startSeconds": 120,
               "endSeconds": 350,
               "precision": "Ungefähr",
               "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert."
+            },
+            {
+              "startSeconds": 432,
+              "endSeconds": 475,
+              "precision": "Ungefähr",
+              "basis": "Sprecherbezeichneter öffentlich indexierter Dritttranskript-Ausschnitt (HappyScribe), Suchfenster; nicht akustisch bestätigt. Frühere Hinweise: Engeres Suchfenster aus indexiertem Text, Originalbild und Ton nicht kontrolliert."
             }
           ]
         }
       ],
       "relations": [],
-      "shortReason": "SIPRI schätzte Anfang 2026 rund 620 chinesische Sprengköpfe; über 1.000 waren zum Gesprächszeitpunkt nicht belegt.",
+      "shortReason": "SIPRI und FAS nennen für 2026 etwa 620 chinesische Sprengköpfe; rund 1.000 sind bei FAS eine Prognose für 2030.",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Wichtige, aber nicht allein tragende quantitative Nebeninformation des Großmachtvergleichs.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Quantitative Stütze des Großmachtvergleichs; 1,5 ist trotz Nebenrolle als zentral genannte Arsenalzahl vertretbar."
+          }
+        ]
       }
     },
     {
@@ -290,36 +376,64 @@
       "description": "Eine persönliche Beziehung des damaligen Nvidia-Chefs Jensen Huang zu Alice Huang und Ermittlungen im Zusammenhang mit möglichen China-Exportverstößen wurden öffentlich berichtet.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "Medienberichte vom 9. November dokumentieren die eingeräumte Beziehung und den Verdacht möglicher Exportverstöße. Die Berichterstattung beweist ausdrücklich keinen strafbaren Geheimnisverrat.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "reason": "Der zeitgenössische ARD-Bericht vom 09.11.2026 beschreibt eine eingeräumte außereheliche Beziehung und Ermittlungen zu möglichen Exportverstößen. Codex las den Bericht einschließlich der Dementis und des Hinweises, dass Nvidia keine Anhaltspunkte für abgeschöpfte Geschäftsgeheimnisse gefunden habe. Belegt ist die öffentliche Berichterstattung zur Beziehung und Verdachtslage; weder die Tätigkeit als Spionin noch ein strafbarer Geheimnisverrat sind damit bewiesen. Spätere Entwicklungen werden nicht rückwirkend zur Bewertung der Folge herangezogen.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
           "sourceId": "S004",
           "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
         }
       ],
       "openQuestions": [],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0002",
-          "startSeconds": 330,
-          "endSeconds": 560,
+          "startSeconds": 479,
+          "endSeconds": 493,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Namenszuordnung im maschinellen Dritttranskript; nicht am Ton kontrolliert.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
-          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": [
+            {
+              "startSeconds": 330,
+              "endSeconds": 560,
+              "precision": "Ungefähr",
+              "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert. Frühere Hinweise: Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln."
+            }
+          ]
+        },
+        {
+          "id": "2YKo9Y53UnI-O0024",
+          "startSeconds": 700,
+          "endSeconds": 716,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Anrede und Gesprächsanschluss im vollständig gelesenen Originalplayer-Transkript; keine Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Inhaltlicher Bezug aus dem zusammenhängenden Text, ohne akustische Kontrolle.",
+          "note": "Originaltranskript gelesen; mögliche Erkennungs- und Sprecherwechselfehler.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
           "timeHistory": []
         }
       ],
@@ -327,10 +441,18 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Wichtiger Ausgangspunkt des Gesprächs über Industriespionage.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Der öffentlich berichtete Verdachtskomplex leitet die längere Spionagedebatte ein; erhöhte Bedeutung 1,5 vertretbar, keine Bestätigung der Verdachtsvorwürfe."
+          }
+        ]
       }
     },
     {
@@ -342,34 +464,46 @@
       "description": "Der mutmaßliche Nvidia-Spionagefall beweise bereits, dass Jensen Huang Geschäftsgeheimnisse an den chinesischen Staat verraten habe.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – es muss am Originalton geklärt werden, ob diese starke Behauptung tatsächlich erhoben oder gerade ausdrücklich infrage gestellt wurde; die zugängliche Abschrift betont offene Fragen.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "reason": "Noch nicht geprüft – die kategorische Formulierung ist eine ungesicherte Prüfhypothese des Erststands. Der vollständig gelesene Originalplayertext enthält in 08:29–09:19 vielmehr Zweifel an Art und Nachweis einer Geheimnisweitergabe. Codex findet dort keine tragfähige Grundlage, diese starke Behauptung einem Sprecher als eigene gesicherte Feststellung anzurechnen. Für die endgültige redaktionelle Bereinigung sind Ton und mögliche andere Vorkommen zu kontrollieren; kein Fehlerpunkt des Podcasts.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt. HP-C0003: Unbegründet plausibler eigener Aussagebezug zurückgenommen; Status Offen bleibt erhalten, kein Sachurteil vergeben."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
+        }
+      ],
       "openQuestions": [
-        "Originalton abgleichen; keinen bewiesenen Geheimnisverrat aus einem Verdacht ableiten."
+        "Originalton 08:29–09:19 und gegebenenfalls weitere Vorkommen prüfen; anschließend den ungesicherten Prüfkandidaten mit erhaltener ID-Historie redaktionell bereinigen."
       ],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0003",
-          "startSeconds": 450,
-          "endSeconds": 590,
+          "startSeconds": 509,
+          "endSeconds": 559,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": null,
           "attributionStatus": "Ungeklärt",
-          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
-          "role": "Behauptung",
-          "roleStatus": "Plausibel",
-          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
-          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
-          "timeHistory": []
+          "role": "Fremdbezug",
+          "roleStatus": "Ungeklärt",
+          "roleBasis": "Die kategorische Erstparaphrase ist nicht als eigene Behauptung nachgewiesen; der Bezug bleibt ausdrücklich ungeklärt.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": [
+            {
+              "startSeconds": 450,
+              "endSeconds": 590,
+              "precision": "Ungefähr",
+              "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert. Frühere Hinweise: Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln."
+            }
+          ]
         }
       ],
       "relations": []
@@ -383,12 +517,12 @@
       "description": "Markus Lanz berichtet über den Anthropic-Börsengang im November 2026 mit einer Marktbewertung von ungefähr 1,4 bis 1,5 Billionen US-Dollar.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "Anthropic bestätigte die IPO-Preisfestsetzung am 18. November zu 83 US-Dollar je Aktie und den Handelsbeginn am 19. November 2026; AP bezifferte die beim Börsengang angesetzte Bewertung auf etwa 1,5 Billionen US-Dollar. Die Sprecherformulierung, Anthropic sei über Nacht so viel wert gewesen, ist damit in der Größenordnung zutreffend. Marktwert ist nicht identisch mit IPO-Erlös oder Gewinn.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Nachprüfung mit zeitmarkierten Dritttranskript-Auszügen und Primär-/Fachquellen am 24.11.2026; kein Originalton gehört.",
+      "reason": "Anthropics Originalmitteilung vom 18.11.2026 nennt 83 US-Dollar je Aktie und den geplanten Handelsbeginn am 19.11.2026. Der von Codex gelesene Reuters-Bericht nennt eine Bewertung von rund 1,5 Billionen US-Dollar auf vollständig verwässerter Basis und rund 1,1 Billionen ohne diese Verwässerung. Die im Gespräch genannte Größenordnung ist für die erstgenannte Bewertungsbasis belegt. IPO-Erlös, Börsenwert, Umsatz und Gewinn sind unterschiedliche Größen; die daneben geäußerte Aussage zur bisherigen Ertragslage ist hier noch nicht gesondert geprüft. Die frühere Begründung nannte irrtümlich AP; tatsächlich zugeordnet ist Reuters S016.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Nachprüfung mit zeitmarkierten Dritttranskript-Auszügen und Primär-/Fachquellen am 24.11.2026; kein Originalton gehört. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Nachprüfung 24.11.2026 durch ChatGPT (Kai): Belegt; Grundlage und Grenzen im reason erläutert."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Nachprüfung 24.11.2026 durch ChatGPT (Kai): Belegt; Grundlage und Grenzen im reason erläutert. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
@@ -406,31 +540,41 @@
         {
           "sourceId": "S016",
           "note": "Sachquelle für abgegrenzten überprüfbaren Tatsachenkern; Sprecher-/Wortlautbeleg ist Dritttranskript."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
         }
       ],
       "openQuestions": [],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0004",
-          "startSeconds": 564,
-          "endSeconds": 633,
+          "startSeconds": 592,
+          "endSeconds": 619,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Namenslabel im maschinellen Dritttranskript; keine Originaltonkontrolle.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Engeres Suchfenster aus indexiertem Text, Originalbild und Ton nicht kontrolliert.",
-          "timeBasis": "Sprecherbezeichneter öffentlich indexierter Dritttranskript-Ausschnitt (HappyScribe), Suchfenster; nicht akustisch bestätigt.",
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
           "timeHistory": [
             {
               "startSeconds": 550,
               "endSeconds": 670,
               "precision": "Ungefähr",
               "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert."
+            },
+            {
+              "startSeconds": 564,
+              "endSeconds": 633,
+              "precision": "Ungefähr",
+              "basis": "Sprecherbezeichneter öffentlich indexierter Dritttranskript-Ausschnitt (HappyScribe), Suchfenster; nicht akustisch bestätigt. Frühere Hinweise: Engeres Suchfenster aus indexiertem Text, Originalbild und Ton nicht kontrolliert."
             }
           ]
         }
@@ -439,10 +583,18 @@
       "factIndex": {
         "weight": 1.25,
         "weightReason": "Größenordnung illustriert wirtschaftliche Bedeutung von KI, ist aber nicht die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Konkrete Größe im KI-Wirtschaftsexkurs, aber keine Hauptthese zur Nachrichtendienstreform; die moderate Erhöhung 1,25 ist vertretbar."
+          }
+        ]
       }
     },
     {
@@ -454,12 +606,12 @@
       "description": "Zwischen 2010 und 2015 wurden Volkswagen durch einen Cyberangriff rund 19.000 vertrauliche Dateien entwendet.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "ZDF/Spiegel-Recherchen, von Heise und Deutschlandfunk wiedergegeben, berichten von ungefähr 19.000 Dateien. Rund 20.000 wäre eine zulässige Rundung; die staatliche Täterschaft ist nicht abschließend bewiesen.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "reason": "Der von Codex gelesene Heise-Bericht vom 20.04.2024 referiert die gemeinsame Recherche von ZDF und Spiegel über etwa 19.000 entwendete Dateien zwischen 2010 und 2015. VW bestätigte den zurückliegenden Vorfall. Die im Originalplayertext erkennbare Rundung auf etwa 20.000 ist mit dieser Größenordnung vereinbar; die automatisch erkannte Zahlenfolge ist ohne Ton nicht genauer aufzulösen. Eine Täterschaft chinesischer Staatsstellen bleibt eine aus Indizien abgeleitete Zuschreibung; die chinesische Botschaft wies sie zurück.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
@@ -469,36 +621,55 @@
         {
           "sourceId": "S012",
           "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
         }
       ],
       "openQuestions": [],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0005",
-          "startSeconds": 830,
-          "endSeconds": 1180,
+          "startSeconds": 897,
+          "endSeconds": 922,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": null,
           "attributionStatus": "Ungeklärt",
-          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
-          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
-          "timeHistory": []
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": [
+            {
+              "startSeconds": 830,
+              "endSeconds": 1180,
+              "precision": "Ungefähr",
+              "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert. Frühere Hinweise: Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln."
+            }
+          ]
         }
       ],
       "relations": [],
       "factIndex": {
         "weight": 1.25,
         "weightReason": "Konkretes Beispiel aus dem ausführlichen Wirtschaftsspionageblock.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Konkretes älteres Fallbeispiel für Wirtschaftsspionage; gegenüber den Hauptargumenten nur moderat erhöhte Bedeutung 1,25."
+          }
+        ]
       }
     },
     {
@@ -510,12 +681,12 @@
       "description": "Die Wirtschaftsschutzstudie 2026 schätzt den jährlichen deutschen Schaden durch Datendiebstahl, Spionage und Sabotage auf mehr als 200 Milliarden Euro.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "Bitkom beziffert den hochgerechneten Korridor auf 211,0 bis 270,8 Milliarden Euro. Es ist eine Schätzung mit methodisch unterschiedlichen sicheren und vermuteten Fällen, keine nachgewiesene Gesamtsumme.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "reason": "Bitkom nennt für die vorausgegangenen zwölf Monate einen hochgerechneten Schadenskorridor von 211 bis 270,8 Milliarden Euro. Das stützt die Größenordnung über 200 Milliarden. Es handelt sich um die Verbandsauswertung einer Befragung von 1.003 Unternehmen ab zehn Beschäftigten einschließlich Unsicherheiten und vermuteter Fälle. Kein amtlich ausgezählter Gesamtschaden und keine ausschließliche Summe staatlicher Spionage; Datendiebstahl und Sabotage durch andere Tätergruppen sind eingeschlossen. Das im Gespräch angesprochene letzte Jahr ist nicht ohne Weiteres das Kalenderjahr 2025.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
@@ -525,36 +696,55 @@
         {
           "sourceId": "S008",
           "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
         }
       ],
       "openQuestions": [],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0006",
-          "startSeconds": 1000,
-          "endSeconds": 1320,
+          "startSeconds": 935,
+          "endSeconds": 951,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": null,
           "attributionStatus": "Ungeklärt",
-          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
-          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
-          "timeHistory": []
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": [
+            {
+              "startSeconds": 1000,
+              "endSeconds": 1320,
+              "precision": "Ungefähr",
+              "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert. Frühere Hinweise: Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln."
+            }
+          ]
         }
       ],
       "relations": [],
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Zentrale Größenordnung für die wirtschaftspolitische Einordnung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Die Schadensgröße begründet das Sicherheitsproblem im wirtschaftlichen Teil; 1,5 entspricht dieser tragenden Funktion."
+          }
+        ]
       }
     },
     {
@@ -566,12 +756,12 @@
       "description": "Markus Lanz nennt im Zusammenhang mit der Bitkom-Studie 2026 eine Betroffenheitsquote von 96 Prozent der befragten Unternehmen, ohne unmittelbar zwischen sicher und nur vermutlich betroffenen Betrieben zu unterscheiden.",
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
-      "reason": "Der Wert von 96 Prozent entspricht der Bitkom-Studie, umfasst aber ausdrücklich 67 Prozent nach eigener Angabe sicher von Angriffen betroffene und weitere 29 Prozent nur vermutlich betroffene Unternehmen. Im zeitmarkierten Dritttranskript nennt Lanz die Gesamtquote ohne diesen Unterschied. Der unkommentierte Zahlengebrauch kann eine höhere Beweissicherheit suggerieren; die gesamte Gesprächspassage und mögliche spätere Erläuterungen wurden nicht am Originalton geprüft.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Gezielt mit Bitkom-Primärquelle vom 26.08.2026 und zeitmarkierter Dritttranskript-Fundstelle um 15:38 abgeglichen (Kai, 24.11.2026); kein Originalton gehört.",
+      "reason": "Bitkom unterscheidet 67 Prozent nach eigener Angabe sicher betroffene und 29 Prozent vermutlich betroffene Unternehmen. Zusammen sind das 96 Prozent; die befragte Gruppe umfasst Unternehmen ab zehn Beschäftigten. Im vollständig gelesenen Originalplayertext folgt auf den Schadenskorridor die Gesamtquote ohne diese Differenzierung. Damit fehlt unmittelbar ein relevanter Unsicherheitskontext. Auch die 67 Prozent sind Befragungsangaben, keine unabhängig forensisch bestätigte Fallzählung; weitere Erläuterungen wurden im übrigen angezeigten Transkript nicht gefunden. Kein Originalton gehört.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Gezielt mit Bitkom-Primärquelle vom 26.08.2026 und zeitmarkierter Dritttranskript-Fundstelle um 15:38 abgeglichen (Kai, 24.11.2026); kein Originalton gehört. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Ergänzende Quellenprüfung 24.11.2026 durch ChatGPT/Kai: Offen zu Irreführend / Kontext fehlt; exakte statistische Unterscheidung hinzugefügt."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Ergänzende Quellenprüfung 24.11.2026 durch ChatGPT/Kai: Offen zu Irreführend / Kontext fehlt; exakte statistische Unterscheidung hinzugefügt. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
@@ -581,6 +771,10 @@
         {
           "sourceId": "S013",
           "note": "Ungefährer Wortsinngrenzen- und Zeitbezug aus maschinellem Fremdtranskript; keine unabhängige Sachquelle."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
         }
       ],
       "openQuestions": [
@@ -589,38 +783,52 @@
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0007",
-          "startSeconds": 930,
-          "endSeconds": 962,
+          "startSeconds": 951,
+          "endSeconds": 955,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Markus-Lanz-Sprecherlabel im maschinellen Dritttranskript bei etwa 15:34–16:02; Stimme nicht eigenständig identifiziert.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Das alte breite Suchfenster bleibt in timeHistory. Neues ungefähres Textfenster; kein Originaltonabgleich.",
-          "timeBasis": "Dritttranskript mit Zeitmarke ca. 15:34–16:02, nicht am Originalplayer nachgehört.",
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
           "timeHistory": [
             {
               "startSeconds": 1050,
               "endSeconds": 1340,
               "precision": "Ungefähr",
               "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert."
+            },
+            {
+              "startSeconds": 930,
+              "endSeconds": 962,
+              "precision": "Ungefähr",
+              "basis": "Dritttranskript mit Zeitmarke ca. 15:34–16:02, nicht am Originalplayer nachgehört. Frühere Hinweise: Das alte breite Suchfenster bleibt in timeHistory. Neues ungefähres Textfenster; kein Originaltonabgleich."
             }
           ]
         }
       ],
       "relations": [],
-      "shortReason": "Die 96 Prozent umfassen 67 Prozent sicher und 29 Prozent nur vermutlich betroffene Unternehmen.",
+      "shortReason": "Die 96 Prozent umfassen 67 Prozent nach eigener Angabe sicher betroffene und 29 Prozent nur vermutlich betroffene Unternehmen.",
       "factIndex": {
         "weight": 1.25,
         "weightReason": "Relevante Zahl zur Größenordnung der Bedrohung deutscher Unternehmen; ohne Steuerung der Ampel bestimmt.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Unsicherheitskontext einer zentralen Statistik, aber engere Unterfrage als die gesamte Schadensdimension; 1,25 vertretbar."
+          }
+        ]
       }
     },
     {
@@ -632,47 +840,74 @@
       "description": "Der Bundestag beschloss am 13. November 2026 eine umfangreiche Reform der Nachrichtendienste.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "Der Bundestag dokumentiert den Beschluss vom 13. November 2026 mit 308 Ja-Stimmen, 190 Nein-Stimmen und 71 Enthaltungen. Beschluss und Zeitpunkt des tatsächlichen Inkrafttretens sind unterschiedliche Fragen.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "reason": "Das von Codex gelesene amtliche Sitzungsprotokoll dokumentiert den Bundestagsbeschluss vom 13.11.2026 mit 308 Ja-Stimmen, 190 Nein-Stimmen und 71 Enthaltungen. Das trägt den eng gefassten Prüfgegenstand zum Parlamentsbeschluss. Verabschiedung ist vom Inkrafttreten zu trennen: Die Regierungs-FAQ nennt dafür erst den 31.12.2026 als geplanten Termin. Eine Verkündung und sämtliche Übergangsvorschriften wurden nicht eigenständig geprüft; siehe A0018.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
           "sourceId": "S009",
           "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
+        },
+        {
+          "sourceId": "S026",
+          "note": "Amtliches Sitzungsprotokoll selbst gelesen; Beschluss und Stimmenzahl."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Gesonderter zeitlicher Kontext: geplanter Beginn erst am 31.12.2026."
         }
       ],
       "openQuestions": [],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0008",
-          "startSeconds": 1260,
-          "endSeconds": 1450,
+          "startSeconds": 1246,
+          "endSeconds": 1304,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": null,
           "attributionStatus": "Ungeklärt",
-          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
-          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
-          "timeHistory": []
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": [
+            {
+              "startSeconds": 1260,
+              "endSeconds": 1450,
+              "precision": "Ungefähr",
+              "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert. Frühere Hinweise: Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln."
+            }
+          ]
         }
       ],
       "relations": [],
       "factIndex": {
         "weight": 2,
         "weightReason": "Zentraler tatsächlicher Anlass der politischen Diskussion.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Die jüngst beschlossene Reform ist der zentrale Anlass der langen Bürgerrechtsdebatte; 2,0 ist sachlich begründet."
+          }
+        ]
       }
     },
     {
@@ -684,36 +919,72 @@
       "description": "Die Reform sieht unter Voraussetzungen operative Eingriffe gegen fremde Hackerinfrastruktur vor, etwa die Abschaltung eines Servers.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "Der Bundestag nennt ausdrücklich das Beispiel, dass der BND in bestimmten Situationen einen Server einer staatlichen Hackergruppe abschalten darf. Daraus folgt keine allgemeine unbeschränkte Sabotageerlaubnis.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "reason": "Ausschussbericht und Regierungs-FAQ beschreiben begrenzte aktive Maßnahmen gegen staatliche Hackerinfrastruktur, darunter das Abschalten von Servern. Codex las diese konkreten Beispiele und die genannten Gefahrenschwellen. Das belegt den Inhalt der beschlossenen Reform, nicht eine allgemeine Sabotagevollmacht oder bereits am Videodatum geltende neue Befugnisse. Im Originalplayertext werden Beispiele aus Zukunftsplanungen genannt; endgültige Normen und Übergangsrecht bleiben weiter abzugleichen.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
           "sourceId": "S009",
           "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
+        },
+        {
+          "sourceId": "S031",
+          "note": "Konkrete Beispiele und Bedingungen im Ausschussbericht selbst gelesen."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Reichweite und zeitliche Planung der Reform; Regierungserläuterung, keine eigene gerichtliche Rechtsauslegung."
         }
       ],
       "openQuestions": [],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0009",
-          "startSeconds": 1390,
-          "endSeconds": 1500,
+          "startSeconds": 1326,
+          "endSeconds": 1352,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Namenszuordnung im maschinellen Dritttranskript; nicht am Ton kontrolliert.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
-          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": [
+            {
+              "startSeconds": 1390,
+              "endSeconds": 1500,
+              "precision": "Ungefähr",
+              "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert. Frühere Hinweise: Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln."
+            }
+          ]
+        },
+        {
+          "id": "2YKo9Y53UnI-O0023",
+          "startSeconds": 1403,
+          "endSeconds": 1437,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Anrede und Gesprächsanschluss im vollständig gelesenen Originalplayer-Transkript; keine Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Inhaltlicher Bezug aus dem zusammenhängenden Text, ohne akustische Kontrolle.",
+          "note": "Originaltranskript gelesen; mögliche Erkennungs- und Sprecherwechselfehler.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
           "timeHistory": []
         }
       ],
@@ -721,10 +992,18 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Eine der wichtigsten neuen Befugnisse als Kerngegenstand der Folge.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Operative Eingriffe bilden den Kern der diskutierten Rechtsänderung; 2,0 ist unabhängig von ihrer Bewertung angemessen."
+          }
+        ]
       }
     },
     {
@@ -736,12 +1015,12 @@
       "description": "Richard David Precht stellt die Behauptung auf, die Nachrichtendienste entschieden bei Überwachung eigenständig über ihre Eingriffe und die maßgeblichen Verdachtsgrenzen.",
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
-      "reason": "Der erkennbare Kern betrifft tatsächliche neue Befugnisse und Entscheidungsräume. Eine Darstellung der Befugnisse als allein durch die Dienste selbst kontrolliert verschweigt jedoch den Unabhängigen Kontrollrat: Nach Regierungsangaben sind besonders intensive Eingriffe vorab genehmigungspflichtig und kontrollierbar; zusätzlich bestehen parlamentarische Kontrollmechanismen. Offen bleibt die rechtliche Bewertung ihrer praktischen Wirksamkeit. Der Ton wurde nicht kontrolliert.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Nachprüfung mit zeitmarkierten Dritttranskript-Auszügen und Primär-/Fachquellen am 24.11.2026; kein Originalton gehört.",
+      "reason": "Die Dienste haben operative Entscheidungsräume, setzen aber die rechtlichen Eingriffsschwellen nicht selbst. Regierungs-FAQ und Ausschussbericht nennen gesetzliche Voraussetzungen und unabhängige Vorabkontrolle besonders intensiver Maßnahmen. Wichtig für die faire Zuordnung: Im unmittelbar anschließenden Originalplayertext 25:11–25:47 widerspricht der andere Moderator der Vorstellung freier Eingriffsmacht und verweist auf externe Genehmigung und hohe Hürden; A0021 erfasst diese Gegenposition. Das Urteil betrifft die isolierte Verallgemeinerung, nicht eine übereinstimmende Schlussposition beider Moderatoren. Praktische Kontrollwirksamkeit und genaue Endnormen sind hier nicht abschließend bewertet.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Nachprüfung mit zeitmarkierten Dritttranskript-Auszügen und Primär-/Fachquellen am 24.11.2026; kein Originalton gehört. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Nachprüfung 24.11.2026 durch ChatGPT (Kai): Irreführend / Kontext fehlt; Grundlage und Grenzen im reason erläutert."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Nachprüfung 24.11.2026 durch ChatGPT (Kai): Irreführend / Kontext fehlt; Grundlage und Grenzen im reason erläutert. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
@@ -751,6 +1030,14 @@
         {
           "sourceId": "S017",
           "note": "Sachquelle für abgegrenzten überprüfbaren Tatsachenkern; Sprecher-/Wortlautbeleg ist Dritttranskript."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
+        },
+        {
+          "sourceId": "S031",
+          "note": "Kontrollorganisation im selbst gelesenen Ausschussbericht."
         }
       ],
       "openQuestions": [
@@ -760,38 +1047,75 @@
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0010",
-          "startSeconds": 1476,
-          "endSeconds": 1535,
+          "startSeconds": 1472,
+          "endSeconds": 1511,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP02",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Namenslabel im maschinellen Dritttranskript; keine Originaltonkontrolle.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Engeres Suchfenster aus indexiertem Text, Originalbild und Ton nicht kontrolliert.",
-          "timeBasis": "Sprecherbezeichneter öffentlich indexierter Dritttranskript-Ausschnitt (HappyScribe), Suchfenster; nicht akustisch bestätigt.",
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
           "timeHistory": [
             {
               "startSeconds": 1460,
               "endSeconds": 1590,
               "precision": "Ungefähr",
               "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert."
+            },
+            {
+              "startSeconds": 1476,
+              "endSeconds": 1535,
+              "precision": "Ungefähr",
+              "basis": "Sprecherbezeichneter öffentlich indexierter Dritttranskript-Ausschnitt (HappyScribe), Suchfenster; nicht akustisch bestätigt. Frühere Hinweise: Engeres Suchfenster aus indexiertem Text, Originalbild und Ton nicht kontrolliert."
             }
           ]
+        },
+        {
+          "id": "2YKo9Y53UnI-O0022",
+          "startSeconds": 1395,
+          "endSeconds": 1403,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Anrede und Gesprächsanschluss im vollständig gelesenen Originalplayer-Transkript; keine Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Inhaltlicher Bezug aus dem zusammenhängenden Text, ohne akustische Kontrolle.",
+          "note": "Originaltranskript gelesen; mögliche Erkennungs- und Sprecherwechselfehler.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": []
         }
       ],
-      "relations": [],
-      "shortReason": "Die Dienste entscheiden nicht völlig allein: Der Unabhängige Kontrollrat prüft besonders intensive Maßnahmen vorab.",
+      "relations": [
+        {
+          "type": "widerspricht",
+          "claimId": "2YKo9Y53UnI-A0021",
+          "note": "Die unmittelbar anschließende Gegenrede von Lanz bleibt als eigener Prüfgegenstand sichtbar."
+        }
+      ],
+      "shortReason": "Gesetzliche Schwellen und unabhängige Kontrolle begrenzen die Dienste; Lanz weist im Gespräch selbst auf solche Hürden hin.",
       "factIndex": {
         "weight": 1.75,
         "weightReason": "Zentraler, für die Einschätzung der Grundrechtsgefahr relevanter rechtlicher Punkt.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Kontrolle ist eine tragende Rechtsstaatsfrage, die im Gespräch kontrovers behandelt wird; 1,75 ist auch unter Berücksichtigung der Gegenrede vertretbar."
+          }
+        ]
       }
     },
     {
@@ -803,12 +1127,12 @@
       "description": "Markus Lanz beschreibt die Möglichkeit einer nachrichtendienstlichen Überwachung von Gesprächen in Psychotherapiepraxen als Folge der Reform.",
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
-      "reason": "Die Sorge ist nicht frei erfunden: Im Bundesverfassungsschutzrecht bestehen nach der Reform laut Fachverbänden weiterhin Schutzlücken. Für den BND wurde jedoch im Gesetzgebungsverfahren der Schutz der Heilberufe ausdrücklich ergänzt, einschließlich besonderer Kontrolle. Die pauschale Formulierung, dass die Dienste künftig Therapiesitzungen abhören könnten, lässt diese Unterscheidung und strenge Schutzvorgaben offen. Weitere Prüfung der tatsächlich verabschiedeten Normen bleibt notwendig; Originalton nicht gehört.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Nachprüfung mit zeitmarkierten Dritttranskript-Auszügen und Primär-/Fachquellen am 24.11.2026; kein Originalton gehört.",
+      "reason": "Die gelesene Mitteilung der Psychotherapeutenkammer Berlin vom 13.11.2026 unterscheidet ausdrücklich: Im BND-Gesetz wurde der Schutz der Psychotherapie ergänzt; beim Bundesverfassungsschutz blieb nach Kammerkritik nur relativer Schutz. Auch die Regierungs-FAQ beschreibt die Nachbesserung beim BND und unabhängige Kontrolle. Eine allgemeine Freigabe aller Therapiesitzungen folgt daraus nicht. Die Sorge um verbleibende Schutzlücken hat somit einen dokumentierten Kern, braucht aber die Unterscheidung der Dienste, des geschützten Privatheitskernbereichs und des geplanten Inkrafttretens. Kein vollständiger Abgleich mit Endgesetz und Übergangsrecht.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Nachprüfung mit zeitmarkierten Dritttranskript-Auszügen und Primär-/Fachquellen am 24.11.2026; kein Originalton gehört. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Nachprüfung 24.11.2026 durch ChatGPT (Kai): Teilweise belegt; Grundlage und Grenzen im reason erläutert."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Nachprüfung 24.11.2026 durch ChatGPT (Kai): Teilweise belegt; Grundlage und Grenzen im reason erläutert. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
@@ -822,6 +1146,10 @@
         {
           "sourceId": "S019",
           "note": "Sachquelle für abgegrenzten überprüfbaren Tatsachenkern; Sprecher-/Wortlautbeleg ist Dritttranskript."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
         }
       ],
       "openQuestions": [
@@ -831,38 +1159,52 @@
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0011",
-          "startSeconds": 1673,
-          "endSeconds": 1770,
+          "startSeconds": 1670,
+          "endSeconds": 1696,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Namenslabel im maschinellen Dritttranskript; keine Originaltonkontrolle.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Engeres Suchfenster aus indexiertem Text, Originalbild und Ton nicht kontrolliert.",
-          "timeBasis": "Sprecherbezeichneter öffentlich indexierter Dritttranskript-Ausschnitt (HappyScribe), Suchfenster; nicht akustisch bestätigt.",
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
           "timeHistory": [
             {
               "startSeconds": 1650,
               "endSeconds": 1780,
               "precision": "Ungefähr",
               "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert."
+            },
+            {
+              "startSeconds": 1673,
+              "endSeconds": 1770,
+              "precision": "Ungefähr",
+              "basis": "Sprecherbezeichneter öffentlich indexierter Dritttranskript-Ausschnitt (HappyScribe), Suchfenster; nicht akustisch bestätigt. Frühere Hinweise: Engeres Suchfenster aus indexiertem Text, Originalbild und Ton nicht kontrolliert."
             }
           ]
         }
       ],
       "relations": [],
-      "shortReason": "Schutzlücken beim Verfassungsschutz sind dokumentiert; beim BND wurde der Schutz psychotherapeutischer Gespräche nachgebessert.",
+      "shortReason": "Beim BND wurde der Therapieschutz ergänzt; beim Verfassungsschutz kritisiert die Kammer verbleibende Lücken und fordert Nachbesserung.",
       "factIndex": {
         "weight": 2,
         "weightReason": "Zentrales konkretes Grundrechtsthema in der Folge.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Therapeutische Vertraulichkeit ist ein herausgehobenes konkretes Beispiel der Grundrechtsdebatte; 2,0 angemessen, unabhängig vom gemischten Sachbefund."
+          }
+        ]
       }
     },
     {
@@ -874,47 +1216,70 @@
       "description": "Der Bundesgerichtshof beanstandete im Oktober 2026 die verweigerte gerichtliche Zustellung im Zusammenhang mit Alischer Usmanows Verfahren gegen den EU-Rat.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "Die Bundestagsdrucksache nennt die BGH-Entscheidung vom 21. Oktober 2026. Sie betrifft die rechtswidrige Zustellungsverweigerung und entscheidet nicht abschließend über die Klage selbst.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "reason": "Die von Codex gelesenen öffentlich sichtbaren BGH-Gründe IV AR (VZ) 2/25 vom 21.10.2026 bestätigen den engen Verfahrenskern: Die Rechtsbeschwerde gegen die Ablehnung der Zustellung einer gegen den EU-Rat gerichteten Unterlassungsklage hatte insoweit Erfolg. Das entscheidet weder die Unterlassungsklage selbst noch die materielle Rechtmäßigkeit sämtlicher Sanktionen. Die zunächst allein zugeordnete Drucksache S011 ist eine Kleine Anfrage der AfD mit referierter Presseberichterstattung, keine Regierungsantwort oder gerichtliche Feststellung. Die Datierung und das Ergebnis werden deshalb zusätzlich mit der veröffentlichten Gerichtsbegründung S027 abgesichert; deren öffentlich sichtbarer Teil endet bei Randnummer 8.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
           "sourceId": "S011",
-          "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+          "note": "Nur parlamentarische Darstellung durch die Fragesteller; keine eigenständige gerichtliche Bestätigung. Zum engen Beschlussergebnis zusätzlich S027."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
+        },
+        {
+          "sourceId": "S027",
+          "note": "Entscheidungskopf und Gründe Rn. 1–8 selbst gelesen, begrenzter Zugriff."
         }
       ],
       "openQuestions": [],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0012",
-          "startSeconds": 2040,
-          "endSeconds": 2640,
+          "startSeconds": 2817,
+          "endSeconds": 2834,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": null,
           "attributionStatus": "Ungeklärt",
-          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
-          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
-          "timeHistory": []
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": [
+            {
+              "startSeconds": 2040,
+              "endSeconds": 2640,
+              "precision": "Ungefähr",
+              "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert. Frühere Hinweise: Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln."
+            }
+          ]
         }
       ],
       "relations": [],
       "factIndex": {
         "weight": 1.25,
         "weightReason": "Wichtiger rechtsstaatlicher Fall aus dem Schlussteil des Gesprächs.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Einzelner gerichtlicher Verfahrenskern im umfassenderen Rechtsstaatsbeispiel; moderate Erhöhung 1,25 vertretbar."
+          }
+        ]
       }
     },
     {
@@ -926,40 +1291,51 @@
       "description": "Alischer Usmanow stand zum Veröffentlichungszeitpunkt der Folge weiterhin auf derselben EU-Sanktionsliste.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – der konkrete Tatsachenkern ist mit den angegebenen externen Quellen abgleichbar, doch Wortlaut, zeitlicher Bezug und Zurechnung im Podcast müssen erst am Originalplayer bestätigt werden. Die bisher recherchierte Korrektur ist vorläufig nur ein Prüfhintergrund.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "reason": "Noch nicht geprüft – die Fortdauer der Listung ist im Originalplayertext an dieser Stelle keine eindeutig ausgesprochene eigene Behauptung. Dort wird eine frühere Aufnahme und anschließend ein Unterlassungs- und Zustellungsverfahren geschildert. Beides beweist keine Listung am Veröffentlichungstag. Der Erststand enthält damit eine nicht abgesicherte Prüfhypothese; sie bleibt bis zur abschließenden Ton- und Kontextkontrolle offen und wird dem Video nicht als eigener Fehler zugerechnet. Die in S011 behauptete zwischenzeitliche Streichung ist eine weitere, davon getrennte Rechtsaktprüfung.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt. HP-C0003: Unbegründet plausibler eigener Aussagebezug zurückgenommen; kein Sachurteil geändert."
       },
       "sourceRefs": [
         {
           "sourceId": "S011",
-          "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+          "note": "Darstellung der Fragesteller in einer Kleinen Anfrage; kein Beleg für den aktuellen Listenstatus oder eine entsprechende Videoaussage."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
         }
       ],
       "openQuestions": [
-        "Originalaussage und genau gemeinte Liste im Kontext prüfen.",
-        "Exakten Wortlaut und Sprecher am YouTube-Original prüfen; prüfen, ob der Podcast diese Behauptung tatsächlich aufstellt."
+        "Ton und Kontext 43:13–45:30 abschließend kontrollieren; den Präsens-Prüfkandidaten nur bei tatsächlichem eigenem Vorkommen anrechnen.",
+        "Für den davon getrennten historischen Listenstatus den einschlägigen EU-Rechtsakt und dessen Datum prüfen."
       ],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0013",
-          "startSeconds": 2040,
-          "endSeconds": 2640,
+          "startSeconds": 2593,
+          "endSeconds": 2625,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": null,
           "attributionStatus": "Ungeklärt",
-          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
-          "role": "Behauptung",
-          "roleStatus": "Plausibel",
-          "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
-          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
-          "timeHistory": []
+          "role": "Fremdbezug",
+          "roleStatus": "Ungeklärt",
+          "roleBasis": "Aus der Schilderung vergangener Listung ergibt sich keine bestätigte eigene Aussage über Fortdauer; bislang nur redaktioneller Prüfkandidat.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": [
+            {
+              "startSeconds": 2040,
+              "endSeconds": 2640,
+              "precision": "Ungefähr",
+              "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert. Frühere Hinweise: Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln."
+            }
+          ]
         }
       ],
       "relations": []
@@ -973,12 +1349,12 @@
       "description": "Bei den niedersächsischen Kommunalwahlen im September 2026 waren mehrere AfD-Bewerber für kommunale Spitzenämter, darunter Martin Sichert und Justin Vogel, von den jeweiligen Wahlausschüssen nicht zugelassen worden.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "Vier AfD-Bewerber für Landrats- bzw. Bürgermeisterwahlen waren ausgeschlossen; der NDR dokumentiert sie namentlich und außerdem einen ausgeschlossenen parteilosen Bewerber. Die Absagen betrafen einzelne Direktwahlen, nicht alle AfD-Kandidaturen oder die Partei insgesamt.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026. Sprecher und grober Zeitpunkt aus zeitmarkiertem, maschinellem Dritttranskript; Sachabgleich mit den benannten amtlichen bzw. journalistischen Originalquellen. Kein eigener Originalton- oder Bildabgleich.",
+      "reason": "NDR benennt vier nicht zugelassene AfD-Bewerber, darunter Martin Sichert für Friesland und Justin Vogel für Herzberg. Das OVG bestätigt Eilbeschwerden zu Friesland, Lüneburg und Herzberg. Damit sind die im Gespräch beschriebenen Nichtzulassungen als Vorgänge belegt. Die amtliche OVG-Mitteilung erklärt ausdrücklich, dass ihre Eilentscheidungen keine Aussage über die materielle Rechtmäßigkeit der Nichtzulassungen treffen. Keine Gleichsetzung mit Parteiverbot oder Ausschluss sämtlicher AfD-Bewerber; individuelle spätere Wahlprüfungen wurden hier nicht untersucht.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026. Sprecher und grober Zeitpunkt aus zeitmarkiertem, maschinellem Dritttranskript; Sachabgleich mit den benannten amtlichen bzw. journalistischen Originalquellen. Kein eigener Originalton- oder Bildabgleich. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt erfasster zusätzlicher Sachkern, kein Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung durch ChatGPT (Kai) am 24.11.2026."
+        "assessmentChange": "Erstbewertung durch ChatGPT (Kai) am 24.11.2026. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
@@ -992,36 +1368,55 @@
         {
           "sourceId": "S022",
           "note": "Unabhängige Sachquelle für das eingegrenzte, auf den Videozeitpunkt bezogene Urteil."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
         }
       ],
       "openQuestions": [],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0014",
-          "startSeconds": 2198,
-          "endSeconds": 2248,
+          "startSeconds": 2202,
+          "endSeconds": 2244,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Sprecherlabel Markus Lanz im maschinellen Dritttranskript; keine akustische Bestätigung.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Im Dritttranskript als eigene Tatsachendarstellung formuliert. Genauere Betonung im Originalton nicht geprüft.",
-          "note": "Enges textgestütztes Suchfenster; kein Originalbild oder Ton kontrolliert.",
-          "timeBasis": "Maschinelles, öffentlich indexiertes Dritttranskript; Videozeitachse noch nicht am Originalplayer abgeglichen.",
-          "timeHistory": []
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": [
+            {
+              "startSeconds": 2198,
+              "endSeconds": 2248,
+              "precision": "Ungefähr",
+              "basis": "Maschinelles, öffentlich indexiertes Dritttranskript; Videozeitachse noch nicht am Originalplayer abgeglichen. Frühere Hinweise: Enges textgestütztes Suchfenster; kein Originalbild oder Ton kontrolliert."
+            }
+          ]
         }
       ],
       "relations": [],
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Wesentlicher konkret überprüfbarer Fall aus dem letzten politischen Themenblock.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Nichtzulassungen tragen das kommunale Rechtsstaatsbeispiel; 1,5 spiegelt diese Rolle wider."
+          }
+        ]
       }
     },
     {
@@ -1033,12 +1428,12 @@
       "description": "Die rot-grüne Landtagsmehrheit in Niedersachsen beschloss im April 2026 eine neue gesetzliche Grundlage für die vertiefte Verfassungstreueprüfung von Bewerbern für Bürgermeister- und Landratsämter.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "Der Landtagsbeschluss vom 28. April 2026 änderte das kommunale Wahlprüfungsverfahren. Dass Kandidaten für solche hauptamtlichen Spitzenämter für die freiheitlich-demokratische Grundordnung eintreten müssen, war hingegen bereits zuvor eine gesetzliche Wählbarkeitsvoraussetzung. Neu waren erweiterte behördliche Prüf- und Informationswege.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026. Sprecher und grober Zeitpunkt aus zeitmarkiertem, maschinellem Dritttranskript; Sachabgleich mit den benannten amtlichen bzw. journalistischen Originalquellen. Kein eigener Originalton- oder Bildabgleich.",
+      "reason": "Die selbst gelesene Ministeriumsmitteilung dokumentiert den Landtagsbeschluss vom 28.04.2026. Sie trennt die schon vorher geltende Verfassungstreue als Wählbarkeitsvoraussetzung vom neu geregelten vertieften Prüfverfahren. Die NDR-FAQ nennt die Veröffentlichung im Mai; das ist vom April-Beschluss zu unterscheiden. In diesem begrenzten Sinn stimmt der Verweis auf eine neue gesetzliche Prüfgrundlage. Die Parteizugehörigkeit allein ersetzt keine individuelle Prüfung und kein Parteiverbot.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026. Sprecher und grober Zeitpunkt aus zeitmarkiertem, maschinellem Dritttranskript; Sachabgleich mit den benannten amtlichen bzw. journalistischen Originalquellen. Kein eigener Originalton- oder Bildabgleich. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt erfasster zusätzlicher Sachkern, kein Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung durch ChatGPT (Kai) am 24.11.2026."
+        "assessmentChange": "Erstbewertung durch ChatGPT (Kai) am 24.11.2026. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
@@ -1052,36 +1447,55 @@
         {
           "sourceId": "S023",
           "note": "Unabhängige Sachquelle für das eingegrenzte, auf den Videozeitpunkt bezogene Urteil."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
         }
       ],
       "openQuestions": [],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0015",
-          "startSeconds": 2249,
-          "endSeconds": 2295,
+          "startSeconds": 2252,
+          "endSeconds": 2259,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Sprecherlabel Markus Lanz im maschinellen Dritttranskript; keine akustische Bestätigung.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Im Dritttranskript als eigene Tatsachendarstellung formuliert. Genauere Betonung im Originalton nicht geprüft.",
-          "note": "Enges textgestütztes Suchfenster; kein Originalbild oder Ton kontrolliert.",
-          "timeBasis": "Maschinelles, öffentlich indexiertes Dritttranskript; Videozeitachse noch nicht am Originalplayer abgeglichen.",
-          "timeHistory": []
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": [
+            {
+              "startSeconds": 2249,
+              "endSeconds": 2295,
+              "precision": "Ungefähr",
+              "basis": "Maschinelles, öffentlich indexiertes Dritttranskript; Videozeitachse noch nicht am Originalplayer abgeglichen. Frühere Hinweise: Enges textgestütztes Suchfenster; kein Originalbild oder Ton kontrolliert."
+            }
+          ]
         }
       ],
       "relations": [],
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Rechtliche Grundvoraussetzung für die im Podcast diskutierte Spannung von Wahlen und Verfassungsschutz.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Die gesetzliche Grundlage ist ein tragender Bestandteil desselben Beispiels; eigenständig gegenüber den konkreten Ausschlüssen, 1,5 vertretbar."
+          }
+        ]
       }
     },
     {
@@ -1093,12 +1507,12 @@
       "description": "In Niedersachsen kann die Kommunalaufsicht bei begründeten Zweifeln an der Verfassungstreue Erkenntnisse des Verfassungsschutzes einbeziehen und dem kommunalen Wahlausschuss eine Einschätzung zur Kandidatur geben.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "Der amtliche Gesetzgebungsbericht und der NDR erläutern den abgestuften Mechanismus: Die Kommunalaufsicht kann Erkenntnisse des Verfassungsschutzes berücksichtigen und Empfehlungen aussprechen. Die abschließende Entscheidung bleibt beim zuständigen kommunalen Wahlausschuss, der nicht an eine Ministeriumsempfehlung gebunden ist. Das unterscheidet eine politisch beeinflusste Einschätzung von einer unmittelbaren ministeriellen Entscheidung.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026. Sprecher und grober Zeitpunkt aus zeitmarkiertem, maschinellem Dritttranskript; Sachabgleich mit den benannten amtlichen bzw. journalistischen Originalquellen. Kein eigener Originalton- oder Bildabgleich.",
+      "reason": "Ministeriumsmitteilung und NDR-FAQ beschreiben dasselbe gestufte Verfahren: Tatsächliche Anhaltspunkte begründen eine Prüfung durch die Kommunalaufsicht, die Erkenntnisse des Verfassungsschutzes einbeziehen und eine Empfehlung abgeben kann. Die Zulassungsentscheidung bleibt beim Wahlausschuss. Daraus folgt kein direktes Ausschlussrecht der Innenministerin; ebenso wenig beweist diese allgemeine Verfahrensregel die Rechtmäßigkeit oder Unrechtmäßigkeit jedes Einzelfalls. Den erwähnten Leitfaden und sämtliche individuellen Behördenakten hat Codex nicht gesondert kontrolliert.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026. Sprecher und grober Zeitpunkt aus zeitmarkiertem, maschinellem Dritttranskript; Sachabgleich mit den benannten amtlichen bzw. journalistischen Originalquellen. Kein eigener Originalton- oder Bildabgleich. Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt erfasster zusätzlicher Sachkern, kein Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung durch ChatGPT (Kai) am 24.11.2026."
+        "assessmentChange": "Erstbewertung durch ChatGPT (Kai) am 24.11.2026. Unabhängige Zweitprüfung 24.11.2026 (Codex): Originaltranskript und die jeweils benannten Sachquellen geprüft, Textfundstelle berichtigt; frühere Zeitgrundlage in timeHistory erhalten. Faktenurteil unverändert, soweit nicht eigens anders vermerkt."
       },
       "sourceRefs": [
         {
@@ -1112,34 +1526,391 @@
         {
           "sourceId": "S023",
           "note": "Unabhängige Sachquelle für das eingegrenzte, auf den Videozeitpunkt bezogene Urteil."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Vollständig gelesener Originalplayertext als Herkunft und Kontext, keine unabhängige Sachquelle; Ton und Sprecher nicht bestätigt."
         }
       ],
       "openQuestions": [],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0016",
-          "startSeconds": 2270,
-          "endSeconds": 2343,
+          "startSeconds": 2259,
+          "endSeconds": 2278,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Sprecherlabel Markus Lanz im maschinellen Dritttranskript; keine akustische Bestätigung.",
+          "attributionBasis": "Bisheriger Namenskandidat und zusammenhängender Originalplayertext einschließlich Anreden; konkrete Stimme nicht kontrolliert.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
-          "roleBasis": "Im Dritttranskript als eigene Tatsachendarstellung formuliert. Genauere Betonung im Originalton nicht geprüft.",
-          "note": "Enges textgestütztes Suchfenster; kein Originalbild oder Ton kontrolliert.",
-          "timeBasis": "Maschinelles, öffentlich indexiertes Dritttranskript; Videozeitachse noch nicht am Originalplayer abgeglichen.",
-          "timeHistory": []
+          "roleBasis": "Eigener Aussagebezug aus zusammenhängendem Originalplayertext plausibel; keine akustische Bestätigung.",
+          "note": "Eigenständig eingegrenzte Originaltranskriptstelle; keine bestätigte Stimme und keine sekundengenaue Tonkontrolle.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": [
+            {
+              "startSeconds": 2270,
+              "endSeconds": 2343,
+              "precision": "Ungefähr",
+              "basis": "Maschinelles, öffentlich indexiertes Dritttranskript; Videozeitachse noch nicht am Originalplayer abgeglichen. Frühere Hinweise: Enges textgestütztes Suchfenster; kein Originalbild oder Ton kontrolliert."
+            }
+          ]
         }
       ],
       "relations": [],
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Kernmechanismus der umstrittenen staatlichen Verfassungstreueprüfung; wichtig für die Zurechnung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-24",
+            "result": "Bestätigt",
+            "reason": "Zuständigkeit und Entscheidungsweg sind wesentlich für die politische Einordnung; gegenüber Hauptthesen erhöhte Bedeutung 1,5 vertretbar."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2YKo9Y53UnI-A0017",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Konferenz von Jalta wird zeitlich nach dem Zweiten Weltkrieg verortet.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Jalta fand vom 4. bis 11. Februar 1945 während des noch laufenden Zweiten Weltkriegs statt. Das Office of the Historian beschreibt ausdrücklich Beratungen zum weiteren Krieg und zur Nachkriegsordnung. Die Teilnehmer Roosevelt, Churchill und Stalin sind im Gespräch zutreffend genannt; fehlerhaft ist die zeitliche Einordnung der Konferenz. Die mögliche Analogie zum aktuellen Gipfel wird damit nicht insgesamt entschieden.",
+      "assessmentBasis": "Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Ergänzung nach vollständiger Originaltranskriptlektüre; kein Altprüfpunkt.",
+        "assessmentChange": "Neuer Prüfgegenstand durch Codex am 24.11.2026; keine frühere Bewertung ersetzt."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S024",
+          "note": "Originalplayertext: Inhalt und ungefährer Zeitbezug, keine unabhängige Sachquelle."
+        },
+        {
+          "sourceId": "S029",
+          "note": "Quelle selbst geöffnet und im beschriebenen Umfang gelesen; trägt nur den jeweils abgegrenzten Sachbefund."
+        }
+      ],
+      "openQuestions": [
+        "Originalton und konkrete Stimme ergänzend kontrollieren; Zeit bleibt textlich ungefähr."
+      ],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0017",
+          "startSeconds": 301,
+          "endSeconds": 317,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Anrede und Gesprächsanschluss im vollständig gelesenen Originalplayer-Transkript; keine Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Inhaltlicher Bezug aus dem zusammenhängenden Text, ohne akustische Kontrolle.",
+          "note": "Originaltranskript gelesen; mögliche Erkennungs- und Sprecherwechselfehler.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Jalta fand vom 4. bis 11. Februar 1945 statt, während der Zweite Weltkrieg noch andauerte.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige historische Zeitangabe in einer Analogie, keine Hauptthese der Folge.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "2YKo9Y53UnI-A0018",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die neuen Befugnisse des Verfassungsschutzes zum heimlichen Betreten von Wohnungen werden an einer Stelle als bereits gegenwärtig verfügbar dargestellt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Im Originalplayertext wechselt die Darstellung bei 22:32 vom geplanten künftigen Vorgehen zu bereits verfügbaren erweiterten Befugnissen. Die Regierungs-FAQ vom 13.11.2026 nennt dagegen erst den 31.12.2026 als geplanten Beginn der Reform. Der Bundestagsbeschluss allein schafft noch keine sofort geltende Befugnis. Der zeitliche Wechsel ist deshalb erklärungsbedürftig; an anderen Stellen spricht das Gespräch selbst von Zukunftsregelungen. Eine abschließende Prüfung der Verkündung und sämtlicher Übergangsregeln steht aus.",
+      "assessmentBasis": "Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Ergänzung nach vollständiger Originaltranskriptlektüre; kein Altprüfpunkt.",
+        "assessmentChange": "Neuer Prüfgegenstand durch Codex am 24.11.2026; keine frühere Bewertung ersetzt."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S024",
+          "note": "Originalplayertext: Inhalt und ungefährer Zeitbezug, keine unabhängige Sachquelle."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Quelle selbst geöffnet und im beschriebenen Umfang gelesen; trägt nur den jeweils abgegrenzten Sachbefund."
+        },
+        {
+          "sourceId": "S026",
+          "note": "Quelle selbst geöffnet und im beschriebenen Umfang gelesen; trägt nur den jeweils abgegrenzten Sachbefund."
+        }
+      ],
+      "openQuestions": [
+        "Originalton und konkrete Stimme ergänzend kontrollieren; Zeit bleibt textlich ungefähr."
+      ],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0018",
+          "startSeconds": 1352,
+          "endSeconds": 1359,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Anrede und Gesprächsanschluss im vollständig gelesenen Originalplayer-Transkript; keine Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Inhaltlicher Bezug aus dem zusammenhängenden Text, ohne akustische Kontrolle.",
+          "note": "Originaltranskript gelesen; mögliche Erkennungs- und Sprecherwechselfehler.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Die Regierungs-FAQ nennt erst den 31. Dezember 2026 als geplanten Beginn; der Parlamentsbeschluss bedeutet keine sofortige Anwendung.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zeitlicher Geltungsbereich der zentral diskutierten Grundrechtseingriffe; unabhängig vom Urteil erhöht bedeutsam.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "2YKo9Y53UnI-A0019",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Entscheidung über EU-Sanktionslistungen wird nicht näher bestimmten EU-Beamten zugeschrieben, ohne ein vorausgehendes Gerichtsverfahren.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die fehlende vorherige Gerichtsentscheidung ist als Beschreibung des politischen Listungsverfahrens zutreffend. Entscheidend ist aber der Rat der EU, also die Mitgliedstaaten, nach einem geregelten Vorschlags- und Beratungsverfahren; die GASP-Entscheidung wird einstimmig gefasst. Beamte bereiten vor, entscheiden jedoch nicht nach eigener Zuständigkeit über die Listung. Betroffene können eine Überprüfung verlangen und vor dem Gericht der EU klagen. Diese Nachkontrolle ist von der anfänglichen politischen Entscheidung zu unterscheiden. Allgemeine Verfahrensregeln beweisen nicht, dass jeder konkrete Sanktionsfall rechtmäßig ist.",
+      "assessmentBasis": "Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Ergänzung nach vollständiger Originaltranskriptlektüre; kein Altprüfpunkt.",
+        "assessmentChange": "Neuer Prüfgegenstand durch Codex am 24.11.2026; keine frühere Bewertung ersetzt."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S024",
+          "note": "Originalplayertext: Inhalt und ungefährer Zeitbezug, keine unabhängige Sachquelle."
+        },
+        {
+          "sourceId": "S028",
+          "note": "Quelle selbst geöffnet und im beschriebenen Umfang gelesen; trägt nur den jeweils abgegrenzten Sachbefund."
+        }
+      ],
+      "openQuestions": [
+        "Originalton und konkrete Stimme ergänzend kontrollieren; Zeit bleibt textlich ungefähr."
+      ],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0019",
+          "startSeconds": 2795,
+          "endSeconds": 2811,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Anrede und Gesprächsanschluss im vollständig gelesenen Originalplayer-Transkript; keine Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Inhaltlicher Bezug aus dem zusammenhängenden Text, ohne akustische Kontrolle.",
+          "note": "Originaltranskript gelesen; mögliche Erkennungs- und Sprecherwechselfehler.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": []
+        },
+        {
+          "id": "2YKo9Y53UnI-O0025",
+          "startSeconds": 2509,
+          "endSeconds": 2549,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Anrede und Gesprächsanschluss im vollständig gelesenen Originalplayer-Transkript; keine Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Inhaltlicher Bezug aus dem zusammenhängenden Text, ohne akustische Kontrolle.",
+          "note": "Originaltranskript gelesen; mögliche Erkennungs- und Sprecherwechselfehler.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Über Listungen entscheidet der Rat der EU; die Betroffenen können sie anschließend vor dem Gericht der EU anfechten.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende institutionelle Voraussetzung der abschließenden Kritik an EU-Sanktionen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "2YKo9Y53UnI-A0020",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die öffentliche und politische Auseinandersetzung mit den neuen Geheimdienstbefugnissen wird als unzureichend bewertet.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Ob eine öffentliche Debatte ausreichend breit oder hörbar ist, ist eine politische Wertung ohne eindeutigen Wahrheitsmaßstab. Überprüfbarer Gegenkontext: Die Grünen stellten Änderungsanträge, verlangten eine geteilte Abstimmung und kritisierten öffentlich Teile des Verfassungsschutzgesetzes. Das amtliche Protokoll und der Debattenbericht dokumentieren dies. Die Sorge um zu wenig gesellschaftliche Aufmerksamkeit ist deshalb keine Falschaussage; eine wörtlich verstandene Behauptung völliger parlamentarischer Widerspruchslosigkeit wäre mit diesen Unterlagen unvereinbar.",
+      "assessmentBasis": "Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Ergänzung nach vollständiger Originaltranskriptlektüre; kein Altprüfpunkt.",
+        "assessmentChange": "Neuer Prüfgegenstand durch Codex am 24.11.2026; keine frühere Bewertung ersetzt."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S024",
+          "note": "Originalplayertext: Inhalt und ungefährer Zeitbezug, keine unabhängige Sachquelle."
+        },
+        {
+          "sourceId": "S026",
+          "note": "Quelle selbst geöffnet und im beschriebenen Umfang gelesen; trägt nur den jeweils abgegrenzten Sachbefund."
+        },
+        {
+          "sourceId": "S030",
+          "note": "Quelle selbst geöffnet und im beschriebenen Umfang gelesen; trägt nur den jeweils abgegrenzten Sachbefund."
+        }
+      ],
+      "openQuestions": [
+        "Originalton und konkrete Stimme ergänzend kontrollieren; Zeit bleibt textlich ungefähr."
+      ],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0020",
+          "startSeconds": 1560,
+          "endSeconds": 1609,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Anrede und Gesprächsanschluss im vollständig gelesenen Originalplayer-Transkript; keine Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Inhaltlicher Bezug aus dem zusammenhängenden Text, ohne akustische Kontrolle.",
+          "note": "Originaltranskript gelesen; mögliche Erkennungs- und Sprecherwechselfehler.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": []
+        },
+        {
+          "id": "2YKo9Y53UnI-O0026",
+          "startSeconds": 1748,
+          "endSeconds": 1766,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Anrede und Gesprächsanschluss im vollständig gelesenen Originalplayer-Transkript; keine Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Inhaltlicher Bezug aus dem zusammenhängenden Text, ohne akustische Kontrolle.",
+          "note": "Originaltranskript gelesen; mögliche Erkennungs- und Sprecherwechselfehler.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2YKo9Y53UnI-A0021",
+      "videoId": "2YKo9Y53UnI",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Lanz hält der Vorstellung freier Überwachungsentscheidung entgegen, dass externe Genehmigung und hohe rechtliche Hürden bestehen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der sachliche Kern ist richtig: Besonders intensive Maßnahmen unterliegen nach den gelesenen amtlichen Erläuterungen unabhängiger Vorabkontrolle. Der im Transkript pauschal angesprochene Richtervorbehalt ist aber zu undifferenziert: Die Reform nennt ein gerichtsähnliches Organ des Unabhängigen Kontrollrats, und die Voraussetzungen unterscheiden sich nach Eingriff. Nicht jede Maßnahme verlangt einen Beschluss eines ordentlichen Gerichts. Diese explizite Gegenrede im Podcast darf bei A0010 nicht unterschlagen werden; sie ersetzt keine vollständige juristische Endnormprüfung.",
+      "assessmentBasis": "Codex, unabhängige Zweitprüfung am 24.11.2026: vollständiges im YouTube-Originalplayer angezeigtes deutsches Transkript von 00:01 bis 48:28 gelesen, einschließlich Abspann; Quellen zu den hier bewerteten Sachkernen selbst geöffnet. Kein Originalton gehört, keine durchgehende Bildkontrolle. Transkriptfehler und Sprecherwechsel bleiben möglich.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Ergänzung nach vollständiger Originaltranskriptlektüre; kein Altprüfpunkt.",
+        "assessmentChange": "Neuer Prüfgegenstand durch Codex am 24.11.2026; keine frühere Bewertung ersetzt."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S024",
+          "note": "Originalplayertext: Inhalt und ungefährer Zeitbezug, keine unabhängige Sachquelle."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Quelle selbst geöffnet und im beschriebenen Umfang gelesen; trägt nur den jeweils abgegrenzten Sachbefund."
+        },
+        {
+          "sourceId": "S031",
+          "note": "Quelle selbst geöffnet und im beschriebenen Umfang gelesen; trägt nur den jeweils abgegrenzten Sachbefund."
+        }
+      ],
+      "openQuestions": [
+        "Originalton und konkrete Stimme ergänzend kontrollieren; Zeit bleibt textlich ungefähr."
+      ],
+      "occurrences": [
+        {
+          "id": "2YKo9Y53UnI-O0021",
+          "startSeconds": 1511,
+          "endSeconds": 1547,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Anrede und Gesprächsanschluss im vollständig gelesenen Originalplayer-Transkript; keine Stimmidentifizierung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Inhaltlicher Bezug aus dem zusammenhängenden Text, ohne akustische Kontrolle.",
+          "note": "Originaltranskript gelesen; mögliche Erkennungs- und Sprecherwechselfehler.",
+          "timeBasis": "Codex, 24.11.2026: Zeitmarken und Kontext im eingeblendeten Transkript des YouTube-Originalplayers gelesen. Textliche Eingrenzung, keine akustische Kontrolle; daher Ungefähr.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [
+        {
+          "type": "widerspricht",
+          "claimId": "2YKo9Y53UnI-A0010",
+          "note": "Andere Gesprächsposition, keine Selbstkorrektur derselben identifizierten Person. Inhaltlich eine Einschränkung der pauschalen Eigenmächtigkeitsdarstellung."
+        }
+      ],
+      "shortReason": "Externe Kontrolle ist vorgesehen; die pauschale Form eines Richtervorbehalts unterscheidet die verschiedenen Maßnahmen und Kontrollorgane nicht.",
+      "factIndex": {
+        "weight": 1.75,
+        "weightReason": "Direkte Gegenposition in der tragenden Diskussion über gesetzliche Eingriffshürden, gleiche Bedeutungsebene wie A0010.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
         "assessedOn": "2026-11-24",
         "assessedBeforeVerdict": false
       }

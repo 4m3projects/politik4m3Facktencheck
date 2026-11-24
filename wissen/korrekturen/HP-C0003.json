@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "HP-C0003",
+  "kind": "Zuordnung falsch",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-24",
+  "reportedBy": "Codex",
+  "trigger": {
+    "claimId": "2YKo9Y53UnI-A0003",
+    "entryId": null,
+    "description": "A0003 und A0013 waren ohne gesichertes eigenes Vorkommen als plausible eigene Behauptungen geführt. Originalplayertext begründet diese Zurechnung nicht."
+  },
+  "evidence": [
+    {
+      "title": "Vollständiges angezeigtes Originaltranskript",
+      "url": "https://www.youtube.com/watch?v=2YKo9Y53UnI",
+      "accessedOn": "2026-11-24",
+      "finding": "Codex las 00:01–48:28 vollständig. 08:29–09:19 betont ungeklärte Spionagefragen; 43:13 ff. schildert eine frühere Sanktionsaufnahme. Kein Ton gehört; abschließende Bereinigung der Kandidaten bleibt offen."
+    }
+  ],
+  "affected": [
+    {
+      "target": "2YKo9Y53UnI-A0003",
+      "reason": "Unbestätigte starke Erstparaphrase; eigener Bezug bislang nur plausibel geführt."
+    },
+    {
+      "target": "2YKo9Y53UnI-A0013",
+      "reason": "Vergangenheitsbericht wurde als Kandidat einer fortdauernden Listung geführt."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Rücknahme unbelegter eigener Aussagezurechnung",
+    "date": "2026-11-24",
+    "basis": "Zwei eindeutige Zurechnungsrisiken werden konservativ als ungeklärter Bezug geführt. Status und Faktenurteile nicht verschärft; Originalton bleibt nachzuarbeiten. Die von betroffen zusätzlich gefundene A0012 nutzt dieselbe Quelle, behauptet aber den eigenständig belegten Beschlussgegenstand und ist von dieser Zurechnungskorrektur nicht betroffen."
+  },
+  "changes": [
+    {
+      "target": "2YKo9Y53UnI-A0003",
+      "field": "occurrences[0].role",
+      "before": "Behauptung",
+      "after": "Fremdbezug"
+    },
+    {
+      "target": "2YKo9Y53UnI-A0003",
+      "field": "occurrences[0].roleStatus",
+      "before": "Plausibel",
+      "after": "Ungeklärt"
+    },
+    {
+      "target": "2YKo9Y53UnI-A0003",
+      "field": "occurrences[0].roleBasis",
+      "before": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+      "after": "Die kategorische Erstparaphrase ist nicht als eigene Behauptung nachgewiesen; der Bezug bleibt ausdrücklich ungeklärt."
+    },
+    {
+      "target": "2YKo9Y53UnI-A0013",
+      "field": "occurrences[0].role",
+      "before": "Behauptung",
+      "after": "Fremdbezug"
+    },
+    {
+      "target": "2YKo9Y53UnI-A0013",
+      "field": "occurrences[0].roleStatus",
+      "before": "Plausibel",
+      "after": "Ungeklärt"
+    },
+    {
+      "target": "2YKo9Y53UnI-A0013",
+      "field": "occurrences[0].roleBasis",
+      "before": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
+      "after": "Aus der Schilderung vergangener Listung ergibt sich keine bestätigte eigene Aussage über Fortdauer; bislang nur redaktioneller Prüfkandidat."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-24",
+      "agent": "Codex",
+      "change": "Mit wissen.js betroffen beide Kandidaten und gemeinsame Quellenverwendung geprüft; Zahl betroffener Zurechnungskorrekturen auf zwei begrenzt."
+    },
+    {
+      "date": "2026-11-24",
+      "agent": "Codex",
+      "change": "Plausiblen eigenen Bezug zurückgenommen, IDs und frühere Zeitgrundlagen erhalten; kein Sachurteil geändert und kein neuer Fehlerpunkt erzeugt."
+    }
+  ]
+}
