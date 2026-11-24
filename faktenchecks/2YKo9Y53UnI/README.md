@@ -27,3 +27,5 @@ Die maschinell erzeugten Texte sind nicht zur Veröffentlichung als Transkript f
 [Überblick](01_kurz.md) · [Analyse und Prüflücken](02_analyse.md) · [Faktenbericht](03_faktencheck.md) · [Einzelpunkte](strukturiert/aussagen.json) · [Themen](themen.json)
 
 Weitere Arbeit: Gesamttranskript vollständig sichten, Originalton und Sprecheridentitäten kontrollieren, gesetzliche Detailvoraussetzungen der Nachrichtendienstreform nachlesen, offene Behauptungen nachrecherchieren und ein unabhängiges Reviewergebnis einholen.
+
+<!-- ChatGPT: Build der strukturierten Berichte über den GitHub-Actions-Generator veranlasst. -->
