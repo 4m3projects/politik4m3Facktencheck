@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. 13 ausgewählte Prüfpunkte; jetzt zehn abgeschlossene Sachurteile und drei offene Punkte, weiterhin kein vollständiger Querschnitt durch die 48:43-minütige Folge. Die Fundstellen sind durch Auszüge einer maschinellen Dritttranskription eingegrenzt, aber nicht am Originalton bestätigt. Keine vollständige Bild-/Tonprüfung oder Gesamtampel.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. 16 ausgewählte Prüfpunkte aus 48:43 Minuten: 14 abgeschlossene Sachbewertungen und 2 offen. Die Bereiche 15:34–16:02 und 36:38–39:03 zusätzlich textgebunden recherchiert. Kein vollständiger Querschnitt der ganzen Folge, keine akustisch bestätigten Sprecher oder kontrollierten Originalzeiten, keine vollständige Rhetorikprüfung.
 
-Nachprüfung am 24.11.2026: indexierte Dritttranskript-Ausschnitte insbesondere 00:07–00:28, dazu SIPRI, Anthropic-Unternehmensmeldungen, AP, Bundesregierung und Fachverbandsstellungnahmen. Nicht die gesamte Folge gesichtet, keinen Originalton oder Originalbilder kontrolliert.
+Nachprüfung am 24.11.2026: indexierte Dritttranskript-Ausschnitte insbesondere 00:07–00:28, dazu SIPRI, Anthropic-Unternehmensmeldungen, AP, Bundesregierung und Fachverbandsstellungnahmen. Nicht die gesamte Folge gesichtet, keinen Originalton oder Originalbilder kontrolliert. Nachprüfung 24.11.2026: Bitkom-Originaltext und Gesprächstelle 15:34–16:02; niedersächsisches Innenministerium vom 28.04.2026, NDR-Fallberichte und FAQ, OVG-Mitteilung vom 04.09.2026, Gesprächsfenster 36:38–39:03. Kein Originalton gehört.
 
 ## 2YKo9Y53UnI-A0009
 
