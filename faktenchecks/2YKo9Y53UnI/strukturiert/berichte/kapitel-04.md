@@ -1,8 +1,8 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. 13 ausgewählte Prüfgegenstände aus vier Themenblöcken; sechs Sachurteile quellengeprüft, sieben weitere Originalstellen oder Sachfragen offen. Weite Suchfenster und ungesicherte Sprecheridentitäten. Keine vollständige Aussageerfassung der gesamten Laufzeit und kein Gesamturteil.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. 13 ausgewählte Prüfpunkte; jetzt zehn abgeschlossene Sachurteile und drei offene Punkte, weiterhin kein vollständiger Querschnitt durch die 48:43-minütige Folge. Die Fundstellen sind durch Auszüge einer maschinellen Dritttranskription eingegrenzt, aber nicht am Originalton bestätigt. Keine vollständige Bild-/Tonprüfung oder Gesamtampel.
 
-ZDF-Metadaten und nur Auszüge eines öffentlichen, maschinell erstellten Dritttranskripts. Externe Quellen für die jeweils dokumentierten Sachbefunde gelesen. Originalplayer-Audio/Bilder nicht zugänglich; keine vollständige Transkript-, Bild- und Tonprüfung. Bei unsicherer Wortlaut-/Sprecherlage ist eine Nachkontrolle ausdrücklich erforderlich.
+Nachprüfung am 24.11.2026: indexierte Dritttranskript-Ausschnitte insbesondere 00:07–00:28, dazu SIPRI, Anthropic-Unternehmensmeldungen, AP, Bundesregierung und Fachverbandsstellungnahmen. Nicht die gesamte Folge gesichtet, keinen Originalton oder Originalbilder kontrolliert.
 
 ## 2YKo9Y53UnI-A0012
 

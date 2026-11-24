@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "ZDF-Metadaten und nur Auszüge eines öffentlichen, maschinell erstellten Dritttranskripts. Externe Quellen für die jeweils dokumentierten Sachbefunde gelesen. Originalplayer-Audio/Bilder nicht zugänglich; keine vollständige Transkript-, Bild- und Tonprüfung. Bei unsicherer Wortlaut-/Sprecherlage ist eine Nachkontrolle ausdrücklich erforderlich.",
-    "coverageNote": "13 ausgewählte Prüfgegenstände aus vier Themenblöcken; sechs Sachurteile quellengeprüft, sieben weitere Originalstellen oder Sachfragen offen. Weite Suchfenster und ungesicherte Sprecheridentitäten. Keine vollständige Aussageerfassung der gesamten Laufzeit und kein Gesamturteil."
+    "researchNote": "Nachprüfung am 24.11.2026: indexierte Dritttranskript-Ausschnitte insbesondere 00:07–00:28, dazu SIPRI, Anthropic-Unternehmensmeldungen, AP, Bundesregierung und Fachverbandsstellungnahmen. Nicht die gesamte Folge gesichtet, keinen Originalton oder Originalbilder kontrolliert.",
+    "coverageNote": "13 ausgewählte Prüfpunkte; jetzt zehn abgeschlossene Sachurteile und drei offene Punkte, weiterhin kein vollständiger Querschnitt durch die 48:43-minütige Folge. Die Fundstellen sind durch Auszüge einer maschinellen Dritttranskription eingegrenzt, aber nicht am Originalton bestätigt. Keine vollständige Bild-/Tonprüfung oder Gesamtampel."
   },
   "legacyPoints": [],
   "sources": [
@@ -110,6 +110,62 @@
       "details": "Deutschlandfunk, 20.04.2024.",
       "accessedOn": "2026-11-24",
       "accessBasis": "Überblick zu rund 19.000 Dokumenten und fehlendem direkten Beweis für die China-Zuschreibung gelesen."
+    },
+    {
+      "id": "S013",
+      "title": "HappyScribe: zeitmarkierte Fremdtranskription Folge 272",
+      "url": "https://podcasts.happyscribe.com/de/lanz-precht/272-beginnt-ein-neues-zeitalter-der-spionage",
+      "details": "Automatische Transkription, keine amtlich geprüfte Sprecherfassung.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Die öffentlich indexierten Auszüge mit Sprecherlabels und ungefähren Zeitmarken von 00:07 bis 00:28 gelesen; kein Originalton und kein Originalbild geprüft. Dient allein als Kontext- und Suchhilfe."
+    },
+    {
+      "id": "S014",
+      "title": "Anthropic: IPO-Preisfestsetzung 18.11.2026",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering?hl=en-US",
+      "details": "Anthropic PBC, Pressemitteilung 18.11.2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Originalmeldung geöffnet: 83 US-Dollar je Aktie, geplanter Handelsbeginn 19.11.2026."
+    },
+    {
+      "id": "S015",
+      "title": "Anthropic: Börsengang abgeschlossen 20.11.2026",
+      "url": "https://www.anthropic.com/news/ipo-close?format=full",
+      "details": "Anthropic PBC, Unternehmensmeldung 20.11.2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Meldung zum Vollzug gelesen: Handel seit 19.11.2026, Aktienpreis 83 US-Dollar; keine eigenständige Bewertung aller Aktiengattungen."
+    },
+    {
+      "id": "S016",
+      "title": "Reuters: Anthropic IPO-Bewertung von 1,5 Billionen US-Dollar",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-valued-at-15-trillion-as-ipo-raises-record-81-billion-5037110",
+      "details": "Reuters, 18./19.11.2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Reuters-Bericht zur IPO-Preisfestsetzung und der abgeleiteten Bewertung von 1,5 Billionen US-Dollar geöffnet und gelesen."
+    },
+    {
+      "id": "S017",
+      "title": "Bundesregierung: FAQ Reform des Nachrichtendienstrechts",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/bnd-nachrichtendienste-reform-2449400",
+      "details": "Bundesregierung, 13.11.2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Amtliche öffentliche Erläuterung zu Unabhängigem Kontrollrat, Vorabkontrolle, Überwachungsgrenzen und Schutz von Heilberufen im BND-Gesetz gelesen. Keine vollständige Prüfung jeder Endnorm."
+    },
+    {
+      "id": "S018",
+      "title": "KBV: Nachbesserungen bei Nachrichtendienstreform",
+      "url": "https://www.kbv.de/presse/pressemitteilungen/2026/nachbesserungen-bei-nachrichtendienstreform-schritt-in-die-richtige-richtung",
+      "details": "Kassenärztliche Bundesvereinigung, 13.11.2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Aussage aus öffentlichem Suchergebnis gelesen: zusätzlicher Schutz für Ärzte und Psychotherapeuten beim BND, weitere Defizite; Volltextzugriff nicht erfolgreich, daher ergänzender Kontext und nicht alleinige Sachquelle."
+    },
+    {
+      "id": "S019",
+      "title": "Psychotherapeutenkammer Berlin: Schutz therapeutischer Vertraulichkeit",
+      "url": "https://www.psychotherapeutenkammer-berlin.de/nachrichten/bundestag-staerkt-schutz-psychotherapeutischer-vertraulichkeit-im-bnd-gesetz",
+      "details": "Psychotherapeutenkammer Berlin, 13.11.2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Text der fachlichen Pressemitteilung geöffnet und gelesen: §22 BNDG wurde verbessert, beim Verfassungsschutz verblieben nach Kammerdarstellung Schutzlücken. Keine eigene Rechtsentscheidung."
     }
   ],
   "speakers": [
@@ -133,46 +189,65 @@
       "chapter": 1,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "China verfügt Ende 2026 über mehr als 1.000 nukleare Sprengköpfe.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – der konkrete Tatsachenkern ist mit den angegebenen externen Quellen abgleichbar, doch Wortlaut, zeitlicher Bezug und Zurechnung im Podcast müssen erst am Originalplayer bestätigt werden. Die bisher recherchierte Korrektur ist vorläufig nur ein Prüfhintergrund.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "description": "Markus Lanz schätzt Chinas nuklearen Sprengkopfbestand im November 2026 auf mehr als 1.000.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Die SIPRI-Schätzung Anfang 2026 liegt bei etwa 620 Sprengköpfen. Der im öffentlich indexierten Text unter Vorbehalt genannte aktuelle Bestand von mehr als 1.000 ist durch diese maßgebliche Schätzung nicht gedeckt. Der Gesprächspartner sagt seine Zahl ausdrücklich unsicher ('glaube ich'); das ist kein Hinweis auf eine absichtlich falsche Darstellung. Der Originalton wurde nicht gehört.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Nachprüfung mit zeitmarkierten Dritttranskript-Auszügen und Primär-/Fachquellen am 24.11.2026; kein Originalton gehört.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Nachprüfung 24.11.2026 durch ChatGPT (Kai): Widerlegt; Grundlage und Grenzen im reason erläutert."
       },
       "sourceRefs": [
         {
           "sourceId": "S003",
           "note": "Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt."
+        },
+        {
+          "sourceId": "S013",
+          "note": "Nur zeitliche Herkunft und Wortsinngrenzen aus Dritttranskript; kein unabhängiger Sachbeleg."
         }
       ],
       "openQuestions": [
-        "Die genaue Formulierung und zeitliche Referenz im Originalton abgleichen.",
-        "Exakten Wortlaut und Sprecher am YouTube-Original prüfen; prüfen, ob der Podcast diese Behauptung tatsächlich aufstellt."
+        "Originalton und Stand der nuklearen Schätzungen im November 2026 ergänzend gegenprüfen."
       ],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0001",
-          "startSeconds": 120,
-          "endSeconds": 350,
+          "startSeconds": 432,
+          "endSeconds": 475,
           "precision": "Ungefähr",
           "speakerId": null,
-          "candidateSpeakerId": null,
-          "attributionStatus": "Ungeklärt",
-          "attributionBasis": "Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.",
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Namenslabel im maschinellen Dritttranskript; keine Originaltonkontrolle.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
-          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
-          "timeHistory": []
+          "note": "Engeres Suchfenster aus indexiertem Text, Originalbild und Ton nicht kontrolliert.",
+          "timeBasis": "Sprecherbezeichneter öffentlich indexierter Dritttranskript-Ausschnitt (HappyScribe), Suchfenster; nicht akustisch bestätigt.",
+          "timeHistory": [
+            {
+              "startSeconds": 120,
+              "endSeconds": 350,
+              "precision": "Ungefähr",
+              "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert."
+            }
+          ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "SIPRI schätzte Anfang 2026 rund 620 chinesische Sprengköpfe; über 1.000 waren zum Gesprächszeitpunkt nicht belegt.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Wichtige, aber nicht allein tragende quantitative Nebeninformation des Großmachtvergleichs.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "2YKo9Y53UnI-A0002",
@@ -273,40 +348,70 @@
       "chapter": 1,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Anthropic habe unmittelbar vor der Folge einen Börsengang mit rund 1,4 bis 1,5 Billionen US-Dollar Marktbewertung vollzogen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – der belegte Börsengang und die behauptete Bewertung müssen anhand zeitgenössischer Börsenunterlagen oder offizieller Unternehmensmeldungen abgeglichen werden.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "description": "Markus Lanz berichtet über den Anthropic-Börsengang im November 2026 mit einer Marktbewertung von ungefähr 1,4 bis 1,5 Billionen US-Dollar.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Anthropic bestätigte die IPO-Preisfestsetzung am 18. November zu 83 US-Dollar je Aktie und den Handelsbeginn am 19. November 2026; AP bezifferte die beim Börsengang angesetzte Bewertung auf etwa 1,5 Billionen US-Dollar. Die Sprecherformulierung, Anthropic sei über Nacht so viel wert gewesen, ist damit in der Größenordnung zutreffend. Marktwert ist nicht identisch mit IPO-Erlös oder Gewinn.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Nachprüfung mit zeitmarkierten Dritttranskript-Auszügen und Primär-/Fachquellen am 24.11.2026; kein Originalton gehört.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Nachprüfung 24.11.2026 durch ChatGPT (Kai): Belegt; Grundlage und Grenzen im reason erläutert."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Börsenzulassung, Börsengang und Bewertung zum 20.11.2026 mittels Primärquellen ermitteln."
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Nur zeitliche Herkunft und Wortsinngrenzen aus Dritttranskript; kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Sachquelle für abgegrenzten überprüfbaren Tatsachenkern; Sprecher-/Wortlautbeleg ist Dritttranskript."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Sachquelle für abgegrenzten überprüfbaren Tatsachenkern; Sprecher-/Wortlautbeleg ist Dritttranskript."
+        },
+        {
+          "sourceId": "S016",
+          "note": "Sachquelle für abgegrenzten überprüfbaren Tatsachenkern; Sprecher-/Wortlautbeleg ist Dritttranskript."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0004",
-          "startSeconds": 550,
-          "endSeconds": 670,
+          "startSeconds": 564,
+          "endSeconds": 633,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Namenszuordnung im maschinellen Dritttranskript; nicht am Ton kontrolliert.",
+          "attributionBasis": "Namenslabel im maschinellen Dritttranskript; keine Originaltonkontrolle.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
-          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
-          "timeHistory": []
+          "note": "Engeres Suchfenster aus indexiertem Text, Originalbild und Ton nicht kontrolliert.",
+          "timeBasis": "Sprecherbezeichneter öffentlich indexierter Dritttranskript-Ausschnitt (HappyScribe), Suchfenster; nicht akustisch bestätigt.",
+          "timeHistory": [
+            {
+              "startSeconds": 550,
+              "endSeconds": 670,
+              "precision": "Ungefähr",
+              "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert."
+            }
+          ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.25,
+        "weightReason": "Größenordnung illustriert wirtschaftliche Bedeutung von KI, ist aber nicht die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "2YKo9Y53UnI-A0005",
@@ -577,40 +682,66 @@
       "chapter": 3,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Die Reform erlaube Nachrichtendiensten ohne externe Kontrollmechanismen selbst zu bestimmen, wen sie abhören oder überwachen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die pauschale These muss an den tatsächlich verabschiedeten Vorschriften zu Richtervorbehalt, Prüf- und Kontrollgremien sowie Genehmigungsvoraussetzungen gemessen werden; im Gespräch erscheint sie als Zuspitzung.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "description": "Richard David Precht stellt die Behauptung auf, die Nachrichtendienste entschieden bei Überwachung eigenständig über ihre Eingriffe und die maßgeblichen Verdachtsgrenzen.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der erkennbare Kern betrifft tatsächliche neue Befugnisse und Entscheidungsräume. Eine Darstellung der Befugnisse als allein durch die Dienste selbst kontrolliert verschweigt jedoch den Unabhängigen Kontrollrat: Nach Regierungsangaben sind besonders intensive Eingriffe vorab genehmigungspflichtig und kontrollierbar; zusätzlich bestehen parlamentarische Kontrollmechanismen. Offen bleibt die rechtliche Bewertung ihrer praktischen Wirksamkeit. Der Ton wurde nicht kontrolliert.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Nachprüfung mit zeitmarkierten Dritttranskript-Auszügen und Primär-/Fachquellen am 24.11.2026; kein Originalton gehört.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Nachprüfung 24.11.2026 durch ChatGPT (Kai): Irreführend / Kontext fehlt; Grundlage und Grenzen im reason erläutert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Nur zeitliche Herkunft und Wortsinngrenzen aus Dritttranskript; kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Sachquelle für abgegrenzten überprüfbaren Tatsachenkern; Sprecher-/Wortlautbeleg ist Dritttranskript."
+        }
+      ],
       "openQuestions": [
-        "Endgesetzfassung und Kontrollmechanismen prüfen; Meinung und Tatsachenbehauptung trennen."
+        "Konkrete Befugnisse und Kontrollausnahmen anhand der verabschiedeten Gesetzesfassung kontrollieren.",
+        "Originalton und Gesprächsantwort von Markus Lanz zur Aussage abgleichen."
       ],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0010",
-          "startSeconds": 1460,
-          "endSeconds": 1590,
+          "startSeconds": 1476,
+          "endSeconds": 1535,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP02",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Namenszuordnung im maschinellen Dritttranskript; nicht am Ton kontrolliert.",
+          "attributionBasis": "Namenslabel im maschinellen Dritttranskript; keine Originaltonkontrolle.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
-          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
-          "timeHistory": []
+          "note": "Engeres Suchfenster aus indexiertem Text, Originalbild und Ton nicht kontrolliert.",
+          "timeBasis": "Sprecherbezeichneter öffentlich indexierter Dritttranskript-Ausschnitt (HappyScribe), Suchfenster; nicht akustisch bestätigt.",
+          "timeHistory": [
+            {
+              "startSeconds": 1460,
+              "endSeconds": 1590,
+              "precision": "Ungefähr",
+              "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert."
+            }
+          ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Die Dienste entscheiden nicht völlig allein: Der Unabhängige Kontrollrat prüft besonders intensive Maßnahmen vorab.",
+      "factIndex": {
+        "weight": 1.75,
+        "weightReason": "Zentraler, für die Einschätzung der Grundrechtsgefahr relevanter rechtlicher Punkt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "2YKo9Y53UnI-A0011",
@@ -618,40 +749,70 @@
       "chapter": 3,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Die neue Rechtslage gestatte unter bestimmten Umständen die Überwachung vertraulicher Gespräche in Psychotherapiepraxen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Bundestagsdebatten reichen nicht aus, um die gesetzlichen Ausnahmen und Schutzregelungen für Therapie, Seelsorge und Rechtsbeistand abschließend zu belegen.",
-      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
+      "description": "Markus Lanz beschreibt die Möglichkeit einer nachrichtendienstlichen Überwachung von Gesprächen in Psychotherapiepraxen als Folge der Reform.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Sorge ist nicht frei erfunden: Im Bundesverfassungsschutzrecht bestehen nach der Reform laut Fachverbänden weiterhin Schutzlücken. Für den BND wurde jedoch im Gesetzgebungsverfahren der Schutz der Heilberufe ausdrücklich ergänzt, einschließlich besonderer Kontrolle. Die pauschale Formulierung, dass die Dienste künftig Therapiesitzungen abhören könnten, lässt diese Unterscheidung und strenge Schutzvorgaben offen. Weitere Prüfung der tatsächlich verabschiedeten Normen bleibt notwendig; Originalton nicht gehört.",
+      "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Nachprüfung mit zeitmarkierten Dritttranskript-Auszügen und Primär-/Fachquellen am 24.11.2026; kein Originalton gehört.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026."
+        "assessmentChange": "Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Nachprüfung 24.11.2026 durch ChatGPT (Kai): Teilweise belegt; Grundlage und Grenzen im reason erläutert."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Nur zeitliche Herkunft und Wortsinngrenzen aus Dritttranskript; kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Sachquelle für abgegrenzten überprüfbaren Tatsachenkern; Sprecher-/Wortlautbeleg ist Dritttranskript."
+        },
+        {
+          "sourceId": "S019",
+          "note": "Sachquelle für abgegrenzten überprüfbaren Tatsachenkern; Sprecher-/Wortlautbeleg ist Dritttranskript."
+        }
+      ],
       "openQuestions": [
-        "Endgültige Gesetzesfassung und Schutz besonderer Vertrauensbeziehungen prüfen."
+        "§ 22 BNDG und die einschlägigen BfV-Vorschriften in der beschlossenen Endfassung paragrafengenau kontrollieren.",
+        "Prüfen, ob konkrete Schutz- und Genehmigungsvoraussetzungen in der restlichen Folge nachgereicht werden."
       ],
       "occurrences": [
         {
           "id": "2YKo9Y53UnI-O0011",
-          "startSeconds": 1650,
-          "endSeconds": 1780,
+          "startSeconds": 1673,
+          "endSeconds": 1770,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Namenszuordnung im maschinellen Dritttranskript; nicht am Ton kontrolliert.",
+          "attributionBasis": "Namenslabel im maschinellen Dritttranskript; keine Originaltonkontrolle.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.",
-          "note": "Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.",
-          "timeBasis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.",
-          "timeHistory": []
+          "note": "Engeres Suchfenster aus indexiertem Text, Originalbild und Ton nicht kontrolliert.",
+          "timeBasis": "Sprecherbezeichneter öffentlich indexierter Dritttranskript-Ausschnitt (HappyScribe), Suchfenster; nicht akustisch bestätigt.",
+          "timeHistory": [
+            {
+              "startSeconds": 1650,
+              "endSeconds": 1780,
+              "precision": "Ungefähr",
+              "basis": "Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert."
+            }
+          ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "shortReason": "Schutzlücken beim Verfassungsschutz sind dokumentiert; beim BND wurde der Schutz psychotherapeutischer Gespräche nachgebessert.",
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Zentrales konkretes Grundrechtsthema in der Folge.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "2YKo9Y53UnI-A0012",

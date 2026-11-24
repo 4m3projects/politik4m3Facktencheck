@@ -1,6 +1,6 @@
 # Lanz + Precht, Folge 272 – Geheimdienste und Spionage: vorläufiger Faktencheck
 
-**Stand: Quellengeprüfter Teilbestand; keine vollständige Analyse.** Prüfung: 2026-11-24.
+**Stand: Quellengeprüfter Teilbestand; keine vollständige Analyse.** Prüfung und Nachprüfung: 2026-11-24.
 
 - Original: https://www.youtube.com/watch?v=2YKo9Y53UnI
 - ZDF-Mediathek: https://www.zdf.de/video/talk/lanz-precht-102/lanz-und-precht-folge272-100
@@ -18,7 +18,7 @@ Ausgewählte Tatsachenkerne aus internationalen Beziehungen, dem Nvidia-Skandal,
 
 ## Abdeckung
 
-13 ausgewählte Prüfpunkte; davon 6 mit abgeschlossenem Sachurteil und 7 offen; keine lückenlose Erfassung des 48:43 Minuten langen Gesprächs. Audio, Video, Schnitt, Einspieler und Bildaussagen wurden nicht überprüft. Die Fundstellen sind grobe Text-Suchfenster und müssen mit dem YouTube-Original abgeglichen werden. **Die Darstellung/Rhetorik ist nicht vollständig geprüft.**
+13 ausgewählte Prüfpunkte; davon 10 mit abgeschlossenem Sachurteil und 3 offen; keine lückenlose Erfassung des 48:43 Minuten langen Gesprächs. Audio, Video, Schnitt, Einspieler und Bildaussagen wurden nicht überprüft. Die Fundstellen sind grobe Text-Suchfenster und müssen mit dem YouTube-Original abgeglichen werden. **Die Darstellung/Rhetorik ist nicht vollständig geprüft.**
 
 Die maschinell erzeugten Texte sind nicht zur Veröffentlichung als Transkript freigegeben. Alle öffentlichen Formulierungen sind eigene inhaltliche Zusammenfassungen; verlinkte Quellen bleiben bei ihren jeweiligen Rechteinhabern.
 
@@ -26,7 +26,11 @@ Die maschinell erzeugten Texte sind nicht zur Veröffentlichung als Transkript f
 
 [Überblick](01_kurz.md) · [Analyse und Prüflücken](02_analyse.md) · [Faktenbericht](03_faktencheck.md) · [Einzelpunkte](strukturiert/aussagen.json) · [Themen](themen.json)
 
+Nachprüfung am 24.11.2026: Mit besser indexierten Gesprächsauszügen wurden die Angaben zum chinesischen Sprengkopfbestand, zum Anthropic-Börsengang und zur Nachrichtendienstreform enger abgeglichen. Den Unterschied zwischen gesetzlichen Schutzvorschriften und verbleibenden Kritikpunkten dokumentieren A0010 und A0011. Die ursprüngliche allgemeine Warnung vor einem ungesicherten Gesamturteil gilt unverändert.
+
 Weitere Arbeit: Gesamttranskript vollständig sichten, Originalton und Sprecheridentitäten kontrollieren, gesetzliche Detailvoraussetzungen der Nachrichtendienstreform nachlesen, offene Behauptungen nachrecherchieren und ein unabhängiges Reviewergebnis einholen.
 
 <!-- ChatGPT: Build der strukturierten Berichte über den GitHub-Actions-Generator veranlasst. -->
  
+
+<!-- Berichte und Statistik nach dieser Nachprüfung automatisch neu erzeugen. -->
