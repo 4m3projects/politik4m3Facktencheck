@@ -1294,6 +1294,12 @@ async function pageMethod() {
       <p class="small">Solange eine Prüfung <strong>offen</strong> oder <strong>in Bearbeitung</strong> ist, gibt es bewusst keine Bewertung. Eine nicht belegte Aussage ist nicht automatisch falsch.</p>
     </section>
 
+    <section class="section prose-plain" id="aussagen-erfassen"><h2>Wie zählen wir Aussagen?</h2>
+      <p>Eine Aussage ist ein Sachverhalt, der eine eigene Prüfung braucht. Kann ein Teil unabhängig belegt oder widerlegt werden, erfassen wir ihn separat. Der Beschluss einer Regelung und ihr Inkrafttreten sind zum Beispiel zwei Prüfpunkte. Sinngleiche Wiederholungen zählen als eine Aussage mit mehreren Fundstellen.</p>
+      <p>Wir protokollieren abschnittsweise, welche Teile der Folge wir gesichtet haben und wo Lücken bleiben. Vor einer vollständigen Erfassung gleichen wir die Kandidaten in einem zweiten Durchgang ab. Die Prozentangabe zur Prüfabdeckung bezieht sich auf bereits erfasste Tatsachenbehauptungen, die in die Quote eingehen.</p>
+      <p><a href="https://github.com/4m3projects/politik4m3Facktencheck/blob/main/docs/STRUKTURIERTE_DATEN.md#aussagen-erfassen-und-erfassungslücken-prüfen">Vollständige Arbeitsanleitung zur Erfassung</a></p>
+    </section>
+
     <section class="section prose-plain" id="pruefstatus"><h2>Noch nicht geprüft, nicht überprüfbar oder nicht belegbar?</h2>
       <p>Drei Fälle ohne Wahr/Falsch-Urteil sehen ähnlich aus, bedeuten aber Verschiedenes. Wir halten sie strikt auseinander:</p>
       <ul class="verdict-list">
