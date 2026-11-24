@@ -11,7 +11,7 @@
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
     "researchNote": "ZDF-Metadaten und nur Auszüge eines öffentlichen, maschinell erstellten Dritttranskripts. Externe Quellen für die jeweils dokumentierten Sachbefunde gelesen. Originalplayer-Audio/Bilder nicht zugänglich; keine vollständige Transkript-, Bild- und Tonprüfung. Bei unsicherer Wortlaut-/Sprecherlage ist eine Nachkontrolle ausdrücklich erforderlich.",
-    "coverageNote": "13 ausgewählte Prüfgegenstände aus vier thematischen Blöcken; weite Suchfenster und ungesicherte Sprecheridentitäten. Die gesamte Laufzeit wurde nicht lückenlos auf Aussagen kontrolliert. Kein Gesamturteil über sämtliche Podcastaussagen möglich."
+    "coverageNote": "13 ausgewählte Prüfgegenstände aus vier Themenblöcken; sechs Sachurteile quellengeprüft, sieben weitere Originalstellen oder Sachfragen offen. Weite Suchfenster und ungesicherte Sprecheridentitäten. Keine vollständige Aussageerfassung der gesamten Laufzeit und kein Gesamturteil."
   },
   "legacyPoints": [],
   "sources": [
@@ -134,9 +134,9 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "China verfügt Ende 2026 über mehr als 1.000 nukleare Sprengköpfe.",
-      "status": "Abgeschlossen",
-      "verdict": "Widerlegt",
-      "reason": "Die öffentlich zugängliche SIPRI-Schätzung für Januar 2026 nennt rund 620 chinesische Kernsprengköpfe. Ein Bestand von mehr als 1.000 ist für den Podcastzeitpunkt nicht belegt. Die genaue Formulierung und Sprecherzuordnung sind anhand des Originaltons noch nachzuprüfen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – der konkrete Tatsachenkern ist mit den angegebenen externen Quellen abgleichbar, doch Wortlaut, zeitlicher Bezug und Zurechnung im Podcast müssen erst am Originalplayer bestätigt werden. Die bisher recherchierte Korrektur ist vorläufig nur ein Prüfhintergrund.",
       "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -150,7 +150,8 @@
         }
       ],
       "openQuestions": [
-        "Die genaue Formulierung und zeitliche Referenz im Originalton abgleichen."
+        "Die genaue Formulierung und zeitliche Referenz im Originalton abgleichen.",
+        "Exakten Wortlaut und Sprecher am YouTube-Original prüfen; prüfen, ob der Podcast diese Behauptung tatsächlich aufstellt."
       ],
       "occurrences": [
         {
@@ -171,16 +172,7 @@
           "timeHistory": []
         }
       ],
-      "relations": [],
-      "shortReason": "SIPRI schätzt für China Anfang 2026 rund 620, nicht mehr als 1.000 Sprengköpfe.",
-      "factIndex": {
-        "weight": 1.75,
-        "weightReason": "Relevante quantitative Einordnung eines zentralen geopolitischen Machtverhältnisses.",
-        "weightStatus": "Vorläufig",
-        "assessedBy": "ChatGPT",
-        "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
-      }
+      "relations": []
     },
     {
       "id": "2YKo9Y53UnI-A0002",
@@ -435,9 +427,9 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "96 Prozent der befragten Firmen seien nachweislich erfolgreich von Spionage, Datendiebstahl oder Sabotage betroffen gewesen.",
-      "status": "Abgeschlossen",
-      "verdict": "Irreführend / Kontext fehlt",
-      "reason": "Die hohe Betroffenheitsquote vermischt sichere und nur vermutete Fälle. Laut Bitkom waren 67 Prozent sicher betroffen, weitere 29 Prozent vermuteten Angriffe. Zu prüfen bleibt, ob die Sprecher diese Unterscheidung im Original selbst machen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – der konkrete Tatsachenkern ist mit den angegebenen externen Quellen abgleichbar, doch Wortlaut, zeitlicher Bezug und Zurechnung im Podcast müssen erst am Originalplayer bestätigt werden. Die bisher recherchierte Korrektur ist vorläufig nur ein Prüfhintergrund.",
       "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -451,7 +443,8 @@
         }
       ],
       "openQuestions": [
-        "Exakten Wortlaut und ob eine Einschränkung im Gespräch folgt prüfen."
+        "Exakten Wortlaut und ob eine Einschränkung im Gespräch folgt prüfen.",
+        "Exakten Wortlaut und Sprecher am YouTube-Original prüfen; prüfen, ob der Podcast diese Behauptung tatsächlich aufstellt."
       ],
       "occurrences": [
         {
@@ -472,16 +465,7 @@
           "timeHistory": []
         }
       ],
-      "relations": [],
-      "shortReason": "67 Prozent meldeten sichere Angriffe; weitere 29 Prozent vermuteten nur einen Angriff.",
-      "factIndex": {
-        "weight": 1.25,
-        "weightReason": "Eine statistische Abgrenzung, die das Ausmaß belegter Vorfälle erheblich beeinflusst.",
-        "weightStatus": "Vorläufig",
-        "assessedBy": "ChatGPT",
-        "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
-      }
+      "relations": []
     },
     {
       "id": "2YKo9Y53UnI-A0008",
@@ -728,9 +712,9 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Alischer Usmanow stand zum Veröffentlichungszeitpunkt der Folge weiterhin auf derselben EU-Sanktionsliste.",
-      "status": "Abgeschlossen",
-      "verdict": "Widerlegt",
-      "reason": "Die dokumentierte Streichung aus der betreffenden EU-Sanktionsliste datiert vom 22. September 2026. Vor einer Anrechnung muss geprüft werden, ob der Podcast tatsächlich einen fortbestehenden Listeneintrag behauptet oder nur den früheren Fall bespricht.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – der konkrete Tatsachenkern ist mit den angegebenen externen Quellen abgleichbar, doch Wortlaut, zeitlicher Bezug und Zurechnung im Podcast müssen erst am Originalplayer bestätigt werden. Die bisher recherchierte Korrektur ist vorläufig nur ein Prüfhintergrund.",
       "assessmentBasis": "ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -744,7 +728,8 @@
         }
       ],
       "openQuestions": [
-        "Originalaussage und genau gemeinte Liste im Kontext prüfen."
+        "Originalaussage und genau gemeinte Liste im Kontext prüfen.",
+        "Exakten Wortlaut und Sprecher am YouTube-Original prüfen; prüfen, ob der Podcast diese Behauptung tatsächlich aufstellt."
       ],
       "occurrences": [
         {
@@ -765,16 +750,7 @@
           "timeHistory": []
         }
       ],
-      "relations": [],
-      "shortReason": "Usmanow war bereits am 22. September 2026 von der betreffenden EU-Sanktionsliste gestrichen worden.",
-      "factIndex": {
-        "weight": 1,
-        "weightReason": "Zeitliche Einordnung des rechtlichen Beispiels.",
-        "weightStatus": "Vorläufig",
-        "assessedBy": "ChatGPT",
-        "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
-      }
+      "relations": []
     }
   ]
 }
