@@ -36,3 +36,5 @@ Weitere Arbeit: Gesamttranskript vollständig sichten, Originalton und Sprecheri
  
 
 <!-- Berichte und Statistik nach dieser Nachprüfung automatisch neu erzeugen. -->
+
+<!-- Generated statistics and chapter reports rebuilt after A0007 and A0014-A0016. -->
