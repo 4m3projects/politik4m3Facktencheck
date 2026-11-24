@@ -137,11 +137,11 @@
     },
     {
       "id": "S016",
-      "title": "Associated Press: Anthropic IPO bei 1,5 Billionen US-Dollar",
-      "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c",
-      "details": "Associated Press, 18.11.2026.",
+      "title": "Reuters: Anthropic IPO-Bewertung von 1,5 Billionen US-Dollar",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-valued-at-15-trillion-as-ipo-raises-record-81-billion-5037110",
+      "details": "Reuters, 18./19.11.2026.",
       "accessedOn": "2026-11-24",
-      "accessBasis": "Nachrichtenbericht zur Börsenbewertung von circa 1,5 Billionen US-Dollar bei Börsengang gelesen."
+      "accessBasis": "Reuters-Bericht zur IPO-Preisfestsetzung und der abgeleiteten Bewertung von 1,5 Billionen US-Dollar geöffnet und gelesen."
     },
     {
       "id": "S017",
@@ -161,11 +161,11 @@
     },
     {
       "id": "S019",
-      "title": "Bundespsychotherapeutenkammer: Resolution 49. DPT",
-      "url": "https://api.bptk.de/uploads/Resolution_Psychotherapeutische_Vertraulichkeit_absolut_vor_staatlichen_Zugriffen_schuetzen_ec4ec5079.pdf",
-      "details": "49. Deutscher Psychotherapeutentag, 13./14.11.2026.",
+      "title": "Psychotherapeutenkammer Berlin: Schutz therapeutischer Vertraulichkeit",
+      "url": "https://www.psychotherapeutenkammer-berlin.de/nachrichten/bundestag-staerkt-schutz-psychotherapeutischer-vertraulichkeit-im-bnd-gesetz",
+      "details": "Psychotherapeutenkammer Berlin, 13.11.2026.",
       "accessedOn": "2026-11-24",
-      "accessBasis": "Öffentlich zugängliche Resolution mit Hinweis auf verbesserten §22 BNDG-Schutz und verbleibende Schutzlücken beim Verfassungsschutz textlich eingesehen; kein eigener PDF-Seitenbildabgleich."
+      "accessBasis": "Text der fachlichen Pressemitteilung geöffnet und gelesen: §22 BNDG wurde verbessert, beim Verfassungsschutz verblieben nach Kammerdarstellung Schutzlücken. Keine eigene Rechtsentscheidung."
     }
   ],
   "speakers": [
