@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "13 ausgewählte Prüfgegenstände aus vier Themenblöcken; sechs Sachurteile quellengeprüft, sieben weitere Originalstellen oder Sachfragen offen. Weite Suchfenster und ungesicherte Sprecheridentitäten. Keine vollständige Aussageerfassung der gesamten Laufzeit und kein Gesamturteil.",
+  "coverageNote": "13 ausgewählte Prüfpunkte; jetzt zehn abgeschlossene Sachurteile und drei offene Punkte, weiterhin kein vollständiger Querschnitt durch die 48:43-minütige Folge. Die Fundstellen sind durch Auszüge einer maschinellen Dritttranskription eingegrenzt, aber nicht am Originalton bestätigt. Keine vollständige Bild-/Tonprüfung oder Gesamtampel.",
   "videoId": "2YKo9Y53UnI",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
@@ -15,42 +15,42 @@
   "referenceOccurrences": 0,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 7,
+    "Offen": 3,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 0,
-    "Abgeschlossen": 6
+    "Abgeschlossen": 10
   },
   "kindCounts": {
     "Tatsachenbehauptung": 13,
     "Meinung": 0,
     "Prognose": 0
   },
-  "completedFacts": 6,
-  "openFacts": 7,
+  "completedFacts": 10,
+  "openFacts": 3,
   "inProgressFacts": 0,
   "unverifiableFacts": 0,
-  "percentageDenominator": 6,
+  "percentageDenominator": 10,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 6,
-      "completedFactPercent": 100.0
+      "completedCount": 7,
+      "completedFactPercent": 70.0
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 0,
-      "completedFactPercent": 0.0
+      "completedCount": 1,
+      "completedFactPercent": 10.0
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 0,
-      "completedFactPercent": 0.0
+      "completedCount": 1,
+      "completedFactPercent": 10.0
     },
     {
       "category": "Widerlegt",
-      "completedCount": 0,
-      "completedFactPercent": 0.0
+      "completedCount": 1,
+      "completedFactPercent": 10.0
     },
     {
       "category": "Nicht ausreichend belegbar",
@@ -158,8 +158,8 @@
     "factsWithUncertainOwnRole": 13,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 5,
-      "Ungeklärt": 8
+      "Plausibel": 6,
+      "Ungeklärt": 7
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
