@@ -1,6 +1,6 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. 13 ausgewählte Prüfgegenstände aus vier thematischen Blöcken; weite Suchfenster und ungesicherte Sprecheridentitäten. Die gesamte Laufzeit wurde nicht lückenlos auf Aussagen kontrolliert. Kein Gesamturteil über sämtliche Podcastaussagen möglich.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. 13 ausgewählte Prüfgegenstände aus vier Themenblöcken; sechs Sachurteile quellengeprüft, sieben weitere Originalstellen oder Sachfragen offen. Weite Suchfenster und ungesicherte Sprecheridentitäten. Keine vollständige Aussageerfassung der gesamten Laufzeit und kein Gesamturteil.
 
 ZDF-Metadaten und nur Auszüge eines öffentlichen, maschinell erstellten Dritttranskripts. Externe Quellen für die jeweils dokumentierten Sachbefunde gelesen. Originalplayer-Audio/Bilder nicht zugänglich; keine vollständige Transkript-, Bild- und Tonprüfung. Bei unsicherer Wortlaut-/Sprecherlage ist eine Nachkontrolle ausdrücklich erforderlich.
 
@@ -100,7 +100,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** 96 Prozent der befragten Firmen seien nachweislich erfolgreich von Spionage, Datendiebstahl oder Sabotage betroffen gewesen.
 
-Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -119,7 +119,7 @@ Zeitgrundlage: Unvollständig eingesehenes zeitmarkiertes Dritttranskript und gr
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die hohe Betroffenheitsquote vermischt sichere und nur vermutete Fälle. Laut Bitkom waren 67 Prozent sicher betroffen, weitere 29 Prozent vermuteten Angriffe. Zu prüfen bleibt, ob die Sprecher diese Unterscheidung im Original selbst machen.
+Noch nicht geprüft – der konkrete Tatsachenkern ist mit den angegebenen externen Quellen abgleichbar, doch Wortlaut, zeitlicher Bezug und Zurechnung im Podcast müssen erst am Originalplayer bestätigt werden. Die bisher recherchierte Korrektur ist vorläufig nur ein Prüfhintergrund.
 
 Grundlage der Bewertung: ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.
 
@@ -135,6 +135,8 @@ Bewertungsuebergang: Erstbewertung oder offen gelassener Prüfpunkt durch ChatGP
 ### Offene Fragen und Unsicherheiten
 
 - Exakten Wortlaut und ob eine Einschränkung im Gespräch folgt prüfen.
+
+- Exakten Wortlaut und Sprecher am YouTube-Original prüfen; prüfen, ob der Podcast diese Behauptung tatsächlich aufstellt.
 
 ## 2YKo9Y53UnI-A0008
 

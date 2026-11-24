@@ -1,6 +1,6 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. 13 ausgewählte Prüfgegenstände aus vier thematischen Blöcken; weite Suchfenster und ungesicherte Sprecheridentitäten. Die gesamte Laufzeit wurde nicht lückenlos auf Aussagen kontrolliert. Kein Gesamturteil über sämtliche Podcastaussagen möglich.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. 13 ausgewählte Prüfgegenstände aus vier Themenblöcken; sechs Sachurteile quellengeprüft, sieben weitere Originalstellen oder Sachfragen offen. Weite Suchfenster und ungesicherte Sprecheridentitäten. Keine vollständige Aussageerfassung der gesamten Laufzeit und kein Gesamturteil.
 
 ZDF-Metadaten und nur Auszüge eines öffentlichen, maschinell erstellten Dritttranskripts. Externe Quellen für die jeweils dokumentierten Sachbefunde gelesen. Originalplayer-Audio/Bilder nicht zugänglich; keine vollständige Transkript-, Bild- und Tonprüfung. Bei unsicherer Wortlaut-/Sprecherlage ist eine Nachkontrolle ausdrücklich erforderlich.
 
@@ -52,7 +52,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Alischer Usmanow stand zum Veröffentlichungszeitpunkt der Folge weiterhin auf derselben EU-Sanktionsliste.
 
-Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -71,7 +71,7 @@ Zeitgrundlage: Unvollständig eingesehenes zeitmarkiertes Dritttranskript und gr
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die dokumentierte Streichung aus der betreffenden EU-Sanktionsliste datiert vom 22. September 2026. Vor einer Anrechnung muss geprüft werden, ob der Podcast tatsächlich einen fortbestehenden Listeneintrag behauptet oder nur den früheren Fall bespricht.
+Noch nicht geprüft – der konkrete Tatsachenkern ist mit den angegebenen externen Quellen abgleichbar, doch Wortlaut, zeitlicher Bezug und Zurechnung im Podcast müssen erst am Originalplayer bestätigt werden. Die bisher recherchierte Korrektur ist vorläufig nur ein Prüfhintergrund.
 
 Grundlage der Bewertung: ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.
 
@@ -87,5 +87,7 @@ Bewertungsuebergang: Erstbewertung oder offen gelassener Prüfpunkt durch ChatGP
 ### Offene Fragen und Unsicherheiten
 
 - Originalaussage und genau gemeinte Liste im Kontext prüfen.
+
+- Exakten Wortlaut und Sprecher am YouTube-Original prüfen; prüfen, ob der Podcast diese Behauptung tatsächlich aufstellt.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** 13 ausgewählte Prüfgegenstände aus vier thematischen Blöcken; weite Suchfenster und ungesicherte Sprecheridentitäten. Die gesamte Laufzeit wurde nicht lückenlos auf Aussagen kontrolliert. Kein Gesamturteil über sämtliche Podcastaussagen möglich.
+**Abdeckung: Teilbestand.** 13 ausgewählte Prüfgegenstände aus vier Themenblöcken; sechs Sachurteile quellengeprüft, sieben weitere Originalstellen oder Sachfragen offen. Weite Suchfenster und ungesicherte Sprecheridentitäten. Keine vollständige Aussageerfassung der gesamten Laufzeit und kein Gesamturteil.
 
 Stand: 2026-11-24 · Video: 2YKo9Y53UnI
 
@@ -13,8 +13,8 @@ ZDF-Metadaten und nur Auszüge eines öffentlichen, maschinell erstellten Drittt
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 13
-- Abgeschlossen: 9
-- Offen (noch nicht geprueft): 4
+- Abgeschlossen: 6
+- Offen (noch nicht geprueft): 7
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
 - Erfasste Behauptungsvorkommen: 13
@@ -30,16 +30,16 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 9 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 6 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 6 | 66.7 % |
+| Belegt | 6 | 100.0 % |
 | Teilweise belegt | 0 | 0.0 % |
-| Irreführend / Kontext fehlt | 1 | 11.1 % |
-| Widerlegt | 2 | 22.2 % |
+| Irreführend / Kontext fehlt | 0 | 0.0 % |
+| Widerlegt | 0 | 0.0 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 0 | nicht anwendbar |
 

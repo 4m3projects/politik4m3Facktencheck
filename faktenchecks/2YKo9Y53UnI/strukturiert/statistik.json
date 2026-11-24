@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "13 ausgewählte Prüfgegenstände aus vier thematischen Blöcken; weite Suchfenster und ungesicherte Sprecheridentitäten. Die gesamte Laufzeit wurde nicht lückenlos auf Aussagen kontrolliert. Kein Gesamturteil über sämtliche Podcastaussagen möglich.",
+  "coverageNote": "13 ausgewählte Prüfgegenstände aus vier Themenblöcken; sechs Sachurteile quellengeprüft, sieben weitere Originalstellen oder Sachfragen offen. Weite Suchfenster und ungesicherte Sprecheridentitäten. Keine vollständige Aussageerfassung der gesamten Laufzeit und kein Gesamturteil.",
   "videoId": "2YKo9Y53UnI",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
@@ -15,27 +15,27 @@
   "referenceOccurrences": 0,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 4,
+    "Offen": 7,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 0,
-    "Abgeschlossen": 9
+    "Abgeschlossen": 6
   },
   "kindCounts": {
     "Tatsachenbehauptung": 13,
     "Meinung": 0,
     "Prognose": 0
   },
-  "completedFacts": 9,
-  "openFacts": 4,
+  "completedFacts": 6,
+  "openFacts": 7,
   "inProgressFacts": 0,
   "unverifiableFacts": 0,
-  "percentageDenominator": 9,
+  "percentageDenominator": 6,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
       "completedCount": 6,
-      "completedFactPercent": 66.7
+      "completedFactPercent": 100.0
     },
     {
       "category": "Teilweise belegt",
@@ -44,13 +44,13 @@
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 1,
-      "completedFactPercent": 11.1
+      "completedCount": 0,
+      "completedFactPercent": 0.0
     },
     {
       "category": "Widerlegt",
-      "completedCount": 2,
-      "completedFactPercent": 22.2
+      "completedCount": 0,
+      "completedFactPercent": 0.0
     },
     {
       "category": "Nicht ausreichend belegbar",
