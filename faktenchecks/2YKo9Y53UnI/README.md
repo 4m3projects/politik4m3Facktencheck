@@ -1,40 +1,30 @@
 # Lanz + Precht, Folge 272 – Geheimdienste und Spionage: vorläufiger Faktencheck
 
-**Stand: Quellengeprüfter Teilbestand; keine vollständige Analyse.** Prüfung und Nachprüfung: 2026-11-24.
+**Teilprüfung · Erstprüfung ChatGPT (Kai), unabhängige Zweitprüfung Codex am 24.11.2026. Keine vollständige Analyse.**
 
-- Original: https://www.youtube.com/watch?v=2YKo9Y53UnI
-- ZDF-Mediathek: https://www.zdf.de/video/talk/lanz-precht-102/lanz-und-precht-folge272-100
+- Original: [YouTube](https://www.youtube.com/watch?v=2YKo9Y53UnI)
+- Herausgeberfassung: [ZDF](https://www.zdf.de/video/talk/lanz-precht-102/lanz-und-precht-folge272-100)
 - Titel: Beginnt ein neues Zeitalter der Spionage?
 - Kanal: ZDFheute Nachrichten / Lanz + Precht
 - Veröffentlichung: 2026-11-20
-- Laufzeit: 00:48:43
-- Recherche: ChatGPT (Kai), 2026-11-24
+- Aufnahme: Nicht unabhängig datiert.
+- Laufzeit: übernommener Wert 00:48:43; sichtbare YouTube-Anzeige am Prüftag 00:48:39. Abweichung ungeklärt.
+- Prüfstichtag: 2026-11-24
 
-## Ergebnis und Grenzen
+## Ergebnis und tatsächliche Abdeckung
 
-Ausgewählte Tatsachenkerne aus internationalen Beziehungen, dem Nvidia-Skandal, Wirtschaftsspionage und der deutschen Nachrichtendienstreform wurden unabhängig mit externen Quellen verglichen. Besonders relevant sind die chinesische Atomwaffenzahl (SIPRI: rund 620 Anfang 2026), der Schadenkorridor der Bitkom-Studie (211 bis 270,8 Milliarden Euro), die Differenz zwischen sicheren und vermuteten Angriffen, der Bundestagsbeschluss vom 13. November 2026 und der Zustellungsfall Usmanow. Die Nvidia-Berichterstattung belegt eine Affäre und behördliche Verdachtslagen, aber keinen bewiesenen Geheimnisverrat.
+Alle 16 bisherigen Datensätze wurden gegengeprüft und fünf Gegenstände ergänzt. Der Bestand enthält **18 abgeschlossene Sachbewertungen, eine Meinung und zwei offene Prüfkandidaten ohne nachgewiesenen eigenen Aussagebezug**. Das ist keine Statistik sämtlicher Aussagen der Folge. Der eigenständige [Zweitprüfungsbericht](NACHPRUEFUNG_2026-11-24.md) nennt die Befunde, tatsächlich gelesenen Quellen und Grenzen je Punkt.
 
-**Wichtiger Vorbehalt:** Die ursprünglich besprochenen Aussagen, Sprecher und Zeitmarken sind bislang nur aus Auszügen eines maschinellen Dritttranskripts abgeleitet. Einige kritische Formulierungen sind als weiter zu kontrollierender Prüfgegenstand erfasst und nicht als zweifelsfrei wörtliche Aussage aus dem Original zu verstehen. Deshalb ist **keine zuverlässige Ampel für die gesamte Folge** ableitbar.
+Unter anderem bestätigt wurden die dokumentierte Nvidia-Verdachtslage, Größenordnungen des VW-Datendiebstahls und des Bitkom-Schadenskorridors, der Reformbeschluss sowie kommunale Nichtzulassungen. Kontext brauchen sichere beziehungsweise vermutete Betroffenheit, Geheimdienstkontrolle und das politische EU-Sanktionsverfahren. Die chinesische Atomwaffenzahl widerspricht dem veröffentlichten Fachschätzstand; Jalta fand während des Zweiten Weltkriegs statt. Eine ungesicherte kategorische Spionagebehauptung und eine behauptete fortdauernde Usmanow-Listung werden dem Podcast nicht als eigene Fehler zugerechnet.
 
-## Abdeckung
+Codex las das gesamte im Originalplayer angezeigte deutsche Transkript von 00:01 bis zum letzten Eintrag bei 48:28 einschließlich Abspann. Die Fundstellen wurden daran eingegrenzt; frühere Bereiche bleiben dokumentiert. Das bestätigt keine konkreten Stimmen und keinen fehlerfreien Wortlaut. **Kein Originalton gehört, keine durchgehende Bildprüfung.** Schluss und Laufzeitabweichung bleiben offen. Darstellung textlich teilweise geprüft; audiovisuelle Gesamtprüfung fehlt.
 
-16 ausgewählte Prüfpunkte; davon 14 mit abgeschlossenem Sachurteil und 2 offen; keine lückenlose Erfassung des 48:43 Minuten langen Gesprächs. Audio, Video, Schnitt, Einspieler und Bildaussagen wurden nicht überprüft. Die Fundstellen sind grobe Text-Suchfenster und müssen mit dem YouTube-Original abgeglichen werden. **Die Darstellung/Rhetorik ist nicht vollständig geprüft.**
+## Lesen
 
-Die maschinell erzeugten Texte sind nicht zur Veröffentlichung als Transkript freigegeben. Alle öffentlichen Formulierungen sind eigene inhaltliche Zusammenfassungen; verlinkte Quellen bleiben bei ihren jeweiligen Rechteinhabern.
+[Kurzüberblick](01_kurz.md) · [Thematische Analyse und Lücken](02_analyse.md) · [Faktenbericht](03_faktencheck.md) · [Unabhängige Zweitprüfung](NACHPRUEFUNG_2026-11-24.md) · [Generierte Einzelprüfungen](strukturiert/README.md)
 
-## Dokumentation
+## Aktualisierung vom 24.11.2026 durch Codex
 
-[Überblick](01_kurz.md) · [Analyse und Prüflücken](02_analyse.md) · [Faktenbericht](03_faktencheck.md) · [Einzelpunkte](strukturiert/aussagen.json) · [Themen](themen.json)
+Die Erstfassung beruhte auf Ausschnitten einer maschinellen Drittabschrift. Die Zweitprüfung ergänzt vollständige Originalplayertext-Lektüre, unabhängig geöffnete Sachquellen, berichtigte Zeitbereiche, Gegenpositionen im Gespräch und fünf neue Gegenstände. Sie präzisiert Quellenarten und Bewertungsdefinitionen, erhält die 14 bisherigen Sachurteile und dokumentiert zwei zurückgenommene Zurechnungen in HP-C0003. 14 bisherige Bedeutungsfaktoren wurden gegengeprüft; neue Faktoren bleiben vorläufig. Keine manuelle Gesamtampel.
 
-Nachprüfung am 24.11.2026: Mit besser indexierten Gesprächsauszügen wurden die Angaben zum chinesischen Sprengkopfbestand, zum Anthropic-Börsengang und zur Nachrichtendienstreform enger abgeglichen. Den Unterschied zwischen gesetzlichen Schutzvorschriften und verbleibenden Kritikpunkten dokumentieren A0010 und A0011. Die ursprüngliche allgemeine Warnung vor einem ungesicherten Gesamturteil gilt unverändert.
-
-Ergänzung 24.11.2026 (Kai): Bitkom-Angabe bei etwa 15:38 präzisiert (96 Prozent mit 67 Prozent sicheren und 29 Prozent vermuteten Fällen); weitere drei Punkte zu niedersächsischen Kommunalwahlen 2026 ab etwa 36:38 erfasst. Dabei sind das Landtagsgesetz, die Wahlentscheidung der kommunalen Wahlausschüsse und die Grenzen der Eilrechtsprechung voneinander zu unterscheiden. Keine durchgehende Transkript- oder Tonkontrolle.
-
-Weitere Arbeit: Gesamttranskript vollständig sichten, Originalton und Sprecheridentitäten kontrollieren, gesetzliche Detailvoraussetzungen der Nachrichtendienstreform nachlesen, offene Behauptungen nachrecherchieren und ein unabhängiges Reviewergebnis einholen.
-
-<!-- ChatGPT: Build der strukturierten Berichte über den GitHub-Actions-Generator veranlasst. -->
- 
-
-<!-- Berichte und Statistik nach dieser Nachprüfung automatisch neu erzeugen. -->
-
-<!-- Generated statistics and chapter reports rebuilt after A0007 and A0014-A0016. -->
+Offen bleiben die zwei Kandidaten, gesetzliche Detailprüfung, alle bisher ausgelassenen Tatsachenbehauptungen sowie Bild und Ton. Öffentliche Beschreibungen sind unsere eigenen Paraphrasen. Keine Transkripte, Medien oder Quellenkopien werden veröffentlicht.

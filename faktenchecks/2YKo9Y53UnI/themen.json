@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "videoId": "2YKo9Y53UnI",
-  "basis": "Manuelle Zuordnung der tatsächlich erfassten 13 Prüfpunkte; vier grobe Themenblöcke, Zeitfenster nur Suchhilfen. Bestehende IDs wirtschaft und ki wiederverwendet; drei neue übergreifende Themen im Hauptprojekt. Ergänzende Nachprüfung am 24.11.2026: Niedersachsen-Kommunalwahlen A0014–A0016 und Bitkom A0007 nachgeprüft.",
+  "basis": "Manuelle Zuordnung der bisherigen 16 und fünf neuen Prüfgegenstände nach unabhängiger Zweitprüfung Codex am 24.11.2026. Gesamtes angezeigtes Originaltranskript gelesen, keine vollständige Sach- oder audiovisuelle Prüfung.",
   "topics": [
     {
       "topic": "geheimdienste",
@@ -9,9 +9,9 @@
       "basis": "Überwachung, Spionage und Nachrichtendienstreform im zentralen Teil.",
       "segments": [
         {
-          "startSeconds": 300,
-          "endSeconds": 1900,
-          "note": "Industrie- und Nachrichtendienstthemen."
+          "startSeconds": 479,
+          "endSeconds": 2160,
+          "note": "Grobe redaktionelle Themenabdeckung aus vollständig gelesenem Originalplayertext; keine akustisch kontrollierte Grenze."
         }
       ]
     },
@@ -21,9 +21,9 @@
       "basis": "Kontrolle und Grenzen staatlicher Sicherheitsbefugnisse sowie Justizfall.",
       "segments": [
         {
-          "startSeconds": 1260,
-          "endSeconds": 2800,
-          "note": "Bürgerrechte und gerichtliche Rechtskontrolle."
+          "startSeconds": 1246,
+          "endSeconds": 2880,
+          "note": "Grobe redaktionelle Themenabdeckung aus vollständig gelesenem Originalplayertext; keine akustisch kontrollierte Grenze."
         }
       ]
     },
@@ -33,9 +33,9 @@
       "basis": "Großmachtbeziehungen, Sanktionen und Sicherheitsinteressen.",
       "segments": [
         {
-          "startSeconds": 120,
-          "endSeconds": 600,
-          "note": "Geopolitik und internationale Machtkonflikte."
+          "startSeconds": 230,
+          "endSeconds": 2866,
+          "note": "Grobe redaktionelle Themenabdeckung aus vollständig gelesenem Originalplayertext; keine akustisch kontrollierte Grenze."
         }
       ]
     },
@@ -45,9 +45,9 @@
       "basis": "Volkswagen-Fall und Unternehmensschäden.",
       "segments": [
         {
-          "startSeconds": 700,
-          "endSeconds": 1350,
-          "note": "Industriespionage und volkswirtschaftliche Folgen."
+          "startSeconds": 897,
+          "endSeconds": 1234,
+          "note": "Grobe redaktionelle Themenabdeckung aus vollständig gelesenem Originalplayertext; keine akustisch kontrollierte Grenze."
         }
       ]
     },
@@ -57,9 +57,9 @@
       "basis": "Nvidia und KI-Chipindustrie als Konfliktgegenstand.",
       "segments": [
         {
-          "startSeconds": 330,
-          "endSeconds": 700,
-          "note": "Wirtschaftliche und sicherheitspolitische Bedeutung der KI."
+          "startSeconds": 479,
+          "endSeconds": 716,
+          "note": "Grobe redaktionelle Themenabdeckung aus vollständig gelesenem Originalplayertext; keine akustisch kontrollierte Grenze."
         }
       ]
     },
@@ -69,9 +69,9 @@
       "basis": "Im letzten Gesprächsteil werden Nichtzulassung und Verfassungstreueprüfung kommunaler Direktwahlbewerber in Niedersachsen besprochen.",
       "segments": [
         {
-          "startSeconds": 2198,
-          "endSeconds": 2343,
-          "note": "Wahlzulassung und Verfassungstreueprüfung vor niedersächsischen Kommunalwahlen."
+          "startSeconds": 2202,
+          "endSeconds": 2496,
+          "note": "Grobe redaktionelle Themenabdeckung aus vollständig gelesenem Originalplayertext; keine akustisch kontrollierte Grenze."
         }
       ]
     }
@@ -80,8 +80,7 @@
     {
       "claimId": "2YKo9Y53UnI-A0001",
       "topics": [
-        "internationale-politik",
-        "ki"
+        "internationale-politik"
       ]
     },
     {
@@ -130,7 +129,7 @@
       "claimId": "2YKo9Y53UnI-A0008",
       "topics": [
         "geheimdienste",
-        "wirtschaft"
+        "rechtsstaat"
       ]
     },
     {
@@ -189,6 +188,40 @@
         "rechtsstaat",
         "geheimdienste"
       ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0017",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0018",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0019",
+      "topics": [
+        "rechtsstaat",
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0020",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
+    },
+    {
+      "claimId": "2YKo9Y53UnI-A0021",
+      "topics": [
+        "geheimdienste",
+        "rechtsstaat"
+      ]
     }
   ],
   "history": [
@@ -201,6 +234,11 @@
       "date": "2026-11-24",
       "agent": "ChatGPT",
       "change": "A0014–A0016 zu Wahlen und Rechtsstaat zugeordnet, A0016 auch Geheimdienste; zusätzlicher Kontext zu Bitkom A0007."
+    },
+    {
+      "date": "2026-11-24",
+      "agent": "Codex",
+      "change": "Fünf neue Gegenstände zu bestehenden Themen zugeordnet; sachfremde KI-Zuordnung der Atomwaffenzahl sowie Wirtschaftszuordnung des Reformbeschlusses berichtigt. Keine neue öffentliche Kategorie; alle sechs Themen bestehen bereits."
     }
   ]
 }

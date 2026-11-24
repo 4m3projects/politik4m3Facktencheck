@@ -2,20 +2,25 @@
   "schemaVersion": 1,
   "videoId": "2YKo9Y53UnI",
   "review": {
-    "status": "Noch nicht geprüft",
+    "status": "Teilweise geprüft",
     "checkedOn": "2026-11-24",
-    "by": "ChatGPT",
-    "basis": "Originalbild und Originalton nicht geprüft; keine verlässliche Grundlage für vollständige Rhetorikbewertung.",
-    "coverage": "Keine audiovisuelle Prüfung.",
+    "by": "Codex",
+    "basis": "Vollständige Lektüre des im Originalplayer angezeigten deutschen Transkripts einschließlich Abspann; keine akustische und keine durchgehende Bildkontrolle.",
+    "coverage": "Textgrundlage 00:01–48:28 gelesen. Keine audiovisuell bestätigten Einzelhinweise; annotations bleibt leer.",
     "limits": [
-      "Nur einzelne Abschriftauszüge als Suchhilfe eingesehen.",
-      "Sprecherwechsel, Tonfall, Schnitt und rhetorische Gesamtdarstellung nicht geprüft."
+      "Stimmen, Tonfall, Bildinhalt, Einblendungen, Schnitt und audiovisuelle Gesamtwirkung nicht geprüft.",
+      "Automatische Textfehler möglich; Schluss nach letztem Transkriptbeginn nicht eigenständig kontrolliert."
     ],
     "history": [
       {
         "date": "2026-11-24",
         "by": "ChatGPT",
         "change": "Audiovisuelle Prüfung ausdrücklich offen gelassen."
+      },
+      {
+        "date": "2026-11-24",
+        "by": "Codex",
+        "change": "Originalplayertranskript vollständig gelesen; Darstellungsprüfung textlich begonnen, keine vollständige audiovisuelle Prüfung behauptet."
       }
     ]
   },
