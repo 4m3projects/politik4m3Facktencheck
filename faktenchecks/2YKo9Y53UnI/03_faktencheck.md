@@ -7,9 +7,9 @@
 - Die Nachrichtendienstreform wurde am 13. November 2026 vom Bundestag beschlossen; die offiziellen Beispiele umfassen unter Voraussetzungen aktive Gegenmaßnahmen gegen fremde Hackerinfrastruktur. Quelle: https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-nachrichtendienste-1231530
 
 ## Weitere Nachprüfung am 24. November 2026
-- Anthropics IPO-Bewertung lag nach Unternehmensmeldungen und AP beim Ausgabepreis von 83 US-Dollar bei rund 1,5 Billionen US-Dollar. Der Börsengang begann am 19. November 2026. Quellen: https://www.anthropic.com/news/anthropic-prices-initial-public-offering?hl=en-US und https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c
+- Anthropics IPO-Bewertung lag nach Unternehmensmeldungen und Reuters beim Ausgabepreis von 83 US-Dollar bei rund 1,5 Billionen US-Dollar. Der Börsengang begann am 19. November 2026. Quellen: https://www.anthropic.com/news/anthropic-prices-initial-public-offering?hl=en-US und https://www.investing.com/news/stock-market-news/anthropic-valued-at-15-trillion-as-ipo-raises-record-81-billion-5037110
 - Die Nachrichtendienstreform ist nicht gleichbedeutend mit Überwachung ohne externe Kontrolle: Ein Unabhängiger Kontrollrat hat bei bestimmten intensiven Eingriffen Befugnisse zur Vorabkontrolle. Quelle: https://www.bundesregierung.de/breg-de/aktuelles/bnd-nachrichtendienste-reform-2449400
-- Beim Schutz von Therapiegesprächen muss zwischen Nachbesserungen für den BND und verbleibenden Lücken beim Verfassungsschutz unterschieden werden. Eine genaue juristische Endnormenprüfung fehlt noch. Quelle: https://api.bptk.de/uploads/Resolution_Psychotherapeutische_Vertraulichkeit_absolut_vor_staatlichen_Zugriffen_schuetzen_ec4ec5079.pdf
+- Beim Schutz von Therapiegesprächen muss zwischen Nachbesserungen für den BND und verbleibenden Lücken beim Verfassungsschutz unterschieden werden. Eine genaue juristische Endnormenprüfung fehlt noch. Quelle: https://www.psychotherapeutenkammer-berlin.de/nachrichten/bundestag-staerkt-schutz-psychotherapeutischer-vertraulichkeit-im-bnd-gesetz
 
 ## Korrektur- und Kontextkandidaten
 - Die Schätzung von SIPRI beträgt etwa 620 chinesische Kernsprengköpfe im Januar 2026; eine Zahl über 1.000 ist damit nicht als tatsächlicher damaliger Bestand belegt. Quelle: https://www.sipri.org/yearbook/2026/08
