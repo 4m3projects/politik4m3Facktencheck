@@ -32,3 +32,5 @@ Weitere Arbeit: Gesamttranskript vollständig sichten, Originalton und Sprecheri
 
 <!-- ChatGPT: Build der strukturierten Berichte über den GitHub-Actions-Generator veranlasst. -->
  
+
+<!-- Berichte und Statistik nach dieser Nachprüfung automatisch neu erzeugen. -->
