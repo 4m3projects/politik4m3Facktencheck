@@ -12,5 +12,8 @@ Der Bundestag verabschiedete die Reform am 13. November 2026. Der BND soll unter
 ## 4. 00:31:40–00:48:43 – Rechtsstaat und weitere Beispiele
 Der Usmanow-Fall illustriert die gerichtliche Kontrolle behördlichen Handelns: Der BGH beanstandete die verweigerte Zustellung. Er entschied damit nicht die gesamte Klage. Zudem war die entsprechende EU-Sanktionierung schon am 22. September 2026 entfallen. Weitere Gesprächsteile, etwa zu Wahlen und Parteizulassung, sind noch nicht hinreichend erschlossen.
 
+## 5. Ca. 00:36:38–00:39:03 – Wahlzulassung und Verfassungstreue in Niedersachsen
+Bei Direktwahlen zu kommunalen Spitzenämtern wurden vier Bewerber der AfD nicht zugelassen. Der niedersächsische Landtag beschloss im April 2026 strengere Prüfabläufe, während die Verfassungstreue als Wählbarkeitsvoraussetzung schon zuvor bestand. Die kommunalen Wahlausschüsse entscheiden eigenverantwortlich. Das Niedersächsische Oberverwaltungsgericht wies Eilbeschwerden prozessual zurück; daraus folgt keine abschließende Entscheidung über die Rechtmäßigkeit sämtlicher Ausschlüsse. Die Zeiten sind Suchfenster eines Dritttranskripts, keine am Originalton bestätigten Grenzen.
+
 ## Methodische Grenzen
 Die genannten Kapitel sind **redaktionelle Themenfenster**, keine verifizierten Originalkapitel. Der verfügbare maschinelle Dritttext wurde nicht vollständig kontrolliert, Originalton und Bilder wurden nicht abgespielt. Große Fundstellenfenster sind lediglich Suchhilfen. Der vollständige Gesprächsinhalt und die Sprecherzuordnung müssen später unabhängig geprüft werden. Es darf keine Gesamtbewertung oder vollständige rhetorische Kontrolle behauptet werden.
