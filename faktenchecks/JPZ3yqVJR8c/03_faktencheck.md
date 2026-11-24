@@ -2,7 +2,7 @@
 
 **Teilprüfung · aktualisiert am 21. November 2026**
 
-Die Sachrecherche ist noch nicht abgeschlossen: 101 Tatsachenprüfungen tragen ein begründetes Ergebnis, eine weitere bleibt ohne Endbewertung offen. 38 Inhalte sind als Meinungen oder Prognosen eingeordnet. Eine statistische Gesamtnote für das Video ist daraus nicht zulässig. Die Bewertung der erfassten Aussagen, die Sicherheit ihrer Zuordnung und die Reichweite der Bild-/Tonprüfung sind getrennte Fragen.
+Für die erfassten Aussagen sind alle 102 Sachprüfungen abgeschlossen. Weitere 38 Inhalte sind als Meinungen oder Prognosen eingeordnet. Die Auswertung bleibt eine Teilprüfung. Eine statistische Gesamtnote für das Video ist daraus nicht zulässig. Die Bewertung der erfassten Aussagen, die Sicherheit ihrer Zuordnung und die Reichweite der Bild-/Tonprüfung sind getrennte Fragen.
 
 ## Wichtigste Befunde
 
@@ -18,7 +18,7 @@ Diese Befunde sind eigene Bewertungen einzelner Prüfgegenstände, keine pauscha
 
 ## Verbleibende Arbeit und ungeklärte Ergebnisse
 
-1. **A0052:** Die konkrete Grönemeyer-Äußerung zu KI-Musik finden und vollständig im Kontext lesen oder hören. Das nur teilweise zugängliche Interview von 2023 ist kein Ersatzbeleg.
+1. **A0052:** Als „Teilweise belegt“ abgeschlossen: Grönemeyers Kritik an KI-generierten Liedtexten ist belegt, das konkret zugeschriebene Urteil über KI-Musik im Allgemeinen nicht. Die genaue Originalfundstelle bleibt für eine weitergehende Prüfung hilfreich.
 2. **Bild und Ton:** Die ganze Folge einschließlich Podcastausschnitten und Schlusssekunden mit tatsächlich zugänglichem Originalton und laufendem Bild abgleichen. Die bisherige Textgrundlage und Bildstichproben decken dies nicht ab.
 
 15 weitere Aussagen wurden nach zwei dokumentierten Recherchewegen als nicht ausreichend belegbar eingeordnet. Das sind aktuelle ungeklärte Ergebnisse, keine widerlegten Aussagen und keine Garantie, dass es keine weiteren Belege gibt. Für private Produktions- und Zahlungsbehauptungen fehlen hinreichende öffentliche Nachweise. Die jeweiligen nächsten Belegschritte bleiben in den Einzelprüfungen sichtbar.
@@ -45,7 +45,7 @@ Diese Befunde sind eigene Bewertungen einzelner Prüfgegenstände, keine pauscha
 
 Die [Einzelberichte](strukturiert/README.md) ordnen Belege direkt zu. Institution, Datum, URL, Abrufdatum und tatsächliche Zugriffsgrundlage stehen bei jeder Quelle im [zentralen Datensatz](strukturiert/aussagen.json). Es wurden nur die dort beschriebenen Abschnitte gelesen; nicht sämtliche Originalstudien, Beweise oder Rohdatensätze eigenständig repliziert. Unternehmensmitteilungen sind als Selbstauskunft behandelt.
 
-Die Veröffentlichung dieser ausdrücklich als Teilprüfung gekennzeichneten Fassung im Repository und ihre Übertragung nach main wurden am 20. November 2026 ausdrücklich beauftragt. Der aktuelle Stand enthält eine offene Sachprüfung; die Grenzen der Bild- und Tonprüfung bestehen fort. Technische Prüfungen werden vor Abschluss ausgeführt; sie ersetzen keine abschließende inhaltliche oder rechtliche Prüfung.
+Die Veröffentlichung dieser ausdrücklich als Teilprüfung gekennzeichneten Fassung im Repository und ihre Übertragung nach main wurden am 20. November 2026 ausdrücklich beauftragt. Die Grenzen der Bild- und Tonprüfung bestehen fort. Technische Prüfungen werden vor Abschluss ausgeführt; sie ersetzen keine abschließende inhaltliche oder rechtliche Prüfung.
 
 Aktualisierungsvermerk, 20. November 2026: Drei zuvor offene Sachprüfungen mit neuen Primärquellen abgeschlossen; Versionsunsicherheit der GPT-5-Zahl weiter konkretisiert.
 
@@ -57,4 +57,4 @@ Veröffentlichungsvermerk, 20. November 2026: Teilprüfung auf ausdrücklichen N
 
 ## Ergänzung vom 21. November 2026
 
-Die Freiburger Grafikherkunft ist an Quellenliste und amtlichen Wahlwerten teilweise nachvollzogen; eine Befragung stützt KI-bezogene Karrieresorgen bei einem benannten Teil der mathematischen Fachwelt. 15 unzureichend belegte Ergebnisse und die verbleibende Originalbelegprüfung sind einzeln dokumentiert. [Recherchebericht](NACHRECHERCHE_2026-11-21.md). Keine vollständige Bild- oder Tonprüfung und kein Gesamtabschluss.
+Die Freiburger Grafikherkunft ist an Quellenliste und amtlichen Wahlwerten teilweise nachvollzogen; eine Befragung stützt KI-bezogene Karrieresorgen bei einem benannten Teil der mathematischen Fachwelt. 15 weitere unzureichend belegte Ergebnisse und der damalige Stand der Originalbelegprüfung sind einzeln dokumentiert. [Recherchebericht](NACHRECHERCHE_2026-11-21.md). Keine vollständige Bild- oder Tonprüfung und kein Gesamtabschluss.
