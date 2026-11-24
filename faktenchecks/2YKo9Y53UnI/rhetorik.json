@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "videoId": "2YKo9Y53UnI",
+  "review": {
+    "status": "Nicht geprüft",
+    "checkedOn": "2026-11-24",
+    "by": "ChatGPT",
+    "basis": "Originalbild und Originalton nicht geprüft; keine verlässliche Grundlage für vollständige Rhetorikbewertung.",
+    "coverage": "Keine audiovisuelle Prüfung.",
+    "limits": [
+      "Nur einzelne Abschriftauszüge als Suchhilfe eingesehen.",
+      "Sprecherwechsel, Tonfall, Schnitt und rhetorische Gesamtdarstellung nicht geprüft."
+    ],
+    "history": [
+      {
+        "date": "2026-11-24",
+        "by": "ChatGPT",
+        "change": "Audiovisuelle Prüfung ausdrücklich offen gelassen."
+      }
+    ]
+  },
+  "annotations": []
+}
