@@ -1,8 +1,8 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. 13 ausgewählte Prüfpunkte; jetzt zehn abgeschlossene Sachurteile und drei offene Punkte, weiterhin kein vollständiger Querschnitt durch die 48:43-minütige Folge. Die Fundstellen sind durch Auszüge einer maschinellen Dritttranskription eingegrenzt, aber nicht am Originalton bestätigt. Keine vollständige Bild-/Tonprüfung oder Gesamtampel.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. 16 ausgewählte Prüfpunkte aus 48:43 Minuten: 14 abgeschlossene Sachbewertungen und 2 offen. Die Bereiche 15:34–16:02 und 36:38–39:03 zusätzlich textgebunden recherchiert. Kein vollständiger Querschnitt der ganzen Folge, keine akustisch bestätigten Sprecher oder kontrollierten Originalzeiten, keine vollständige Rhetorikprüfung.
 
-Nachprüfung am 24.11.2026: indexierte Dritttranskript-Ausschnitte insbesondere 00:07–00:28, dazu SIPRI, Anthropic-Unternehmensmeldungen, AP, Bundesregierung und Fachverbandsstellungnahmen. Nicht die gesamte Folge gesichtet, keinen Originalton oder Originalbilder kontrolliert.
+Nachprüfung am 24.11.2026: indexierte Dritttranskript-Ausschnitte insbesondere 00:07–00:28, dazu SIPRI, Anthropic-Unternehmensmeldungen, AP, Bundesregierung und Fachverbandsstellungnahmen. Nicht die gesamte Folge gesichtet, keinen Originalton oder Originalbilder kontrolliert. Nachprüfung 24.11.2026: Bitkom-Originaltext und Gesprächstelle 15:34–16:02; niedersächsisches Innenministerium vom 28.04.2026, NDR-Fallberichte und FAQ, OVG-Mitteilung vom 04.09.2026, Gesprächsfenster 36:38–39:03. Kein Originalton gehört.
 
 ## 2YKo9Y53UnI-A0005
 
@@ -98,45 +98,48 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** 96 Prozent der befragten Firmen seien nachweislich erfolgreich von Spionage, Datendiebstahl oder Sabotage betroffen gewesen.
+**Eigene Beschreibung:** Markus Lanz nennt im Zusammenhang mit der Bitkom-Studie 2026 eine Betroffenheitsquote von 96 Prozent der befragten Unternehmen, ohne unmittelbar zwischen sicher und nur vermutlich betroffenen Betrieben zu unterscheiden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
-- [00:17:30–00:22:20](https://www.youtube.com/watch?v=2YKo9Y53UnI&t=1050s) · nicht bestaetigt · Behauptung · Ungefähr
-  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Ungeklärt**. Aussagebezug: **Plausibel**.
+- [00:15:30–00:16:02](https://www.youtube.com/watch?v=2YKo9Y53UnI&t=930s) · nicht bestaetigt; Kandidat: Markus Lanz · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
 
-Grundlage der Sprecherzuordnung: Zuordnung im eingesehenen Transkriptauszug nicht hinreichend sicher.
+Grundlage der Sprecherzuordnung: Markus-Lanz-Sprecherlabel im maschinellen Dritttranskript bei etwa 15:34–16:02; Stimme nicht eigenständig identifiziert.
 
 Grundlage des Aussagebezugs: Eigenständig diskutierter Tatsachenkern; Originalton und genaue Aussagehaltung noch zu kontrollieren.
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Weites Textsuchfenster; keine kontrollierte Originalzeitmarke. Bei unsicherer Zuschreibung nicht als erwiesene eigene Aussage des Sprechers behandeln.
+Fundstellenhinweis: Das alte breite Suchfenster bleibt in timeHistory. Neues ungefähres Textfenster; kein Originaltonabgleich.
 
-Zeitgrundlage: Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.
+Zeitgrundlage: Dritttranskript mit Zeitmarke ca. 15:34–16:02, nicht am Originalplayer nachgehört.
+
+Frueherer Suchbereich: [00:17:30–00:22:20](https://www.youtube.com/watch?v=2YKo9Y53UnI&t=1050s), Ungefähr. Unvollständig eingesehenes zeitmarkiertes Dritttranskript und grobe Themenverortung; Originalplayer nicht verifiziert.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – der konkrete Tatsachenkern ist mit den angegebenen externen Quellen abgleichbar, doch Wortlaut, zeitlicher Bezug und Zurechnung im Podcast müssen erst am Originalplayer bestätigt werden. Die bisher recherchierte Korrektur ist vorläufig nur ein Prüfhintergrund.
+Der Wert von 96 Prozent entspricht der Bitkom-Studie, umfasst aber ausdrücklich 67 Prozent nach eigener Angabe sicher von Angriffen betroffene und weitere 29 Prozent nur vermutlich betroffene Unternehmen. Im zeitmarkierten Dritttranskript nennt Lanz die Gesamtquote ohne diesen Unterschied. Der unkommentierte Zahlengebrauch kann eine höhere Beweissicherheit suggerieren; die gesamte Gesprächspassage und mögliche spätere Erläuterungen wurden nicht am Originalton geprüft.
 
-Grundlage der Bewertung: ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand.
+Grundlage der Bewertung: ChatGPT (Kai), 24.11.2026: teilweise zeitmarkierte Dritttranskript-Auszüge und die explizit angeführten externen Sachquellen. Keine Wiedergabe von Bild/Originalton, Originalformulierungen und Sprecher teilweise unsicher; eingeschränkter Teilbestand. Gezielt mit Bitkom-Primärquelle vom 26.08.2026 und zeitmarkierter Dritttranskript-Fundstelle um 15:38 abgeglichen (Kai, 24.11.2026); kein Originalton gehört.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026.
+Bewertungsuebergang: Erstbewertung oder offen gelassener Prüfpunkt durch ChatGPT am 24.11.2026. Ergänzende Quellenprüfung 24.11.2026 durch ChatGPT/Kai: Offen zu Irreführend / Kontext fehlt; exakte statistische Unterscheidung hinzugefügt.
 
 ### Zugeordnete Quellen
 
 - [Bitkom: Angriffe auf deutsche Wirtschaft 2026](https://www.bitkom.org/Presse/Presseinformation/Angriffe-auf-deutsche-Wirtschaft-Spur-auslaendische-Geheimdienste) · Bitkom, Pressemitteilung 2026.
   Quellenzugriff am 2026-11-24. Zahlen gelesen: 67 Prozent sicher betroffen, 29 Prozent vermutet, Schäden hochgerechnet als Korridor. Sachquelle für die in reason genau abgegrenzte Bewertung; Originalwortlaut nicht durch diese Quelle belegt.
 
+- [HappyScribe: zeitmarkierte Fremdtranskription Folge 272](https://podcasts.happyscribe.com/de/lanz-precht/272-beginnt-ein-neues-zeitalter-der-spionage) · Automatische Transkription, keine amtlich geprüfte Sprecherfassung.
+  Quellenzugriff am 2026-11-24. Die öffentlich indexierten Auszüge mit Sprecherlabels und ungefähren Zeitmarken von 00:07 bis 00:28 gelesen; kein Originalton und kein Originalbild geprüft. Dient allein als Kontext- und Suchhilfe. Ungefährer Wortsinngrenzen- und Zeitbezug aus maschinellem Fremdtranskript; keine unabhängige Sachquelle.
+
 ### Offene Fragen und Unsicherheiten
 
-- Exakten Wortlaut und ob eine Einschränkung im Gespräch folgt prüfen.
-
-- Exakten Wortlaut und Sprecher am YouTube-Original prüfen; prüfen, ob der Podcast diese Behauptung tatsächlich aufstellt.
+- Prüfen, ob die 96-Prozent-Angabe im Originalton oder später im Gespräch mit der nötigen Unterscheidung erläutert wird.
 
 ## 2YKo9Y53UnI-A0008
 

@@ -18,6 +18,12 @@
 
 **Achtung: Die Einordnung der Sachkerne ist nicht gleichbedeutend mit einer bestätigten Zuschreibung an Lanz oder Precht.** Kritische Wortlaute und Sprecher sind im Originalton abzugleichen, bevor die Ergebnisse der gesamten Folge zugerechnet werden.
 
+## Nachprüfung Wirtschaftsschutz und Niedersachsen, 24. November 2026
+- **Bitkom, ca. 15:38:** Die Angabe 96 Prozent beinhaltet 67 Prozent sicher und 29 Prozent nur vermutlich von Angriffen betroffene Unternehmen. Ohne die Unterscheidung entsteht eine irreführende Sicherheit; der ganze Gesprächskontext wurde nicht akustisch kontrolliert. Quelle: https://www.bitkom.org/Presse/Presseinformation/Angriffe-auf-deutsche-Wirtschaft-Spur-auslaendische-Geheimdienste
+- **Kommunalwahl Niedersachsen, ca. 36:38–39:03:** Vier AfD-Bewerber für kommunale Spitzenämter waren nicht zugelassen, darunter Martin Sichert und Justin Vogel. Keine Aussage über alle AfD-Kandidaturen. Quelle: https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/debatte-um-verfassungstreue-check-afd-kandidaten-klagen%2Cafd-1212.html
+- **Rechtliche Voraussetzungen:** Die rot-grüne Mehrheit beschloss am 28. April 2026 neue Prüfabläufe. Die Verfassungstreuepflicht als Voraussetzung bestand bereits vorher; zuständig für Zulassung bleibt der kommunale Wahlausschuss. Quelle: https://www.mi.niedersachsen.de/startseite/aktuelles/presseinformationen/landtag-beschliesst-anderung-des-niedersachsischen-kommunalwahlgesetzes-der-niedersachsischen-kommunalwahlordnung-und-des-niedersachsischen-kommunalverfassungsgesetzes-250532.html
+- **Gerichtlicher Kontext:** Die Zurückweisung mehrerer Eilanträge durch das OVG betrifft die prozessuale Rechtsschutzfrage, nicht die abschließende sachliche Rechtmäßigkeit der Nichtzulassungen. Quelle: https://oberverwaltungsgericht.niedersachsen.de/aktuelles/presseinformationen/erfolglose-beschwerden-von-nicht-zu-den-kommunalen-direktwahlen-in-niedersachsen-zugelassenen-bewerbern-253598.html
+
 ## Offene Prüfarbeit
 Der genaue Originalwortlaut zu einzelnen verbleibenden Punkten, die vollständige juristische Kontrolle der Endnormen und alle noch nicht erfassten Aussagen des restlichen Gesprächs sind weiter zu prüfen. Keine Tatsachenbewertung wird vorgenommen, nur weil eine Quelle nicht sofort gefunden wurde.
 
