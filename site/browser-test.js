@@ -116,7 +116,7 @@ async function step(name, fn) {
   const server = await serve(dir);
   const base = `http://127.0.0.1:${server.address().port}/`;
   const shots = process.env.SCREENSHOTS;
-  const browser = await chromium.launch();
+  const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {});
   const ctx = await browser.newContext({ viewport: { width: 1360, height: 860 }, reducedMotion: 'reduce' });
   const external = [];
   const consoleErrors = [];
@@ -160,6 +160,34 @@ async function step(name, fn) {
     await page.waitForTimeout(300);
     assert.deepEqual(external, [], 'externe Anfragen vor dem Klick: ' + external.join(', '));
     if (shots) await page.screenshot({ path: path.join(shots, 'vor-dem-laden.png') });
+  });
+
+  await step('Farbiges Ergebnis und Filter in der Player-Ansicht, auch auf dem Handy', async () => {
+    const cards = page.locator('.vc-item');
+    const visible = page.locator('.vc-item:not([hidden])');
+    const total = await cards.count();
+    const overview = page.locator('.vc-overview');
+    assert.ok(await overview.locator('.dist').isVisible());
+    assert.match(await overview.locator('.dist').getAttribute('aria-label'), /strukturierten Aussagen/);
+    await page.locator('#vc-v').selectOption('offen');
+    assert.ok(await visible.count() > 0 && await visible.count() < total);
+    assert.equal(await visible.locator('.badge-todo').count(), await visible.count());
+    await page.locator('#vc-q').fill('kein-möglicher-fixture-suchtreffer-4493');
+    assert.equal(await visible.count(), 0);
+    assert.match(await page.locator('#vc-result').textContent(), /Keine Fundstelle/);
+    await page.locator('#vc-clear').click();
+    assert.equal(await visible.count(), total);
+    const chapters = await page.locator('#vc-c option').allTextContents();
+    assert.ok(chapters.length > 2);
+    await page.locator('#vc-c').selectOption({ index: 1 });
+    assert.ok(await visible.count() > 0 && await visible.count() < total);
+    await page.setViewportSize({ width: 390, height: 844 });
+    assert.ok(await page.locator('#vc-c').isVisible() && await overview.isVisible());
+    assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
+    await page.setViewportSize({ width: 1360, height: 860 });
+    await page.locator('#vc-clear').click();
+    assert.equal(await visible.count(), total);
+    assert.deepEqual(external, []);
   });
 
   await step('Zeitmarke ohne geladenes Video lädt nichts, merkt aber die Stelle', async () => {
