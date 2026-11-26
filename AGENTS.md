@@ -148,6 +148,10 @@ Die Darstellung muss die Argumentation verständlich machen, ohne den Wortlaut o
 
 Für JEDE eigenständige überprüfbare Tatsachenbehauptung einen Prüfpunkt oder eine ausdrücklich erkennbare Unterbehauptung erfassen. Wiederholungen mit Querverweis zusammenführen. Keine unmarkierte Auswahl und keine pauschale Wahr/Falsch-Note für ein gesamtes Video.
 
+**Nachweislich falsche Teilbehauptungen immer einzeln als `Widerlegt` erfassen.** Enthält ein Satz oder ein gemeinsamer Prüfblock mehrere eigenständig überprüfbare Tatsachenbehauptungen, bekommt jede nachweislich falsche Teilbehauptung einen eigenen Prüfpunkt mit `Widerlegt`, eigenem Sachbeleg und der passenden Fundstelle. Richtige Teile werden separat bewertet; ein gemeinsames Zeitfenster ist zulässig. Weder `Teilweise belegt` noch ein Urteil wie „im Kern richtig“ darf eine widerlegte Teilbehauptung ersetzen. Den ursprünglichen Kontext erhalten und dieselbe Behauptung bei Wiederholungen nicht doppelt zählen. Fehlende Belege oder ein unklarer Wortlaut sind kein Gegenbeweis.
+
+Beispiel: Wenn behauptet wird, eine indische Sonde sei 2023 am geografischen Südpol des Mondes gelandet, sind die Mondlandung 2023 (`Belegt`) und die Landung am geografischen Südpol (`Widerlegt`: Landung in der Südpolregion) getrennte Prüfpunkte.
+
 Jeder Prüfpunkt enthält:
 
 1. Nummer, Zeitmarke oder enger Zeitbereich und anklickbaren Originalvideolink; Sprecher soweit sicher.
