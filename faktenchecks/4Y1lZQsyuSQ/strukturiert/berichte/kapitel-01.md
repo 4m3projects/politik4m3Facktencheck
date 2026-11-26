@@ -1,8 +1,8 @@
 # Kapitel 01: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erster Teilbestand: geprüfte Stellen aus 00:49–19:24, inklusive explizit offener Fragen. Noch keine vollständige Inventur, insbesondere Kapitel ab ca. 19:24 fehlen. Keine Gesamtfehlerzahl; Ampel darf keine Vollprüfung suggerieren.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zweiter Teilbestand: ausgewählte Aussagen bis 23:55 und Wiederholung um 50:22, keine durchgehende Abdeckung. Insbesondere der Mittelteil, historische Rechtsfragen und weitere politische Aussagen sind noch nicht vollständig inventarisiert. Keine Gesamtfehlerzahl.
 
-Kai: Deutsches Transkript direkt im YouTube-Originalplayer geöffnet (418 Zeitsegmente von 0:00 bis 54:48 sichtbar); erste ausgewählte Stellen aus dem ersten Drittel bearbeitet. Zeitgenössische Originalquellen, Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht belegt). Kein Bild- und Tonabgleich.
+Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 
 ## 4Y1lZQsyuSQ-A0001
 
