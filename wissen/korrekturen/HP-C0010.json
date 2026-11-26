@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "HP-C0010",
+  "kind": "Quelle falsch interpretiert",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "smBg5wh2nHw-A0034",
+    "entryId": null,
+    "description": "Bisher wurde ein pauschaler Anspruch auf vollständige Reisekostenerstattung geprüft, den die Moderation nicht erhoben hat."
+  },
+  "evidence": [
+    {
+      "title": "Französische Nationalversammlung – Antwort zur Reiseunterstützung des BUMIDOM, 05.12.1973",
+      "url": "https://archives.assemblee-nationale.fr/5/cri/1973-1974-ordinaire1/088.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Regelfall: finanzielle Übernahme der Überfahrt nach Kontinentalfrankreich nicht mehrfach für dieselbe Person; zusätzliche Unterstützung bei bestimmten Rück- und Wiedereinreisen nach Bedingungen."
+    },
+    {
+      "title": "Bidet, Haddad und Veron: Archivstudie zum BUMIDOM, Revue européenne des migrations internationales",
+      "url": "https://journals.openedition.org/remi/pdf/28089",
+      "accessedOn": "2026-11-26",
+      "finding": "S. 127–130: BUMIDOM-Tätigkeitsberichte und Individualakten belegen Arbeitsvermittlung als eigenes Arbeitsfeld; unter bestimmten Bedingungen nachträglich anteilige Reisekostenübernahme für selbst organisierte Reisen."
+    }
+  ],
+  "affected": [
+    {
+      "target": "smBg5wh2nHw-A0034",
+      "reason": "Unabhängige Angabe zur finanziellen Reisehilfe."
+    },
+    {
+      "target": "smBg5wh2nHw-A0061",
+      "reason": "Unabhängige Angabe zur Arbeitsvermittlung."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Originalaussage statt verschärfter Paraphrase prüfen",
+    "date": "2026-11-26",
+    "basis": "Förderfähige Reisen wurden finanziert und es wurden Arbeitsplätze vermittelt. Die Moderation behauptet keine Erstattung aller Reisekosten für alle Teilnehmer. Beide Angaben sind unabhängig zu werten."
+  },
+  "changes": [
+    {
+      "target": "smBg5wh2nHw-A0034",
+      "field": "description",
+      "before": "Das BUMIDOM finanzierte die Reisen und vermittelte Arbeitsplätze.",
+      "after": "Das französische BUMIDOM unterstützte Reisen aus den Überseegebieten in das französische Mutterland finanziell."
+    },
+    {
+      "target": "smBg5wh2nHw-A0034",
+      "field": "reason",
+      "before": "Die Archive der Guadeloupe belegen organisatorische Hilfe und die Vermittlung in Arbeit oder Ausbildung. Die Museumsdarstellung bestätigt die organisierte Ausreise. Die gelesenen Quellen bestätigen hier keinen allgemeinen Anspruch auf vollständige Übernahme der Reisekosten.",
+      "after": "Eine französische Regierungsantwort von 1973 beschreibt die Übernahme der ersten förderfähigen Überfahrt und begrenzte Hilfen für bestimmte weitere Reisen. Eine Archivstudie belegt auch anteilige nachträgliche Zuschüsse bei selbst organisierten Reisen. Die Moderation behauptet weder einen allgemeinen Anspruch noch eine vollständige Übernahme in jedem Einzelfall."
+    },
+    {
+      "target": "smBg5wh2nHw-A0034",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "smBg5wh2nHw-A0061",
+      "field": "verdict",
+      "before": null,
+      "after": "Belegt"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Gemeldet; Betroffene automatisch über gleiche Quelle, Verknüpfungen und Abhängigkeiten ermittelt."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Originalplayer und Primärmaterial erneut geprüft; keine übrige Aussage zur französischen Migrationspolitik geändert."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht von 00:00:00 bis 00:39:32. Automatische Untertitel liegen von 00:00:00 bis 00:39:28 vor. Die Prüfung der 60 erfassten Punkte ist abgeschlossen. Davon sind zwei ohne öffentliche Prüfgrundlage. Die Einzelpunkte ergeben einen Teilbestand. Die thematische Übersicht umfasst die gesamte Laufzeit.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht von 00:00:00 bis 00:39:32. Automatische Untertitel liegen von 00:00:00 bis 00:39:28 vor. Die Übersicht zählt die erfassten Prüfpunkte und ihre Ergebnisse getrennt. Zwei Punkte haben keine öffentliche Prüfgrundlage. Die Einzelpunkte ergeben einen Teilbestand. Die thematische Übersicht umfasst die gesamte Laufzeit.
 
 Grundlage sind automatische deutsche Originaluntertitel und die jeweils angegebenen Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Eine Hör- oder Sichtkontrolle fand nicht statt. Pressewiedergaben und tatsächliche Sachverhalte wurden gesondert geprüft.
 
@@ -500,9 +500,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Das BUMIDOM finanzierte die Reisen und vermittelte Arbeitsplätze.
+**Eigene Beschreibung:** Das französische BUMIDOM unterstützte Reisen aus den Überseegebieten in das französische Mutterland finanziell.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -515,27 +515,30 @@ Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Zeitbereich aus dem Untertitelverlauf.
+Fundstellenhinweis: Geprüftes Suchfenster im Originalplayer, kein separater Tonabgleich.
 
-Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.
+Zeitgrundlage: Automatisch erzeugtes deutsches Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Archive der Guadeloupe belegen organisatorische Hilfe und die Vermittlung in Arbeit oder Ausbildung. Die Museumsdarstellung bestätigt die organisierte Ausreise. Die gelesenen Quellen bestätigen hier keinen allgemeinen Anspruch auf vollständige Übernahme der Reisekosten.
+Eine französische Regierungsantwort von 1973 beschreibt die Übernahme der ersten förderfähigen Überfahrt und begrenzte Hilfen für bestimmte weitere Reisen. Eine Archivstudie belegt auch anteilige nachträgliche Zuschüsse bei selbst organisierten Reisen. Die Moderation behauptet weder einen allgemeinen Anspruch noch eine vollständige Übernahme in jedem Einzelfall.
 
-Grundlage der Bewertung: Fundstelle aus den deutschen Originaluntertiteln und Abgleich mit den zugeordneten Sachquellen.
+Grundlage der Bewertung: Kai; deutschsprachiges automatisches Originalplayer-Transkript und französische Originalquellen; kein separater Hör- oder Sichtabgleich.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: 20.11.2026, Codex: Recherche des ersten Teilstands fortgeschrieben.
+Bewertungsuebergang: Zuvor Teilweise belegt als gemeinsamer Prüfpunkt. Nach Original- und Archivprüfung am 26.11.2026 Belegt für Reisefinanzierung (Kai, HP-C0010).
 
 ### Zugeordnete Quellen
 
-- [La France et ses migrations du XVIIe siècle à nos jours](https://www.histoire-immigration.fr/sites/default/files/2025-09/retranscription_film_migrations-en-france_2025.pdf) · Musée national de l’histoire de l’immigration, 2025.
-  Quellenzugriff am 2026-11-20. Darstellung der Nachkriegsmigration und Abschnitt zum BUMIDOM gelesen. Bezug und Reichweite stehen in der Begründung.
+- [YouTube-Videoseite und Veröffentlichungsmetadaten](https://www.youtube.com/watch?v=smBg5wh2nHw) · SinansWoche / YouTube, Veröffentlichung am 23.10.2026.
+  Quellenzugriff am 2026-11-20. Mit dem Projektimport ausgelesenes Veröffentlichungsdatum und Laufzeit. Eigene Aussage der Moderation ab etwa 19:26.
 
-- [BUMIDOM – Archivbestand](https://www.archivesguadeloupe.fr/collection/bumidom/) · Archives départementales de la Guadeloupe.
-  Quellenzugriff am 2026-11-20. Einleitung zu administrativer und materieller Unterstützung sowie Vermittlung in Arbeit und Ausbildung gelesen. Bezug und Reichweite stehen in der Begründung.
+- [Französische Nationalversammlung – Antwort zur Reiseunterstützung des BUMIDOM, 05.12.1973](https://archives.assemblee-nationale.fr/5/cri/1973-1974-ordinaire1/088.pdf) · Regelfall: finanzielle Übernahme der Überfahrt nach Kontinentalfrankreich nicht mehrfach für dieselbe Person; zusätzliche Unterstützung bei bestimmten Rück- und Wiedereinreisen nach Bedingungen.
+  Quellenzugriff am 2026-11-26. Zeitgenössische Regierungsantwort zur Reiseübernahme gelesen. Zeitgenössischer Primärbeleg für die finanzielle Reisehilfe.
+
+- [Bidet, Haddad und Veron: Archivstudie zum BUMIDOM, Revue européenne des migrations internationales](https://journals.openedition.org/remi/pdf/28089) · S. 127–130: BUMIDOM-Tätigkeitsberichte und Individualakten belegen Arbeitsvermittlung als eigenes Arbeitsfeld; unter bestimmten Bedingungen nachträglich anteilige Reisekostenübernahme für selbst organisierte Reisen.
+  Quellenzugriff am 2026-11-26. Originalpublikation, Archivmaterial und Tab. 2 geprüft. Archivbefund zur unterschiedlichen Ausgestaltung der Reisehilfe.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -587,13 +590,13 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Wer nach Ende der Anwerbung bereits in Frankreich lebte, blieb, und Angehörige konnten nachziehen.
+**Eigene Beschreibung:** Regulär bereits in Frankreich lebende ausländische Arbeitskräfte konnten trotz des Anwerbestopps 1974 im Land bleiben.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
-- [00:19:50–00:20:07](https://www.youtube.com/watch?v=smBg5wh2nHw&t=1190s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+- [00:19:42–00:19:47](https://www.youtube.com/watch?v=smBg5wh2nHw&t=1182s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
 
 Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
@@ -602,27 +605,32 @@ Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Zeitbereich aus dem Untertitelverlauf.
+Fundstellenhinweis: Engeres Suchfenster aus dem erneuten Originalplayer-Abgleich.
 
-Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.
+Zeitgrundlage: Automatische deutsche Originalplayer-Untertitel, kein Ton- oder Bildabgleich.
+
+Frueherer Suchbereich: [00:19:50–00:20:07](https://www.youtube.com/watch?v=smBg5wh2nHw&t=1190s), Ungefähr. Früherer gemeinsamer Zeitbereich; Originalplayer nennt den Verbleib um 19:42.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nach dem vorläufigen Stopp von 1974 regelte das Dekret vom 29. April 1976 den Nachzug für berechtigte Angehörige unter bestimmten Voraussetzungen. Das stützt den Kern zur Familienmigration. Weder das Dekret noch die Erläuterung des Museums belegen die pauschale Aussage, dass alle schon ansässigen Personen blieben.
+Die damalige Anweisung betraf neue Arbeitsverträge für die Einreise; sie beendete nicht pauschal bereits rechtmäßige Aufenthalte. Ein zeitgenössischer Senatsbericht dokumentiert fortgesetzte Verlängerungen von Arbeitstiteln und stellt fest, dass Berechtigte zwischen freiwilliger Rückkehr und Verbleib wählen konnten. Die Aussage im Zusammenhang erklärt die fortbestehende Niederlassung, nicht, dass ausnahmslos jeder blieb: Bis Juli 1978 waren auch 17.988 Anträge auf Rückkehrhilfe im Bericht als bewilligt erfasst.
 
-Grundlage der Bewertung: Fundstelle aus den deutschen Originaluntertiteln und Abgleich mit den zugeordneten Sachquellen.
+Grundlage der Bewertung: Kai; deutschsprachiges automatisches Originalplayer-Transkript und zeitgenössische staatliche Primärquellen. Kein separater Hör- oder Sichtabgleich.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: 20.11.2026, Codex: Recherche des ersten Teilstands fortgeschrieben.
+Bewertungsuebergang: Zuvor Teilweise belegt als gemeinsamer Prüfpunkt, nach erneutem Original- und Quellenabgleich Belegt für den Verbleib (HP-C0011; Kai, 26.11.2026).
 
 ### Zugeordnete Quellen
 
-- [Juillet 1974 : suspension des entrées de travailleurs immigrés permanents](https://www.histoire-immigration.fr/les-50-ans-de-la-revue-hommes-migrations/juillet-1974-suspension-des-entrees-de-travailleurs-immigres-permanents) · Musée national de l’histoire de l’immigration, Rückblick auf zeitgenössische Unterlagen von 1974.
-  Quellenzugriff am 2026-11-20. Die Erläuterung zum Beschluss vom 3. Juli und zu dessen vorläufigem Charakter gelesen. Bezug und Reichweite stehen in der Begründung.
+- [YouTube-Videoseite und Veröffentlichungsmetadaten](https://www.youtube.com/watch?v=smBg5wh2nHw) · SinansWoche / YouTube, Veröffentlichung am 23.10.2026.
+  Quellenzugriff am 2026-11-20. Mit dem Projektimport ausgelesenes Veröffentlichungsdatum und Laufzeit. Eigene Einordnung der Moderation bei etwa 19:42.
 
-- [Décret n° 76-383 du 29 avril 1976](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000855572/1976-05-02) · Légifrance, Fassung vom 02.05.1976.
-  Quellenzugriff am 2026-11-20. Vorschriften zum Nachzug von Angehörigen zugelassener ausländischer Einwohner gelesen. Bezug und Reichweite stehen in der Begründung.
+- [Französischer Senat – Bericht zum Haushalt 1979: Migration und Arbeitsmarkt](https://www.senat.fr/rap/1978-1979/i1978_1979_0074_03_33.pdf) · S. 47–48 zur Aussetzung der Anwerbung und zur Wiederzulassung des Familiennachzugs; S. 55–56 zur Wahl zwischen Verbleib und freiwilliger Rückkehr, tatsächlichen Rückkehrhilfen und weiteren Erneuerungen von Arbeitstiteln.
+  Quellenzugriff am 2026-11-26. Zeitgenössischer französischer Originalbericht bzw. gerichtliche Primärquelle im Volltext. Senatsbericht zu Verlängerungen, Verbleib und tatsächlicher freiwilliger Rückkehr.
+
+- [Conseil d’État – Entscheidung 98340 u. a., 24.11.1978](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000007663591) · Die Anweisung vom 05.07.1974 betraf Verträge zur Neueinführung ausländischer Arbeitskräfte; einzelne Gruppen waren ausgenommen. Der Conseil d’État erklärte die Anweisung wegen fehlender Zuständigkeit für unwirksam.
+  Quellenzugriff am 2026-11-26. Zeitgenössischer französischer Originalbericht bzw. gerichtliche Primärquelle im Volltext. Amtliches Urteil zum Geltungsbereich der Anweisung.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -749,6 +757,102 @@ Bewertungsuebergang: Erstprüfung für dieses Video.
 
 - [Loi n° 46-451 du 19 mars 1946, Artikel 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006385372/1946-03-20) · Légifrance, Gesetz vom 19.03.1946.
   Quellenzugriff am 2026-11-20. Artikel 1 in der am 20.03.1946 wirksamen Fassung gelesen. Bezug und Reichweite stehen in der Begründung.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## smBg5wh2nHw-A0061
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Das BUMIDOM vermittelte Menschen aus französischen Überseegebieten Arbeitsstellen im französischen Mutterland.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:19:33–00:19:39](https://www.youtube.com/watch?v=smBg5wh2nHw&t=1173s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
+
+Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Arbeitsvermittlungsangabe im Anschluss an die Reisehilfe.
+
+Zeitgrundlage: Automatisch erzeugtes deutsches Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Archivstudie wertet Tätigkeitsberichte und individuelle BUMIDOM-Akten aus; sie dokumentiert die Vermittlung in Beschäftigung als eigene Tätigkeit des Büros, neben beruflicher Ausbildung, Reisehilfe und anderen Unterstützungsleistungen. Die Aussage bezieht sich auf diese Tätigkeit, nicht auf eine Jobgarantie für jede zugezogene Person.
+
+Grundlage der Bewertung: Kai; deutschsprachiges automatisches Originalplayer-Transkript und französische Originalquellen; kein separater Hör- oder Sichtabgleich.
+
+Uebernahme: Eigenständige Arbeitsvermittlung aus A0034 abgespalten; keine doppelte Zählung der Reisefinanzierung.
+
+Bewertungsuebergang: Als Belegt getrennt erfasst am 26.11.2026 durch Kai; früher Teil von A0034 (HP-C0010).
+
+### Zugeordnete Quellen
+
+- [YouTube-Videoseite und Veröffentlichungsmetadaten](https://www.youtube.com/watch?v=smBg5wh2nHw) · SinansWoche / YouTube, Veröffentlichung am 23.10.2026.
+  Quellenzugriff am 2026-11-20. Mit dem Projektimport ausgelesenes Veröffentlichungsdatum und Laufzeit. Eigenständige Angabe zur Arbeitsvermittlung ab etwa 19:33.
+
+- [BUMIDOM – Archivbestand](https://www.archivesguadeloupe.fr/collection/bumidom/) · Archives départementales de la Guadeloupe.
+  Quellenzugriff am 2026-11-20. Einleitung zu administrativer und materieller Unterstützung sowie Vermittlung in Arbeit und Ausbildung gelesen. Archivbestand des BUMIDOM in Guadeloupe.
+
+- [Bidet, Haddad und Veron: Archivstudie zum BUMIDOM, Revue européenne des migrations internationales](https://journals.openedition.org/remi/pdf/28089) · S. 127–130: BUMIDOM-Tätigkeitsberichte und Individualakten belegen Arbeitsvermittlung als eigenes Arbeitsfeld; unter bestimmten Bedingungen nachträglich anteilige Reisekostenübernahme für selbst organisierte Reisen.
+  Quellenzugriff am 2026-11-26. Originalpublikation, Archivmaterial und Tab. 2 geprüft. Tätigkeitsberichte und Individualakten; Arbeitsvermittlung und Ausbildung getrennt ausgewiesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## smBg5wh2nHw-A0062
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Angehörige bereits ansässiger ausländischer Arbeitskräfte konnten nach dem Anwerbestopp im Rahmen des Familiennachzugs nach Frankreich kommen.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:19:47–00:19:56](https://www.youtube.com/watch?v=smBg5wh2nHw&t=1187s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
+
+Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähre Fundstelle nach der Angabe zum Verbleib bestehender Einwohner.
+
+Zeitgrundlage: Automatisches deutsches Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Familiennachzug war 1974 zunächst ebenfalls ausgesetzt und wurde laut zeitgenössischem Senatsbericht zum 01.07.1975 wieder gestattet. Das Dekret vom 29.04.1976 schuf einen Rahmen mit Voraussetzungen zum rechtmäßigen Aufenthalt, zur Wohnung und zu den Mitteln des Haushalts. So war Familiennachzug möglich; er war weder seit dem ersten Tag durchgängig offen noch für alle Familien voraussetzungslos.
+
+Grundlage der Bewertung: Kai; deutschsprachiges automatisches Originalplayer-Transkript und zeitgenössische staatliche Primärquellen. Kein separater Hör- oder Sichtabgleich.
+
+Uebernahme: Familiennachzug von der unabhängig prüfbaren Frage des fortbestehenden Aufenthalts getrennt.
+
+Bewertungsuebergang: Neuer eigener Prüfpunkt Belegt am 26.11.2026 (Kai, HP-C0011), vorher mit A0036 bewertet.
+
+### Zugeordnete Quellen
+
+- [YouTube-Videoseite und Veröffentlichungsmetadaten](https://www.youtube.com/watch?v=smBg5wh2nHw) · SinansWoche / YouTube, Veröffentlichung am 23.10.2026.
+  Quellenzugriff am 2026-11-20. Mit dem Projektimport ausgelesenes Veröffentlichungsdatum und Laufzeit. Eigenständige Angabe zur Familienmigration bei etwa 19:47.
+
+- [Französischer Senat – Bericht zum Haushalt 1979: Migration und Arbeitsmarkt](https://www.senat.fr/rap/1978-1979/i1978_1979_0074_03_33.pdf) · S. 47–48 zur Aussetzung der Anwerbung und zur Wiederzulassung des Familiennachzugs; S. 55–56 zur Wahl zwischen Verbleib und freiwilliger Rückkehr, tatsächlichen Rückkehrhilfen und weiteren Erneuerungen von Arbeitstiteln.
+  Quellenzugriff am 2026-11-26. Zeitgenössischer französischer Originalbericht bzw. gerichtliche Primärquelle im Volltext. Zeitgenössische Bestätigung der Wiederzulassung zum Juli 1975.
+
+- [Französischer Senat – Bericht zum Familiennachzug, 1978/79](https://www.senat.fr/leg/1978-1979/i1978_1979_0401.pdf) · S. 3: Aussetzung des Familiennachzugs 1974, Wiederzulassung 1. Juli 1975 und Dekret 29. April 1976 mit Anforderungen an Aufenthalt, Einkommen und Wohnung.
+  Quellenzugriff am 2026-11-26. Zeitgenössischer französischer Originalbericht bzw. gerichtliche Primärquelle im Volltext. Zeitgenössischer Bericht zur Chronologie und den Bedingungen des Dekrets.
 
 ### Offene Fragen und Unsicherheiten
 

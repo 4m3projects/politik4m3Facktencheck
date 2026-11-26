@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Thematische Übersicht von 00:00:00 bis 00:39:32. Automatische Untertitel liegen von 00:00:00 bis 00:39:28 vor. Die Prüfung der 60 erfassten Punkte ist abgeschlossen. Davon sind zwei ohne öffentliche Prüfgrundlage. Die Einzelpunkte ergeben einen Teilbestand. Die thematische Übersicht umfasst die gesamte Laufzeit.",
+  "coverageNote": "Thematische Übersicht von 00:00:00 bis 00:39:32. Automatische Untertitel liegen von 00:00:00 bis 00:39:28 vor. Die Übersicht zählt die erfassten Prüfpunkte und ihre Ergebnisse getrennt. Zwei Punkte haben keine öffentliche Prüfgrundlage. Die Einzelpunkte ergeben einen Teilbestand. Die thematische Übersicht umfasst die gesamte Laufzeit.",
   "videoId": "smBg5wh2nHw",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 60,
-  "uniqueStatements": 47,
+  "statementRecords": 62,
+  "uniqueStatements": 49,
   "referenceOnlyStatements": 13,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 47,
+  "assertionOccurrences": 49,
   "additionalAssertionOccurrences": 0,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 13,
@@ -18,34 +18,34 @@
     "Offen": 0,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 2,
-    "Abgeschlossen": 45
+    "Abgeschlossen": 47
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 42,
+    "Tatsachenbehauptung": 44,
     "Meinung": 4,
     "Prognose": 1
   },
-  "completedFacts": 40,
+  "completedFacts": 42,
   "openFacts": 0,
   "inProgressFacts": 0,
   "unverifiableFacts": 2,
-  "percentageDenominator": 40,
+  "percentageDenominator": 42,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 27,
-      "completedFactPercent": 67.5
+      "completedCount": 31,
+      "completedFactPercent": 73.8
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 5,
-      "completedFactPercent": 12.5
+      "completedCount": 3,
+      "completedFactPercent": 7.1
     },
     {
       "category": "Irreführend / Kontext fehlt",
       "completedCount": 2,
-      "completedFactPercent": 5.0
+      "completedFactPercent": 4.8
     },
     {
       "category": "Widerlegt",
@@ -55,7 +55,7 @@
     {
       "category": "Nicht ausreichend belegbar",
       "completedCount": 6,
-      "completedFactPercent": 15.0
+      "completedFactPercent": 14.3
     },
     {
       "category": "Meinung / Prognose",
@@ -109,18 +109,18 @@
         ]
       }
     ],
-    "eligibleFacts": 42,
+    "eligibleFacts": 44,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 42,
-    "factsWithUncertainAttribution": 42,
+    "factsWithoutReliablePerson": 44,
+    "factsWithUncertainAttribution": 44,
     "factsWithUncertainOwnRole": 0,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 60,
+      "Plausibel": 62,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
-      "Bestätigt": 60,
+      "Bestätigt": 62,
       "Plausibel": 0,
       "Ungeklärt": 0
     }
