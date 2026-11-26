@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "HP-C0004",
+  "kind": "Quelle falsch interpretiert",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "4Y1lZQsyuSQ-A0037",
+    "entryId": null,
+    "description": "Die Vorabschätzung der Wahlberechtigten deckt den Vergleich tatsächlicher Wahlteilnahme nicht ab; die 2018 veröffentlichte Wahlstatistik wurde zunächst nicht berücksichtigt."
+  },
+  "evidence": [
+    {
+      "title": "Bundeswahlleiter – Bundestagswahl 2017, repräsentative Wahlstatistik (2018), Tabelle 12",
+      "url": "https://www.bundeswahlleiterin.de/dam/jcr/a124b184-8fdb-4e2b-b519-b9f546d958c8/btw17_heft5-2.pdf#page=20",
+      "accessedOn": "2026-11-26",
+      "finding": "9.772.500 Wählende ab 70; 1.429.300, 1.944.200 und 2.883.700 in den drei Gruppen von 18 bis 29, zusammen 6.257.200. Geschätzte Teilnahme, keine Unterscheidung gültiger Stimmen."
+    },
+    {
+      "title": "Bundeswahlleiter – Europawahl 2014, repräsentative Wahlstatistik, Tabelle 13",
+      "url": "https://www.bundeswahlleiterin.de/dam/jcr/64f39f70-1430-43d6-88ca-524e9ce7b4b1/ew14_heft5-2.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "7.541.049 Wählende ab 70; 687.709, 1.138.205 und 1.599.196 unter 30, zusammen 3.425.110. Verhältnis rund 2,20."
+    }
+  ],
+  "affected": [
+    {
+      "target": "4Y1lZQsyuSQ-A0037",
+      "reason": "Einzige Aussage, die die konkrete Wahlberechtigten-Schätzung S030 verwendet. Andere Aussagen teilen nur das Video als Textquelle; keine weiteren abhängigen Einträge."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Amtliche Zählgrößen trennen",
+    "date": "2026-11-26",
+    "basis": "Amtliche Tabelle bestätigt den ungefähr passenden Faktor für tatsächliche Wahlteilnahme 2017; ein Nachweis für die Europawahl 2019 lag noch nicht vor. Die Begründung wird korrigiert, die Kategorie bleibt unverändert."
+  },
+  "changes": [
+    {
+      "target": "4Y1lZQsyuSQ-A0037",
+      "field": "reason",
+      "before": "Die in der zeitgenössischen Spiegelung von Rezos Quellenliste für den Schlussteil nachgetragene Bundeswahlleiter-Quelle schätzt für die Bundestagswahl 2017 12,7 Millionen Wahlberechtigte ab 70 und 9,4 Millionen zwischen 18 und 29. Das sind etwa 1,35 statt 1,5, also rund 35 Prozent mehr. Damit stimmt die Richtung, aber die Quelle misst weder abgegebene Stimmen noch die Altersverteilung der Europawahl 2019.",
+      "after": "Die im Umfeld der Europawahl 2019 genannte Stelle legt sich im verfügbaren Originalplayer-Transkript nicht auf eine Referenzwahl fest. Für die Bundestagswahl 2017 ist die genannte Größenordnung bei der tatsächlichen Wahlteilnahme ungefähr richtig: Die repräsentative Wahlstatistik schätzt rund 9,77 Mio. Wählende ab 70 gegenüber 6,26 Mio. im Alter 18–29, also Faktor 1,56. Die ältere, in der gespiegelten Quellenliste verlinkte Schätzung von 12,7 zu 9,4 Mio. erfasst dagegen Wahlberechtigte (Faktor 1,35); sie kann die Zahl der abgegebenen Stimmen nicht bewerten. Für die Europawahl 2014 ergibt dieselbe Altersgruppierung bei Wählenden rund 2,20. Das Ergebnis der Europawahl 2019 lag am Stichtag noch nicht vor. Die amtlichen Tabellen zählen 70-Jährige mit und messen Wahlteilnahme, nicht ausschließlich gültige Stimmen."
+    },
+    {
+      "target": "4Y1lZQsyuSQ-A0037",
+      "field": "description",
+      "before": "Menschen ab 70 hätten rund anderthalbmal so viele Stimmen wie alle Wahlberechtigten unter 30.",
+      "after": "Die über 70-Jährigen hätten ungefähr anderthalbmal so viele Stimmen wie die unter 30-Jährigen."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Gemeldet; Betroffene automatisch über gleiche Quelle, Verknüpfungen und Abhängigkeiten ermittelt."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Meldung in #143; Vorabschätzung und zwei endgültige Originalstatistiken getrennt geprüft. Kein anderes Urteil verändert."
+    }
+  ]
+}

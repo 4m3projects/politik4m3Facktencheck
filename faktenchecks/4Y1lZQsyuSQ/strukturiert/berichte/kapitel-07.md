@@ -101,7 +101,7 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Menschen ab 70 hätten rund anderthalbmal so viele Stimmen wie alle Wahlberechtigten unter 30.
+**Eigene Beschreibung:** Die über 70-Jährigen hätten ungefähr anderthalbmal so viele Stimmen wie die unter 30-Jährigen.
 
 Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
@@ -122,13 +122,13 @@ Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die in der zeitgenössischen Spiegelung von Rezos Quellenliste für den Schlussteil nachgetragene Bundeswahlleiter-Quelle schätzt für die Bundestagswahl 2017 12,7 Millionen Wahlberechtigte ab 70 und 9,4 Millionen zwischen 18 und 29. Das sind etwa 1,35 statt 1,5, also rund 35 Prozent mehr. Damit stimmt die Richtung, aber die Quelle misst weder abgegebene Stimmen noch die Altersverteilung der Europawahl 2019.
+Die im Umfeld der Europawahl 2019 genannte Stelle legt sich im verfügbaren Originalplayer-Transkript nicht auf eine Referenzwahl fest. Für die Bundestagswahl 2017 ist die genannte Größenordnung bei der tatsächlichen Wahlteilnahme ungefähr richtig: Die repräsentative Wahlstatistik schätzt rund 9,77 Mio. Wählende ab 70 gegenüber 6,26 Mio. im Alter 18–29, also Faktor 1,56. Die ältere, in der gespiegelten Quellenliste verlinkte Schätzung von 12,7 zu 9,4 Mio. erfasst dagegen Wahlberechtigte (Faktor 1,35); sie kann die Zahl der abgegebenen Stimmen nicht bewerten. Für die Europawahl 2014 ergibt dieselbe Altersgruppierung bei Wählenden rund 2,20. Das Ergebnis der Europawahl 2019 lag am Stichtag noch nicht vor. Die amtlichen Tabellen zählen 70-Jährige mit und messen Wahlteilnahme, nicht ausschließlich gültige Stimmen.
 
 Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
 
 Uebernahme: Direkte Neuerfassung.
 
-Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26 [Kai] 26.11.2026, HP-C0004: Begründung und Paraphrase korrigiert, Urteil Teilweise belegt unverändert.
 
 ### Zugeordnete Quellen
 
@@ -137,6 +137,12 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 
 - [Bundeswahlleiter – Schätzung der Wahlberechtigten zur Bundestagswahl 2017](https://www.bundeswahlleiterin.de/info/presse/mitteilungen/bundestagswahl-2017/01_17_wahlberechtigte.html) · Altersverteilung der geschätzten Wahlberechtigten; keine Zählung abgegebener Stimmen, keine Europawahl.
   Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. 12,7 Mio. ab 70; 2,2 Mio. von 18 bis unter 21 und 7,2 Mio. von 21 bis unter 30.
+
+- [Bundeswahlleiter – Bundestagswahl 2017, repräsentative Wahlstatistik (2018), Tabelle 12](https://www.bundeswahlleiterin.de/dam/jcr/a124b184-8fdb-4e2b-b519-b9f546d958c8/btw17_heft5-2.pdf#page=20) · 9.772.500 Wählende ab 70; 1.429.300, 1.944.200 und 2.883.700 in den drei Gruppen von 18 bis 29, zusammen 6.257.200. Geschätzte Teilnahme, keine Unterscheidung gültiger Stimmen.
+  Quellenzugriff am 2026-11-26. Maßgebliche Originaltabelle mit Alterszeilen und Spaltenüberschriften gelesen. 9.772.500 Wählende ab 70; 1.429.300, 1.944.200 und 2.883.700 in den drei Gruppen von 18 bis 29, zusammen 6.257.200. Geschätzte Teilnahme, keine Unterscheidung gültiger Stimmen.
+
+- [Bundeswahlleiter – Europawahl 2014, repräsentative Wahlstatistik, Tabelle 13](https://www.bundeswahlleiterin.de/dam/jcr/64f39f70-1430-43d6-88ca-524e9ce7b4b1/ew14_heft5-2.pdf) · 7.541.049 Wählende ab 70; 687.709, 1.138.205 und 1.599.196 unter 30, zusammen 3.425.110. Verhältnis rund 2,20.
+  Quellenzugriff am 2026-11-26. Maßgebliche Originaltabelle mit Alterszeilen und Spaltenüberschriften gelesen. 7.541.049 Wählende ab 70; 687.709, 1.138.205 und 1.599.196 unter 30, zusammen 3.425.110. Verhältnis rund 2,20.
 
 ### Offene Fragen und Unsicherheiten
 
