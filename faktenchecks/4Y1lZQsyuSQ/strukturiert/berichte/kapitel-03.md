@@ -1,6 +1,6 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Siebter Teilbestand: Originaltextfenster zu Klima-Rückkopplung, Energiekosten, CO₂-Budget, Sibiu und Klimaprotesten ergänzt. Keine durchgehende Erfassung, Gesamtfehlerzahl oder vollständige Bild- und Tonprüfung.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Achter Teilbestand: Erbschaft und Vermögensaufbau eingeordnet; die verbundene Stelle zu Wetterextremen, Schäden und Binnenvertreibungen in drei Aussagen getrennt. Keine durchgehende Erfassung, Gesamtfehlerzahl oder vollständige audiovisuelle Prüfung.
 
 Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 
@@ -56,9 +56,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Erwärmung treibe Naturkatastrophen und verursache jährlich Kosten von Hunderten Milliarden sowie Millionen Fluchtbewegungen.
+**Eigene Beschreibung:** Die globale Erwärmung verschärfe Naturkatastrophen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -77,22 +77,118 @@ Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Aussagen sind nach Ereignisart, Schadensbegriff, Vertreibung und kausalem Anteil in weitere Einzelpunkte aufzuteilen.
+Der bis 2019 verfügbare Forschungsstand verbindet die menschliche Erwärmung mit veränderten Wahrscheinlichkeiten und Intensitäten bestimmter Wetterextreme. Für Hitze war die Zuordnung besonders gut gestützt; bei anderen Typen, etwa vielen Stürmen und kleinräumigen Ereignissen, war sie deutlich unsicherer. Naturkatastrophen umfassen auch nicht klimabedingte Ereignisse. Ob ein Wetterextrem eine Katastrophe verursacht, hängt zudem von Exposition und Verwundbarkeit ab. Ein pauschaler Anstieg jeder Katastrophenart folgt nicht.
 
 Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
 
 Uebernahme: Direkte Neuerfassung.
 
-Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+Bewertungsuebergang: 26.11.2026, Kai: zeitgenössische Quellen und Bezugsgrößen geprüft.
 
 ### Zugeordnete Quellen
 
 - [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
-  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Fundstelle in den deutschen Originalplayer-Untertiteln.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitfenster im Originalplayer-Transkript; Fundstelle ungefähr.
+
+- [US National Academies – Attribution of Extreme Weather Events, 2016, Kapitel 4 und 5](https://www.nationalacademies.org/read/21852/chapter/7) · Erkenntnisstand 2016: je nach Art des Extremereignisses sehr unterschiedliche Sicherheit bei der Zuordnung. Besonders robuste Befunde für Hitzewellen unter den untersuchten Ereignissen.
+  Quellenzugriff am 2026-11-26. Originalstudie, Originalbericht oder veröffentlichte Originaldaten mit Bezugsgrößen geprüft. Bewertung der Stärke der Zuordnung nach Ereignisart.
+
+- [IPCC – Global Warming of 1.5°C, Zusammenfassung für politische Entscheidungsträger (2018)](https://www.ipcc.ch/sr15/chapter/spm/) · Abschnitt D.1 und Fußnote 20: modellierte Pfade der damaligen Paris-Zusagen und bedingte langfristige Erwärmung.
+  Quellenzugriff am 2026-11-26. Relevante Stelle im verlinkten Originaltext geöffnet und gelesen. IPCC-Sonderbericht: Abschnitte B.1 und B.4 unterscheiden Auswirkungen nach Typ und Erwärmungsniveau.
 
 ### Offene Fragen und Unsicherheiten
 
-- Die Aussagen sind nach Ereignisart, Schadensbegriff, Vertreibung und kausalem Anteil in weitere Einzelpunkte aufzuteilen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 4Y1lZQsyuSQ-A0056
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die Erwärmung verursache in der Größenordnung von Hunderten Milliarden jährlich Schäden durch Naturkatastrophen.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:06:17–00:06:40](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=377s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Gleiches ungefähres Suchfenster wie A0018; keine sekundengenaue Trennmarke behauptet.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Zeitgenössische Zahlen belegen hohe weltweite Schäden. Munich Re bezifferte die Schäden aller erfassten Naturkatastrophen für 2018 auf etwa 160 Milliarden US-Dollar und für 2017 auf rund 350 Milliarden. Das sind keine gemessenen jährlichen Kosten allein des menschlichen Klimawandels. Auch nicht wetterbedingte Ereignisse sind enthalten. Bei Wetterereignissen beeinflussen neben der Gefährdung auch Sachwerte, Besiedlung und Verwundbarkeit die Schadenssumme. Die Beispiele belegen Größenordnungen einzelner Jahre, keine gleichbleibende Jahreszahl für den Erwärmungsanteil.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Aus dem zusammengesetzten Prüfpunkt A0018 getrennt; eigene Bezugsgröße und Belege.
+
+Bewertungsuebergang: 26.11.2026, Kai: zeitgenössische Quellen und Bezugsgrößen geprüft.
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitfenster im Originalplayer-Transkript; Fundstelle ungefähr.
+
+- [Munich Re – NatCatSERVICE, Jahresbilanz 2018, 08.01.2019](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2019/2019-01-08-media-information.html) · Gesamtschäden durch alle erfassten Naturkatastrophen: 160 Mrd. US-Dollar 2018, rund 350 Mrd. US-Dollar 2017 nach dem Stand der Mitteilung; kein anthropogener Anteil berechnet.
+  Quellenzugriff am 2026-11-26. Originalstudie, Originalbericht oder veröffentlichte Originaldaten mit Bezugsgrößen geprüft. Originalangaben zu 2017 und 2018, einschließlich nicht klimabezogener Naturgefahren.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 4Y1lZQsyuSQ-A0057
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die Erwärmung verursache bereits jedes Jahr Millionen Fluchtbewegungen.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:06:17–00:06:40](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=377s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Gleiches ungefähres Suchfenster wie A0018; keine sekundengenaue Trennmarke behauptet.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der damalige IDMC-Bericht dokumentiert rund 17,2 Millionen neue katastrophenbedingte Binnenvertreibungen für 2018, vor allem durch wetterbezogene Gefahren. Die Kennzahl zählt Bewegungen innerhalb des Landes, nicht eindeutig identifizierte Personen und nicht Menschen, die über Grenzen flohen. Sie weist auch nicht aus, wie viele Bewegungen ohne anthropogene Erwärmung ausgeblieben wären. Klimawandel kann Risiken erhöhen; die Gesamtzahl lässt sich aber nicht kausal allein auf Erwärmung zurückführen.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Aus dem zusammengesetzten Prüfpunkt A0018 getrennt; eigene Bezugsgröße und Belege.
+
+Bewertungsuebergang: 26.11.2026, Kai: zeitgenössische Quellen und Bezugsgrößen geprüft.
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitfenster im Originalplayer-Transkript; Fundstelle ungefähr.
+
+- [IDMC – Global Report on Internal Displacement 2019, Mai 2019](https://www.internal-displacement.org/global-report/grid2019/) · Weltweite Neuzählung für 2018: 28 Mio. Binnenvertreibungen, davon 10,8 Mio. durch Konflikt und Gewalt, rund 17,2 Mio. durch Katastrophen insgesamt. Unterscheidet Ereignisse und vertriebene Menschen.
+  Quellenzugriff am 2026-11-26. Originalstudie, Originalbericht oder veröffentlichte Originaldaten mit Bezugsgrößen geprüft. Globalübersicht: 28 Mio. Binnenvertreibungen, davon 10,8 Mio. Konflikt/Gewalt und 17,2 Mio. Katastrophen insgesamt.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## 4Y1lZQsyuSQ-A0019
 

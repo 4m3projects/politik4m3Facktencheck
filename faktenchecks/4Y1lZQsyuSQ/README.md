@@ -29,6 +29,8 @@
 
 **CO₂-Budget und Klimapolitik:** Weniger als neun Jahre bei konstantem Ausstoß war unter einer damaligen IPCC-Annahme plausibel. Das Budget war keine feststehende Naturkonstante und schrieb keinen gemeinsamen Abschalttag für alle fossilen Tätigkeiten vor. Bei der Sibiu-Initiative fehlte Deutschlands Unterschrift auf dem ursprünglichen Papier; daraus folgt kein nachgewiesenes Veto.
 
+**Erbschaften und Naturkatastrophen:** Die DIW-Befragung stützt die Bedeutung von Erbschaften, erlaubt aber keinen Schluss über alle reichen Menschen. Die damaligen Katastrophenstatistiken zeigen erhebliche Schäden und Millionen Binnenvertreibungen. Ihre Gesamtzahlen messen nicht den allein durch menschliche Erwärmung verursachten Anteil.
+
 ## Prüfgrenzen
 
 Bisher ist nur ein Teilbestand quellengeprüft, mit Einzelbefunden zur CO₂-Bepreisung und einer Wiederholung der Scientists-for-Future-Zahl im Schlussteil. Das Video ist noch nicht durchgehend erfasst. Die deutschen Untertitel sind über den Originalplayer sichtbar; Fundstellen sind ungefähre Suchfenster. Bildmaterial und Originalton wurden nicht separat kontrolliert. Das genaue Aufnahmedatum ist nicht belegt; als spätester Stichtag gilt daher die Veröffentlichung am **18. Mai 2019**. Spätere Erkenntnisse und politische Entwicklungen werden davon getrennt. Die verlinkte Original-Quellenliste antwortet nicht mehr; eine zeitgenössische Spiegelung hilft beim Auffinden der Originalstudien, gilt aber nicht als unabhängiger Sachbeleg. Wiederholungen, Wertungen und Fremdzitate nicht als mehrere Rezo-Fehler zählen. Die Wahlwirkung ist nicht Teil dieser ersten Bewertung.

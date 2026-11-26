@@ -1,6 +1,6 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Siebter Teilbestand: Originaltextfenster zu Klima-Rückkopplung, Energiekosten, CO₂-Budget, Sibiu und Klimaprotesten ergänzt. Keine durchgehende Erfassung, Gesamtfehlerzahl oder vollständige Bild- und Tonprüfung.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Achter Teilbestand: Erbschaft und Vermögensaufbau eingeordnet; die verbundene Stelle zu Wetterextremen, Schäden und Binnenvertreibungen in drei Aussagen getrennt. Keine durchgehende Erfassung, Gesamtfehlerzahl oder vollständige audiovisuelle Prüfung.
 
 Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 
