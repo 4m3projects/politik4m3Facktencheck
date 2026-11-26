@@ -25,6 +25,8 @@
 
 **Kohleförderung und EU-Urheberrecht:** Historische Bergbausubventionen, regionale Strukturhilfen und Unternehmensentschädigungen wurden getrennt. Die 2019 veröffentlichte Richtlinie sah keine pauschale Freigabe vor, geschützte Inhalte schon durch eine beliebige Änderung hochladen zu dürfen.
 
+**Migration und Klima:** Die bei 13:06 genannten 230 und über 400 Millionen für 2050 stehen in der damaligen IOM-Quelle für internationale Migration aus allen Gründen, nicht für klimabedingte Flucht.
+
 ## Prüfgrenzen
 
 Bisher ist nur ein Teilbestand quellengeprüft, mit Einzelbefunden zur CO₂-Bepreisung und einer Wiederholung der Scientists-for-Future-Zahl im Schlussteil. Das Video ist noch nicht durchgehend erfasst. Die deutschen Untertitel sind über den Originalplayer sichtbar; Fundstellen sind ungefähre Suchfenster. Bildmaterial und Originalton wurden nicht separat kontrolliert. Das genaue Aufnahmedatum ist nicht belegt; als spätester Stichtag gilt daher die Veröffentlichung am **18. Mai 2019**. Spätere Erkenntnisse und politische Entwicklungen werden davon getrennt. Die verlinkte Original-Quellenliste antwortet nicht mehr; eine zeitgenössische Spiegelung hilft beim Auffinden der Originalstudien, gilt aber nicht als unabhängiger Sachbeleg. Wiederholungen, Wertungen und Fremdzitate nicht als mehrere Rezo-Fehler zählen. Die Wahlwirkung ist nicht Teil dieser ersten Bewertung.
