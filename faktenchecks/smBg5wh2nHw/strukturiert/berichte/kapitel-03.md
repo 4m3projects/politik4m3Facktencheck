@@ -1,6 +1,6 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht von 00:00:00 bis 00:39:32. Automatische Untertitel liegen von 00:00:00 bis 00:39:28 vor. Die Prüfung der 60 erfassten Punkte ist abgeschlossen. Davon sind zwei ohne öffentliche Prüfgrundlage. Die Einzelpunkte ergeben einen Teilbestand. Die thematische Übersicht umfasst die gesamte Laufzeit.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Thematische Übersicht von 00:00:00 bis 00:39:32. Automatische Untertitel liegen von 00:00:00 bis 00:39:28 vor. Die Übersicht zählt die erfassten Prüfpunkte und ihre Ergebnisse getrennt. Zwei Punkte haben keine öffentliche Prüfgrundlage. Die Einzelpunkte ergeben einen Teilbestand. Die thematische Übersicht umfasst die gesamte Laufzeit.
 
 Grundlage sind automatische deutsche Originaluntertitel und die jeweils angegebenen Sachquellen. Die Sprecherzuordnung erfolgt aus dem Untertitelzusammenhang. Eine Hör- oder Sichtkontrolle fand nicht statt. Pressewiedergaben und tatsächliche Sachverhalte wurden gesondert geprüft.
 

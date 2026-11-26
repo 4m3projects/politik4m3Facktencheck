@@ -11,7 +11,7 @@ Stand: 20.11.2026.
 - Aufnahme: Datum ungeklärt
 - Laufzeit: 00:39:32
 
-Die automatischen deutschen Originaluntertitel reichen von 00:00:00 bis 00:39:28. Themen und Zeitbereiche sind daraus abgeleitet. Alle 60 erfassten Punkte haben einen abschließenden Prüfstatus. Die Sachprüfung bildet einen Teilbestand. Die Zeitmarken und Sprecherzuordnungen beruhen auf dem Untertiteltext.
+Die automatischen deutschen Originaluntertitel reichen von 00:00:00 bis 00:39:28. Themen und Zeitbereiche sind daraus abgeleitet. Die Einzelbewertungen und aktuellen Zählungen stehen im [generierten Prüfbericht](strukturiert/README.md). Die Sachprüfung bildet einen Teilbestand. Die Zeitmarken und Sprecherzuordnungen beruhen auf dem Untertiteltext.
 
 - [Kurzbeschreibung](01_kurz.md)
 - [Themen und Zeitbereiche](02_analyse.md)

@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Thematische Übersicht von 00:00:00 bis 00:39:32. Automatische Untertitel liegen von 00:00:00 bis 00:39:28 vor. Die Prüfung der 60 erfassten Punkte ist abgeschlossen. Davon sind zwei ohne öffentliche Prüfgrundlage. Die Einzelpunkte ergeben einen Teilbestand. Die thematische Übersicht umfasst die gesamte Laufzeit.
+**Abdeckung: Teilbestand.** Thematische Übersicht von 00:00:00 bis 00:39:32. Automatische Untertitel liegen von 00:00:00 bis 00:39:28 vor. Die Übersicht zählt die erfassten Prüfpunkte und ihre Ergebnisse getrennt. Zwei Punkte haben keine öffentliche Prüfgrundlage. Die Einzelpunkte ergeben einen Teilbestand. Die thematische Übersicht umfasst die gesamte Laufzeit.
 
 Stand: 2026-11-20 · Video: smBg5wh2nHw
 

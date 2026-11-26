@@ -11,11 +11,11 @@ Stand: 20.11.2026.
 
 ## Nachprüfung vom 20.11.2026
 
-Alle 60 erfassten Prüfpunkte haben einen abschließenden Status. Darunter sind 53 abgeschlossene Sachprüfungen, fünf Einordnungen als Meinung oder Prognose und zwei Fälle ohne öffentliche Prüfgrundlage.
+Die [generierte Übersicht](strukturiert/README.md) weist Sachurteile, Meinung oder Prognose und Fälle ohne öffentliche Prüfgrundlage getrennt aus.
 
 ## Grenzen der Prüfung
 
-Die persönliche Schilderung zur Schulreinigung und die privaten Kanalzahlungen samt internen Abläufen sind öffentlich nicht überprüfbar. Die historischen Abonnentenzahlen beider Kanäle und der Preis der konkreten Klimagerätekombination erwiesen sich nach Quellenrecherche als nicht ausreichend belegbar. Die Einzelprüfungen dokumentieren die Gründe. Die 60 erfassten Punkte sind ein Teilbestand. Zeitmarken und Sprecherzuordnungen beruhen auf dem Untertiteltext.
+Die persönliche Schilderung zur Schulreinigung und die privaten Kanalzahlungen samt internen Abläufen sind öffentlich nicht überprüfbar. Die historischen Abonnentenzahlen beider Kanäle und der Preis der konkreten Klimagerätekombination erwiesen sich nach Quellenrecherche als nicht ausreichend belegbar. Die Einzelprüfungen dokumentieren die Gründe. Die erfassten Punkte sind ein Teilbestand. Zeitmarken und Sprecherzuordnungen beruhen auf dem Untertiteltext.
 
 ## Kapitelprüfungen
 
