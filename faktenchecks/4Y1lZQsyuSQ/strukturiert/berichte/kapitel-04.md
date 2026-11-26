@@ -1,6 +1,6 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Sechster Teilbestand: jetzt mit zusätzlichem Quellenabgleich der beiden IOM-Zahlen zur internationalen Migration bei 13:06. Teile des Videos und der genaue Bild- und Tonabgleich bleiben offen; keine Gesamtfehlerzahl.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Siebter Teilbestand: Originaltextfenster zu Klima-Rückkopplung, Energiekosten, CO₂-Budget, Sibiu und Klimaprotesten ergänzt. Keine durchgehende Erfassung, Gesamtfehlerzahl oder vollständige Bild- und Tonprüfung.
 
 Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 
@@ -92,6 +92,150 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 
 - [IPCC – Sonderbericht zu 1,5 Grad, 2018](https://www.ipcc.ch/sr15/chapter/spm/) · A.1 und C.1: Erwärmung, Unsicherheit und CO₂-Budget.
   Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. A.1 und C.1: Erwärmung, Unsicherheit und CO₂-Budget.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 4Y1lZQsyuSQ-A0051
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Das verbleibende weltweite CO₂-Budget für 1,5 °C sei eine feststehende, eindeutig berechnete Menge, die bei unverändertem Kurs in weniger als neun Jahren aufgebraucht wäre.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:16:04–00:16:24](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=964s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Größenordnung passt zu einer damaligen IPCC-Schätzung: 420 Milliarden Tonnen CO₂ ab Anfang 2018 für eine Chance von 66 Prozent bei einer der verwendeten Temperaturmethoden. Bei 42 Milliarden Tonnen pro Jahr sind das ab Anfang 2018 ungefähr zehn Jahre, von Mai 2019 aus ungefähr achteinhalb bis neun. Andere Wahrscheinlichkeiten, Methoden, künftige Nicht-CO₂-Emissionen und Klimarückkopplungen verändern die Schätzung. Das Budget war nicht unumstößlich.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [IPCC – Global Warming of 1.5°C, Zusammenfassung für politische Entscheidungsträger (2018)](https://www.ipcc.ch/sr15/chapter/spm/) · Abschnitt D.1 und Fußnote 20: modellierte Pfade der damaligen Paris-Zusagen und bedingte langfristige Erwärmung.
+  Quellenzugriff am 2026-11-26. Relevante Stelle im verlinkten Originaltext geöffnet und gelesen. C.1.3: 420 und 580 Gt je nach Wahrscheinlichkeit; 42 ± 3 Gt pro Jahr und weitere Unsicherheiten.
+
+- [IPCC – Global Warming of 1.5°C, Kapitel 2 (2018)](https://www.ipcc.ch/sr15/chapter/chapter-2/) · Kapitel 2, Abschnitt 2.2.2.2: Restbudget, unterschiedliche Wahrscheinlichkeiten und linear sinkende Emissionen.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Abschnitt 2.2.2.2: Budgetannahmen und Abgrenzung nach Bezugszeitpunkt.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 4Y1lZQsyuSQ-A0052
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Für den 1,5-Grad-Pfad müssten sämtliche genannten fossilen Aktivitäten weltweit am selben Tag enden, wenn das Budget in rund neun Jahren ausgeschöpft ist.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:16:20–00:16:46](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=980s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Bei unverändert hohen Emissionen würde das gewählte Budget rasch aufgezehrt. Der IPCC beschreibt aber gerade keinen wissenschaftlich vorgeschriebenen gemeinsamen Abschalttag für einzelne Tätigkeiten. Für das gleiche Budget nennt er beispielhaft einen linearen Rückgang ab 2018 mit globalem Netto-Null-CO₂ nach rund 20 Jahren, bei großer Unsicherheit. Netto-Null der Gesamtsumme ist nicht gleichzeitiges physisches Stilllegen jedes Flugzeugs, Autos oder Kraftwerks. Ein Aufschub von Emissionsminderungen verschärft die nötigen späteren Einschnitte.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [IPCC – Global Warming of 1.5°C, Kapitel 2 (2018)](https://www.ipcc.ch/sr15/chapter/chapter-2/) · Kapitel 2, Abschnitt 2.2.2.2: Restbudget, unterschiedliche Wahrscheinlichkeiten und linear sinkende Emissionen.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Abschnitt 2.2.2.2: Szenarien unterscheiden linearen Rückgang und konstant hohe Emissionen.
+
+- [IPCC – Global Warming of 1.5°C, Zusammenfassung für politische Entscheidungsträger (2018)](https://www.ipcc.ch/sr15/chapter/spm/) · Abschnitt D.1 und Fußnote 20: modellierte Pfade der damaligen Paris-Zusagen und bedingte langfristige Erwärmung.
+  Quellenzugriff am 2026-11-26. Relevante Stelle im verlinkten Originaltext geöffnet und gelesen. C.1: Emissionspfade und weltweites Netto-Null statt eines Tages für jedes Einzelgerät.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 4Y1lZQsyuSQ-A0053
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Andere EU-Staaten starteten eine ambitioniertere Klima-Initiative; Deutschland machte dabei nicht mit und bremste sie aus.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:18:22–00:18:38](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=1102s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Das französisch mitinitiierte Sibiu-Papier verlangte das Ziel von EU-Netto-Null spätestens 2050; Deutschland stand nicht unter den ersten acht genannten Staaten. Merkel bestätigte am 14. Mai aber bereits die Initiative und schlug eine Debatte im Klimakabinett über den deutschen Weg zur Klimaneutralität bis 2050 vor. Die fehlende Unterschrift stützt den konkreten Vorwurf der Nichtteilnahme; sie beweist für sich kein deutsches Veto oder eine fortdauernde Ablehnung des Ziels.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [Frankreich, Belgien, Dänemark u. a. – gemeinsames Klimapapier zum Gipfel von Sibiu (Mai 2019)](https://empresaclima.org/wp-content/uploads/2019/05/1_Non-paper-Climate-FR-SE-PT-DK-LU-ES-NL-BE.pdf) · Gemeinsames Diskussionspapier, S. 1: acht namentlich genannte Staaten ohne Deutschland; EU-Netto-Null spätestens 2050.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. S. 1: Unterstützer und Forderung.
+
+- [Bundesregierung – Rede von Angela Merkel beim Petersberger Klimadialog, 14.05.2019](https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/rede-von-bundeskanzlerin-dr-angela-merkel-1611332) · Merkel bestätigt die französisch geführte Initiative und regt im deutschen Klimakabinett eine Debatte an, wie das 2050-Ziel erreicht werden könne.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Wortlaut am 14. Mai: vorgeschlagene Diskussion über den deutschen Weg zur Klimaneutralität.
 
 ### Offene Fragen und Unsicherheiten
 

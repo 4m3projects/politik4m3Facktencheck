@@ -11,7 +11,7 @@
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
     "researchNote": "Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.",
-    "coverageNote": "Sechster Teilbestand: jetzt mit zusätzlichem Quellenabgleich der beiden IOM-Zahlen zur internationalen Migration bei 13:06. Teile des Videos und der genaue Bild- und Tonabgleich bleiben offen; keine Gesamtfehlerzahl."
+    "coverageNote": "Siebter Teilbestand: Originaltextfenster zu Klima-Rückkopplung, Energiekosten, CO₂-Budget, Sibiu und Klimaprotesten ergänzt. Keine durchgehende Erfassung, Gesamtfehlerzahl oder vollständige Bild- und Tonprüfung."
   },
   "speakers": [
     {
@@ -453,6 +453,78 @@
       "details": "Die IOM nennt mehrere Treiber; die 405 Millionen werden ausdrücklich als Wenn-dann-Fortschreibung der gesamten internationalen Migration berechnet.",
       "accessedOn": "2026-11-26",
       "accessBasis": "Maßgebliche Passage im öffentlich indexierten Volltext der IOM gelesen; Fundstelle im Originaldokument angegeben."
+    },
+    {
+      "id": "S055",
+      "title": "IPCC – Global Warming of 1.5°C, Kapitel 2 (2018)",
+      "url": "https://www.ipcc.ch/sr15/chapter/chapter-2/",
+      "details": "Kapitel 2, Abschnitt 2.2.2.2: Restbudget, unterschiedliche Wahrscheinlichkeiten und linear sinkende Emissionen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S056",
+      "title": "Steffen et al. – Trajectories of the Earth System in the Anthropocene (2018)",
+      "url": "https://doi.org/10.1073/pnas.1810141115",
+      "details": "Die Studie untersucht einen hypothetischen Kaskadeneffekt; Lage einer möglichen planetaren Schwelle und Eintritt sind nicht gesichert.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S057",
+      "title": "LUT University und Energy Watch Group – Global Energy System based on 100% Renewable Energy, 2019",
+      "url": "https://www.qualenergia.it/wp-content/uploads/2019/04/EWG_LUT_100RE_All_Sectors_Global_Report_2019.pdf",
+      "details": "Originalbericht (Spiegel), Key Findings und Grafik KF-3: Weltmodell über mehrere Sektoren, ungefähr 54 EUR/MWh (2015) und 53 EUR/MWh (2050).",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S058",
+      "title": "Frankreich, Belgien, Dänemark u. a. – gemeinsames Klimapapier zum Gipfel von Sibiu (Mai 2019)",
+      "url": "https://empresaclima.org/wp-content/uploads/2019/05/1_Non-paper-Climate-FR-SE-PT-DK-LU-ES-NL-BE.pdf",
+      "details": "Gemeinsames Diskussionspapier, S. 1: acht namentlich genannte Staaten ohne Deutschland; EU-Netto-Null spätestens 2050.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S059",
+      "title": "Bundesregierung – Rede von Angela Merkel beim Petersberger Klimadialog, 14.05.2019",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/rede-von-bundeskanzlerin-dr-angela-merkel-1611332",
+      "details": "Merkel bestätigt die französisch geführte Initiative und regt im deutschen Klimakabinett eine Debatte an, wie das 2050-Ziel erreicht werden könne.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S060",
+      "title": "HNA – Interview mit Annegret Kramp-Karrenbauer, März 2019",
+      "url": "https://www.hna.de/politik/annegret-kramp-karrenbauer-im-interview-ueber-merkel-und-klimaschutz-ngz-11861993.html",
+      "details": "Direkte Antwort zu Klimaprotesten: Engagement begrüßt; Demonstrationen ohne Fernbleiben vom Unterricht wären aus ihrer Sicht überzeugender.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S061",
+      "title": "FDP-Bundestagsfraktion – Lindner-Interview: Klimaschutz ist was für Profis, 10.03.2019",
+      "url": "https://www.fdpbt.de/lindner-interview-klimaschutz-was-fuer-profis?page=666",
+      "details": "Lindner sagt, man könne von Kindern und Jugendlichen nicht bereits den Überblick über alle globalen, technischen und wirtschaftlichen Zusammenhänge erwarten.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S062",
+      "title": "FDP – Lindner-Interview: Mit Profis meine ich nicht Politiker, März 2019",
+      "url": "https://www.fdp.de/pressemitteilung/lindner-interview-mit-profis-meine-ich-nicht-politiker",
+      "details": "Lindner erläutert, dass er mit Profis nicht Politiker, sondern Technikexperten meint.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S063",
+      "title": "Energy Watch Group und LUT University – weltweites Stromszenario, 08.11.2017",
+      "url": "https://energywatchgroup.org/wp/en/100re/",
+      "details": "Mitteilung der Studienautoren: berechnete Stromgestehungskosten einschließlich Abregelung, Speicher und bestimmter Netzkosten.",
+      "accessBasis": "Originalmitteilung und angegebenen Kostenvergleich gelesen.",
+      "accessedOn": "2026-11-26"
     }
   ],
   "claims": [
@@ -1641,6 +1713,59 @@
       "shortReason": "Die 0,7 Prozent stammen aus einer ausgewählten Studie und sind breiter definiert als null menschlicher Einfluss."
     },
     {
+      "id": "4Y1lZQsyuSQ-A0049",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei einer Erwärmung über 1,5 °C sei eine unaufhaltsame Erwärmungsspirale extrem wahrscheinlich.",
+      "status": "Abgeschlossen",
+      "reason": "Der IPCC-Sonderbericht warnt vor mit zusätzlicher Erwärmung steigenden Risiken und vor teils irreversiblen Veränderungen einzelner Systeme. Steffen und Mitautoren untersuchten als Hypothese eine selbstverstärkende Kaskade und diskutierten als mögliche Größenordnung etwa 2 °C. Daraus folgt weder eine für das ganze Erdsystem nachgewiesene Schwelle bei genau 1,5 °C noch die behauptete sehr hohe Eintrittswahrscheinlichkeit direkt oberhalb davon. Das Risiko von Kippprozessen ist dennoch real und substantiell.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S025",
+          "note": "Abschnitte B.1 und B.4: Risiken bei verschiedenen Erwärmungsniveaus, keine solche globale Schwelle."
+        },
+        {
+          "sourceId": "S056",
+          "note": "Mögliche Kaskade als untersuchte Hypothese; offene Schwelle und Forschungsbedarf."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0050",
+          "startSeconds": 730,
+          "endSeconds": 755,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Irreführend / Kontext fehlt",
+      "shortReason": "Kipprisiken nehmen zu, aber eine sehr wahrscheinliche globale Spirale unmittelbar über 1,5 °C war nicht belegt."
+    },
+    {
       "id": "4Y1lZQsyuSQ-A0048",
       "videoId": "4Y1lZQsyuSQ",
       "chapter": 3,
@@ -1696,6 +1821,58 @@
       "relations": [],
       "verdict": "Widerlegt",
       "shortReason": "Beide Zahlen beziehen sich laut IOM auf internationale Migration insgesamt, nicht auf klimabedingte Flucht."
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0050",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Einige damals vorliegende Studien kamen auf ähnliche oder niedrigere Energiekosten bei 100 Prozent erneuerbarer Versorgung.",
+      "status": "Abgeschlossen",
+      "reason": "Die im Frühjahr 2019 veröffentlichte Modellstudie von LUT/Energy Watch Group berechnete im globalen Szenario ähnliche durchschnittliche gewichtete Energiekosten für 2050 wie für das Ausgangsjahr 2015. Eine frühere Untersuchung derselben Partner kam für den Stromsektor auf niedrigere modellierte Kosten. Das belegt die Aussage über vorliegende Studien, nicht einen garantierten heutigen Preis, dieselben Kosten in jedem Sektor oder einen Konsens über alle Modellannahmen.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S057",
+          "note": "Key Findings: modellierte durchschnittliche Systemkosten und Unterschiede zwischen den Sektoren."
+        },
+        {
+          "sourceId": "S063",
+          "note": "Stromsektor, nicht gesamtes Energiesystem. Veröffentlichung durch die Studienpartner."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0051",
+          "startSeconds": 872,
+          "endSeconds": 901,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Belegt"
     },
     {
       "id": "4Y1lZQsyuSQ-A0025",
@@ -1796,6 +1973,165 @@
         }
       ],
       "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0051",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das verbleibende weltweite CO₂-Budget für 1,5 °C sei eine feststehende, eindeutig berechnete Menge, die bei unverändertem Kurs in weniger als neun Jahren aufgebraucht wäre.",
+      "status": "Abgeschlossen",
+      "reason": "Die Größenordnung passt zu einer damaligen IPCC-Schätzung: 420 Milliarden Tonnen CO₂ ab Anfang 2018 für eine Chance von 66 Prozent bei einer der verwendeten Temperaturmethoden. Bei 42 Milliarden Tonnen pro Jahr sind das ab Anfang 2018 ungefähr zehn Jahre, von Mai 2019 aus ungefähr achteinhalb bis neun. Andere Wahrscheinlichkeiten, Methoden, künftige Nicht-CO₂-Emissionen und Klimarückkopplungen verändern die Schätzung. Das Budget war nicht unumstößlich.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S025",
+          "note": "C.1.3: 420 und 580 Gt je nach Wahrscheinlichkeit; 42 ± 3 Gt pro Jahr und weitere Unsicherheiten."
+        },
+        {
+          "sourceId": "S055",
+          "note": "Abschnitt 2.2.2.2: Budgetannahmen und Abgrenzung nach Bezugszeitpunkt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0052",
+          "startSeconds": 964,
+          "endSeconds": 984,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Teilweise belegt",
+      "shortReason": "Unter den genannten IPCC-Annahmen ist die Größenordnung plausibel; ein einziges unumstößliches Restbudget gibt es nicht."
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0052",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Für den 1,5-Grad-Pfad müssten sämtliche genannten fossilen Aktivitäten weltweit am selben Tag enden, wenn das Budget in rund neun Jahren ausgeschöpft ist.",
+      "status": "Abgeschlossen",
+      "reason": "Bei unverändert hohen Emissionen würde das gewählte Budget rasch aufgezehrt. Der IPCC beschreibt aber gerade keinen wissenschaftlich vorgeschriebenen gemeinsamen Abschalttag für einzelne Tätigkeiten. Für das gleiche Budget nennt er beispielhaft einen linearen Rückgang ab 2018 mit globalem Netto-Null-CO₂ nach rund 20 Jahren, bei großer Unsicherheit. Netto-Null der Gesamtsumme ist nicht gleichzeitiges physisches Stilllegen jedes Flugzeugs, Autos oder Kraftwerks. Ein Aufschub von Emissionsminderungen verschärft die nötigen späteren Einschnitte.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S055",
+          "note": "Abschnitt 2.2.2.2: Szenarien unterscheiden linearen Rückgang und konstant hohe Emissionen."
+        },
+        {
+          "sourceId": "S025",
+          "note": "C.1: Emissionspfade und weltweites Netto-Null statt eines Tages für jedes Einzelgerät."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0053",
+          "startSeconds": 980,
+          "endSeconds": 1006,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Irreführend / Kontext fehlt",
+      "shortReason": "Rasche Senkungen sind nötig; das Budget verlangt keinen gleichzeitigen Abschalttag für alle Tätigkeiten."
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0053",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Andere EU-Staaten starteten eine ambitioniertere Klima-Initiative; Deutschland machte dabei nicht mit und bremste sie aus.",
+      "status": "Abgeschlossen",
+      "reason": "Das französisch mitinitiierte Sibiu-Papier verlangte das Ziel von EU-Netto-Null spätestens 2050; Deutschland stand nicht unter den ersten acht genannten Staaten. Merkel bestätigte am 14. Mai aber bereits die Initiative und schlug eine Debatte im Klimakabinett über den deutschen Weg zur Klimaneutralität bis 2050 vor. Die fehlende Unterschrift stützt den konkreten Vorwurf der Nichtteilnahme; sie beweist für sich kein deutsches Veto oder eine fortdauernde Ablehnung des Ziels.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S058",
+          "note": "S. 1: Unterstützer und Forderung."
+        },
+        {
+          "sourceId": "S059",
+          "note": "Wortlaut am 14. Mai: vorgeschlagene Diskussion über den deutschen Weg zur Klimaneutralität."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0054",
+          "startSeconds": 1102,
+          "endSeconds": 1118,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Teilweise belegt",
+      "shortReason": "Deutschland fehlte beim ersten gemeinsamen Papier, aber daraus folgt kein belegtes Veto gegen das Ziel."
     },
     {
       "id": "4Y1lZQsyuSQ-A0027",
@@ -2811,6 +3147,107 @@
       ],
       "relations": [],
       "verdict": "Belegt"
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0054",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Annegret Kramp-Karrenbauer fand Schülerdemonstrationen überzeugender, wenn dafür kein Unterricht versäumt wird.",
+      "status": "Abgeschlossen",
+      "reason": "Kramp-Karrenbauer äußerte diese Präferenz im damaligen Interview und bezeichnete das Engagement dabei zugleich als gut. Das ist kein generelles Verbot oder eine vollständige Ablehnung der Anliegen. Geprüft ist die von Rezo referierte Position, nicht die Meinung der Politikerin.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S060",
+          "note": "Direkte Interviewantwort zu Schulzeit und Engagement."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0055",
+          "startSeconds": 2940,
+          "endSeconds": 2957,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Belegt"
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0055",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Christian Lindner sprach den demonstrierenden Schülerinnen und Schülern in Klimafragen das gute Urteilsvermögen ab und verwies auf Profis.",
+      "status": "Abgeschlossen",
+      "reason": "Lindner sagte, man könne von Kindern und Jugendlichen noch keinen Überblick über alle globalen, technischen und wirtschaftlichen Zusammenhänge erwarten, und verwies auf Profis. Er behauptete im Interview nicht ausdrücklich ein grundsätzlich schlechtes Urteilsvermögen und erklärte später im März, dass er mit Profis nicht Politiker, sondern Technikexperten meinte. Rezos Zuspitzung hat eine erkennbare Grundlage, ist aber weiter als die direkte Aussage.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S061",
+          "note": "Originalantwort zu den Schülerdemonstrationen."
+        },
+        {
+          "sourceId": "S062",
+          "note": "Öffentliche Präzisierung, wer mit Profis gemeint war."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0056",
+          "startSeconds": 2990,
+          "endSeconds": 3014,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Teilweise belegt",
+      "shortReason": "Der Verweis auf Profis ist belegt; allgemeines schlechtes Urteilsvermögen ist eine Zuspitzung."
     },
     {
       "id": "4Y1lZQsyuSQ-A0037",
