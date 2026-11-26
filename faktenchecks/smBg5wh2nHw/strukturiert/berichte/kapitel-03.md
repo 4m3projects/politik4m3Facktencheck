@@ -500,9 +500,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Das BUMIDOM finanzierte die Reisen und vermittelte Arbeitsplätze.
+**Eigene Beschreibung:** Das französische BUMIDOM unterstützte Reisen aus den Überseegebieten in das französische Mutterland finanziell.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -515,27 +515,30 @@ Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Zeitbereich aus dem Untertitelverlauf.
+Fundstellenhinweis: Geprüftes Suchfenster im Originalplayer, kein separater Tonabgleich.
 
-Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.
+Zeitgrundlage: Automatisch erzeugtes deutsches Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Archive der Guadeloupe belegen organisatorische Hilfe und die Vermittlung in Arbeit oder Ausbildung. Die Museumsdarstellung bestätigt die organisierte Ausreise. Die gelesenen Quellen bestätigen hier keinen allgemeinen Anspruch auf vollständige Übernahme der Reisekosten.
+Eine französische Regierungsantwort von 1973 beschreibt die Übernahme der ersten förderfähigen Überfahrt und begrenzte Hilfen für bestimmte weitere Reisen. Eine Archivstudie belegt auch anteilige nachträgliche Zuschüsse bei selbst organisierten Reisen. Die Moderation behauptet weder einen allgemeinen Anspruch noch eine vollständige Übernahme in jedem Einzelfall.
 
-Grundlage der Bewertung: Fundstelle aus den deutschen Originaluntertiteln und Abgleich mit den zugeordneten Sachquellen.
+Grundlage der Bewertung: Kai; deutschsprachiges automatisches Originalplayer-Transkript und französische Originalquellen; kein separater Hör- oder Sichtabgleich.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: 20.11.2026, Codex: Recherche des ersten Teilstands fortgeschrieben.
+Bewertungsuebergang: Zuvor Teilweise belegt als gemeinsamer Prüfpunkt. Nach Original- und Archivprüfung am 26.11.2026 Belegt für Reisefinanzierung (Kai, HP-C0010).
 
 ### Zugeordnete Quellen
 
-- [La France et ses migrations du XVIIe siècle à nos jours](https://www.histoire-immigration.fr/sites/default/files/2025-09/retranscription_film_migrations-en-france_2025.pdf) · Musée national de l’histoire de l’immigration, 2025.
-  Quellenzugriff am 2026-11-20. Darstellung der Nachkriegsmigration und Abschnitt zum BUMIDOM gelesen. Bezug und Reichweite stehen in der Begründung.
+- [YouTube-Videoseite und Veröffentlichungsmetadaten](https://www.youtube.com/watch?v=smBg5wh2nHw) · SinansWoche / YouTube, Veröffentlichung am 23.10.2026.
+  Quellenzugriff am 2026-11-20. Mit dem Projektimport ausgelesenes Veröffentlichungsdatum und Laufzeit. Eigene Aussage der Moderation ab etwa 19:26.
 
-- [BUMIDOM – Archivbestand](https://www.archivesguadeloupe.fr/collection/bumidom/) · Archives départementales de la Guadeloupe.
-  Quellenzugriff am 2026-11-20. Einleitung zu administrativer und materieller Unterstützung sowie Vermittlung in Arbeit und Ausbildung gelesen. Bezug und Reichweite stehen in der Begründung.
+- [Französische Nationalversammlung – Antwort zur Reiseunterstützung des BUMIDOM, 05.12.1973](https://archives.assemblee-nationale.fr/5/cri/1973-1974-ordinaire1/088.pdf) · Regelfall: finanzielle Übernahme der Überfahrt nach Kontinentalfrankreich nicht mehrfach für dieselbe Person; zusätzliche Unterstützung bei bestimmten Rück- und Wiedereinreisen nach Bedingungen.
+  Quellenzugriff am 2026-11-26. Zeitgenössische Regierungsantwort zur Reiseübernahme gelesen. Zeitgenössischer Primärbeleg für die finanzielle Reisehilfe.
+
+- [Bidet, Haddad und Veron: Archivstudie zum BUMIDOM, Revue européenne des migrations internationales](https://journals.openedition.org/remi/pdf/28089) · S. 127–130: BUMIDOM-Tätigkeitsberichte und Individualakten belegen Arbeitsvermittlung als eigenes Arbeitsfeld; unter bestimmten Bedingungen nachträglich anteilige Reisekostenübernahme für selbst organisierte Reisen.
+  Quellenzugriff am 2026-11-26. Originalpublikation, Archivmaterial und Tab. 2 geprüft. Archivbefund zur unterschiedlichen Ausgestaltung der Reisehilfe.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -749,6 +752,54 @@ Bewertungsuebergang: Erstprüfung für dieses Video.
 
 - [Loi n° 46-451 du 19 mars 1946, Artikel 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006385372/1946-03-20) · Légifrance, Gesetz vom 19.03.1946.
   Quellenzugriff am 2026-11-20. Artikel 1 in der am 20.03.1946 wirksamen Fassung gelesen. Bezug und Reichweite stehen in der Begründung.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## smBg5wh2nHw-A0061
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Das BUMIDOM vermittelte Menschen aus französischen Überseegebieten Arbeitsstellen im französischen Mutterland.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:19:33–00:19:39](https://www.youtube.com/watch?v=smBg5wh2nHw&t=1173s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
+
+Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Arbeitsvermittlungsangabe im Anschluss an die Reisehilfe.
+
+Zeitgrundlage: Automatisch erzeugtes deutsches Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Archivstudie wertet Tätigkeitsberichte und individuelle BUMIDOM-Akten aus; sie dokumentiert die Vermittlung in Beschäftigung als eigene Tätigkeit des Büros, neben beruflicher Ausbildung, Reisehilfe und anderen Unterstützungsleistungen. Die Aussage bezieht sich auf diese Tätigkeit, nicht auf eine Jobgarantie für jede zugezogene Person.
+
+Grundlage der Bewertung: Kai; deutschsprachiges automatisches Originalplayer-Transkript und französische Originalquellen; kein separater Hör- oder Sichtabgleich.
+
+Uebernahme: Eigenständige Arbeitsvermittlung aus A0034 abgespalten; keine doppelte Zählung der Reisefinanzierung.
+
+Bewertungsuebergang: Als Belegt getrennt erfasst am 26.11.2026 durch Kai; früher Teil von A0034 (HP-C0010).
+
+### Zugeordnete Quellen
+
+- [YouTube-Videoseite und Veröffentlichungsmetadaten](https://www.youtube.com/watch?v=smBg5wh2nHw) · SinansWoche / YouTube, Veröffentlichung am 23.10.2026.
+  Quellenzugriff am 2026-11-20. Mit dem Projektimport ausgelesenes Veröffentlichungsdatum und Laufzeit. Eigenständige Angabe zur Arbeitsvermittlung ab etwa 19:33.
+
+- [BUMIDOM – Archivbestand](https://www.archivesguadeloupe.fr/collection/bumidom/) · Archives départementales de la Guadeloupe.
+  Quellenzugriff am 2026-11-20. Einleitung zu administrativer und materieller Unterstützung sowie Vermittlung in Arbeit und Ausbildung gelesen. Archivbestand des BUMIDOM in Guadeloupe.
+
+- [Bidet, Haddad und Veron: Archivstudie zum BUMIDOM, Revue européenne des migrations internationales](https://journals.openedition.org/remi/pdf/28089) · S. 127–130: BUMIDOM-Tätigkeitsberichte und Individualakten belegen Arbeitsvermittlung als eigenes Arbeitsfeld; unter bestimmten Bedingungen nachträglich anteilige Reisekostenübernahme für selbst organisierte Reisen.
+  Quellenzugriff am 2026-11-26. Originalpublikation, Archivmaterial und Tab. 2 geprüft. Tätigkeitsberichte und Individualakten; Arbeitsvermittlung und Ausbildung getrennt ausgewiesen.
 
 ### Offene Fragen und Unsicherheiten
 

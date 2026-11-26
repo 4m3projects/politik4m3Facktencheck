@@ -386,6 +386,13 @@
       "topics": [
         "wirtschaft"
       ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0061",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
     }
   ],
   "history": [
@@ -398,6 +405,11 @@
       "date": "2026-11-20",
       "agent": "Codex",
       "change": "Themen für zusätzliche Prüfpunkte ergänzt."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Arbeitsvermittlung als eigenständigen Prüfpunkt den bestehenden Themen der BUMIDOM-Stelle zugeordnet."
     }
   ]
 }

@@ -566,6 +566,22 @@
       "details": "Vivax / Cooldown, Hersteller- und Vertriebsangaben, 2025.",
       "accessBasis": "Preislisten für Außen- und Innengeräte gelesen. Nur Beispielpreise eines Anbieters.",
       "accessedOn": "2026-11-20"
+    },
+    {
+      "id": "S070",
+      "title": "Französische Nationalversammlung – Antwort zur Reiseunterstützung des BUMIDOM, 05.12.1973",
+      "url": "https://archives.assemblee-nationale.fr/5/cri/1973-1974-ordinaire1/088.pdf",
+      "details": "Regelfall: finanzielle Übernahme der Überfahrt nach Kontinentalfrankreich nicht mehrfach für dieselbe Person; zusätzliche Unterstützung bei bestimmten Rück- und Wiedereinreisen nach Bedingungen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Zeitgenössische Regierungsantwort zur Reiseübernahme gelesen."
+    },
+    {
+      "id": "S071",
+      "title": "Bidet, Haddad und Veron: Archivstudie zum BUMIDOM, Revue européenne des migrations internationales",
+      "url": "https://journals.openedition.org/remi/pdf/28089",
+      "details": "S. 127–130: BUMIDOM-Tätigkeitsberichte und Individualakten belegen Arbeitsvermittlung als eigenes Arbeitsfeld; unter bestimmten Bedingungen nachträglich anteilige Reisekostenübernahme für selbst organisierte Reisen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation, Archivmaterial und Tab. 2 geprüft."
     }
   ],
   "speakers": [
@@ -2579,24 +2595,28 @@
       "chapter": 3,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Das BUMIDOM finanzierte die Reisen und vermittelte Arbeitsplätze.",
+      "description": "Das französische BUMIDOM unterstützte Reisen aus den Überseegebieten in das französische Mutterland finanziell.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Die Archive der Guadeloupe belegen organisatorische Hilfe und die Vermittlung in Arbeit oder Ausbildung. Die Museumsdarstellung bestätigt die organisierte Ausreise. Die gelesenen Quellen bestätigen hier keinen allgemeinen Anspruch auf vollständige Übernahme der Reisekosten.",
-      "assessmentBasis": "Fundstelle aus den deutschen Originaluntertiteln und Abgleich mit den zugeordneten Sachquellen.",
+      "verdict": "Belegt",
+      "reason": "Eine französische Regierungsantwort von 1973 beschreibt die Übernahme der ersten förderfähigen Überfahrt und begrenzte Hilfen für bestimmte weitere Reisen. Eine Archivstudie belegt auch anteilige nachträgliche Zuschüsse bei selbst organisierten Reisen. Die Moderation behauptet weder einen allgemeinen Anspruch noch eine vollständige Übernahme in jedem Einzelfall.",
+      "assessmentBasis": "Kai; deutschsprachiges automatisches Originalplayer-Transkript und französische Originalquellen; kein separater Hör- oder Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt erfasster Prüfgegenstand.",
-        "assessmentChange": "20.11.2026, Codex: Recherche des ersten Teilstands fortgeschrieben."
+        "assessmentChange": "Zuvor Teilweise belegt als gemeinsamer Prüfpunkt. Nach Original- und Archivprüfung am 26.11.2026 Belegt für Reisefinanzierung (Kai, HP-C0010)."
       },
       "sourceRefs": [
         {
-          "sourceId": "S008",
-          "note": "Bezug und Reichweite stehen in der Begründung."
+          "sourceId": "S014",
+          "note": "Eigene Aussage der Moderation ab etwa 19:26."
         },
         {
-          "sourceId": "S021",
-          "note": "Bezug und Reichweite stehen in der Begründung."
+          "sourceId": "S070",
+          "note": "Zeitgenössischer Primärbeleg für die finanzielle Reisehilfe."
+        },
+        {
+          "sourceId": "S071",
+          "note": "Archivbefund zur unterschiedlichen Ausgestaltung der Reisehilfe."
         }
       ],
       "openQuestions": [],
@@ -2614,13 +2634,13 @@
           "role": "Behauptung",
           "roleStatus": "Bestätigt",
           "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
-          "note": "Zeitbereich aus dem Untertitelverlauf.",
-          "timeBasis": "Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.",
+          "note": "Geprüftes Suchfenster im Originalplayer, kein separater Tonabgleich.",
+          "timeBasis": "Automatisch erzeugtes deutsches Originalplayer-Transkript.",
           "timeHistory": []
         }
       ],
       "relations": [],
-      "shortReason": "Arbeitsvermittlung und materielle Unterstützung sind dokumentiert. Die genauen Regeln zur Erstattung der Reisekosten bleiben offen."
+      "shortReason": "Die französische Regierung dokumentierte die Reiseübernahme; Umfang und Bedingungen variierten."
     },
     {
       "id": "smBg5wh2nHw-A0035",
@@ -3898,6 +3918,59 @@
         "missingInformation": "Gerätemodelle, passende Leistung und Preise der vom Host genannten Zusammenstellung zum damaligen Zeitpunkt.",
         "conflicts": null
       }
+    },
+    {
+      "id": "smBg5wh2nHw-A0061",
+      "videoId": "smBg5wh2nHw",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das BUMIDOM vermittelte Menschen aus französischen Überseegebieten Arbeitsstellen im französischen Mutterland.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Archivstudie wertet Tätigkeitsberichte und individuelle BUMIDOM-Akten aus; sie dokumentiert die Vermittlung in Beschäftigung als eigene Tätigkeit des Büros, neben beruflicher Ausbildung, Reisehilfe und anderen Unterstützungsleistungen. Die Aussage bezieht sich auf diese Tätigkeit, nicht auf eine Jobgarantie für jede zugezogene Person.",
+      "assessmentBasis": "Kai; deutschsprachiges automatisches Originalplayer-Transkript und französische Originalquellen; kein separater Hör- oder Sichtabgleich.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Arbeitsvermittlung aus A0034 abgespalten; keine doppelte Zählung der Reisefinanzierung.",
+        "assessmentChange": "Als Belegt getrennt erfasst am 26.11.2026 durch Kai; früher Teil von A0034 (HP-C0010)."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S014",
+          "note": "Eigenständige Angabe zur Arbeitsvermittlung ab etwa 19:33."
+        },
+        {
+          "sourceId": "S021",
+          "note": "Archivbestand des BUMIDOM in Guadeloupe."
+        },
+        {
+          "sourceId": "S071",
+          "note": "Tätigkeitsberichte und Individualakten; Arbeitsvermittlung und Ausbildung getrennt ausgewiesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "smBg5wh2nHw-O0061",
+          "startSeconds": 1173,
+          "endSeconds": 1179,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.",
+          "note": "Eigene Arbeitsvermittlungsangabe im Anschluss an die Reisehilfe.",
+          "timeBasis": "Automatisch erzeugtes deutsches Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Individuelle BUMIDOM-Akten dokumentieren die Vermittlung in Beschäftigung."
     }
   ]
 }
