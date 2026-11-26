@@ -104,9 +104,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Indien sei die fünftgrößte Volkswirtschaft der Welt.
+**Eigene Beschreibung:** Indien sei zum Zeitpunkt des Videos die fünftgrößte Volkswirtschaft der Welt.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -125,24 +125,24 @@ Zeitgrundlage: Deutsches YouTube-Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das trifft für Weltbankdaten 2024 nach nominalem BIP zu; nach demselben Maßstab liegt Indien 2025 hinter dem Vereinigten Königreich. Der damals verfügbare IWF-Ausblick Oktober 2026 schätzt für 2026 ebenfalls Rang 6 (Indien 4,06, Großbritannien 4,27 Billionen US-Dollar). Schreiber nennt weder Bezugsjahr noch Maßstab.
+Die Stelle spricht in der Gegenwartsform und nennt weder Bezugsjahr noch Maßstab. Nach nominalem BIP, dem üblichen Maßstab dieser Rangfolge, lag Indien laut Weltbank 2024 auf Rang fünf (3,761 Billionen US-Dollar vor 3,696 im Vereinigten Königreich). Für 2025 lag Indien auf Rang sechs (3,956 hinter 4,003). Auch der vor dem Video erschienene IWF-Ausblick vom Oktober 2026 erwartete für 2026 Rang sechs (4,060 hinter 4,268). Der historische Rang fünf trifft zu, nicht aber die gegenwartsbezogene Rangangabe.
 
-Grundlage der Bewertung: Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.
+Grundlage der Bewertung: Kai; unabhängig gelesene Primärquellen und deutscher automatisch erzeugter Originalplayer-Text. Kein separater Tonabgleich. Maßgeblich ist der Stand zur Videoveröffentlichung (05.11.2026).
 
 Uebernahme: Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.
 
-Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+Bewertungsuebergang: Ersterfassung Teilweise belegt; Nachprüfung 2026-11-26 durch Kai: Widerlegt (HP-C0005).
 
 ### Zugeordnete Quellen
 
 - [Constantin Schreiber – Originalvideo vom 5. November 2026](https://www.youtube.com/watch?v=6qxCPP_tva4) · Deutsches automatisches Originalplayer-Transkript, 13:23.
-  Quellenzugriff am 2026-11-26. Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft. Originalplayer-Fundstelle.
+  Quellenzugriff am 2026-11-26. Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft. Originalstelle ab 6:55, gegenwartsbezogene Formulierung.
 
-- [IWF – World Economic Outlook, Oktober 2026](https://www.imf.org/external/datamapper/NGDPD%40WEO) · Nominales BIP in US-Dollar, vergleichbare 2026er Schätzungen. Indien 4,06, Großbritannien 4,27 und Japan 4,34 Billionen.
-  Quellenzugriff am 2026-11-26. Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft. Sachbeleg oder Prüfkontext.
+- [IWF – World Economic Outlook, Oktober 2026](https://www.imf.org/external/datamapper/NGDPD%40WEO) · Nominales BIP in laufenden US-Dollar; Schätzung 2026: Indien 4,060, Vereinigtes Königreich 4,268, Japan 4,342 Billionen US-Dollar.
+  Quellenzugriff am 2026-11-26. IWF DataMapper und Oktober-Ausgabe des WEO. Vor der Veröffentlichung verfügbare Prognose für 2026.
 
-- [Weltbank – World Development Indicators, BIP in laufenden US-Dollar](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?most_recent_value_desc=true) · 2025 Indien hinter Großbritannien; historisch wechselnde Rangfolge.
-  Quellenzugriff am 2026-11-26. Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft. Sachbeleg oder Prüfkontext.
+- [Weltbank – World Development Indicators: nominales BIP 2024–2025](https://api.worldbank.org/v2/country/IND;GBR;USA;CHN;DEU;JPN;FRA/indicator/NY.GDP.MKTP.CD?date=2024:2025&format=json&per_page=50) · Indikator NY.GDP.MKTP.CD, laufende US-Dollar. Indien 2024 3,761 und 2025 3,956 Billionen; Vereinigtes Königreich 2024 3,696 und 2025 4,003 Billionen.
+  Quellenzugriff am 2026-11-26. Offizielle Weltbank-API mit sieben Ländern abgeglichen. Vergleich der Jahreswerte 2024 und 2025.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -197,9 +197,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Indien landete 2023 eine Sonde am Mondsüdpol.
+**Eigene Beschreibung:** Die indische Sonde sei am geografischen Südpol des Mondes gelandet.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -218,21 +218,72 @@ Zeitgrundlage: Deutsches YouTube-Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Chandrayaan-3 landete am 23.08.2023 in den südlichen hohen Breiten bei 69,37° Süd; das ist die Südpolregion im weiteren Sinn, nicht der geografische Südpol bei 90° Süd.
+Bei wörtlich-geografischer Lesart trifft die Ortsangabe nicht zu: Der Aufsetzpunkt lag laut ISRO bei 69,37° Süd, nicht bei 90° Süd. Die NASA gibt eine Entfernung von etwa 600 km zum Pol an. Die Umschreibung als Landung in der Südpolregion ist sachlich möglich; die erfolgreiche Landung wird separat als A0025 geprüft.
 
-Grundlage der Bewertung: Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.
+Grundlage der Bewertung: Kai; unabhängig gelesene Primärquellen und deutscher automatisch erzeugter Originalplayer-Text. Kein separater Tonabgleich. Maßgeblich ist der Stand zur Videoveröffentlichung (05.11.2026).
 
 Uebernahme: Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.
 
-Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+Bewertungsuebergang: Ersterfassung Teilweise belegt; Nachprüfung 2026-11-26 durch Kai: Widerlegt (HP-C0006).
 
 ### Zugeordnete Quellen
 
 - [Constantin Schreiber – Originalvideo vom 5. November 2026](https://www.youtube.com/watch?v=6qxCPP_tva4) · Deutsches automatisches Originalplayer-Transkript, 13:23.
-  Quellenzugriff am 2026-11-26. Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft. Originalplayer-Fundstelle.
+  Quellenzugriff am 2026-11-26. Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft. Originalstelle ab etwa 7:04; Abschnitt im automatisch erzeugten Originalplayer-Text.
 
-- [ISRO – Chandrayaan-3 am südlichen Hochbreiten-Landeplatz](https://www.isro.gov.in/Ch3_Alpha_Particle_X-ray_Spectrometer.html) · Landung am 23. August 2023 bei 69,37 Grad Süd.
-  Quellenzugriff am 2026-11-26. Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft. Sachbeleg oder Prüfkontext.
+- [ISRO – Chandrayaan-3: Messungen in der Südpolregion](https://www.isro.gov.in/ISRO_EN/Ch3_APXS_volatile_measurements.html) · ISRO meldet den erfolgreichen Aufsatz am 23.08.2023 bei 69,37° Süd, 32,32° Ost.
+  Quellenzugriff am 2026-11-26. ISRO-Fachbeitrag vom 30.04.2025, Absatz zum Landeort. Landedatum und Koordinaten der indischen Raumfahrtbehörde.
+
+- [NASA – LRO beobachtet die Landestelle von Chandrayaan-3](https://www.nasa.gov/image-article/nasas-lro-observes-chandrayaan-3-landing-site/) · NASA bestätigt die Landung am 23.08.2023 und nennt einen Abstand von rund 600 km zum geografischen Mondsüdpol.
+  Quellenzugriff am 2026-11-26. NASA-Bericht zur eigenen LRO-Orbitalaufnahme vom 05.09.2023. Unabhängige Ortsangabe mittels NASA-Orbitalbeobachtung.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 6qxCPP_tva4-A0025
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Indien gelang 2023 eine unbemannte Mondlandung.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:07:04–00:07:11](https://www.youtube.com/watch?v=6qxCPP_tva4&t=424s) · nicht bestaetigt; Kandidat: Constantin Schreiber · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Passage im deutschen Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.
+
+Zeitgrundlage: Deutsches YouTube-Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die indische Raumfahrtbehörde ISRO dokumentiert die erfolgreiche Landung von Chandrayaan-3 am 23.08.2023. Die NASA fotografierte den Landeplatz aus der Mondumlaufbahn. Die geografische Präzision des Aufsetzpunkts wird getrennt als A0019 bewertet.
+
+Grundlage der Bewertung: Kai; unabhängig gelesene Primärquellen und deutscher automatisch erzeugter Originalplayer-Text. Kein separater Tonabgleich. Maßgeblich ist der Stand zur Videoveröffentlichung (05.11.2026).
+
+Uebernahme: Eigenständiger historischer Kern aus A0019 abgespalten; gleiche Fundstelle, keine doppelte Prüfung desselben Sachverhalts.
+
+Bewertungsuebergang: Neuer eigener Prüfpunkt am 2026-11-26 durch Kai; zuvor gemeinsam in A0019 (HP-C0006).
+
+### Zugeordnete Quellen
+
+- [Constantin Schreiber – Originalvideo vom 5. November 2026](https://www.youtube.com/watch?v=6qxCPP_tva4) · Deutsches automatisches Originalplayer-Transkript, 13:23.
+  Quellenzugriff am 2026-11-26. Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft. Originalstelle ab etwa 7:04; Abschnitt im automatisch erzeugten Originalplayer-Text.
+
+- [ISRO – Chandrayaan-3: Messungen in der Südpolregion](https://www.isro.gov.in/ISRO_EN/Ch3_APXS_volatile_measurements.html) · ISRO meldet den erfolgreichen Aufsatz am 23.08.2023 bei 69,37° Süd, 32,32° Ost.
+  Quellenzugriff am 2026-11-26. ISRO-Fachbeitrag vom 30.04.2025, Absatz zum Landeort. Landedatum und Koordinaten der indischen Raumfahrtbehörde.
+
+- [NASA – LRO beobachtet die Landestelle von Chandrayaan-3](https://www.nasa.gov/image-article/nasas-lro-observes-chandrayaan-3-landing-site/) · NASA bestätigt die Landung am 23.08.2023 und nennt einen Abstand von rund 600 km zum geografischen Mondsüdpol.
+  Quellenzugriff am 2026-11-26. NASA-Bericht zur eigenen LRO-Orbitalaufnahme vom 05.09.2023. Unabhängige Ortsangabe mittels NASA-Orbitalbeobachtung.
 
 ### Offene Fragen und Unsicherheiten
 

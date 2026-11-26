@@ -122,25 +122,25 @@
       "id": "S013",
       "title": "IWF – World Economic Outlook, Oktober 2026",
       "url": "https://www.imf.org/external/datamapper/NGDPD%40WEO",
-      "details": "Nominales BIP in US-Dollar, vergleichbare 2026er Schätzungen. Indien 4,06, Großbritannien 4,27 und Japan 4,34 Billionen.",
+      "details": "Nominales BIP in laufenden US-Dollar; Schätzung 2026: Indien 4,060, Vereinigtes Königreich 4,268, Japan 4,342 Billionen US-Dollar.",
       "accessedOn": "2026-11-26",
-      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+      "accessBasis": "IWF DataMapper und Oktober-Ausgabe des WEO."
     },
     {
       "id": "S014",
-      "title": "Weltbank – World Development Indicators, BIP in laufenden US-Dollar",
-      "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?most_recent_value_desc=true",
-      "details": "2025 Indien hinter Großbritannien; historisch wechselnde Rangfolge.",
+      "title": "Weltbank – World Development Indicators: nominales BIP 2024–2025",
+      "url": "https://api.worldbank.org/v2/country/IND;GBR;USA;CHN;DEU;JPN;FRA/indicator/NY.GDP.MKTP.CD?date=2024:2025&format=json&per_page=50",
+      "details": "Indikator NY.GDP.MKTP.CD, laufende US-Dollar. Indien 2024 3,761 und 2025 3,956 Billionen; Vereinigtes Königreich 2024 3,696 und 2025 4,003 Billionen.",
       "accessedOn": "2026-11-26",
-      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+      "accessBasis": "Offizielle Weltbank-API mit sieben Ländern abgeglichen."
     },
     {
       "id": "S015",
-      "title": "ISRO – Chandrayaan-3 am südlichen Hochbreiten-Landeplatz",
-      "url": "https://www.isro.gov.in/Ch3_Alpha_Particle_X-ray_Spectrometer.html",
-      "details": "Landung am 23. August 2023 bei 69,37 Grad Süd.",
+      "title": "ISRO – Chandrayaan-3: Messungen in der Südpolregion",
+      "url": "https://www.isro.gov.in/ISRO_EN/Ch3_APXS_volatile_measurements.html",
+      "details": "ISRO meldet den erfolgreichen Aufsatz am 23.08.2023 bei 69,37° Süd, 32,32° Ost.",
       "accessedOn": "2026-11-26",
-      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+      "accessBasis": "ISRO-Fachbeitrag vom 30.04.2025, Absatz zum Landeort."
     },
     {
       "id": "S016",
@@ -181,6 +181,14 @@
       "details": "Zeitgenössische Berichterstattung nennt für den Zuschuss von 20 Mio. Euro in Lima rund 11,2 Mio. Euro ausgezahlt.",
       "accessedOn": "2026-11-26",
       "accessBasis": "Datierter Bericht im Original gelesen; BMZ-Angaben sekundär wiedergegeben."
+    },
+    {
+      "id": "S021",
+      "title": "NASA – LRO beobachtet die Landestelle von Chandrayaan-3",
+      "url": "https://www.nasa.gov/image-article/nasas-lro-observes-chandrayaan-3-landing-site/",
+      "details": "NASA bestätigt die Landung am 23.08.2023 und nennt einen Abstand von rund 600 km zum geografischen Mondsüdpol.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "NASA-Bericht zur eigenen LRO-Orbitalaufnahme vom 05.09.2023."
     }
   ],
   "claims": [
@@ -1018,28 +1026,28 @@
       "chapter": 4,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Indien sei die fünftgrößte Volkswirtschaft der Welt.",
+      "description": "Indien sei zum Zeitpunkt des Videos die fünftgrößte Volkswirtschaft der Welt.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Das trifft für Weltbankdaten 2024 nach nominalem BIP zu; nach demselben Maßstab liegt Indien 2025 hinter dem Vereinigten Königreich. Der damals verfügbare IWF-Ausblick Oktober 2026 schätzt für 2026 ebenfalls Rang 6 (Indien 4,06, Großbritannien 4,27 Billionen US-Dollar). Schreiber nennt weder Bezugsjahr noch Maßstab.",
-      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "verdict": "Widerlegt",
+      "reason": "Die Stelle spricht in der Gegenwartsform und nennt weder Bezugsjahr noch Maßstab. Nach nominalem BIP, dem üblichen Maßstab dieser Rangfolge, lag Indien laut Weltbank 2024 auf Rang fünf (3,761 Billionen US-Dollar vor 3,696 im Vereinigten Königreich). Für 2025 lag Indien auf Rang sechs (3,956 hinter 4,003). Auch der vor dem Video erschienene IWF-Ausblick vom Oktober 2026 erwartete für 2026 Rang sechs (4,060 hinter 4,268). Der historische Rang fünf trifft zu, nicht aber die gegenwartsbezogene Rangangabe.",
+      "assessmentBasis": "Kai; unabhängig gelesene Primärquellen und deutscher automatisch erzeugter Originalplayer-Text. Kein separater Tonabgleich. Maßgeblich ist der Stand zur Videoveröffentlichung (05.11.2026).",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
-        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+        "assessmentChange": "Ersterfassung Teilweise belegt; Nachprüfung 2026-11-26 durch Kai: Widerlegt (HP-C0005)."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Originalplayer-Fundstelle."
+          "note": "Originalstelle ab 6:55, gegenwartsbezogene Formulierung."
         },
         {
           "sourceId": "S013",
-          "note": "Sachbeleg oder Prüfkontext."
+          "note": "Vor der Veröffentlichung verfügbare Prognose für 2026."
         },
         {
           "sourceId": "S014",
-          "note": "Sachbeleg oder Prüfkontext."
+          "note": "Vergleich der Jahreswerte 2024 und 2025."
         }
       ],
       "openQuestions": [],
@@ -1063,7 +1071,7 @@
         }
       ],
       "relations": [],
-      "shortReason": "Nominal war Indien 2024 Fünfter; Weltbank 2025 und IWF-Schätzung 2026 führen Indien auf Rang sechs."
+      "shortReason": "2024 war Indien nominal Fünfter; 2025 und in der vorab verfügbaren IWF-Schätzung für 2026 war es Sechster."
     },
     {
       "id": "6qxCPP_tva4-A0018",
@@ -1119,24 +1127,28 @@
       "chapter": 4,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Indien landete 2023 eine Sonde am Mondsüdpol.",
+      "description": "Die indische Sonde sei am geografischen Südpol des Mondes gelandet.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Chandrayaan-3 landete am 23.08.2023 in den südlichen hohen Breiten bei 69,37° Süd; das ist die Südpolregion im weiteren Sinn, nicht der geografische Südpol bei 90° Süd.",
-      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "verdict": "Widerlegt",
+      "reason": "Bei wörtlich-geografischer Lesart trifft die Ortsangabe nicht zu: Der Aufsetzpunkt lag laut ISRO bei 69,37° Süd, nicht bei 90° Süd. Die NASA gibt eine Entfernung von etwa 600 km zum Pol an. Die Umschreibung als Landung in der Südpolregion ist sachlich möglich; die erfolgreiche Landung wird separat als A0025 geprüft.",
+      "assessmentBasis": "Kai; unabhängig gelesene Primärquellen und deutscher automatisch erzeugter Originalplayer-Text. Kein separater Tonabgleich. Maßgeblich ist der Stand zur Videoveröffentlichung (05.11.2026).",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
-        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+        "assessmentChange": "Ersterfassung Teilweise belegt; Nachprüfung 2026-11-26 durch Kai: Widerlegt (HP-C0006)."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Originalplayer-Fundstelle."
+          "note": "Originalstelle ab etwa 7:04; Abschnitt im automatisch erzeugten Originalplayer-Text."
         },
         {
           "sourceId": "S015",
-          "note": "Sachbeleg oder Prüfkontext."
+          "note": "Landedatum und Koordinaten der indischen Raumfahrtbehörde."
+        },
+        {
+          "sourceId": "S021",
+          "note": "Unabhängige Ortsangabe mittels NASA-Orbitalbeobachtung."
         }
       ],
       "openQuestions": [],
@@ -1160,7 +1172,7 @@
         }
       ],
       "relations": [],
-      "shortReason": "Die Landung 2023 stimmt; sie erfolgte bei 69,37° Süd, nicht direkt am geografischen Südpol."
+      "shortReason": "Die Südpolregion stimmt; zum geografischen Pol waren es etwa 600 km."
     },
     {
       "id": "6qxCPP_tva4-A0020",
@@ -1421,6 +1433,59 @@
         }
       ],
       "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0025",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Indien gelang 2023 eine unbemannte Mondlandung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die indische Raumfahrtbehörde ISRO dokumentiert die erfolgreiche Landung von Chandrayaan-3 am 23.08.2023. Die NASA fotografierte den Landeplatz aus der Mondumlaufbahn. Die geografische Präzision des Aufsetzpunkts wird getrennt als A0019 bewertet.",
+      "assessmentBasis": "Kai; unabhängig gelesene Primärquellen und deutscher automatisch erzeugter Originalplayer-Text. Kein separater Tonabgleich. Maßgeblich ist der Stand zur Videoveröffentlichung (05.11.2026).",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger historischer Kern aus A0019 abgespalten; gleiche Fundstelle, keine doppelte Prüfung desselben Sachverhalts.",
+        "assessmentChange": "Neuer eigener Prüfpunkt am 2026-11-26 durch Kai; zuvor gemeinsam in A0019 (HP-C0006)."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalstelle ab etwa 7:04; Abschnitt im automatisch erzeugten Originalplayer-Text."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Landedatum und Koordinaten der indischen Raumfahrtbehörde."
+        },
+        {
+          "sourceId": "S021",
+          "note": "Unabhängige Ortsangabe mittels NASA-Orbitalbeobachtung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0048",
+          "startSeconds": 424,
+          "endSeconds": 431,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "ISRO und NASA bestätigen die Landung am 23. August 2023."
     }
   ],
   "legacyPoints": []

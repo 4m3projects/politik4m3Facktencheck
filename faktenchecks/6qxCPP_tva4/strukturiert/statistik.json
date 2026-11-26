@@ -5,11 +5,11 @@
   "videoId": "6qxCPP_tva4",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 24,
-  "uniqueStatements": 24,
+  "statementRecords": 25,
+  "uniqueStatements": 25,
   "referenceOnlyStatements": 0,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 26,
+  "assertionOccurrences": 27,
   "additionalAssertionOccurrences": 2,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 0,
@@ -18,29 +18,29 @@
     "Offen": 0,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 0,
-    "Abgeschlossen": 24
+    "Abgeschlossen": 25
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 21,
+    "Tatsachenbehauptung": 22,
     "Meinung": 3,
     "Prognose": 0
   },
-  "completedFacts": 21,
+  "completedFacts": 22,
   "openFacts": 0,
   "inProgressFacts": 0,
   "unverifiableFacts": 0,
-  "percentageDenominator": 21,
+  "percentageDenominator": 22,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 17,
-      "completedFactPercent": 81.0
+      "completedCount": 18,
+      "completedFactPercent": 81.8
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 2,
-      "completedFactPercent": 9.5
+      "completedCount": 0,
+      "completedFactPercent": 0.0
     },
     {
       "category": "Irreführend / Kontext fehlt",
@@ -49,8 +49,8 @@
     },
     {
       "category": "Widerlegt",
-      "completedCount": 2,
-      "completedFactPercent": 9.5
+      "completedCount": 4,
+      "completedFactPercent": 18.2
     },
     {
       "category": "Nicht ausreichend belegbar",
@@ -109,19 +109,19 @@
         ]
       }
     ],
-    "eligibleFacts": 21,
+    "eligibleFacts": 22,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 21,
-    "factsWithUncertainAttribution": 21,
-    "factsWithUncertainOwnRole": 21,
+    "factsWithoutReliablePerson": 22,
+    "factsWithUncertainAttribution": 22,
+    "factsWithUncertainOwnRole": 22,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 26,
+      "Plausibel": 27,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
-      "Plausibel": 26,
+      "Plausibel": 27,
       "Ungeklärt": 0
     }
   }

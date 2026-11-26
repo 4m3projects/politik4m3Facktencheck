@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "HP-C0005",
+  "kind": "Quelle falsch interpretiert",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "6qxCPP_tva4-A0017",
+    "entryId": null,
+    "description": "Die historische Rangfolge wurde nicht von der gegenwärtig formulierten Behauptung getrennt."
+  },
+  "evidence": [
+    {
+      "title": "IWF – World Economic Outlook, Oktober 2026",
+      "url": "https://www.imf.org/external/datamapper/NGDPD%40WEO",
+      "accessedOn": "2026-11-26",
+      "finding": "Nominales BIP in laufenden US-Dollar; Schätzung 2026: Indien 4,060, Vereinigtes Königreich 4,268, Japan 4,342 Billionen US-Dollar."
+    },
+    {
+      "title": "Weltbank – World Development Indicators: nominales BIP 2024–2025",
+      "url": "https://api.worldbank.org/v2/country/IND;GBR;USA;CHN;DEU;JPN;FRA/indicator/NY.GDP.MKTP.CD?date=2024:2025&format=json&per_page=50",
+      "accessedOn": "2026-11-26",
+      "finding": "Indikator NY.GDP.MKTP.CD, laufende US-Dollar. Indien 2024 3,761 und 2025 3,956 Billionen; Vereinigtes Königreich 2024 3,696 und 2025 4,003 Billionen."
+    }
+  ],
+  "affected": [
+    {
+      "target": "6qxCPP_tva4-A0017",
+      "reason": "Gegenwärtiger Rang bei demselben Maßstab."
+    },
+    {
+      "target": "rAJuskj3k6s-A0023",
+      "reason": "Vergleich bestätigt; nur die Verknüpfung L0044 wird präzisiert."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Einzelurteile nach erneutem Original- und Primärquellenabgleich",
+    "date": "2026-11-26",
+    "basis": "Originalstelle und vor Veröffentlichung verfügbare Daten trennen historischen Rang fünf und neueren Rang sechs. Widerlegt bezieht sich auf die gegenwärtige Aussage."
+  },
+  "changes": [
+    {
+      "target": "6qxCPP_tva4-A0017",
+      "field": "description",
+      "before": "Indien sei die fünftgrößte Volkswirtschaft der Welt.",
+      "after": "Indien sei zum Zeitpunkt des Videos die fünftgrößte Volkswirtschaft der Welt."
+    },
+    {
+      "target": "6qxCPP_tva4-A0017",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Widerlegt"
+    },
+    {
+      "target": "6qxCPP_tva4-A0017",
+      "field": "reason",
+      "before": "Das trifft für Weltbankdaten 2024 nach nominalem BIP zu; nach demselben Maßstab liegt Indien 2025 hinter dem Vereinigten Königreich. Der damals verfügbare IWF-Ausblick Oktober 2026 schätzt für 2026 ebenfalls Rang 6 (Indien 4,06, Großbritannien 4,27 Billionen US-Dollar). Schreiber nennt weder Bezugsjahr noch Maßstab.",
+      "after": "Die Stelle spricht in der Gegenwartsform und nennt weder Bezugsjahr noch Maßstab. Nach nominalem BIP, dem üblichen Maßstab dieser Rangfolge, lag Indien laut Weltbank 2024 auf Rang fünf (3,761 Billionen US-Dollar vor 3,696 im Vereinigten Königreich). Für 2025 lag Indien auf Rang sechs (3,956 hinter 4,003). Auch der vor dem Video erschienene IWF-Ausblick vom Oktober 2026 erwartete für 2026 Rang sechs (4,060 hinter 4,268). Der historische Rang fünf trifft zu, nicht aber die gegenwartsbezogene Rangangabe."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Gemeldet; Betroffene automatisch über gleiche Quelle, Verknüpfungen und Abhängigkeiten ermittelt."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Originalplayer-Text und Primärquellen unabhängig geprüft; automatische Treffer über gemeinsam verwendete Originalquelle allein sind keine materiell Betroffenen."
+    }
+  ]
+}

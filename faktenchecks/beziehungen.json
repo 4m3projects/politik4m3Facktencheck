@@ -450,6 +450,11 @@
         {
           "date": "2026-11-26",
           "change": "Von Kai mit Originalplayer-Transkripten und öffentlichen Quellen verknüpft; elf Aussagebezüge."
+        },
+        {
+          "date": "2026-11-26",
+          "agent": "Kai",
+          "change": "Rang und geografischen Ort als Gegenbehauptungen konkretisiert; erfolgreicher Mondaufsatz separat verknüpft."
         }
       ],
       "claimLinks": [
@@ -503,19 +508,19 @@
         },
         {
           "id": "L0044",
-          "type": "ergaenzt",
+          "type": "gegenbehauptung",
           "originalClaimId": "6qxCPP_tva4-A0017",
           "reactionClaimId": "rAJuskj3k6s-A0023",
           "reactionSeconds": 707,
-          "note": "Alfred datiert Rang fünf und nennt die spätere Rangfolge."
+          "note": "Alfred trennt den realen Rang fünf 2024 vom neueren Rang sechs und widerspricht der gegenwärtigen Rangangabe."
         },
         {
           "id": "L0045",
-          "type": "ergaenzt",
+          "type": "gegenbehauptung",
           "originalClaimId": "6qxCPP_tva4-A0019",
           "reactionClaimId": "rAJuskj3k6s-A0025",
           "reactionSeconds": 770,
-          "note": "Alfred unterscheidet den Südpol von der Südpolregion."
+          "note": "Alfred unterscheidet die Südpolregion vom geografischen Pol und nennt den rund 600 km entfernten Aufsetzpunkt."
         },
         {
           "id": "L0046",
@@ -540,6 +545,14 @@
           "reactionClaimId": "rAJuskj3k6s-A0006",
           "reactionSeconds": 153,
           "note": "Die 90-Länder-Behauptung ist unabhängig überprüfbar und in Alfreds gesprochener Prüfung nicht einzeln behandelt; keine Gegenprüfung dieser Zahl durch Alfred behauptet."
+        },
+        {
+          "id": "L0049",
+          "type": "ergaenzt",
+          "originalClaimId": "6qxCPP_tva4-A0025",
+          "reactionClaimId": "rAJuskj3k6s-A0022",
+          "reactionSeconds": 698,
+          "note": "Beide Beiträge nennen die erfolgreiche Mondlandung 2023; der weitere Atomtest im Reaktionsprüfpunkt ist nicht Teil dieser Zuordnung."
         }
       ]
     }

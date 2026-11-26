@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "HP-C0006",
+  "kind": "Quelle falsch interpretiert",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "6qxCPP_tva4-A0019",
+    "entryId": null,
+    "description": "Erfolgreiche Landung und geografisch genauer Landepunkt benötigen getrennte Urteile."
+  },
+  "evidence": [
+    {
+      "title": "ISRO – Chandrayaan-3: Messungen in der Südpolregion",
+      "url": "https://www.isro.gov.in/ISRO_EN/Ch3_APXS_volatile_measurements.html",
+      "accessedOn": "2026-11-26",
+      "finding": "ISRO meldet den erfolgreichen Aufsatz am 23.08.2023 bei 69,37° Süd, 32,32° Ost."
+    },
+    {
+      "title": "NASA – LRO beobachtet die Landestelle von Chandrayaan-3",
+      "url": "https://www.nasa.gov/image-article/nasas-lro-observes-chandrayaan-3-landing-site/",
+      "accessedOn": "2026-11-26",
+      "finding": "NASA bestätigt die Landung am 23.08.2023 und nennt einen Abstand von rund 600 km zum geografischen Mondsüdpol."
+    }
+  ],
+  "affected": [
+    {
+      "target": "6qxCPP_tva4-A0019",
+      "reason": "Geografische Ortsangabe."
+    },
+    {
+      "target": "6qxCPP_tva4-A0025",
+      "reason": "Unabhängiger historischer Kern, erst durch Trennung eigener Prüfpunkt."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Einzelurteile nach erneutem Original- und Primärquellenabgleich",
+    "date": "2026-11-26",
+    "basis": "Landung 2023 und genaue geografische Lage sind getrennt belegbar. Das Urteil zum Ort bezieht sich ausdrücklich auf den geografischen Pol, nicht auf die Südpolregion."
+  },
+  "changes": [
+    {
+      "target": "6qxCPP_tva4-A0019",
+      "field": "description",
+      "before": "Indien landete 2023 eine Sonde am Mondsüdpol.",
+      "after": "Die indische Sonde sei am geografischen Südpol des Mondes gelandet."
+    },
+    {
+      "target": "6qxCPP_tva4-A0019",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Widerlegt"
+    },
+    {
+      "target": "6qxCPP_tva4-A0019",
+      "field": "reason",
+      "before": "Chandrayaan-3 landete am 23.08.2023 in den südlichen hohen Breiten bei 69,37° Süd; das ist die Südpolregion im weiteren Sinn, nicht der geografische Südpol bei 90° Süd.",
+      "after": "Bei wörtlich-geografischer Lesart trifft die Ortsangabe nicht zu: Der Aufsetzpunkt lag laut ISRO bei 69,37° Süd, nicht bei 90° Süd. Die NASA gibt eine Entfernung von etwa 600 km zum Pol an. Die Umschreibung als Landung in der Südpolregion ist sachlich möglich; die erfolgreiche Landung wird separat als A0025 geprüft."
+    },
+    {
+      "target": "6qxCPP_tva4-A0025",
+      "field": "verdict",
+      "before": null,
+      "after": "Belegt"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Gemeldet; Betroffene automatisch über gleiche Quelle, Verknüpfungen und Abhängigkeiten ermittelt."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Originalplayer-Text und Primärquellen unabhängig geprüft; automatische Treffer über gemeinsam verwendete Originalquelle allein sind keine materiell Betroffenen."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Verweise L0045 und L0049 in R0003 präzisiert; die Reaktionsaussagen A0022 und A0025 und ihre Urteile bleiben unverändert."
+    }
+  ]
+}
