@@ -128,7 +128,8 @@
     {
       "claimId": "6qxCPP_tva4-A0017",
       "topics": [
-        "internationale-politik"
+        "internationale-politik",
+        "wirtschaft"
       ]
     },
     {
@@ -172,6 +173,12 @@
       "topics": [
         "internationale-politik"
       ]
+    },
+    {
+      "claimId": "6qxCPP_tva4-A0025",
+      "topics": [
+        "internationale-politik"
+      ]
     }
   ],
   "history": [
@@ -179,6 +186,11 @@
       "date": "2026-11-26",
       "agent": "Kai",
       "change": "Erstzuordnung zum Hauptportal: Haushalt und internationale Entwicklungspolitik."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Wirtschaftsrang zusätzlich Wirtschaft zugeordnet; die getrennte Mondlandung bleibt im Themenkontext der Indien-Passage."
     }
   ]
 }
