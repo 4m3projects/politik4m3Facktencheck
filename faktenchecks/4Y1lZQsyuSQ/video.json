@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "videoId": "4Y1lZQsyuSQ",
+  "role": "original",
+  "reactionType": null,
+  "channel": "Rezo ja lol ey",
+  "title": "Die Zerstörung der CDU.",
+  "videoUrl": "https://www.youtube.com/watch?v=4Y1lZQsyuSQ",
+  "publishedAt": "2019-05-18",
+  "durationSeconds": 3297,
+  "workStatus": "In Bearbeitung",
+  "identification": {
+    "basis": "Titel, Kanal, Laufzeit, Video-ID und Upload-Datum aus den originalen YouTube-Metadaten.",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-26"
+  }
+}
