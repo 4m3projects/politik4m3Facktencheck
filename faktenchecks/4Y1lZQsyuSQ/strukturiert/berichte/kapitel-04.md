@@ -1,6 +1,6 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Dritter Teilbestand: ausgewählte Stellen zu Drogenpolitik, dem OVG-Urteil von März 2019, Klimaprotesten und Wahlalter bis 53:30. Keine durchgehende Inventur; weitere Originalaussagen und ausgelassene Abschnitte bleiben offen. Keine Gesamtfehlerzahl.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Vierter Teilbestand: zusätzlich offene Wirtschafts- und Klimaaussagen bei 02:28–09:44 bearbeitet. Ausgewählte Stellen bis 53:30 geprüft; weiterhin keine durchgehende Erfassung, kein vollständiger Bild- und Tonabgleich und keine Gesamtfehlerzahl.
 
 Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 
@@ -182,6 +182,9 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 
 - [DLR/DIW/GWS – Ökonomische Indikatoren der Energiebereitstellung, 2018](https://elib.dlr.de/119426/2/diwkompakt_2018-127.pdf) · Tabelle 85 bzw. Abschnitt 4.3 nach Energieträgern, Solarindustrie, 126.400 (2012) und 48.800 (2015); Rückgang nicht auf eine Einzelursache reduzibel.
   Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Tabelle 85 bzw. Abschnitt 4.3 nach Energieträgern, Solarindustrie, 126.400 (2012) und 48.800 (2015); Rückgang nicht auf eine Einzelursache reduzibel.
+
+- [Deutscher Bundestag – Namentliche Abstimmung zur Solarvergütung, 29.03.2012](https://www.bundestag.de/resource/blob/192382/20120329_2.pdf) · Drucksachen 17/8877 und 17/9152: Vorlage von CDU/CSU und FDP.
+  Quellenzugriff am 2026-11-26. Relevante Passage im verlinkten Dokument geöffnet und gelesen. Die Märzvorlage 2012 wurde von CDU/CSU und FDP eingebracht; dies bestätigt die im Urteil bereits genannte damalige Koalition.
 
 ### Offene Fragen und Unsicherheiten
 

@@ -1,6 +1,6 @@
 # Kapitel 01: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Dritter Teilbestand: ausgewählte Stellen zu Drogenpolitik, dem OVG-Urteil von März 2019, Klimaprotesten und Wahlalter bis 53:30. Keine durchgehende Inventur; weitere Originalaussagen und ausgelassene Abschnitte bleiben offen. Keine Gesamtfehlerzahl.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Vierter Teilbestand: zusätzlich offene Wirtschafts- und Klimaaussagen bei 02:28–09:44 bearbeitet. Ausgewählte Stellen bis 53:30 geprüft; weiterhin keine durchgehende Erfassung, kein vollständiger Bild- und Tonabgleich und keine Gesamtfehlerzahl.
 
 Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 

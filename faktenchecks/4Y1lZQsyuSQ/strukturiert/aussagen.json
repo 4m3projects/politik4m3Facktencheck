@@ -11,7 +11,7 @@
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
     "researchNote": "Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.",
-    "coverageNote": "Dritter Teilbestand: ausgewählte Stellen zu Drogenpolitik, dem OVG-Urteil von März 2019, Klimaprotesten und Wahlalter bis 53:30. Keine durchgehende Inventur; weitere Originalaussagen und ausgelassene Abschnitte bleiben offen. Keine Gesamtfehlerzahl."
+    "coverageNote": "Vierter Teilbestand: zusätzlich offene Wirtschafts- und Klimaaussagen bei 02:28–09:44 bearbeitet. Ausgewählte Stellen bis 53:30 geprüft; weiterhin keine durchgehende Erfassung, kein vollständiger Bild- und Tonabgleich und keine Gesamtfehlerzahl."
   },
   "speakers": [
     {
@@ -269,6 +269,70 @@
       "details": "S. 1–4: keine aktive deutsche Teilnahme oder Gestattung; tatsächliche Anhaltspunkte und staatliche Schutzpflicht im konkreten Verfahren.",
       "accessedOn": "2026-11-26",
       "accessBasis": "Maßgebliche Passage der zeitgenössischen Urteilsgründe geöffnet und gelesen."
+    },
+    {
+      "id": "S032",
+      "title": "World Inequality Report 2018 – Deutschland, Kapitel 2.6",
+      "url": "https://wir2018.wid.world/part-2.html",
+      "details": "Historische Einkommensanteile vor Steuern; Abbildung 2.6.3, Daten bis 2013.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Passage im verlinkten Dokument geöffnet und gelesen."
+    },
+    {
+      "id": "S033",
+      "title": "Der Paritätische Gesamtverband – Armutsbericht 2017",
+      "url": "https://www.der-paritaetische.de/fileadmin/user_upload/Schwerpunkte/Armutsbericht/doc/armutsbericht-2017_web.pdf",
+      "details": "Deutschlandreihe der relativen Einkommensarmut, 2005 bis 2015.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Passage im verlinkten Dokument geöffnet und gelesen."
+    },
+    {
+      "id": "S034",
+      "title": "DER SPIEGEL – Auswertung der DIW-Vermögensschätzung, 23.01.2018",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/vermoegen-45-superreiche-besitzen-so-viel-wie-die-halbe-deutsche-bevoelkerung-a-1189111.html",
+      "details": "Zeitgenössisch veröffentlichte Auswertung zum Nettovermögen für 2014, mit Vergleich auf Haushaltsebene.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Passage im verlinkten Dokument geöffnet und gelesen."
+    },
+    {
+      "id": "S035",
+      "title": "Stefan Bach im SPIEGEL-Interview, 26.01.2018",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/vermoegen-der-superreichen-das-verhoehnt-die-chancengleichheit-a-1189919.html",
+      "details": "Ersthanderklärung des DIW-Forschers zur Schätzmethode und zur Behandlung gesetzlicher Rentenansprüche.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Passage im verlinkten Dokument geöffnet und gelesen."
+    },
+    {
+      "id": "S036",
+      "title": "IPCC – Vierter Sachstandsbericht, FAQ 6.2 (2007)",
+      "url": "https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-6-2.html",
+      "details": "Atmosphärisches CO₂ in Kalt- und Warmzeiten im natürlichen historischen Vergleich.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Passage im verlinkten Dokument geöffnet und gelesen."
+    },
+    {
+      "id": "S037",
+      "title": "IPCC – Fünfter Sachstandsbericht, WG I, Kapitel 5 (2013)",
+      "url": "https://archive.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_Chapter05_FINAL.pdf",
+      "details": "Paläoklimatische Rekonstruktionen; mittleres Pliozän sowie Eisbohrkerne für die jüngeren 800.000 Jahre.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Passage im verlinkten Dokument geöffnet und gelesen."
+    },
+    {
+      "id": "S038",
+      "title": "Cook et al. – Quantifying the consensus on anthropogenic global warming (2013)",
+      "url": "https://doi.org/10.1088/1748-9326/8/2/024024",
+      "details": "Tabellen 2 und 3, Originalaufsatz: Auswahl der Abstracts, Kategorien und prozentuale Verteilung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Passage im verlinkten Dokument geöffnet und gelesen."
+    },
+    {
+      "id": "S039",
+      "title": "Deutscher Bundestag – Namentliche Abstimmung zur Solarvergütung, 29.03.2012",
+      "url": "https://www.bundestag.de/resource/blob/192382/20120329_2.pdf",
+      "details": "Drucksachen 17/8877 und 17/9152: Vorlage von CDU/CSU und FDP.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Passage im verlinkten Dokument geöffnet und gelesen."
     }
   ],
   "claims": [
@@ -609,8 +673,8 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Schere zwischen unteren 50 und oberen 10 Prozent sei über den Zeitraum stetig größer geworden.",
-      "status": "Offen",
-      "reason": "Achsen, Zeitreihe und Einkommens-/Vermögensdefinition der eingeblendeten Grafik müssen separat identifiziert werden.",
+      "status": "Abgeschlossen",
+      "reason": "Die dokumentierte Vor-Steuer-Verteilung und der zugrunde liegende Zeitvergleich stützen einen langfristigen Zuwachs der oberen Einkommensanteile und eine relativ schwächere Position der unteren Hälfte. Anteile sind aber keine absoluten oder kaufkraftbereinigten Eurobeträge. Auch wird aus einem langfristigen Trend kein kontinuierlicher jährlicher Anstieg der Differenz. Die Deutschlandreihe endet 2013 und belegt nicht den gesamten Zeitraum bis zum Video.",
       "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -621,11 +685,13 @@
         {
           "sourceId": "S016",
           "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S032",
+          "note": "Kapitel 2.6, Abbildung 2.6.3; unterschiedliche Bezugsgrößen trennen."
         }
       ],
-      "openQuestions": [
-        "Achsen, Zeitreihe und Einkommens-/Vermögensdefinition der eingeblendeten Grafik müssen separat identifiziert werden."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "4Y1lZQsyuSQ-O0008",
@@ -646,7 +712,8 @@
         }
       ],
       "relations": [],
-      "verdict": null
+      "verdict": "Teilweise belegt",
+      "shortReason": "Langfristig wuchs die relative Einkommenskluft; die Reihe zeigt keine durchgehende Abnahme der Einkommen in Euro."
     },
     {
       "id": "4Y1lZQsyuSQ-A0009",
@@ -655,8 +722,8 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Armut sei in Deutschland in den Jahren vor dem Video konstant gestiegen.",
-      "status": "Offen",
-      "reason": "Maß, betrachtete Jahre und mögliche Zwischenrückgänge anhand der verwendeten Reihe noch prüfen.",
+      "status": "Abgeschlossen",
+      "reason": "Der im Quellenumfeld genannte Armutsbericht weist für Deutschland einen längerfristigen Anstieg der relativen Einkommensarmut von 14,7 Prozent (2005) auf 15,7 Prozent (2015) aus. Dazwischen gab es Rückgänge, unter anderem 2006, 2010 und 2014. Die Aussage trifft die längerfristige Richtung, nicht den konstanten Anstieg. Die Quote misst Einkommen relativ zur Mitte, nicht absolute Armut.",
       "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -667,11 +734,13 @@
         {
           "sourceId": "S016",
           "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S033",
+          "note": "Bundesweite Deutschlandreihe 2005–2015."
         }
       ],
-      "openQuestions": [
-        "Maß, betrachtete Jahre und mögliche Zwischenrückgänge anhand der verwendeten Reihe noch prüfen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "4Y1lZQsyuSQ-O0009",
@@ -692,7 +761,8 @@
         }
       ],
       "relations": [],
-      "verdict": null
+      "verdict": "Teilweise belegt",
+      "shortReason": "Die relative Armutsquote stieg langfristig, aber nicht durchgehend."
     },
     {
       "id": "4Y1lZQsyuSQ-A0010",
@@ -700,9 +770,9 @@
       "chapter": 2,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Erbschaften und Schenkungen seien damals bedeutender für große Vermögen als früher.",
+      "description": "Die meisten Reichen verdankten ihren Reichtum überwiegend Erbschaften oder Schenkungen statt eigener Arbeit.",
       "status": "Offen",
-      "reason": "Originalwortlaut sowie Geltungsbereich der zitierten Studie noch prüfen.",
+      "reason": "Der Anteil des ererbten Vermögens am Gesamtvermögen beantwortet nicht, wie viele der reichen Personen dadurch reich wurden. Dafür sind eine Definition von reich, die Bezugsgruppe sowie eine Untersuchung der Ursache der Vermögensbildung nötig.",
       "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -716,7 +786,7 @@
         }
       ],
       "openQuestions": [
-        "Originalwortlaut sowie Geltungsbereich der zitierten Studie noch prüfen."
+        "Wer gilt in der eingeblendeten Studie als reich, und misst sie einen Anteil von Personen oder von Vermögen?"
       ],
       "occurrences": [
         {
@@ -747,8 +817,8 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die reichsten 45 Haushalte hätten so viel Nettovermögen wie die ärmere Hälfte, die im Video mit über 40 Millionen Personen gleichgesetzt wird.",
-      "status": "Offen",
-      "reason": "Der Primäransatz untersucht Haushaltsvermögen. Die konkrete Vergleichszahl, Vermögensdefinition und Übertragung von Haushalten auf Personen müssen noch anhand der Tabellen und der Rezo-Grafik getrennt abgesichert werden.",
+      "status": "Abgeschlossen",
+      "reason": "Die 2018 veröffentlichte Schätzung für 2014 ergibt jeweils etwa 214 Milliarden Euro für die 45 vermögendsten Haushalte und die rund 20 Millionen Haushalte der unteren Hälfte. Es handelt sich um geschätztes Nettovermögen ohne gesetzliche Rentenanwartschaften, nicht um eine direkte Zählung. Die zusätzliche Umrechnung der unteren Hälfte in mehr als 40 Millionen Personen folgt aus den Haushaltsdaten nicht automatisch.",
       "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -763,11 +833,17 @@
         {
           "sourceId": "S006",
           "note": "DIW-Diskussionspapier zur Haushaltsvermögensverteilung und Zuschätzung an der Spitze."
+        },
+        {
+          "sourceId": "S034",
+          "note": "Zahl und Haushaltseinheit der zeitgenössischen Auswertung."
+        },
+        {
+          "sourceId": "S035",
+          "note": "Abgrenzung und Schätzmethode aus Sicht des Autors."
         }
       ],
-      "openQuestions": [
-        "Der Primäransatz untersucht Haushaltsvermögen. Die konkrete Vergleichszahl, Vermögensdefinition und Übertragung von Haushalten auf Personen müssen noch anhand der Tabellen und der Rezo-Grafik getrennt abgesichert werden."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "4Y1lZQsyuSQ-O0011",
@@ -788,7 +864,8 @@
         }
       ],
       "relations": [],
-      "verdict": null
+      "verdict": "Teilweise belegt",
+      "shortReason": "Der Vergleich der Haushaltsvermögen passt zur damaligen Schätzung; die Personenzahl daraus ist nicht belegt."
     },
     {
       "id": "4Y1lZQsyuSQ-A0012",
@@ -1243,8 +1320,8 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die CO₂-Konzentration sei über Millionen Jahre ziemlich gleich geblieben.",
-      "status": "Offen",
-      "reason": "Den Übergang von kurzfristigem natürlichem Kreislauf zur Aussage über Millionen Jahre und den Bezug der eingeblendeten Quelle am Original prüfen.",
+      "status": "Abgeschlossen",
+      "reason": "Schon die vor 2019 zugänglichen IPCC-Berichte dokumentierten natürliche, erhebliche Schwankungen: Der atmosphärische CO₂-Anteil lag in jüngeren Kalt- und Warmzeiten grob zwischen 180 und 300 ppm. Für das mittlere Pliozän vor rund drei Millionen Jahren nennt der IPCC rekonstruiert etwa 350 bis 450 ppm bei mittlerer Sicherheit. Die viel stabilere jüngere vorindustrielle Phase ist kein Beleg für Millionen Jahre nahezu konstanten CO₂. Das ändert nichts an der belegten menschlichen Ursache des heutigen Anstiegs.",
       "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1255,11 +1332,17 @@
         {
           "sourceId": "S016",
           "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S036",
+          "note": "FAQ 6.2: Schwankungsbreite der Kalt- und Warmzeiten."
+        },
+        {
+          "sourceId": "S037",
+          "note": "Kapitel 5.3.1: Größenordnung für das mittlere Pliozän."
         }
       ],
-      "openQuestions": [
-        "Den Übergang von kurzfristigem natürlichem Kreislauf zur Aussage über Millionen Jahre und den Bezug der eingeblendeten Quelle am Original prüfen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "4Y1lZQsyuSQ-O0021",
@@ -1280,7 +1363,8 @@
         }
       ],
       "relations": [],
-      "verdict": null
+      "verdict": "Widerlegt",
+      "shortReason": "Der CO₂-Anteil der Atmosphäre schwankte auch vor der Industrialisierung deutlich."
     },
     {
       "id": "4Y1lZQsyuSQ-A0022",
@@ -1394,8 +1478,8 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Nur 0,7 Prozent aller Veröffentlichungen würden den menschlichen Anteil an der Erwärmung gänzlich verneinen.",
-      "status": "Offen",
-      "reason": "Originalstudie und Nenner prüfen, insbesondere die Behandlung von Publikationen ohne ausdrückliche Position.",
+      "status": "Abgeschlossen",
+      "reason": "Cook et al. untersuchten 11.944 einschlägige Abstracts von 1991 bis 2011. 78 davon (gerundet 0,7 Prozent) fielen in drei Ablehnungskategorien, darunter auch implizite Ablehnung und eine Einstufung menschlichen Einflusses als geringer als die Hälfte. Sie behaupteten nicht alle, Menschen hätten gar keinen Anteil. 66,4 Prozent bezogen in der Kurzfassung keine Position. Das Ergebnis ist keine Vollerhebung aller wissenschaftlichen Veröffentlichungen und ändert nichts an der klaren Mehrheitsposition unter den Abstracts, die eine Position bezogen.",
       "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1406,11 +1490,13 @@
         {
           "sourceId": "S016",
           "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S038",
+          "note": "Tabellen 2 und 3: Kriterien, 78 ablehnende Abstracts und verwendeter Nenner."
         }
       ],
-      "openQuestions": [
-        "Originalstudie und Nenner prüfen, insbesondere die Behandlung von Publikationen ohne ausdrückliche Position."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "4Y1lZQsyuSQ-O0024",
@@ -1431,7 +1517,8 @@
         }
       ],
       "relations": [],
-      "verdict": null
+      "verdict": "Irreführend / Kontext fehlt",
+      "shortReason": "Die 0,7 Prozent stammen aus einer ausgewählten Studie und sind breiter definiert als null menschlicher Einfluss."
     },
     {
       "id": "4Y1lZQsyuSQ-A0025",
@@ -1607,6 +1694,10 @@
         {
           "sourceId": "S014",
           "note": "Tabelle 85 bzw. Abschnitt 4.3 nach Energieträgern, Solarindustrie, 126.400 (2012) und 48.800 (2015); Rückgang nicht auf eine Einzelursache reduzibel."
+        },
+        {
+          "sourceId": "S039",
+          "note": "Die Märzvorlage 2012 wurde von CDU/CSU und FDP eingebracht; dies bestätigt die im Urteil bereits genannte damalige Koalition."
         }
       ],
       "openQuestions": [],

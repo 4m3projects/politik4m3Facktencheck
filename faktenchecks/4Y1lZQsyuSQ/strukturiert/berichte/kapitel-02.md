@@ -1,6 +1,6 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Dritter Teilbestand: ausgewählte Stellen zu Drogenpolitik, dem OVG-Urteil von März 2019, Klimaprotesten und Wahlalter bis 53:30. Keine durchgehende Inventur; weitere Originalaussagen und ausgelassene Abschnitte bleiben offen. Keine Gesamtfehlerzahl.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Vierter Teilbestand: zusätzlich offene Wirtschafts- und Klimaaussagen bei 02:28–09:44 bearbeitet. Ausgewählte Stellen bis 53:30 geprüft; weiterhin keine durchgehende Erfassung, kein vollständiger Bild- und Tonabgleich und keine Gesamtfehlerzahl.
 
 Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 
@@ -274,7 +274,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Schere zwischen unteren 50 und oberen 10 Prozent sei über den Zeitraum stetig größer geworden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -293,7 +293,7 @@ Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Achsen, Zeitreihe und Einkommens-/Vermögensdefinition der eingeblendeten Grafik müssen separat identifiziert werden.
+Die dokumentierte Vor-Steuer-Verteilung und der zugrunde liegende Zeitvergleich stützen einen langfristigen Zuwachs der oberen Einkommensanteile und eine relativ schwächere Position der unteren Hälfte. Anteile sind aber keine absoluten oder kaufkraftbereinigten Eurobeträge. Auch wird aus einem langfristigen Trend kein kontinuierlicher jährlicher Anstieg der Differenz. Die Deutschlandreihe endet 2013 und belegt nicht den gesamten Zeitraum bis zum Video.
 
 Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
 
@@ -306,9 +306,12 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 - [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
   Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Fundstelle in den deutschen Originalplayer-Untertiteln.
 
+- [World Inequality Report 2018 – Deutschland, Kapitel 2.6](https://wir2018.wid.world/part-2.html) · Historische Einkommensanteile vor Steuern; Abbildung 2.6.3, Daten bis 2013.
+  Quellenzugriff am 2026-11-26. Relevante Passage im verlinkten Dokument geöffnet und gelesen. Kapitel 2.6, Abbildung 2.6.3; unterschiedliche Bezugsgrößen trennen.
+
 ### Offene Fragen und Unsicherheiten
 
-- Achsen, Zeitreihe und Einkommens-/Vermögensdefinition der eingeblendeten Grafik müssen separat identifiziert werden.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## 4Y1lZQsyuSQ-A0009
 
@@ -316,7 +319,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Armut sei in Deutschland in den Jahren vor dem Video konstant gestiegen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -335,7 +338,7 @@ Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Maß, betrachtete Jahre und mögliche Zwischenrückgänge anhand der verwendeten Reihe noch prüfen.
+Der im Quellenumfeld genannte Armutsbericht weist für Deutschland einen längerfristigen Anstieg der relativen Einkommensarmut von 14,7 Prozent (2005) auf 15,7 Prozent (2015) aus. Dazwischen gab es Rückgänge, unter anderem 2006, 2010 und 2014. Die Aussage trifft die längerfristige Richtung, nicht den konstanten Anstieg. Die Quote misst Einkommen relativ zur Mitte, nicht absolute Armut.
 
 Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
 
@@ -348,15 +351,18 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 - [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
   Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Fundstelle in den deutschen Originalplayer-Untertiteln.
 
+- [Der Paritätische Gesamtverband – Armutsbericht 2017](https://www.der-paritaetische.de/fileadmin/user_upload/Schwerpunkte/Armutsbericht/doc/armutsbericht-2017_web.pdf) · Deutschlandreihe der relativen Einkommensarmut, 2005 bis 2015.
+  Quellenzugriff am 2026-11-26. Relevante Passage im verlinkten Dokument geöffnet und gelesen. Bundesweite Deutschlandreihe 2005–2015.
+
 ### Offene Fragen und Unsicherheiten
 
-- Maß, betrachtete Jahre und mögliche Zwischenrückgänge anhand der verwendeten Reihe noch prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## 4Y1lZQsyuSQ-A0010
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Erbschaften und Schenkungen seien damals bedeutender für große Vermögen als früher.
+**Eigene Beschreibung:** Die meisten Reichen verdankten ihren Reichtum überwiegend Erbschaften oder Schenkungen statt eigener Arbeit.
 
 Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
@@ -377,7 +383,7 @@ Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Originalwortlaut sowie Geltungsbereich der zitierten Studie noch prüfen.
+Der Anteil des ererbten Vermögens am Gesamtvermögen beantwortet nicht, wie viele der reichen Personen dadurch reich wurden. Dafür sind eine Definition von reich, die Bezugsgruppe sowie eine Untersuchung der Ursache der Vermögensbildung nötig.
 
 Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
 
@@ -392,7 +398,7 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 
 ### Offene Fragen und Unsicherheiten
 
-- Originalwortlaut sowie Geltungsbereich der zitierten Studie noch prüfen.
+- Wer gilt in der eingeblendeten Studie als reich, und misst sie einen Anteil von Personen oder von Vermögen?
 
 ## 4Y1lZQsyuSQ-A0011
 
@@ -400,7 +406,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die reichsten 45 Haushalte hätten so viel Nettovermögen wie die ärmere Hälfte, die im Video mit über 40 Millionen Personen gleichgesetzt wird.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -419,7 +425,7 @@ Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Primäransatz untersucht Haushaltsvermögen. Die konkrete Vergleichszahl, Vermögensdefinition und Übertragung von Haushalten auf Personen müssen noch anhand der Tabellen und der Rezo-Grafik getrennt abgesichert werden.
+Die 2018 veröffentlichte Schätzung für 2014 ergibt jeweils etwa 214 Milliarden Euro für die 45 vermögendsten Haushalte und die rund 20 Millionen Haushalte der unteren Hälfte. Es handelt sich um geschätztes Nettovermögen ohne gesetzliche Rentenanwartschaften, nicht um eine direkte Zählung. Die zusätzliche Umrechnung der unteren Hälfte in mehr als 40 Millionen Personen folgt aus den Haushaltsdaten nicht automatisch.
 
 Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
 
@@ -435,9 +441,15 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 - [Bach, Thiemann, Zucco – Looking for the Missing Rich (2018)](https://www.diw.de/de/diw_01.c.575700.de/publikationen/diskussionspapiere/2018_1717/looking_for_the_missing_rich__tracing_the_top_tail_of_the_wealth_distribution.html) · DIW-Diskussionspapier zur Haushaltsvermögensverteilung und Zuschätzung an der Spitze.
   Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. DIW-Diskussionspapier zur Haushaltsvermögensverteilung und Zuschätzung an der Spitze.
 
+- [DER SPIEGEL – Auswertung der DIW-Vermögensschätzung, 23.01.2018](https://www.spiegel.de/wirtschaft/soziales/vermoegen-45-superreiche-besitzen-so-viel-wie-die-halbe-deutsche-bevoelkerung-a-1189111.html) · Zeitgenössisch veröffentlichte Auswertung zum Nettovermögen für 2014, mit Vergleich auf Haushaltsebene.
+  Quellenzugriff am 2026-11-26. Relevante Passage im verlinkten Dokument geöffnet und gelesen. Zahl und Haushaltseinheit der zeitgenössischen Auswertung.
+
+- [Stefan Bach im SPIEGEL-Interview, 26.01.2018](https://www.spiegel.de/wirtschaft/soziales/vermoegen-der-superreichen-das-verhoehnt-die-chancengleichheit-a-1189919.html) · Ersthanderklärung des DIW-Forschers zur Schätzmethode und zur Behandlung gesetzlicher Rentenansprüche.
+  Quellenzugriff am 2026-11-26. Relevante Passage im verlinkten Dokument geöffnet und gelesen. Abgrenzung und Schätzmethode aus Sicht des Autors.
+
 ### Offene Fragen und Unsicherheiten
 
-- Der Primäransatz untersucht Haushaltsvermögen. Die konkrete Vergleichszahl, Vermögensdefinition und Übertragung von Haushalten auf Personen müssen noch anhand der Tabellen und der Rezo-Grafik getrennt abgesichert werden.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## 4Y1lZQsyuSQ-A0012
 
