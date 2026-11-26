@@ -13,8 +13,8 @@ Unabhängige Erfassung durch Claude am 19.11.2026 auf Grundlage der vollständig
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 12
-- Abgeschlossen: 10
-- Offen (noch nicht geprueft): 0
+- Abgeschlossen: 9
+- Offen (noch nicht geprueft): 1
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 2
 - Erfasste Behauptungsvorkommen: 12
@@ -30,14 +30,14 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 8 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 7 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 7 | 87.5 % |
-| Teilweise belegt | 1 | 12.5 % |
+| Belegt | 7 | 100.0 % |
+| Teilweise belegt | 0 | 0.0 % |
 | Irreführend / Kontext fehlt | 0 | 0.0 % |
 | Widerlegt | 0 | 0.0 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |

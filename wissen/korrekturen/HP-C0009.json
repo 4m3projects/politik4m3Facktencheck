@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "HP-C0009",
+  "kind": "Quelle falsch interpretiert",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "gVQeb83GHDQ-A0003",
+    "entryId": null,
+    "description": "Anonyme Erwähnung eines Briefs ist kein Identitätsbeleg; der ursprüngliche Sprecher formuliert dies ausdrücklich als Vermutung."
+  },
+  "evidence": [
+    {
+      "title": "„Frag doch deine KI!“ (YouTube Short)",
+      "url": "https://www.youtube.com/watch?v=gVQeb83GHDQ",
+      "accessedOn": "2026-11-26",
+      "finding": "Der Sprecher formuliert die Verbindung nur als Möglichkeit und bezeichnet den fraglichen Brief als ältere Mitteilung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "gVQeb83GHDQ-A0003",
+      "reason": "Nur die vermutete Identität des in der Reaktion erwähnten Absenders, nicht der separate Kommentarwechsel."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Fehlende Zuordnung offenlassen",
+    "date": "2026-11-26",
+    "basis": "Anonyme Erwähnung bestätigt nicht die Person. Der ungeklärten Identitätsfrage wird bei noch ausstehender Quellenprüfung kein Endurteil erteilt."
+  },
+  "changes": [
+    {
+      "target": "gVQeb83GHDQ-A0003",
+      "field": "description",
+      "before": "Ein früherer langer Brief des Sprechers an Alfred sei vermutlich in einer Sendung angesprochen worden.",
+      "after": "Der in Alfreds Sendung erwähnte Zuschauerbrief könnte ein früherer Brief des Sprechers gewesen sein."
+    },
+    {
+      "target": "gVQeb83GHDQ-A0003",
+      "field": "reason",
+      "before": "Im jüngsten Alfred-Video vom 19.11.2026 sagt die KI-Figur gleich zu Beginn, mehrere Zuschauer hätten sich diesen Gast gewünscht, einer sogar mit einem langen Brief, den sie gelesen habe. Dass in der Sendung ein langer Brief angesprochen wurde, ist damit belegt. Den Absender nennt das Video nicht. Der Sprecher schreibt in seinen Kommentaren, er habe das Naomi-Seibt-Interview zuvor in einem ausführlichen YouTube-Kommentar vorgeschlagen, und hält es selbst nur für eine starke Vermutung, dass dieser gemeint war; bestätigen könnte das nur der Kanal. In zwei früheren Alfred-Videos (14.11. und 18.11.2026) kommt kein Brief vor.",
+      "after": "Noch nicht geprüft – die Identität des Absenders ist nicht unabhängig geklärt. Im Short grenzt der Sprecher den früheren Brief vom aktuellen Kommentar ab und formuliert die Zuordnung ausdrücklich als Vermutung. Laut vorhandener Analyse der Folge vom 19.11. wurde ein langer Zuschauerbrief ohne Absender erwähnt. Ein solcher Verweis allein bestätigt die Zuordnung nicht. Das Transkript dieser Folge war beim erneuten Originalplayer-Abruf nicht verfügbar; die sichtbaren Kommentare und die Suche lieferten keine eindeutige Zuordnung."
+    },
+    {
+      "target": "gVQeb83GHDQ-A0003",
+      "field": "status",
+      "before": "Abgeschlossen",
+      "after": "Offen"
+    },
+    {
+      "target": "gVQeb83GHDQ-A0003",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": null
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Gemeldet; Betroffene automatisch über gleiche Quelle, Verknüpfungen und Abhängigkeiten ermittelt."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Wortlaut des Shorts nachgeprüft; kein Endurteil aus dem fehlenden Zugriff auf ein erneutes Transkript der Alfred-Folge abgeleitet."
+    }
+  ]
+}

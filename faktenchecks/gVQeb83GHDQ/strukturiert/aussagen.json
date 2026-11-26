@@ -211,43 +211,38 @@
       "chapter": 1,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Ein früherer langer Brief des Sprechers an Alfred sei vermutlich in einer Sendung angesprochen worden.",
-      "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Im jüngsten Alfred-Video vom 19.11.2026 sagt die KI-Figur gleich zu Beginn, mehrere Zuschauer hätten sich diesen Gast gewünscht, einer sogar mit einem langen Brief, den sie gelesen habe. Dass in der Sendung ein langer Brief angesprochen wurde, ist damit belegt. Den Absender nennt das Video nicht. Der Sprecher schreibt in seinen Kommentaren, er habe das Naomi-Seibt-Interview zuvor in einem ausführlichen YouTube-Kommentar vorgeschlagen, und hält es selbst nur für eine starke Vermutung, dass dieser gemeint war; bestätigen könnte das nur der Kanal. In zwei früheren Alfred-Videos (14.11. und 18.11.2026) kommt kein Brief vor.",
-      "shortReason": "Ein langer Brief wird in der Sendung erwähnt; ob es der Brief des Sprechers war, kann nur der Kanal bestätigen.",
-      "assessmentBasis": "Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.",
+      "description": "Der in Alfreds Sendung erwähnte Zuschauerbrief könnte ein früherer Brief des Sprechers gewesen sein.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Identität des Absenders ist nicht unabhängig geklärt. Im Short grenzt der Sprecher den früheren Brief vom aktuellen Kommentar ab und formuliert die Zuordnung ausdrücklich als Vermutung. Laut vorhandener Analyse der Folge vom 19.11. wurde ein langer Zuschauerbrief ohne Absender erwähnt. Ein solcher Verweis allein bestätigt die Zuordnung nicht. Das Transkript dieser Folge war beim erneuten Originalplayer-Abruf nicht verfügbar; die sichtbaren Kommentare und die Suche lieferten keine eindeutige Zuordnung.",
+      "assessmentBasis": "Kai, 26.11.2026: Wortlaut im automatischen deutschen Originalplayer-Transkript des Shorts gelesen. Separate Alfred-Folge am selben Tag im Player aufgerufen, dort war kein Transkript verfügbar; ältere Quellenangaben bezeichnen den damaligen Zugriff.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Erstbewertung durch Claude am 19.11.2026."
+        "assessmentChange": "Erstbewertung Teilweise belegt (Claude, 19.11.); nach Wortlaut- und Quellenprüfung am 26.11. Offen ohne Urteil (Kai, HP-C0009)."
       },
       "sourceRefs": [
         {
+          "sourceId": "S001",
+          "note": "Aussage bei etwa 0:18–0:35; als Möglichkeit formuliert."
+        },
+        {
           "sourceId": "S008",
-          "note": "Erwähnung eines langen Zuschauerbriefs zu Beginn (etwa 00:00:17–00:00:21, automatische Untertitel); Absender nicht genannt."
+          "note": "Laut vorhandener Quellenprüfung wurde ein Zuschauerbrief erwähnt, aber kein Absender genannt."
         },
         {
           "sourceId": "S009",
-          "note": "Bildschirmfotos des öffentlichen Kommentarverlaufs, vom Sprecher selbst bereitgestellt; kein eigener Abruf."
-        },
-        {
-          "sourceId": "S006",
-          "note": "Untertitel gezielt durchsucht: kein Bezug auf einen Brief."
-        },
-        {
-          "sourceId": "S007",
-          "note": "Untertitel gezielt durchsucht: kein Bezug auf einen Brief, nur allgemeiner Aufruf zu Gastwünschen in den Kommentaren."
+          "note": "Ältere, nicht unabhängig erhobene Dokumentation enthält die Vermutung des Sprechers, keine Bestätigung."
         }
       ],
       "openQuestions": [
-        "Ob der erwähnte Brief der frühere Vorschlagskommentar des Sprechers war, kann nur der Kanal Alfred räumt auf bestätigen; der frühere Kommentar selbst wurde nicht gelesen."
+        "Originalstelle 0:17–0:21 der Alfred-Folge BOIqGtGuShM bei verfügbarem Ton/Transkript erneut kontrollieren. Eine öffentlich zuordenbare frühere Mitteilung und eine ausdrückliche Bezugnahme im Kanal sind als Identitätsbeleg zu suchen. Ohne solche Zuordnung kein Endurteil."
       ],
       "occurrences": [
         {
           "id": "gVQeb83GHDQ-O0003",
           "startSeconds": 18,
-          "endSeconds": 30,
+          "endSeconds": 35,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
@@ -257,9 +252,16 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Ich-Erzählung im Monolog; als eigene Aussage erschlossen.",
-          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
-          "timeBasis": "Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
-          "timeHistory": []
+          "note": "Die Fundstelle enthält die ausdrückliche Einschränkung und unterscheidet zwei Mitteilungen. Kein Ton-/Bildabgleich.",
+          "timeBasis": "Automatisches deutsches Originalplayer-Transkript des Shorts, geprüft 26.11.2026.",
+          "timeHistory": [
+            {
+              "startSeconds": 18,
+              "endSeconds": 30,
+              "precision": "Ungefähr",
+              "basis": "Frühere Fundstelle; mit der gesamten Einschränkung bis etwa 0:35 erweitert."
+            }
+          ]
         }
       ],
       "relations": [],
