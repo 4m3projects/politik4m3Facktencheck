@@ -439,6 +439,109 @@
           ]
         }
       ]
+    },
+    {
+      "id": "R0003",
+      "reactionVideoId": "rAJuskj3k6s",
+      "originalVideoId": "6qxCPP_tva4",
+      "certainty": "Belegt",
+      "basis": "Alfred benennt den Titel und verlinkt 6qxCPP_tva4 in der Beschreibung als Original; GIZ, Jemen, Indien und Peru werden erkennbar daraus diskutiert.",
+      "history": [
+        {
+          "date": "2026-11-26",
+          "change": "Von Kai mit Originalplayer-Transkripten und öffentlichen Quellen verknüpft; elf Aussagebezüge."
+        }
+      ],
+      "claimLinks": [
+        {
+          "id": "L0038",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "6qxCPP_tva4-A0009",
+          "reactionClaimId": "rAJuskj3k6s-A0009",
+          "reactionSeconds": 247,
+          "note": "Beide bestätigen die Top-zwei-Wertung; Alfred rechnet Note 3 separat hinzu."
+        },
+        {
+          "id": "L0039",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "6qxCPP_tva4-A0010",
+          "reactionClaimId": "rAJuskj3k6s-A0010",
+          "reactionSeconds": 263,
+          "note": "GIZ-Energieprojekte schneiden in der Stichprobe besser ab."
+        },
+        {
+          "id": "L0040",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "6qxCPP_tva4-A0012",
+          "reactionClaimId": "rAJuskj3k6s-A0014",
+          "reactionSeconds": 478,
+          "note": "24 personelle Trennungen wurden in beiden Fassungen genannt."
+        },
+        {
+          "id": "L0041",
+          "type": "gegenbehauptung",
+          "originalClaimId": "6qxCPP_tva4-A0013",
+          "reactionClaimId": "rAJuskj3k6s-A0016",
+          "reactionSeconds": 494,
+          "note": "Alfred korrigiert den veralteten Verfahrensstand; die Größenordnung bleibt richtig."
+        },
+        {
+          "id": "L0042",
+          "type": "ergaenzt",
+          "originalClaimId": "6qxCPP_tva4-A0011",
+          "reactionClaimId": "rAJuskj3k6s-A0017",
+          "reactionSeconds": 526,
+          "note": "Alfred trennt die als Betrug eingestufte Million vom übrigen nicht abrechenbaren Betrag."
+        },
+        {
+          "id": "L0043",
+          "type": "ergaenzt",
+          "originalClaimId": "6qxCPP_tva4-A0016",
+          "reactionClaimId": "rAJuskj3k6s-A0021",
+          "reactionSeconds": 657,
+          "note": "Die 180.000 Euro sind die Teilmaßnahme, nicht der Projektgesamtbetrag."
+        },
+        {
+          "id": "L0044",
+          "type": "ergaenzt",
+          "originalClaimId": "6qxCPP_tva4-A0017",
+          "reactionClaimId": "rAJuskj3k6s-A0023",
+          "reactionSeconds": 707,
+          "note": "Alfred datiert Rang fünf und nennt die spätere Rangfolge."
+        },
+        {
+          "id": "L0045",
+          "type": "ergaenzt",
+          "originalClaimId": "6qxCPP_tva4-A0019",
+          "reactionClaimId": "rAJuskj3k6s-A0025",
+          "reactionSeconds": 770,
+          "note": "Alfred unterscheidet den Südpol von der Südpolregion."
+        },
+        {
+          "id": "L0046",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "6qxCPP_tva4-A0020",
+          "reactionClaimId": "rAJuskj3k6s-A0026",
+          "reactionSeconds": 865,
+          "note": "Korrektur der 315-Mio.-Zahl und Abgrenzung von Krediten stimmen überein."
+        },
+        {
+          "id": "L0047",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "6qxCPP_tva4-A0021",
+          "reactionClaimId": "rAJuskj3k6s-A0027",
+          "reactionSeconds": 892,
+          "note": "Gleiche historische Größenordnung; im Originalcheck durch archivierte BMZ-Daten belegt."
+        },
+        {
+          "id": "L0048",
+          "type": "ergaenzt",
+          "originalClaimId": "6qxCPP_tva4-A0008",
+          "reactionClaimId": "rAJuskj3k6s-A0006",
+          "reactionSeconds": 153,
+          "note": "Die 90-Länder-Behauptung ist unabhängig überprüfbar und in Alfreds gesprochener Prüfung nicht einzeln behandelt; keine Gegenprüfung dieser Zahl durch Alfred behauptet."
+        }
+      ]
     }
   ]
 }
