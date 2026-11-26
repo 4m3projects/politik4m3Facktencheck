@@ -1,8 +1,8 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erster Teilbestand: geprüfte Stellen aus 00:49–19:24, inklusive explizit offener Fragen. Noch keine vollständige Inventur, insbesondere Kapitel ab ca. 19:24 fehlen. Keine Gesamtfehlerzahl; Ampel darf keine Vollprüfung suggerieren.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Zweiter Teilbestand: ausgewählte Aussagen bis 23:55 und Wiederholung um 50:22, keine durchgehende Abdeckung. Insbesondere der Mittelteil, historische Rechtsfragen und weitere politische Aussagen sind noch nicht vollständig inventarisiert. Keine Gesamtfehlerzahl.
 
-Kai: Deutsches Transkript direkt im YouTube-Originalplayer geöffnet (418 Zeitsegmente von 0:00 bis 54:48 sichtbar); erste ausgewählte Stellen aus dem ersten Drittel bearbeitet. Zeitgenössische Originalquellen, Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht belegt). Kein Bild- und Tonabgleich.
+Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 
 ## 4Y1lZQsyuSQ-A0002
 
@@ -445,7 +445,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Steuerlast habe sich in rund 20 Jahren relativ von Reichen zu Ärmeren verschoben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -464,7 +464,7 @@ Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Genaues Jahr, Einkommensgruppen und Zusammensetzung aus direkten und indirekten Abgaben in der Originalstudie und Grafik abgleichen.
+Der DIW-Modellvergleich für 1998–2015 stützt die Richtung als Anteil am Bruttoeinkommen: +5,4 Prozentpunkte im untersten Einkommenszehntel, −2,3 im obersten Zehntel und −4,8 im obersten Prozent. Einschließlich Sozialbeiträgen bleibt die Richtung gleich. In den Originaluntertiteln ist dieser Nenner nicht ausdrücklich genannt. Absolute Zahlbeträge und Anteil am gesamten Steueraufkommen wären andere Fragen; eine Alleinverantwortung einer Partei ergibt sich aus der Studie nicht.
 
 Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
 
@@ -477,9 +477,12 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 - [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
   Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Fundstelle in den deutschen Originalplayer-Untertiteln.
 
+- [Bach, Beznoska, Steiner – Wer trägt die Steuerlast in Deutschland? (2016)](https://www.diw.de/documents/publikationen/73/diw_01.c.542120.de/diwkompakt_2016-114.pdf) · Tabelle 4-16, S. 67: Modellvergleich 1998–2015 zum Anteil am Bruttoeinkommen, getrennt nach Einkommensgruppen und Abgabenarten.
+  Quellenzugriff am 2026-11-26. Relevante Stelle im verlinkten Originaltext geöffnet und gelesen. S. 67, Tabelle 4-16: Vergleich der Steuer- und Abgabenlast nach Einkommensgruppen.
+
 ### Offene Fragen und Unsicherheiten
 
-- Genaues Jahr, Einkommensgruppen und Zusammensetzung aus direkten und indirekten Abgaben in der Originalstudie und Grafik abgleichen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## 4Y1lZQsyuSQ-A0013
 
@@ -487,7 +490,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Sozialer und migrationsbezogener Hintergrund spielen bei den Bildungschancen in Deutschland im Industrieländervergleich stark mit.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -506,7 +509,7 @@ Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-PISA-Erhebungswelle und Maße der beiden Gruppen müssen getrennt geprüft werden.
+In PISA 2015 war der soziale Leistungsabstand in Naturwissenschaften in Deutschland größer als im OECD-Mittel (42 gegenüber 38 Punkten; statistischer Zusammenhang mit 16 gegenüber 13 Prozent der Leistungsstreuung). Der Abstand für Jugendliche mit Einwanderungshintergrund fiel nach Berücksichtigung von sozialer Lage und zu Hause gesprochener Sprache von 72 auf 28 Punkte; fehlende Antworten begrenzen den Vergleich. Das stützt den Kern, ist aber kein direkter internationaler Nachweis über alle Aufstiegschancen.
 
 Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
 
@@ -519,9 +522,12 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 - [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
   Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Fundstelle in den deutschen Originalplayer-Untertiteln.
 
+- [OECD – Ergebnisse von PISA 2015 für Deutschland (2016)](https://www.oecd.org/content/dam/oecd/en/about/programmes/edu/pisa/publications/national-reports/pisa-2015/country-snapshots/PISA-2015-Germany.pdf) · S. 4–5: Leistung in Naturwissenschaften nach sozialer Herkunft und Migrationshintergrund, mit methodischen Einschränkungen.
+  Quellenzugriff am 2026-11-26. Relevante Stelle im verlinkten Originaltext geöffnet und gelesen. S. 4–5: soziale Unterschiede, Migration und methodische Vorbehalte.
+
 ### Offene Fragen und Unsicherheiten
 
-- PISA-Erhebungswelle und Maße der beiden Gruppen müssen getrennt geprüft werden.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## 4Y1lZQsyuSQ-A0014
 
@@ -529,7 +535,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Deutschland gebe gemessen an anderen Industriestaaten deutlich weniger für Bildung aus.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -548,7 +554,7 @@ Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vergleichsgruppe, Jahr und Nenner der im Video genutzten OECD-Kennzahl noch offen.
+Für Bildungseinrichtungen von Primar- bis Tertiärstufe lag Deutschland 2015 gemessen am BIP bei 4,2 Prozent gegenüber 5,0 im OECD-Mittel und 4,6 im EU23-Mittel. Je Lernendem lagen die Ausgaben in der Primar- und Sekundarstufe darüber, im Tertiärbereich ohne Forschung darunter. Das pauschale Urteil hängt von Bezugsgröße und Bildungsstufe ab.
 
 Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
 
@@ -561,9 +567,12 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 - [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
   Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Fundstelle in den deutschen Originalplayer-Untertiteln.
 
+- [OECD – Education at a Glance 2018, Deutschland](https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2018/EAG2018_CN_DEU.pdf) · Tabelle C2.1: Ausgaben für Bildungseinrichtungen 2015 von der Primar- bis zur Tertiärstufe als Anteil am BIP sowie Ausgaben je Schüler oder Studierendem.
+  Quellenzugriff am 2026-11-26. Relevante Stelle im verlinkten Originaltext geöffnet und gelesen. Tabelle C2.1 und Ausgaben je Lernendem in Tabelle C1.1.
+
 ### Offene Fragen und Unsicherheiten
 
-- Vergleichsgruppe, Jahr und Nenner der im Video genutzten OECD-Kennzahl noch offen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## 4Y1lZQsyuSQ-A0015
 
@@ -653,6 +662,9 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 
 - [Destatis – Bildung, Forschung und Wissenschaft 2015, Meldung vom März 2017](https://www.destatis.de/DE/Presse/Pressemitteilungen/2017/03/PD17_097_217.html) · 2015: 9,1 Prozent des BIP im Gesamtbudget; Bildungsbudget allein ist eine andere Kennzahl.
   Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. 2015: 9,1 Prozent des BIP im Gesamtbudget; Bildungsbudget allein ist eine andere Kennzahl.
+
+- [Bundesregierung – Bundestagsdrucksache 19/1677, April 2018](https://dserver.bundestag.de/btd/19/016/1901677.pdf#page=5) · Antworten 18–22: kombiniertes Zehn-Prozent-Ziel und 9,1 % des BIP 2015; Bildung separat 6,4 %.
+  Quellenzugriff am 2026-11-26. Relevante Stelle im verlinkten Originaltext geöffnet und gelesen. Antworten 18–22: kombinierte Zielmarke und getrennte Ausgabenkategorien.
 
 ### Offene Fragen und Unsicherheiten
 

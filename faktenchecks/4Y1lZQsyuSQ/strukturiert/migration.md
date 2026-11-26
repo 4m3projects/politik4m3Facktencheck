@@ -2,6 +2,6 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Erster Teilbestand: geprüfte Stellen aus 00:49–19:24, inklusive explizit offener Fragen. Noch keine vollständige Inventur, insbesondere Kapitel ab ca. 19:24 fehlen. Keine Gesamtfehlerzahl; Ampel darf keine Vollprüfung suggerieren.
+Abdeckung: Zweiter Teilbestand: ausgewählte Aussagen bis 23:55 und Wiederholung um 50:22, keine durchgehende Abdeckung. Insbesondere der Mittelteil, historische Rechtsfragen und weitere politische Aussagen sind noch nicht vollständig inventarisiert. Keine Gesamtfehlerzahl.
 
 Keine Altpunkte migriert; dieser Datenbestand erfasst Aussagen direkt.

@@ -1,46 +1,46 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Erster Teilbestand: geprüfte Stellen aus 00:49–19:24, inklusive explizit offener Fragen. Noch keine vollständige Inventur, insbesondere Kapitel ab ca. 19:24 fehlen. Keine Gesamtfehlerzahl; Ampel darf keine Vollprüfung suggerieren.",
+  "coverageNote": "Zweiter Teilbestand: ausgewählte Aussagen bis 23:55 und Wiederholung um 50:22, keine durchgehende Abdeckung. Insbesondere der Mittelteil, historische Rechtsfragen und weitere politische Aussagen sind noch nicht vollständig inventarisiert. Keine Gesamtfehlerzahl.",
   "videoId": "4Y1lZQsyuSQ",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 28,
-  "uniqueStatements": 28,
+  "statementRecords": 32,
+  "uniqueStatements": 32,
   "referenceOnlyStatements": 0,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 28,
-  "additionalAssertionOccurrences": 0,
+  "assertionOccurrences": 33,
+  "additionalAssertionOccurrences": 1,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 0,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 11,
+    "Offen": 8,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 0,
-    "Abgeschlossen": 17
+    "Abgeschlossen": 24
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 25,
+    "Tatsachenbehauptung": 29,
     "Meinung": 3,
     "Prognose": 0
   },
-  "completedFacts": 14,
-  "openFacts": 11,
+  "completedFacts": 21,
+  "openFacts": 8,
   "inProgressFacts": 0,
   "unverifiableFacts": 0,
-  "percentageDenominator": 14,
+  "percentageDenominator": 21,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 10,
-      "completedFactPercent": 71.4
+      "completedCount": 13,
+      "completedFactPercent": 61.9
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 3,
-      "completedFactPercent": 21.4
+      "completedCount": 7,
+      "completedFactPercent": 33.3
     },
     {
       "category": "Irreführend / Kontext fehlt",
@@ -50,7 +50,7 @@
     {
       "category": "Widerlegt",
       "completedCount": 1,
-      "completedFactPercent": 7.1
+      "completedFactPercent": 4.8
     },
     {
       "category": "Nicht ausreichend belegbar",
@@ -109,19 +109,19 @@
         ]
       }
     ],
-    "eligibleFacts": 25,
+    "eligibleFacts": 29,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 25,
-    "factsWithUncertainAttribution": 25,
-    "factsWithUncertainOwnRole": 25,
+    "factsWithoutReliablePerson": 29,
+    "factsWithUncertainAttribution": 29,
+    "factsWithUncertainOwnRole": 29,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 28,
+      "Plausibel": 33,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
-      "Plausibel": 28,
+      "Plausibel": 33,
       "Ungeklärt": 0
     }
   }

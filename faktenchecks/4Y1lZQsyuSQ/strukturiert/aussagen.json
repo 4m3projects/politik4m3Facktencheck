@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Kai: Deutsches Transkript direkt im YouTube-Originalplayer geöffnet (418 Zeitsegmente von 0:00 bis 54:48 sichtbar); erste ausgewählte Stellen aus dem ersten Drittel bearbeitet. Zeitgenössische Originalquellen, Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht belegt). Kein Bild- und Tonabgleich.",
-    "coverageNote": "Erster Teilbestand: geprüfte Stellen aus 00:49–19:24, inklusive explizit offener Fragen. Noch keine vollständige Inventur, insbesondere Kapitel ab ca. 19:24 fehlen. Keine Gesamtfehlerzahl; Ampel darf keine Vollprüfung suggerieren."
+    "researchNote": "Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.",
+    "coverageNote": "Zweiter Teilbestand: ausgewählte Aussagen bis 23:55 und Wiederholung um 50:22, keine durchgehende Abdeckung. Insbesondere der Mittelteil, historische Rechtsfragen und weitere politische Aussagen sind noch nicht vollständig inventarisiert. Keine Gesamtfehlerzahl."
   },
   "speakers": [
     {
@@ -149,6 +149,78 @@
       "details": "Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.",
       "accessedOn": "2026-11-26",
       "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S017",
+      "title": "Bach, Beznoska, Steiner – Wer trägt die Steuerlast in Deutschland? (2016)",
+      "url": "https://www.diw.de/documents/publikationen/73/diw_01.c.542120.de/diwkompakt_2016-114.pdf",
+      "details": "Tabelle 4-16, S. 67: Modellvergleich 1998–2015 zum Anteil am Bruttoeinkommen, getrennt nach Einkommensgruppen und Abgabenarten.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle im verlinkten Originaltext geöffnet und gelesen."
+    },
+    {
+      "id": "S018",
+      "title": "Bundesregierung – Bundestagsdrucksache 19/1677, April 2018",
+      "url": "https://dserver.bundestag.de/btd/19/016/1901677.pdf#page=5",
+      "details": "Antworten 18–22: kombiniertes Zehn-Prozent-Ziel und 9,1 % des BIP 2015; Bildung separat 6,4 %.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle im verlinkten Originaltext geöffnet und gelesen."
+    },
+    {
+      "id": "S019",
+      "title": "OECD – Ergebnisse von PISA 2015 für Deutschland (2016)",
+      "url": "https://www.oecd.org/content/dam/oecd/en/about/programmes/edu/pisa/publications/national-reports/pisa-2015/country-snapshots/PISA-2015-Germany.pdf",
+      "details": "S. 4–5: Leistung in Naturwissenschaften nach sozialer Herkunft und Migrationshintergrund, mit methodischen Einschränkungen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle im verlinkten Originaltext geöffnet und gelesen."
+    },
+    {
+      "id": "S020",
+      "title": "OECD – Education at a Glance 2018, Deutschland",
+      "url": "https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2018/EAG2018_CN_DEU.pdf",
+      "details": "Tabelle C2.1: Ausgaben für Bildungseinrichtungen 2015 von der Primar- bis zur Tertiärstufe als Anteil am BIP sowie Ausgaben je Schüler oder Studierendem.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle im verlinkten Originaltext geöffnet und gelesen."
+    },
+    {
+      "id": "S021",
+      "title": "Weltbank – State and Trends of Carbon Pricing 2018",
+      "url": "https://documents1.worldbank.org/curated/en/480621554812881664/pdf/State-and-Trends-of-Carbon-Pricing-2018.pdf",
+      "details": "S. 17–18, Box 1: 45 nationale und 25 subnationale Jurisdiktionen; umfasst umgesetzte und zur Umsetzung vorgesehene Initiativen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle im verlinkten Originaltext geöffnet und gelesen."
+    },
+    {
+      "id": "S022",
+      "title": "Carbon Brief – Eigene Berechnung der britischen CO₂-Emissionen 2018, März 2019",
+      "url": "https://www.carbonbrief.org/analysis-uks-co2-emissions-fell-for-record-sixth-consecutive-year-in-2018",
+      "details": "Historische Vergleichsreihe und territoriale energiebedingte CO₂-Emissionen; Vorbehalte zu Streikjahren und vorläufigen Daten.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle im verlinkten Originaltext geöffnet und gelesen."
+    },
+    {
+      "id": "S023",
+      "title": "Britisches Committee on Climate Change – Net Zero, Mai 2019",
+      "url": "https://www.theccc.org.uk/wp-content/uploads/2019/05/Net-Zero-The-UKs-contribution-to-stopping-global-warming.pdf",
+      "details": "Offizielle Beratung zur britischen Klimapolitik; Einführung des britischen CO₂-Mindestpreises im Jahr 2013 neben dem EU-Emissionshandel.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle im verlinkten Originaltext geöffnet und gelesen."
+    },
+    {
+      "id": "S024",
+      "title": "Scientists for Future – Stellungnahme vom März 2019",
+      "url": "https://de.scientists4future.org/stellungnahme-von-wissenschaftlerinnen-und-wissenschaftlern-zu-den-protesten-fuer-mehr-klimaschutz-scientists4future/",
+      "details": "Originalstellungnahme und verlinkte Liste mit über 26.800 Unterstützenden bis 22. März 2019.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle im verlinkten Originaltext geöffnet und gelesen."
+    },
+    {
+      "id": "S025",
+      "title": "IPCC – Global Warming of 1.5°C, Zusammenfassung für politische Entscheidungsträger (2018)",
+      "url": "https://www.ipcc.ch/sr15/chapter/spm/",
+      "details": "Abschnitt D.1 und Fußnote 20: modellierte Pfade der damaligen Paris-Zusagen und bedingte langfristige Erwärmung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle im verlinkten Originaltext geöffnet und gelesen."
     }
   ],
   "claims": [
@@ -677,8 +749,8 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Steuerlast habe sich in rund 20 Jahren relativ von Reichen zu Ärmeren verschoben.",
-      "status": "Offen",
-      "reason": "Genaues Jahr, Einkommensgruppen und Zusammensetzung aus direkten und indirekten Abgaben in der Originalstudie und Grafik abgleichen.",
+      "status": "Abgeschlossen",
+      "reason": "Der DIW-Modellvergleich für 1998–2015 stützt die Richtung als Anteil am Bruttoeinkommen: +5,4 Prozentpunkte im untersten Einkommenszehntel, −2,3 im obersten Zehntel und −4,8 im obersten Prozent. Einschließlich Sozialbeiträgen bleibt die Richtung gleich. In den Originaluntertiteln ist dieser Nenner nicht ausdrücklich genannt. Absolute Zahlbeträge und Anteil am gesamten Steueraufkommen wären andere Fragen; eine Alleinverantwortung einer Partei ergibt sich aus der Studie nicht.",
       "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -689,11 +761,13 @@
         {
           "sourceId": "S016",
           "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S017",
+          "note": "S. 67, Tabelle 4-16: Vergleich der Steuer- und Abgabenlast nach Einkommensgruppen."
         }
       ],
-      "openQuestions": [
-        "Genaues Jahr, Einkommensgruppen und Zusammensetzung aus direkten und indirekten Abgaben in der Originalstudie und Grafik abgleichen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "4Y1lZQsyuSQ-O0012",
@@ -714,7 +788,8 @@
         }
       ],
       "relations": [],
-      "verdict": null
+      "verdict": "Teilweise belegt",
+      "shortReason": "Die DIW-Zahlen beziehen sich auf den Anteil am Haushaltseinkommen, nicht auf absolute Zahlbeträge."
     },
     {
       "id": "4Y1lZQsyuSQ-A0013",
@@ -723,8 +798,8 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Sozialer und migrationsbezogener Hintergrund spielen bei den Bildungschancen in Deutschland im Industrieländervergleich stark mit.",
-      "status": "Offen",
-      "reason": "PISA-Erhebungswelle und Maße der beiden Gruppen müssen getrennt geprüft werden.",
+      "status": "Abgeschlossen",
+      "reason": "In PISA 2015 war der soziale Leistungsabstand in Naturwissenschaften in Deutschland größer als im OECD-Mittel (42 gegenüber 38 Punkten; statistischer Zusammenhang mit 16 gegenüber 13 Prozent der Leistungsstreuung). Der Abstand für Jugendliche mit Einwanderungshintergrund fiel nach Berücksichtigung von sozialer Lage und zu Hause gesprochener Sprache von 72 auf 28 Punkte; fehlende Antworten begrenzen den Vergleich. Das stützt den Kern, ist aber kein direkter internationaler Nachweis über alle Aufstiegschancen.",
       "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -735,11 +810,13 @@
         {
           "sourceId": "S016",
           "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S019",
+          "note": "S. 4–5: soziale Unterschiede, Migration und methodische Vorbehalte."
         }
       ],
-      "openQuestions": [
-        "PISA-Erhebungswelle und Maße der beiden Gruppen müssen getrennt geprüft werden."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "4Y1lZQsyuSQ-O0013",
@@ -760,7 +837,8 @@
         }
       ],
       "relations": [],
-      "verdict": null
+      "verdict": "Teilweise belegt",
+      "shortReason": "PISA belegt Leistungsunterschiede in Naturwissenschaften, nicht pauschal alle Aufstiegschancen."
     },
     {
       "id": "4Y1lZQsyuSQ-A0014",
@@ -769,8 +847,8 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Deutschland gebe gemessen an anderen Industriestaaten deutlich weniger für Bildung aus.",
-      "status": "Offen",
-      "reason": "Vergleichsgruppe, Jahr und Nenner der im Video genutzten OECD-Kennzahl noch offen.",
+      "status": "Abgeschlossen",
+      "reason": "Für Bildungseinrichtungen von Primar- bis Tertiärstufe lag Deutschland 2015 gemessen am BIP bei 4,2 Prozent gegenüber 5,0 im OECD-Mittel und 4,6 im EU23-Mittel. Je Lernendem lagen die Ausgaben in der Primar- und Sekundarstufe darüber, im Tertiärbereich ohne Forschung darunter. Das pauschale Urteil hängt von Bezugsgröße und Bildungsstufe ab.",
       "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -781,11 +859,13 @@
         {
           "sourceId": "S016",
           "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S020",
+          "note": "Tabelle C2.1 und Ausgaben je Lernendem in Tabelle C1.1."
         }
       ],
-      "openQuestions": [
-        "Vergleichsgruppe, Jahr und Nenner der im Video genutzten OECD-Kennzahl noch offen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "4Y1lZQsyuSQ-O0014",
@@ -806,7 +886,8 @@
         }
       ],
       "relations": [],
-      "verdict": null
+      "verdict": "Teilweise belegt",
+      "shortReason": "Unter OECD-Mittel als Anteil am BIP, je Lernendem je nach Bildungsstufe unterschiedlich."
     },
     {
       "id": "4Y1lZQsyuSQ-A0015",
@@ -885,6 +966,10 @@
         {
           "sourceId": "S005",
           "note": "2015: 9,1 Prozent des BIP im Gesamtbudget; Bildungsbudget allein ist eine andere Kennzahl."
+        },
+        {
+          "sourceId": "S018",
+          "note": "Antworten 18–22: kombinierte Zielmarke und getrennte Ausgabenkategorien."
         }
       ],
       "openQuestions": [],
@@ -1497,6 +1582,224 @@
         }
       ],
       "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0029",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach dem IPCC-Bericht von 2018 führen die damals erklärten Klimaschutzambitionen ungefähr auf einen Drei-Grad-Pfad.",
+      "status": "Abgeschlossen",
+      "reason": "Der Sonderbericht ordnet den damals angekündigten Emissionspfad unter den Pariser Zusagen einer modellierten Erwärmung um etwa 3 °C bis 2100 zu. Das ist ein Szenario unter Bedingungen, keine sichere Vorhersage. Die separate Folgerung zu einer unaufhaltsamen Spirale ist damit nicht belegt.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S025",
+          "note": "D.1, Fußnote 20: bedingtes Szenario aus damaligen Zusagen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0029",
+          "startSeconds": 1293,
+          "endSeconds": 1302,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Belegt"
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0030",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Mehr als 40 Länder hatten damals bereits einen CO₂-Preis eingeführt.",
+      "status": "Abgeschlossen",
+      "reason": "Der britische Klimarat zählte Anfang Mai 2019 bereits 46 nationale Jurisdiktionen mit CO₂-Bepreisung. Darunter fallen auch Länder unter dem gemeinsamen EU-Emissionshandel; es müssen keine eigenständigen nationalen Steuern sein. Die Weltbank erfasste 2018 in ähnlicher Größenordnung umgesetzte und geplante Initiativen.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S021",
+          "note": "Box 1 und S. 17: Zahl der Jurisdiktionen und Status der Maßnahmen."
+        },
+        {
+          "sourceId": "S023",
+          "note": "Kapitel 1, S. 45: 46 nationale Jurisdiktionen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0030",
+          "startSeconds": 1387,
+          "endSeconds": 1397,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Belegt"
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0031",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Vereinigten Königreich trug CO₂-Bepreisung dazu bei, dass der CO₂-Ausstoß auf einen Stand wie vor über einem Jahrhundert fiel.",
+      "status": "Abgeschlossen",
+      "reason": "Die zeitgenössische Auswertung ordnet die britischen territorialen CO₂-Emissionen von 2018 außerhalb einzelner Streikjahre dem Niveau des späten 19. Jahrhunderts zu. Der britische Mindestpreis seit 2013 verteuerte Kohleverstromung; die Entwicklung hatte auch andere Treiber. Das ist kein Befund zur gesamten importbereinigten Klimabilanz und die Daten betreffen das Vereinigte Königreich, nicht England allein.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S022",
+          "note": "Historische Vergleichsreihe und Rolle sinkender Kohlenutzung."
+        },
+        {
+          "sourceId": "S023",
+          "note": "Einführung des CO₂-Mindestpreises; weitere gleichzeitig wirksame britische Maßnahmen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0031",
+          "startSeconds": 1387,
+          "endSeconds": 1397,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Teilweise belegt",
+      "shortReason": "Zeitvergleich für das Vereinigte Königreich mit Ausnahmen; der CO₂-Preis war nicht der einzige Treiber."
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0032",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine Initiative mit über 26.000 wissenschaftlichen Unterzeichnenden stellte sich hinter die Anliegen der Klimaproteste.",
+      "status": "Abgeschlossen",
+      "reason": "Scientists for Future veröffentlichte im März 2019 eine gemeinsame Erklärung zur Berechtigung der Anliegen der Klimaproteste mit über 26.800 Unterschriften. Die Unterzeichnungen stützen die gemeinsame Erklärung, nicht automatisch jeden Einzelvorschlag oder jede Parteibewertung einer interviewten Person.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Originalerklärung und zeitgenössischer Unterschriftenstand."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0032",
+          "startSeconds": 1435,
+          "endSeconds": 1448,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        },
+        {
+          "id": "4Y1lZQsyuSQ-O0033",
+          "startSeconds": 3022,
+          "endSeconds": 3032,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Belegt"
     }
   ],
   "legacyPoints": []
