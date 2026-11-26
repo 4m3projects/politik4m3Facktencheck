@@ -393,6 +393,13 @@
         "migration",
         "frankreich"
       ]
+    },
+    {
+      "claimId": "smBg5wh2nHw-A0062",
+      "topics": [
+        "migration",
+        "frankreich"
+      ]
     }
   ],
   "history": [
@@ -410,6 +417,11 @@
       "date": "2026-11-26",
       "agent": "Kai",
       "change": "Arbeitsvermittlung als eigenständigen Prüfpunkt den bestehenden Themen der BUMIDOM-Stelle zugeordnet."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Getrennten Familiennachzug bestehenden Themen der zugehörigen Passage zugeordnet."
     }
   ]
 }

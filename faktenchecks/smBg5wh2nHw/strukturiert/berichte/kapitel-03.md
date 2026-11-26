@@ -590,13 +590,13 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Wer nach Ende der Anwerbung bereits in Frankreich lebte, blieb, und Angehörige konnten nachziehen.
+**Eigene Beschreibung:** Regulär bereits in Frankreich lebende ausländische Arbeitskräfte konnten trotz des Anwerbestopps 1974 im Land bleiben.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
-- [00:19:50–00:20:07](https://www.youtube.com/watch?v=smBg5wh2nHw&t=1190s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+- [00:19:42–00:19:47](https://www.youtube.com/watch?v=smBg5wh2nHw&t=1182s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
 
 Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
@@ -605,27 +605,32 @@ Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Zeitbereich aus dem Untertitelverlauf.
+Fundstellenhinweis: Engeres Suchfenster aus dem erneuten Originalplayer-Abgleich.
 
-Zeitgrundlage: Automatische deutsche Originaluntertitel. Keine Hör- oder Sichtkontrolle.
+Zeitgrundlage: Automatische deutsche Originalplayer-Untertitel, kein Ton- oder Bildabgleich.
+
+Frueherer Suchbereich: [00:19:50–00:20:07](https://www.youtube.com/watch?v=smBg5wh2nHw&t=1190s), Ungefähr. Früherer gemeinsamer Zeitbereich; Originalplayer nennt den Verbleib um 19:42.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nach dem vorläufigen Stopp von 1974 regelte das Dekret vom 29. April 1976 den Nachzug für berechtigte Angehörige unter bestimmten Voraussetzungen. Das stützt den Kern zur Familienmigration. Weder das Dekret noch die Erläuterung des Museums belegen die pauschale Aussage, dass alle schon ansässigen Personen blieben.
+Die damalige Anweisung betraf neue Arbeitsverträge für die Einreise; sie beendete nicht pauschal bereits rechtmäßige Aufenthalte. Ein zeitgenössischer Senatsbericht dokumentiert fortgesetzte Verlängerungen von Arbeitstiteln und stellt fest, dass Berechtigte zwischen freiwilliger Rückkehr und Verbleib wählen konnten. Die Aussage im Zusammenhang erklärt die fortbestehende Niederlassung, nicht, dass ausnahmslos jeder blieb: Bis Juli 1978 waren auch 17.988 Anträge auf Rückkehrhilfe im Bericht als bewilligt erfasst.
 
-Grundlage der Bewertung: Fundstelle aus den deutschen Originaluntertiteln und Abgleich mit den zugeordneten Sachquellen.
+Grundlage der Bewertung: Kai; deutschsprachiges automatisches Originalplayer-Transkript und zeitgenössische staatliche Primärquellen. Kein separater Hör- oder Sichtabgleich.
 
 Uebernahme: Direkt erfasster Prüfgegenstand.
 
-Bewertungsuebergang: 20.11.2026, Codex: Recherche des ersten Teilstands fortgeschrieben.
+Bewertungsuebergang: Zuvor Teilweise belegt als gemeinsamer Prüfpunkt, nach erneutem Original- und Quellenabgleich Belegt für den Verbleib (HP-C0011; Kai, 26.11.2026).
 
 ### Zugeordnete Quellen
 
-- [Juillet 1974 : suspension des entrées de travailleurs immigrés permanents](https://www.histoire-immigration.fr/les-50-ans-de-la-revue-hommes-migrations/juillet-1974-suspension-des-entrees-de-travailleurs-immigres-permanents) · Musée national de l’histoire de l’immigration, Rückblick auf zeitgenössische Unterlagen von 1974.
-  Quellenzugriff am 2026-11-20. Die Erläuterung zum Beschluss vom 3. Juli und zu dessen vorläufigem Charakter gelesen. Bezug und Reichweite stehen in der Begründung.
+- [YouTube-Videoseite und Veröffentlichungsmetadaten](https://www.youtube.com/watch?v=smBg5wh2nHw) · SinansWoche / YouTube, Veröffentlichung am 23.10.2026.
+  Quellenzugriff am 2026-11-20. Mit dem Projektimport ausgelesenes Veröffentlichungsdatum und Laufzeit. Eigene Einordnung der Moderation bei etwa 19:42.
 
-- [Décret n° 76-383 du 29 avril 1976](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000855572/1976-05-02) · Légifrance, Fassung vom 02.05.1976.
-  Quellenzugriff am 2026-11-20. Vorschriften zum Nachzug von Angehörigen zugelassener ausländischer Einwohner gelesen. Bezug und Reichweite stehen in der Begründung.
+- [Französischer Senat – Bericht zum Haushalt 1979: Migration und Arbeitsmarkt](https://www.senat.fr/rap/1978-1979/i1978_1979_0074_03_33.pdf) · S. 47–48 zur Aussetzung der Anwerbung und zur Wiederzulassung des Familiennachzugs; S. 55–56 zur Wahl zwischen Verbleib und freiwilliger Rückkehr, tatsächlichen Rückkehrhilfen und weiteren Erneuerungen von Arbeitstiteln.
+  Quellenzugriff am 2026-11-26. Zeitgenössischer französischer Originalbericht bzw. gerichtliche Primärquelle im Volltext. Senatsbericht zu Verlängerungen, Verbleib und tatsächlicher freiwilliger Rückkehr.
+
+- [Conseil d’État – Entscheidung 98340 u. a., 24.11.1978](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000007663591) · Die Anweisung vom 05.07.1974 betraf Verträge zur Neueinführung ausländischer Arbeitskräfte; einzelne Gruppen waren ausgenommen. Der Conseil d’État erklärte die Anweisung wegen fehlender Zuständigkeit für unwirksam.
+  Quellenzugriff am 2026-11-26. Zeitgenössischer französischer Originalbericht bzw. gerichtliche Primärquelle im Volltext. Amtliches Urteil zum Geltungsbereich der Anweisung.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -800,6 +805,54 @@ Bewertungsuebergang: Als Belegt getrennt erfasst am 26.11.2026 durch Kai; frühe
 
 - [Bidet, Haddad und Veron: Archivstudie zum BUMIDOM, Revue européenne des migrations internationales](https://journals.openedition.org/remi/pdf/28089) · S. 127–130: BUMIDOM-Tätigkeitsberichte und Individualakten belegen Arbeitsvermittlung als eigenes Arbeitsfeld; unter bestimmten Bedingungen nachträglich anteilige Reisekostenübernahme für selbst organisierte Reisen.
   Quellenzugriff am 2026-11-26. Originalpublikation, Archivmaterial und Tab. 2 geprüft. Tätigkeitsberichte und Individualakten; Arbeitsvermittlung und Ausbildung getrennt ausgewiesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## smBg5wh2nHw-A0062
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Angehörige bereits ansässiger ausländischer Arbeitskräfte konnten nach dem Anwerbestopp im Rahmen des Familiennachzugs nach Frankreich kommen.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:19:47–00:19:56](https://www.youtube.com/watch?v=smBg5wh2nHw&t=1187s) · nicht bestaetigt; Kandidat: Sinan · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Bestätigt**.
+
+Grundlage der Sprecherzuordnung: Die Zuordnung ergibt sich aus der fortlaufenden Moderation im Untertitelkontext.
+
+Grundlage des Aussagebezugs: Die Aussage oder Einordnung wird im Moderationstext selbst vorgetragen.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähre Fundstelle nach der Angabe zum Verbleib bestehender Einwohner.
+
+Zeitgrundlage: Automatisches deutsches Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Familiennachzug war 1974 zunächst ebenfalls ausgesetzt und wurde laut zeitgenössischem Senatsbericht zum 01.07.1975 wieder gestattet. Das Dekret vom 29.04.1976 schuf einen Rahmen mit Voraussetzungen zum rechtmäßigen Aufenthalt, zur Wohnung und zu den Mitteln des Haushalts. So war Familiennachzug möglich; er war weder seit dem ersten Tag durchgängig offen noch für alle Familien voraussetzungslos.
+
+Grundlage der Bewertung: Kai; deutschsprachiges automatisches Originalplayer-Transkript und zeitgenössische staatliche Primärquellen. Kein separater Hör- oder Sichtabgleich.
+
+Uebernahme: Familiennachzug von der unabhängig prüfbaren Frage des fortbestehenden Aufenthalts getrennt.
+
+Bewertungsuebergang: Neuer eigener Prüfpunkt Belegt am 26.11.2026 (Kai, HP-C0011), vorher mit A0036 bewertet.
+
+### Zugeordnete Quellen
+
+- [YouTube-Videoseite und Veröffentlichungsmetadaten](https://www.youtube.com/watch?v=smBg5wh2nHw) · SinansWoche / YouTube, Veröffentlichung am 23.10.2026.
+  Quellenzugriff am 2026-11-20. Mit dem Projektimport ausgelesenes Veröffentlichungsdatum und Laufzeit. Eigenständige Angabe zur Familienmigration bei etwa 19:47.
+
+- [Französischer Senat – Bericht zum Haushalt 1979: Migration und Arbeitsmarkt](https://www.senat.fr/rap/1978-1979/i1978_1979_0074_03_33.pdf) · S. 47–48 zur Aussetzung der Anwerbung und zur Wiederzulassung des Familiennachzugs; S. 55–56 zur Wahl zwischen Verbleib und freiwilliger Rückkehr, tatsächlichen Rückkehrhilfen und weiteren Erneuerungen von Arbeitstiteln.
+  Quellenzugriff am 2026-11-26. Zeitgenössischer französischer Originalbericht bzw. gerichtliche Primärquelle im Volltext. Zeitgenössische Bestätigung der Wiederzulassung zum Juli 1975.
+
+- [Französischer Senat – Bericht zum Familiennachzug, 1978/79](https://www.senat.fr/leg/1978-1979/i1978_1979_0401.pdf) · S. 3: Aussetzung des Familiennachzugs 1974, Wiederzulassung 1. Juli 1975 und Dekret 29. April 1976 mit Anforderungen an Aufenthalt, Einkommen und Wohnung.
+  Quellenzugriff am 2026-11-26. Zeitgenössischer französischer Originalbericht bzw. gerichtliche Primärquelle im Volltext. Zeitgenössischer Bericht zur Chronologie und den Bedingungen des Dekrets.
 
 ### Offene Fragen und Unsicherheiten
 

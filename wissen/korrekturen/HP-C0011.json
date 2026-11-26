@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "HP-C0011",
+  "kind": "Quelle falsch interpretiert",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "smBg5wh2nHw-A0036",
+    "entryId": null,
+    "description": "Fortbestehendes Aufenthaltsrecht und spätere Möglichkeit des Familiennachzugs wurden zu einem Urteil zusammengefasst."
+  },
+  "evidence": [
+    {
+      "title": "Französischer Senat – Bericht zum Haushalt 1979: Migration und Arbeitsmarkt",
+      "url": "https://www.senat.fr/rap/1978-1979/i1978_1979_0074_03_33.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "S. 47–48 zur Aussetzung der Anwerbung und zur Wiederzulassung des Familiennachzugs; S. 55–56 zur Wahl zwischen Verbleib und freiwilliger Rückkehr, tatsächlichen Rückkehrhilfen und weiteren Erneuerungen von Arbeitstiteln."
+    },
+    {
+      "title": "Französischer Senat – Bericht zum Familiennachzug, 1978/79",
+      "url": "https://www.senat.fr/leg/1978-1979/i1978_1979_0401.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "S. 3: Aussetzung des Familiennachzugs 1974, Wiederzulassung 1. Juli 1975 und Dekret 29. April 1976 mit Anforderungen an Aufenthalt, Einkommen und Wohnung."
+    },
+    {
+      "title": "Conseil d’État – Entscheidung 98340 u. a., 24.11.1978",
+      "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000007663591",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Anweisung vom 05.07.1974 betraf Verträge zur Neueinführung ausländischer Arbeitskräfte; einzelne Gruppen waren ausgenommen. Der Conseil d’État erklärte die Anweisung wegen fehlender Zuständigkeit für unwirksam."
+    }
+  ],
+  "affected": [
+    {
+      "target": "smBg5wh2nHw-A0036",
+      "reason": "Fortbestehende Aufenthaltsmöglichkeit nach Ende der Neuanwerbung."
+    },
+    {
+      "target": "smBg5wh2nHw-A0062",
+      "reason": "Eigenständige Möglichkeit der Familiennachholung nach den jeweils geltenden Bedingungen."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Aufenthalt und Familiennachzug trennen",
+    "date": "2026-11-26",
+    "basis": "Der Originalkontext erklärt Bestandsmigration und die folgenden Familienwege. Zeitgenössische amtliche Quellen bestätigen beide in konkret benannter zeitlicher und rechtlicher Reichweite; keine Garantie für jeden einzelnen Aufenthalt behauptet."
+  },
+  "changes": [
+    {
+      "target": "smBg5wh2nHw-A0036",
+      "field": "description",
+      "before": "Wer nach Ende der Anwerbung bereits in Frankreich lebte, blieb, und Angehörige konnten nachziehen.",
+      "after": "Regulär bereits in Frankreich lebende ausländische Arbeitskräfte konnten trotz des Anwerbestopps 1974 im Land bleiben."
+    },
+    {
+      "target": "smBg5wh2nHw-A0036",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "smBg5wh2nHw-A0036",
+      "field": "reason",
+      "before": "Nach dem vorläufigen Stopp von 1974 regelte das Dekret vom 29. April 1976 den Nachzug für berechtigte Angehörige unter bestimmten Voraussetzungen. Das stützt den Kern zur Familienmigration. Weder das Dekret noch die Erläuterung des Museums belegen die pauschale Aussage, dass alle schon ansässigen Personen blieben.",
+      "after": "Die damalige Anweisung betraf neue Arbeitsverträge für die Einreise; sie beendete nicht pauschal bereits rechtmäßige Aufenthalte. Ein zeitgenössischer Senatsbericht dokumentiert fortgesetzte Verlängerungen von Arbeitstiteln und stellt fest, dass Berechtigte zwischen freiwilliger Rückkehr und Verbleib wählen konnten. Die Aussage im Zusammenhang erklärt die fortbestehende Niederlassung, nicht, dass ausnahmslos jeder blieb: Bis Juli 1978 waren auch 17.988 Anträge auf Rückkehrhilfe im Bericht als bewilligt erfasst."
+    },
+    {
+      "target": "smBg5wh2nHw-A0062",
+      "field": "verdict",
+      "before": null,
+      "after": "Belegt"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Gemeldet; Betroffene automatisch über gleiche Quelle, Verknüpfungen und Abhängigkeiten ermittelt."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Originalplayer, zwei zeitgenössische Senatsberichte und Gerichtstext unabhängig geprüft."
+    }
+  ]
+}

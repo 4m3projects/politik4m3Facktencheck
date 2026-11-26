@@ -5,11 +5,11 @@
   "videoId": "smBg5wh2nHw",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 61,
-  "uniqueStatements": 48,
+  "statementRecords": 62,
+  "uniqueStatements": 49,
   "referenceOnlyStatements": 13,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 48,
+  "assertionOccurrences": 49,
   "additionalAssertionOccurrences": 0,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 13,
@@ -18,34 +18,34 @@
     "Offen": 0,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 2,
-    "Abgeschlossen": 46
+    "Abgeschlossen": 47
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 43,
+    "Tatsachenbehauptung": 44,
     "Meinung": 4,
     "Prognose": 1
   },
-  "completedFacts": 41,
+  "completedFacts": 42,
   "openFacts": 0,
   "inProgressFacts": 0,
   "unverifiableFacts": 2,
-  "percentageDenominator": 41,
+  "percentageDenominator": 42,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 29,
-      "completedFactPercent": 70.7
+      "completedCount": 31,
+      "completedFactPercent": 73.8
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 4,
-      "completedFactPercent": 9.8
+      "completedCount": 3,
+      "completedFactPercent": 7.1
     },
     {
       "category": "Irreführend / Kontext fehlt",
       "completedCount": 2,
-      "completedFactPercent": 4.9
+      "completedFactPercent": 4.8
     },
     {
       "category": "Widerlegt",
@@ -55,7 +55,7 @@
     {
       "category": "Nicht ausreichend belegbar",
       "completedCount": 6,
-      "completedFactPercent": 14.6
+      "completedFactPercent": 14.3
     },
     {
       "category": "Meinung / Prognose",
@@ -109,18 +109,18 @@
         ]
       }
     ],
-    "eligibleFacts": 43,
+    "eligibleFacts": 44,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 43,
-    "factsWithUncertainAttribution": 43,
+    "factsWithoutReliablePerson": 44,
+    "factsWithUncertainAttribution": 44,
     "factsWithUncertainOwnRole": 0,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 61,
+      "Plausibel": 62,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
-      "Bestätigt": 61,
+      "Bestätigt": 62,
       "Plausibel": 0,
       "Ungeklärt": 0
     }
