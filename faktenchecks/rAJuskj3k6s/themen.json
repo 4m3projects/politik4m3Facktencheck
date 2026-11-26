@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "videoId": "rAJuskj3k6s",
+  "basis": "Zuordnung anhand des deutschen Originalplayer-Transkripts und der Zeitfenster der erfassten Aussagen.",
+  "topics": [
+    {
+      "topic": "internationale-politik",
+      "relevance": "Schwerpunkt",
+      "basis": "Entwicklungszusammenarbeit in Jemen, Indien und Peru.",
+      "segments": [
+        {
+          "startSeconds": 399,
+          "endSeconds": 946,
+          "note": "Länderbeispiele zur deutschen Entwicklungszusammenarbeit."
+        }
+      ]
+    },
+    {
+      "topic": "wirtschaft",
+      "relevance": "Behandelt",
+      "basis": "GIZ-Mittel, Indien im BIP-Vergleich sowie peruanische Zuschüsse und Kredite.",
+      "segments": [
+        {
+          "startSeconds": 470,
+          "endSeconds": 646,
+          "note": "GIZ-Kosten und Rückforderungen."
+        },
+        {
+          "startSeconds": 707,
+          "endSeconds": 772,
+          "note": "Indien im nominalen IWF-BIP-Vergleich."
+        },
+        {
+          "startSeconds": 853,
+          "endSeconds": 908,
+          "note": "Radwegfinanzierung und Auszahlungen."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "rAJuskj3k6s-A0008",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0009",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0010",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0011",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0012",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0013",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0014",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0015",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0016",
+      "topics": [
+        "internationale-politik",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0017",
+      "topics": [
+        "internationale-politik",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0018",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0019",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0020",
+      "topics": [
+        "internationale-politik",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0021",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0022",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0023",
+      "topics": [
+        "internationale-politik",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0024",
+      "topics": [
+        "internationale-politik",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0025",
+      "topics": [
+        "internationale-politik"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0026",
+      "topics": [
+        "internationale-politik",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0027",
+      "topics": [
+        "internationale-politik",
+        "wirtschaft"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Bezug zu internationaler Politik und Wirtschaft mit Aussagezuordnungen erfasst."
+    }
+  ]
+}
