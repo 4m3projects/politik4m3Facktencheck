@@ -11,7 +11,7 @@
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
     "researchNote": "Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.",
-    "coverageNote": "Zweiter Teilbestand: ausgewählte Aussagen bis 23:55 und Wiederholung um 50:22, keine durchgehende Abdeckung. Insbesondere der Mittelteil, historische Rechtsfragen und weitere politische Aussagen sind noch nicht vollständig inventarisiert. Keine Gesamtfehlerzahl."
+    "coverageNote": "Dritter Teilbestand: ausgewählte Stellen zu Drogenpolitik, dem OVG-Urteil von März 2019, Klimaprotesten und Wahlalter bis 53:30. Keine durchgehende Inventur; weitere Originalaussagen und ausgelassene Abschnitte bleiben offen. Keine Gesamtfehlerzahl."
   },
   "speakers": [
     {
@@ -221,6 +221,54 @@
       "details": "Abschnitt D.1 und Fußnote 20: modellierte Pfade der damaligen Paris-Zusagen und bedingte langfristige Erwärmung.",
       "accessedOn": "2026-11-26",
       "accessBasis": "Relevante Stelle im verlinkten Originaltext geöffnet und gelesen."
+    },
+    {
+      "id": "S026",
+      "title": "EMCDDA – Niederlande, Länderbericht 2018",
+      "url": "https://www.euda.europa.eu/system/files/media/publications/documents/8877/netherlands-cdr-2018-with-numbers.pdf",
+      "details": "Kapitel zum Betäubungsmittelrecht: niederländische Duldungspolitik und Anforderungen an Coffeeshops.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S027",
+      "title": "Portugiesisches Gesetzblatt – Lei n.º 30/2000 vom 29.11.2000",
+      "url": "https://files.diariodarepublica.pt/1s/2000/11/276a00/68296833.pdf",
+      "details": "Artikel 2: Eigenbedarf; Artikel 29: Inkrafttreten der Entkriminalisierung am 01.07.2001.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S028",
+      "title": "Hughes und Stevens – Portuguese Decriminalization of Illicit Drugs (2010)",
+      "url": "https://kar.kent.ac.uk/29910/1/Hughes%20%20Stevens%202010.pdf",
+      "details": "Empirische Untersuchung zu Konsum, Schäden und Strafjustiz; Vergleichstrends und Grenzen der kausalen Zuordnung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S029",
+      "title": "Bund Deutscher Kriminalbeamter NRW – Klarstellung zur Cannabis-Position, 08.02.2018",
+      "url": "https://www.bdk.de/der-bdk/was-wir-tun/aktuelles/bdk-landesverband-nordrhein-westfalen-lehnt-legalisierung-von-cannabis-entschieden-ab",
+      "details": "Dokumentiert zum damaligen Zeitpunkt den Bundesbeschluss zur Entkriminalisierung von Konsumierenden und die Unterscheidung zur Legalisierung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S030",
+      "title": "Bundeswahlleiter – Schätzung der Wahlberechtigten zur Bundestagswahl 2017",
+      "url": "https://www.bundeswahlleiterin.de/info/presse/mitteilungen/bundestagswahl-2017/01_17_wahlberechtigte.html",
+      "details": "Altersverteilung der geschätzten Wahlberechtigten; keine Zählung abgegebener Stimmen, keine Europawahl.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S031",
+      "title": "OVG Nordrhein-Westfalen – Mündliche Gründe des Urteils vom 19.03.2019, 4 A 1361/15",
+      "url": "https://www.ovg.nrw.de/behoerde/presse/pressemitteilungen/01_archiv/2019/11_190319/Muendliche_Urteilsbegruendung.pdf",
+      "details": "S. 1–4: keine aktive deutsche Teilnahme oder Gestattung; tatsächliche Anhaltspunkte und staatliche Schutzpflicht im konkreten Verfahren.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage der zeitgenössischen Urteilsgründe geöffnet und gelesen."
     }
   ],
   "claims": [
@@ -1800,6 +1848,345 @@
       ],
       "relations": [],
       "verdict": "Belegt"
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0033",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In den Niederlanden werde Cannabiskonsum im Rahmen der dortigen Drogenpolitik geduldet.",
+      "status": "Abgeschlossen",
+      "reason": "Der zeitgenössische EMCDDA-Bericht beschreibt, dass niederländische Gemeinden Verkauf und Konsum in Coffeeshops unter bestimmten Bedingungen dulden konnten. Diese Praxis war keine generelle Legalisierung von Besitz, Verkauf oder Anbau.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S026",
+          "note": "Rechtsrahmen und Duldung von Coffeeshops."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0034",
+          "startSeconds": 1588,
+          "endSeconds": 1595,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Belegt"
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0034",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Portugal hatte mehr als 15 Jahre zuvor den persönlichen Umgang mit Drogen entkriminalisiert.",
+      "status": "Abgeschlossen",
+      "reason": "Das Gesetz trat am 1. Juli 2001 in Kraft, knapp 18 Jahre vor dem Video. Konsum, Erwerb und Besitz zum Eigenkonsum wurden im Rahmen der gesetzlichen Vorgaben verwaltungsrechtlich behandelt, nicht allgemein legalisiert. Handel und Anbau waren davon nicht als erlaubte Tätigkeiten umfasst.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S027",
+          "note": "Artikel 2, 28 und 29 in der damaligen Originalfassung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0035",
+          "startSeconds": 1595,
+          "endSeconds": 1604,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Belegt"
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0035",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die portugiesische Drogenreform habe sich bewährt.",
+      "status": "Abgeschlossen",
+      "reason": "Die damalige Auswertung fand keinen starken Konsumanstieg und Hinweise auf weniger problematischen Konsum, weniger Schäden und geringere Belastung der Strafjustiz. Die Befunde erlauben aber keine pauschale Aussage zu sämtlichen Kennzahlen und keinen sicheren Nachweis, dass die Rechtsänderung allein die Ursache war; Hilfsangebote wurden zugleich ausgebaut.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S028",
+          "note": "Ergebnis und Grenzen des Vergleichs; Drogenpolitik umfasste mehr als den Rechtswechsel."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0036",
+          "startSeconds": 1595,
+          "endSeconds": 1604,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Teilweise belegt",
+      "shortReason": "Für mehrere Ziele gibt es positive Befunde; die Rechtsänderung allein erklärt sie nicht."
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0036",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Bund Deutscher Kriminalbeamter sprach sich für die Entkriminalisierung von Cannabiskonsumierenden aus.",
+      "status": "Abgeschlossen",
+      "reason": "Die Klarstellung des Landesverbandes NRW aus dem Jahr 2018 bestätigt die Position auf Bundesebene. Sie trennt Entkriminalisierung von einer allgemeinen Legalisierung. Ein Verbandsbeschluss ist keine repräsentative Erhebung unter allen Polizeibeschäftigten.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S029",
+          "note": "Stellungnahme des Verbandes und Verweis auf den damaligen Beschluss."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0037",
+          "startSeconds": 1671,
+          "endSeconds": 1678,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Belegt"
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0038",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Rezo stellt die Nutzung des Standorts so dar, als hätten CDU und SPD den USA die betreffenden Drohneneinsätze erlaubt.",
+      "status": "Abgeschlossen",
+      "reason": "Die zugespitzte Darstellung verwischt die Unterscheidung zwischen der Nutzung eines Standorts und deutscher Gestattung konkreter Einsätze. Das OVG NRW stellte im März 2019 keine aktive deutsche Beteiligung oder Gestattung fest. Es sah aber im konkreten Verfahren eine nicht hinreichend erfüllte staatliche Schutzpflicht. Die politische Bewertung eines Unterlassens ist von einer ausdrücklichen Erlaubnis zu trennen.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S031",
+          "note": "S. 1–2: Trennung von aktivem Handeln und Schutzpflicht. Der überzeichnete Wortlaut wird nicht als Nachweis einer Parteientscheidung gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0039",
+          "startSeconds": 1990,
+          "endSeconds": 2007,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Irreführend / Kontext fehlt",
+      "shortReason": "Das OVG unterschied fehlende deutsche Gestattung von einer nicht hinreichend erfüllten Schutzpflicht."
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0039",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein Gericht entschied, Deutschland müsse die Rechtmäßigkeit der betroffenen Einsätze überprüfen.",
+      "status": "Abgeschlossen",
+      "reason": "Das OVG NRW verpflichtete Deutschland im März 2019 in dem konkreten Verfahren, sich über die Vereinbarkeit der Einsatzpraxis in der Region der Kläger im Jemen mit dem Völkerrecht zu vergewissern und nötigenfalls auf Einhaltung hinzuwirken. Das Gericht ordnete kein allgemeines Verbot der Nutzung des Standorts an. Aussage zum Stand Mai 2019, nicht zum späteren Instanzenzug.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S031",
+          "note": "S. 2–3: Inhalt und räumlicher Umfang der damaligen Verpflichtung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0040",
+          "startSeconds": 2386,
+          "endSeconds": 2401,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Belegt"
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0037",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Menschen ab 70 hätten rund anderthalbmal so viele Stimmen wie alle Wahlberechtigten unter 30.",
+      "status": "Abgeschlossen",
+      "reason": "Die in der zeitgenössischen Spiegelung von Rezos Quellenliste für den Schlussteil nachgetragene Bundeswahlleiter-Quelle schätzt für die Bundestagswahl 2017 12,7 Millionen Wahlberechtigte ab 70 und 9,4 Millionen zwischen 18 und 29. Das sind etwa 1,35 statt 1,5, also rund 35 Prozent mehr. Damit stimmt die Richtung, aber die Quelle misst weder abgegebene Stimmen noch die Altersverteilung der Europawahl 2019.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S030",
+          "note": "12,7 Mio. ab 70; 2,2 Mio. von 18 bis unter 21 und 7,2 Mio. von 21 bis unter 30."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0038",
+          "startSeconds": 3202,
+          "endSeconds": 3217,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Teilweise belegt",
+      "shortReason": "Die angegebene Quelle zur Bundestagswahl 2017 ergibt rund 1,35 und zählt Wahlberechtigte, nicht Stimmen."
     }
   ],
   "legacyPoints": []

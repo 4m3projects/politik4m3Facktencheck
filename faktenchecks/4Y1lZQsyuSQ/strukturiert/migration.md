@@ -2,6 +2,6 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Zweiter Teilbestand: ausgewählte Aussagen bis 23:55 und Wiederholung um 50:22, keine durchgehende Abdeckung. Insbesondere der Mittelteil, historische Rechtsfragen und weitere politische Aussagen sind noch nicht vollständig inventarisiert. Keine Gesamtfehlerzahl.
+Abdeckung: Dritter Teilbestand: ausgewählte Stellen zu Drogenpolitik, dem OVG-Urteil von März 2019, Klimaprotesten und Wahlalter bis 53:30. Keine durchgehende Inventur; weitere Originalaussagen und ausgelassene Abschnitte bleiben offen. Keine Gesamtfehlerzahl.
 
 Keine Altpunkte migriert; dieser Datenbestand erfasst Aussagen direkt.

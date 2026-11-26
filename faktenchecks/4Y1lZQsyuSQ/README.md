@@ -17,6 +17,10 @@
 
 **CO₂-Preis und Klimaproteste:** Die Zeitangaben und Zahlen wurden mit zeitgenössischen Unterlagen der Weltbank, dem IPCC und der Initiative Scientists for Future abgeglichen. Der britische Klimarat nannte Anfang Mai 2019 bereits 46 Länder mit Bepreisung; dazu gehörten auch Länder im gemeinsamen EU-Emissionshandel.
 
+**Drogenpolitik und Wahlberechtigte:** Portugals Entkriminalisierung von 2001 ist gesetzlich dokumentiert und war keine Legalisierung des Handels. Die für den Altersvergleich auffindbare Bundeswahlleiter-Quelle ergibt bei der Bundestagswahl 2017 rund 35 Prozent mehr Wahlberechtigte ab 70 als unter 30, nicht 50 Prozent mehr abgegebene Stimmen.
+
+**Ramstein:** Das OVG NRW sah im März 2019 eine Schutzpflicht Deutschlands im konkreten Jemen-Verfahren, stellte aber keine aktive deutsche Teilnahme oder Gestattung der Einsätze fest. Das damalige Urteil verlangte Prüfung, kein pauschales Verbot.
+
 ## Prüfgrenzen
 
 Bisher ist nur ein Teilbestand quellengeprüft, mit Einzelbefunden zur CO₂-Bepreisung und einer Wiederholung der Scientists-for-Future-Zahl im Schlussteil. Das Video ist noch nicht durchgehend erfasst. Die deutschen Untertitel sind über den Originalplayer sichtbar; Fundstellen sind ungefähre Suchfenster. Bildmaterial und Originalton wurden nicht separat kontrolliert. Das genaue Aufnahmedatum ist nicht belegt; als spätester Stichtag gilt daher die Veröffentlichung am **18. Mai 2019**. Spätere Erkenntnisse und politische Entwicklungen werden davon getrennt. Die verlinkte Original-Quellenliste antwortet nicht mehr; eine zeitgenössische Spiegelung hilft beim Auffinden der Originalstudien, gilt aber nicht als unabhängiger Sachbeleg. Wiederholungen, Wertungen und Fremdzitate nicht als mehrere Rezo-Fehler zählen. Die Wahlwirkung ist nicht Teil dieser ersten Bewertung.
