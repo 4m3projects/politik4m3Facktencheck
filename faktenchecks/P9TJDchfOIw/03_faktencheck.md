@@ -2,7 +2,7 @@
 
 ## 1. Mandate, PKG-Wahl und Sitzungswunsch
 
-Die endgültige Wahlstatistik weist 83 Sitze aus: 39 AfD, 15 CDU, je acht SPD, Grüne und Linke sowie fünf BSW. Somit erfordert die Wahl des Ministerpräsidenten in den ersten beiden Wahlgängen mindestens 42 Stimmen. Das tatsächliche 44-Ja-Ergebnis für zwei AfD-Vertreter im Parlamentarischen Kontrollgremium liegt über dieser Schwelle. Die Abstimmung war geheim; ein verlässlicher Rückschluss auf genau fünf BSW-Stimmen ist daher ausgeschlossen. Siegmund kündigte den 8. Dezember an. Der übernommene MDR-Befund nennt einen fehlenden formellen Antrag am Nachmittag des 19. November; der Stand am Veröffentlichungstag des Videos ist ungeklärt.
+Die endgültige Wahlstatistik weist 83 Sitze aus: 39 AfD, 15 CDU, je acht SPD, Grüne und Linke sowie fünf BSW. Somit erfordert die Wahl des Ministerpräsidenten in den ersten beiden Wahlgängen mindestens 42 Stimmen. Das tatsächliche 44-Ja-Ergebnis für zwei AfD-Vertreter im Parlamentarischen Kontrollgremium liegt über dieser Schwelle. Die Abstimmung war geheim; ein verlässlicher Rückschluss auf genau fünf BSW-Stimmen ist daher ausgeschlossen. Siegmund kündigte den 8. Dezember an; der Einstieg stellt die Vorverlegung jedoch schon als vollzogen dar. Zum Veröffentlichungstag am 20. November war der Wahlvorschlag laut Fraktionsauskunft noch nicht eingereicht. Der Antrag auf Sondersitzung und der Wahlvorschlag wurden am 25. November als formell eingereicht gemeldet. Eine Ankündigung oder ein Antrag ist noch keine Einberufung.
 
 ## 2. Rundfunkstaatsvertrag
 

@@ -39,13 +39,13 @@
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 1,
-      "completedFactPercent": 4.5
+      "completedCount": 0,
+      "completedFactPercent": 0.0
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 0,
-      "completedFactPercent": 0.0
+      "completedCount": 1,
+      "completedFactPercent": 4.5
     },
     {
       "category": "Widerlegt",

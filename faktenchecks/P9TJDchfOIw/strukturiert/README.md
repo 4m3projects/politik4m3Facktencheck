@@ -37,8 +37,8 @@ Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eig
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
 | Belegt | 21 | 95.5 % |
-| Teilweise belegt | 1 | 4.5 % |
-| Irreführend / Kontext fehlt | 0 | 0.0 % |
+| Teilweise belegt | 0 | 0.0 % |
+| Irreführend / Kontext fehlt | 1 | 4.5 % |
 | Widerlegt | 0 | 0.0 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 1 | nicht anwendbar |
