@@ -442,6 +442,10 @@ a.card:hover { transform: translateY(-2px); border-color: var(--line-strong); }
   background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-s); padding: 10px 14px;
   transition: border-color .15s, box-shadow .15s; scroll-margin: 8px;
 }
+.vc-item[hidden] { display: none; }
+.vc-overview { margin-bottom: 20px; }
+.vc-filters { margin-block: 12px 6px; }
+.vc-filters input[type="search"] { min-width: 0; }
 .vc-item.is-current { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
 .vc-item.is-near { border-style: dashed; border-color: var(--accent); }
 .vc-item-top { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; }
