@@ -95,13 +95,13 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Ein früherer langer Brief des Sprechers an Alfred sei vermutlich in einer Sendung angesprochen worden.
+**Eigene Beschreibung:** Der in Alfreds Sendung erwähnte Zuschauerbrief könnte ein früherer Brief des Sprechers gewesen sein.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
-- [00:00:18–00:00:30](https://www.youtube.com/watch?v=gVQeb83GHDQ&t=18s) · nicht bestaetigt; Kandidat: Jens Christ · Behauptung · Ungefähr
+- [00:00:18–00:00:35](https://www.youtube.com/watch?v=gVQeb83GHDQ&t=18s) · nicht bestaetigt; Kandidat: Jens Christ · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
 
 Grundlage der Sprecherzuordnung: Einziger Sprecher des Shorts; stellt sich zu Beginn selbst als Jens Christ vor, das Video erscheint auf seinem Kanal Politik4m3. Kein Stimmabgleich.
@@ -110,37 +110,36 @@ Grundlage des Aussagebezugs: Ich-Erzählung im Monolog; als eigene Aussage ersch
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+Fundstellenhinweis: Die Fundstelle enthält die ausdrückliche Einschränkung und unterscheidet zwei Mitteilungen. Kein Ton-/Bildabgleich.
 
-Zeitgrundlage: Automatische deutsche Originaluntertitel (Fassung de-orig); Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+Zeitgrundlage: Automatisches deutsches Originalplayer-Transkript des Shorts, geprüft 26.11.2026.
+
+Frueherer Suchbereich: [00:00:18–00:00:30](https://www.youtube.com/watch?v=gVQeb83GHDQ&t=18s), Ungefähr. Frühere Fundstelle; mit der gesamten Einschränkung bis etwa 0:35 erweitert.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Im jüngsten Alfred-Video vom 19.11.2026 sagt die KI-Figur gleich zu Beginn, mehrere Zuschauer hätten sich diesen Gast gewünscht, einer sogar mit einem langen Brief, den sie gelesen habe. Dass in der Sendung ein langer Brief angesprochen wurde, ist damit belegt. Den Absender nennt das Video nicht. Der Sprecher schreibt in seinen Kommentaren, er habe das Naomi-Seibt-Interview zuvor in einem ausführlichen YouTube-Kommentar vorgeschlagen, und hält es selbst nur für eine starke Vermutung, dass dieser gemeint war; bestätigen könnte das nur der Kanal. In zwei früheren Alfred-Videos (14.11. und 18.11.2026) kommt kein Brief vor.
+Noch nicht geprüft – die Identität des Absenders ist nicht unabhängig geklärt. Im Short grenzt der Sprecher den früheren Brief vom aktuellen Kommentar ab und formuliert die Zuordnung ausdrücklich als Vermutung. Laut vorhandener Analyse der Folge vom 19.11. wurde ein langer Zuschauerbrief ohne Absender erwähnt. Ein solcher Verweis allein bestätigt die Zuordnung nicht. Das Transkript dieser Folge war beim erneuten Originalplayer-Abruf nicht verfügbar; die sichtbaren Kommentare und die Suche lieferten keine eindeutige Zuordnung.
 
-Grundlage der Bewertung: Eigenständige Auswertung der vollständig gelesenen automatischen deutschen Originaluntertitel (keine Audio-/Videokontrolle) und der in sourceRefs genannten, tatsächlich gelesenen Quellen.
+Grundlage der Bewertung: Kai, 26.11.2026: Wortlaut im automatischen deutschen Originalplayer-Transkript des Shorts gelesen. Separate Alfred-Folge am selben Tag im Player aufgerufen, dort war kein Transkript verfügbar; ältere Quellenangaben bezeichnen den damaligen Zugriff.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Erstbewertung durch Claude am 19.11.2026.
+Bewertungsuebergang: Erstbewertung Teilweise belegt (Claude, 19.11.); nach Wortlaut- und Quellenprüfung am 26.11. Offen ohne Urteil (Kai, HP-C0009).
 
 ### Zugeordnete Quellen
 
+- [„Frag doch deine KI!“ (YouTube Short)](https://www.youtube.com/watch?v=gVQeb83GHDQ) · Kanal Politik4m3; laut Metadaten veröffentlicht am 19.11.2026, Laufzeit 178 Sekunden, Hochformat (2160 × 3840), ohne Kapitelmarken; als Short über youtube.com/shorts/gVQeb83GHDQ verbreitet.
+  Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel (de-orig) vollständig gelesen; Metadaten und Beschreibung nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Aussage bei etwa 0:18–0:35; als Möglichkeit formuliert.
+
 - [Alfred räumt auf: Hatte Musk keine Zeit für Epsteins Insel? Naomi Seibt bei Ungeskriptet](https://www.youtube.com/watch?v=BOIqGtGuShM) · Kanal Alfred räumt auf, veröffentlicht am 19.11.2026, Laufzeit 944 Sekunden; das jüngste Video des Kanals zum Erstelldatum des Shorts.
-  Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel gezielt nach Stichwörtern durchsucht und die Fundstellen im Zusammenhang gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Erwähnung eines langen Zuschauerbriefs zu Beginn (etwa 00:00:17–00:00:21, automatische Untertitel); Absender nicht genannt.
+  Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: automatische deutsche Originaluntertitel gezielt nach Stichwörtern durchsucht und die Fundstellen im Zusammenhang gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Laut vorhandener Quellenprüfung wurde ein Zuschauerbrief erwähnt, aber kein Absender genannt.
 
 - [Öffentlicher Kommentarverlauf unter dem Alfred-Video BOIqGtGuShM](https://www.youtube.com/watch?v=BOIqGtGuShM) · Kommentar des Kanals Politik4m3 vom 19.11.2026 mit Antworten eines anderen Nutzers und weiteren Antworten von Politik4m3; Zeitangaben relativ (vor 30 Minuten bis vor 5 Stunden zum Zeitpunkt der Aufnahme). Der Name des anderen Nutzers wird hier bewusst nicht genannt.
-  Quellenzugriff am 2026-11-19. Elf Bildschirmfotos des Kommentarverlaufs und der YouTube-Benachrichtigungen, am 19.11.2026 vom Kanalbetreiber (zugleich Sprecher des Shorts und Auftraggeber) bereitgestellt und vollständig gelesen. Kein eigener Abruf der Kommentare; der Inhalt ist daher nicht unabhängig von der Seite des Sprechers erhoben. Bildschirmfotos des öffentlichen Kommentarverlaufs, vom Sprecher selbst bereitgestellt; kein eigener Abruf.
-
-- [Alfred räumt auf: Hat er recht beim Selbstbestimmungsgesetz? Sinan bei IT Camper](https://www.youtube.com/watch?v=GbhI-p_ycJE) · Kanal Alfred räumt auf, veröffentlicht am 18.11.2026. Die Beschreibung bezeichnet den Kanal als Projekt von SinansWoche und nennt Sinan als Erbauer der KI-Figur.
-  Quellenzugriff am 2026-11-19. Beschreibung und Metadaten aus der privaten Ablage gelesen (Projekt-Importskript, Abruf 18.11.2026); automatische deutsche Untertitel am 19.11.2026 gezielt nach Stichwörtern durchsucht. Keine Hör-/Sichtkontrolle. Untertitel gezielt durchsucht: kein Bezug auf einen Brief.
-
-- [Alfred räumt auf: Wächst das Eis am Südpol? Markus Krall bei Ungeskriptet](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Kanal Alfred räumt auf, veröffentlicht am 14.11.2026.
-  Quellenzugriff am 2026-11-19. Automatische deutsche Untertitel aus der privaten Ablage am 19.11.2026 gezielt nach Stichwörtern durchsucht (Brief, Zuschauer, Kommentar, Jens, Politik, Nachricht, Mail u. a.). Keine Hör-/Sichtkontrolle. Untertitel gezielt durchsucht: kein Bezug auf einen Brief, nur allgemeiner Aufruf zu Gastwünschen in den Kommentaren.
+  Quellenzugriff am 2026-11-19. Elf Bildschirmfotos des Kommentarverlaufs und der YouTube-Benachrichtigungen, am 19.11.2026 vom Kanalbetreiber (zugleich Sprecher des Shorts und Auftraggeber) bereitgestellt und vollständig gelesen. Kein eigener Abruf der Kommentare; der Inhalt ist daher nicht unabhängig von der Seite des Sprechers erhoben. Ältere, nicht unabhängig erhobene Dokumentation enthält die Vermutung des Sprechers, keine Bestätigung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Ob der erwähnte Brief der frühere Vorschlagskommentar des Sprechers war, kann nur der Kanal Alfred räumt auf bestätigen; der frühere Kommentar selbst wurde nicht gelesen.
+- Originalstelle 0:17–0:21 der Alfred-Folge BOIqGtGuShM bei verfügbarem Ton/Transkript erneut kontrollieren. Eine öffentlich zuordenbare frühere Mitteilung und eine ausdrückliche Bezugnahme im Kanal sind als Identitätsbeleg zu suchen. Ohne solche Zuordnung kein Endurteil.
 
 ## gVQeb83GHDQ-A0004
 

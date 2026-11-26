@@ -9,6 +9,11 @@
       "date": "2026-11-19",
       "agent": "Claude",
       "change": "Erstprüfung der 12 Aussagen auf Themen: keine passt zu einem vorhandenen Sachthema, Zuordnung bewusst leer; keine Bewertung geändert."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Zuordnung des Zuschauerbriefs erneut geprüft; vorhandene Themen unverändert."
     }
   ]
 }

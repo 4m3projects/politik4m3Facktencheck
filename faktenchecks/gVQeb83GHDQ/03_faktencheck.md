@@ -16,7 +16,7 @@ Stand: 19.11.2026. Eigenständige Erfassung durch Claude. Die automatischen deut
 - **Länge von Shorts:** Belegt. Seit dem 15.10.2024 dürfen Shorts bis zu drei Minuten lang sein; der Short selbst dauert 178 Sekunden.
 - **Faktencheck-Seiten auf GitHub und KI-Nutzung:** Belegt. Es gibt zwei öffentliche Faktencheck-Projekte mit eigener Webseite. Ihre Projektregeln beschreiben, dass KI-Agenten den Großteil der Arbeit übernehmen und der Sprecher steuert und freigibt. Das ergänzt seine Darstellung, er nutze dafür sein eigenes Gehirn.
 - **Alfred räumt auf gehört zu Sinan:** Belegt durch die Kanalbeschreibung selbst.
-- **Langer Brief:** Teilweise belegt. Im jüngsten Alfred-Video wird ein langer Zuschauerbrief erwähnt, der Absender aber nicht genannt; der Sprecher äußert es selbst nur als Vermutung.
+- **Langer Brief:** Offen. Die bisherige Quellenprüfung erfasst eine anonyme Erwähnung in Alfreds Folge; sie beweist nicht, dass der erwähnte Brief vom Sprecher stammt. Im Short äußert er das ausdrücklich nur als Vermutung.
 - **Ohne KI geschrieben, ohne Skript gesprochen:** Nicht überprüfbar.
 - **Kommentarwechsel:** Belegt. Kommentar unter dem jüngsten Alfred-Video, der Rat, das eigene Hirn zu benutzen, der Verweis auf die KI und die spätere herabsetzende Antwort sind so im Verlauf zu sehen. Grundlage sind Bildschirmfotos des Sprechers selbst, kein eigener Abruf.
 

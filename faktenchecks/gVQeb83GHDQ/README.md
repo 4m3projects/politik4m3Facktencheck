@@ -1,8 +1,8 @@
 # „Frag doch deine KI!“ – Short von Politik4m3: unabhängiger Faktencheck
 
-**Status: Faktenprüfung abgeschlossen – Vollbestand**
+**Status: Vollbestand erfasst; Briefzuordnung offen**
 
-Stand: 19.11.2026.
+Erststand: 19.11.2026. Gezielte Nachprüfung der Briefzuordnung: 26.11.2026.
 
 - Original: [YouTube Short, Video-ID gVQeb83GHDQ](https://www.youtube.com/watch?v=gVQeb83GHDQ) (auch unter youtube.com/shorts/gVQeb83GHDQ)
 - Format: YouTube Short (hochkant, ohne Kapitelmarken)
@@ -21,7 +21,7 @@ Der Sprecher betreibt auch dieses Faktencheck-Projekt und hat diese Prüfung sel
 
 Die automatisch erzeugten deutschen Originaluntertitel wurden vollständig gelesen (Text von 00:00:00 bis 00:02:59). Das ist keine Hör- oder Sichtkontrolle. Zum Abgleich wurden die Untertitel dreier Videos des Kanals Alfred räumt auf gezielt durchsucht und die Beschreibung eines davon gelesen, außerdem die YouTube-Hilfe zur Länge von Shorts und die beiden Faktencheck-Repositorys auf GitHub. Den Kommentarwechsel belegen Bildschirmfotos, die der Sprecher selbst bereitgestellt hat; die Kommentare wurden nicht eigenständig abgerufen. Namen anderer Nutzer werden nicht genannt.
 
-Der Datenstand erfasst den ganzen Short mit zwölf Prüfgegenständen: acht Tatsachenbehauptungen sind mit Quellen bewertet (sieben belegt, eine teilweise belegt), zwei sind Meinungen, zwei sind mit Grund als nicht überprüfbar gekennzeichnet. Keine Aussage ist mehr offen.
+Der Datenstand erfasst den ganzen Short mit zwölf Prüfgegenständen: sieben Tatsachenbehauptungen sind belegt, die vermutete Zuordnung des Zuschauerbriefs bleibt ohne Urteil offen, zwei sind Meinungen und zwei sind mit Grund als nicht überprüfbar gekennzeichnet.
 
 - [Kurzbeschreibung](01_kurz.md)
 - [Eigenes Themenregister und Abdeckung](02_analyse.md)
