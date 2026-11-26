@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "HP-C0007",
+  "kind": "Quelle falsch interpretiert",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "rAJuskj3k6s-A0011",
+    "entryId": null,
+    "description": "Unabhängigkeit des fachlichen Urteils und Vorgaben des Auftraggebers wurden als eine Aussage bewertet."
+  },
+  "evidence": [
+    {
+      "title": "GIZ – Methodik zentraler Projektevaluierungen",
+      "url": "https://www.giz.de/sites/default/files/media/document/2025-06/giz-2023-de-das-evaluierungssystem-der-giz-zentrale-projektevaluierungen-im-bmz-geschaeft-2022.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "S. 4 (organisatorisch getrennte Stabsstelle, externe Teams, verbindliche BMZ-Leitlinien und weitere Referenzrahmen), S. 6 (eigene fachliche Wertung der Evaluierenden und Prüfung der Nachvollziehbarkeit)."
+    }
+  ],
+  "affected": [
+    {
+      "target": "rAJuskj3k6s-A0011",
+      "reason": "Eigenständiges Urteil externer Evaluierender."
+    },
+    {
+      "target": "rAJuskj3k6s-A0031",
+      "reason": "Herkunft und Grenzen der Kriterien des BMZ-Geschäfts."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Eigenständige Teilbehauptungen trennen",
+    "date": "2026-11-26",
+    "basis": "Originalplayer-Text und GIZ-Leitfaden bestätigen beide unterschiedlichen Aussagen. Die im selben Abschnitt genannte Bindung an Maßstäbe bleibt sichtbar; kein Urteil zu einer losgelösten Behauptung uneingeschränkter Methodenfreiheit."
+  },
+  "changes": [
+    {
+      "target": "rAJuskj3k6s-A0011",
+      "field": "description",
+      "before": "Externe Evaluierende arbeiten eigenständig; der Rahmen kommt von den Auftraggebern.",
+      "after": "Bei den zentralen GIZ-Projektevaluierungen beurteilen externe Gutachtende die Projekte fachlich eigenständig."
+    },
+    {
+      "target": "rAJuskj3k6s-A0011",
+      "field": "reason",
+      "before": "Externe Gutachtende sind in der Methode vorgesehen, und BMZ-Vorgaben definieren Teile des Rahmens. Die Freiheit gilt innerhalb etablierter BMZ-/OECD-Kriterien, nicht beliebig; der Evaluierungsapparat ist bei der GIZ verankert.",
+      "after": "Die GIZ setzt externe Evaluierungsteams ein. Ihre Berichte geben nach dem GIZ-Leitfaden das fachliche Urteil der Teams wieder. Eine organisatorisch vom operativen Geschäft getrennte GIZ-Stabsstelle steuert das Verfahren und prüft die Nachvollziehbarkeit. Alfred nennt im selben Abschnitt den vorgegebenen Bewertungsrahmen; die eigene fachliche Wertung ist keine Freiheit von verbindlichen Kriterien."
+    },
+    {
+      "target": "rAJuskj3k6s-A0011",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "rAJuskj3k6s-A0031",
+      "field": "verdict",
+      "before": null,
+      "after": "Belegt"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Gemeldet; Betroffene automatisch über gleiche Quelle, Verknüpfungen und Abhängigkeiten ermittelt."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Originalstelle und GIZ-Leitfaden direkt nachgeprüft. Andere Treffer teilen nur Quellen und ändern ihren Prüfgegenstand nicht."
+    }
+  ]
+}
