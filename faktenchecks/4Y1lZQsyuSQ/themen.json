@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "videoId": "4Y1lZQsyuSQ",
+  "basis": "Erste inhaltliche Zuordnung aus dem Originalplayer-Transkript; Rechts-, Außenpolitik- und Medienabschnitte folgen.",
+  "topics": [
+    {
+      "topic": "wahlen",
+      "relevance": "Behandelt",
+      "basis": "Einordnung vor der Europawahl.",
+      "segments": [
+        {
+          "startSeconds": 49,
+          "endSeconds": 65,
+          "note": "Wahltermin."
+        }
+      ]
+    },
+    {
+      "topic": "wirtschaft",
+      "relevance": "Schwerpunkt",
+      "basis": "Vermögen, Verteilung, Steuern und Bildungsausgaben.",
+      "segments": [
+        {
+          "startSeconds": 132,
+          "endSeconds": 306,
+          "note": "Wirtschafts- und Bildungsblock."
+        }
+      ]
+    },
+    {
+      "topic": "energie",
+      "relevance": "Schwerpunkt",
+      "basis": "Klimapolitik, Erzeugung und Beschäftigung.",
+      "segments": [
+        {
+          "startSeconds": 362,
+          "endSeconds": 592,
+          "note": "Erderwärmung und Treibhausgase."
+        },
+        {
+          "startSeconds": 930,
+          "endSeconds": 1164,
+          "note": "Klimaziele, Kohle und Solar."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "4Y1lZQsyuSQ-A0001",
+      "topics": [
+        "wahlen"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0002",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0003",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0004",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0005",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0006",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0007",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0008",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0009",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0010",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0011",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0012",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0013",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0014",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0015",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0016",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0017",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0018",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0019",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0020",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0021",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0022",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0023",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0024",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0025",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0026",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0027",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0028",
+      "topics": [
+        "energie"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Erste Themenzuordnung im Teilbestand; vorhandene IDs genutzt."
+    }
+  ]
+}

@@ -1,0 +1,1503 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "4Y1lZQsyuSQ",
+    "videoUrl": "https://www.youtube.com/watch?v=4Y1lZQsyuSQ",
+    "durationSeconds": 3297,
+    "asOf": "2026-11-26",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "Kai: Deutsches Transkript direkt im YouTube-Originalplayer geöffnet (418 Zeitsegmente von 0:00 bis 54:48 sichtbar); erste ausgewählte Stellen aus dem ersten Drittel bearbeitet. Zeitgenössische Originalquellen, Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht belegt). Kein Bild- und Tonabgleich.",
+    "coverageNote": "Erster Teilbestand: geprüfte Stellen aus 00:49–19:24, inklusive explizit offener Fragen. Noch keine vollständige Inventur, insbesondere Kapitel ab ca. 19:24 fehlen. Keine Gesamtfehlerzahl; Ampel darf keine Vollprüfung suggerieren."
+  },
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Rezo",
+      "videoRole": "Autor und Moderation",
+      "identityBasis": "Kanal, Beschreibung und monologische Passagen im Originalplayer."
+    }
+  ],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Bundeswahlleiter – Wahltermin, 20.09.2018",
+      "url": "https://www.bundeswahlleiterin.de/mitteilungen/europawahlen/2019/20180920_wahltermin.html",
+      "details": "Bekanntgabe des 26. Mai 2019 als deutscher Wahltag.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S002",
+      "title": "Bundestag – Kohl und Schröder, Parlamentsgeschichte",
+      "url": "https://www.bundestag.de/webarchiv/textarchiv/2010/29101652_kw13_kohl-201396",
+      "details": "Kohls Amtsbeginn 1982 und Regierungswechsel 1998.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S003",
+      "title": "Bundestag – Hintergrund zur Bundesregierung und Merkels Wiederwahl 2018",
+      "url": "https://www.bundestag.de/parlament/grundgesetz/gg-serie-08-bundesregierung-634548",
+      "details": "Historische Regierungswechsel und vierte Merkel-Regierung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S004",
+      "title": "Bundesregierung – Rede Angela Merkels vom Januar 2009",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/rede-von-bundeskanzlerin-dr-angela-merkel-799382",
+      "details": "Dresdner Ziel für gemeinsame Ausgaben für Bildung und Forschung bis 2015.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S005",
+      "title": "Destatis – Bildung, Forschung und Wissenschaft 2015, Meldung vom März 2017",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2017/03/PD17_097_217.html",
+      "details": "2015: 9,1 Prozent des BIP im Gesamtbudget; Bildungsbudget allein ist eine andere Kennzahl.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S006",
+      "title": "Bach, Thiemann, Zucco – Looking for the Missing Rich (2018)",
+      "url": "https://www.diw.de/de/diw_01.c.575700.de/publikationen/diskussionspapiere/2018_1717/looking_for_the_missing_rich__tracing_the_top_tail_of_the_wealth_distribution.html",
+      "details": "DIW-Diskussionspapier zur Haushaltsvermögensverteilung und Zuschätzung an der Spitze.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S007",
+      "title": "WMO – Vier bis 2018 wärmste Jahre, 6. Februar 2019",
+      "url": "https://wmo.int/es/media/la-omm-confirma-que-los-ultimos-cuatro-anos-han-sido-los-mas-calidos-desde-que-se-tienen-registros",
+      "details": "Bestätigung des damaligen globalen Temperaturvergleichs.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S008",
+      "title": "WMO – Klimastand 2018",
+      "url": "https://wmo.int/news/media-centre/wmo-climate-statement-past-4-years-warmest-record",
+      "details": "Globaler Temperaturtrend und zeitgenössische Einordnung des Jahres 2018.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S009",
+      "title": "IPCC – Sonderbericht zu 1,5 Grad, 2018",
+      "url": "https://www.ipcc.ch/sr15/chapter/spm/",
+      "details": "A.1 und C.1: Erwärmung, Unsicherheit und CO₂-Budget.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S010",
+      "title": "IPCC – Fünfter Sachstandsbericht, Arbeitsgruppe I",
+      "url": "https://www.ipcc.ch/site/assets/uploads/2018/04/WGI_AR5_2013_Poster.pdf",
+      "details": "Anthropogene Treiber, Unsicherheitsintervall und CO₂-Konzentration.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S011",
+      "title": "NOAA – 2018er CO₂-Stand am Mauna Loa, März 2019",
+      "url": "https://prod-01-alb-www-noaa.woc.noaa.gov/news/global-carbon-dioxide-growth-in-2018-reached-4th-highest-on-record",
+      "details": "407,05 bis 409,92 ppm im Jahreslauf an der Station und rund 280 ppm vorindustriell.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S012",
+      "title": "UNFCCC – Pariser Übereinkommen, Originaltext",
+      "url": "https://unfccc.int/sites/default/files/english_paris_agreement.pdf",
+      "details": "Artikel 2 Absatz 1 Buchstabe a, Temperaturziele.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S013",
+      "title": "UNFCCC – Vertragsstatus Deutschland",
+      "url": "https://unfccc.int/node/180158",
+      "details": "Deutschland unterzeichnete am 22. April 2016.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S014",
+      "title": "DLR/DIW/GWS – Ökonomische Indikatoren der Energiebereitstellung, 2018",
+      "url": "https://elib.dlr.de/119426/2/diwkompakt_2018-127.pdf",
+      "details": "Tabelle 85 bzw. Abschnitt 4.3 nach Energieträgern, Solarindustrie, 126.400 (2012) und 48.800 (2015); Rückgang nicht auf eine Einzelursache reduzibel.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S015",
+      "title": "Umweltbundesamt – Beschäftigte der Braunkohlenindustrie, 2018",
+      "url": "https://www.umweltbundesamt.de/sites/default/files/medien/3521/publikationen/2018-07-25_climate-change_18-2018_beschaeftigte-braunkohleindustrie.pdf",
+      "details": "2015 lagen die geschätzten Beschäftigtenzahlen der Braunkohle bei rund 20.600; nicht alle Kohlesektoren.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    },
+    {
+      "id": "S016",
+      "title": "YouTube – Rezos Originalvideo",
+      "url": "https://www.youtube.com/watch?v=4Y1lZQsyuSQ",
+      "details": "Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft."
+    }
+  ],
+  "claims": [
+    {
+      "id": "4Y1lZQsyuSQ-A0001",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Europawahl in Deutschland stand am nächsten Wochenende an.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Wahltermin Sonntag, 26. Mai 2019, war seit September 2018 bekannt; das Video erschien am Samstag, 18. Mai.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S001",
+          "note": "Bekanntgabe des 26. Mai 2019 als deutscher Wahltag."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0001",
+          "startSeconds": 49,
+          "endSeconds": 65,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0002",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Rezo verwendet „CDU“ im Video meist als Kurzform für CDU und/oder CSU; beide bilden im Bundestag die Union.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "CDU und CSU sind getrennte Parteien, die im Bundestag gemeinsam die Unionsfraktion bilden. Er macht seinen Sprachgebrauch ausdrücklich kenntlich.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Kohls Amtsbeginn 1982 und Regierungswechsel 1998."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Historische Regierungswechsel und vierte Merkel-Regierung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0002",
+          "startSeconds": 100,
+          "endSeconds": 116,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0003",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die CSU sei vereinfacht gesagt die bayerische CDU.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Ausdrücklich vereinfachender Vergleich, keine Behauptung, dass es juristisch dieselbe Partei ist.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0003",
+          "startSeconds": 108,
+          "endSeconds": 116,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0004",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Quellenliste bildet die Kürzel der Einblendungen ab.",
+      "status": "Offen",
+      "reason": "Die verlinkte Originalfassung ist derzeit nicht zugänglich; eine zeitgenössische Spiegelung ist gefunden, aber Einblendungen noch nicht einzeln abgeglichen.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Die verlinkte Originalfassung ist derzeit nicht zugänglich; eine zeitgenössische Spiegelung ist gefunden, aber Einblendungen noch nicht einzeln abgeglichen."
+      ],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0004",
+          "startSeconds": 116,
+          "endSeconds": 131,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": null
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0005",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die Union sei im Ergebnis keine Partei für alle Schichten.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Politisches Urteil; die dazu vorgelegten Statistiken und Ursachen sind getrennt zu prüfen.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0005",
+          "startSeconds": 132,
+          "endSeconds": 147,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0006",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Union stellte in den rund 36 Jahren vor Mai 2019 etwa 29 Jahre den Bundeskanzler oder die Bundeskanzlerin.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "In diesem Zeitfenster regierten Kohl bis 1998 und Merkel ab 2005; dazwischen lagen rund sieben Jahre unter Schröder. Das heißt nicht, dass die Union allein regierte.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Kohls Amtsbeginn 1982 und Regierungswechsel 1998."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Historische Regierungswechsel und vierte Merkel-Regierung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0006",
+          "startSeconds": 141,
+          "endSeconds": 148,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0007",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die CDU trage die politische Hauptverantwortung für die gezeigten Entwicklungen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Kausale Zuschreibung auf Basis ausgewählter Trends, kein direktes Ergebnis der Regierungsjahresrechnung.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0007",
+          "startSeconds": 148,
+          "endSeconds": 166,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0008",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Schere zwischen unteren 50 und oberen 10 Prozent sei über den Zeitraum stetig größer geworden.",
+      "status": "Offen",
+      "reason": "Achsen, Zeitreihe und Einkommens-/Vermögensdefinition der eingeblendeten Grafik müssen separat identifiziert werden.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Achsen, Zeitreihe und Einkommens-/Vermögensdefinition der eingeblendeten Grafik müssen separat identifiziert werden."
+      ],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0008",
+          "startSeconds": 148,
+          "endSeconds": 165,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": null
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0009",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Armut sei in Deutschland in den Jahren vor dem Video konstant gestiegen.",
+      "status": "Offen",
+      "reason": "Maß, betrachtete Jahre und mögliche Zwischenrückgänge anhand der verwendeten Reihe noch prüfen.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Maß, betrachtete Jahre und mögliche Zwischenrückgänge anhand der verwendeten Reihe noch prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0009",
+          "startSeconds": 157,
+          "endSeconds": 165,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": null
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0010",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Erbschaften und Schenkungen seien damals bedeutender für große Vermögen als früher.",
+      "status": "Offen",
+      "reason": "Originalwortlaut sowie Geltungsbereich der zitierten Studie noch prüfen.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Originalwortlaut sowie Geltungsbereich der zitierten Studie noch prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0010",
+          "startSeconds": 165,
+          "endSeconds": 181,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": null
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0011",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die reichsten 45 Haushalte hätten so viel Nettovermögen wie die ärmere Hälfte, die im Video mit über 40 Millionen Personen gleichgesetzt wird.",
+      "status": "Offen",
+      "reason": "Der Primäransatz untersucht Haushaltsvermögen. Die konkrete Vergleichszahl, Vermögensdefinition und Übertragung von Haushalten auf Personen müssen noch anhand der Tabellen und der Rezo-Grafik getrennt abgesichert werden.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S006",
+          "note": "DIW-Diskussionspapier zur Haushaltsvermögensverteilung und Zuschätzung an der Spitze."
+        }
+      ],
+      "openQuestions": [
+        "Der Primäransatz untersucht Haushaltsvermögen. Die konkrete Vergleichszahl, Vermögensdefinition und Übertragung von Haushalten auf Personen müssen noch anhand der Tabellen und der Rezo-Grafik getrennt abgesichert werden."
+      ],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0011",
+          "startSeconds": 181,
+          "endSeconds": 197,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": null
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0012",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Steuerlast habe sich in rund 20 Jahren relativ von Reichen zu Ärmeren verschoben.",
+      "status": "Offen",
+      "reason": "Genaues Jahr, Einkommensgruppen und Zusammensetzung aus direkten und indirekten Abgaben in der Originalstudie und Grafik abgleichen.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Genaues Jahr, Einkommensgruppen und Zusammensetzung aus direkten und indirekten Abgaben in der Originalstudie und Grafik abgleichen."
+      ],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0012",
+          "startSeconds": 197,
+          "endSeconds": 212,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": null
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0013",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sozialer und migrationsbezogener Hintergrund spielen bei den Bildungschancen in Deutschland im Industrieländervergleich stark mit.",
+      "status": "Offen",
+      "reason": "PISA-Erhebungswelle und Maße der beiden Gruppen müssen getrennt geprüft werden.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        }
+      ],
+      "openQuestions": [
+        "PISA-Erhebungswelle und Maße der beiden Gruppen müssen getrennt geprüft werden."
+      ],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0013",
+          "startSeconds": 235,
+          "endSeconds": 252,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": null
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0014",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutschland gebe gemessen an anderen Industriestaaten deutlich weniger für Bildung aus.",
+      "status": "Offen",
+      "reason": "Vergleichsgruppe, Jahr und Nenner der im Video genutzten OECD-Kennzahl noch offen.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Vergleichsgruppe, Jahr und Nenner der im Video genutzten OECD-Kennzahl noch offen."
+      ],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0014",
+          "startSeconds": 259,
+          "endSeconds": 276,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": null
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0015",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bis 2015 sollten in Deutschland zehn Prozent des BIP für Bildung und Forschung aufgewendet werden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Merkel nannte das Ziel 2009 ausdrücklich; es war eine Bund-Länder-Vereinbarung, keine Zusage allein für den Bundeshaushalt.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Dresdner Ziel für gemeinsame Ausgaben für Bildung und Forschung bis 2015."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0015",
+          "startSeconds": 276,
+          "endSeconds": 283,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0016",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutschland habe bis 2015 nicht einmal die Hälfte des Zehn-Prozent-Ziels für Bildung und Forschung erreicht.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Das harmonierte Ziel bezog sich auf Bildung und Forschung zusammen. Destatis weist für 2015 für Bildung, Forschung und Wissenschaft 9,1 Prozent des BIP aus. Auch wenn das Ziel nicht erreicht wurde, lag der Wert klar über der Hälfte von zehn Prozent. Eine isolierte Bildungskennzahl derselben Veröffentlichung lässt sich nicht mit der kombinierten Zielmarke vergleichen.",
+      "shortReason": "Die gemeinsame amtliche Kennzahl lag 2015 bei 9,1 Prozent des BIP, nicht unter fünf Prozent.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Dresdner Ziel für gemeinsame Ausgaben für Bildung und Forschung bis 2015."
+        },
+        {
+          "sourceId": "S005",
+          "note": "2015: 9,1 Prozent des BIP im Gesamtbudget; Bildungsbudget allein ist eine andere Kennzahl."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0016",
+          "startSeconds": 283,
+          "endSeconds": 290,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0017",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "2018 war zum damaligen Stand das viertwärmste Jahr; 2015 bis 2018 waren die vier wärmsten Jahre der globalen Messreihe.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das war der von der WMO Anfang 2019 bestätigte Vergleich; spätere Rekordjahre ändern die Bewertung im Mai 2019 nicht.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S007",
+          "note": "Bestätigung des damaligen globalen Temperaturvergleichs."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Globaler Temperaturtrend und zeitgenössische Einordnung des Jahres 2018."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0017",
+          "startSeconds": 362,
+          "endSeconds": 377,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0018",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Erwärmung treibe Naturkatastrophen und verursache jährlich Kosten von Hunderten Milliarden sowie Millionen Fluchtbewegungen.",
+      "status": "Offen",
+      "reason": "Die Aussagen sind nach Ereignisart, Schadensbegriff, Vertreibung und kausalem Anteil in weitere Einzelpunkte aufzuteilen.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Die Aussagen sind nach Ereignisart, Schadensbegriff, Vertreibung und kausalem Anteil in weitere Einzelpunkte aufzuteilen."
+      ],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0018",
+          "startSeconds": 377,
+          "endSeconds": 400,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": null
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0019",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Erde war bereits etwa ein Grad wärmer als vor der Industrialisierung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der IPCC-Sonderbericht 2018 schätzte rund ein Grad menschengemachter Erwärmung, mit einer wahrscheinlichen Spanne von 0,8 bis 1,2 Grad.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S009",
+          "note": "A.1 und C.1: Erwärmung, Unsicherheit und CO₂-Budget."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0019",
+          "startSeconds": 416,
+          "endSeconds": 424,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0020",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Kohlendioxid und Methan verstärken den Treibhauseffekt; CO₂ ist der größte Einzelbeitrag zur menschengemachten Erwärmung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Beide sind relevante anthropogen vermehrte Treibhausgase; CO₂ stellt den größten einzelnen Strahlungsantrieb im IPCC-Vergleich.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S010",
+          "note": "Anthropogene Treiber, Unsicherheitsintervall und CO₂-Konzentration."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0020",
+          "startSeconds": 455,
+          "endSeconds": 472,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0021",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die CO₂-Konzentration sei über Millionen Jahre ziemlich gleich geblieben.",
+      "status": "Offen",
+      "reason": "Den Übergang von kurzfristigem natürlichem Kreislauf zur Aussage über Millionen Jahre und den Bezug der eingeblendeten Quelle am Original prüfen.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Den Übergang von kurzfristigem natürlichem Kreislauf zur Aussage über Millionen Jahre und den Bezug der eingeblendeten Quelle am Original prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0021",
+          "startSeconds": 504,
+          "endSeconds": 513,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": null
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0022",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der seit vorindustrieller Zeit aufgelaufene atmosphärische CO₂-Anstieg lag in der Größenordnung von 45 Prozent und ist menschengemacht.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Aus rund 280 und etwas über 407 ppm ergibt sich ein Anstieg um rund 45 Prozent. Der Haupttreiber der Zunahme waren fossile Emissionen; Landnutzungsänderungen tragen ebenfalls bei.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S010",
+          "note": "Anthropogene Treiber, Unsicherheitsintervall und CO₂-Konzentration."
+        },
+        {
+          "sourceId": "S011",
+          "note": "407,05 bis 409,92 ppm im Jahreslauf an der Station und rund 280 ppm vorindustriell."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0022",
+          "startSeconds": 513,
+          "endSeconds": 537,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0023",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die jüngere globale Erwärmung sei zu 100 Prozent menschengemacht.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der zentrale AR5-Schätzwert für 1951–2010 liegt nahe an der beobachteten Erwärmung. Das ist kein exakt bestimmter 100-Prozent-Wert ohne Bandbreite und kein Urteil über jede frühere Klimaänderung.",
+      "shortReason": "Der beste IPCC-Schätzwert liegt nahe an der beobachteten jüngeren Erwärmung, aber nicht bei exakt abgesicherten 100 Prozent.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S010",
+          "note": "Anthropogene Treiber, Unsicherheitsintervall und CO₂-Konzentration."
+        },
+        {
+          "sourceId": "S009",
+          "note": "A.1 und C.1: Erwärmung, Unsicherheit und CO₂-Budget."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0023",
+          "startSeconds": 529,
+          "endSeconds": 537,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0024",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nur 0,7 Prozent aller Veröffentlichungen würden den menschlichen Anteil an der Erwärmung gänzlich verneinen.",
+      "status": "Offen",
+      "reason": "Originalstudie und Nenner prüfen, insbesondere die Behandlung von Publikationen ohne ausdrückliche Position.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Originalstudie und Nenner prüfen, insbesondere die Behandlung von Publikationen ohne ausdrückliche Position."
+      ],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0024",
+          "startSeconds": 576,
+          "endSeconds": 592,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": null
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0025",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutschland unterzeichnete das Pariser Abkommen; es sieht deutlich unter zwei Grad und Anstrengungen für 1,5 Grad vor.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Deutschland unterzeichnete 2016. Artikel 2 formuliert deutlich unter zwei Grad und Bemühungen, die Erwärmung auf 1,5 Grad zu begrenzen.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Artikel 2 Absatz 1 Buchstabe a, Temperaturziele."
+        },
+        {
+          "sourceId": "S013",
+          "note": "Deutschland unterzeichnete am 22. April 2016."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0025",
+          "startSeconds": 930,
+          "endSeconds": 955,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0026",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Für ein festes Erwärmungsziel gibt es ein verbleibendes CO₂-Budget.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Sonderbericht benennt endliche CO₂-Restbudgets; Zahlen hängen unter anderem von Eintrittswahrscheinlichkeit und Nicht-CO₂-Gasen ab.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S009",
+          "note": "A.1 und C.1: Erwärmung, Unsicherheit und CO₂-Budget."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0026",
+          "startSeconds": 955,
+          "endSeconds": 963,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0027",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Kohleindustrie stehe für rund 20.000 Arbeitsplätze.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Zahl ist als Größenordnung der damaligen Braunkohlenindustrie belegt. Sie ist keine Gesamtzahl aller Beschäftigten in Stein- und Braunkohle sowie indirekten Bereichen.",
+      "shortReason": "Rund 20.000 entsprach der Größenordnung für Braunkohle, nicht pauschal für alle Kohlebereiche.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S015",
+          "note": "2015 lagen die geschätzten Beschäftigtenzahlen der Braunkohle bei rund 20.600; nicht alle Kohlesektoren."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0027",
+          "startSeconds": 1118,
+          "endSeconds": 1135,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0028",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Von 2012 bis 2015 gingen rund 80.000 Arbeitsplätze in der Photovoltaik verloren; CDU und SPD hätten sie durch gebremsten Ausbau abgebaut.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die zeitgenössische Studie weist für Solarenergie etwa 77.600 weniger Bruttobeschäftigte aus. Sie beschreibt neben dem Inlandsmarkt unter anderem starken Preis- und Wettbewerbsdruck. Die ganze Differenz ist keinem einzelnen Regierungsbeschluss zurechenbar; 2012 regierten Union und FDP.",
+      "shortReason": "Die Größenordnung stimmt für die Solarbranche; der gesamte Rückgang lässt sich nicht der CDU und SPD allein zuschreiben.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Fundstelle in den deutschen Originalplayer-Untertiteln."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Tabelle 85 bzw. Abschnitt 4.3 nach Energieträgern, Solarindustrie, 126.400 (2012) und 48.800 (2015); Rückgang nicht auf eine Einzelursache reduzibel."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0028",
+          "startSeconds": 1135,
+          "endSeconds": 1164,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "legacyPoints": []
+}
