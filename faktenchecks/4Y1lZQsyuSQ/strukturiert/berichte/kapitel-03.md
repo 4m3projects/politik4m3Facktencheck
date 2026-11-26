@@ -1,6 +1,6 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fünfter Teilbestand: zusätzliche Sachprüfungen zu Kohlewirtschaft, Urheberrechtsreform und Irakkriegsbegründung von 20:15 bis 32:23. Es fehlt weiterhin eine durchgehende Inventur einschließlich weiterer Aussagen im Schlussteil. Keine Gesamtfehlerzahl und kein vollständiger Bild- und Tonabgleich.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Sechster Teilbestand: jetzt mit zusätzlichem Quellenabgleich der beiden IOM-Zahlen zur internationalen Migration bei 13:06. Teile des Videos und der genaue Bild- und Tonabgleich bleiben offen; keine Gesamtfehlerzahl.
 
 Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 
@@ -368,6 +368,57 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 
 - [Cook et al. – Quantifying the consensus on anthropogenic global warming (2013)](https://doi.org/10.1088/1748-9326/8/2/024024) · Tabellen 2 und 3, Originalaufsatz: Auswahl der Abstracts, Kategorien und prozentuale Verteilung.
   Quellenzugriff am 2026-11-26. Relevante Passage im verlinkten Dokument geöffnet und gelesen. Tabellen 2 und 3: Kriterien, 78 ablehnende Abstracts und verwendeter Nenner.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 4Y1lZQsyuSQ-A0048
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die IOM habe zunächst rund 230 Millionen und dann über 400 Millionen Menschen prognostiziert, die bis 2050 wegen des Klimawandels in andere Länder fliehen müssten.
+
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:13:06–00:13:22](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=786s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Zahlen finden sich tatsächlich im angeführten IOM-Bericht. Dort stehen 230 Millionen (Schätzung von 2003) und 405 Millionen (Aktualisierung 2010) für alle internationalen Migrantinnen und Migranten, unabhängig vom Grund, und nicht für klimabedingte Zwangsflucht. Die 405 Millionen sind eine bedingte Fortschreibung bei gleichbleibendem Wachstum, keine Revision allein wegen einer verschärften Klimakrise. Dass sich Klimafolgen auf Migration auswirken können, stellt die IOM davon getrennt dar.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [IOM – World Migration Report 2018, Kapitel 1, S. 2 (veröffentlicht 2017)](https://publications.iom.int/books/world-migration-report-2018-chapter-1-report-overview-making-sense-migration-increasingly) · Abschnitt „How is migration changing?“: 230 Millionen (Projektion von 2003), 405 Millionen (revidierte Projektion von 2010), beide für internationale Migration insgesamt. Maßgebliche Seite im indexierten Volltext der IOM gelesen.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im öffentlich indexierten Volltext der IOM gelesen; Fundstelle im Originaldokument angegeben. Kapitel 1, S. 2 mit Fußnoten 4 und 5: beide Zahlen und ihr Bezugsrahmen.
+
+- [IOM – World Migration Report 2010, S. 3](https://publications.iom.int/books/world-migration-report-2010-future-migration-building-capacities-change) · 405 Millionen als mögliche Fortschreibung des Bestands internationaler Migranten weltweit, falls das Wachstum der vorangegangenen 20 Jahre anhielte. Maßgebliche Seite im indexierten Volltext der IOM gelesen.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im öffentlich indexierten Volltext der IOM gelesen; Fundstelle im Originaldokument angegeben. S. 3: 405 Millionen als bedingte Fortschreibung des weltweiten Bestands.
+
+- [IOM – Migration in the Twenty-First Century, MC/2310/Rev.1, Abs. 3–5](https://www.iom.int/sites/g/files/tmzbdl486/files/jahia/webdav/shared/shared/mainsite/about_iom/en/council/99/MC_2310_Rev1.pdf) · Die IOM nennt mehrere Treiber; die 405 Millionen werden ausdrücklich als Wenn-dann-Fortschreibung der gesamten internationalen Migration berechnet.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im öffentlich indexierten Volltext der IOM gelesen; Fundstelle im Originaldokument angegeben. Absätze 3–5 unterscheiden den möglichen zusätzlichen Einfluss des Klimawandels von der reinen Trendfortschreibung.
 
 ### Offene Fragen und Unsicherheiten
 

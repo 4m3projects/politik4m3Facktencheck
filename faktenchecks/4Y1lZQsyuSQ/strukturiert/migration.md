@@ -2,6 +2,6 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Fünfter Teilbestand: zusätzliche Sachprüfungen zu Kohlewirtschaft, Urheberrechtsreform und Irakkriegsbegründung von 20:15 bis 32:23. Es fehlt weiterhin eine durchgehende Inventur einschließlich weiterer Aussagen im Schlussteil. Keine Gesamtfehlerzahl und kein vollständiger Bild- und Tonabgleich.
+Abdeckung: Sechster Teilbestand: jetzt mit zusätzlichem Quellenabgleich der beiden IOM-Zahlen zur internationalen Migration bei 13:06. Teile des Videos und der genaue Bild- und Tonabgleich bleiben offen; keine Gesamtfehlerzahl.
 
 Keine Altpunkte migriert; dieser Datenbestand erfasst Aussagen direkt.
