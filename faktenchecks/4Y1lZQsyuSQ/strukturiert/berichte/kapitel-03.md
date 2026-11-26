@@ -1,6 +1,6 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Sechster Teilbestand: jetzt mit zusätzlichem Quellenabgleich der beiden IOM-Zahlen zur internationalen Migration bei 13:06. Teile des Videos und der genaue Bild- und Tonabgleich bleiben offen; keine Gesamtfehlerzahl.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Siebter Teilbestand: Originaltextfenster zu Klima-Rückkopplung, Energiekosten, CO₂-Budget, Sibiu und Klimaprotesten ergänzt. Keine durchgehende Erfassung, Gesamtfehlerzahl oder vollständige Bild- und Tonprüfung.
 
 Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 
@@ -373,6 +373,54 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
+## 4Y1lZQsyuSQ-A0049
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Bei einer Erwärmung über 1,5 °C sei eine unaufhaltsame Erwärmungsspirale extrem wahrscheinlich.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:12:10–00:12:35](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=730s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der IPCC-Sonderbericht warnt vor mit zusätzlicher Erwärmung steigenden Risiken und vor teils irreversiblen Veränderungen einzelner Systeme. Steffen und Mitautoren untersuchten als Hypothese eine selbstverstärkende Kaskade und diskutierten als mögliche Größenordnung etwa 2 °C. Daraus folgt weder eine für das ganze Erdsystem nachgewiesene Schwelle bei genau 1,5 °C noch die behauptete sehr hohe Eintrittswahrscheinlichkeit direkt oberhalb davon. Das Risiko von Kippprozessen ist dennoch real und substantiell.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [IPCC – Global Warming of 1.5°C, Zusammenfassung für politische Entscheidungsträger (2018)](https://www.ipcc.ch/sr15/chapter/spm/) · Abschnitt D.1 und Fußnote 20: modellierte Pfade der damaligen Paris-Zusagen und bedingte langfristige Erwärmung.
+  Quellenzugriff am 2026-11-26. Relevante Stelle im verlinkten Originaltext geöffnet und gelesen. Abschnitte B.1 und B.4: Risiken bei verschiedenen Erwärmungsniveaus, keine solche globale Schwelle.
+
+- [Steffen et al. – Trajectories of the Earth System in the Anthropocene (2018)](https://doi.org/10.1073/pnas.1810141115) · Die Studie untersucht einen hypothetischen Kaskadeneffekt; Lage einer möglichen planetaren Schwelle und Eintritt sind nicht gesichert.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Mögliche Kaskade als untersuchte Hypothese; offene Schwelle und Forschungsbedarf.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
 ## 4Y1lZQsyuSQ-A0048
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
@@ -419,6 +467,54 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 
 - [IOM – Migration in the Twenty-First Century, MC/2310/Rev.1, Abs. 3–5](https://www.iom.int/sites/g/files/tmzbdl486/files/jahia/webdav/shared/shared/mainsite/about_iom/en/council/99/MC_2310_Rev1.pdf) · Die IOM nennt mehrere Treiber; die 405 Millionen werden ausdrücklich als Wenn-dann-Fortschreibung der gesamten internationalen Migration berechnet.
   Quellenzugriff am 2026-11-26. Maßgebliche Passage im öffentlich indexierten Volltext der IOM gelesen; Fundstelle im Originaldokument angegeben. Absätze 3–5 unterscheiden den möglichen zusätzlichen Einfluss des Klimawandels von der reinen Trendfortschreibung.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 4Y1lZQsyuSQ-A0050
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Einige damals vorliegende Studien kamen auf ähnliche oder niedrigere Energiekosten bei 100 Prozent erneuerbarer Versorgung.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:14:32–00:15:01](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=872s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die im Frühjahr 2019 veröffentlichte Modellstudie von LUT/Energy Watch Group berechnete im globalen Szenario ähnliche durchschnittliche gewichtete Energiekosten für 2050 wie für das Ausgangsjahr 2015. Eine frühere Untersuchung derselben Partner kam für den Stromsektor auf niedrigere modellierte Kosten. Das belegt die Aussage über vorliegende Studien, nicht einen garantierten heutigen Preis, dieselben Kosten in jedem Sektor oder einen Konsens über alle Modellannahmen.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [LUT University und Energy Watch Group – Global Energy System based on 100% Renewable Energy, 2019](https://www.qualenergia.it/wp-content/uploads/2019/04/EWG_LUT_100RE_All_Sectors_Global_Report_2019.pdf) · Originalbericht (Spiegel), Key Findings und Grafik KF-3: Weltmodell über mehrere Sektoren, ungefähr 54 EUR/MWh (2015) und 53 EUR/MWh (2050).
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Key Findings: modellierte durchschnittliche Systemkosten und Unterschiede zwischen den Sektoren.
+
+- [Energy Watch Group und LUT University – weltweites Stromszenario, 08.11.2017](https://energywatchgroup.org/wp/en/100re/) · Mitteilung der Studienautoren: berechnete Stromgestehungskosten einschließlich Abregelung, Speicher und bestimmter Netzkosten.
+  Quellenzugriff am 2026-11-26. Originalmitteilung und angegebenen Kostenvergleich gelesen. Stromsektor, nicht gesamtes Energiesystem. Veröffentlichung durch die Studienpartner.
 
 ### Offene Fragen und Unsicherheiten
 
