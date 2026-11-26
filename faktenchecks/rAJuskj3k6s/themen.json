@@ -165,6 +165,12 @@
         "internationale-politik",
         "wirtschaft"
       ]
+    },
+    {
+      "claimId": "rAJuskj3k6s-A0031",
+      "topics": [
+        "internationale-politik"
+      ]
     }
   ],
   "history": [
@@ -172,6 +178,11 @@
       "date": "2026-11-26",
       "agent": "Kai",
       "change": "Bezug zu internationaler Politik und Wirtschaft mit Aussagezuordnungen erfasst."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Getrennten Prüfpunkt zum Bewertungsrahmen dem bestehenden Thema wie A0011 zugeordnet."
     }
   ]
 }

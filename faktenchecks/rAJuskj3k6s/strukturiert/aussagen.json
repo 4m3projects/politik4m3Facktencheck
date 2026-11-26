@@ -146,9 +146,9 @@
       "id": "S016",
       "title": "GIZ – Methodik zentraler Projektevaluierungen",
       "url": "https://www.giz.de/sites/default/files/media/document/2025-06/giz-2023-de-das-evaluierungssystem-der-giz-zentrale-projektevaluierungen-im-bmz-geschaeft-2022.pdf",
-      "details": "GIZ- und internationale Bewertungsgrundlagen, sechs Stufen und drei K.-o.-Kriterien.",
+      "details": "S. 4 (organisatorisch getrennte Stabsstelle, externe Teams, verbindliche BMZ-Leitlinien und weitere Referenzrahmen), S. 6 (eigene fachliche Wertung der Evaluierenden und Prüfung der Nachvollziehbarkeit).",
       "accessedOn": "2026-11-26",
-      "accessBasis": "Im angegebenen Original für den relevanten Prüfpunkt eingesehen."
+      "accessBasis": "Offizieller GIZ-Leitfaden, S. 4 und 6 im Original geprüft."
     },
     {
       "id": "S017",
@@ -693,36 +693,32 @@
       "chapter": 3,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Externe Evaluierende arbeiten eigenständig; der Rahmen kommt von den Auftraggebern.",
+      "description": "Bei den zentralen GIZ-Projektevaluierungen beurteilen externe Gutachtende die Projekte fachlich eigenständig.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Externe Gutachtende sind in der Methode vorgesehen, und BMZ-Vorgaben definieren Teile des Rahmens. Die Freiheit gilt innerhalb etablierter BMZ-/OECD-Kriterien, nicht beliebig; der Evaluierungsapparat ist bei der GIZ verankert.",
-      "assessmentBasis": "Kai; unabhängiger Quellenabgleich und deutsche Originalplayer-Transkripte. Keine separate Bild- oder Tonprüfung.",
+      "verdict": "Belegt",
+      "reason": "Die GIZ setzt externe Evaluierungsteams ein. Ihre Berichte geben nach dem GIZ-Leitfaden das fachliche Urteil der Teams wieder. Eine organisatorisch vom operativen Geschäft getrennte GIZ-Stabsstelle steuert das Verfahren und prüft die Nachvollziehbarkeit. Alfred nennt im selben Abschnitt den vorgegebenen Bewertungsrahmen; die eigene fachliche Wertung ist keine Freiheit von verbindlichen Kriterien.",
+      "assessmentBasis": "Kai; deutsches automatisch erzeugtes Originalplayer-Transkript und GIZ-Originalleitfaden. Kein separater Bild-/Tonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenen Kommentar des Reaktionskanals von Originaleinspielern getrennt.",
-        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+        "assessmentChange": "Ersterfassung Teilweise belegt; nach Original- und Methodenabgleich Belegt für dieses eigenständige Prüfthema (HP-C0007)."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Fundstelle in Alfreds Originalplayer."
-        },
-        {
-          "sourceId": "S004",
-          "note": "Prüfquelle oder Vergleichsgrundlage."
+          "note": "Eigene Einordnung ab etwa 5:38; Rahmen gleich danach erneut erwähnt."
         },
         {
           "sourceId": "S016",
-          "note": "Prüfquelle oder Vergleichsgrundlage."
+          "note": "GIZ-Leitfaden, S. 4 und 6: externe Teams, eigenständige Wertung und Qualitätsprüfung."
         }
       ],
       "openQuestions": [],
       "occurrences": [
         {
           "id": "rAJuskj3k6s-O0011",
-          "startSeconds": 307,
-          "endSeconds": 350,
+          "startSeconds": 337,
+          "endSeconds": 347,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
@@ -734,11 +730,18 @@
           "roleBasis": "Eigene Aussage Alfreds; Schreibers Einspieler werden nicht mitgezählt.",
           "note": "Suchfenster aus dem deutschen automatischen Transkript.",
           "timeBasis": "YouTube-Originalplayer-Transkript.",
-          "timeHistory": []
+          "timeHistory": [
+            {
+              "startSeconds": 307,
+              "endSeconds": 350,
+              "precision": "Ungefähr",
+              "basis": "Erstes Suchfenster für beide Teilbehauptungen; nach Prüfung der Originalplayer-Segmente getrennt."
+            }
+          ]
         }
       ],
       "relations": [],
-      "shortReason": "Externe Gutachtende ja; sie urteilen innerhalb dokumentierter GIZ-, BMZ- und OECD-Vorgaben."
+      "shortReason": "Externe Teams urteilen fachlich eigenständig, aber nach verbindlichen Kriterien."
     },
     {
       "id": "rAJuskj3k6s-A0012",
@@ -1723,6 +1726,55 @@
         }
       ],
       "relations": []
+    },
+    {
+      "id": "rAJuskj3k6s-A0031",
+      "videoId": "rAJuskj3k6s",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das BMZ gibt als Auftraggeber einen verbindlichen Bewertungsrahmen für seine GIZ-Projekte vor.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der GIZ-Leitfaden benennt für BMZ-beauftragte Projekte die verbindlichen Leitlinien des Ministeriums. Hinzu kommen unter anderem Vorgaben bzw. Standards von OECD-DAC und DeGEval. Ein vorgegebener Rahmen ist von einer Weisung zum konkreten Ergebnis zu unterscheiden; die Gutachtenden urteilen fachlich eigenständig (A0011).",
+      "assessmentBasis": "Kai; deutsches automatisch erzeugtes Originalplayer-Transkript und GIZ-Originalleitfaden. Kein separater Bild-/Tonabgleich.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachpunkt zur Herkunft des Rahmens aus A0011 getrennt; keine erneute Zählung der externen fachlichen Wertung.",
+        "assessmentChange": "Nachprüfung Kai 2026-11-26; als Belegt getrennt, vorher Teil von A0011 (HP-C0007)."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Eigener zusammenfassender Kommentar ab etwa 5:46; die Fundstelle bei 5:03 zitiert zuvor den GIZ-Bericht."
+        },
+        {
+          "sourceId": "S016",
+          "note": "GIZ-Leitfaden, S. 4: Auftraggeber und weitere Referenzstandards."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "rAJuskj3k6s-O0031",
+          "startSeconds": 346,
+          "endSeconds": 354,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Im Originalplayer-Transkript anhand der kommentierenden Passage und der sprachlichen Einleitung von Einspielern getrennt.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage Alfreds; Schreibers Einspieler werden nicht mitgezählt.",
+          "note": "Suchfenster aus dem deutschen automatischen Transkript.",
+          "timeBasis": "YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "BMZ-Leitlinien sind verbindlich; weitere Standards ergänzen den Rahmen."
     }
   ],
   "legacyPoints": []
