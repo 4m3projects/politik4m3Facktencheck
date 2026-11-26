@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Vierter Teilbestand: zusätzlich offene Wirtschafts- und Klimaaussagen bei 02:28–09:44 bearbeitet. Ausgewählte Stellen bis 53:30 geprüft; weiterhin keine durchgehende Erfassung, kein vollständiger Bild- und Tonabgleich und keine Gesamtfehlerzahl.",
+  "coverageNote": "Fünfter Teilbestand: zusätzliche Sachprüfungen zu Kohlewirtschaft, Urheberrechtsreform und Irakkriegsbegründung von 20:15 bis 32:23. Es fehlt weiterhin eine durchgehende Inventur einschließlich weiterer Aussagen im Schlussteil. Keine Gesamtfehlerzahl und kein vollständiger Bild- und Tonabgleich.",
   "videoId": "4Y1lZQsyuSQ",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 39,
-  "uniqueStatements": 39,
+  "statementRecords": 47,
+  "uniqueStatements": 47,
   "referenceOnlyStatements": 0,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 40,
+  "assertionOccurrences": 48,
   "additionalAssertionOccurrences": 1,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 0,
@@ -18,39 +18,39 @@
     "Offen": 3,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 0,
-    "Abgeschlossen": 36
+    "Abgeschlossen": 44
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 36,
+    "Tatsachenbehauptung": 44,
     "Meinung": 3,
     "Prognose": 0
   },
-  "completedFacts": 33,
+  "completedFacts": 41,
   "openFacts": 3,
   "inProgressFacts": 0,
   "unverifiableFacts": 0,
-  "percentageDenominator": 33,
+  "percentageDenominator": 41,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 17,
-      "completedFactPercent": 51.5
+      "completedCount": 20,
+      "completedFactPercent": 48.8
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 12,
-      "completedFactPercent": 36.4
+      "completedCount": 17,
+      "completedFactPercent": 41.5
     },
     {
       "category": "Irreführend / Kontext fehlt",
       "completedCount": 2,
-      "completedFactPercent": 6.1
+      "completedFactPercent": 4.9
     },
     {
       "category": "Widerlegt",
       "completedCount": 2,
-      "completedFactPercent": 6.1
+      "completedFactPercent": 4.9
     },
     {
       "category": "Nicht ausreichend belegbar",
@@ -109,19 +109,19 @@
         ]
       }
     ],
-    "eligibleFacts": 36,
+    "eligibleFacts": 44,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 36,
-    "factsWithUncertainAttribution": 36,
-    "factsWithUncertainOwnRole": 36,
+    "factsWithoutReliablePerson": 44,
+    "factsWithUncertainAttribution": 44,
+    "factsWithUncertainOwnRole": 44,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 40,
+      "Plausibel": 48,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
-      "Plausibel": 40,
+      "Plausibel": 48,
       "Ungeklärt": 0
     }
   }

@@ -1,8 +1,56 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Vierter Teilbestand: zusätzlich offene Wirtschafts- und Klimaaussagen bei 02:28–09:44 bearbeitet. Ausgewählte Stellen bis 53:30 geprüft; weiterhin keine durchgehende Erfassung, kein vollständiger Bild- und Tonabgleich und keine Gesamtfehlerzahl.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fünfter Teilbestand: zusätzliche Sachprüfungen zu Kohlewirtschaft, Urheberrechtsreform und Irakkriegsbegründung von 20:15 bis 32:23. Es fehlt weiterhin eine durchgehende Inventur einschließlich weiterer Aussagen im Schlussteil. Keine Gesamtfehlerzahl und kein vollständiger Bild- und Tonabgleich.
 
 Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
+
+## 4Y1lZQsyuSQ-A0044
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die US-Begründung für den Irakkrieg beruhte auf falschen Behauptungen über irakische Massenvernichtungswaffen.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:32:08–00:32:23](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=1928s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+US-Untersuchungskommission und UN-Bericht stellen fest, dass wesentliche Vorkriegsbehauptungen über Bestände und reaktivierte Programme nicht bestätigt wurden. Ein zentraler Informant hatte Angaben erfunden. Daraus folgt nicht pauschal, dass alle beteiligten Personen absichtlich täuschten oder dass jedes Motiv des Kriegs belegt wäre.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [US-Untersuchungskommission – Abschlussbericht über die Vorkriegsaufklärung zum Irak, 2005](https://georgewbush-whitehouse.archives.gov/wmd/text/report.html) · Kapitel Irak: Vergleich der Vorkriegsbehauptungen mit den nachträglichen Erkenntnissen und Fehlerursachen.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Einleitung zum Irak-Kapitel: falsche Annahmen und dokumentierte Fehlerursachen.
+
+- [Vereinte Nationen – UNMOVIC-Bericht S/2004/924, 2004](https://www.un.org/depts/unmovic/new/documents/quarterly_reports/s-2004-924.pdf) · Anhang: Bewertung der Untersuchungen zu irakischen Waffenbeständen und Programmen.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Anhang Abs. 5: keine Belege für die behaupteten Bestände oder Wiederaufnahme der Programme.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## 4Y1lZQsyuSQ-A0038
 
