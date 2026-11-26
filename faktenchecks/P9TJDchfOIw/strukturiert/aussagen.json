@@ -334,6 +334,38 @@
       "details": "Wissenschaftliche Dienste des Bundestags, Steffi Menzenbach/Torsten Lämmerzahl, Aktueller Begriff 48/07, 19.09.2007.",
       "accessedOn": "2026-11-22",
       "accessBasis": "Zweiseitigen Text geöffnet und gelesen, insbesondere Beendigung und Normenliste. Historischer systematischer Ausgangspunkt, kein aktueller Einzigartigkeitsbeweis."
+    },
+    {
+      "id": "S041",
+      "title": "Landtag Sachsen-Anhalt – Landesverfassung, Art. 45",
+      "url": "https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Broschueren/Verfassung_und_Grundgesetz_web_2025_10.pdf",
+      "details": "Die formelle Einberufung erfolgt durch den Landtagspräsidenten; das Verlangen eines Viertels löst die Pflicht zur Einberufung aus.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation gelesen."
+    },
+    {
+      "id": "S042",
+      "title": "Landtag Sachsen-Anhalt – Sitzungsplan 2026",
+      "url": "https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Terminuebersicht/Terminplan_Aeltestenrat_Landtagssitzungen_2015/d6230vun.pdf",
+      "details": "Der reguläre Dezember-Sitzungstermin beginnt am 15.12.2026. Der Plan ist kein vollständiger Nachweis separat einberufener Sondersitzungen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation gelesen."
+    },
+    {
+      "id": "S043",
+      "title": "Deutschlandfunk – Meldung vom 25.11.2026 zur Einreichung",
+      "url": "https://www.deutschlandfunk.de/afd-reicht-wahlvorschlag-fuer-siegmund-offiziell-ein-protest-in-magdeburg-fuer-8-dezember-geplant-100.html",
+      "details": "Gemeldet sind die offizielle Kandidatennominierung und der Antrag auf Einberufung der Sondersitzung; nicht die vollzogene Einberufung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Zeitgenössische Meldung zur Einreichung gelesen."
+    },
+    {
+      "id": "S044",
+      "title": "junge Welt – Ausgabe 21.11.2026, Auskunft der AfD-Fraktion via dpa",
+      "url": "https://www.jungewelt.de/artikel/533767.sachsen-anhalt-nach-der-wahl-im-dunkeln-sondiert.html",
+      "details": "Laut Auskunft eines AfD-Fraktionssprechers gegenüber dpa war der Wahlvorschlag bis Freitag (20.11.) nicht bei der Landtagsverwaltung eingereicht. Die Auskunft gilt für den Wahlvorschlag, nicht isoliert für den Sitzungsantrag.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Zeitgenössische Meldung zur Einreichung gelesen."
     }
   ],
   "speakers": [
@@ -547,32 +579,44 @@
       "chapter": 1,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Die Ministerpräsidentenwahl sei bereits verbindlich auf eine Sondersitzung am 8. Dezember vorgezogen worden.",
+      "description": "Die Ministerpräsidentenwahl sei zum Veröffentlichungszeitpunkt bereits verbindlich auf den 8. Dezember 2026 vorgezogen.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Siegmund hatte den 8. Dezember angekündigt; laut zeitgenössischem MDR-Bericht lag am Donnerstagnachmittag, 19.11.2026, noch kein formeller Antrag für diese Sitzung vor. Der spätere Antragsstand am Veröffentlichungstag des Videos wurde nicht unabhängig festgestellt.",
-      "assessmentBasis": "Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Einstieg stellt das Vorziehen als schon vollzogen dar. Die Ankündigung Siegmunds war tatsächlich erfolgt (A0003), ist aber keine Einberufung. Nach Art. 45 beruft der Landtagspräsident die Sitzung ein; ein Viertel der Abgeordneten kann sie verlangen. Der reguläre Sitzungskalender führte den 15.–17. Dezember. Laut Fraktionssprecher war der Wahlvorschlag bis Freitag (Veröffentlichungstag des Videos) nicht eingereicht; erst am 25. November wurde die formelle Einreichung von Wahlvorschlag und Sitzungsantrag gemeldet. Die Aussage lässt diese damals noch ausstehenden formellen Schritte weg und erweckt dadurch den Eindruck eines bereits verbindlichen Termins. Das Urteil betrifft weder die belegte Ankündigung noch den späteren tatsächlichen Wahltermin.",
+      "assessmentBasis": "Kai; Originalplayer-Transkript (automatisch, kein separater Ton-/Bildabgleich), Landtagsquellen und zeitgenössische Meldungen. Maßgeblich: Veröffentlichung am 20.11.2026.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026."
+        "assessmentChange": "Erstbewertung Teilweise belegt; nach Prüfung am 26.11.2026 Irreführend / Kontext fehlt (Kai, HP-C0008)."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg."
+          "note": "Erzählerangabe ca. 0:09–0:24; anschließende Ankündigung des Politikers ist davon zu unterscheiden."
         },
         {
-          "sourceId": "S007",
-          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+          "sourceId": "S041",
+          "note": "Art. 45 Abs. 1 und 2; Antrag und Einberufung unterscheiden."
+        },
+        {
+          "sourceId": "S042",
+          "note": "Regulärer Sitzungsplan, nicht Verzeichnis aller Sondersitzungen."
+        },
+        {
+          "sourceId": "S043",
+          "note": "Am 25.11. veröffentlichte Meldung zu förmlichem Antrag und Wahlvorschlag."
+        },
+        {
+          "sourceId": "S044",
+          "note": "Am 21.11. veröffentlichte Auskunft zur fehlenden Einreichung bis 20.11."
         }
       ],
       "openQuestions": [],
       "occurrences": [
         {
           "id": "P9TJDchfOIw-O0004",
-          "startSeconds": 29,
-          "endSeconds": 59,
+          "startSeconds": 9,
+          "endSeconds": 24,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
@@ -582,13 +626,20 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Eigenständige sinngemäße Darstellung des Moderators im Untertitelkontext; keine zu eigen gemachte fremde Einspieler-Aussage erfasst.",
-          "note": "Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.",
-          "timeBasis": "vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.",
-          "timeHistory": []
+          "note": "Moderation im Einstieg. Einspieler ab ca. 0:27 nicht in diese Fundstelle einbezogen.",
+          "timeBasis": "Deutsches automatisch erzeugtes Originalplayer-Transkript.",
+          "timeHistory": [
+            {
+              "startSeconds": 29,
+              "endSeconds": 59,
+              "precision": "Ungefähr",
+              "basis": "Früheres Suchfenster um den Einspieler; gegen das Originalplayer-Transkript auf die Aussage im Einstieg eingegrenzt."
+            }
+          ]
         }
       ],
       "relations": [],
-      "shortReason": "Der 8. Dezember war angekündigt; laut MDR lag am 19. November noch kein förmlicher Antrag für die Sondersitzung vor.",
+      "shortReason": "Der 8. Dezember war angekündigt, aber zur Veröffentlichung noch kein als vollzogen nachgewiesener Terminwechsel.",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Zahl oder wichtige tatsächliche Voraussetzung für die Hauptfrage nach den drei Stimmen.",

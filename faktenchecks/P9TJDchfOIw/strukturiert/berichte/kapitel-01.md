@@ -146,13 +146,13 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Die Ministerpräsidentenwahl sei bereits verbindlich auf eine Sondersitzung am 8. Dezember vorgezogen worden.
+**Eigene Beschreibung:** Die Ministerpräsidentenwahl sei zum Veröffentlichungszeitpunkt bereits verbindlich auf den 8. Dezember 2026 vorgezogen.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
-- [00:00:29–00:00:59](https://www.youtube.com/watch?v=P9TJDchfOIw&t=29s) · nicht bestaetigt; Kandidat: SP01 · Behauptung · Ungefähr
+- [00:00:09–00:00:24](https://www.youtube.com/watch?v=P9TJDchfOIw&t=9s) · nicht bestaetigt; Kandidat: SP01 · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
 
 Grundlage der Sprecherzuordnung: Monologische Erzählpassage im zeitmarkierten Untertiteltext; keine eigenständige Stimmidentifizierung.
@@ -161,27 +161,38 @@ Grundlage des Aussagebezugs: Eigenständige sinngemäße Darstellung des Moderat
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Ungefähres Suchfenster aus zeitmarkierten Untertiteln. Bilder und Originalton nicht kontrolliert.
+Fundstellenhinweis: Moderation im Einstieg. Einspieler ab ca. 0:27 nicht in diese Fundstelle einbezogen.
 
-Zeitgrundlage: vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am Originalplayer nachgehört.
+Zeitgrundlage: Deutsches automatisch erzeugtes Originalplayer-Transkript.
+
+Frueherer Suchbereich: [00:00:29–00:00:59](https://www.youtube.com/watch?v=P9TJDchfOIw&t=29s), Ungefähr. Früheres Suchfenster um den Einspieler; gegen das Originalplayer-Transkript auf die Aussage im Einstieg eingegrenzt.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Siegmund hatte den 8. Dezember angekündigt; laut zeitgenössischem MDR-Bericht lag am Donnerstagnachmittag, 19.11.2026, noch kein formeller Antrag für diese Sitzung vor. Der spätere Antragsstand am Veröffentlichungstag des Videos wurde nicht unabhängig festgestellt.
+Der Einstieg stellt das Vorziehen als schon vollzogen dar. Die Ankündigung Siegmunds war tatsächlich erfolgt (A0003), ist aber keine Einberufung. Nach Art. 45 beruft der Landtagspräsident die Sitzung ein; ein Viertel der Abgeordneten kann sie verlangen. Der reguläre Sitzungskalender führte den 15.–17. Dezember. Laut Fraktionssprecher war der Wahlvorschlag bis Freitag (Veröffentlichungstag des Videos) nicht eingereicht; erst am 25. November wurde die formelle Einreichung von Wahlvorschlag und Sitzungsantrag gemeldet. Die Aussage lässt diese damals noch ausstehenden formellen Schritte weg und erweckt dadurch den Eindruck eines bereits verbindlichen Termins. Das Urteil betrifft weder die belegte Ankündigung noch den späteren tatsächlichen Wahltermin.
 
-Grundlage der Bewertung: Quellenrecherche am 21.11.2026; Videokontext aus vidIQ-Untertiteln. Kein Bild- oder Tonabgleich, Zeitmarken ungefähr. Aussagen sind eigene knappe Paraphrasen.
+Grundlage der Bewertung: Kai; Originalplayer-Transkript (automatisch, kein separater Ton-/Bildabgleich), Landtagsquellen und zeitgenössische Meldungen. Maßgeblich: Veröffentlichung am 20.11.2026.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026.
+Bewertungsuebergang: Erstbewertung Teilweise belegt; nach Prüfung am 26.11.2026 Irreführend / Kontext fehlt (Kai, HP-C0008).
 
 ### Zugeordnete Quellen
 
 - [Originalvideo: Siegmund zieht die Wahl vor: Woher sollen die 3 Stimmen kommen?](https://www.youtube.com/watch?v=P9TJDchfOIw) · Der Stimmzettel; veröffentlicht am 20.11.2026; Dauer 11:55.
-  Quellenzugriff am 2026-11-21. Videometadaten und zugeordnetes deutsches Untertitel-Transkript durch vidIQ abgerufen und ausgewertet. Originalton und Originalbilder nicht abgespielt; Zeitmarken ungefähr. Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg.
+  Quellenzugriff am 2026-11-21. Videometadaten und zugeordnetes deutsches Untertitel-Transkript durch vidIQ abgerufen und ausgewertet. Originalton und Originalbilder nicht abgespielt; Zeitmarken ungefähr. Erzählerangabe ca. 0:09–0:24; anschließende Ankündigung des Politikers ist davon zu unterscheiden.
 
-- [MDR: Siegmund kündigt vorgezogene Ministerpräsidentenwahl an](https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/wahl-ministerpraesident-zeitpunkt-video-social-media-einschaetzung-mp-wahl%2Cafd-siegmund-114.html) · MDR Sachsen-Anhalt, 20.11.2026; 8. Dezember angekündigt, Sondersitzung damals noch nicht offiziell beantragt.
-  Quellenzugriff am 2026-11-21. Extrahierter aktueller Webartikeltext recherchiert und gelesen; vollständiger Direktabruf gelang nicht. Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt.
+- [Landtag Sachsen-Anhalt – Landesverfassung, Art. 45](https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Broschueren/Verfassung_und_Grundgesetz_web_2025_10.pdf) · Die formelle Einberufung erfolgt durch den Landtagspräsidenten; das Verlangen eines Viertels löst die Pflicht zur Einberufung aus.
+  Quellenzugriff am 2026-11-26. Originalpublikation gelesen. Art. 45 Abs. 1 und 2; Antrag und Einberufung unterscheiden.
+
+- [Landtag Sachsen-Anhalt – Sitzungsplan 2026](https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Terminuebersicht/Terminplan_Aeltestenrat_Landtagssitzungen_2015/d6230vun.pdf) · Der reguläre Dezember-Sitzungstermin beginnt am 15.12.2026. Der Plan ist kein vollständiger Nachweis separat einberufener Sondersitzungen.
+  Quellenzugriff am 2026-11-26. Originalpublikation gelesen. Regulärer Sitzungsplan, nicht Verzeichnis aller Sondersitzungen.
+
+- [Deutschlandfunk – Meldung vom 25.11.2026 zur Einreichung](https://www.deutschlandfunk.de/afd-reicht-wahlvorschlag-fuer-siegmund-offiziell-ein-protest-in-magdeburg-fuer-8-dezember-geplant-100.html) · Gemeldet sind die offizielle Kandidatennominierung und der Antrag auf Einberufung der Sondersitzung; nicht die vollzogene Einberufung.
+  Quellenzugriff am 2026-11-26. Zeitgenössische Meldung zur Einreichung gelesen. Am 25.11. veröffentlichte Meldung zu förmlichem Antrag und Wahlvorschlag.
+
+- [junge Welt – Ausgabe 21.11.2026, Auskunft der AfD-Fraktion via dpa](https://www.jungewelt.de/artikel/533767.sachsen-anhalt-nach-der-wahl-im-dunkeln-sondiert.html) · Laut Auskunft eines AfD-Fraktionssprechers gegenüber dpa war der Wahlvorschlag bis Freitag (20.11.) nicht bei der Landtagsverwaltung eingereicht. Die Auskunft gilt für den Wahlvorschlag, nicht isoliert für den Sitzungsantrag.
+  Quellenzugriff am 2026-11-26. Zeitgenössische Meldung zur Einreichung gelesen. Am 21.11. veröffentlichte Auskunft zur fehlenden Einreichung bis 20.11.
 
 ### Offene Fragen und Unsicherheiten
 

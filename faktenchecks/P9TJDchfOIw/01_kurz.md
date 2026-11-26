@@ -2,7 +2,7 @@
 
 Das Video beschreibt überwiegend zutreffend die Ausgangslage der Ministerpräsidentenwahl in Sachsen-Anhalt. Die AfD besitzt 39 der 83 Mandate; für die ersten beiden Wahlgänge reichen diese nicht, da 42 Stimmen nötig sind. Die 44 Ja-Stimmen bei der geheimen Wahl des Parlamentarischen Kontrollgremiums sind belegt, erlauben aber keine individuelle Zuordnung zu BSW-Abgeordneten.
 
-**Wichtigster Kontext:** Siegmund kündigte den 8. Dezember an. Der übernommene MDR-Befund nennt einen fehlenden formellen Antrag am Nachmittag des 19. November; der Antragsstand zum Videozeitpunkt ist ungeklärt. Nach Art. 65 sind weitere Wahlgänge möglich, ihre konkreten Kalendertage bleiben jedoch offen. Die Kündigung des MDR-Staatsvertrages unterliegt neben einer Zweijahresfrist nach der Verfassungsänderung von 2026 einem Zustimmungsvorbehalt des Landtags.
+**Wichtigster Kontext:** Siegmund kündigte den 8. Dezember an; der Einstieg stellt die Vorverlegung jedoch schon als vollzogen dar. Zum Veröffentlichungstag am 20. November war der Wahlvorschlag laut Fraktionsauskunft noch nicht eingereicht. Der Antrag auf Sondersitzung und der Wahlvorschlag wurden am 25. November als formell eingereicht gemeldet. Eine Ankündigung oder ein Antrag ist noch keine Einberufung. Nach Art. 65 sind weitere Wahlgänge möglich, ihre konkreten Kalendertage bleiben jedoch offen. Die Kündigung des MDR-Staatsvertrages unterliegt neben einer Zweijahresfrist nach der Verfassungsänderung von 2026 einem Zustimmungsvorbehalt des Landtags.
 
 Der Bericht ist **keine vollständige audiovisuelle Prüfung**. Ein bundesweiter Normvergleich ist noch offen. Die Faktenampel wird aus den einzelnen gekennzeichneten Aussagen errechnet.
 

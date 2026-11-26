@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "HP-C0008",
+  "kind": "Quelle falsch interpretiert",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "P9TJDchfOIw-A0004",
+    "entryId": null,
+    "description": "Die Ankündigung wurde gegenüber einem festgesetzten Termin nicht sauber getrennt; ein später belegter Stand war noch nicht berücksichtigt."
+  },
+  "evidence": [
+    {
+      "title": "Landtag Sachsen-Anhalt – Landesverfassung, Art. 45",
+      "url": "https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Broschueren/Verfassung_und_Grundgesetz_web_2025_10.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Die formelle Einberufung erfolgt durch den Landtagspräsidenten; das Verlangen eines Viertels löst die Pflicht zur Einberufung aus."
+    },
+    {
+      "title": "Landtag Sachsen-Anhalt – Sitzungsplan 2026",
+      "url": "https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Terminuebersicht/Terminplan_Aeltestenrat_Landtagssitzungen_2015/d6230vun.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Der reguläre Dezember-Sitzungstermin beginnt am 15.12.2026. Der Plan ist kein vollständiger Nachweis separat einberufener Sondersitzungen."
+    },
+    {
+      "title": "Deutschlandfunk – Meldung vom 25.11.2026 zur Einreichung",
+      "url": "https://www.deutschlandfunk.de/afd-reicht-wahlvorschlag-fuer-siegmund-offiziell-ein-protest-in-magdeburg-fuer-8-dezember-geplant-100.html",
+      "accessedOn": "2026-11-26",
+      "finding": "Gemeldet sind die offizielle Kandidatennominierung und der Antrag auf Einberufung der Sondersitzung; nicht die vollzogene Einberufung."
+    },
+    {
+      "title": "junge Welt – Ausgabe 21.11.2026, Auskunft der AfD-Fraktion via dpa",
+      "url": "https://www.jungewelt.de/artikel/533767.sachsen-anhalt-nach-der-wahl-im-dunkeln-sondiert.html",
+      "accessedOn": "2026-11-26",
+      "finding": "Laut Auskunft eines AfD-Fraktionssprechers gegenüber dpa war der Wahlvorschlag bis Freitag (20.11.) nicht bei der Landtagsverwaltung eingereicht. Die Auskunft gilt für den Wahlvorschlag, nicht isoliert für den Sitzungsantrag."
+    }
+  ],
+  "affected": [
+    {
+      "target": "P9TJDchfOIw-A0004",
+      "reason": "Die behauptete bereits verbindliche Vorverlegung; die separate Ankündigung (A0003) bleibt Belegt."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Ankündigung und formelle Einberufung trennen",
+    "date": "2026-11-26",
+    "basis": "Der Originalwortlaut im Einstieg stellt das Vorziehen als vollzogen dar. Offizieller Ablauf und die Einreichungsdaten rechtfertigen die Trennung zwischen belegter Ankündigung und irreführender Gewissheit."
+  },
+  "changes": [
+    {
+      "target": "P9TJDchfOIw-A0004",
+      "field": "description",
+      "before": "Die Ministerpräsidentenwahl sei bereits verbindlich auf eine Sondersitzung am 8. Dezember vorgezogen worden.",
+      "after": "Die Ministerpräsidentenwahl sei zum Veröffentlichungszeitpunkt bereits verbindlich auf den 8. Dezember 2026 vorgezogen."
+    },
+    {
+      "target": "P9TJDchfOIw-A0004",
+      "field": "reason",
+      "before": "Siegmund hatte den 8. Dezember angekündigt; laut zeitgenössischem MDR-Bericht lag am Donnerstagnachmittag, 19.11.2026, noch kein formeller Antrag für diese Sitzung vor. Der spätere Antragsstand am Veröffentlichungstag des Videos wurde nicht unabhängig festgestellt.",
+      "after": "Der Einstieg stellt das Vorziehen als schon vollzogen dar. Die Ankündigung Siegmunds war tatsächlich erfolgt (A0003), ist aber keine Einberufung. Nach Art. 45 beruft der Landtagspräsident die Sitzung ein; ein Viertel der Abgeordneten kann sie verlangen. Der reguläre Sitzungskalender führte den 15.–17. Dezember. Laut Fraktionssprecher war der Wahlvorschlag bis Freitag (Veröffentlichungstag des Videos) nicht eingereicht; erst am 25. November wurde die formelle Einreichung von Wahlvorschlag und Sitzungsantrag gemeldet. Die Aussage lässt diese damals noch ausstehenden formellen Schritte weg und erweckt dadurch den Eindruck eines bereits verbindlichen Termins. Das Urteil betrifft weder die belegte Ankündigung noch den späteren tatsächlichen Wahltermin."
+    },
+    {
+      "target": "P9TJDchfOIw-A0004",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Gemeldet; Betroffene automatisch über gleiche Quelle, Verknüpfungen und Abhängigkeiten ermittelt."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Originalplayer-Text, Art. 45, amtlichen Sitzungsplan und zeitgenössische Meldungen getrennt geprüft."
+    }
+  ]
+}
