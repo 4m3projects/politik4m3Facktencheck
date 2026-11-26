@@ -17,7 +17,7 @@
 
 **CO₂-Preis und Klimaproteste:** Die Zeitangaben und Zahlen wurden mit zeitgenössischen Unterlagen der Weltbank, dem IPCC und der Initiative Scientists for Future abgeglichen. Der britische Klimarat nannte Anfang Mai 2019 bereits 46 Länder mit Bepreisung; dazu gehörten auch Länder im gemeinsamen EU-Emissionshandel.
 
-**Drogenpolitik und Wahlberechtigte:** Portugals Entkriminalisierung von 2001 ist gesetzlich dokumentiert und war keine Legalisierung des Handels. Die für den Altersvergleich auffindbare Bundeswahlleiter-Quelle ergibt bei der Bundestagswahl 2017 rund 35 Prozent mehr Wahlberechtigte ab 70 als unter 30, nicht 50 Prozent mehr abgegebene Stimmen.
+**Drogenpolitik und Wahlberechtigte:** Portugals Entkriminalisierung von 2001 ist gesetzlich dokumentiert und war keine Legalisierung des Handels. Die repräsentative Statistik der Bundestagswahl 2017 stützt Rezos Größenordnung bei der Wahlteilnahme: rund 56 Prozent mehr Wählende ab 70 als 18- bis 29-Jährige. Die frühere Schätzung von rund 35 Prozent zählte Wahlberechtigte. Auf die Europawahl 2019 lässt sich das Verhältnis nicht übertragen.
 
 **Ramstein:** Das OVG NRW sah im März 2019 eine Schutzpflicht Deutschlands im konkreten Jemen-Verfahren, stellte aber keine aktive deutsche Teilnahme oder Gestattung der Einsätze fest. Das damalige Urteil verlangte Prüfung, kein pauschales Verbot.
 
