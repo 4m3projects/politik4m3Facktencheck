@@ -11,7 +11,7 @@
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
     "researchNote": "Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.",
-    "coverageNote": "Vierter Teilbestand: zusätzlich offene Wirtschafts- und Klimaaussagen bei 02:28–09:44 bearbeitet. Ausgewählte Stellen bis 53:30 geprüft; weiterhin keine durchgehende Erfassung, kein vollständiger Bild- und Tonabgleich und keine Gesamtfehlerzahl."
+    "coverageNote": "Fünfter Teilbestand: zusätzliche Sachprüfungen zu Kohlewirtschaft, Urheberrechtsreform und Irakkriegsbegründung von 20:15 bis 32:23. Es fehlt weiterhin eine durchgehende Inventur einschließlich weiterer Aussagen im Schlussteil. Keine Gesamtfehlerzahl und kein vollständiger Bild- und Tonabgleich."
   },
   "speakers": [
     {
@@ -333,6 +333,102 @@
       "details": "Drucksachen 17/8877 und 17/9152: Vorlage von CDU/CSU und FDP.",
       "accessedOn": "2026-11-26",
       "accessBasis": "Relevante Passage im verlinkten Dokument geöffnet und gelesen."
+    },
+    {
+      "id": "S040",
+      "title": "Landtag Rheinland-Pfalz – Antwort der Landesregierung zu RWE-Beiräten, 11.02.2005",
+      "url": "https://dokumente.landtag.rlp.de/landtag/drucksachen/3824-14.pdf",
+      "details": "Drucksache 14/3824: Zusammensetzung der Regionalbeiräte und Rechtsfragen bezüglich der Vergütung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S041",
+      "title": "DER SPIEGEL – Berichterstattung über RWE-Nebeneinkünfte, 13.01.2005",
+      "url": "https://www.spiegel.de/politik/deutschland/nebeneinkuenfte-rwe-sponsert-ueber-hundert-kommunalpolitiker-a-336686.html",
+      "details": "Zeitgenössische Erhebung zu Vergütungen; nennt insgesamt mehr als 600.000 Euro jährlich.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S042",
+      "title": "Umweltbundesamt – Daten und Fakten zu Braun- und Steinkohlen (2017)",
+      "url": "https://www.umweltbundesamt.de/system/files/medien/1410/publikationen/171207_uba_hg_braunsteinkohle_bf.pdf",
+      "details": "Abschnitte 4.5.1–4.5.2: direkte Förderung des Steinkohlebergbaus und andersartige Braunkohlevergünstigungen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S043",
+      "title": "Kohlekommission – Abschlussbericht, Januar 2019",
+      "url": "https://greenwire.greenpeace.de/system/files/2019-03/Abschlussbericht-kommission-wachstum-strukturwandel-und-beschaeftigung-2019.pdf",
+      "details": "Original des BMWi-Berichts (Spiegel): verschiedene Förder- und Ausstiegsinstrumente und ihre Empfänger.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S044",
+      "title": "Umweltbundesamt – Hohe Kosten durch unterlassenen Umweltschutz, 20.11.2018",
+      "url": "https://www.umweltbundesamt.de/presse/pressemitteilungen/hohe-kosten-durch-unterlassenen-umweltschutz",
+      "details": "Berechnete gesellschaftliche Umweltschäden der Braunkohleverstromung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S045",
+      "title": "RWE – Geschäftsbericht 2018",
+      "url": "https://www.rwe.com/-/media/RWE/documents/05-investor-relations/finanzkalendar-und-veroeffentlichungen/2018-Q4/RWE-annual-report-2018.pdf",
+      "details": "Finanzlage 2018; Zahlen für das gemeinsame Segment Braunkohle und Kernenergie sind kein Ergebnis für Kohle allein.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S046",
+      "title": "Amtsblatt der EU – Richtlinie (EU) 2019/790, 17.05.2019",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790",
+      "details": "Artikel 17 Absätze 4 und 7 sowie Artikel 29 und 31: Rechte, Ausnahmen und zeitliche Geltung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S047",
+      "title": "US-Untersuchungskommission – Abschlussbericht über die Vorkriegsaufklärung zum Irak, 2005",
+      "url": "https://georgewbush-whitehouse.archives.gov/wmd/text/report.html",
+      "details": "Kapitel Irak: Vergleich der Vorkriegsbehauptungen mit den nachträglichen Erkenntnissen und Fehlerursachen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S048",
+      "title": "Vereinte Nationen – UNMOVIC-Bericht S/2004/924, 2004",
+      "url": "https://www.un.org/depts/unmovic/new/documents/quarterly_reports/s-2004-924.pdf",
+      "details": "Anhang: Bewertung der Untersuchungen zu irakischen Waffenbeständen und Programmen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S049",
+      "title": "IAB und BIBB – Digitalisierung am Arbeitsmarkt, 10.04.2018",
+      "url": "https://iab.de/presseinfo/digitalisierung-bringt-grosse-umwaelzungen-am-arbeitsmarkt/",
+      "details": "Szenarienvergleich bis 2035: Rückgang und Zuwachs von Arbeitsplätzen getrennt.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S050",
+      "title": "Burke, Davis und Diffenbaugh – Large potential reduction in economic damages under UN mitigation targets (2018)",
+      "url": "https://web.stanford.edu/~mburke/papers/BurkeDavisDiffenbaugh2018.pdf",
+      "details": "Studie zum geschätzten globalen Unterschied zwischen Erwärmungspfaden und zur Unsicherheit der Schätzungen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
+    },
+    {
+      "id": "S051",
+      "title": "Bundesregierung – Klimaschutzbericht 2017, Bundestagsdrucksache 19/2780 vom Juni 2018",
+      "url": "https://dserver.bundestag.de/btd/19/027/1902780.pdf",
+      "details": "S. 7 und 15: damalige Projektion von rund 32 % Minderung bei einem 40-%-Ziel für 2020.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Maßgebliche Passage im Original geöffnet und gelesen."
     }
   ],
   "claims": [
@@ -1723,6 +1819,213 @@
       "relations": []
     },
     {
+      "id": "4Y1lZQsyuSQ-A0045",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Durch die Digitalisierung fallen Arbeitsplätze in der Größenordnung von Hunderttausenden weg, während neue entstehen.",
+      "status": "Abgeschlossen",
+      "reason": "Die damals veröffentlichte Modellrechnung von IAB und BIBB rechnete bis 2035 mit etwa 1,5 Millionen bisheriger Stellen weniger gegenüber einem Basisszenario und annähernd ebenso vielen neu entstehenden Stellen. Das passt zum beschriebenen Strukturwandel, ist aber eine Projektion und kein gemessener Nettoverlust.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S049",
+          "note": "Modellannahmen und Bruttoeffekte."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0046",
+          "startSeconds": 1164,
+          "endSeconds": 1171,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Belegt"
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0040",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "RWE zahlte kommunalen Amtsträgern Vergütungen, über die eine Summe in der Größenordnung von 600.000 Euro berichtet wurde.",
+      "status": "Abgeschlossen",
+      "reason": "Die Summe stammt aus einer Recherche von 2005 und bezog sich damals auf viele kommunale Amts- und Mandatsträger zusammen und auf jährliche Vergütungen. Eine Landesregierung dokumentierte unabhängig die Struktur der Beiräte anhand von RWE-Auskünften, bestätigte aber nicht diese Gesamtsumme. Aus der Vergütung folgen weder eine Zahlung an die CDU als Partei noch eine Gegenleistung zugunsten der Kohlepolitik 2019.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S041",
+          "note": "Historischer Gesamtbetrag und Einordnung der Zahlungsempfänger."
+        },
+        {
+          "sourceId": "S040",
+          "note": "Zu Fragen 1, 2 und 4: institutioneller Rahmen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0041",
+          "startSeconds": 1215,
+          "endSeconds": 1237,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Teilweise belegt",
+      "shortReason": "Die Summe ist ein Pressebefund von 2005, keine bestätigte Zahlung an eine Partei oder Gegenleistung."
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0041",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Über die Kohlepolitik seien Milliarden aus öffentlichen Mitteln geflossen, um den Kohlesektor am Leben zu halten.",
+      "status": "Abgeschlossen",
+      "reason": "Das UBA bezifferte die für 2009 bis 2019 zusammen veranschlagte Förderung der Steinkohle einschließlich Anpassungsgeldern und Ewigkeitslasten auf über 21 Milliarden Euro. Ziel war ausdrücklich das Ende des subventionierten heimischen Steinkohlebergbaus bis 2018. Die im Januar 2019 empfohlenen rund 40 Milliarden für Kohleregionen betrafen insbesondere Strukturentwicklung; es waren keine schon ausgezahlten 40 Milliarden für Kohleunternehmen. Betreiberentschädigungen waren davon zu unterscheiden.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S042",
+          "note": "Abschnitt 4.5: Steinkohlefinanzierung und Abgrenzung Braunkohle."
+        },
+        {
+          "sourceId": "S043",
+          "note": "Kapitel 4 und 5: verschiedene Empfänger, Zweck und Status der Empfehlungen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0042",
+          "startSeconds": 1237,
+          "endSeconds": 1263,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Teilweise belegt",
+      "shortReason": "Milliardenförderung gab es; Steinkohleauslauf, regionale Strukturhilfen und Betreiberzahlungen sind verschiedene Dinge."
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0042",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Kohleerzeugung sei besonders dann ein Verlustgeschäft, wenn verursachte Umweltschäden einbezogen werden.",
+      "status": "Abgeschlossen",
+      "reason": "Das UBA berechnete für Braunkohlestrom 2016 im Durchschnitt 20,81 Cent externe Umweltkosten je Kilowattstunde und insgesamt 31,2 Milliarden Euro. Das stützt die Dimension der gesellschaftlichen Belastung. Private Betriebsergebnisse sind davon verschieden und fallen nach Unternehmen, Kraftwerk und Zeitraum unterschiedlich aus; der verfügbare RWE-Segmentwert erfasst außerdem Kernenergie. Eine einheitliche Verlustbilanz aller Kohlekraftwerke ergibt sich daraus nicht.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S044",
+          "note": "Berechnete externe Kosten."
+        },
+        {
+          "sourceId": "S045",
+          "note": "Ergebnisse werden in gemischten Segmenten ausgewiesen, nicht für sämtliche Kohleanlagen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0043",
+          "startSeconds": 1254,
+          "endSeconds": 1277,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Teilweise belegt",
+      "shortReason": "Hohe externe Schäden sind belegt; daraus folgt kein einheitlicher betriebswirtschaftlicher Verlust."
+    },
+    {
       "id": "4Y1lZQsyuSQ-A0029",
       "videoId": "4Y1lZQsyuSQ",
       "chapter": 4,
@@ -1769,6 +2072,55 @@
       ],
       "relations": [],
       "verdict": "Belegt"
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0046",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Stärkere Erwärmung verursacht weltweit wirtschaftliche Schäden in Billionenhöhe.",
+      "status": "Abgeschlossen",
+      "reason": "Eine damals veröffentlichte Modellstudie hielt es bei einer Abzinsung von drei Prozent für wahrscheinlicher als nicht, dass der weltweite kumulierte Vorteil von 1,5 gegenüber 2 °C bis zum Jahrhundertende 20 Billionen US-Dollar übersteigt. Das macht die Größenordnung plausibel, ist aber ein Vergleich von Klimaszenarien in US-Dollar und keine sichere Ausgabenrechnung oder ein jährlich fälliger Betrag.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S050",
+          "note": "Vergleich von 1,5 und 2 °C, Zeitraum und Abzinsung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0047",
+          "startSeconds": 1301,
+          "endSeconds": 1325,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Teilweise belegt",
+      "shortReason": "Studien modellierten solche Größenordnungen; es handelt sich um Szenarien und nicht um eine sichere Zahlungssumme."
     },
     {
       "id": "4Y1lZQsyuSQ-A0030",
@@ -1874,6 +2226,54 @@
       "relations": [],
       "verdict": "Teilweise belegt",
       "shortReason": "Zeitvergleich für das Vereinigte Königreich mit Ausnahmen; der CO₂-Preis war nicht der einzige Treiber."
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0047",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutschland war mit den damaligen Maßnahmen nicht auf Kurs für das eigene Klimaziel 2020.",
+      "status": "Abgeschlossen",
+      "reason": "Der zur Zeit des Videos vorliegende Klimaschutzbericht rechnete bei den damals umgesetzten Maßnahmen bis 2020 mit rund 32 Prozent weniger Treibhausgasemissionen gegenüber 1990; Ziel waren mindestens 40 Prozent. Das ist eine damalige Projektion, keine Aussage über das erst später beobachtete Ergebnis und kein Beleg für alle Klimaziele zugleich.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S051",
+          "note": "Zusammenfassung und Abschnitt 3.3.2."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0048",
+          "startSeconds": 1403,
+          "endSeconds": 1411,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Belegt"
     },
     {
       "id": "4Y1lZQsyuSQ-A0032",
@@ -2132,6 +2532,107 @@
       ],
       "relations": [],
       "verdict": "Belegt"
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0043",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine bloße Veränderung eines geschützten Werks macht das Hochladen unter der diskutierten EU-Urheberrechtsreform nicht automatisch erlaubt.",
+      "status": "Abgeschlossen",
+      "reason": "Artikel 17 der am 17.05.2019 veröffentlichten Richtlinie enthält keine generelle Freigabe beliebig veränderter geschützter Werke. Er unterscheidet Erlaubnisse und bestimmte Ausnahmen, beispielsweise für Kritik oder Parodie. Die Richtlinie trat erst am 20. Tag nach Veröffentlichung in Kraft; Umsetzung war bis Juni 2021 vorgesehen. Geprüft ist Rezos rechtliche Klarstellung, nicht der genaue Wortlaut des fremden Ausschnitts.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S046",
+          "note": "Artikel 17(4), 17(7), 29 und 31."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0044",
+          "startSeconds": 1702,
+          "endSeconds": 1733,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Belegt"
+    },
+    {
+      "id": "4Y1lZQsyuSQ-A0044",
+      "videoId": "4Y1lZQsyuSQ",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die US-Begründung für den Irakkrieg beruhte auf falschen Behauptungen über irakische Massenvernichtungswaffen.",
+      "status": "Abgeschlossen",
+      "reason": "US-Untersuchungskommission und UN-Bericht stellen fest, dass wesentliche Vorkriegsbehauptungen über Bestände und reaktivierte Programme nicht bestätigt wurden. Ein zentraler Informant hatte Angaben erfunden. Daraus folgt nicht pauschal, dass alle beteiligten Personen absichtlich täuschten oder dass jedes Motiv des Kriegs belegt wäre.",
+      "assessmentBasis": "Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Zeitmarke im deutschen Originalplayer-Transkript."
+        },
+        {
+          "sourceId": "S047",
+          "note": "Einleitung zum Irak-Kapitel: falsche Annahmen und dokumentierte Fehlerursachen."
+        },
+        {
+          "sourceId": "S048",
+          "note": "Anhang Abs. 5: keine Belege für die behaupteten Bestände oder Wiederaufnahme der Programme."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "4Y1lZQsyuSQ-O0045",
+          "startSeconds": 1928,
+          "endSeconds": 1943,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Rezo-Passage im Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.",
+          "note": "Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.",
+          "timeBasis": "Zeitmarken aus deutschem Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "verdict": "Teilweise belegt",
+      "shortReason": "Die zentralen Waffenbehauptungen erwiesen sich als falsch; der pauschale Täuschungsvorwurf ist davon zu trennen."
     },
     {
       "id": "4Y1lZQsyuSQ-A0038",

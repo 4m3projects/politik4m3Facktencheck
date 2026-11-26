@@ -1,6 +1,6 @@
 # Kapitel 05: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Vierter Teilbestand: zusätzlich offene Wirtschafts- und Klimaaussagen bei 02:28–09:44 bearbeitet. Ausgewählte Stellen bis 53:30 geprüft; weiterhin keine durchgehende Erfassung, kein vollständiger Bild- und Tonabgleich und keine Gesamtfehlerzahl.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fünfter Teilbestand: zusätzliche Sachprüfungen zu Kohlewirtschaft, Urheberrechtsreform und Irakkriegsbegründung von 20:15 bis 32:23. Es fehlt weiterhin eine durchgehende Inventur einschließlich weiterer Aussagen im Schlussteil. Keine Gesamtfehlerzahl und kein vollständiger Bild- und Tonabgleich.
 
 Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 
@@ -179,6 +179,51 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 
 - [Bund Deutscher Kriminalbeamter NRW – Klarstellung zur Cannabis-Position, 08.02.2018](https://www.bdk.de/der-bdk/was-wir-tun/aktuelles/bdk-landesverband-nordrhein-westfalen-lehnt-legalisierung-von-cannabis-entschieden-ab) · Dokumentiert zum damaligen Zeitpunkt den Bundesbeschluss zur Entkriminalisierung von Konsumierenden und die Unterscheidung zur Legalisierung.
   Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Stellungnahme des Verbandes und Verweis auf den damaligen Beschluss.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 4Y1lZQsyuSQ-A0043
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Eine bloße Veränderung eines geschützten Werks macht das Hochladen unter der diskutierten EU-Urheberrechtsreform nicht automatisch erlaubt.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:28:22–00:28:53](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=1702s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Artikel 17 der am 17.05.2019 veröffentlichten Richtlinie enthält keine generelle Freigabe beliebig veränderter geschützter Werke. Er unterscheidet Erlaubnisse und bestimmte Ausnahmen, beispielsweise für Kritik oder Parodie. Die Richtlinie trat erst am 20. Tag nach Veröffentlichung in Kraft; Umsetzung war bis Juni 2021 vorgesehen. Geprüft ist Rezos rechtliche Klarstellung, nicht der genaue Wortlaut des fremden Ausschnitts.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [Amtsblatt der EU – Richtlinie (EU) 2019/790, 17.05.2019](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790) · Artikel 17 Absätze 4 und 7 sowie Artikel 29 und 31: Rechte, Ausnahmen und zeitliche Geltung.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Artikel 17(4), 17(7), 29 und 31.
 
 ### Offene Fragen und Unsicherheiten
 

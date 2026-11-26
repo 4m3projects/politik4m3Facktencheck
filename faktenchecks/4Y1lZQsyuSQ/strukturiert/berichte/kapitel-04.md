@@ -1,6 +1,6 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Vierter Teilbestand: zusätzlich offene Wirtschafts- und Klimaaussagen bei 02:28–09:44 bearbeitet. Ausgewählte Stellen bis 53:30 geprüft; weiterhin keine durchgehende Erfassung, kein vollständiger Bild- und Tonabgleich und keine Gesamtfehlerzahl.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fünfter Teilbestand: zusätzliche Sachprüfungen zu Kohlewirtschaft, Urheberrechtsreform und Irakkriegsbegründung von 20:15 bis 32:23. Es fehlt weiterhin eine durchgehende Inventur einschließlich weiterer Aussagen im Schlussteil. Keine Gesamtfehlerzahl und kein vollständiger Bild- und Tonabgleich.
 
 Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 
@@ -190,6 +190,195 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
+## 4Y1lZQsyuSQ-A0045
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Durch die Digitalisierung fallen Arbeitsplätze in der Größenordnung von Hunderttausenden weg, während neue entstehen.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:19:24–00:19:31](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=1164s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die damals veröffentlichte Modellrechnung von IAB und BIBB rechnete bis 2035 mit etwa 1,5 Millionen bisheriger Stellen weniger gegenüber einem Basisszenario und annähernd ebenso vielen neu entstehenden Stellen. Das passt zum beschriebenen Strukturwandel, ist aber eine Projektion und kein gemessener Nettoverlust.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [IAB und BIBB – Digitalisierung am Arbeitsmarkt, 10.04.2018](https://iab.de/presseinfo/digitalisierung-bringt-grosse-umwaelzungen-am-arbeitsmarkt/) · Szenarienvergleich bis 2035: Rückgang und Zuwachs von Arbeitsplätzen getrennt.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Modellannahmen und Bruttoeffekte.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 4Y1lZQsyuSQ-A0040
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** RWE zahlte kommunalen Amtsträgern Vergütungen, über die eine Summe in der Größenordnung von 600.000 Euro berichtet wurde.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:20:15–00:20:37](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=1215s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Summe stammt aus einer Recherche von 2005 und bezog sich damals auf viele kommunale Amts- und Mandatsträger zusammen und auf jährliche Vergütungen. Eine Landesregierung dokumentierte unabhängig die Struktur der Beiräte anhand von RWE-Auskünften, bestätigte aber nicht diese Gesamtsumme. Aus der Vergütung folgen weder eine Zahlung an die CDU als Partei noch eine Gegenleistung zugunsten der Kohlepolitik 2019.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [DER SPIEGEL – Berichterstattung über RWE-Nebeneinkünfte, 13.01.2005](https://www.spiegel.de/politik/deutschland/nebeneinkuenfte-rwe-sponsert-ueber-hundert-kommunalpolitiker-a-336686.html) · Zeitgenössische Erhebung zu Vergütungen; nennt insgesamt mehr als 600.000 Euro jährlich.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Historischer Gesamtbetrag und Einordnung der Zahlungsempfänger.
+
+- [Landtag Rheinland-Pfalz – Antwort der Landesregierung zu RWE-Beiräten, 11.02.2005](https://dokumente.landtag.rlp.de/landtag/drucksachen/3824-14.pdf) · Drucksache 14/3824: Zusammensetzung der Regionalbeiräte und Rechtsfragen bezüglich der Vergütung.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Zu Fragen 1, 2 und 4: institutioneller Rahmen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 4Y1lZQsyuSQ-A0041
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Über die Kohlepolitik seien Milliarden aus öffentlichen Mitteln geflossen, um den Kohlesektor am Leben zu halten.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:20:37–00:21:03](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=1237s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Das UBA bezifferte die für 2009 bis 2019 zusammen veranschlagte Förderung der Steinkohle einschließlich Anpassungsgeldern und Ewigkeitslasten auf über 21 Milliarden Euro. Ziel war ausdrücklich das Ende des subventionierten heimischen Steinkohlebergbaus bis 2018. Die im Januar 2019 empfohlenen rund 40 Milliarden für Kohleregionen betrafen insbesondere Strukturentwicklung; es waren keine schon ausgezahlten 40 Milliarden für Kohleunternehmen. Betreiberentschädigungen waren davon zu unterscheiden.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [Umweltbundesamt – Daten und Fakten zu Braun- und Steinkohlen (2017)](https://www.umweltbundesamt.de/system/files/medien/1410/publikationen/171207_uba_hg_braunsteinkohle_bf.pdf) · Abschnitte 4.5.1–4.5.2: direkte Förderung des Steinkohlebergbaus und andersartige Braunkohlevergünstigungen.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Abschnitt 4.5: Steinkohlefinanzierung und Abgrenzung Braunkohle.
+
+- [Kohlekommission – Abschlussbericht, Januar 2019](https://greenwire.greenpeace.de/system/files/2019-03/Abschlussbericht-kommission-wachstum-strukturwandel-und-beschaeftigung-2019.pdf) · Original des BMWi-Berichts (Spiegel): verschiedene Förder- und Ausstiegsinstrumente und ihre Empfänger.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Kapitel 4 und 5: verschiedene Empfänger, Zweck und Status der Empfehlungen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 4Y1lZQsyuSQ-A0042
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Kohleerzeugung sei besonders dann ein Verlustgeschäft, wenn verursachte Umweltschäden einbezogen werden.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:20:54–00:21:17](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=1254s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Das UBA berechnete für Braunkohlestrom 2016 im Durchschnitt 20,81 Cent externe Umweltkosten je Kilowattstunde und insgesamt 31,2 Milliarden Euro. Das stützt die Dimension der gesellschaftlichen Belastung. Private Betriebsergebnisse sind davon verschieden und fallen nach Unternehmen, Kraftwerk und Zeitraum unterschiedlich aus; der verfügbare RWE-Segmentwert erfasst außerdem Kernenergie. Eine einheitliche Verlustbilanz aller Kohlekraftwerke ergibt sich daraus nicht.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [Umweltbundesamt – Hohe Kosten durch unterlassenen Umweltschutz, 20.11.2018](https://www.umweltbundesamt.de/presse/pressemitteilungen/hohe-kosten-durch-unterlassenen-umweltschutz) · Berechnete gesellschaftliche Umweltschäden der Braunkohleverstromung.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Berechnete externe Kosten.
+
+- [RWE – Geschäftsbericht 2018](https://www.rwe.com/-/media/RWE/documents/05-investor-relations/finanzkalendar-und-veroeffentlichungen/2018-Q4/RWE-annual-report-2018.pdf) · Finanzlage 2018; Zahlen für das gemeinsame Segment Braunkohle und Kernenergie sind kein Ergebnis für Kohle allein.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Ergebnisse werden in gemischten Segmenten ausgewiesen, nicht für sämtliche Kohleanlagen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
 ## 4Y1lZQsyuSQ-A0029
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
@@ -230,6 +419,51 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 
 - [IPCC – Global Warming of 1.5°C, Zusammenfassung für politische Entscheidungsträger (2018)](https://www.ipcc.ch/sr15/chapter/spm/) · Abschnitt D.1 und Fußnote 20: modellierte Pfade der damaligen Paris-Zusagen und bedingte langfristige Erwärmung.
   Quellenzugriff am 2026-11-26. Relevante Stelle im verlinkten Originaltext geöffnet und gelesen. D.1, Fußnote 20: bedingtes Szenario aus damaligen Zusagen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 4Y1lZQsyuSQ-A0046
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Stärkere Erwärmung verursacht weltweit wirtschaftliche Schäden in Billionenhöhe.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:21:41–00:22:05](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=1301s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Eine damals veröffentlichte Modellstudie hielt es bei einer Abzinsung von drei Prozent für wahrscheinlicher als nicht, dass der weltweite kumulierte Vorteil von 1,5 gegenüber 2 °C bis zum Jahrhundertende 20 Billionen US-Dollar übersteigt. Das macht die Größenordnung plausibel, ist aber ein Vergleich von Klimaszenarien in US-Dollar und keine sichere Ausgabenrechnung oder ein jährlich fälliger Betrag.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [Burke, Davis und Diffenbaugh – Large potential reduction in economic damages under UN mitigation targets (2018)](https://web.stanford.edu/~mburke/papers/BurkeDavisDiffenbaugh2018.pdf) · Studie zum geschätzten globalen Unterschied zwischen Erwärmungspfaden und zur Unsicherheit der Schätzungen.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Vergleich von 1,5 und 2 °C, Zeitraum und Abzinsung.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -326,6 +560,51 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 
 - [Britisches Committee on Climate Change – Net Zero, Mai 2019](https://www.theccc.org.uk/wp-content/uploads/2019/05/Net-Zero-The-UKs-contribution-to-stopping-global-warming.pdf) · Offizielle Beratung zur britischen Klimapolitik; Einführung des britischen CO₂-Mindestpreises im Jahr 2013 neben dem EU-Emissionshandel.
   Quellenzugriff am 2026-11-26. Relevante Stelle im verlinkten Originaltext geöffnet und gelesen. Einführung des CO₂-Mindestpreises; weitere gleichzeitig wirksame britische Maßnahmen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## 4Y1lZQsyuSQ-A0047
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Deutschland war mit den damaligen Maßnahmen nicht auf Kurs für das eigene Klimaziel 2020.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:23:23–00:23:31](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=1403s) · nicht bestaetigt; Kandidat: Rezo · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Monologische Rezo-Passage im Originalplayer-Transkript.
+
+Grundlage des Aussagebezugs: Eigene Darstellung des Moderators; erkennbare Fremdzitate nicht als Rezos Aussage gezählt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Suchfenster; noch kein unabhängiger Bild- und Tonabgleich.
+
+Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der zur Zeit des Videos vorliegende Klimaschutzbericht rechnete bei den damals umgesetzten Maßnahmen bis 2020 mit rund 32 Prozent weniger Treibhausgasemissionen gegenüber 1990; Ziel waren mindestens 40 Prozent. Das ist eine damalige Projektion, keine Aussage über das erst später beobachtete Ergebnis und kein Beleg für alle Klimaziele zugleich.
+
+Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
+
+Uebernahme: Direkte Neuerfassung.
+
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+
+### Zugeordnete Quellen
+
+- [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitmarke im deutschen Originalplayer-Transkript.
+
+- [Bundesregierung – Klimaschutzbericht 2017, Bundestagsdrucksache 19/2780 vom Juni 2018](https://dserver.bundestag.de/btd/19/027/1902780.pdf) · S. 7 und 15: damalige Projektion von rund 32 % Minderung bei einem 40-%-Ziel für 2020.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage im Original geöffnet und gelesen. Zusammenfassung und Abschnitt 3.3.2.
 
 ### Offene Fragen und Unsicherheiten
 
