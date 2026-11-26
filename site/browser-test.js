@@ -141,7 +141,10 @@ async function step(name, fn) {
     assert.ok(await page.locator('.stat-todo').count() === 1, 'Zahl noch nicht geprüfter Aussagen sichtbar');
     await page.locator('.notice.todo a').click();
     await page.waitForSelector('#pruefstatus');
-    assert.match(await page.locator('#pruefstatus').textContent(), /Nicht ausreichend belegbar/);
+    assert.match(await page.locator('#pruefstatus').textContent(), /Offen nach Recherche/);
+    assert.deepEqual(await page.locator('#methodik-fakten .badge').allTextContents(), ['Belegt', 'Irreführend / Kontext fehlt', 'Widerlegt']);
+    assert.match(await page.locator('#aussagen-erfassen').textContent(), /ein notwendiger Teil widerlegt/);
+    assert.equal(await page.locator('#faktenindex .fi-table tbody tr').count(), 3);
   });
 
   await step('Video-Ansicht ohne YouTube: Liste vollständig lesbar, keine externen Anfragen', async () => {
