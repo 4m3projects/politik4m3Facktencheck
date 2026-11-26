@@ -58,7 +58,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Bis August 2025 seien rund 11,2 Millionen Euro der Radwegzuschüsse ausgezahlt gewesen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -77,13 +77,13 @@ Zeitgrundlage: Deutsches YouTube-Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zwei Medienberichte geben diese historische Zahl unter Berufung auf das BMZ wieder. Die hier überprüften öffentlichen BMZ- und KfW-Primärseiten belegen die Zusagen, aber nicht denselben Auszahlungsstand. Kein Fehlerurteil ohne direkten Beleg.
+Die archivierte BMZ-Originalmeldung vom Mai 2025 weist für das Fahrradwegenetz in Lima (DE-1-202068302) 11.271.663,75 Euro als Auszahlung aus. Der ARD-Faktenfinder nennt am 26.08.2025 für dasselbe Projekt etwa 11,2 Mio. Euro. Der Betrag bezieht sich auf die 20-Mio.-Euro-Zusage für Lima, nicht auf den gesamten 44-Mio.-Euro-Zusagerahmen. Die XML-Meldung weist keine einzelnen Überweisungen aus.
 
 Grundlage der Bewertung: Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.
 
 Uebernahme: Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.
 
-Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+Bewertungsuebergang: Nachprüfung durch Kai am 26.11.2026: Offen zu Belegt durch archivierte BMZ-Originalmeldung und zeitgenössischen August-Abgleich.
 
 ### Zugeordnete Quellen
 
@@ -96,9 +96,15 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 - [KfW Entwicklungsbank – Aufbau eines Fahrradwegnetzes in Lima](https://www.entwicklungsbank.kfw.de/ipfz/Projektdatenbank/Aufbau-Eines-Fahrradwegnetzes-Im-Metropolbereich-Lima-35874.htm) · Projekt mit Anschluss an Schnellbus- und Metrolinien.
   Quellenzugriff am 2026-11-26. Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft. Sachbeleg oder Prüfkontext.
 
+- [BMZ – IATI-Projektdaten Peru, archivierter Stand vom Mai 2025](https://web.archive.org/web/20250517235256id_/https://teamwork.bmz.de/pub/bscw.cgi/2018133/DE-1-BMZ-PE.xml) · Projekt DE-1-202068302, Standardwährung EUR: Zusage 20.000.000,00 Euro (Typ 2); ausgewiesene Auszahlung 11.271.663,75 Euro (Typ 3, Datensatzdatum 29.01.2025). XML erzeugt am 12.05.2025, archiviert am 17.05.2025. Keine Einzeltranchen ausgewiesen.
+  Quellenzugriff am 2026-11-26. Archivierte Originaldatei des BMZ heruntergeladen und den projektspezifischen XML-Eintrag direkt geprüft. Primärbeleg für den ausgewiesenen Auszahlungsbetrag.
+
+- [ARD-Faktenfinder – Radwege in Peru, Stand 26.08.2025](https://www.tagesschau.de/faktenfinder/entwicklungshilfe-radwege-peru-100.html) · Zeitgenössische Berichterstattung nennt für den Zuschuss von 20 Mio. Euro in Lima rund 11,2 Mio. Euro ausgezahlt.
+  Quellenzugriff am 2026-11-26. Datierter Bericht im Original gelesen; BMZ-Angaben sekundär wiedergegeben. Zeitgenössischer Abgleich für August 2025.
+
 ### Offene Fragen und Unsicherheiten
 
-- Zeitgenössischen Originalbeleg für den konkreten Auszahlungsstand auffinden.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## 6qxCPP_tva4-A0022
 
