@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Dritter Teilbestand: ausgewählte Stellen zu Drogenpolitik, dem OVG-Urteil von März 2019, Klimaprotesten und Wahlalter bis 53:30. Keine durchgehende Inventur; weitere Originalaussagen und ausgelassene Abschnitte bleiben offen. Keine Gesamtfehlerzahl.
+**Abdeckung: Teilbestand.** Vierter Teilbestand: zusätzlich offene Wirtschafts- und Klimaaussagen bei 02:28–09:44 bearbeitet. Ausgewählte Stellen bis 53:30 geprüft; weiterhin keine durchgehende Erfassung, kein vollständiger Bild- und Tonabgleich und keine Gesamtfehlerzahl.
 
 Stand: 2026-11-26 · Video: 4Y1lZQsyuSQ
 
@@ -13,8 +13,8 @@ Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzels
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 39
-- Abgeschlossen: 31
-- Offen (noch nicht geprueft): 8
+- Abgeschlossen: 36
+- Offen (noch nicht geprueft): 3
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
 - Erfasste Behauptungsvorkommen: 40
@@ -30,16 +30,16 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 28 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 33 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 17 | 60.7 % |
-| Teilweise belegt | 9 | 32.1 % |
-| Irreführend / Kontext fehlt | 1 | 3.6 % |
-| Widerlegt | 1 | 3.6 % |
+| Belegt | 17 | 51.5 % |
+| Teilweise belegt | 12 | 36.4 % |
+| Irreführend / Kontext fehlt | 2 | 6.1 % |
+| Widerlegt | 2 | 6.1 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 3 | nicht anwendbar |
 

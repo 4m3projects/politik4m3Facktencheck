@@ -21,6 +21,8 @@
 
 **Ramstein:** Das OVG NRW sah im März 2019 eine Schutzpflicht Deutschlands im konkreten Jemen-Verfahren, stellte aber keine aktive deutsche Teilnahme oder Gestattung der Einsätze fest. Das damalige Urteil verlangte Prüfung, kein pauschales Verbot.
 
+**Armut und CO₂:** Die relative Armutsquote stieg in der damaligen Reihe langfristig, aber nicht jedes Jahr. Die damalige Klimaforschung dokumentierte bereits erhebliche natürliche CO₂-Schwankungen. Die 0,7-Prozent-Angabe erfasst in einer ausgewählten Stichprobe mehrere Arten der Ablehnung, nicht ausschließlich die Behauptung von null menschlichem Einfluss.
+
 ## Prüfgrenzen
 
 Bisher ist nur ein Teilbestand quellengeprüft, mit Einzelbefunden zur CO₂-Bepreisung und einer Wiederholung der Scientists-for-Future-Zahl im Schlussteil. Das Video ist noch nicht durchgehend erfasst. Die deutschen Untertitel sind über den Originalplayer sichtbar; Fundstellen sind ungefähre Suchfenster. Bildmaterial und Originalton wurden nicht separat kontrolliert. Das genaue Aufnahmedatum ist nicht belegt; als spätester Stichtag gilt daher die Veröffentlichung am **18. Mai 2019**. Spätere Erkenntnisse und politische Entwicklungen werden davon getrennt. Die verlinkte Original-Quellenliste antwortet nicht mehr; eine zeitgenössische Spiegelung hilft beim Auffinden der Originalstudien, gilt aber nicht als unabhängiger Sachbeleg. Wiederholungen, Wertungen und Fremdzitate nicht als mehrere Rezo-Fehler zählen. Die Wahlwirkung ist nicht Teil dieser ersten Bewertung.

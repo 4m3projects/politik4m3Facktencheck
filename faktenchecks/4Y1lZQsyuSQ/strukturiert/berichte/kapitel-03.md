@@ -1,6 +1,6 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Dritter Teilbestand: ausgewählte Stellen zu Drogenpolitik, dem OVG-Urteil von März 2019, Klimaprotesten und Wahlalter bis 53:30. Keine durchgehende Inventur; weitere Originalaussagen und ausgelassene Abschnitte bleiben offen. Keine Gesamtfehlerzahl.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Vierter Teilbestand: zusätzlich offene Wirtschafts- und Klimaaussagen bei 02:28–09:44 bearbeitet. Ausgewählte Stellen bis 53:30 geprüft; weiterhin keine durchgehende Erfassung, kein vollständiger Bild- und Tonabgleich und keine Gesamtfehlerzahl.
 
 Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 
@@ -190,7 +190,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die CO₂-Konzentration sei über Millionen Jahre ziemlich gleich geblieben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -209,7 +209,7 @@ Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Den Übergang von kurzfristigem natürlichem Kreislauf zur Aussage über Millionen Jahre und den Bezug der eingeblendeten Quelle am Original prüfen.
+Schon die vor 2019 zugänglichen IPCC-Berichte dokumentierten natürliche, erhebliche Schwankungen: Der atmosphärische CO₂-Anteil lag in jüngeren Kalt- und Warmzeiten grob zwischen 180 und 300 ppm. Für das mittlere Pliozän vor rund drei Millionen Jahren nennt der IPCC rekonstruiert etwa 350 bis 450 ppm bei mittlerer Sicherheit. Die viel stabilere jüngere vorindustrielle Phase ist kein Beleg für Millionen Jahre nahezu konstanten CO₂. Das ändert nichts an der belegten menschlichen Ursache des heutigen Anstiegs.
 
 Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
 
@@ -222,9 +222,15 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 - [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
   Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Fundstelle in den deutschen Originalplayer-Untertiteln.
 
+- [IPCC – Vierter Sachstandsbericht, FAQ 6.2 (2007)](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-6-2.html) · Atmosphärisches CO₂ in Kalt- und Warmzeiten im natürlichen historischen Vergleich.
+  Quellenzugriff am 2026-11-26. Relevante Passage im verlinkten Dokument geöffnet und gelesen. FAQ 6.2: Schwankungsbreite der Kalt- und Warmzeiten.
+
+- [IPCC – Fünfter Sachstandsbericht, WG I, Kapitel 5 (2013)](https://archive.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_Chapter05_FINAL.pdf) · Paläoklimatische Rekonstruktionen; mittleres Pliozän sowie Eisbohrkerne für die jüngeren 800.000 Jahre.
+  Quellenzugriff am 2026-11-26. Relevante Passage im verlinkten Dokument geöffnet und gelesen. Kapitel 5.3.1: Größenordnung für das mittlere Pliozän.
+
 ### Offene Fragen und Unsicherheiten
 
-- Den Übergang von kurzfristigem natürlichem Kreislauf zur Aussage über Millionen Jahre und den Bezug der eingeblendeten Quelle am Original prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## 4Y1lZQsyuSQ-A0022
 
@@ -328,7 +334,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nur 0,7 Prozent aller Veröffentlichungen würden den menschlichen Anteil an der Erwärmung gänzlich verneinen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -347,7 +353,7 @@ Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Originalstudie und Nenner prüfen, insbesondere die Behandlung von Publikationen ohne ausdrückliche Position.
+Cook et al. untersuchten 11.944 einschlägige Abstracts von 1991 bis 2011. 78 davon (gerundet 0,7 Prozent) fielen in drei Ablehnungskategorien, darunter auch implizite Ablehnung und eine Einstufung menschlichen Einflusses als geringer als die Hälfte. Sie behaupteten nicht alle, Menschen hätten gar keinen Anteil. 66,4 Prozent bezogen in der Kurzfassung keine Position. Das Ergebnis ist keine Vollerhebung aller wissenschaftlichen Veröffentlichungen und ändert nichts an der klaren Mehrheitsposition unter den Abstracts, die eine Position bezogen.
 
 Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
 
@@ -360,8 +366,11 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
 - [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
   Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Fundstelle in den deutschen Originalplayer-Untertiteln.
 
+- [Cook et al. – Quantifying the consensus on anthropogenic global warming (2013)](https://doi.org/10.1088/1748-9326/8/2/024024) · Tabellen 2 und 3, Originalaufsatz: Auswahl der Abstracts, Kategorien und prozentuale Verteilung.
+  Quellenzugriff am 2026-11-26. Relevante Passage im verlinkten Dokument geöffnet und gelesen. Tabellen 2 und 3: Kriterien, 78 ablehnende Abstracts und verwendeter Nenner.
+
 ### Offene Fragen und Unsicherheiten
 
-- Originalstudie und Nenner prüfen, insbesondere die Behandlung von Publikationen ohne ausdrückliche Position.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
