@@ -1,0 +1,1405 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "6qxCPP_tva4",
+    "videoUrl": "https://www.youtube.com/watch?v=6qxCPP_tva4",
+    "durationSeconds": 803,
+    "asOf": "2026-11-26",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "Kai: Deutsches automatisches Transkript komplett gelesen. Prüffenster, nicht sekundengenau. Kein separater Bild-/Tonabgleich. Alfreds konkrete Prüfung lag nicht verifiziert vor.",
+    "coverageNote": "Erster quellengeprüfter Durchgang über den Wortlaut des gesamten Videos. Erfasst sind die klar prüfbaren Kernaussagen und zentrale Wertungen. Keine abschließende Vollständigkeits- oder Ampelzusage."
+  },
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Constantin Schreiber",
+      "videoRole": "Autor und Moderation",
+      "identityBasis": "YouTube-Kanal und monologisches Originalplayer-Transkript."
+    }
+  ],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Constantin Schreiber – Originalvideo vom 5. November 2026",
+      "url": "https://www.youtube.com/watch?v=6qxCPP_tva4",
+      "details": "Deutsches automatisches Originalplayer-Transkript, 13:23.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S002",
+      "title": "BMZ – Einzelplan 23, 2026",
+      "url": "https://www.bmz.de/de/ministerium/zahlen-fakten/bmz-haushalt",
+      "details": "2026 rund 10,06 Milliarden Euro und 1,92 Prozent des Bundeshaushalts.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S003",
+      "title": "BMZ – Öffentliche Entwicklungsleistungen, Berichtsjahr 2025",
+      "url": "https://www.bmz.de/de/ministerium/zahlen-fakten/oda-zahlen",
+      "details": "Vorläufige OECD-Zahlen (April 2026), Mittelherkunft, Haushalts- und ODA-Abgrenzung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S004",
+      "title": "KfW-Kommunalpanel 2026",
+      "url": "https://www.kfw.de/PDF/Download-Center/Konzernthemen/Research/PDF-Dokumente-KfW-Kommunalpanel/KfW-Kommunalpanel-2026.pdf",
+      "details": "Kommunalbefragung, Kapitel 3: wahrgenommener Investitionsrückstand; tatsächliche und geplante Investitionen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S005",
+      "title": "GIZ – Geschäftsjahr 2025",
+      "url": "https://www.giz.de/de/ueber-uns/unsere-berichterstattung/integrierter-unternehmensbericht-2025/geschaeftsjahr-2025",
+      "details": "3,969 Mrd. Euro, mehr als 1.600 Projekte, Kofinanzierung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S006",
+      "title": "GIZ – Integrierter Unternehmensbericht 2025",
+      "url": "https://www.giz.de/de/ueber-uns/unsere-berichterstattung/integrierter-unternehmensbericht-2025",
+      "details": "119 Länder, in denen die GIZ aktiv ist.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S007",
+      "title": "GIZ – Evaluierungsbericht 2024",
+      "url": "https://www.giz.de/sites/default/files/media/document/2025-09/deu-giz-evaluierungsbericht-2024-barrierefrei.pdf",
+      "details": "Bewertete Stichprobe, Sechserskala, Verteilung; Energieportfolio.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S008",
+      "title": "Bundestag – Regierungsantwort 21/8870 vom 02.11.2026",
+      "url": "https://dserver.bundestag.de/btd/21/088/2108870.pdf",
+      "details": "Antworten 1–7 zu kaufmännischer Prüfung, Ausgleich und 24 Mitarbeitenden.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S009",
+      "title": "GIZ – Untersuchungen zu Jemen abgeschlossen, 18.09.2026",
+      "url": "https://www.giz.de/de/newsroom/meldungen/untersuchungen-zu-jemen-abgeschlossen",
+      "details": "Rund 15 Mio. Euro für 2014–2024; Abschluss der Untersuchungen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S010",
+      "title": "Bundestag – Schriftliche Fragen, 21/7052, Juli 2026",
+      "url": "https://dserver.bundestag.de/btd/21/070/2107052.pdf",
+      "details": "Antwort auf Frage 240 zum Auslaufen des GIZ-Portfolios bis März 2027.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S011",
+      "title": "BMZ – Antworten zu Radwegen in Peru und Mobilität in Indien",
+      "url": "https://www.bmz.de/de/fragen-an-das-entwicklungsministerium",
+      "details": "Zuschüsse, Projektumfang und verschiedene Finanzierungsarten.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S012",
+      "title": "GIZ – SMART-SUT in Indien",
+      "url": "https://www.giz.de/en/projects/dkti-integrated-and-sustainable-urban-transport-systems-smart-cities-india",
+      "details": "Abgeschlossen; Projektlaufzeit 2017–2022, breitere Ziele und Evaluation.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S013",
+      "title": "IWF – World Economic Outlook, Oktober 2026",
+      "url": "https://www.imf.org/external/datamapper/NGDPD%40WEO",
+      "details": "Nominales BIP in US-Dollar, vergleichbare 2026er Schätzungen. Indien 4,06, Großbritannien 4,27 und Japan 4,34 Billionen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S014",
+      "title": "Weltbank – World Development Indicators, BIP in laufenden US-Dollar",
+      "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?most_recent_value_desc=true",
+      "details": "2025 Indien hinter Großbritannien; historisch wechselnde Rangfolge.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S015",
+      "title": "ISRO – Chandrayaan-3 am südlichen Hochbreiten-Landeplatz",
+      "url": "https://www.isro.gov.in/Ch3_Alpha_Particle_X-ray_Spectrometer.html",
+      "details": "Landung am 23. August 2023 bei 69,37 Grad Süd.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S016",
+      "title": "SIPRI – Yearbook 2026, Zusammenfassung",
+      "url": "https://www.sipri.org/sites/default/files/2026-06/yb26_summary_en_1.pdf",
+      "details": "Eigenes Forschungsinstitut führt Indien unter Staaten mit Atomwaffen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S017",
+      "title": "KfW Entwicklungsbank – Aufbau eines Fahrradwegnetzes in Lima",
+      "url": "https://www.entwicklungsbank.kfw.de/ipfz/Projektdatenbank/Aufbau-Eines-Fahrradwegnetzes-Im-Metropolbereich-Lima-35874.htm",
+      "details": "Projekt mit Anschluss an Schnellbus- und Metrolinien.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    },
+    {
+      "id": "S018",
+      "title": "DEval – Länderportfolioevaluierung Peru",
+      "url": "https://www.deval.org/fileadmin/Redaktion/PDF/05-Publikationen/Berichte/2025_LPE_Peru/2024_DEval_LPE-Peru_web_barrierefrei.pdf",
+      "details": "Im Untersuchungszeitraum noch kein belastbarer Nachweis der konkreten Klimawirkung der im Aufbau befindlichen Vorhaben.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Relevante Originalangaben bzw. Fundstelle im deutschen Originalplayer-Transkript geprüft."
+    }
+  ],
+  "claims": [
+    {
+      "id": "6qxCPP_tva4-A0001",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In deutschen Kommunen fehlen Mittel für Infrastruktur wie Schulen und Straßen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die KfW-Befragung ermittelt 231,2 Milliarden Euro wahrgenommenen Investitionsrückstand. Allein Schulen stehen bei 68,9 Milliarden. Das ist eine auf Kommunalangaben beruhende Schätzung, keine geprüfte Rechnung jedes Projekts.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0001",
+          "startSeconds": 15,
+          "endSeconds": 38,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0002",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Etat des Entwicklungsministeriums liegt bei rund 10 Milliarden Euro jährlich.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Für die gemeinten Haushaltsjahre stimmt die Größenordnung: 10,10 Mrd. Euro 2025, 10,06 Mrd. Euro 2026. Das ist kein dauerhaft konstanter Betrag.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Sachbeleg oder Prüfkontext."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0003",
+          "startSeconds": 38,
+          "endSeconds": 52,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0003",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die deutsche ODA lag 2025 bei rund 26 Milliarden Euro, mehr als der BMZ-Etat allein.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das BMZ veröffentlicht auf Grundlage vorläufiger OECD-Zahlen rund 26 Mrd. Euro oder 0,56 % des Bruttonationaleinkommens. Die ODA ist eine Statistik über Leistungen verschiedener öffentlicher Stellen, kein zweiter Haushaltstitel zusätzlich zum BMZ-Etat.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0005",
+          "startSeconds": 46,
+          "endSeconds": 70,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0004",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In der ODA stecken auch bestimmte Kosten für Geflüchtete im Inland.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die OECD-Regeln berücksichtigen bestimmte Kosten für Versorgung und Unterbringung im ersten Jahr. Für 2025 weist das BMZ dafür rund 4,3 Mrd. Euro aus. Schreiber bringt den Vorbehalt ausdrücklich selbst.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0007",
+          "startSeconds": 61,
+          "endSeconds": 76,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0005",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Deutschland sollte die Entwicklungszusammenarbeit stark kürzen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Politisches Urteil über Prioritäten, keine als richtig oder falsch bewertbare Tatsachenbehauptung.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0009",
+          "startSeconds": 100,
+          "endSeconds": 131,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0006",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die GIZ hatte 2025 rund vier Milliarden Euro Geschäftsvolumen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die GIZ berichtet 3,969 Mrd. Euro. Das Geschäftsvolumen ist nicht identisch mit Verwaltungskosten oder einem zusätzlichen Bundesetat: Es umfasst das gemeinnützige Geschäft und International Services, einschließlich verschiedener Finanzierungsquellen.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0011",
+          "startSeconds": 138,
+          "endSeconds": 154,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        },
+        {
+          "id": "6qxCPP_tva4-O0012",
+          "startSeconds": 683,
+          "endSeconds": 695,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0007",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die GIZ arbeitete 2025 an mehr als 1.600 Projekten.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Geschäftsbericht spricht von mehr als 1.600 Projekten; im Überblick rund 1.600 laufende Vorhaben. Die Zahl allein misst weder Wirkung noch Verwaltungsaufwand.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Sachbeleg oder Prüfkontext."
+        },
+        {
+          "sourceId": "S006",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0013",
+          "startSeconds": 146,
+          "endSeconds": 154,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        },
+        {
+          "id": "6qxCPP_tva4-O0014",
+          "startSeconds": 683,
+          "endSeconds": 695,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0008",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die GIZ arbeitet in rund 90 Ländern.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Der Unternehmensbericht 2025 nennt 119 Länder. Für die im Video nicht näher eingeschränkte Angabe lässt sich die Differenz nicht durch Rundung erklären. Eine abweichende Abgrenzung wird nicht genannt.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S006",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0015",
+          "startSeconds": 146,
+          "endSeconds": 154,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Der GIZ-Unternehmensbericht 2025 nennt 119 Länder, nicht rund 90."
+    },
+    {
+      "id": "6qxCPP_tva4-A0009",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Rund 60 Prozent der untersuchten Projekte kamen in die besten beiden Bewertungskategorien.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Evaluierungsbericht bestätigt rund 60 % mit Note 1 oder 2 in rund 150 Bewertungen. Rund 24 % hatten Note 3, 15 % Note 4 und gut 1 % Note 5. Schreiber sagt, dass ein Teil nicht in den beiden besten Kategorien liegt, nicht dass 40 % komplett gescheitert seien. Die Stichprobe ist nicht mit allen 1.600 laufenden Projekten gleichzusetzen.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S007",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0017",
+          "startSeconds": 179,
+          "endSeconds": 207,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0010",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Energiebereich waren GIZ-Projekte im Evaluierungsbericht besser bewertet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Bericht nennt 93 % der evaluierten Energievorhaben als erfolgreich; das ist nicht die Erfolgsmessung sämtlicher Energieprojekte.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S007",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0019",
+          "startSeconds": 188,
+          "endSeconds": 198,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0011",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei GIZ-Vorhaben im Jemen gab es Unregelmäßigkeiten und Betrugsverdacht.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Externe Sonderprüfungen bestätigten kaufmännische Unregelmäßigkeiten. Laut Bundesregierung gab es im Jemen keine eingeleiteten strafrechtlichen Ermittlungen. Das ersetzt kein Strafurteil über einzelne Personen.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S009",
+          "note": "Sachbeleg oder Prüfkontext."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0021",
+          "startSeconds": 274,
+          "endSeconds": 287,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0012",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die GIZ trennte sich im Jemen von 24 Beschäftigten.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Regierungsantwort dokumentiert acht fristlose Kündigungen, 14 nicht verlängerte Verträge und zwei Freistellungen mit später auslaufenden Verträgen.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0023",
+          "startSeconds": 287,
+          "endSeconds": 296,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0013",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Jemen-Schadenshöhe werde noch geprüft; bislang sei nur eine Größenordnung bekannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Die Größenordnung stimmt, der Stand nicht: Die GIZ meldete den Abschluss der Untersuchungen bereits am 18.09.2026 und nannte rund 15 Mio. Euro. Die Bundestagsantwort vom 02.11. beziffert den geltend gemachten Ausgleich in Antwort 3/19 auf rund 15,05 Mio. Euro. Das Video erschien am 05.11.; das genaue Produktionsdatum ist nicht belegt.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S009",
+          "note": "Sachbeleg oder Prüfkontext."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0025",
+          "startSeconds": 294,
+          "endSeconds": 311,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Die GIZ meldete den Abschluss und rund 15 Mio. Euro bereits am 18. September 2026."
+    },
+    {
+      "id": "6qxCPP_tva4-A0014",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die GIZ-Zusammenarbeit im Jemen wurde beendet; das Portfolio läuft im März 2027 aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Regierungsantwort bestätigt das Auslaufen im März 2027. Das ist enger als eine Aussage über sämtliche deutsche Hilfe oder humanitäre Hilfen im Jemen.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S010",
+          "note": "Sachbeleg oder Prüfkontext."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0027",
+          "startSeconds": 298,
+          "endSeconds": 310,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0015",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutschland förderte Ausbildungen für Frauen und Transpersonen in Indien, auch im E-Rikscha-Bereich.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das BMZ bestätigt die Förderung als Teil eines Stadtverkehrsprojekts. Das Teilprojekt war nicht die gesamte Verkehrsmaßnahme.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Sachbeleg oder Prüfkontext."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0029",
+          "startSeconds": 376,
+          "endSeconds": 401,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0016",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Für den Ausbildungs-Teil wurden rund 180.000 Euro bereitgestellt; das Gesamtprojekt hatte 10,5 Millionen Euro.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das BMZ nennt die beiden Beträge getrennt. Das Gesamtprojekt umfasst weitere Stadtverkehrsmaßnahmen; es ist laut GIZ abgeschlossen (2017–2022).",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Sachbeleg oder Prüfkontext."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0031",
+          "startSeconds": 384,
+          "endSeconds": 402,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0017",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Indien sei die fünftgrößte Volkswirtschaft der Welt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das trifft für Weltbankdaten 2024 nach nominalem BIP zu; nach demselben Maßstab liegt Indien 2025 hinter dem Vereinigten Königreich. Der damals verfügbare IWF-Ausblick Oktober 2026 schätzt für 2026 ebenfalls Rang 6 (Indien 4,06, Großbritannien 4,27 Billionen US-Dollar). Schreiber nennt weder Bezugsjahr noch Maßstab.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S013",
+          "note": "Sachbeleg oder Prüfkontext."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0033",
+          "startSeconds": 415,
+          "endSeconds": 426,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Nominal war Indien 2024 Fünfter; Weltbank 2025 und IWF-Schätzung 2026 führen Indien auf Rang sechs."
+    },
+    {
+      "id": "6qxCPP_tva4-A0018",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Indien ist eine Atommacht.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "SIPRI zählt Indien zu den Staaten mit Atomwaffen. Das sagt für sich genommen nichts über den Nutzen des konkreten Stadtverkehrsprojekts.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S016",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0035",
+          "startSeconds": 415,
+          "endSeconds": 426,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0019",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Indien landete 2023 eine Sonde am Mondsüdpol.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Chandrayaan-3 landete am 23.08.2023 in den südlichen hohen Breiten bei 69,37° Süd; das ist die Südpolregion im weiteren Sinn, nicht der geografische Südpol bei 90° Süd.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0037",
+          "startSeconds": 424,
+          "endSeconds": 431,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Die Landung 2023 stimmt; sie erfolgte bei 69,37° Süd, nicht direkt am geografischen Südpol."
+    },
+    {
+      "id": "6qxCPP_tva4-A0020",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Für Radwege in Peru wurden 44 Millionen Euro an Zuschüssen zugesagt; 315 Millionen Euro Geschenk allein für Radwege stimmen nicht.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das BMZ nennt 20 Mio. Euro für Lima (Zusage 2020) und 24 Mio. Euro für weitere Radwege (2022). Kredite für andere Verkehrsprojekte sind nicht mit Radwegzuschüssen gleichzusetzen. Die 315-Mio.-Behauptung weist Schreiber ausdrücklich zurück; sie wird ihm nicht als Fehler angerechnet.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Sachbeleg oder Prüfkontext."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0039",
+          "startSeconds": 488,
+          "endSeconds": 522,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0021",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bis August 2025 seien rund 11,2 Millionen Euro der Radwegzuschüsse ausgezahlt gewesen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Zwei Medienberichte geben diese historische Zahl unter Berufung auf das BMZ wieder. Die hier überprüften öffentlichen BMZ- und KfW-Primärseiten belegen die Zusagen, aber nicht denselben Auszahlungsstand. Kein Fehlerurteil ohne direkten Beleg.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Sachbeleg oder Prüfkontext."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [
+        "Zeitgenössischen Originalbeleg für den konkreten Auszahlungsstand auffinden."
+      ],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0041",
+          "startSeconds": 507,
+          "endSeconds": 522,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0022",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Auch bei sinnvollen Projekten sollte Deutschland nicht automatisch die Finanzierung übernehmen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Frage der Mittelpriorität ist politisch. Der Radausbau soll Bus und Metro anbinden. DEval konnte im damaligen Beobachtungsfenster die konkrete Klimawirkung der Projekte noch nicht bewerten; beides entscheidet nicht, ob Deutschland finanzieren sollte.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Sachbeleg oder Prüfkontext."
+        },
+        {
+          "sourceId": "S018",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0043",
+          "startSeconds": 521,
+          "endSeconds": 566,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0023",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bundes- und Kommunalhaushalte sind getrennt; Ausgaben sind nicht eins zu eins verrechenbar.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Schreiber räumt die Haushaltstrennung ausdrücklich ein. Aus dem Nebeneinander von Entwicklungsmitteln und kommunalem Investitionsbedarf folgt nicht, dass ein gestrichenes Auslandsprojekt automatisch eine Schule finanziert; dafür braucht es eine politische Entscheidung und einen Ausgabenweg.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Sachbeleg oder Prüfkontext."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Sachbeleg oder Prüfkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0045",
+          "startSeconds": 581,
+          "endSeconds": 614,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6qxCPP_tva4-A0024",
+      "videoId": "6qxCPP_tva4",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Akute Nothilfe und deutsche Interessen sollen Vorrang erhalten; die GIZ soll kleiner werden.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Reformvorschlag. Die Beispiele Migration, Rohstoffe und Handel formuliert Schreiber als Auswahlkriterien, nicht als belegte Wirkungen eines genannten Projekts.",
+      "assessmentBasis": "Kai; Quellenabgleich und deutsches Originalplayer-Transkript. Wissensstand zur Veröffentlichung am 05.11.2026 soweit datierbar.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Inhaltlich zusammengehörige Wiederholungen gemeinsam erfasst.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-26"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Originalplayer-Fundstelle."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "6qxCPP_tva4-O0047",
+          "startSeconds": 614,
+          "endSeconds": 803,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Monologische Passage im deutschen Originalplayer-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigener Beitrag des Moderators; zurückgewiesene Fremdbehauptung nicht zugerechnet.",
+          "note": "Suchfenster aus automatisch erzeugten Untertiteln; keine sekundengenaue Bild-/Tonprüfung.",
+          "timeBasis": "Deutsches YouTube-Originalplayer-Transkript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "legacyPoints": []
+}

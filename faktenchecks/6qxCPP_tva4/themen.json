@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "videoId": "6qxCPP_tva4",
+  "basis": "Zuordnung anhand des deutschen Originalplayer-Transkripts.",
+  "topics": [
+    {
+      "topic": "wirtschaft",
+      "relevance": "Schwerpunkt",
+      "basis": "Bundeshaushalt, Entwicklungsleistungen und kommunale Investitionen.",
+      "segments": [
+        {
+          "startSeconds": 15,
+          "endSeconds": 77,
+          "note": "Bundeshaushalt, Entwicklungsleistungen und kommunale Investitionen."
+        }
+      ]
+    }
+  ],
+  "claims": []
+}
