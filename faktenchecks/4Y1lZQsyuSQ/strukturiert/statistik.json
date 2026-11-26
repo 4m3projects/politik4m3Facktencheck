@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Siebter Teilbestand: Originaltextfenster zu Klima-Rückkopplung, Energiekosten, CO₂-Budget, Sibiu und Klimaprotesten ergänzt. Keine durchgehende Erfassung, Gesamtfehlerzahl oder vollständige Bild- und Tonprüfung.",
+  "coverageNote": "Achter Teilbestand: Erbschaft und Vermögensaufbau eingeordnet; die verbundene Stelle zu Wetterextremen, Schäden und Binnenvertreibungen in drei Aussagen getrennt. Keine durchgehende Erfassung, Gesamtfehlerzahl oder vollständige audiovisuelle Prüfung.",
   "videoId": "4Y1lZQsyuSQ",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 55,
-  "uniqueStatements": 55,
+  "statementRecords": 57,
+  "uniqueStatements": 57,
   "referenceOnlyStatements": 0,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 56,
+  "assertionOccurrences": 58,
   "additionalAssertionOccurrences": 1,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 0,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 3,
+    "Offen": 1,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 0,
-    "Abgeschlossen": 52
+    "Abgeschlossen": 56
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 52,
+    "Tatsachenbehauptung": 54,
     "Meinung": 3,
     "Prognose": 0
   },
-  "completedFacts": 49,
-  "openFacts": 3,
+  "completedFacts": 53,
+  "openFacts": 1,
   "inProgressFacts": 0,
   "unverifiableFacts": 0,
-  "percentageDenominator": 49,
+  "percentageDenominator": 53,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
       "completedCount": 22,
-      "completedFactPercent": 44.9
+      "completedFactPercent": 41.5
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 20,
-      "completedFactPercent": 40.8
+      "completedCount": 22,
+      "completedFactPercent": 41.5
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 4,
-      "completedFactPercent": 8.2
+      "completedCount": 6,
+      "completedFactPercent": 11.3
     },
     {
       "category": "Widerlegt",
       "completedCount": 3,
-      "completedFactPercent": 6.1
+      "completedFactPercent": 5.7
     },
     {
       "category": "Nicht ausreichend belegbar",
@@ -109,19 +109,19 @@
         ]
       }
     ],
-    "eligibleFacts": 52,
+    "eligibleFacts": 54,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 52,
-    "factsWithUncertainAttribution": 52,
-    "factsWithUncertainOwnRole": 52,
+    "factsWithoutReliablePerson": 54,
+    "factsWithUncertainAttribution": 54,
+    "factsWithUncertainOwnRole": 54,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 56,
+      "Plausibel": 58,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
-      "Plausibel": 56,
+      "Plausibel": 58,
       "Ungeklärt": 0
     }
   }

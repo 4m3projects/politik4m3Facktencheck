@@ -1,6 +1,6 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Siebter Teilbestand: Originaltextfenster zu Klima-Rückkopplung, Energiekosten, CO₂-Budget, Sibiu und Klimaprotesten ergänzt. Keine durchgehende Erfassung, Gesamtfehlerzahl oder vollständige Bild- und Tonprüfung.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Achter Teilbestand: Erbschaft und Vermögensaufbau eingeordnet; die verbundene Stelle zu Wetterextremen, Schäden und Binnenvertreibungen in drei Aussagen getrennt. Keine durchgehende Erfassung, Gesamtfehlerzahl oder vollständige audiovisuelle Prüfung.
 
 Kai: Das deutsche Transkript im YouTube-Originalplayer geprüft. Belegte Einzelstellen bis zum Schlussteil, keine gesonderte Bild-/Tonprüfung. Bewertungsstichtag 18.05.2019 (Aufnahmedatum nicht gesichert); spätere Erkenntnisse werden separat behandelt.
 
@@ -362,9 +362,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Die meisten Reichen verdankten ihren Reichtum überwiegend Erbschaften oder Schenkungen statt eigener Arbeit.
+**Eigene Beschreibung:** Die meisten reichen Menschen seien in erster Linie durch Erben oder Schenkungen statt eigener Arbeit reich geworden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -383,22 +383,25 @@ Zeitgrundlage: Zeitmarken aus deutschem Originalplayer-Transkript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Anteil des ererbten Vermögens am Gesamtvermögen beantwortet nicht, wie viele der reichen Personen dadurch reich wurden. Dafür sind eine Definition von reich, die Bezugsgruppe sowie eine Untersuchung der Ursache der Vermögensbildung nötig.
+Eine 2016 veröffentlichte DIW-Sondererhebung bei Haushalten mit mindestens einer Million Euro Geldvermögen zeigt: Gut drei Viertel der Befragten hatten schon eine Erbschaft oder Schenkung erhalten. Rund zwei Drittel bezeichneten die Übertragung als mindestens mit maßgeblich für den Vermögensaufbau. Damit stützt die Studie die Bedeutung von Übertragungen in ihrer Stichprobe. Da die Erhebung nicht repräsentativ ist und auch ein Mitgrund zählt, belegt sie nicht, dass die Mehrheit aller Reichen hauptsächlich oder statt eigener Arbeit dadurch reich wurde. Der Anteil von Erbschaften an einem Vermögenswert wäre wiederum eine andere Kennzahl.
 
 Grundlage der Bewertung: Kai; damaliger Wissensstand bis 18.05.2019. Originalplayer-Transkript, keine separate Bild-/Tonkontrolle.
 
 Uebernahme: Direkte Neuerfassung.
 
-Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-26
+Bewertungsuebergang: 26.11.2026, Kai: zeitgenössische Quellen und Bezugsgrößen geprüft.
 
 ### Zugeordnete Quellen
 
 - [YouTube – Rezos Originalvideo](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) · Direkt geöffnetes deutsches Player-Transkript; Originalwortlaut bei einzelnen mehrdeutigen Stellen noch im Ton zu kontrollieren.
-  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Fundstelle in den deutschen Originalplayer-Untertiteln.
+  Quellenzugriff am 2026-11-26. Relevante Stelle aus Originaldokument bzw. deutschem YouTube-Player geprüft. Zeitfenster im Originalplayer-Transkript; Fundstelle ungefähr.
+
+- [Schröder et al. – Hochvermögende in Deutschland, DIW Wochenbericht 42/2016](https://www.diw.de/de/diw_01.c.545200.de/publikationen/wochenberichte/2016_42_1/hochvermoegende_in_deutschland_unterscheiden_sich_nicht_nur_anhand_ihres_vermoegens_von_anderen_bevoelkerungsgruppen.html) · Nicht repräsentative Sondererhebung zu hochvermögenden Haushalten ab 1 Mio. Euro Geldvermögen; gut drei Viertel mit Erbschaft oder Schenkung. Bei rund zwei Dritteln der Befragten war die Übertragung nach eigener Angabe mit oder ganz maßgeblich.
+  Quellenzugriff am 2026-11-26. Originalstudie, Originalbericht oder veröffentlichte Originaldaten mit Bezugsgrößen geprüft. Nicht repräsentative Stichprobe und subjektive Einschätzung „(mit) maßgeblich“.
 
 ### Offene Fragen und Unsicherheiten
 
-- Wer gilt in der eingeblendeten Studie als reich, und misst sie einen Anteil von Personen oder von Vermögen?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## 4Y1lZQsyuSQ-A0011
 

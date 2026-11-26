@@ -213,6 +213,18 @@
       "topics": [
         "energie"
       ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0056",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "4Y1lZQsyuSQ-A0057",
+      "topics": [
+        "energie"
+      ]
     }
   ],
   "history": [
@@ -220,6 +232,11 @@
       "date": "2026-11-26",
       "agent": "Kai",
       "change": "Erste Themenzuordnung im Teilbestand; vorhandene IDs genutzt."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Wetterextreme, Schäden und Binnenvertreibungen mit getrennten Aussage-IDs dem vorhandenen Themenbezug zugeordnet."
     }
   ]
 }
