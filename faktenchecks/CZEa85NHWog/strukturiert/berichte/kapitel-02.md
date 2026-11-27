@@ -1,8 +1,8 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen. Der neu erfasste Prüfpunkt zu geistigem Eigentum bleibt bis zum Abgleich der Originalstelle offen.
 
-Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips.
+Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips. Codex ergänzte am 27.11.2026 den Marktwertvergleich und Quellen zu KI-Lizenzierung, Rechenzentrumsstandorten, Chip-Patenten und Stiftungskontakten.
 
 ## CZEa85NHWog-A0004
 

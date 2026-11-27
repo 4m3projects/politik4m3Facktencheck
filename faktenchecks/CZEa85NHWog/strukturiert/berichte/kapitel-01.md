@@ -1,8 +1,8 @@
 # Kapitel 01: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen. Der neu erfasste Prüfpunkt zu geistigem Eigentum bleibt bis zum Abgleich der Originalstelle offen.
 
-Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips.
+Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips. Codex ergänzte am 27.11.2026 den Marktwertvergleich und Quellen zu KI-Lizenzierung, Rechenzentrumsstandorten, Chip-Patenten und Stiftungskontakten.
 
 ## CZEa85NHWog-A0001
 
@@ -103,7 +103,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nvidias Börsenwert sei am Tag der Rückkehr Huangs um einen Betrag gewachsen, der rund 42 % des Marktwerts der DAX-Unternehmen entspreche.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -122,13 +122,13 @@ Zeitgrundlage: Sichtbares Transkript im YouTube-Originalplayer.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Rückkehr fiel mit einem starken Kurssprung zusammen. Der Tagesbericht reicht aber nicht zum Vergleich mit einer in gleicher Währung und zum gleichen Bewertungsstichtag bestimmten DAX-Marktkapitalisierung.
+Der Nvidia-Kurs stieg vom 20. zum 23. November von 125,53 auf 165,05 USD. Mit rund 24,1 Milliarden Aktien ergibt das näherungsweise 952 Milliarden USD, wie auch die ARD-Finanzredaktion berichtet. Beim EZB-Referenzkurs von 1,0939 USD je Euro sind das rund 871 Milliarden EUR. STOXX weist zum 30. Oktober 2.107,6 Milliarden EUR volle Marktkapitalisierung und 1.769,5 Milliarden EUR Streubesitzkapitalisierung aus. Der Kursgewinn entspricht damit 41,3 % des ersten oder 49,2 % des zweiten Wertes. Rund 42 % sind bei voller Kapitalisierung plausibel. Der genaue tagesgleiche Anteil bleibt offen. Die Aktienzahl stammt aus dem August und dient als Näherung.
 
-Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.
+Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.
 
 Uebernahme: Eigenständiger Prüfgegenstand ohne Altpunkt.
 
-Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht.
+Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht. Codex, 27.11.2026: Offen → Teilweise belegt. Rechnung und Grenze des Stichtagsabgleichs ergänzt.
 
 ### Zugeordnete Quellen
 
@@ -138,9 +138,27 @@ Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenz
 - [Associated Press · US-Börsenbericht vom 23.11.2026](https://apnews.com/article/wall-street-stocks-dow-nasdaq-fcdf1bad36b4f81c90cbb0f33a2c5704) · Börsenreaktion auf Huangs Rückkehr; kein DAX-Marktwert.
   Quellenzugriff am 2026-11-27. Zeitgenössischer Marktbericht als Kontext gelesen; kein Beleg für den behaupteten Marktwertvergleich. Sachbeleg oder ausdrücklich abgegrenzter Kontext.
 
+- [ARD-Finanzredaktion · Nvidia-Marktbericht](https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-102.html) · 24.11.2026. Tageszuwachs von rund 952 Milliarden USD im Bericht gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Plausibilisiert den Zuwachs in USD.
+
+- [Nasdaq Dorsey Wright · Nvidia-Kurs am 20.11.](https://dorseywright.nasdaq.com/reports/database/menu/stocktype/1/date/2026-11-20/new_all/1/rpt/56/allprice/1/all_scales/1/sourcerpt/) · 20.11.2026. Kurs von 125,53 USD im Tagesbericht gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Kurs am vorherigen Handelstag.
+
+- [Nasdaq Dorsey Wright · Nvidia-Kurs am 23.11.](https://dorseywright.nasdaq.com/research/bigwire/2026/11/23/11-23-2026/analyst-observations) · 23.11.2026. Kurs von 165,05 USD im Tagesbericht gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Kurs am 23. November.
+
+- [Nvidia · Form 10-Q, Q2 FY 2027](https://investor.nvidia.com/files/doc_financials/2027/NVDA-2027-Q2-10Q-Final-including-exhibits.pdf) · Deckblatt. Rund 24,1 Milliarden ausstehende Aktien zum 21.08.2026 als Näherung.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Gerundete Aktienzahl als Näherung.
+
+- [Europäische Zentralbank · Euro-Referenzkurs](https://www.ecb.europa.eu/stats/exchange/eurofxref/shared/pdf/2026/11/20261123.pdf) · 23.11.2026. Tabelle mit USD-Referenzkurs gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Umrechnung in Euro.
+
+- [STOXX · DAX-Faktenblatt November 2026](https://stoxx.com/index/daxnr/factsheet/2026-11/) · 30.10.2026. Tabelle zur vollen und zur Streubesitzkapitalisierung samt Stichtag gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Kapitalisierungen zum 30. Oktober.
+
 ### Offene Fragen und Unsicherheiten
 
-- Das mit den 42 % gemeinte Berechnungsverfahren klären. Nvidia vor/nach US-Börsenschluss, DAX-Gesamtwert (Vollkapitalisierung oder Streubesitz) und Devisenkurs für den 23.11.2026 zusammenführen.
+- Wie hoch war die volle Marktkapitalisierung aller DAX-Unternehmen am 23.11.2026?
 
 ## CZEa85NHWog-A0017
 

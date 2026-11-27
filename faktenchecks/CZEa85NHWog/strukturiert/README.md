@@ -2,22 +2,22 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen.
+**Abdeckung: Teilbestand.** Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen. Der neu erfasste Prüfpunkt zu geistigem Eigentum bleibt bis zum Abgleich der Originalstelle offen.
 
 Stand: 2026-11-27 · Video: CZEa85NHWog
 
-Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips.
+Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips. Codex ergänzte am 27.11.2026 den Marktwertvergleich und Quellen zu KI-Lizenzierung, Rechenzentrumsstandorten, Chip-Patenten und Stiftungskontakten.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 21
-- Abgeschlossen: 18
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 22
+- Abgeschlossen: 19
 - Offen (noch nicht geprueft): 3
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
-- Erfasste Behauptungsvorkommen: 21
+- Erfasste Behauptungsvorkommen: 22
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
 - Davon bestaetigte Wiederholungen derselben Person: 0
 - Rueckfragen/Fremdbezuege/Zurueckweisungen: 0
@@ -30,17 +30,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 17 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 18 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 7 | 41.2 % |
-| Teilweise belegt | 0 | 0.0 % |
-| Irreführend / Kontext fehlt | 4 | 23.5 % |
-| Widerlegt | 5 | 29.4 % |
-| Nicht ausreichend belegbar | 1 | 5.9 % |
+| Belegt | 7 | 38.9 % |
+| Teilweise belegt | 1 | 5.6 % |
+| Irreführend / Kontext fehlt | 4 | 22.2 % |
+| Widerlegt | 5 | 27.8 % |
+| Nicht ausreichend belegbar | 1 | 5.6 % |
 | Meinung / Prognose | 1 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
@@ -52,12 +52,12 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 1 von 20. Ohne verlaessliche Personenzuordnung: 19.
+Regulaer einer Person zugeordnete Tatsachen: 1 von 21. Ohne verlaessliche Personenzuordnung: 20.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 19; mit unsicherem eigenem Aussagebezug: 19. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 20; mit unsicherem eigenem Aussagebezug: 20. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 1, Aussagebezug 1 Vorkommen.
-- Plausibel: Sprecherzuordnung 20, Aussagebezug 20 Vorkommen.
+- Plausibel: Sprecherzuordnung 21, Aussagebezug 21 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |

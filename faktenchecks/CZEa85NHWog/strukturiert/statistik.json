@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen.",
+  "coverageNote": "Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen. Der neu erfasste Prüfpunkt zu geistigem Eigentum bleibt bis zum Abgleich der Originalstelle offen.",
   "videoId": "CZEa85NHWog",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 21,
-  "uniqueStatements": 21,
+  "statementRecords": 22,
+  "uniqueStatements": 22,
   "referenceOnlyStatements": 0,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 21,
+  "assertionOccurrences": 22,
   "additionalAssertionOccurrences": 0,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 0,
@@ -18,44 +18,44 @@
     "Offen": 3,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 0,
-    "Abgeschlossen": 18
+    "Abgeschlossen": 19
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 20,
+    "Tatsachenbehauptung": 21,
     "Meinung": 0,
     "Prognose": 1
   },
-  "completedFacts": 17,
+  "completedFacts": 18,
   "openFacts": 3,
   "inProgressFacts": 0,
   "unverifiableFacts": 0,
-  "percentageDenominator": 17,
+  "percentageDenominator": 18,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
       "completedCount": 7,
-      "completedFactPercent": 41.2
+      "completedFactPercent": 38.9
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 0,
-      "completedFactPercent": 0.0
+      "completedCount": 1,
+      "completedFactPercent": 5.6
     },
     {
       "category": "Irreführend / Kontext fehlt",
       "completedCount": 4,
-      "completedFactPercent": 23.5
+      "completedFactPercent": 22.2
     },
     {
       "category": "Widerlegt",
       "completedCount": 5,
-      "completedFactPercent": 29.4
+      "completedFactPercent": 27.8
     },
     {
       "category": "Nicht ausreichend belegbar",
       "completedCount": 1,
-      "completedFactPercent": 5.9
+      "completedFactPercent": 5.6
     },
     {
       "category": "Meinung / Prognose",
@@ -151,19 +151,19 @@
         ]
       }
     ],
-    "eligibleFacts": 20,
+    "eligibleFacts": 21,
     "reliablyAssignedFacts": 1,
-    "factsWithoutReliablePerson": 19,
-    "factsWithUncertainAttribution": 19,
-    "factsWithUncertainOwnRole": 19,
+    "factsWithoutReliablePerson": 20,
+    "factsWithUncertainAttribution": 20,
+    "factsWithUncertainOwnRole": 20,
     "occurrenceAttributionCounts": {
       "Bestätigt": 1,
-      "Plausibel": 20,
+      "Plausibel": 21,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 1,
-      "Plausibel": 20,
+      "Plausibel": 21,
       "Ungeklärt": 0
     }
   }

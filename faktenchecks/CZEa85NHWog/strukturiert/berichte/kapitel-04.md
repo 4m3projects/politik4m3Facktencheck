@@ -1,8 +1,8 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen. Der neu erfasste Prüfpunkt zu geistigem Eigentum bleibt bis zum Abgleich der Originalstelle offen.
 
-Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips.
+Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips. Codex ergänzte am 27.11.2026 den Marktwertvergleich und Quellen zu KI-Lizenzierung, Rechenzentrumsstandorten, Chip-Patenten und Stiftungskontakten.
 
 ## CZEa85NHWog-A0013
 
@@ -29,13 +29,13 @@ Zeitgrundlage: Sichtbares Transkript im YouTube-Originalplayer.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Unternehmen wie GFT berichten über kommerzielle KI-Projekte. Aus mit KI-Angeboten beeinflussten Umsätzen lässt sich aber weder der isolierte Verkaufserlös eines KI-Produkts noch das Herkunftsland aller Umsätze ablesen.
+Die Ruhr-Universität Bochum dokumentiert einen vergünstigten DeepL-Vertrag und ausgelieferte Lizenzbestellungen im Oktober 2026. Die TU Darmstadt meldete 2025 ein abgeschlossenes DeepL-Jahresabonnement mit Mengenrabatt. DeepL SE sitzt in Köln. Das belegt bezahlte KI-Software eines deutschen Anbieters. Bitkom prognostizierte 2026 rund 3,1 Milliarden Euro Plattformumsatz sowie 28,7 Milliarden Euro KI-Ausgaben einschließlich Hardware und Dienstleistungen im deutschen Markt. Diese Prognosen schlüsseln die Anbieterherkunft nicht auf. Wildbergers Interview belegt einen Vorschlag zur Besteuerung von KI-Umsätzen. An der Sendungsstelle bleibt zu klären, ob Thelen jede Form von KI-Umsatz ausschloss oder geringe Umsätze beziehungsweise einen engeren Markt meinte.
 
-Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.
+Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.
 
 Uebernahme: Eigenständiger Prüfgegenstand ohne Altpunkt.
 
-Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht.
+Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht. Codex, 27.11.2026: Entgeltliche Lizenzierung belegt. Genaue Reichweite der Aussage im Clip offen.
 
 ### Zugeordnete Quellen
 
@@ -45,9 +45,27 @@ Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenz
 - [GFT · Investor Presentation November 2026](https://www.gft.com/dam/jcr%3A73e4a7e6-9732-4195-8fa8-154ebf0d2c0b/gft-investor-presentation-november-2026.pdf) · Folien 15 und 24; kommerzielle Anwendungen und durch KI-Angebote beeinflusste Umsätze.
   Quellenzugriff am 2026-11-27. Unternehmenspräsentation gelesen; keine isolierten KI-Umsätze pro Land. Sachbeleg oder ausdrücklich abgegrenzter Kontext.
 
+- [Ruhr-Universität Bochum · DeepL-Lizenzen](https://www.it-services.ruhr-uni-bochum.de/news/news00655.html.de) · 05.10.2026. Käuferangaben zu Vertrag und ausgelieferten Bestellungen gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Vertrag und Auslieferung aus Käufersicht.
+
+- [TU Darmstadt · DeepL-Lizenzvertrag](https://www.hrz.tu-darmstadt.de/hrz_aktuelles/news_details_176896.en.jsp) · 28.01.2025. Käuferangaben zum Jahresabonnement und Mengenrabatt gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Abgeschlossenes Abo aus Käufersicht.
+
+- [DeepL · Impressum](https://www.deepl.com/de/publisher) · Anbieteridentität und Sitz DeepL SE in Köln geprüft.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Sitz des KI-Anbieters.
+
+- [Bitkom · Ausgaben für KI im deutschen Markt](https://www.bitkom.org/Presse/Presseinformation/Deutscher-KI-Markt-waechst-um-48-Prozent) · 22.09.2026. Ausgabenprognose auf Basis von IDC-Daten gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Breite Ausgabenprognose für den deutschen Markt.
+
+- [Tagesspiegel · Interview mit Karsten Wildberger](https://www.tagesspiegel.de/wissen/digitalminister-karsten-wildberger-im-gesprach-ich-hoffe-dass-openai-und-google-die-welt-nicht-als-testlabor-benutzen-16150738.html) · 13.10.2026. Interviewpassage zum Vorschlag zur Besteuerung von KI-Umsätzen gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Originalinterview zum Steuervorschlag.
+
+- [Bitkom · Markt für KI-Plattformen](https://www.bitkom.org/Presse/Presseinformation/Digitalbranche-weiterhin-stabil) · 07.07.2026. Umsatzprognose für den deutschen Markt ohne Herkunftsaufschlüsselung gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Prognose zum Plattformumsatz im deutschen Markt.
+
 ### Offene Fragen und Unsicherheiten
 
-- Eine veröffentlichte, bezahlte Leistung oder abgegrenzten KI-Umsatz eines deutschen Anbieters mit Bezugszeitraum und Geltungsbereich nachweisen.
+- In der Originalstelle prüfen, welche Anbieter, welche Umsatzart und welche Größenordnung Thelen im Gespräch über eine mögliche KI-Steuer meint.
 
 ## CZEa85NHWog-A0014
 
@@ -119,13 +137,13 @@ Zeitgrundlage: Sichtbares Transkript im YouTube-Originalplayer.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Redaktion belegt mit dem namentlich zugeordneten Sendungsausschnitt, was Thelen sagte. In den von ihr geprüften veröffentlichten Unterlagen fand sie für den Inselaufenthalt oder eine Beteiligung am Missbrauch keine belastbaren Hinweise. Im US-Kongressprotokoll bestätigt Gates Kontakte und sagt, er habe die Einladungen zur Insel abgelehnt. Der Mehrheitsbericht des Ausschusses dokumentiert Kontakte und weitere Akten, liefert im einschlägigen Abschnitt aber keinen Beleg für Thelens konkreten Vorwurf. Ein Kontakt, ein Entwurf mit Vorwürfen und eine persönliche Aussage sind jeweils kein Beweis für den behaupteten Vorgang. Fehlende Belege sind kein Beweis dafür, dass der Vorgang nie stattfand.
+Die Redaktion belegt mit dem namentlich zugeordneten Sendungsausschnitt, was Thelen sagte. In den von ihr geprüften veröffentlichten Unterlagen fand sie für den Inselaufenthalt oder eine Beteiligung am Missbrauch keine belastbaren Hinweise. Im US-Kongressprotokoll bestätigt Gates Kontakte und sagt, er habe die Einladungen zur Insel abgelehnt. Der Mehrheitsbericht des Ausschusses dokumentiert Kontakte und weitere Akten, liefert im einschlägigen Abschnitt aber keinen Beleg für Thelens konkreten Vorwurf. Ein Kontakt, ein Entwurf mit Vorwürfen und eine persönliche Aussage sind jeweils kein Beweis für den behaupteten Vorgang. Fehlende Belege sind kein Beweis dafür, dass der Vorgang nie stattfand. Die von der Gates Foundation beauftragte Kanzlei WilmerHale dokumentiert rund 30 Treffen Epsteins mit insgesamt zehn Stiftungsangehörigen einschließlich Gates von 2011 bis 2014 und interne Hinweise auf Risiken wegen Epsteins Vorstrafe. Das Mandat erfasste Stiftungskontakte. Auf Gates’ private Korrespondenz hatte die Kanzlei keinen Zugriff.
 
-Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.
+Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.
 
 Uebernahme: Eigenständiger Prüfgegenstand ohne Altpunkt.
 
-Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht.
+Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht. Codex, 27.11.2026: Bericht zu Stiftungskontakten eingeordnet. Bewertung des konkreten Vorwurfs bestätigt.
 
 ### Zugeordnete Quellen
 
@@ -140,6 +158,9 @@ Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenz
 
 - [US-Repräsentantenhaus · Mehrheitsbericht zur Aufarbeitung der Ermittlungen](https://oversight.house.gov/wp-content/uploads/2026/11/A-Review-of-the-Federal-Governments-Mishandling-of-the-Jeffrey-Epstein-and-Ghislaine-Maxwell-Criminal-Investigations_OGR-Maj-Report.pdf) · November 2026, S. 83–85; Dokumente und Interview von Gates.
   Quellenzugriff am 2026-11-27. Relevanter Abschnitt mit Bezug auf veröffentlichte Akten gelesen; eine Erwähnung dort ist kein Nachweis einer Straftat. Sachbeleg oder ausdrücklich abgegrenzter Kontext.
+
+- [WilmerHale · Untersuchung für die Gates Foundation](https://docs.gatesfoundation.org/documents/review-gates-foundation.pdf) · 21.07.2026. Zusammenfassung S. 1–2 zu Auftrag, Grenzen, Treffen und internen Bedenken gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Belegt institutionelle Kontakte und interne Risikohinweise. Der Prüfauftrag erfasste keine privaten Kontakte.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -156,6 +177,8 @@ Widersprueche zwischen Quellen: Thelen stellt die Dokumentation als belastbar da
 - Durchgang 1 am 2026-11-27 (Kai): Sendungsfassung mit der namentlichen Zuordnung und der redaktionellen Aktenprüfung vergleichen. Gepruefte Quellen: S001, S009. Ergebnis: Äußerung in der Sendung bestätigt, aber keine dokumentierte Stütze für den konkreten Vorwurf erkennbar.
 
 - Durchgang 2 am 2026-11-27 (Kai): Öffentliches Interviewprotokoll des US-Kongresses und den relevanten Abschnitt des Ausschussberichts abgleichen. Gepruefte Quellen: S010, S011. Ergebnis: Kontakte werden dokumentiert; Gates bestreitet den Inselbesuch. Der Bericht belegt den behaupteten Vorgang nicht.
+
+- Durchgang 3 am 2026-11-27 (Codex): Öffentliche Zusammenfassung der Stiftungsprüfung auf Umfang, Treffen und interne Warnungen prüfen. Gepruefte Quellen: S036. Ergebnis: Dokumentiert institutionelle Kontakte und Risikohinweise. Private Kontakte und Korrespondenz lagen außerhalb des Prüfzugangs.
 
 ## CZEa85NHWog-A0016
 

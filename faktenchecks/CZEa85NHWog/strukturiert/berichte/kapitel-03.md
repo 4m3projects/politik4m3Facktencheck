@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen. Der neu erfasste Prüfpunkt zu geistigem Eigentum bleibt bis zum Abgleich der Originalstelle offen.
 
-Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips.
+Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips. Codex ergänzte am 27.11.2026 den Marktwertvergleich und Quellen zu KI-Lizenzierung, Rechenzentrumsstandorten, Chip-Patenten und Stiftungskontakten.
 
 ## CZEa85NHWog-A0006
 
@@ -125,13 +125,13 @@ Zeitgrundlage: Sichtbares Transkript im YouTube-Originalplayer.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Betriebene Standorte in München und Jülich widerlegen ein völliges Ausbleiben von KI-Rechenleistung (siehe eigener Prüfpunkt). Sie zeigen nicht, wie groß der Einfluss von Strompreisen auf Investitionen war.
+Betriebene Standorte in München und Jülich widerlegen ein völliges Ausbleiben von KI-Rechenleistung (siehe eigener Prüfpunkt). Sie zeigen nicht, wie groß der Einfluss von Strompreisen auf Investitionen war. In der Konsultation des Bundesdigitalministeriums wurden neben Energiekosten auch Netzanschlüsse, Genehmigungsverfahren und verfügbare Flächen als Hemmnisse genannt. Die IEA dokumentiert international Netzengpässe und lange Anschlusszeiten. Wie viel des deutschen Rückstands auf Strompreise zurückgeht, lässt sich aus diesen Quellen nicht ableiten.
 
-Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.
+Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.
 
 Uebernahme: Eigenständiger Prüfgegenstand ohne Altpunkt.
 
-Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht.
+Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht. Codex, 27.11.2026: Standortfaktoren ergänzt. Stärke des Strompreiseffekts bleibt offen.
 
 ### Zugeordnete Quellen
 
@@ -146,6 +146,12 @@ Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenz
 
 - [Forschungszentrum Jülich · TOP500, JUPITER](https://www.fz-juelich.de/de/jsc/aktuelles/meldungen/kurznachrichten/2026/top500-sc26) · November 2026; Leistungsfähigkeit des Standorts Jülich.
   Quellenzugriff am 2026-11-27. Meldung des Betreibers gelesen, kein Vergleich der Strompreise. Sachbeleg oder ausdrücklich abgegrenzter Kontext.
+
+- [Bundesdigitalministerium · Konsultation zur Rechenzentrumsstrategie](https://bmds.bund.de/themen/digitale-wirtschaft/recheninfrastruktur/konsultationsprozess) · Konsultation August bis September 2025. Zusammenfassung der Standortfaktoren gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Deutsche Konsultation zu Standortfaktoren.
+
+- [Internationale Energieagentur · Energy and AI](https://www.iea.org/reports/energy-and-ai/executive-summary) · 2025. Zusammenfassung zu Stromversorgung, Standortwahl und Anschlussengpässen gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Internationaler Kontext für Netzanschlüsse und Standortwahl.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -266,13 +272,13 @@ Zeitgrundlage: Sichtbares Transkript im YouTube-Originalplayer.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die beiden amtlichen Werte sind echt, haben aber verschiedene Bezugsgrößen. Das BEA rechnet das US-Quartal auf ein Jahr hoch, Destatis nicht. Auf einheitlicher Quartalsbasis lagen die USA nach damaliger US-Schätzung bei rund 1,1 %, Deutschland bei 0,1 %. Der Wachstumsvorsprung bleibt, ist aber nicht so groß wie in der unbereinigten Gegenüberstellung. Der USA-Vergleich in der deutschen Meldung nennt noch 0,8 % und liegt damit in der Größenordnung der früheren BEA-Schätzung (3,4 % annualisiert). Für die im Gespräch genannten 4,3 % ist die zweite BEA-Schätzung die passende Bezugsquelle.
+Die beiden amtlichen Werte sind echt, haben aber verschiedene Bezugsgrößen. Das BEA rechnet das US-Quartal auf ein Jahr hoch, Destatis nicht. Auf einheitlicher Quartalsbasis lagen die USA nach damaliger US-Schätzung bei rund 1,1 %, Deutschland bei 0,1 %. Der Wachstumsvorsprung bleibt, ist aber nicht so groß wie in der unbereinigten Gegenüberstellung. Der USA-Vergleich in der deutschen Meldung nennt noch 0,8 % und liegt damit in der Größenordnung der früheren BEA-Schätzung (3,4 % annualisiert). Für die im Gespräch genannten 4,3 % ist die zweite BEA-Schätzung die passende Bezugsquelle. In seinem schriftlichen Beitrag nach der Sendung bezeichnet Thelen die US-Rate ausdrücklich als annualisiert und die deutsche Rate als Vorquartalsvergleich. Diese Präzisierung bezieht sich auf seine spätere schriftliche Fassung. Die Formulierung im TV-Original bleibt gesondert zu kontrollieren.
 
-Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.
+Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.
 
 Uebernahme: Eigenständiger Prüfgegenstand ohne Altpunkt.
 
-Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-27
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-27 Codex, 27.11.2026: Spätere Angabe der Bezugsgrößen dokumentiert.
 
 ### Zugeordnete Quellen
 
@@ -284,6 +290,9 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-27
 
 - [Destatis · Ausführliche Ergebnisse zum BIP im 3. Quartal 2026](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_409_811.html) · 25.11.2026; Konsum und Tab. 2b, Außenbeitrag; US-Vergleich in anderem Veröffentlichungsstand.
   Quellenzugriff am 2026-11-27. Amtliche Mitteilung und Tabelle gelesen. Direkte Veröffentlichung vom Sendetag; für das US-BIP zusätzlich die zeitgleiche zweite BEA-Schätzung verwenden.
+
+- [Frank Thelen · Eigener Beitrag mit Sendungsausschnitt](https://de.linkedin.com/posts/frank-thelen_wo-steht-deutschland-bei-ki-nirgendwo-activity-7531659796324864001-nMin) · Schriftliche Stellungnahme nach der Sendung und fehleranfälliges Begleittranskript gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Spätere schriftliche Präzisierung.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -314,13 +323,13 @@ Zeitgrundlage: Sichtbares Transkript im YouTube-Originalplayer.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Destatis meldet höhere reale private (+0,1 %) und staatliche (+0,3 %) Konsumausgaben. Für den Außenbeitrag weist Tabelle 2b +0,1 Prozentpunkte zum Vorquartal aus. Es gab damit auch rechnerische Beiträge außerhalb des Staatskonsums. Das belegt nicht, welche Entwicklung ohne die Staatsausgaben eingetreten wäre; die Höhe der Staatsquote ist selbst kein ausgewiesener Wachstumsbeitrag.
+Destatis meldet höhere reale private (+0,1 %) und staatliche (+0,3 %) Konsumausgaben. Für den Außenbeitrag weist Tabelle 2b +0,1 Prozentpunkte zum Vorquartal aus. Es gab damit auch rechnerische Beiträge außerhalb des Staatskonsums. Das belegt nicht, welche Entwicklung ohne die Staatsausgaben eingetreten wäre; die Höhe der Staatsquote ist selbst kein ausgewiesener Wachstumsbeitrag. Nach eigener Auskunft bezog sich Thelen bei der Staatsquote auf einen früheren Beitrag Wolfgang Kubickis in derselben Sendung. Eine eigenständige Zuschreibung an Kubicki verlangt die Prüfung seiner früheren Fundstelle.
 
-Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.
+Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.
 
 Uebernahme: Eigenständiger Prüfgegenstand ohne Altpunkt.
 
-Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht.
+Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht. Codex, 27.11.2026: Bezug auf Kubicki dokumentiert.
 
 ### Zugeordnete Quellen
 
@@ -329,6 +338,9 @@ Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenz
 
 - [Destatis · Ausführliche Ergebnisse zum BIP im 3. Quartal 2026](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_409_811.html) · 25.11.2026; Konsum und Tab. 2b, Außenbeitrag; US-Vergleich in anderem Veröffentlichungsstand.
   Quellenzugriff am 2026-11-27. Amtliche Mitteilung und Tabelle gelesen. Sachbeleg oder ausdrücklich abgegrenzter Kontext.
+
+- [Frank Thelen · Eigener Beitrag mit Sendungsausschnitt](https://de.linkedin.com/posts/frank-thelen_wo-steht-deutschland-bei-ki-nirgendwo-activity-7531659796324864001-nMin) · Schriftliche Stellungnahme nach der Sendung und fehleranfälliges Begleittranskript gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Selbstauskunft zum Bezug auf Kubicki.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -359,13 +371,13 @@ Zeitgrundlage: Sichtbares Transkript im YouTube-Originalplayer.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-ASML beschreibt die Entwicklung und Produktion von EUV-Lithografiesystemen, mit denen Chiphersteller Bauteilstrukturen belichten. Der Anlagenbau ist von Chipdesign und Halbleiterfertigung zu unterscheiden.
+ASML beschreibt die Entwicklung und Produktion von EUV-Lithografiesystemen, mit denen Chiphersteller Bauteilstrukturen belichten. Der Anlagenbau ist von Chipdesign und Halbleiterfertigung zu unterscheiden. ASML bezeichnet Carl Zeiss SMT im Geschäftsbericht als einzigen Lieferanten wichtiger optischer Komponenten. Ein 2025 erteiltes Patent von Carl Zeiss SMT für ein Beleuchtungssystem für EUV-Projektionslithografie dokumentiert einen weiteren deutschen Beitrag in der Lieferkette.
 
-Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.
+Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.
 
 Uebernahme: Neuer eigenständiger Prüfgegenstand aus der zweiten Sichtung; kein Altpunkt.
 
-Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-27
+Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-27 Codex, 27.11.2026: Deutschen Beitrag zur Lithografie-Lieferkette mit Patent und Geschäftsbericht ergänzt.
 
 ### Zugeordnete Quellen
 
@@ -374,6 +386,12 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-27
 
 - [ASML · EUV-Lithografie](https://www.asml.com/en/products/euv-lithography-systems) · Produktseite zur Herstellung von EUV-Anlagen.
   Quellenzugriff am 2026-11-27. Herstellerdokumentation gelesen. Sachbeleg oder ausdrücklich abgegrenzter Kontext.
+
+- [US-Patent US12468228B2 · Carl Zeiss SMT](https://patents.google.com/patent/US12468228B2/en) · 11.11.2025 erteilt. Inhaber und Gegenstand der Patentveröffentlichung geprüft.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Patent für eine deutsche Technologiekomponente.
+
+- [ASML · Geschäftsbericht 2025](https://ourbrand.asml.com/m/71076aaad607de4d/original/asml-2025-annual-report-us-gaap.pdf) · Abschnitt zu Abhängigkeiten von Zulieferern gelesen. Unternehmensangabe.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. ASML benennt ZEISS als Zulieferer wichtiger Komponenten.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -516,5 +534,53 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-27
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## CZEa85NHWog-A0022
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Deutschland verfüge im angesprochenen Teil der Chip-Lieferkette über kein eigenes geistiges Eigentum.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:08:05–00:08:20](https://www.youtube.com/watch?v=CZEa85NHWog&t=485s) · nicht bestaetigt; Kandidat: Frank Thelen · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Gesprächsverlauf im Begleittranskript. Kein eigener Tonabgleich.
+
+Grundlage des Aussagebezugs: Vorläufig aus Begleittranskript abgeleitet.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Keine sekundengenaue Kontrolle.
+
+Zeitgrundlage: Ungefähres Suchfenster der erfassten Fundstelle zur Chip-Lieferkette.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Im fehleranfälligen Begleittranskript von Thelens veröffentlichtem Sendungsausschnitt gibt es einen Hinweis auf diese Behauptung. Für eine breite Lesart ist das 2025 erteilte EUV-Optikpatent von Carl Zeiss SMT ein konkretes Gegenbeispiel. ASML dokumentiert die industrielle Rolle des Zulieferers. Eine Aussage über den Entwurf führender KI-Beschleuniger würde eigene Belege erfordern.
+
+Grundlage der Bewertung: Codex, 27.11.2026. Begleittranskript des von Thelen veröffentlichten Ausschnitts. Originalton nicht kontrolliert.
+
+Uebernahme: Eigenständiger Prüfkandidat ohne Altpunkt. A0006 behandelt Fertigung und A0018 den Anlagenbau.
+
+Bewertungsuebergang: Ersterfassung durch Codex am 27.11.2026. Geltungsbereich bleibt offen.
+
+### Zugeordnete Quellen
+
+- [Frank Thelen · Eigener Beitrag mit Sendungsausschnitt](https://de.linkedin.com/posts/frank-thelen_wo-steht-deutschland-bei-ki-nirgendwo-activity-7531659796324864001-nMin) · Schriftliche Stellungnahme nach der Sendung und fehleranfälliges Begleittranskript gelesen.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Begleittranskript als Hinweis auf den Prüfgegenstand.
+
+- [US-Patent US12468228B2 · Carl Zeiss SMT](https://patents.google.com/patent/US12468228B2/en) · 11.11.2025 erteilt. Inhaber und Gegenstand der Patentveröffentlichung geprüft.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Patent zur EUV-Projektionslithografie.
+
+- [ASML · Geschäftsbericht 2025](https://ourbrand.asml.com/m/71076aaad607de4d/original/asml-2025-annual-report-us-gaap.pdf) · Abschnitt zu Abhängigkeiten von Zulieferern gelesen. Unternehmensangabe.
+  Quellenzugriff am 2026-11-27. Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen. Industrielle Rolle des Zulieferers.
+
+### Offene Fragen und Unsicherheiten
+
+- Im Originalton klären, welcher Teil der Lieferkette gemeint ist und ob Thelen Deutschland oder Europa meint.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

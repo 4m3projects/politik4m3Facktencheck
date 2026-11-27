@@ -4,7 +4,7 @@
 - Veröffentlichung: 2026-11-26
 - Sendung: [25.11.2026 beim WDR](https://www1.wdr.de/daserste/maischberger/sendungen/maischberger-2626.html); der genaue Aufnahmezeitpunkt ist nicht gesondert belegt.
 - Länge: 15:53
-- Prüfung: Kai · 2026-11-27 · Teilbestand geprüft (zweiter Durchgang)
+- Prüfung: Kai und Codex · 2026-11-27 · Teilbestand geprüft
 
 ## Was der erste Durchgang zeigt
 
@@ -22,4 +22,12 @@
 - **[8:12](https://www.youtube.com/watch?v=CZEa85NHWog&t=492s) · KI-Standort:** [Aleph Alpha](https://aleph-alpha.com/en/news/kolibri-sovereign-ai-made-in-germany/) hatte bereits ein großes Sprachmodell veröffentlicht. Für KI-Rechenleistung gibt es dokumentierte Standorte in München und Jülich; der behauptete Einfluss der Strompreise bleibt offen.
 - **[8:42](https://www.youtube.com/watch?v=CZEa85NHWog&t=522s) · Wachstum und Staatsquote:** Die [ausführliche BIP-Mitteilung von Destatis](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_409_811.html) zeigt auch einen positiven Außenbeitrag; aus der Staatsquote allein lässt sich das Wachstumsplus nicht erklären.
 
-Ausstehend sind der vollständige Marktwertvergleich Nvidia/DAX, der Einfluss der Strompreise und die passende Abgrenzung von KI-Umsätzen. Die Ampel bezieht sich auf den erfassten Teilbestand, nicht auf die vollständige Sendung. Der gesonderte Bild- und Tonabgleich steht noch aus.
+## Ergänzende Quellenprüfung vom 27.11.2026
+
+- **[3:34](https://www.youtube.com/watch?v=CZEa85NHWog&t=214s) · Nvidia und DAX:** Der Börsenwertzuwachs entspricht näherungsweise **41,3 %** der vollen Marktkapitalisierung der DAX-Unternehmen im Faktenblatt zum 30. Oktober. Die Größenordnung von rund 42 % ist plausibel. Der genaue tagesgleiche Anteil bleibt offen. [ARD-Marktbericht](https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-102.html) · [STOXX](https://stoxx.com/index/daxnr/factsheet/2026-11/)
+- **[8:05](https://www.youtube.com/watch?v=CZEa85NHWog&t=485s) · Chiptechnologie:** Ein erteiltes EUV-Patent von Carl Zeiss SMT dokumentiert geistiges Eigentum in der Lieferkette. Beim neu erfassten Prüfpunkt bleibt der genaue Bezug von Thelens Aussage offen. [Patent](https://patents.google.com/patent/US12468228B2/en) · [ASML-Geschäftsbericht](https://ourbrand.asml.com/m/71076aaad607de4d/original/asml-2025-annual-report-us-gaap.pdf)
+- **[8:22](https://www.youtube.com/watch?v=CZEa85NHWog&t=502s) · Rechenzentren:** Neben Strompreisen spielen Netzanschlüsse, Genehmigungen und Flächen eine Rolle. Wie stark Strompreise den deutschen Rückstand erklären, bleibt offen. [Digitalministerium](https://bmds.bund.de/themen/digitale-wirtschaft/recheninfrastruktur/konsultationsprozess) · [IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
+- **[12:20](https://www.youtube.com/watch?v=CZEa85NHWog&t=740s) · KI-Umsätze:** Zwei Hochschulen dokumentieren bezahlte DeepL-Lizenzen. Die Reichweite von Thelens Aussage im Gespräch über eine mögliche KI-Steuer bleibt offen. [Ruhr-Universität Bochum](https://www.it-services.ruhr-uni-bochum.de/news/news00655.html.de) · [TU Darmstadt](https://www.hrz.tu-darmstadt.de/hrz_aktuelles/news_details_176896.en.jsp)
+- **[13:54](https://www.youtube.com/watch?v=CZEa85NHWog&t=834s) · Kontakte zu Epstein:** Die von der Gates Foundation beauftragte Untersuchung dokumentiert rund 30 Treffen mit insgesamt zehn Stiftungsangehörigen, darunter Gates. Der WDR fand für den konkreten Inselvorwurf keine belastbaren Belege. [WilmerHale](https://docs.gatesfoundation.org/documents/review-gates-foundation.pdf) · [WDR](https://www1.wdr.de/daserste/maischberger/faktenchecks/maischberger-2630.html)
+
+Der Bericht bleibt ein Teilbestand mit ungefähren Zeitmarken. Der vollständige Bild- und Tonabgleich steht aus.

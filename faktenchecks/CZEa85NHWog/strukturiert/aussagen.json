@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips.",
-    "coverageNote": "Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen."
+    "researchNote": "Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips. Codex ergänzte am 27.11.2026 den Marktwertvergleich und Quellen zu KI-Lizenzierung, Rechenzentrumsstandorten, Chip-Patenten und Stiftungskontakten.",
+    "coverageNote": "Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen. Der neu erfasste Prüfpunkt zu geistigem Eigentum bleibt bis zum Abgleich der Originalstelle offen."
   },
   "speakers": [
     {
@@ -211,6 +211,150 @@
       "details": "Börsenreaktion auf Huangs Rückkehr; kein DAX-Marktwert.",
       "accessedOn": "2026-11-27",
       "accessBasis": "Zeitgenössischer Marktbericht als Kontext gelesen; kein Beleg für den behaupteten Marktwertvergleich."
+    },
+    {
+      "id": "S024",
+      "title": "ARD-Finanzredaktion · Nvidia-Marktbericht",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-102.html",
+      "details": "24.11.2026. Tageszuwachs von rund 952 Milliarden USD im Bericht gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S025",
+      "title": "Nasdaq Dorsey Wright · Nvidia-Kurs am 20.11.",
+      "url": "https://dorseywright.nasdaq.com/reports/database/menu/stocktype/1/date/2026-11-20/new_all/1/rpt/56/allprice/1/all_scales/1/sourcerpt/",
+      "details": "20.11.2026. Kurs von 125,53 USD im Tagesbericht gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S026",
+      "title": "Nasdaq Dorsey Wright · Nvidia-Kurs am 23.11.",
+      "url": "https://dorseywright.nasdaq.com/research/bigwire/2026/11/23/11-23-2026/analyst-observations",
+      "details": "23.11.2026. Kurs von 165,05 USD im Tagesbericht gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S027",
+      "title": "Nvidia · Form 10-Q, Q2 FY 2027",
+      "url": "https://investor.nvidia.com/files/doc_financials/2027/NVDA-2027-Q2-10Q-Final-including-exhibits.pdf",
+      "details": "Deckblatt. Rund 24,1 Milliarden ausstehende Aktien zum 21.08.2026 als Näherung.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S028",
+      "title": "Europäische Zentralbank · Euro-Referenzkurs",
+      "url": "https://www.ecb.europa.eu/stats/exchange/eurofxref/shared/pdf/2026/11/20261123.pdf",
+      "details": "23.11.2026. Tabelle mit USD-Referenzkurs gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S029",
+      "title": "STOXX · DAX-Faktenblatt November 2026",
+      "url": "https://stoxx.com/index/daxnr/factsheet/2026-11/",
+      "details": "30.10.2026. Tabelle zur vollen und zur Streubesitzkapitalisierung samt Stichtag gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S030",
+      "title": "Bundesdigitalministerium · Konsultation zur Rechenzentrumsstrategie",
+      "url": "https://bmds.bund.de/themen/digitale-wirtschaft/recheninfrastruktur/konsultationsprozess",
+      "details": "Konsultation August bis September 2025. Zusammenfassung der Standortfaktoren gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S031",
+      "title": "Internationale Energieagentur · Energy and AI",
+      "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+      "details": "2025. Zusammenfassung zu Stromversorgung, Standortwahl und Anschlussengpässen gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S032",
+      "title": "Ruhr-Universität Bochum · DeepL-Lizenzen",
+      "url": "https://www.it-services.ruhr-uni-bochum.de/news/news00655.html.de",
+      "details": "05.10.2026. Käuferangaben zu Vertrag und ausgelieferten Bestellungen gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S033",
+      "title": "TU Darmstadt · DeepL-Lizenzvertrag",
+      "url": "https://www.hrz.tu-darmstadt.de/hrz_aktuelles/news_details_176896.en.jsp",
+      "details": "28.01.2025. Käuferangaben zum Jahresabonnement und Mengenrabatt gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S034",
+      "title": "DeepL · Impressum",
+      "url": "https://www.deepl.com/de/publisher",
+      "details": "Anbieteridentität und Sitz DeepL SE in Köln geprüft.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S035",
+      "title": "Bitkom · Ausgaben für KI im deutschen Markt",
+      "url": "https://www.bitkom.org/Presse/Presseinformation/Deutscher-KI-Markt-waechst-um-48-Prozent",
+      "details": "22.09.2026. Ausgabenprognose auf Basis von IDC-Daten gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S036",
+      "title": "WilmerHale · Untersuchung für die Gates Foundation",
+      "url": "https://docs.gatesfoundation.org/documents/review-gates-foundation.pdf",
+      "details": "21.07.2026. Zusammenfassung S. 1–2 zu Auftrag, Grenzen, Treffen und internen Bedenken gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S037",
+      "title": "Frank Thelen · Eigener Beitrag mit Sendungsausschnitt",
+      "url": "https://de.linkedin.com/posts/frank-thelen_wo-steht-deutschland-bei-ki-nirgendwo-activity-7531659796324864001-nMin",
+      "details": "Schriftliche Stellungnahme nach der Sendung und fehleranfälliges Begleittranskript gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S038",
+      "title": "US-Patent US12468228B2 · Carl Zeiss SMT",
+      "url": "https://patents.google.com/patent/US12468228B2/en",
+      "details": "11.11.2025 erteilt. Inhaber und Gegenstand der Patentveröffentlichung geprüft.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S039",
+      "title": "ASML · Geschäftsbericht 2025",
+      "url": "https://ourbrand.asml.com/m/71076aaad607de4d/original/asml-2025-annual-report-us-gaap.pdf",
+      "details": "Abschnitt zu Abhängigkeiten von Zulieferern gelesen. Unternehmensangabe.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S040",
+      "title": "Tagesspiegel · Interview mit Karsten Wildberger",
+      "url": "https://www.tagesspiegel.de/wissen/digitalminister-karsten-wildberger-im-gesprach-ich-hoffe-dass-openai-und-google-die-welt-nicht-als-testlabor-benutzen-16150738.html",
+      "details": "13.10.2026. Interviewpassage zum Vorschlag zur Besteuerung von KI-Umsätzen gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
+    },
+    {
+      "id": "S041",
+      "title": "Bitkom · Markt für KI-Plattformen",
+      "url": "https://www.bitkom.org/Presse/Presseinformation/Digitalbranche-weiterhin-stabil",
+      "details": "07.07.2026. Umsatzprognose für den deutschen Markt ohne Herkunftsaufschlüsselung gelesen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Codex hat die oben bezeichnete Quelle für diese Nachprüfung gelesen."
     }
   ],
   "legacyPoints": [],
@@ -331,14 +475,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Nvidias Börsenwert sei am Tag der Rückkehr Huangs um einen Betrag gewachsen, der rund 42 % des Marktwerts der DAX-Unternehmen entspreche.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Die Rückkehr fiel mit einem starken Kurssprung zusammen. Der Tagesbericht reicht aber nicht zum Vergleich mit einer in gleicher Währung und zum gleichen Bewertungsstichtag bestimmten DAX-Marktkapitalisierung.",
-      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der Nvidia-Kurs stieg vom 20. zum 23. November von 125,53 auf 165,05 USD. Mit rund 24,1 Milliarden Aktien ergibt das näherungsweise 952 Milliarden USD, wie auch die ARD-Finanzredaktion berichtet. Beim EZB-Referenzkurs von 1,0939 USD je Euro sind das rund 871 Milliarden EUR. STOXX weist zum 30. Oktober 2.107,6 Milliarden EUR volle Marktkapitalisierung und 1.769,5 Milliarden EUR Streubesitzkapitalisierung aus. Der Kursgewinn entspricht damit 41,3 % des ersten oder 49,2 % des zweiten Wertes. Rund 42 % sind bei voller Kapitalisierung plausibel. Der genaue tagesgleiche Anteil bleibt offen. Die Aktienzahl stammt aus dem August und dient als Näherung.",
+      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht."
+        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht. Codex, 27.11.2026: Offen → Teilweise belegt. Rechnung und Grenze des Stichtagsabgleichs ergänzt."
       },
       "sourceRefs": [
         {
@@ -348,10 +492,34 @@
         {
           "sourceId": "S023",
           "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Plausibilisiert den Zuwachs in USD."
+        },
+        {
+          "sourceId": "S025",
+          "note": "Kurs am vorherigen Handelstag."
+        },
+        {
+          "sourceId": "S026",
+          "note": "Kurs am 23. November."
+        },
+        {
+          "sourceId": "S027",
+          "note": "Gerundete Aktienzahl als Näherung."
+        },
+        {
+          "sourceId": "S028",
+          "note": "Umrechnung in Euro."
+        },
+        {
+          "sourceId": "S029",
+          "note": "Kapitalisierungen zum 30. Oktober."
         }
       ],
       "openQuestions": [
-        "Das mit den 42 % gemeinte Berechnungsverfahren klären. Nvidia vor/nach US-Börsenschluss, DAX-Gesamtwert (Vollkapitalisierung oder Streubesitz) und Devisenkurs für den 23.11.2026 zusammenführen."
+        "Wie hoch war die volle Marktkapitalisierung aller DAX-Unternehmen am 23.11.2026?"
       ],
       "occurrences": [
         {
@@ -381,7 +549,8 @@
         "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
-      }
+      },
+      "shortReason": "Rund 42 % sind bei voller Kapitalisierung plausibel. Der DAX-Vergleichswert hat einen früheren Stichtag."
     },
     {
       "id": "CZEa85NHWog-A0004",
@@ -634,12 +803,12 @@
       "description": "Hohe Strompreise seien der Grund dafür, dass Deutschland beim Aufbau von KI-Rechenkapazität zurückliege.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Betriebene Standorte in München und Jülich widerlegen ein völliges Ausbleiben von KI-Rechenleistung (siehe eigener Prüfpunkt). Sie zeigen nicht, wie groß der Einfluss von Strompreisen auf Investitionen war.",
-      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
+      "reason": "Betriebene Standorte in München und Jülich widerlegen ein völliges Ausbleiben von KI-Rechenleistung (siehe eigener Prüfpunkt). Sie zeigen nicht, wie groß der Einfluss von Strompreisen auf Investitionen war. In der Konsultation des Bundesdigitalministeriums wurden neben Energiekosten auch Netzanschlüsse, Genehmigungsverfahren und verfügbare Flächen als Hemmnisse genannt. Die IEA dokumentiert international Netzengpässe und lange Anschlusszeiten. Wie viel des deutschen Rückstands auf Strompreise zurückgeht, lässt sich aus diesen Quellen nicht ableiten.",
+      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht."
+        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht. Codex, 27.11.2026: Standortfaktoren ergänzt. Stärke des Strompreiseffekts bleibt offen."
       },
       "sourceRefs": [
         {
@@ -657,6 +826,14 @@
         {
           "sourceId": "S016",
           "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        },
+        {
+          "sourceId": "S030",
+          "note": "Deutsche Konsultation zu Standortfaktoren."
+        },
+        {
+          "sourceId": "S031",
+          "note": "Internationaler Kontext für Netzanschlüsse und Standortwahl."
         }
       ],
       "openQuestions": [
@@ -815,13 +992,13 @@
       "description": "Die nebeneinander genannten Wachstumsraten von 4,3 % für die USA und 0,1 % für Deutschland seien unmittelbar vergleichbar.",
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
-      "reason": "Die beiden amtlichen Werte sind echt, haben aber verschiedene Bezugsgrößen. Das BEA rechnet das US-Quartal auf ein Jahr hoch, Destatis nicht. Auf einheitlicher Quartalsbasis lagen die USA nach damaliger US-Schätzung bei rund 1,1 %, Deutschland bei 0,1 %. Der Wachstumsvorsprung bleibt, ist aber nicht so groß wie in der unbereinigten Gegenüberstellung. Der USA-Vergleich in der deutschen Meldung nennt noch 0,8 % und liegt damit in der Größenordnung der früheren BEA-Schätzung (3,4 % annualisiert). Für die im Gespräch genannten 4,3 % ist die zweite BEA-Schätzung die passende Bezugsquelle.",
+      "reason": "Die beiden amtlichen Werte sind echt, haben aber verschiedene Bezugsgrößen. Das BEA rechnet das US-Quartal auf ein Jahr hoch, Destatis nicht. Auf einheitlicher Quartalsbasis lagen die USA nach damaliger US-Schätzung bei rund 1,1 %, Deutschland bei 0,1 %. Der Wachstumsvorsprung bleibt, ist aber nicht so groß wie in der unbereinigten Gegenüberstellung. Der USA-Vergleich in der deutschen Meldung nennt noch 0,8 % und liegt damit in der Größenordnung der früheren BEA-Schätzung (3,4 % annualisiert). Für die im Gespräch genannten 4,3 % ist die zweite BEA-Schätzung die passende Bezugsquelle. In seinem schriftlichen Beitrag nach der Sendung bezeichnet Thelen die US-Rate ausdrücklich als annualisiert und die deutsche Rate als Vorquartalsvergleich. Diese Präzisierung bezieht sich auf seine spätere schriftliche Fassung. Die Formulierung im TV-Original bleibt gesondert zu kontrollieren.",
       "shortReason": "Vergleichbar sind rund 1,1 % US-Quartalswachstum und 0,1 % deutsches Quartalswachstum.",
-      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
+      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27 Codex, 27.11.2026: Spätere Angabe der Bezugsgrößen dokumentiert."
       },
       "sourceRefs": [
         {
@@ -835,6 +1012,10 @@
         {
           "sourceId": "S017",
           "note": "Direkte Veröffentlichung vom Sendetag; für das US-BIP zusätzlich die zeitgleiche zweite BEA-Schätzung verwenden."
+        },
+        {
+          "sourceId": "S037",
+          "note": "Spätere schriftliche Präzisierung."
         }
       ],
       "openQuestions": [],
@@ -877,12 +1058,12 @@
       "description": "Das deutsche Quartalswachstum sei nur durch die hohe Staatsquote zustande gekommen.",
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
-      "reason": "Destatis meldet höhere reale private (+0,1 %) und staatliche (+0,3 %) Konsumausgaben. Für den Außenbeitrag weist Tabelle 2b +0,1 Prozentpunkte zum Vorquartal aus. Es gab damit auch rechnerische Beiträge außerhalb des Staatskonsums. Das belegt nicht, welche Entwicklung ohne die Staatsausgaben eingetreten wäre; die Höhe der Staatsquote ist selbst kein ausgewiesener Wachstumsbeitrag.",
-      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
+      "reason": "Destatis meldet höhere reale private (+0,1 %) und staatliche (+0,3 %) Konsumausgaben. Für den Außenbeitrag weist Tabelle 2b +0,1 Prozentpunkte zum Vorquartal aus. Es gab damit auch rechnerische Beiträge außerhalb des Staatskonsums. Das belegt nicht, welche Entwicklung ohne die Staatsausgaben eingetreten wäre; die Höhe der Staatsquote ist selbst kein ausgewiesener Wachstumsbeitrag. Nach eigener Auskunft bezog sich Thelen bei der Staatsquote auf einen früheren Beitrag Wolfgang Kubickis in derselben Sendung. Eine eigenständige Zuschreibung an Kubicki verlangt die Prüfung seiner früheren Fundstelle.",
+      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht."
+        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht. Codex, 27.11.2026: Bezug auf Kubicki dokumentiert."
       },
       "sourceRefs": [
         {
@@ -892,6 +1073,10 @@
         {
           "sourceId": "S017",
           "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        },
+        {
+          "sourceId": "S037",
+          "note": "Selbstauskunft zum Bezug auf Kubicki."
         }
       ],
       "openQuestions": [],
@@ -935,12 +1120,12 @@
       "description": "Deutschland erziele im KI-Bereich überhaupt keine Umsätze.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Unternehmen wie GFT berichten über kommerzielle KI-Projekte. Aus mit KI-Angeboten beeinflussten Umsätzen lässt sich aber weder der isolierte Verkaufserlös eines KI-Produkts noch das Herkunftsland aller Umsätze ablesen.",
-      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
+      "reason": "Die Ruhr-Universität Bochum dokumentiert einen vergünstigten DeepL-Vertrag und ausgelieferte Lizenzbestellungen im Oktober 2026. Die TU Darmstadt meldete 2025 ein abgeschlossenes DeepL-Jahresabonnement mit Mengenrabatt. DeepL SE sitzt in Köln. Das belegt bezahlte KI-Software eines deutschen Anbieters. Bitkom prognostizierte 2026 rund 3,1 Milliarden Euro Plattformumsatz sowie 28,7 Milliarden Euro KI-Ausgaben einschließlich Hardware und Dienstleistungen im deutschen Markt. Diese Prognosen schlüsseln die Anbieterherkunft nicht auf. Wildbergers Interview belegt einen Vorschlag zur Besteuerung von KI-Umsätzen. An der Sendungsstelle bleibt zu klären, ob Thelen jede Form von KI-Umsatz ausschloss oder geringe Umsätze beziehungsweise einen engeren Markt meinte.",
+      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht."
+        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht. Codex, 27.11.2026: Entgeltliche Lizenzierung belegt. Genaue Reichweite der Aussage im Clip offen."
       },
       "sourceRefs": [
         {
@@ -950,10 +1135,34 @@
         {
           "sourceId": "S022",
           "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        },
+        {
+          "sourceId": "S032",
+          "note": "Vertrag und Auslieferung aus Käufersicht."
+        },
+        {
+          "sourceId": "S033",
+          "note": "Abgeschlossenes Abo aus Käufersicht."
+        },
+        {
+          "sourceId": "S034",
+          "note": "Sitz des KI-Anbieters."
+        },
+        {
+          "sourceId": "S035",
+          "note": "Breite Ausgabenprognose für den deutschen Markt."
+        },
+        {
+          "sourceId": "S040",
+          "note": "Originalinterview zum Steuervorschlag."
+        },
+        {
+          "sourceId": "S041",
+          "note": "Prognose zum Plattformumsatz im deutschen Markt."
         }
       ],
       "openQuestions": [
-        "Eine veröffentlichte, bezahlte Leistung oder abgegrenzten KI-Umsatz eines deutschen Anbieters mit Bezugszeitraum und Geltungsbereich nachweisen."
+        "In der Originalstelle prüfen, welche Anbieter, welche Umsatzart und welche Größenordnung Thelen im Gespräch über eine mögliche KI-Steuer meint."
       ],
       "occurrences": [
         {
@@ -1052,12 +1261,12 @@
       "description": "Frank Thelen stellt einen Vorwurf über Bill Gates auf Epsteins Insel als gut dokumentiert dar.",
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
-      "reason": "Die Redaktion belegt mit dem namentlich zugeordneten Sendungsausschnitt, was Thelen sagte. In den von ihr geprüften veröffentlichten Unterlagen fand sie für den Inselaufenthalt oder eine Beteiligung am Missbrauch keine belastbaren Hinweise. Im US-Kongressprotokoll bestätigt Gates Kontakte und sagt, er habe die Einladungen zur Insel abgelehnt. Der Mehrheitsbericht des Ausschusses dokumentiert Kontakte und weitere Akten, liefert im einschlägigen Abschnitt aber keinen Beleg für Thelens konkreten Vorwurf. Ein Kontakt, ein Entwurf mit Vorwürfen und eine persönliche Aussage sind jeweils kein Beweis für den behaupteten Vorgang. Fehlende Belege sind kein Beweis dafür, dass der Vorgang nie stattfand.",
-      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
+      "reason": "Die Redaktion belegt mit dem namentlich zugeordneten Sendungsausschnitt, was Thelen sagte. In den von ihr geprüften veröffentlichten Unterlagen fand sie für den Inselaufenthalt oder eine Beteiligung am Missbrauch keine belastbaren Hinweise. Im US-Kongressprotokoll bestätigt Gates Kontakte und sagt, er habe die Einladungen zur Insel abgelehnt. Der Mehrheitsbericht des Ausschusses dokumentiert Kontakte und weitere Akten, liefert im einschlägigen Abschnitt aber keinen Beleg für Thelens konkreten Vorwurf. Ein Kontakt, ein Entwurf mit Vorwürfen und eine persönliche Aussage sind jeweils kein Beweis für den behaupteten Vorgang. Fehlende Belege sind kein Beweis dafür, dass der Vorgang nie stattfand. Die von der Gates Foundation beauftragte Kanzlei WilmerHale dokumentiert rund 30 Treffen Epsteins mit insgesamt zehn Stiftungsangehörigen einschließlich Gates von 2011 bis 2014 und interne Hinweise auf Risiken wegen Epsteins Vorstrafe. Das Mandat erfasste Stiftungskontakte. Auf Gates’ private Korrespondenz hatte die Kanzlei keinen Zugriff.",
+      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht."
+        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht. Codex, 27.11.2026: Bericht zu Stiftungskontakten eingeordnet. Bewertung des konkreten Vorwurfs bestätigt."
       },
       "sourceRefs": [
         {
@@ -1075,6 +1284,10 @@
         {
           "sourceId": "S011",
           "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        },
+        {
+          "sourceId": "S036",
+          "note": "Belegt institutionelle Kontakte und interne Risikohinweise. Der Prüfauftrag erfasste keine privaten Kontakte."
         }
       ],
       "openQuestions": [
@@ -1133,6 +1346,15 @@
               "S011"
             ],
             "result": "Kontakte werden dokumentiert; Gates bestreitet den Inselbesuch. Der Bericht belegt den behaupteten Vorgang nicht."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Codex",
+            "strategy": "Öffentliche Zusammenfassung der Stiftungsprüfung auf Umfang, Treffen und interne Warnungen prüfen.",
+            "sourceIds": [
+              "S036"
+            ],
+            "result": "Dokumentiert institutionelle Kontakte und Risikohinweise. Private Kontakte und Korrespondenz lagen außerhalb des Prüfzugangs."
           }
         ],
         "missingInformation": "Belastbare Dokumentation des behaupteten Vorgangs, nicht nur des Kontakts.",
@@ -1258,12 +1480,12 @@
       "description": "ASML produziert Anlagen, die bei der Herstellung moderner Chips zum Einsatz kommen.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "ASML beschreibt die Entwicklung und Produktion von EUV-Lithografiesystemen, mit denen Chiphersteller Bauteilstrukturen belichten. Der Anlagenbau ist von Chipdesign und Halbleiterfertigung zu unterscheiden.",
-      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
+      "reason": "ASML beschreibt die Entwicklung und Produktion von EUV-Lithografiesystemen, mit denen Chiphersteller Bauteilstrukturen belichten. Der Anlagenbau ist von Chipdesign und Halbleiterfertigung zu unterscheiden. ASML bezeichnet Carl Zeiss SMT im Geschäftsbericht als einzigen Lieferanten wichtiger optischer Komponenten. Ein 2025 erteiltes Patent von Carl Zeiss SMT für ein Beleuchtungssystem für EUV-Projektionslithografie dokumentiert einen weiteren deutschen Beitrag in der Lieferkette.",
+      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026. Quellen-Nachprüfung durch Codex am 27.11.2026 ohne erneuten vollständigen Bild- und Tonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Neuer eigenständiger Prüfgegenstand aus der zweiten Sichtung; kein Altpunkt.",
-        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27 Codex, 27.11.2026: Deutschen Beitrag zur Lithografie-Lieferkette mit Patent und Geschäftsbericht ergänzt."
       },
       "sourceRefs": [
         {
@@ -1273,6 +1495,14 @@
         {
           "sourceId": "S019",
           "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        },
+        {
+          "sourceId": "S038",
+          "note": "Patent für eine deutsche Technologiekomponente."
+        },
+        {
+          "sourceId": "S039",
+          "note": "ASML benennt ZEISS als Zulieferer wichtiger Komponenten."
         }
       ],
       "openQuestions": [],
@@ -1482,6 +1712,69 @@
         "assessedOn": "2026-11-27"
       },
       "shortReason": "Bei der Industrieroboterdichte lag Deutschland laut IFR weltweit auf Platz drei; andere Robotik-Messgrößen können anders ausfallen."
+    },
+    {
+      "id": "CZEa85NHWog-A0022",
+      "videoId": "CZEa85NHWog",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutschland verfüge im angesprochenen Teil der Chip-Lieferkette über kein eigenes geistiges Eigentum.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Im fehleranfälligen Begleittranskript von Thelens veröffentlichtem Sendungsausschnitt gibt es einen Hinweis auf diese Behauptung. Für eine breite Lesart ist das 2025 erteilte EUV-Optikpatent von Carl Zeiss SMT ein konkretes Gegenbeispiel. ASML dokumentiert die industrielle Rolle des Zulieferers. Eine Aussage über den Entwurf führender KI-Beschleuniger würde eigene Belege erfordern.",
+      "assessmentBasis": "Codex, 27.11.2026. Begleittranskript des von Thelen veröffentlichten Ausschnitts. Originalton nicht kontrolliert.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Prüfkandidat ohne Altpunkt. A0006 behandelt Fertigung und A0018 den Anlagenbau.",
+        "assessmentChange": "Ersterfassung durch Codex am 27.11.2026. Geltungsbereich bleibt offen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S037",
+          "note": "Begleittranskript als Hinweis auf den Prüfgegenstand."
+        },
+        {
+          "sourceId": "S038",
+          "note": "Patent zur EUV-Projektionslithografie."
+        },
+        {
+          "sourceId": "S039",
+          "note": "Industrielle Rolle des Zulieferers."
+        }
+      ],
+      "openQuestions": [
+        "Im Originalton klären, welcher Teil der Lieferkette gemeint ist und ob Thelen Deutschland oder Europa meint."
+      ],
+      "occurrences": [
+        {
+          "id": "CZEa85NHWog-O0022",
+          "startSeconds": 485,
+          "endSeconds": 500,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächsverlauf im Begleittranskript. Kein eigener Tonabgleich.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Vorläufig aus Begleittranskript abgeleitet.",
+          "note": "Keine sekundengenaue Kontrolle.",
+          "timeBasis": "Ungefähres Suchfenster der erfassten Fundstelle zur Chip-Lieferkette.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "person": "Frank Thelen",
+        "statementBy": "Gast",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Vorläufige Zuordnung aus dem Begleittranskript. Abgleich am Original offen.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-27"
+      }
     }
   ]
 }
