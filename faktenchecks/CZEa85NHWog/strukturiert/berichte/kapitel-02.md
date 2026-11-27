@@ -1,8 +1,8 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Das Transkript wurde über die gesamte Laufzeit gesichtet. Erfasst ist eine erste Auswahl. Ausstehend sind weitere Einzelaussagen, Prüfung der Einspieler und Kontrolle der Sprecherzuordnung am Original.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen.
 
-Deutsches YouTube-Originalplayer-Transkript durchgehend gesichtet; es enthält erkennbare Namensfehler und weist die Sprecher nicht verlässlich aus. Kein separater Bild-/Tonabgleich. Aussagen und Bewertungen sind ein Teilbestand; keine abschließende Ampelbewertung.
+Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips.
 
 ## CZEa85NHWog-A0004
 
@@ -53,9 +53,9 @@ Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-27
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Eine Untersuchung im Umfeld von Nvidia sei eingestellt worden und habe den Spionageverdacht ausgeräumt.
+**Eigene Beschreibung:** Die einschlägigen Untersuchungen zum Sicherheitsverdacht um Nvidia seien bei Huangs Rückkehr insgesamt eingestellt gewesen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -74,21 +74,24 @@ Zeitgrundlage: Sichtbares Transkript im YouTube-Originalplayer.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht abschließend anhand von Originalton und Sachquellen geprüft.
+Thelen schildert die Einstellung pauschal, ohne eine konkrete Stelle zu nennen. Nvidia hielt bei der Wiedereinsetzung ausdrücklich fest, dass die Untersuchung seines unabhängigen Ausschusses zu Ende geführt werden sollte und die Zusammenarbeit mit laufenden Behördenuntersuchungen weiterging. Dass der Vorstand kein Sicherheitsrisiko für die Wiedereinsetzung sah, ist nicht gleichbedeutend mit einer abgeschlossenen Untersuchung. Der Befund betrifft die behauptete pauschale Einstellung, nicht die tatsächlichen Vorwürfe oder mögliche andere Einzelverfahren.
 
 Grundlage der Bewertung: Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.
 
 Uebernahme: Eigenständiger Prüfgegenstand ohne Altpunkt.
 
-Bewertungsuebergang: Ersterfassung durch Kai am 2026-11-27
+Bewertungsuebergang: Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht.
 
 ### Zugeordnete Quellen
 
 - [YouTube-Original · tagesschau](https://www.youtube.com/watch?v=CZEa85NHWog) · Deutsches Originalplayer-Transkript, Clip 15:53, veröffentlicht am 26.11.2026.
   Quellenzugriff am 2026-11-27. Originalplayer und sichtbares Transkript gelesen; Zeitfenster ungefähr. Ungefähre Fundstelle im Originalplayer.
 
+- [NVIDIA / SEC · Anlage 99.1 zur Wiedereinsetzung](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nov23pressrelease.htm) · 23.11.2026, öffentliche Ankündigung und Stand der Untersuchungen.
+  Quellenzugriff am 2026-11-27. Originalmitteilung einschließlich der Absätze zu internen und behördlichen Untersuchungen gelesen. Sachbeleg oder ausdrücklich abgegrenzter Kontext.
+
 ### Offene Fragen und Unsicherheiten
 
-- Öffentliche Primärdokumente, zuständige Stellen und den Unterschied zwischen Einstellung und positivem Entlastungsbefund prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
