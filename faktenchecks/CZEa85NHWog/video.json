@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "videoId": "CZEa85NHWog",
+  "role": "original",
+  "reactionType": null,
+  "channel": "tagesschau",
+  "title": "Rückstand bei KI: „Ich mache mir große Sorgen um unser Land“ – Frank Thelen | maischberger",
+  "videoUrl": "https://www.youtube.com/watch?v=CZEa85NHWog",
+  "publishedAt": "2026-11-26",
+  "durationSeconds": 953,
+  "workStatus": "In Bearbeitung",
+  "identification": {
+    "basis": "Titel, Kanal, Upload-Datum und Laufzeit im YouTube-Originalplayer; Sendetermin separat beim WDR belegt.",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-27"
+  }
+}
