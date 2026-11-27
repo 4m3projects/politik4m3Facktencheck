@@ -2,22 +2,22 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Das Transkript wurde über die gesamte Laufzeit gesichtet. Erfasst ist eine erste Auswahl. Ausstehend sind weitere Einzelaussagen, Prüfung der Einspieler und Kontrolle der Sprecherzuordnung am Original.
+**Abdeckung: Teilbestand.** Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen.
 
 Stand: 2026-11-27 · Video: CZEa85NHWog
 
-Deutsches YouTube-Originalplayer-Transkript durchgehend gesichtet; es enthält erkennbare Namensfehler und weist die Sprecher nicht verlässlich aus. Kein separater Bild-/Tonabgleich. Aussagen und Bewertungen sind ein Teilbestand; keine abschließende Ampelbewertung.
+Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 16
-- Abgeschlossen: 8
-- Offen (noch nicht geprueft): 8
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 21
+- Abgeschlossen: 18
+- Offen (noch nicht geprueft): 3
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
-- Erfasste Behauptungsvorkommen: 16
+- Erfasste Behauptungsvorkommen: 21
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
 - Davon bestaetigte Wiederholungen derselben Person: 0
 - Rueckfragen/Fremdbezuege/Zurueckweisungen: 0
@@ -30,17 +30,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 7 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 17 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 3 | 42.9 % |
+| Belegt | 7 | 41.2 % |
 | Teilweise belegt | 0 | 0.0 % |
-| Irreführend / Kontext fehlt | 1 | 14.3 % |
-| Widerlegt | 3 | 42.9 % |
-| Nicht ausreichend belegbar | 0 | 0.0 % |
+| Irreführend / Kontext fehlt | 4 | 23.5 % |
+| Widerlegt | 5 | 29.4 % |
+| Nicht ausreichend belegbar | 1 | 5.9 % |
 | Meinung / Prognose | 1 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
@@ -52,17 +52,17 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 15. Ohne verlaessliche Personenzuordnung: 15.
+Regulaer einer Person zugeordnete Tatsachen: 1 von 20. Ohne verlaessliche Personenzuordnung: 19.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 15; mit unsicherem eigenem Aussagebezug: 15. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 19; mit unsicherem eigenem Aussagebezug: 19. Diese Mengen koennen sich ueberschneiden.
 
-- Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 16, Aussagebezug 16 Vorkommen.
+- Bestätigt: Sprecherzuordnung 1, Aussagebezug 1 Vorkommen.
+- Plausibel: Sprecherzuordnung 20, Aussagebezug 20 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| Frank Thelen | 0 | 0 | 0 | 0 | 0 | 0 |
+| Frank Thelen | 1 | 1 | 0 | 0 | 0 | 1 |
 | Sandra Maischberger | 0 | 0 | 0 | 0 | 0 | 0 |
 
 Null zugeordnete Tatsachen bedeutet keine bestaetigte Zurechnung in dieser Auswahl, nicht keine getaetigten Aussagen. Kategorieverteilungen stehen in statistik.json; bei Nenner null sind alle Tatsachenprozente null. Die Gesamtstatistik behaelt plausible eigene Bezuege bei und bestaetigt damit keine Sprecheridentitaet. Ungeklaerte eigene Bezuege gehen nicht in ihre Hauptzaehlung ein.

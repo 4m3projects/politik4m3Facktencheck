@@ -134,6 +134,36 @@
       "topics": [
         "ki"
       ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0017",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0018",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0019",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0020",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0021",
+      "topics": [
+        "ki"
+      ]
     }
   ],
   "history": [
@@ -141,6 +171,11 @@
       "date": "2026-11-27",
       "agent": "Kai",
       "change": "Erstzuordnung: KI und Wirtschaft."
+    },
+    {
+      "date": "2026-11-27",
+      "agent": "Kai",
+      "change": "Zweite Prüfung anhand von Originalfundstellen; fünf neue Tatsachenbehauptungen zu Wirtschaft und KI einschließlich Robotik."
     }
   ]
 }

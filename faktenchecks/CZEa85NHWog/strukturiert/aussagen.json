@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Deutsches YouTube-Originalplayer-Transkript durchgehend gesichtet; es enthält erkennbare Namensfehler und weist die Sprecher nicht verlässlich aus. Kein separater Bild-/Tonabgleich. Aussagen und Bewertungen sind ein Teilbestand; keine abschließende Ampelbewertung.",
-    "coverageNote": "Das Transkript wurde über die gesamte Laufzeit gesichtet. Erfasst ist eine erste Auswahl. Ausstehend sind weitere Einzelaussagen, Prüfung der Einspieler und Kontrolle der Sprecherzuordnung am Original."
+    "researchNote": "Kai: Nachprüfung am 27.11.2026 anhand des sichtbaren Originalplayer-Transkripts, des namentlich aufgeschlüsselten WDR-Ausschnitts und fallbezogener Primärquellen. Der Quellenabgleich ist keine vollständige Sichtung aller Epstein-Akten. Kein separater Bild-/Tonabgleich des gesamten Clips.",
+    "coverageNote": "Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen."
   },
   "speakers": [
     {
@@ -91,6 +91,126 @@
       "details": "Abschnitte zu Modellleistung, Rechenzentren und nationalen KI-Ökosystemen.",
       "accessedOn": "2026-11-27",
       "accessBasis": "Ergebnisse und Grenzen auf der veröffentlichten Berichtsseite gelesen."
+    },
+    {
+      "id": "S009",
+      "title": "Tim Berressem / WDR · Faktencheck zur Sendung vom 25.11.2026",
+      "url": "https://www1.wdr.de/daserste/maischberger/faktenchecks/maischberger-2630.html",
+      "details": "26.11.2026; redaktionelle Prüfung und namentlich ausgewiesener Sendungsausschnitt.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Originalartikel und Sprecherzuordnung gelesen; keine erneute Sichtung sämtlicher Epstein-Akten behauptet."
+    },
+    {
+      "id": "S010",
+      "title": "US-Repräsentantenhaus · Protokoll des Interviews mit Bill Gates",
+      "url": "https://oversight.house.gov/wp-content/uploads/2026/06/Bill-Gates-Transcript.pdf",
+      "details": "10.06.2026; S. 17–19 und 125, Treffen und Einladungen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Primärquelle für die Aussage von Gates; nicht für die Unabhängigkeit der Aussage."
+    },
+    {
+      "id": "S011",
+      "title": "US-Repräsentantenhaus · Mehrheitsbericht zur Aufarbeitung der Ermittlungen",
+      "url": "https://oversight.house.gov/wp-content/uploads/2026/11/A-Review-of-the-Federal-Governments-Mishandling-of-the-Jeffrey-Epstein-and-Ghislaine-Maxwell-Criminal-Investigations_OGR-Maj-Report.pdf",
+      "details": "November 2026, S. 83–85; Dokumente und Interview von Gates.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Relevanter Abschnitt mit Bezug auf veröffentlichte Akten gelesen; eine Erwähnung dort ist kein Nachweis einer Straftat."
+    },
+    {
+      "id": "S012",
+      "title": "NVIDIA / SEC · Form 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm",
+      "details": "Abschnitt 5.02: rechtlich wirksame Wiedereinsetzung am 22.11.2026.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Unternehmenspflichtmitteilung gelesen."
+    },
+    {
+      "id": "S013",
+      "title": "NVIDIA / SEC · Anlage 99.1 zur Wiedereinsetzung",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nov23pressrelease.htm",
+      "details": "23.11.2026, öffentliche Ankündigung und Stand der Untersuchungen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Originalmitteilung einschließlich der Absätze zu internen und behördlichen Untersuchungen gelesen."
+    },
+    {
+      "id": "S014",
+      "title": "Aleph Alpha · Veröffentlichung von Kolibri",
+      "url": "https://aleph-alpha.com/en/news/kolibri-sovereign-ai-made-in-germany/",
+      "details": "05.10.2026; Architektur und Veröffentlichungszeitpunkt.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Datierte Herstellerangaben gelesen; kein unabhängiger Leistungsvergleich."
+    },
+    {
+      "id": "S015",
+      "title": "Deutsche Telekom · Industrial AI Cloud und SupplyOn",
+      "url": "https://www.telekom.com/de/newsroom/aktuelles/medieninformationen/2026/06/t-systems-und-supplyon-bringen-ki-in-europas-lieferketten",
+      "details": "Juni 2026; Münchner Rechenzentrum, Betrieb seit Februar, 10.000 Grafikprozessoren.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Mitteilung des Betreibers gelesen; kein Nachweis für die Wirkung von Strompreisen."
+    },
+    {
+      "id": "S016",
+      "title": "Forschungszentrum Jülich · TOP500, JUPITER",
+      "url": "https://www.fz-juelich.de/de/jsc/aktuelles/meldungen/kurznachrichten/2026/top500-sc26",
+      "details": "November 2026; Leistungsfähigkeit des Standorts Jülich.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Meldung des Betreibers gelesen, kein Vergleich der Strompreise."
+    },
+    {
+      "id": "S017",
+      "title": "Destatis · Ausführliche Ergebnisse zum BIP im 3. Quartal 2026",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_409_811.html",
+      "details": "25.11.2026; Konsum und Tab. 2b, Außenbeitrag; US-Vergleich in anderem Veröffentlichungsstand.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Amtliche Mitteilung und Tabelle gelesen."
+    },
+    {
+      "id": "S018",
+      "title": "NVIDIA · Unternehmensgeschichte",
+      "url": "https://www.nvidia.com/en-us/about-nvidia/corporate-timeline/",
+      "details": "Gründung durch Jensen Huang, Chris Malachowsky und Curtis Priem.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Unternehmenschronik zum Jahr 1993 gelesen."
+    },
+    {
+      "id": "S019",
+      "title": "ASML · EUV-Lithografie",
+      "url": "https://www.asml.com/en/products/euv-lithography-systems",
+      "details": "Produktseite zur Herstellung von EUV-Anlagen.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Herstellerdokumentation gelesen."
+    },
+    {
+      "id": "S020",
+      "title": "National Bureau of Statistics of China · BIP im dritten Quartal 2026",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202610/t20261021_1965671.html",
+      "details": "21.10.2026, Tabelle 3: saisonbereinigtes Quartalswachstum.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Amtliche Vorabschätzung einschließlich Definition gelesen."
+    },
+    {
+      "id": "S021",
+      "title": "International Federation of Robotics · Roboterdichte 2025",
+      "url": "https://ifr.org/ifr-press-releases/news/robot-density-highest-in-south-korea-singapore-and-germany",
+      "details": "12.11.2026; Industrieroboter je 10.000 Beschäftigte in der Industrie.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Studienergebnis und Messgröße beim veröffentlichenden Verband gelesen."
+    },
+    {
+      "id": "S022",
+      "title": "GFT · Investor Presentation November 2026",
+      "url": "https://www.gft.com/dam/jcr%3A73e4a7e6-9732-4195-8fa8-154ebf0d2c0b/gft-investor-presentation-november-2026.pdf",
+      "details": "Folien 15 und 24; kommerzielle Anwendungen und durch KI-Angebote beeinflusste Umsätze.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Unternehmenspräsentation gelesen; keine isolierten KI-Umsätze pro Land."
+    },
+    {
+      "id": "S023",
+      "title": "Associated Press · US-Börsenbericht vom 23.11.2026",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-fcdf1bad36b4f81c90cbb0f33a2c5704",
+      "details": "Börsenreaktion auf Huangs Rückkehr; kein DAX-Marktwert.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Zeitgenössischer Marktbericht als Kontext gelesen; kein Beleg für den behaupteten Marktwertvergleich."
     }
   ],
   "legacyPoints": [],
@@ -101,25 +221,31 @@
       "chapter": 1,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Jensen Huang sei am Montag an die Spitze von Nvidia zurückgekehrt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht abschließend anhand von Originalton und Sachquellen geprüft.",
+      "description": "Jensen Huang war bei Nvidia zu Wochenbeginn wieder als Vorstandsvorsitzender eingesetzt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die am Montag, 23. November, veröffentlichte Ankündigung und die SEC-Pflichtmitteilung belegen die Rückkehr. Formal war sie bereits seit Sonntag, 22. November, wirksam. Die Moderation spricht auch über den Empfang am Montag: Das ist vom Wirksamkeitsdatum zu unterscheiden.",
       "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
           "note": "Ungefähre Fundstelle im Originalplayer."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        },
+        {
+          "sourceId": "S013",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
         }
       ],
-      "openQuestions": [
-        "Mit einer datierten Unternehmensmitteilung und dem genauen Ablauf der Rückkehr abgleichen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "CZEa85NHWog-O0001",
@@ -192,8 +318,8 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
       }
@@ -207,21 +333,25 @@
       "description": "Nvidias Börsenwert sei am Tag der Rückkehr Huangs um einen Betrag gewachsen, der rund 42 % des Marktwerts der DAX-Unternehmen entspreche.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht abschließend anhand von Originalton und Sachquellen geprüft.",
+      "reason": "Die Rückkehr fiel mit einem starken Kurssprung zusammen. Der Tagesbericht reicht aber nicht zum Vergleich mit einer in gleicher Währung und zum gleichen Bewertungsstichtag bestimmten DAX-Marktkapitalisierung.",
       "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
           "note": "Ungefähre Fundstelle im Originalplayer."
+        },
+        {
+          "sourceId": "S023",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
         }
       ],
       "openQuestions": [
-        "Genauen Handelstag, Börsenschlusskurse und vergleichbare DAX-Marktkapitalisierung inklusive Währungsumrechnung prüfen."
+        "Das mit den 42 % gemeinte Berechnungsverfahren klären. Nvidia vor/nach US-Börsenschluss, DAX-Gesamtwert (Vollkapitalisierung oder Streubesitz) und Devisenkurs für den 23.11.2026 zusammenführen."
       ],
       "occurrences": [
         {
@@ -247,8 +377,8 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
       }
@@ -307,8 +437,8 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
       }
@@ -319,25 +449,27 @@
       "chapter": 2,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Eine Untersuchung im Umfeld von Nvidia sei eingestellt worden und habe den Spionageverdacht ausgeräumt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht abschließend anhand von Originalton und Sachquellen geprüft.",
+      "description": "Die einschlägigen Untersuchungen zum Sicherheitsverdacht um Nvidia seien bei Huangs Rückkehr insgesamt eingestellt gewesen.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Thelen schildert die Einstellung pauschal, ohne eine konkrete Stelle zu nennen. Nvidia hielt bei der Wiedereinsetzung ausdrücklich fest, dass die Untersuchung seines unabhängigen Ausschusses zu Ende geführt werden sollte und die Zusammenarbeit mit laufenden Behördenuntersuchungen weiterging. Dass der Vorstand kein Sicherheitsrisiko für die Wiedereinsetzung sah, ist nicht gleichbedeutend mit einer abgeschlossenen Untersuchung. Der Befund betrifft die behauptete pauschale Einstellung, nicht die tatsächlichen Vorwürfe oder mögliche andere Einzelverfahren.",
       "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
           "note": "Ungefähre Fundstelle im Originalplayer."
+        },
+        {
+          "sourceId": "S013",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
         }
       ],
-      "openQuestions": [
-        "Öffentliche Primärdokumente, zuständige Stellen und den Unterschied zwischen Einstellung und positivem Entlastungsbefund prüfen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "CZEa85NHWog-O0005",
@@ -362,11 +494,12 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
-      }
+      },
+      "shortReason": "Nvidia teilte bei der Wiedereinsetzung mit, dass die interne Untersuchung und die Zusammenarbeit mit Behörden weiterliefen."
     },
     {
       "id": "CZEa85NHWog-A0006",
@@ -424,8 +557,8 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
       }
@@ -436,15 +569,15 @@
       "chapter": 3,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Es gebe in Deutschland keine großen eigenen KI-Modelle.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht abschließend anhand von Originalton und Sachquellen geprüft.",
+      "description": "In Deutschland gebe es keine großen eigenen KI-Modelle.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der deutsche Entwickler Aleph Alpha stellte vor der Sendung Kolibri mit 78 Milliarden Gesamtparametern und etwa drei Milliarden pro Token aktiven Parametern vor. Das ist ein Gegenbeispiel zur pauschalen Aussage über die Größe. Ob deutsche Modelle leistungsmäßig mit den internationalen Spitzenmodellen mithalten, beantwortet die Parameterzahl allein nicht.",
       "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht."
       },
       "sourceRefs": [
         {
@@ -454,11 +587,13 @@
         {
           "sourceId": "S008",
           "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
         }
       ],
-      "openQuestions": [
-        "Gesprächskontext und Maßstab für groß klären, etwa Parameterzahl, Benchmark-Leistung oder Marktbedeutung. Zeitgenössische Modelle deutscher Anbieter separat vergleichen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "CZEa85NHWog-O0007",
@@ -483,11 +618,12 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
-      }
+      },
+      "shortReason": "Aleph Alpha hatte Kolibri mit 78 Milliarden Gesamtparametern veröffentlicht; ein Vergleich mit Spitzenmodellen braucht eigene Benchmarks."
     },
     {
       "id": "CZEa85NHWog-A0008",
@@ -495,15 +631,15 @@
       "chapter": 3,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Hohe Strompreise seien der Grund dafür, dass in Deutschland keine relevante KI-Rechenleistung aufgebaut werde.",
+      "description": "Hohe Strompreise seien der Grund dafür, dass Deutschland beim Aufbau von KI-Rechenkapazität zurückliege.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht abschließend anhand von Originalton und Sachquellen geprüft.",
+      "reason": "Betriebene Standorte in München und Jülich widerlegen ein völliges Ausbleiben von KI-Rechenleistung (siehe eigener Prüfpunkt). Sie zeigen nicht, wie groß der Einfluss von Strompreisen auf Investitionen war.",
       "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht."
       },
       "sourceRefs": [
         {
@@ -513,10 +649,18 @@
         {
           "sourceId": "S008",
           "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        },
+        {
+          "sourceId": "S016",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
         }
       ],
       "openQuestions": [
-        "Strompreise für vergleichbare Großabnehmer, vorhandene Infrastruktur und den behaupteten Kausalzusammenhang getrennt prüfen."
+        "Vergleichbare Strompreise und Investitionsentscheidungen nach Ländern und Kundengruppen untersuchen; Standortfaktoren wie Netzanschluss, Hardware, Finanzierung und Nachfrage separat berücksichtigen."
       ],
       "occurrences": [
         {
@@ -542,8 +686,8 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
       }
@@ -599,8 +743,8 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
       }
@@ -614,7 +758,7 @@
       "description": "Das reale deutsche BIP wuchs im dritten Quartal 2026 um 0,1 % gegenüber dem Vorquartal.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
-      "reason": "Der amtliche Destatis-Presse-RSS weist für den 25.11.2026 ein preis-, saison- und kalenderbereinigtes Plus von 0,1 % aus. Der Vergleich mit der US-Zahl ist ein eigener Prüfschritt.",
+      "reason": "Destatis meldete am 25.11.2026 ein preis-, saison- und kalenderbereinigtes Plus von 0,1 % zum Vorquartal, nach +0,2 % in der deutschen Schnellmeldung. Der US-Vergleich ist gesondert bewertet.",
       "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -627,8 +771,8 @@
           "note": "Ungefähre Fundstelle im Originalplayer."
         },
         {
-          "sourceId": "S005",
-          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+          "sourceId": "S017",
+          "note": "Direkte Veröffentlichung vom Sendetag; für das US-BIP zusätzlich die zeitgleiche zweite BEA-Schätzung verwenden."
         }
       ],
       "openQuestions": [],
@@ -656,8 +800,8 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
       }
@@ -671,7 +815,7 @@
       "description": "Die nebeneinander genannten Wachstumsraten von 4,3 % für die USA und 0,1 % für Deutschland seien unmittelbar vergleichbar.",
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
-      "reason": "Die beiden amtlichen Werte sind echt, haben aber verschiedene Bezugsgrößen. Das BEA rechnet das US-Quartal auf ein Jahr hoch, Destatis nicht. Auf einheitlicher Quartalsbasis lagen die USA nach damaliger US-Schätzung bei rund 1,1 %, Deutschland bei 0,1 %. Der Wachstumsvorsprung bleibt, ist aber nicht so groß wie in der unbereinigten Gegenüberstellung.",
+      "reason": "Die beiden amtlichen Werte sind echt, haben aber verschiedene Bezugsgrößen. Das BEA rechnet das US-Quartal auf ein Jahr hoch, Destatis nicht. Auf einheitlicher Quartalsbasis lagen die USA nach damaliger US-Schätzung bei rund 1,1 %, Deutschland bei 0,1 %. Der Wachstumsvorsprung bleibt, ist aber nicht so groß wie in der unbereinigten Gegenüberstellung. Der USA-Vergleich in der deutschen Meldung nennt noch 0,8 % und liegt damit in der Größenordnung der früheren BEA-Schätzung (3,4 % annualisiert). Für die im Gespräch genannten 4,3 % ist die zweite BEA-Schätzung die passende Bezugsquelle.",
       "shortReason": "Vergleichbar sind rund 1,1 % US-Quartalswachstum und 0,1 % deutsches Quartalswachstum.",
       "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
       "migration": {
@@ -689,8 +833,8 @@
           "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
         },
         {
-          "sourceId": "S005",
-          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+          "sourceId": "S017",
+          "note": "Direkte Veröffentlichung vom Sendetag; für das US-BIP zusätzlich die zeitgleiche zweite BEA-Schätzung verwenden."
         }
       ],
       "openQuestions": [],
@@ -718,8 +862,8 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
       }
@@ -730,15 +874,15 @@
       "chapter": 3,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Das deutsche Wachstum von 0,1 % sei ausschließlich auf die hohe Staatsquote zurückzuführen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht abschließend anhand von Originalton und Sachquellen geprüft.",
+      "description": "Das deutsche Quartalswachstum sei nur durch die hohe Staatsquote zustande gekommen.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Destatis meldet höhere reale private (+0,1 %) und staatliche (+0,3 %) Konsumausgaben. Für den Außenbeitrag weist Tabelle 2b +0,1 Prozentpunkte zum Vorquartal aus. Es gab damit auch rechnerische Beiträge außerhalb des Staatskonsums. Das belegt nicht, welche Entwicklung ohne die Staatsausgaben eingetreten wäre; die Höhe der Staatsquote ist selbst kein ausgewiesener Wachstumsbeitrag.",
       "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht."
       },
       "sourceRefs": [
         {
@@ -746,13 +890,11 @@
           "note": "Ungefähre Fundstelle im Originalplayer."
         },
         {
-          "sourceId": "S005",
+          "sourceId": "S017",
           "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
         }
       ],
-      "openQuestions": [
-        "Wachstumsbeiträge und mögliche alternative Erklärungen prüfen. Staatsquote ist nicht gleich Wachstumsbeitrag des Staatskonsums."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "CZEa85NHWog-O0012",
@@ -777,11 +919,12 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
-      }
+      },
+      "shortReason": "Auch der Außenbeitrag stützte das Wachstum; die Staatsquote allein erklärt es nicht."
     },
     {
       "id": "CZEa85NHWog-A0013",
@@ -792,21 +935,25 @@
       "description": "Deutschland erziele im KI-Bereich überhaupt keine Umsätze.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht abschließend anhand von Originalton und Sachquellen geprüft.",
+      "reason": "Unternehmen wie GFT berichten über kommerzielle KI-Projekte. Aus mit KI-Angeboten beeinflussten Umsätzen lässt sich aber weder der isolierte Verkaufserlös eines KI-Produkts noch das Herkunftsland aller Umsätze ablesen.",
       "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
           "note": "Ungefähre Fundstelle im Originalplayer."
+        },
+        {
+          "sourceId": "S022",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
         }
       ],
       "openQuestions": [
-        "Kommerziell erzielte Umsätze deutscher Anbieter prüfen; nicht Gesamtumsätze großer Unternehmen mit KI-Umsatz gleichsetzen."
+        "Eine veröffentlichte, bezahlte Leistung oder abgegrenzten KI-Umsatz eines deutschen Anbieters mit Bezugszeitraum und Geltungsbereich nachweisen."
       ],
       "occurrences": [
         {
@@ -832,8 +979,8 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
       }
@@ -890,8 +1037,8 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
       }
@@ -902,24 +1049,36 @@
       "chapter": 4,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Thelen deutet in einem Gespräch über Bill Gates schwerwiegendes persönliches Fehlverhalten an.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht abschließend anhand von Originalton und Sachquellen geprüft.",
+      "description": "Frank Thelen stellt einen Vorwurf über Bill Gates auf Epsteins Insel als gut dokumentiert dar.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die Redaktion belegt mit dem namentlich zugeordneten Sendungsausschnitt, was Thelen sagte. In den von ihr geprüften veröffentlichten Unterlagen fand sie für den Inselaufenthalt oder eine Beteiligung am Missbrauch keine belastbaren Hinweise. Im US-Kongressprotokoll bestätigt Gates Kontakte und sagt, er habe die Einladungen zur Insel abgelehnt. Der Mehrheitsbericht des Ausschusses dokumentiert Kontakte und weitere Akten, liefert im einschlägigen Abschnitt aber keinen Beleg für Thelens konkreten Vorwurf. Ein Kontakt, ein Entwurf mit Vorwürfen und eine persönliche Aussage sind jeweils kein Beweis für den behaupteten Vorgang. Fehlende Belege sind kein Beweis dafür, dass der Vorgang nie stattfand.",
       "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständiger Prüfgegenstand ohne Altpunkt.",
-        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+        "assessmentChange": "Nachprüfung durch Kai am 2026-11-27; Änderungen und Grenzen siehe Übersichtsbericht."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
           "note": "Ungefähre Fundstelle im Originalplayer."
+        },
+        {
+          "sourceId": "S009",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        },
+        {
+          "sourceId": "S010",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
         }
       ],
       "openQuestions": [
-        "Genaue Formulierung und Belege im Original gesondert kontrollieren. Eine Andeutung oder die bloße Wiederholung eines Vorwurfs ist kein Sachbeleg."
+        "Bei neuen Akten prüfen, ob konkrete, überprüfbare Belege für den behaupteten Vorgang vorliegen."
       ],
       "occurrences": [
         {
@@ -927,14 +1086,14 @@
           "startSeconds": 834,
           "endSeconds": 858,
           "precision": "Ungefähr",
-          "speakerId": null,
-          "candidateSpeakerId": "SP01",
-          "attributionStatus": "Plausibel",
-          "attributionBasis": "Gesprächsrollen aus Fragen und Antworten abgeleitet; Originalton nicht separat abgeglichen.",
+          "speakerId": "SP01",
+          "candidateSpeakerId": null,
+          "attributionStatus": "Bestätigt",
+          "attributionBasis": "Namentlich ausgewiesener Ausschnitt im WDR-Faktencheck.",
           "legacySpeaker": null,
           "role": "Behauptung",
-          "roleStatus": "Plausibel",
-          "roleBasis": "Im Transkript als eigene inhaltliche Aussage der jeweiligen sprechenden Person erkennbar.",
+          "roleStatus": "Bestätigt",
+          "roleBasis": "Der WDR-Ausschnitt weist den Vorwurf und die Behauptung seiner Dokumentation als eigene Aussage Thelens aus.",
           "note": "Zeitnahes Suchfenster, keine sekundengenaue Kontrolle.",
           "timeBasis": "Sichtbares Transkript im YouTube-Originalplayer.",
           "timeHistory": []
@@ -945,10 +1104,39 @@
         "person": "Frank Thelen",
         "statementBy": "Gast",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Thelen ist Studiogast; Reaktionen der Moderation sind ohne separaten Bild-/Tonabgleich noch nicht zuverlässig genug eingeordnet.",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "WDR ordnet Thelen im Sendungsausschnitt namentlich zu; Maischberger fragt nach, übernimmt den Vorwurf aber nicht. Die Redaktion veröffentlicht separat eine Einordnung. Gezählt wird nach der Projektregel für Studiogäste.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
+      },
+      "shortReason": "Die Quellen belegen Kontakte zu Epstein, aber nicht den von Thelen als dokumentiert dargestellten Vorwurf.",
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-27",
+            "agent": "Kai",
+            "strategy": "Sendungsfassung mit der namentlichen Zuordnung und der redaktionellen Aktenprüfung vergleichen.",
+            "sourceIds": [
+              "S001",
+              "S009"
+            ],
+            "result": "Äußerung in der Sendung bestätigt, aber keine dokumentierte Stütze für den konkreten Vorwurf erkennbar."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Kai",
+            "strategy": "Öffentliches Interviewprotokoll des US-Kongresses und den relevanten Abschnitt des Ausschussberichts abgleichen.",
+            "sourceIds": [
+              "S010",
+              "S011"
+            ],
+            "result": "Kontakte werden dokumentiert; Gates bestreitet den Inselbesuch. Der Bericht belegt den behaupteten Vorgang nicht."
+          }
+        ],
+        "missingInformation": "Belastbare Dokumentation des behaupteten Vorgangs, nicht nur des Kontakts.",
+        "conflicts": "Thelen stellt die Dokumentation als belastbar dar. WDR findet keine Belege; Gates bestreitet den Inselbesuch."
       }
     },
     {
@@ -1003,6 +1191,297 @@
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
       }
+    },
+    {
+      "id": "CZEa85NHWog-A0017",
+      "videoId": "CZEa85NHWog",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Jensen Huang hat Nvidia mit aufgebaut.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Unternehmenschronik nennt Huang neben Chris Malachowsky und Curtis Priem als Mitgründer von 1993. Das belegt seine Rolle beim Aufbau, nicht die Bewertung der künftigen Bedeutung des Unternehmens.",
+      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neuer eigenständiger Prüfgegenstand aus der zweiten Sichtung; kein Altpunkt.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Ungefähre Fundstelle im Originalplayer."
+        },
+        {
+          "sourceId": "S018",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "CZEa85NHWog-O0017",
+          "startSeconds": 110,
+          "endSeconds": 126,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächsrollen aus Fragen und Antworten abgeleitet; Originalton nicht separat abgeglichen.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Transkript als eigene inhaltliche Aussage der jeweiligen sprechenden Person erkennbar.",
+          "note": "Zeitnahes Suchfenster, keine sekundengenaue Kontrolle.",
+          "timeBasis": "Sichtbares Transkript im YouTube-Originalplayer.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "person": "Frank Thelen",
+        "statementBy": "Gast",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-27"
+      }
+    },
+    {
+      "id": "CZEa85NHWog-A0018",
+      "videoId": "CZEa85NHWog",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "ASML produziert Anlagen, die bei der Herstellung moderner Chips zum Einsatz kommen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "ASML beschreibt die Entwicklung und Produktion von EUV-Lithografiesystemen, mit denen Chiphersteller Bauteilstrukturen belichten. Der Anlagenbau ist von Chipdesign und Halbleiterfertigung zu unterscheiden.",
+      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neuer eigenständiger Prüfgegenstand aus der zweiten Sichtung; kein Altpunkt.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Ungefähre Fundstelle im Originalplayer."
+        },
+        {
+          "sourceId": "S019",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "CZEa85NHWog-O0018",
+          "startSeconds": 485,
+          "endSeconds": 493,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächsrollen aus Fragen und Antworten abgeleitet; Originalton nicht separat abgeglichen.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Transkript als eigene inhaltliche Aussage der jeweiligen sprechenden Person erkennbar.",
+          "note": "Zeitnahes Suchfenster, keine sekundengenaue Kontrolle.",
+          "timeBasis": "Sichtbares Transkript im YouTube-Originalplayer.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "person": "Frank Thelen",
+        "statementBy": "Gast",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-27"
+      }
+    },
+    {
+      "id": "CZEa85NHWog-A0019",
+      "videoId": "CZEa85NHWog",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Chinas Wirtschaft wächst nach den damals verfügbaren Zahlen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das chinesische Statistikamt meldete für das dritte Quartal 2026 ein saisonbereinigtes reales Plus von 1,2 % zum Vorquartal. Damit ist die Richtung für den Zeitpunkt der Sendung belegt, nicht eine Aussage über einen langfristigen Trend.",
+      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neuer eigenständiger Prüfgegenstand aus der zweiten Sichtung; kein Altpunkt.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Ungefähre Fundstelle im Originalplayer."
+        },
+        {
+          "sourceId": "S020",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "CZEa85NHWog-O0019",
+          "startSeconds": 447,
+          "endSeconds": 459,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächsrollen aus Fragen und Antworten abgeleitet; Originalton nicht separat abgeglichen.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Transkript als eigene inhaltliche Aussage der jeweiligen sprechenden Person erkennbar.",
+          "note": "Zeitnahes Suchfenster, keine sekundengenaue Kontrolle.",
+          "timeBasis": "Sichtbares Transkript im YouTube-Originalplayer.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "person": "Frank Thelen",
+        "statementBy": "Gast",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-27"
+      }
+    },
+    {
+      "id": "CZEa85NHWog-A0020",
+      "videoId": "CZEa85NHWog",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In Deutschland würden wegen hoher Strompreise keine nennenswerten KI-Rechenkapazitäten betrieben.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Die pauschale Aussage trifft auf die Existenz solcher Kapazitäten nicht zu: Laut Betreiber lief das Münchner System seit Februar 2026 mit 10.000 Grafikprozessoren; das Forschungszentrum Jülich dokumentiert außerdem den laufenden Hochleistungsrechner JUPITER. Betreiberangaben sind keine Schätzung des Strompreiseffekts; dieser bleibt separat offen.",
+      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neuer eigenständiger Prüfgegenstand aus der zweiten Sichtung; kein Altpunkt.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Ungefähre Fundstelle im Originalplayer."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        },
+        {
+          "sourceId": "S016",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "CZEa85NHWog-O0020",
+          "startSeconds": 502,
+          "endSeconds": 514,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächsrollen aus Fragen und Antworten abgeleitet; Originalton nicht separat abgeglichen.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Transkript als eigene inhaltliche Aussage der jeweiligen sprechenden Person erkennbar.",
+          "note": "Zeitnahes Suchfenster, keine sekundengenaue Kontrolle.",
+          "timeBasis": "Sichtbares Transkript im YouTube-Originalplayer.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "person": "Frank Thelen",
+        "statementBy": "Gast",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-27"
+      },
+      "shortReason": "In München und Jülich waren vor der Sendung bereits große KI-taugliche Rechenanlagen in Betrieb."
+    },
+    {
+      "id": "CZEa85NHWog-A0021",
+      "videoId": "CZEa85NHWog",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutschland liege in der Robotik pauschal weit zurück.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Ein Rückstand kann nach Teilmarkt existieren, etwa bei bestimmten KI-Robotern. Beim bereits messbaren Einsatz von Industrierobotern lag Deutschland nach IFR-Daten 2025 mit 469 Geräten je 10.000 Beschäftigte auf Platz drei weltweit. Die Nutzungsdichte sagt nichts über die Entwicklung von Robotik-Grundmodellen oder die Größe des Gesamtmarkts aus.",
+      "assessmentBasis": "Kai; Gesprächsverlauf und Fundstelle nach sichtbarem YouTube-Transkript; kein separater Bild- oder Tonabgleich. Maßstab: Wissensstand zur Sendung am 25.11.2026.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neuer eigenständiger Prüfgegenstand aus der zweiten Sichtung; kein Altpunkt.",
+        "assessmentChange": "Ersterfassung durch Kai am 2026-11-27"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Ungefähre Fundstelle im Originalplayer."
+        },
+        {
+          "sourceId": "S021",
+          "note": "Sachbeleg oder ausdrücklich abgegrenzter Kontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "CZEa85NHWog-O0021",
+          "startSeconds": 538,
+          "endSeconds": 551,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächsrollen aus Fragen und Antworten abgeleitet; Originalton nicht separat abgeglichen.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Transkript als eigene inhaltliche Aussage der jeweiligen sprechenden Person erkennbar.",
+          "note": "Zeitnahes Suchfenster, keine sekundengenaue Kontrolle.",
+          "timeBasis": "Sichtbares Transkript im YouTube-Originalplayer.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "person": "Frank Thelen",
+        "statementBy": "Gast",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigenständiger Beitrag des Studiogasts in Frage-Antwort-Passagen. Nach erneuter Transkriptsichtung an dieser Fundstelle keine erkennbare ausdrückliche Übernahme oder sachliche Widerlegung durch die Moderation; kein separater Bild-/Tonabgleich. Gäste zählen nach der Projektregel.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-27"
+      },
+      "shortReason": "Bei der Industrieroboterdichte lag Deutschland laut IFR weltweit auf Platz drei; andere Robotik-Messgrößen können anders ausfallen."
     }
   ]
 }

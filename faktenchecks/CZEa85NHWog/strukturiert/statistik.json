@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Das Transkript wurde über die gesamte Laufzeit gesichtet. Erfasst ist eine erste Auswahl. Ausstehend sind weitere Einzelaussagen, Prüfung der Einspieler und Kontrolle der Sprecherzuordnung am Original.",
+  "coverageNote": "Das Originalplayer-Transkript wurde über die Laufzeit von 15:53 gesichtet. Der erfasste Teilbestand deckt Unternehmensführung, politische Einflussnahme, Konjunktur, KI- und Robotikstandort sowie den WDR-Faktencheck ab. Einzelne Sachfragen und der eigenständige Bild-/Tonabgleich bleiben offen.",
   "videoId": "CZEa85NHWog",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 16,
-  "uniqueStatements": 16,
+  "statementRecords": 21,
+  "uniqueStatements": 21,
   "referenceOnlyStatements": 0,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 16,
+  "assertionOccurrences": 21,
   "additionalAssertionOccurrences": 0,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 0,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 8,
+    "Offen": 3,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 0,
-    "Abgeschlossen": 8
+    "Abgeschlossen": 18
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 15,
+    "Tatsachenbehauptung": 20,
     "Meinung": 0,
     "Prognose": 1
   },
-  "completedFacts": 7,
-  "openFacts": 8,
+  "completedFacts": 17,
+  "openFacts": 3,
   "inProgressFacts": 0,
   "unverifiableFacts": 0,
-  "percentageDenominator": 7,
+  "percentageDenominator": 17,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 3,
-      "completedFactPercent": 42.9
+      "completedCount": 7,
+      "completedFactPercent": 41.2
     },
     {
       "category": "Teilweise belegt",
@@ -44,18 +44,18 @@
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 1,
-      "completedFactPercent": 14.3
+      "completedCount": 4,
+      "completedFactPercent": 23.5
     },
     {
       "category": "Widerlegt",
-      "completedCount": 3,
-      "completedFactPercent": 42.9
+      "completedCount": 5,
+      "completedFactPercent": 29.4
     },
     {
       "category": "Nicht ausreichend belegbar",
-      "completedCount": 0,
-      "completedFactPercent": 0.0
+      "completedCount": 1,
+      "completedFactPercent": 5.9
     },
     {
       "category": "Meinung / Prognose",
@@ -69,37 +69,37 @@
       {
         "speakerId": "SP01",
         "name": "Frank Thelen",
-        "uniqueFacts": 0,
-        "completedFacts": 0,
+        "uniqueFacts": 1,
+        "completedFacts": 1,
         "openFacts": 0,
         "inProgressFacts": 0,
         "unverifiableFacts": 0,
-        "percentageDenominator": 0,
+        "percentageDenominator": 1,
         "categories": [
           {
             "category": "Belegt",
             "completedCount": 0,
-            "completedFactPercent": null
+            "completedFactPercent": 0.0
           },
           {
             "category": "Teilweise belegt",
             "completedCount": 0,
-            "completedFactPercent": null
+            "completedFactPercent": 0.0
           },
           {
             "category": "Irreführend / Kontext fehlt",
             "completedCount": 0,
-            "completedFactPercent": null
+            "completedFactPercent": 0.0
           },
           {
             "category": "Widerlegt",
             "completedCount": 0,
-            "completedFactPercent": null
+            "completedFactPercent": 0.0
           },
           {
             "category": "Nicht ausreichend belegbar",
-            "completedCount": 0,
-            "completedFactPercent": null
+            "completedCount": 1,
+            "completedFactPercent": 100.0
           },
           {
             "category": "Meinung / Prognose",
@@ -151,19 +151,19 @@
         ]
       }
     ],
-    "eligibleFacts": 15,
-    "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 15,
-    "factsWithUncertainAttribution": 15,
-    "factsWithUncertainOwnRole": 15,
+    "eligibleFacts": 20,
+    "reliablyAssignedFacts": 1,
+    "factsWithoutReliablePerson": 19,
+    "factsWithUncertainAttribution": 19,
+    "factsWithUncertainOwnRole": 19,
     "occurrenceAttributionCounts": {
-      "Bestätigt": 0,
-      "Plausibel": 16,
+      "Bestätigt": 1,
+      "Plausibel": 20,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
-      "Bestätigt": 0,
-      "Plausibel": 16,
+      "Bestätigt": 1,
+      "Plausibel": 20,
       "Ungeklärt": 0
     }
   }
