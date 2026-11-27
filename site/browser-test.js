@@ -152,11 +152,16 @@ async function step(name, fn) {
     await overview.waitFor();
     if (shots) await page.screenshot({ path: path.join(shots, 'kurzueberblick-mobil.png') });
     assert.match(await overview.innerText(), /Sandra Maischberger[\s\S]*Frank Thelen/);
-    assert.equal(await overview.getByRole('link', { name: 'Prüfung und Belege' }).count(), 3);
+    assert.equal(await overview.getByRole('link', { name: /^Prüfung und Belege / }).count(), 3);
     assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
-    await overview.getByRole('link', { name: 'Prüfung und Belege' }).first().click();
+    const proofs = overview.getByRole('link', { name: /^Prüfung und Belege / });
+    await proofs.first().focus();
+    await page.keyboard.press('Enter');
     const claim = page.locator('#' + id + '-A0006');
     await claim.locator('.sources').waitFor();
+    await page.waitForFunction(id => document.activeElement === document.querySelector('#' + id + ' > details > summary'), id + '-A0006');
+    await page.keyboard.press('Tab');
+    assert.ok(await claim.locator(':scope > details a:focus').count(), 'Tab bleibt bei der gezielten Fundstelle');
     assert.equal(await claim.locator(':scope > details').getAttribute('open'), '');
     assert.match(await claim.getByRole('link', { name: 'Auf YouTube ansehen' }).first().getAttribute('href'), /[?&]t=485s/);
     await claim.getByRole('link', { name: /Im Seitenplayer ab/ }).click();

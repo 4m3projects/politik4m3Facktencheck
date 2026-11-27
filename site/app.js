@@ -1126,8 +1126,9 @@ function videoOverview(v) {
     const desc = c.description.length > 170 ? c.description.slice(0, 167).replace(/\s+\S*$/, '') + '…' : c.description;
     const first = (c.occurrences || []).find(o => videoAtHref(v, o.startSeconds));
     const to = first && videoAtHref(v, first.startSeconds);
-    return `<li><p>${esc(desc)}</p><div class="video-overview-links">
-      <a href="#/video/${esc(v.id)}/aussage/${esc(c.id)}">Prüfung und Belege</a>
+    const label = 'overview-' + esc(c.id);
+    return `<li><p id="${label}-claim">${esc(desc)}</p><div class="video-overview-links">
+      <a id="${label}-proof" aria-labelledby="${label}-proof ${label}-claim" href="#/video/${esc(v.id)}/aussage/${esc(c.id)}">Prüfung und Belege</a>
       ${to ? `<a href="${esc(to)}">▶ Stelle bei ${shortTime(first.startSeconds)}</a>` : ''}
     </div></li>`;
   }).join('');
@@ -1287,8 +1288,13 @@ async function pageVideo(id, focusClaim) {
     const el = document.getElementById(focusClaim);
     if (el) {
       el.classList.add('highlight');
-      el.querySelector(':scope > details').open = true;
-      requestAnimationFrame(() => el.scrollIntoView({ block: 'start' }));
+      const details = el.querySelector(':scope > details');
+      details.open = true;
+      requestAnimationFrame(() => {
+        if (!el.isConnected) return;
+        details.querySelector(':scope > summary').focus({ preventScroll: true });
+        el.scrollIntoView({ block: 'start' });
+      });
     }
   } else {
     window.scrollTo(0, 0);
