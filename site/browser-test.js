@@ -134,6 +134,7 @@ async function step(name, fn) {
   await step('Startseite und Aussagen-Ansicht weiter funktionsfähig', async () => {
     await page.goto(base + '#/');
     await page.waitForSelector('.card');
+    assert.equal(await page.locator('.card .legend-filter').count(), 0, 'keine verschachtelten Buttons im Startseitenlink');
     await page.goto(base + `#/video/${VIDEO}`);
     await page.waitForSelector('#claims .claim');
     assert.ok(await page.locator('.tabs a', { hasText: 'Video mit Faktencheck' }).count() === 1);
@@ -188,6 +189,32 @@ async function step(name, fn) {
     await page.setViewportSize({ width: 1360, height: 860 });
   });
 
+  await step('Bewertungslegende nutzt das Dropdown und springt zur ersten Aussage', async () => {
+    await page.setViewportSize({ width: 390, height: 844 });
+    await page.goto(base + `#/video/${VIDEO}`);
+    const off = page.getByRole('button', { name: /^Noch nicht geprüft \d+$/ });
+    const visible = page.locator('#claims .claim:not([hidden])');
+    await off.focus();
+    await page.keyboard.press('Enter');
+    assert.equal(await page.locator('#f-v').inputValue(), 'offen');
+    assert.equal(await off.getAttribute('aria-pressed'), 'true');
+    assert.ok(await visible.count() > 0);
+    assert.equal(await visible.locator('.badge-todo').count(), await visible.count());
+    assert.equal(await page.evaluate(() => document.activeElement.id), await visible.first().getAttribute('id'));
+    assert.ok(await page.evaluate(() => {
+      const a = document.activeElement.getBoundingClientRect(), head = document.querySelector('.topbar').getBoundingClientRect();
+      return a.top >= head.bottom && a.top < innerHeight;
+    }), 'erste Aussage bleibt unter der Kopfzeile sichtbar');
+    await page.locator('#f-v').selectOption('');
+    assert.equal(await off.getAttribute('aria-pressed'), 'false', 'manuelle Auswahl aktualisiert die Legende');
+    await page.locator('#f-q').fill('kein-möglicher-fixture-suchtreffer-4493');
+    await off.click();
+    assert.equal(await page.locator('#f-q').inputValue(), 'kein-möglicher-fixture-suchtreffer-4493');
+    assert.equal(await visible.count(), 0);
+    assert.equal(await page.evaluate(() => document.activeElement.id), 'count');
+    await page.setViewportSize({ width: 1360, height: 860 });
+  });
+
   await step('Video-Ansicht ohne YouTube: Liste vollständig lesbar, keine externen Anfragen', async () => {
     await page.goto(base + `#/video/${VIDEO}/video`);
     await page.waitForSelector('.vc-item');
@@ -228,8 +255,22 @@ async function step(name, fn) {
     await page.setViewportSize({ width: 390, height: 844 });
     assert.ok(await page.locator('#vc-c').isVisible() && await overview.isVisible());
     assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
+    await page.locator('#vc-clear').click();
+    const off = overview.locator('[data-verdict-filter="offen"]');
+    await off.click();
+    assert.equal(await page.locator('#vc-v').inputValue(), 'offen');
+    assert.equal(await off.getAttribute('aria-pressed'), 'true');
+    assert.ok(await visible.count() > 0 && await visible.count() < total);
+    assert.equal(await visible.locator('.badge-todo').count(), await visible.count());
+    assert.equal(await page.evaluate(() => document.activeElement.id), await visible.first().getAttribute('id'));
+    assert.equal(await page.locator('#vc-consent').isVisible(), true);
+    assert.ok(await page.evaluate(() => {
+      const a = document.activeElement.getBoundingClientRect(), head = document.querySelector('.topbar').getBoundingClientRect();
+      return a.top >= head.bottom && a.top < innerHeight;
+    }), 'erste Fundstelle bleibt unter der Kopfzeile sichtbar');
     await page.setViewportSize({ width: 1360, height: 860 });
     await page.locator('#vc-clear').click();
+    assert.equal(await off.getAttribute('aria-pressed'), 'false');
     assert.equal(await visible.count(), total);
     assert.deepEqual(external, []);
   });
