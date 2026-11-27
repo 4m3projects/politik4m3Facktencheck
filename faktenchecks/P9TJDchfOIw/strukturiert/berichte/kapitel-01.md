@@ -409,11 +409,11 @@ Zeitgrundlage: vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am O
 
 Art. 69 Abs. 2 enthält inzwischen ausdrücklich einen Zustimmungsvorbehalt auch für Kündigungen. Die eigene Erstprüfung ergänzte dafür den Monat Mai; diese Datierung wird zurückgenommen. S005 nennt den 12.05.2026, S037 und S038 verweisen für Art. 1 Nr. 5 dagegen auf den Zusammentritt der neunten Wahlperiode. Dieser fand laut S039 am 06.10.2026 statt. Für den im November beschriebenen Zustimmungsvorbehalt besteht zwischen diesen Quellen kein Unterschied; der genaue historische Beginn wird erst nach Kontrolle der amtlichen Endverkündung abschließend festgelegt.
 
-Grundlage der Bewertung: Nachprüfung 22.11.2026 (Codex): Normtext, Gesetzgebungsunterlage, Gesetzeswiedergabe und Sitzungstermin gelesen. Die Monatsangabe war ein eigener Zusatz der Erstprüfung. HP-C0002 dokumentiert dessen Rücknahme.
+Grundlage der Bewertung: Nachprüfung 22.11.2026 (Codex): Normtext, Gesetzgebungsunterlage, Gesetzeswiedergabe und Sitzungstermin gelesen. Die Monatsangabe war ein eigener Zusatz der Erstprüfung. HP-C0002 dokumentiert dessen Rücknahme. Nachtrag 27.11.2026 (Codex): Amtliche Verfassungsausgabe und Herleitung des 06.10.2026 ergänzt.
 
 Uebernahme: Direkte Neuerfassung ohne Altprüfpunkt.
 
-Bewertungsuebergang: Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026. Nachprüfung 22.11.2026 (Codex), HP-C0002: eigene Ergänzung seit Mai 2026 zurückgenommen; Zustimmungsvorbehalt zum Videozeitpunkt und Urteil Belegt erhalten. Vorheriger Prüfgegenstand: Die Kündigung eines Staatsvertrags benötigt in Sachsen-Anhalt seit Mai 2026 die Zustimmung des Landtags.
+Bewertungsuebergang: Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026. Nachprüfung 22.11.2026 (Codex), HP-C0002: eigene Ergänzung seit Mai 2026 zurückgenommen; Zustimmungsvorbehalt zum Videozeitpunkt und Urteil Belegt erhalten. Vorheriger Prüfgegenstand: Die Kündigung eines Staatsvertrags benötigt in Sachsen-Anhalt seit Mai 2026 die Zustimmung des Landtags. Nachtrag 27.11.2026 (Codex): Datum aus Übergangsvorschrift und belegtem Sitzungstermin hergeleitet; Quellenstatus offengelegt.
 
 ### Zugeordnete Quellen
 
@@ -421,7 +421,7 @@ Bewertungsuebergang: Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026
   Quellenzugriff am 2026-11-21. Videometadaten und zugeordnetes deutsches Untertitel-Transkript durch vidIQ abgerufen und ausgewertet. Originalton und Originalbilder nicht abgespielt; Zeitmarken ungefähr. Nur Herkunft, Wortsinngrenzen und ungefähre Fundstelle, kein unabhängiger Sachbeleg.
 
 - [Artikel 69 Landesverfassung: Zustimmung zu Staatsvertragskündigungen](https://www.haufe.de/id/norm/verfassung-sachsen-anhalt-art-69-vertretung-des-landes-staatsvertraege-HI8635922_p69.html) · Haufe; Änderung seit 12.05.2026: Abschluss und Kündigung von Staatsverträgen erfordern Landtagszustimmung. Nachprüfung 22.11.2026: Historische Datierung gegenüber Art. 8 Abs. 3 in S037/S038 nicht abgesichert.
-  Quellenzugriff am 2026-11-21. Volltext einschließlich Änderungsstand geöffnet und gelesen. Codex öffnete die Seite erneut am 22.11.2026; die Datierung 12.05.2026 widerspricht dem besonderen Inkrafttretensvorbehalt in S037/S038. Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt.
+  Quellenzugriff am 2026-11-21. Volltext einschließlich Änderungsstand geöffnet und gelesen. Codex öffnete die Seite erneut am 22.11.2026; die Datierung 12.05.2026 widerspricht dem besonderen Inkrafttretensvorbehalt in S037/S038. Sekundäre Normwiedergabe. Die pauschale Mai-Datierung berücksichtigt die besondere Übergangsvorschrift der Kündigungsregel nicht.
 
 - [Originaltranskript im YouTube-Player](https://www.youtube.com/watch?v=P9TJDchfOIw) · YouTube / Der Stimmzettel; Veröffentlichung laut Player 20.11.2026.
   Quellenzugriff am 2026-11-22. Codex öffnete die Originalseite und las das eingeblendete deutsche Transkript vollständig von 00:01 bis 11:49. Die Wiedergabe meldete einen Medienfehler. Kein Originalton gehört, keine Filmstellen gesehen; Untertitelfehler und Sprecherwechsel bleiben möglich. Originaltranskript 02:59–03:15 nennt eine Verfassungsänderung, keinen Monat.
@@ -434,6 +434,9 @@ Bewertungsuebergang: Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026
 
 - [Konstituierung des Landtags der neunten Wahlperiode](https://www.landtag.sachsen-anhalt.de/artikel/landtag-hat-sich-konstituiert) · Landtag Sachsen-Anhalt, Meldung 06.10.2026.
   Quellenzugriff am 2026-11-22. Meldung geöffnet und gelesen: konstituierende Sitzung am 06.10.2026. Belegt den Sitzungstermin, ersetzt nicht das Inkrafttretensrecht. Sitzungstermin 06.10.2026, kein eigener Beweis des rechtlichen Beginns.
+
+- [Verfassung des Landes Sachsen-Anhalt, 3. Auflage](https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Broschueren/Verfassung_Grundgesetz_barrierefrei_261125.pdf) · Landtag Sachsen-Anhalt, 3. Auflage, November 2026, Art. 69 Abs. 2, S. 39.
+  Quellenzugriff am 2026-11-27. Amtliche Broschüre geöffnet. Art. 69 Abs. 2 und Änderungsnachweis für das Gesetz vom 04.05.2026 gelesen. Belegt den geltenden Wortlaut; die Übergangsvorschrift steht in S038. Amtliche Verfassungsbroschüre, Art. 69 Abs. 2. Bestätigt den geltenden Wortlaut. Aus der Übergangsvorschrift in S038 und dem Sitzungstermin in S039 ergibt sich der 06.10.2026 als Beginn der Regel. Die Originalausgabe des Gesetz- und Verordnungsblatts lag nicht vor.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -464,7 +467,7 @@ Zeitgrundlage: vidIQ-Transkriptdaten zum Video, textlich eingegrenzt, nicht am O
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – abschließend fehlen die Absicherung der zum Videodatum geltenden Fassungen und die Unterscheidung zwischen ausdrücklicher Verfassungsklausel und weitergehenden Zustimmungspflichten. In den gelesenen einschlägigen Artikeln der 15 anderen Länder wurde keine ausdrückliche allgemeine Kündigungsklausel gefunden; mehrere Texte sind ältere amtliche Broschüren. Das belegt noch keine aktuelle bundesweite Einzigartigkeit. Das BVerwG lehnte 1980 für Schleswig-Holstein eine Ausdehnung der Vertragszustimmung auf die Kündigung ab. Gersdorf vertritt 2026 für Medienstaatsverträge einen weiteren Vorbehalt aus der Rundfunkfreiheit. Diese wissenschaftliche Gegenposition ist keine gerichtliche Feststellung. Ohne Klärung dieser Reichweite wird die Aussage weder bestätigt noch widerlegt.
+Noch nicht geprüft – abschließend fehlen die Absicherung der zum Videodatum geltenden Fassungen und die Unterscheidung zwischen ausdrücklicher Verfassungsklausel und weitergehenden Zustimmungspflichten. In den gelesenen einschlägigen Artikeln der 15 anderen Länder wurde keine ausdrückliche allgemeine Kündigungsklausel gefunden; mehrere Texte sind ältere amtliche Broschüren. Das belegt noch keine aktuelle bundesweite Einzigartigkeit. Das BVerwG lehnte 1980 für Schleswig-Holstein eine Ausdehnung der Vertragszustimmung auf die Kündigung ab. Gersdorf vertritt 2026 für Medienstaatsverträge einen weiteren Vorbehalt aus der Rundfunkfreiheit. Diese wissenschaftliche Gegenposition ist keine gerichtliche Feststellung. Ohne Klärung dieser Reichweite wird die Aussage weder bestätigt noch widerlegt. Ein Bremer Entwurf vom 21.09.2026 sieht eine ausdrückliche Zustimmungspflicht auch für Kündigungen vor (S042). Die eingesehene Vorgangsseite belegt den parlamentarischen Vorgang (S043). Für den Stichtag fehlt aus diesen Unterlagen ein Nachweis, ob die Klausel bereits verkündet und in Kraft war.
 
 Grundlage der Bewertung: Eigene Normrecherche und vollständige Durchsicht des Originalplayer-Transkripts am 22.11.2026; eigener Prüfbericht 04_nachpruefung.md. Kein Bild-/Tonabgleich.
 
@@ -540,9 +543,15 @@ Bewertungsuebergang: Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026
 - [Staatsverträge zwischen den Bundesländern](https://www.bundestag.de/resource/blob/190052/Staatsvertraege_zwischen_den_Bundeslaendern.pdf) · Wissenschaftliche Dienste des Bundestags, Steffi Menzenbach/Torsten Lämmerzahl, Aktueller Begriff 48/07, 19.09.2007.
   Quellenzugriff am 2026-11-22. Zweiseitigen Text geöffnet und gelesen, insbesondere Beendigung und Normenliste. Historischer systematischer Ausgangspunkt, kein aktueller Einzigartigkeitsbeweis. Historischer Vergleichsrahmen; Stand 2007, kein Aktualitätsbeweis.
 
+- [Bremer Verfassungsreform: Gesetzestext und Synopse](https://sd.bremische-buergerschaft.de/sdnetrim/UGhVM0hpd2NXNFdFcExjZYQfdS_TFLLJcb59_mbFX7YeSKIcy0mIMa7bFYnkZ1UR/Gesetzestext_Synopse_21.09.2026.pdf) · Bremische Bürgerschaft, Entwurf vom 21.09.2026, Art. 1 Nr. 5 und Art. 2.
+  Quellenzugriff am 2026-11-27. Amtliche Beratungsunterlage geöffnet und vorgeschlagene Kündigungsklausel in Art. 118 sowie geplantes Inkrafttreten gelesen. Belegt den Entwurf. Vorgeschlagene Klausel in Art. 118, Entwurfsstand.
+
+- [Parlamentarischer Vorgang zur Bremer Verfassungsreform](https://sd.bremische-buergerschaft.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZcuVjYuQ7XIlbqC5C5SGisQ) · Bremische Bürgerschaft, Parlamentsdokumentation zur Reform der Landesverfassung 2026.
+  Quellenzugriff am 2026-11-27. Vorgang geöffnet und die ausgewiesenen Beratungsstationen gelesen. Auf dieser Seite keine Verkündung oder Inkrafttretensbestätigung gefunden. Parlamentarische Vorgangsseite. Kein Beleg für den Geltungsbeginn.
+
 ### Offene Fragen und Unsicherheiten
 
-- Aktuelle konsolidierte Verfassungsfassungen einschließlich aller Änderungen bis 20.11.2026 statt bloßer älterer Broschüren absichern; besonders Bremer Reform 2026 abgleichen.
+- Aktuelle Verfassungsfassungen bis zum 20.11.2026 absichern. Für Bremen insbesondere prüfen, ob und wann die Änderung beschlossen, verkündet und wirksam wurde.
 
 - Ausdrückliche allgemeine Klauseln von besonderen medienrechtlichen Zustimmungspflichten und Informationsrechten unterscheiden; aktuelle Rechtsprechung zur Gegenposition Gersdorfs prüfen.
 
@@ -557,6 +566,8 @@ Widersprueche zwischen Quellen: S035 behandelt einen historischen organisationsr
 - Durchgang 1 am 2026-11-22 (Codex): Wissenssuche im Hauptprojekt und eingebundenen UG mit Parlamentsvorbehalt und Staatsvertragskündigung ohne übertragbare Vorprüfung; übernommene S001/S005 am Originaltranskript und amtlichen Texten gegenlesen. Gepruefte Quellen: S001, S005, S019, S020, S021, S022, S023, S024, S025, S026, S027, S028, S029, S030, S031, S032, S033, S034, S037, S040. Ergebnis: Alle 15 Vergleichsländer mit einschlägigem Artikel erfasst; im Material keine ausdrückliche allgemeine Kündigungsklausel. Mehrere neueste Fassungsstände noch nicht abgesichert.
 
 - Durchgang 2 am 2026-11-22 (Codex): Gegenbelege und Auslegung recherchiert; historisches Originalurteil und aktuelle wissenschaftliche Argumentation getrennt gelesen. Gepruefte Quellen: S035, S036. Ergebnis: Gerichtlichen Maßstab und weitergehende rundfunkrechtliche These unterscheiden; keine pauschale Aussage über fehlende Rechte aller anderen Parlamente.
+
+- Durchgang 3 am 2026-11-27 (Codex): Bremer Reform anhand der amtlichen Synopse und der parlamentarischen Vorgangsseite abgleichen. Gepruefte Quellen: S042, S043. Ergebnis: Entwurf enthält eine Kündigungsklausel. Die eingesehenen Unterlagen belegen keine Geltung am Stichtag.
 
 ## P9TJDchfOIw-A0011
 
