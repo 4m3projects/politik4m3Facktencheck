@@ -809,3 +809,22 @@ a[href*="youtube.com/"] .btn::before, a[href*="youtu.be/"] .btn::before { margin
 .fi-attribution-note .fi-attribution-basis { font-size: .84rem; }
 .fi-attribution-pending { border-left-color: var(--v-irrefuehrend); }
 .fi-attribution-pending strong { color: var(--text); }
+
+/* Leserorientierter Einstieg, vor Zahlen und Prüfdetails. */
+.video-overview { margin: 16px 0 20px; padding: 16px clamp(14px, 3vw, 24px); background: var(--surface); border: 1px solid var(--line); border-inline-start: 4px solid var(--accent); border-radius: 12px; overflow-wrap: anywhere; }
+.video-overview h2, .video-overview h3 { margin: 0 0 6px; }
+.video-overview-intro { margin: 0 0 10px; max-width: 72ch; }
+.video-overview-roles { display: flex; flex-wrap: wrap; gap: 4px 24px; margin: 0 0 12px; }
+.video-overview-roles div { display: flex; flex-wrap: wrap; gap: 0 7px; }
+.video-overview-roles dt { font-weight: 650; }
+.video-overview-roles dd { margin: 0; }
+.video-overview-claims { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 235px), 1fr)); gap: 8px; list-style: none; padding: 0; margin: 0; }
+.video-overview-claims li { border: 1px solid var(--line); border-radius: 8px; padding: 9px 11px; }
+.video-overview-claims p { margin: 0; }
+.video-overview-links { display: flex; flex-wrap: wrap; gap: 2px 12px; margin-top: 3px; font-size: .9rem; }
+.video-overview-links a { display: inline-flex; align-items: center; min-height: 30px; }
+.report-time-alt { font-size: .85em; }
+@media (max-width: 480px) {
+  .crumbs { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin-top: 14px; }
+  .video-head h1 { font-size: clamp(1.4rem, 6.7vw, 1.75rem); }
+}

@@ -4,6 +4,8 @@
 - Veröffentlichung: 2019-05-18
 - Länge: 54:57
 - Prüfung: **Kai** · 2026-11-26 · [Arbeitsstand und Koordination](https://github.com/4m3projects/politik4m3Facktencheck/issues/135)
+- Kurzüberblick: Kurz vor der Europawahl 2019 kritisiert Rezo die Politik von CDU und CSU, etwa bei Bildung, sozialer Ungleichheit und Klimaschutz. Der Faktencheck prüft seine Zahlen und Vergleiche nach dem Wissensstand von 2019.
+- Kernaussagen: A0016, A0017, A0048
 
 ## Erste Ergebnisse (keine Gesamtbilanz)
 

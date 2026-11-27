@@ -5,6 +5,8 @@
 - Veröffentlichung: 2026-11-26
 - Länge: 21:04
 - Prüfung: Kai
+- Kurzüberblick: Alfred prüft Constantin Schreibers Aussagen zur Entwicklungshilfe und bewertet keine seiner acht Prüfeinheiten als falsch. Unser Vergleich zeigt, warum wir bei der GIZ-Länderzahl und beim Stand der Prüfung im Jemen zu anderen Einzelurteilen kommen.
+- Kernaussagen: A0007, A0016, A0026
 
 ## Warum Alfred keine falsche Prüfeinheit und Politik4M3 zwei falsche Teilangaben meldet
 

@@ -4,6 +4,8 @@
 - Veröffentlichung: 2026-11-05
 - Länge: 13:23
 - Prüfung: Kai · 2026-11-26 · erster Durchgang
+- Kurzüberblick: Constantin Schreiber argumentiert für weniger Entwicklungszusammenarbeit und will akute Nothilfe beibehalten. Als Beispiele nennt er GIZ-Projekte im Jemen, in Indien und in Peru. Der Faktencheck trennt die politische Forderung von den Zahlen, mit denen er sie begründet.
+- Kernaussagen: A0008, A0013, A0020
 
 ## Ergebnis
 

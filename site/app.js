@@ -53,7 +53,19 @@ function deDate(iso) {
 function videoTimeUrl(url, sec) {
   const u = safeUrl(url);
   if (!u) return null;
-  return u + (u.includes('?') ? '&' : '?') + 't=' + Math.max(0, Math.floor(sec)) + 's';
+  try {
+    const target = new URL(u);
+    target.searchParams.set('t', Math.max(0, Math.floor(sec)) + 's');
+    return target.href;
+  } catch (_) { return null; }
+}
+function videoAtHref(v, sec) {
+  const scope = v.data?.scope;
+  const ytId = FactSync.youtubeId(scope?.videoUrl);
+  if (!ytId || (scope.videoId && scope.videoId !== ytId) ||
+      !Number.isFinite(sec) || sec < 0 ||
+      (Number.isFinite(scope.durationSeconds) && sec >= scope.durationSeconds)) return null;
+  return `#/video/${encodeURIComponent(v.id)}/video/zeit/${Math.floor(sec)}`;
 }
 function num(n) { return Number(n).toLocaleString('de-DE'); }
 function pct(n) { return n == null ? '–' : Number(n).toLocaleString('de-DE', { maximumFractionDigits: 1 }) + ' %'; }
@@ -235,7 +247,16 @@ function unescapeMdText(s) {
 }
 
 function mdLink(text, href, ctx) {
-  if (/^https:\/\//i.test(href)) return `<a href="${esc(href)}" rel="noopener noreferrer" target="_blank">${text}</a>`;
+  if (/^https:\/\//i.test(href)) {
+    const external = extLink(href, text);
+    const scope = ctx.video?.data?.scope;
+    if (!scope || FactSync.youtubeId(href) !== FactSync.youtubeId(scope.videoUrl)) return external;
+    let t;
+    try { t = new URL(href).searchParams.get('t'); } catch (_) { return external; }
+    if (!/^\d{1,7}s?$/.test(t || '')) return external;
+    const sec = parseInt(t, 10), here = videoAtHref(ctx.video, sec);
+    return here ? `<a href="${esc(here)}" aria-label="Fundstelle bei ${hms(sec)} im Seitenplayer öffnen">${text}</a> <span class="report-time-alt">(${extLink(href, 'YouTube')})</span>` : external;
+  }
   if (/^[a-z]+:/i.test(href)) return text; // andere Schemata werden nicht verlinkt
   const [path, frag] = splitFragment(href);
   const anchor = decodeLinkPart(frag);
@@ -376,14 +397,15 @@ async function loadVideo(id) {
   if (state.videos.has(id)) return state.videos.get(id);
   const entry = state.index.videos.find(v => v.id === id);
   if (!entry) throw new Error('Unbekanntes Video: ' + id);
-  const [readme, data, stats, rhet] = await Promise.all([
+  const [readme, data, stats, rhet, intro] = await Promise.all([
     getText(id + '/README.md').catch(() => ''),
     entry.structured ? getJson(id + '/strukturiert/aussagen.json') : Promise.resolve(null),
     entry.structured ? getJson(id + '/strukturiert/statistik.json').catch(() => null) : Promise.resolve(null),
     /* Zweite Ebene (Rhetorik) ist optional; fehlt sie, gilt das Video als rhetorisch noch nicht geprüft. */
-    entry.rhetoric ? getJson(id + '/rhetorik.json').catch(() => null) : Promise.resolve(null)
+    entry.rhetoric ? getJson(id + '/rhetorik.json').catch(() => null) : Promise.resolve(null),
+    entry.files?.includes('01_kurz.md') ? getText(id + '/01_kurz.md').catch(() => '') : Promise.resolve('')
   ]);
-  const v = { ...entry, readme, meta: readmeMeta(readme), data, stats, rhet };
+  const v = { ...entry, readme, meta: readmeMeta(readme), data, stats, rhet, intro };
   state.videos.set(id, v);
   return v;
 }
@@ -935,15 +957,19 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
   const color = c.verdict ? `var(--v-${VKEY[c.verdict]})` : isUnverifiable(c) ? 'var(--s-nichtpruefbar)' : (c.status === 'In Bearbeitung' ? 'var(--s-bearbeitung)' : 'var(--s-offen)');
   const spk = id => (id && speakers[id] ? (speakers[id].name || 'Unbenannte Stimme ' + id) : id);
 
+  const firstTime = (c.occurrences || []).find(o => videoAtHref(v, o.startSeconds));
+  const firstHref = firstTime && videoAtHref(v, firstTime.startSeconds);
   const occ = (c.occurrences || []).map(o => {
     let who;
     if (o.attributionStatus === 'Bestätigt') who = `<strong>${esc(spk(o.speakerId))}</strong> <span class="badge plain">Zuordnung bestätigt</span>`;
     else if (o.attributionStatus === 'Plausibel') who = `vermutlich <strong>${esc(spk(o.candidateSpeakerId))}</strong> <span class="badge plain">Zuordnung plausibel, nicht bestätigt</span>`;
     else who = `<span class="badge plain">Sprecher ungeklärt</span>`;
-    const url = videoTimeUrl(d.scope.videoUrl, o.startSeconds);
+    const here = videoAtHref(v, o.startSeconds);
+    const url = Number.isFinite(o.startSeconds) && o.startSeconds >= 0 ? videoTimeUrl(d.scope.videoUrl, o.startSeconds) : null;
     const hist = (o.timeHistory || []).map(h => `<li>${hms(h.startSeconds)}–${hms(h.endSeconds)} (${esc(h.precision)}): ${esc(h.basis)}</li>`).join('');
     return `<div class="occ">
-      <div class="occ-top">${url ? extLink(url, `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`) : `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`}
+      <div class="occ-top">${here ? `<a class="time" href="${esc(here)}" aria-label="Fundstelle bei ${hms(o.startSeconds)} im Seitenplayer öffnen">▶ ${hms(o.startSeconds)}–${hms(o.endSeconds)}</a>` : (url ? `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>` : '<span class="time">Ohne Zeitmarke</span>')}
+        ${url ? extLink(url, 'Auf YouTube ansehen') : ''}
         <span class="badge plain">Zeit ${esc(o.precision)}</span>${who}<span class="badge plain">${esc(o.role)} (${esc(o.roleStatus)})</span></div>
       <dl class="kv">
         ${o.note ? `<dt>Hinweis</dt><dd>${esc(o.note)}</dd>` : ''}
@@ -991,6 +1017,7 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
         <div class="claim-desc-label">Prüfgegenstand – unsere Beschreibung, kein Zitat</div>
         <p class="claim-desc">${esc(c.description)}</p>
         <p class="claim-reason">${esc(c.reason)}</p>
+        ${firstHref ? `<a class="claim-watch" href="${esc(firstHref)}">▶ Im Seitenplayer ab ${shortTime(firstTime.startSeconds)}</a>` : ''}
         ${fiAttributionNotice(c)}
         ${rhetBlock(rhetList, v)}
         ${counterBlock(counters, false)}
@@ -1063,6 +1090,61 @@ function videoCrumbs(v) {
   return `<nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / ${origs.length ? origs.join(' · ') + ' / ' : ''}<span aria-current="page">${esc(crumbTitle(v.id, v))}</span></nav>`;
 }
 
+/* Editorial text is plain text, and featured items reference existing claims rather than copying verdicts. */
+function videoOverview(v) {
+  const claims = v.data?.claims || [];
+  const text = v.meta['Kurzüberblick'] || (v.intro || '').split(/\r?\n\s*\r?\n/)
+    .map(s => stripMd(s.replace(/\s+/g, ' ')).trim())
+    .find(s => s.length > 50 && !/^(?:[#*\[>-]|Stand\s*:|Status\s*:)/i.test(s));
+  const clean = String(text || '').trim();
+  const sentences = clean.match(/[^.!?]+[.!?](?=\s|$)/g) || [];
+  let intro = clean.length <= 380 ? clean : '';
+  if (!intro) for (const s of sentences) {
+    if ((intro + s).length > 380) break;
+    intro += s;
+  }
+  if (clean && !intro) intro = clean.slice(0, 377).replace(/\s+\S*$/, '') + '…';
+  const named = role => [...new Set((v.data?.speakers || []).filter(s => role.test(s.videoRole || '') && !/plausibel|vermutet|kandidat/i.test(s.videoRole) && s.name).map(s => s.name))].slice(0, 3).join(', ');
+  const host = v.meta.Moderation || named(/\b(?:Moderation|Moderator(?:in)?|Gastgeber(?:in)?|Host|Interviewer(?:in)?)\b/i);
+  const guest = v.meta.Gast || named(/^(?:Interviewgast|Gast)\b/i);
+  const explicit = (v.meta.Kernaussagen || '').split(',').map(x => x.trim()).filter(Boolean);
+  const distinct = list => [...new Map(list.map(c => [c.id, c])).values()];
+  let picks = distinct(explicit.map(key => claims.find(c => c.id === key || c.id === v.id + '-' + key)).filter(Boolean));
+  if (!picks.length) {
+    const eligible = claims.filter(c => c.description && c.verdict && c.verdict !== 'Meinung / Prognose' && c.sourceRefs?.length &&
+      !['Zitierte Person', 'Ungeklärt'].includes(c.attribution?.statementBy) && c.attribution?.creatorStance !== 'Distanziert');
+    const chapters = new Set();
+    picks = eligible.filter(c => {
+      if (chapters.has(c.chapter)) return false;
+      chapters.add(c.chapter);
+      return true;
+    }).slice(0, 3);
+    if (picks.length < 3) picks = distinct([...picks, ...eligible]);
+  }
+  if (!intro && !host && !guest && !picks.length) return '';
+  const items = picks.slice(0, 3).map(c => {
+    const desc = c.description.length > 170 ? c.description.slice(0, 167).replace(/\s+\S*$/, '') + '…' : c.description;
+    const first = (c.occurrences || []).find(o => videoAtHref(v, o.startSeconds));
+    const to = first && videoAtHref(v, first.startSeconds);
+    const label = 'overview-' + esc(c.id);
+    return `<li><p id="${label}-claim">${esc(desc)}</p><div class="video-overview-links">
+      <a id="${label}-proof" aria-labelledby="${label}-proof ${label}-claim" href="#/video/${esc(v.id)}/aussage/${esc(c.id)}">Prüfung und Belege</a>
+      ${to ? `<a href="${esc(to)}">▶ Stelle bei ${shortTime(first.startSeconds)}</a>` : ''}
+    </div></li>`;
+  }).join('');
+  return `<section class="video-overview" aria-labelledby="video-overview-title">
+    <h2 id="video-overview-title">Kurzüberblick</h2>
+    ${intro ? `<p class="video-overview-intro">${esc(intro)}</p>` : ''}
+    ${host || guest ? `<dl class="video-overview-roles">
+      ${host ? `<div><dt>Moderation</dt><dd>${esc(host)}</dd></div>` : ''}
+      ${guest ? `<div><dt>Gast</dt><dd>${esc(guest)}</dd></div>` : ''}
+    </dl>` : ''}
+    ${items ? `<h3>${explicit.length ? 'Zentrale Aussagen' : 'Ausgewählte Aussagen'}</h3><ul class="video-overview-claims">${items}</ul>` : ''}
+  </section>`;
+}
+
+function shortTime(sec) { return hms(sec).replace(/^00:/, ''); }
+
 function videoHeader(v, tab) {
   const scope = v.data?.scope;
   const tabs = [
@@ -1075,6 +1157,7 @@ function videoHeader(v, tab) {
   return `${videoCrumbs(v)}
   <header class="video-head">
     <h1>${esc(v.title)}</h1>
+    ${tab !== 'video' ? videoOverview(v) : ''}
     ${roleLine(v)}
     ${typeof videoTopicLine === 'function' ? videoTopicLine(v.id) : ''}
     ${fiHeader(v)}
@@ -1205,8 +1288,13 @@ async function pageVideo(id, focusClaim) {
     const el = document.getElementById(focusClaim);
     if (el) {
       el.classList.add('highlight');
-      el.querySelector(':scope > details').open = true;
-      requestAnimationFrame(() => el.scrollIntoView({ block: 'start' }));
+      const details = el.querySelector(':scope > details');
+      details.open = true;
+      requestAnimationFrame(() => {
+        if (!el.isConnected) return;
+        details.querySelector(':scope > summary').focus({ preventScroll: true });
+        el.scrollIntoView({ block: 'start' });
+      });
     }
   } else {
     window.scrollTo(0, 0);
@@ -1249,7 +1337,7 @@ async function pageReport(id, file, anchor = '', hash = location.hash, rjump = n
 
   const src = await getText(v.id + '/' + file);
   if (hash !== location.hash) return false;
-  const html = renderMarkdown(src, { videoId: v.id, file, files: v.files });
+  const html = renderMarkdown(src, { videoId: v.id, video: v, file, files: v.files });
   setPage(`<div class="wrap">
     ${videoHeader(v, 'berichte')}
     <div class="report-layout">
@@ -1554,7 +1642,10 @@ async function routePage(hash = location.hash, rjump = null) {
     if (hash !== location.hash) return;
     if (report) return await pageReport(report.id, report.file, report.anchor, hash, rjump);
     if (parts[0] === 'video' && parts[1]) {
-      if (parts[2] === 'video') return await pageVideoSync(parts[1], { autostart: parts[3] === 'start' });
+      if (parts[2] === 'video') return await pageVideoSync(parts[1], {
+        autostart: parts[3] === 'start',
+        startAt: parts[3] === 'zeit' && /^\d{1,7}$/.test(parts[4] || '') && parts.length === 5 ? Number(parts[4]) : null
+      });
       if (parts[2] === 'reaktionen') return await pageRelations(parts[1]);
       if (parts[2] === 'aussage') return await pageVideo(parts[1], parts[3]);
       return await pageVideo(parts[1]);
