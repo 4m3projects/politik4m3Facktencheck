@@ -177,7 +177,7 @@ async function pageVideoSync(id, opts = {}) {
           <section class="vc-overview" aria-labelledby="vc-dist-h">
             <h2 class="vc-list-head" id="vc-dist-h">Verteilung aller erfassten Aussagen</h2>
             <p class="small">${num(d.claims.length)} Aussagen insgesamt. Wiederholungen werden hier nur einmal gezählt; die Liste zeigt alle Fundstellen.</p>
-            ${distribution(d.claims)}
+            ${distribution(d.claims, 'vc-scroll')}
           </section>
           <h2 class="vc-list-head" id="vc-list-h">Fundstellen im Zeitverlauf <span class="muted">(${timeline.entries.length})</span></h2>
           <div class="filters vc-filters" role="search" aria-label="Fundstellen filtern">
@@ -228,12 +228,13 @@ async function pageVideoSync(id, opts = {}) {
       : shown === total ? `${num(total)} Fundstellen` : `${num(shown)} von ${num(total)} Fundstellen`;
     clear.disabled = !(search.value || verdict.value || chapter.value);
   };
-  const resetFilters = () => { search.value = verdict.value = chapter.value = ''; applyFilters(); };
+  const resetFilters = () => { search.value = verdict.value = chapter.value = ''; verdict.dispatchEvent(new Event('input', { bubbles: true })); };
   [search, verdict, chapter].forEach(el => el.addEventListener('input', applyFilters));
   clear.addEventListener('click', () => { resetFilters(); search.focus(); });
   applyFilters();
 
   let player = null, ready = false, pendingSeek = null, controller = null, lastUserScroll = 0, destroyed = false, expanded = false, lastFocus = null, autoplay = false;
+  bindVerdictLegend(vc, verdict, Object.values(itemEls), $('vc-result'), () => { lastUserScroll = Date.now(); });
 
   /* ---------- Layout und Großansicht ---------- */
   const setLayout = layout => {
