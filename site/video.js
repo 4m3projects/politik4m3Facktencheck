@@ -368,7 +368,7 @@ async function pageVideoSync(id, opts = {}) {
     frame.innerHTML = `<div class="vc-consent vc-error" role="alert">
       <h2>Video kann hier nicht abgespielt werden</h2>
       <p>${esc(message)}</p>
-      <div class="btn-row">${extUrl ? extLink(extUrl, '<span class="btn">Video auf YouTube öffnen</span>') : ''}
+      <div class="btn-row">${extUrl ? extLink(videoAtHref(v, opts.startAt) ? videoTimeUrl(extUrl, opts.startAt) : extUrl, '<span class="btn">Video auf YouTube öffnen</span>') : ''}
         <button type="button" class="btn ghost" id="vc-retry">Erneut versuchen</button></div>
       <p class="small">Die Zeitmarken in der Liste öffnen auf Wunsch die jeweilige Stelle direkt auf YouTube („Stelle auf YouTube öffnen“ in den Details).</p>
     </div>`;
@@ -455,6 +455,12 @@ async function pageVideoSync(id, opts = {}) {
   /* Knopf „Video mit Faktencheck hier abspielen“ auf der Detailseite: Der Klick dort ist die
      ausdrückliche Zustimmung (Hinweis steht am Knopf). Gilt nur für diesen Aufruf; die Adresse wird
      auf die normale Video-Ansicht zurückgesetzt, damit Neuladen nicht erneut automatisch startet. */
+  if (videoAtHref(v, opts.startAt)) {
+    seekTo({ start: opts.startAt });
+    // Auch im Alternativlink im Datenschutzhinweis dieselbe Fundstelle öffnen.
+    const fallback = $('vc-consent').querySelector('a');
+    if (fallback) fallback.href = videoTimeUrl(extUrl, opts.startAt);
+  }
   if (opts.autostart) {
     history.replaceState(null, '', `#/video/${id}/video`);
     autoplay = true;

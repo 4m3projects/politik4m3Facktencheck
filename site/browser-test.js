@@ -19,7 +19,7 @@ const VIDEO = 'mlxFA9T88I0';
 /* Seite wie im Workflow zusammenstellen (vereinfachte Nachbildung). */
 function buildSite() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-site-'));
-  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
+  for (const f of ['index.html', 'favicon.svg', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
   const videos = [];
   const base = path.join(ROOT, 'faktenchecks');
   for (const id of fs.readdirSync(base).filter(x => /^[A-Za-z0-9_-]{11}$/.test(x))) {
@@ -142,6 +142,45 @@ async function step(name, fn) {
     await page.locator('.notice.todo a').click();
     await page.waitForSelector('#pruefstatus');
     assert.match(await page.locator('#pruefstatus').textContent(), /Nicht ausreichend belegbar/);
+  });
+
+  await step('Kurzüberblick, Quellen und interner Zeitsprung auf kleinem Display', async () => {
+    const id = 'CZEa85NHWog', url = base + '#/video/' + id;
+    await page.setViewportSize({ width: 360, height: 800 });
+    await page.goto(url);
+    const overview = page.getByRole('region', { name: 'Kurzüberblick' });
+    await overview.waitFor();
+    if (shots) await page.screenshot({ path: path.join(shots, 'kurzueberblick-mobil.png') });
+    assert.match(await overview.innerText(), /Sandra Maischberger[\s\S]*Frank Thelen/);
+    assert.equal(await overview.getByRole('link', { name: 'Prüfung und Belege' }).count(), 3);
+    assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
+    await overview.getByRole('link', { name: 'Prüfung und Belege' }).first().click();
+    const claim = page.locator('#' + id + '-A0006');
+    await claim.locator('.sources').waitFor();
+    assert.equal(await claim.locator(':scope > details').getAttribute('open'), '');
+    assert.match(await claim.getByRole('link', { name: 'Auf YouTube ansehen' }).first().getAttribute('href'), /[?&]t=485s/);
+    await claim.getByRole('link', { name: /Im Seitenplayer ab/ }).click();
+    await page.waitForSelector('#vc-pending:not([hidden])');
+    assert.match(await page.locator('#vc-load').innerText(), /00:08:05/);
+    assert.match(await page.locator('#vc-consent a').getAttribute('href'), /[?&]t=485s/);
+    assert.ok(await page.locator('#vc-' + id + '-O0006.is-current').count());
+    await page.reload();
+    await page.waitForSelector('#vc-pending:not([hidden])');
+    assert.equal(await page.locator('iframe').count(), 0);
+    for (const time of ['0', '9999999', '-1', 'abc']) {
+      await page.goto(url + '/video/zeit/' + time);
+      await page.waitForFunction(valid => {
+        const el = document.getElementById('vc-pending');
+        return el && el.hidden !== valid;
+      }, time === '0');
+      if (time === '0') assert.match(await page.locator('#vc-load').innerText(), /00:00:00/);
+    }
+    await page.goto(url + '/bericht/README.md');
+    const callout = page.locator('.prose a[href="#/video/' + id + '/video/zeit/492"]').first();
+    await callout.waitFor();
+    assert.equal(await page.locator('.prose a[href$="t=492s"][target="_blank"]').count() > 0, true);
+    assert.deepEqual(external, []);
+    await page.setViewportSize({ width: 1360, height: 860 });
   });
 
   await step('Video-Ansicht ohne YouTube: Liste vollständig lesbar, keine externen Anfragen', async () => {

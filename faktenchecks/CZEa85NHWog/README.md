@@ -6,6 +6,11 @@
 - Länge: 15:53
 - Prüfung: Kai und Codex · 2026-11-27 · Teilbestand geprüft
 
+- Kurzüberblick: Wie weit ist Deutschland bei KI und Chips? Im Gespräch geht es um eigene KI-Modelle, Chipfertigung und einen Vergleich mit dem Wirtschaftswachstum in den USA.
+- Moderation: Sandra Maischberger
+- Gast: Frank Thelen
+- Kernaussagen: A0006, A0007, A0011
+
 ## Was der erste Durchgang zeigt
 
 - **[8:12](https://www.youtube.com/watch?v=CZEa85NHWog&t=492s) · Halbleiter:** Deutschland hat Chipfertigung. Infineon eröffnete 2026 in Dresden ein neues Werk für Leistungs- und Analoghalbleiter. Die Frage nach führenden KI-Beschleunigern ist davon zu trennen.
