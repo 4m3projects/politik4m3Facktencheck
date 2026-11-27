@@ -134,7 +134,7 @@ async function step(name, fn) {
   await step('Startseite und Aussagen-Ansicht weiter funktionsfähig', async () => {
     await page.goto(base + '#/');
     await page.waitForSelector('.card');
-    assert.equal(await page.locator('.card .legend-filter').count(), 0, 'keine verschachtelten Buttons im Startseitenlink');
+    assert.equal(await page.locator('.card :is(.legend-filter, .dist-filter)').count(), 0, 'keine verschachtelten Buttons im Startseitenlink');
     await page.goto(base + `#/video/${VIDEO}`);
     await page.waitForSelector('#claims .claim');
     assert.ok(await page.locator('.tabs a', { hasText: 'Video mit Faktencheck' }).count() === 1);
@@ -215,6 +215,28 @@ async function step(name, fn) {
     await page.setViewportSize({ width: 1360, height: 860 });
   });
 
+  await step('Direkter Klick auf das rote Balkensegment filtert und springt zur ersten Widerlegung', async () => {
+    await page.goto(base + `#/video/${VIDEO}`);
+    await page.locator('#f-q').fill('');
+    const red = page.locator('.dist .dist-filter[data-verdict-filter="widerlegt"]');
+    const label = await red.getAttribute('aria-label');
+    assert.match(label, /Widerlegt: \d+ von \d+ \(.*%\)/);
+    await red.hover();
+    assert.match(await page.locator('.tip-panel').textContent(), /Widerlegt:/);
+    await red.click();
+    const shown = page.locator('#claims .claim:not([hidden])');
+    assert.equal(await page.locator('#f-v').inputValue(), 'widerlegt');
+    assert.equal(await red.getAttribute('aria-pressed'), 'true');
+    assert.equal(await page.getByRole('button', { name: /^Widerlegt \d+$/ }).getAttribute('aria-pressed'), 'true');
+    assert.ok(await shown.count() > 0);
+    assert.equal(await shown.locator('.badge .fill-widerlegt').count(), await shown.count());
+    assert.equal(await page.evaluate(() => document.activeElement.id), await shown.first().getAttribute('id'));
+    assert.ok(await page.evaluate(() => {
+      const a = document.activeElement.getBoundingClientRect(), head = document.querySelector('.topbar').getBoundingClientRect();
+      return a.top >= head.bottom && a.top < innerHeight;
+    }));
+  });
+
   await step('Video-Ansicht ohne YouTube: Liste vollständig lesbar, keine externen Anfragen', async () => {
     await page.goto(base + `#/video/${VIDEO}/video`);
     await page.waitForSelector('.vc-item');
@@ -256,7 +278,7 @@ async function step(name, fn) {
     assert.ok(await page.locator('#vc-c').isVisible() && await overview.isVisible());
     assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
     await page.locator('#vc-clear').click();
-    const off = overview.locator('[data-verdict-filter="offen"]');
+    const off = overview.locator('.legend-filter[data-verdict-filter="offen"]');
     await off.click();
     assert.equal(await page.locator('#vc-v').inputValue(), 'offen');
     assert.equal(await off.getAttribute('aria-pressed'), 'true');
@@ -505,6 +527,18 @@ async function step(name, fn) {
     const c = await p.locator('#vc-consent').boundingBox(), lb = await p.locator('#vc-load').boundingBox();
     assert.ok(lb.y + lb.height <= c.y + c.height + 1, 'Ladeknopf ohne inneres Scrollen erreichbar');
     if (shots) { await p.locator('#vc-frame').scrollIntoViewIfNeeded(); await p.screenshot({ path: path.join(shots, 'mobil.png'), fullPage: false }); }
+    const red = p.locator('.vc-overview .dist-filter[data-verdict-filter="widerlegt"]');
+    await red.tap();
+    const found = p.locator('.vc-item:not([hidden])');
+    assert.equal(await p.locator('#vc-v').inputValue(), 'widerlegt');
+    assert.ok(await found.count() > 0);
+    assert.equal(await found.locator('.badge .fill-widerlegt').count(), await found.count());
+    assert.equal(await p.evaluate(() => document.activeElement.id), await found.first().getAttribute('id'));
+    assert.ok(await p.evaluate(() => {
+      const a = document.activeElement.getBoundingClientRect(), head = document.querySelector('.topbar').getBoundingClientRect();
+      return a.top >= head.bottom && a.top < innerHeight;
+    }));
+    assert.equal(await p.locator('#vc-consent').isVisible(), true);
     await m.close();
   });
 

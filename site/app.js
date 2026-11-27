@@ -127,8 +127,13 @@ function distribution(claims, filterId = null) {
     if (b) b.n++;
   }
   const total = claims.length || 1;
-  const bar = buckets.filter(b => b.n > 0).map(b =>
-    `<span class="fill-${b.key}" style="flex:${b.n}" data-tip="${esc(b.name)}: ${b.n} von ${claims.length} (${pct(b.n / total * 100)})"></span>`).join('');
+  const bar = buckets.filter(b => b.n > 0).map(b => {
+    const tip = esc(`${b.name}: ${b.n} von ${claims.length} (${pct(b.n / total * 100)})`);
+    const segment = `class="fill-${b.key}${filterId ? ' dist-filter' : ''}" style="flex:${b.n}" data-tip="${tip}"`;
+    return filterId
+      ? `<button type="button" ${segment} aria-label="${tip} – Aussagen filtern" data-verdict-filter="${esc(b.key)}" aria-controls="${esc(filterId)}" aria-pressed="false"></button>`
+      : `<span ${segment}></span>`;
+  }).join('');
   const legend = buckets.filter(b => b.n > 0).map(b => {
     const entry = `<i class="fill-${b.key}" aria-hidden="true"></i>${esc(b.name)} <b>${b.n}</b>`;
     return filterId
@@ -136,7 +141,7 @@ function distribution(claims, filterId = null) {
       : `<li>${entry}</li>`;
   }).join('');
   const label = buckets.filter(b => b.n > 0).map(b => `${b.name}: ${b.n}`).join(', ');
-  return `<div class="dist" role="img" aria-label="Verteilung der ${claims.length} strukturierten Aussagen – ${esc(label)}">${bar}</div><ul class="legend">${legend}</ul>`;
+  return `<div class="dist${filterId ? ' dist-interactive' : ''}" role="${filterId ? 'group' : 'img'}" aria-label="Verteilung der ${claims.length} strukturierten Aussagen – ${esc(label)}">${bar}</div><ul class="legend">${legend}</ul>`;
 }
 
 /* Dieselbe Bewertungs-Auswahl wie das Dropdown, ohne weitere Filter zu verändern. */
@@ -148,6 +153,7 @@ function bindVerdictLegend(root, select, cards, empty, onJump) {
   select.addEventListener('input', sync);
   sync();
   for (const b of buttons) b.addEventListener('click', () => {
+    if (document.querySelector('.tip-panel:not([hidden])')) hideTip();
     select.value = b.dataset.verdictFilter;
     select.dispatchEvent(new Event('input', { bubbles: true }));
     const target = cards.find(card => !card.hidden) || empty;

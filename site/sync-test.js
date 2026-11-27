@@ -380,7 +380,7 @@ test('Bewertungslegende setzt die vorhandene Auswahl und fokussiert den ersten v
   });
   const bind = vm.runInNewContext(implementation + '\nbindVerdictLegend', {
     Event,
-    document: { querySelector: () => ({ getBoundingClientRect: () => ({ bottom: 76 }) }) },
+    document: { querySelector: selector => selector === '.topbar' ? { getBoundingClientRect: () => ({ bottom: 76 }) } : null },
     window: { scrollBy: ({ top }) => { movedBy = top; } }
   });
   bind({ querySelectorAll: () => [a, b] }, select, cards, empty, () => { jumped++; });
