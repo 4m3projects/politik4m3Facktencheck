@@ -16,55 +16,25 @@ const { chromium } = require('playwright');
 const F = require('./relations-fixtures.js');
 
 const ROOT = path.join(__dirname, '..');
-const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js'];
 
 function buildSite(withFixtures) {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-rel-'));
-  for (const f of SITE_FILES) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
-  fs.mkdirSync(path.join(out, 'daten'));
-  const videos = [];
-  const base = path.join(ROOT, 'faktenchecks');
-  for (const id of fs.readdirSync(base).filter(x => /^[A-Za-z0-9_-]{11}$/.test(x)).sort()) {
-    const dir = path.join(base, id);
-    if (!fs.existsSync(path.join(dir, 'README.md'))) continue;
-    const files = [];
-    const walk = rel => {
-      for (const e of fs.readdirSync(path.join(dir, rel), { withFileTypes: true })) {
-        const r = rel ? rel + '/' + e.name : e.name;
-        if (e.isDirectory()) walk(r); else if (e.name.endsWith('.md')) files.push(r);
-      }
-    };
-    walk('');
-    files.sort();
-    for (const f of files) {
-      fs.mkdirSync(path.dirname(path.join(out, 'daten', id, f)), { recursive: true });
-      fs.copyFileSync(path.join(dir, f), path.join(out, 'daten', id, f));
-    }
-    const structured = fs.existsSync(path.join(dir, 'strukturiert', 'aussagen.json'));
-    if (structured) for (const f of ['aussagen.json', 'statistik.json']) {
-      const p = path.join(dir, 'strukturiert', f);
-      if (fs.existsSync(p)) fs.copyFileSync(p, path.join(out, 'daten', id, 'strukturiert', f));
-    }
-    const metaPath = path.join(dir, 'video.json');
-    const video = fs.existsSync(metaPath) ? JSON.parse(fs.readFileSync(metaPath, 'utf8')) : null;
-    const title = (/^# (.+)$/m.exec(fs.readFileSync(path.join(dir, 'README.md'), 'utf8')) || [])[1] || id;
-    videos.push({ id, title, structured, files, video });
-  }
-  let relations = JSON.parse(fs.readFileSync(path.join(base, 'beziehungen.json'), 'utf8'));
+  const B = require('../scripts/build-site.js');
+  B.build(out, { commit: 'test000', generated: '2026-11-18T00:00:00Z', hidden: [], requireTopics: false /* ausgeblendete Videos haben keine Themen */ });
   if (withFixtures) {
+    const ip = path.join(out, 'daten', 'index.json');
+    const index = JSON.parse(fs.readFileSync(ip, 'utf8'));
     for (const [id, v] of Object.entries(F.VIDEOS)) {
       const d = path.join(out, 'daten', id, 'strukturiert');
       fs.mkdirSync(d, { recursive: true });
       fs.writeFileSync(path.join(out, 'daten', id, 'README.md'), `# ${v.meta.title}\n\n- Kanal: ${v.meta.channel}\n\n${F.NOTE}\n`);
       fs.writeFileSync(path.join(d, 'aussagen.json'), JSON.stringify(v.data));
-      videos.push({ id, title: v.meta.title, structured: true, files: ['README.md'], video: v.meta });
+      index.videos.push({ id, title: v.meta.title, structured: true, files: ['README.md'], video: v.meta });
     }
-    relations = F.RELATIONS;
+    fs.writeFileSync(ip, JSON.stringify(index));
+    fs.writeFileSync(path.join(out, 'daten', 'beziehungen.json'), JSON.stringify(F.RELATIONS));
+    B.refresh(out);
   }
-  fs.writeFileSync(path.join(out, 'daten', 'beziehungen.json'), JSON.stringify(relations));
-  fs.writeFileSync(path.join(out, 'daten', 'index.json'), JSON.stringify({ generated: '2026-11-18T00:00:00Z', commit: 'test000', repository: '4m3projects/politik4m3Facktencheck', videos }));
-  /* Wissensverzeichnis wie im Workflow (node scripts/wissen.js export). */
-  require('node:child_process').execFileSync(process.execPath, [path.join(__dirname, '..', 'scripts', 'wissen.js'), 'export', path.join(out, 'daten', 'wissen.json')]);
   return out;
 }
 
@@ -87,7 +57,10 @@ async function step(name, fn) {
 
 (async () => {
   const browser = await chromium.launch();
-  const real = await serve(buildSite(false));
+  const realDir = buildSite(false);
+  const real = await serve(realDir);
+  /* Erwartete Startseitenkarten aus den gebauten Daten: alle Videos außer eingeordneten Reaktionen. */
+  const homeIds = JSON.parse(fs.readFileSync(path.join(realDir, 'daten', 'index.json'), 'utf8')).videos.filter(v => v.video?.role !== 'reaction').map(v => v.id).sort();
   const fix = await serve(buildSite(true));
   const urlOf = s => `http://127.0.0.1:${s.address().port}/`;
   const ctx = await browser.newContext({ viewport: { width: 1280, height: 900 } });
@@ -111,8 +84,9 @@ async function step(name, fn) {
     assert.doesNotMatch(t, /Noch nicht eingeordnet/);
     const cards = await page.$$eval('.cards a.card', a => a.map(x => x.getAttribute('href')).sort());
     /* GbhI-p_ycJE ist als Reaktion auf bPXMY7Reeek eingeordnet und erscheint nur auf dessen Seite. */
-    assert.deepEqual(cards, ['#/video/bPXMY7Reeek', '#/video/mdo14671BPE', '#/video/mlxFA9T88I0']);
-    assert.match(t, /3 Videos/);
+    assert.deepEqual(cards, homeIds.map(id => '#/video/' + id).sort());
+    assert.ok(cards.includes('#/video/bPXMY7Reeek') && !cards.includes('#/video/GbhI-p_ycJE'));
+    assert.match(t, new RegExp(homeIds.length + ' Videos'));
   });
 
   await step('Echte Daten: Detailseite ohne Rollenangabe zeigt keinen Reaktionsreiter, Direktlinks funktionieren', async () => {
@@ -221,7 +195,7 @@ async function step(name, fn) {
     assert.ok(await page.$('.tabs a[aria-current="page"][href="#/video/' + F.RA + '/reaktionen"]'), 'Reiter „Bezug zum Original“ aktiv');
     assert.match(t, /Kritische Reaktion von Fiktiver Kanal A/);
     assert.match(t, /Bezüge auf Originalvideos/);
-    const back = await page.$$eval('.role-line a', a => a.map(x => x.getAttribute('href')));
+    const back = await page.$$eval('.role-line a[href^="#/video/"]', a => a.map(x => x.getAttribute('href')));
     assert.deepEqual(back.sort(), ['#/video/' + F.O1, '#/video/' + F.O2].sort());
     assert.match(t, /Gegenbehauptung zur Originalaussage/);
     assert.match(t, /Bewertungen passen zusammen/);
@@ -255,7 +229,9 @@ async function step(name, fn) {
     await page.click('[data-thumbs="ja"]');
     await page.waitForSelector('img.card-thumb');
     const srcs = await page.$$eval('img.card-thumb', x => x.map(i => i.getAttribute('src')));
-    assert.deepEqual(srcs.sort(), ['https://i.ytimg.com/vi/bPXMY7Reeek/mqdefault.jpg', 'https://i.ytimg.com/vi/mdo14671BPE/mqdefault.jpg', 'https://i.ytimg.com/vi/mlxFA9T88I0/mqdefault.jpg']);
+    assert.equal(srcs.length, homeIds.length, 'ein Vorschaubild je Karte');
+    for (const s of srcs) assert.match(s, /^https:\/\/i\.ytimg\.com\/vi\/[A-Za-z0-9_-]{11}\/mqdefault\.jpg$/);
+    assert.ok(srcs.includes('https://i.ytimg.com/vi/bPXMY7Reeek/mqdefault.jpg'));
     assert.equal(await page.$('.thumb-ask'), null, 'Abfrage nach Wahl verschwunden');
     assert.match(await page.innerText('#thumb-setting'), /an/);
     /* Fixture-Aufbau läuft auf eigenem Port und damit eigener Herkunft: Zustimmung dort erneut geben. */

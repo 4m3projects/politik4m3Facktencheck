@@ -10,8 +10,9 @@ Die Startseite zeigt die zuletzt veröffentlichten oder inhaltlich geprüften Vi
 
 - `site/index.html`, `site/style.css`, `site/app.js`: statische Seite aus eigenem Code. Keine Fremdbibliotheken, keine externen Schriften, keine Tracker.
 - `site/sync.js`, `site/video.js`: Video-Ansicht mit zeitlich synchronisierten Aussagen (siehe unten). Das Originalvideo wird nur nach ausdrücklichem Klick über den offiziellen YouTube-Player eingebettet.
-- `site/sync-test.js`, `site/browser-test.js`: Tests; werden nicht veröffentlicht.
-- `.github/workflows/pages.yml`: führt `scripts/Test-Publication.ps1` und die Synchronisationstests aus, stellt die Seite zusammen und veröffentlicht sie bei einem Push auf `main` über GitHub Pages. Bei Pull Requests wird nur geprüft und testweise zusammengestellt, nicht veröffentlicht.
+- `*-test.js` und `*-fixtures.js` in `site/`: Tests und Testdaten; werden nicht veröffentlicht.
+- `scripts/build-site.js`: **einzige Stelle, die festlegt, was veröffentlicht wird** (siehe „Seitenaufbau“ unten). Workflow und Browsertests nutzen dieselben Funktionen.
+- `.github/workflows/pages.yml`: führt `scripts/Test-Publication.ps1`, die Daten- und Logiktests, `scripts/build-site.js` und alle Browsertests aus und veröffentlicht die Seite bei einem Push auf `main` über GitHub Pages. Bei Pull Requests wird nur geprüft und testweise zusammengestellt, nicht veröffentlicht.
 
 ## Welche Daten auf die Seite gelangen
 
@@ -37,7 +38,7 @@ In den Repository-Einstellungen unter **Settings → Pages → Build and deploym
 
 ## Lokale Vorschau
 
-Den Schritt „Webseite zusammenstellen“ aus dem Workflow in einer Bash-Umgebung (z. B. Git Bash oder WSL, mit `jq`) mit gesetzter Variable `OUT` ausführen und das Ausgabeverzeichnis über einen beliebigen lokalen Webserver öffnen. Direktes Öffnen der HTML-Datei ohne Server funktioniert wegen der Datenabrufe nicht.
+`node scripts/build-site.js <Zielordner>` ausführen (nur Node.js nötig) und den Zielordner über einen beliebigen lokalen Webserver öffnen, z. B. `python -m http.server` im Zielordner. Direktes Öffnen der HTML-Datei ohne Server funktioniert wegen der Datenabrufe nicht.
 
 ## Video mit Faktencheck (Video-Ansicht)
 
@@ -86,7 +87,7 @@ Ein weiterlaufender Zähler allein wird nie automatisch als Hauptvideozeit akzep
 ### Tests
 
 - `node --test site/sync-test.js` – 22 Tests der Synchronisationslogik, darunter simulierte Werbung (eigene Dauer, Zähler ab 0, Fortsetzung an alter und an anderer Stelle, Vorab-Werbung), unbekannte Dauer, manuelles Anhalten mit gesteuerter Uhr: genaue und ungefähre Zeitmarken, überlappende Aussagen, Wiederholungen, Pause, Seek vor/zurück (auch pausiert), Pufferung, doppelte Geschwindigkeit, Videoende, Fehler, Aufräumen, ungültige Zeitangaben und die echten Projektdaten. Läuft im Workflow.
-- `node site/browser-test.js` – 19 Browserprüfungen (inkl. Werbesimulation, Übernehmen-Knopf, Anhalten/Fortsetzen) mit Playwright/Chromium und einem nachgebildeten YouTube-Player (alle fremden Anfragen werden abgefangen): keine externe Anfrage vor dem Klick, nur `iframe_api` danach, `youtube-nocookie.com` als Host, Synchronisation, Sprung per Klick, Pause/Ende, Layouts, Großansicht mit Fokus und Escape, Fallback bei Fehler 150 und blockiertem Skript, Mobilansicht ohne horizontales Scrollen, bestehende Seiten. Nicht im Workflow, weil der Runner kein Playwright mitbringt.
+- `node site/browser-test.js` – 19 Browserprüfungen (inkl. Werbesimulation, Übernehmen-Knopf, Anhalten/Fortsetzen) mit Playwright/Chromium und einem nachgebildeten YouTube-Player (alle fremden Anfragen werden abgefangen): keine externe Anfrage vor dem Klick, nur `iframe_api` danach, `youtube-nocookie.com` als Host, Synchronisation, Sprung per Klick, Pause/Ende, Layouts, Großansicht mit Fokus und Escape, Fallback bei Fehler 150 und blockiertem Skript, Mobilansicht ohne horizontales Scrollen, bestehende Seiten. Läuft seit 28.11.2026 im Workflow (Playwright wird dort nur im Runner installiert, nichts davon gelangt ins Repository).
 
 ### Bekannte Grenzen
 
@@ -134,8 +135,8 @@ Erstellt von: Claude, übernommen aus dem Schwesterprojekt Ungeskriptet. Ein Kli
 
 Erstellt von: Claude, auf Auftrag des Nutzers (18.11.2026). Faktenchecks zu Interviews der Reihe „{ungeskriptet} by Ben“ werden auf der Schwesterseite [Faktencheck Ungeskriptet](https://4m3projects.github.io/politik4m3FaktencheckUngeskriptet/) geführt und erscheinen deshalb nicht mehr auf dieser Webseite. Derzeit betrifft das `mdo14671BPE` (Naomi Seibt bei Ben) und `mlxFA9T88I0` (Horst Lüning bei Ben); beide sind im Repository des Schwesterprojekts vorhanden.
 
-- Die Daten unter `faktenchecks/<Video-ID>/` bleiben unverändert im Repository; Tests und Generator-Prüfung laufen weiter. Nur der Schritt „Webseite zusammenstellen“ in `.github/workflows/pages.yml` überspringt die Videos der Liste `ausgeblendet` und prüft anschließend, dass weder Dateien noch Index- oder Beziehungseinträge davon auf die Seite gelangen.
-- Rückweg: die Video-ID aus der Liste `ausgeblendet` entfernen.
+- Die Daten unter `faktenchecks/<Video-ID>/` bleiben unverändert im Repository; Tests und Generator-Prüfung laufen weiter. Nur der Seitenaufbau (`scripts/build-site.js`) überspringt die Videos der Liste `AUSGEBLENDET` und prüft anschließend, dass weder Dateien, Einstiegsseiten noch Index-, Übersichts-, Wissens- oder Beziehungseinträge davon auf die Seite gelangen.
+- Rückweg: die Video-ID aus der Liste `AUSGEBLENDET` in `scripts/build-site.js` entfernen.
 - Alte Direktlinks wie `#/video/<Video-ID>` führen danach ins Leere; die Ungeskriptet-Seite bleibt über das Menü am Seitentitel erreichbar.
 
 ## YouTube Shorts
@@ -145,3 +146,15 @@ Videos mit `"format": "short"` in `video.json` (oder ohne `video.json` mit einer
 ## Musikvideos
 
 Videos mit `"format": "musikvideo"` in `video.json` tragen auf der Startseitenkarte und im Videokopf das Kennzeichen „♪ Musikvideo“. Über der Aussagenliste und in der Ansicht „Video mit Faktencheck“ erklärt ein fester Hinweis, dass nur Tatsachenkerne bewertet werden, künstlerische Zuspitzung keine Falschaussage ist und der Liedtext nicht wiedergegeben wird. Der Player bleibt 16:9. Die Faktenampel nutzt dieselbe Mindestgrundlage wie bei Shorts (docs/FAKTENINDEX.md). Erkennung und Prüfregeln: [MUSIKVIDEOS.md](MUSIKVIDEOS.md).
+
+## Seitenaufbau, Ladezeit und Bedienung (28.11.2026)
+
+Erstellt von: Claude, auf Auftrag von Jens (Prüfung des Portal-Aufbaus). Zuerst nur auf dieser Seite; die Schwesterseiten folgen nach Jens' Prüfung.
+
+- **Ein Aufbauskript** (`scripts/build-site.js`) statt Bash/jq im Workflow und eigener Nachbauten in jedem Browsertest. Es kopiert alle Seitendateien aus `site/` außer Tests und Testdaten und hängt an jede lokale Skript- und Stildatei in `index.html` automatisch `?v=<Commit>`. Es bricht ab, wenn `index.html` eine fehlende Datei einbindet oder ein Skript in `site/` nirgends eingebunden ist. Eine neue Datei muss also nur noch in `index.html` eingetragen werden.
+- **Übersichtsdaten** (`daten/uebersicht.json`): Startseite, Methodik-Übersicht und Rangliste laden nicht mehr alle Aussagedateien und Berichte jedes Videos, sondern eine kompakte Datei mit README-Kopf, Umfang, Quellenzahl, Darstellungshinweisen und je Aussage nur den Feldern für Faktenindex, Ampel und Verteilung. Gemessen (lokal, 14 Videos): Startseite von 74 auf 18 Anfragen, Daten von rund 2,8 MB auf 0,4 MB (gepackt 37 KB statt 330 KB). `site/build-site-test.js` prüft, dass Faktenindex, Ampel, Klassen, Reihenfolge und README-Angaben aus den Übersichtsdaten exakt dieselben sind wie aus den Volldaten; `site/portal-browser-test.js` vergleicht die gezeichneten Seiten mit und ohne Übersichtsdaten. Die Themenseiten laden weiterhin die Volldaten (gemeinsame Datei `site/themen.js`, wird erst mit den Schwesterseiten angepasst).
+- **Details der Aussagekarten erst beim Öffnen**: Der aufklappbare Teil „Fundstellen, Quellen und Prüfgrundlage“ wird beim ersten Öffnen erzeugt. Beim längsten sichtbaren Video sinkt die Zahl der Seitenelemente von rund 13.300 auf rund 3.300. Die Textsuche durchsucht den Inhalt geschlossener Details weiterhin; Direktlinks auf eine Aussage öffnen und füllen sie sofort. Die vollständige Begründung bleibt auf der Karte sichtbar (Regel in [KURZBEGRUENDUNG.md](KURZBEGRUENDUNG.md)).
+- **Fokus nach Seitenwechsel**: Nach einem Wechsel der Ansicht bekommt die Hauptüberschrift den Fokus (ohne zu scrollen), damit Screenreader und Tastatur auf der neuen Seite beginnen. Ausnahme: erster Aufruf, Reiter- und Berichtssprünge und wenn der Fokus schon im Inhalt liegt (Filter, geöffnete Aussage). Nach dem Zeichnen trägt `<html>` `data-route` mit der gezeichneten Adresse; die Browsertests warten darauf.
+- **Handy-Kopfzeile**: Unter 720 px steht die Navigation in einer einzigen, waagerecht wischbaren Zeile. Die mitlaufende Kopfzeile ist dadurch rund 75 statt 120 Pixel hoch.
+- **Link teilen**: Je Video erzeugt der Aufbau `video/<ID>/index.html` mit Titel, Beschreibung (Faktenindex, Zahl der Aussagen, Kurzüberblick) und Open-Graph-Angaben. Die Seite leitet ohne Skript sofort zur Videoseite weiter. Als Vorschaubild dient das eigene Seitensymbol, nichts von YouTube. Der Knopf „Link teilen“ im Videokopf öffnet auf dem Handy das Teilen-Menü und kopiert sonst diese Adresse.
+
