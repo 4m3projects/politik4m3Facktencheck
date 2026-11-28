@@ -15,7 +15,6 @@ const { chromium } = require('playwright');
 const FX = require('./rhetoric-fixtures.js');
 
 const ROOT = path.join(__dirname, '..');
-const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js'];
 const V = 'mlxFA9T88I0';
 const FACTS = JSON.parse(fs.readFileSync(path.join(ROOT, 'faktenchecks', V, 'strukturiert', 'aussagen.json'), 'utf8'));
 const RHET = FX.build(FACTS);
@@ -23,43 +22,17 @@ const N = FACTS.claims.length;
 
 function buildSite(withRhetoric) {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-rhet-'));
-  for (const f of SITE_FILES) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
-  const base = path.join(ROOT, 'faktenchecks');
-  const videos = [];
-  for (const id of fs.readdirSync(base).filter(x => /^[A-Za-z0-9_-]{11}$/.test(x)).sort()) {
-    const dir = path.join(base, id);
-    if (!fs.existsSync(path.join(dir, 'README.md'))) continue;
-    const files = [];
-    const walk = rel => {
-      for (const e of fs.readdirSync(path.join(dir, rel), { withFileTypes: true })) {
-        const r = rel ? rel + '/' + e.name : e.name;
-        if (e.isDirectory()) walk(r); else if (e.name.endsWith('.md')) files.push(r);
-      }
-    };
-    walk('');
-    for (const f of files) {
-      fs.mkdirSync(path.dirname(path.join(out, 'daten', id, f)), { recursive: true });
-      fs.copyFileSync(path.join(dir, f), path.join(out, 'daten', id, f));
-    }
-    const structured = fs.existsSync(path.join(dir, 'strukturiert', 'aussagen.json'));
-    if (structured) for (const f of ['aussagen.json', 'statistik.json']) {
-      const p = path.join(dir, 'strukturiert', f);
-      if (fs.existsSync(p)) fs.copyFileSync(p, path.join(out, 'daten', id, 'strukturiert', f));
-    }
-    const rp = path.join(dir, 'rhetorik.json');
-    let rhetoric = false;
-    if (withRhetoric && id === V) { fs.writeFileSync(path.join(out, 'daten', id, 'rhetorik.json'), JSON.stringify(RHET)); rhetoric = true; }
-    else if (withRhetoric && fs.existsSync(rp)) { fs.copyFileSync(rp, path.join(out, 'daten', id, 'rhetorik.json')); rhetoric = true; }
-    const mp = path.join(dir, 'video.json');
-  /* Wissensverzeichnis wie im Workflow (node scripts/wissen.js export). */
-  require('node:child_process').execFileSync(process.execPath, [path.join(__dirname, '..', 'scripts', 'wissen.js'), 'export', path.join(out, 'daten', 'wissen.json')]);
-    const title = (/^# (.+)$/m.exec(fs.readFileSync(path.join(dir, 'README.md'), 'utf8')) || [])[1] || id;
-    videos.push({ id, title, structured, rhetoric, files: files.sort(), video: fs.existsSync(mp) ? JSON.parse(fs.readFileSync(mp, 'utf8')) : null });
+  const B = require('../scripts/build-site.js');
+  B.build(out, { commit: 'test000', generated: '2026-11-18T00:00:00Z', hidden: [], requireTopics: false /* ausgeblendete Videos haben keine Themen */ });
+  const ip = path.join(out, 'daten', 'index.json');
+  const index = JSON.parse(fs.readFileSync(ip, 'utf8'));
+  for (const v of index.videos) {
+    const rp = path.join(out, 'daten', v.id, 'rhetorik.json');
+    if (!withRhetoric) { fs.rmSync(rp, { force: true }); v.rhetoric = false; }
+    else if (v.id === V) { fs.writeFileSync(rp, JSON.stringify(RHET)); v.rhetoric = true; }
   }
-  const relPath = path.join(base, 'beziehungen.json');
-  if (fs.existsSync(relPath)) fs.copyFileSync(relPath, path.join(out, 'daten', 'beziehungen.json'));
-  else fs.writeFileSync(path.join(out, 'daten', 'beziehungen.json'), JSON.stringify({ schemaVersion: 1, relations: [] }));
-  fs.writeFileSync(path.join(out, 'daten', 'index.json'), JSON.stringify({ generated: '2026-11-18T00:00:00Z', commit: 'test000', repository: '4m3projects/politik4m3Facktencheck', videos }));
+  fs.writeFileSync(ip, JSON.stringify(index));
+  B.refresh(out);
   return out;
 }
 
@@ -82,7 +55,8 @@ async function step(name, fn) {
 
 (async () => {
   const browser = await chromium.launch();
-  const withR = await serve(buildSite(true));
+  const withRDir = buildSite(true);
+  const withR = await serve(withRDir);
   const without = await serve(buildSite(false));
   const urlOf = s => `http://127.0.0.1:${s.address().port}/`;
   const ctx = await browser.newContext({ viewport: { width: 1280, height: 900 } });
@@ -114,7 +88,11 @@ async function step(name, fn) {
         assert.ok(box.includes(`${R.FEATURES[k].name} ${n}`), id + ': ' + R.FEATURES[k].name + ' ' + n + ' fehlt in: ' + box);
       }
     }
-    assert.match(await page.innerText('.hero-facts'), new RegExp(total + ' Darstellungshinweise \\(KI\\)'));
+    /* Kopfzahl der Startseite: alle Hinweise der dort gezeigten Videos (Reaktionen stehen bei ihrem Original). */
+    const shown = JSON.parse(fs.readFileSync(path.join(withRDir, 'daten', 'index.json'), 'utf8')).videos.filter(v => v.rhetoric && v.video?.role !== 'reaction');
+    const all = shown.reduce((n, v) => n + R.reviewState(rhetOf(v.id)).annotations, 0);
+    assert.ok(all >= total);
+    assert.match(await page.innerText('.hero-facts'), new RegExp(all + ' Darstellungshinweise \\(KI\\)'));
     const t = await open(O, '#/');
     assert.match(t, /Noch nicht geprüft/);
     assert.doesNotMatch(await page.innerText('.hero-facts'), /Darstellungshinweise/);

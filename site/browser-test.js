@@ -16,46 +16,11 @@ const { chromium } = require('playwright');
 const ROOT = path.join(__dirname, '..');
 const VIDEO = 'mlxFA9T88I0';
 
-/* Seite wie im Workflow zusammenstellen (vereinfachte Nachbildung). */
+/* Seite mit demselben Aufbau wie der Workflow (scripts/build-site.js), hier ohne ausgeblendete Videos,
+   weil die Prüfungen auch an ausgeblendeten Videos laufen. */
 function buildSite() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-site-'));
-  for (const f of ['index.html', 'favicon.svg', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
-  const videos = [];
-  const base = path.join(ROOT, 'faktenchecks');
-  for (const id of fs.readdirSync(base).filter(x => /^[A-Za-z0-9_-]{11}$/.test(x))) {
-    const dir = path.join(base, id);
-    const files = [];
-    const walk = rel => {
-      for (const e of fs.readdirSync(path.join(dir, rel), { withFileTypes: true })) {
-        const r = rel ? rel + '/' + e.name : e.name;
-        if (e.isDirectory()) walk(r);
-        else if (e.name.endsWith('.md')) files.push(r);
-      }
-    };
-    walk('');
-    files.sort();
-    for (const f of files) {
-      fs.mkdirSync(path.dirname(path.join(out, 'daten', id, f)), { recursive: true });
-      fs.copyFileSync(path.join(dir, f), path.join(out, 'daten', id, f));
-    }
-    const structured = fs.existsSync(path.join(dir, 'strukturiert', 'aussagen.json'));
-    if (structured) for (const f of ['aussagen.json', 'statistik.json']) {
-      const p = path.join(dir, 'strukturiert', f);
-      if (fs.existsSync(p)) fs.copyFileSync(p, path.join(out, 'daten', id, 'strukturiert', f));
-    }
-    const title = (/^# (.+)$/m.exec(fs.readFileSync(path.join(dir, 'README.md'), 'utf8')) || [])[1] || id;
-    const metaPath = path.join(dir, 'video.json');
-    const rhetPath = path.join(dir, 'rhetorik.json');
-    const rhetoric = fs.existsSync(rhetPath);
-    if (rhetoric) { fs.mkdirSync(path.join(out, 'daten', id), { recursive: true }); fs.copyFileSync(rhetPath, path.join(out, 'daten', id, 'rhetorik.json')); }
-    videos.push({ id, title, structured, rhetoric, files, video: fs.existsSync(metaPath) ? JSON.parse(fs.readFileSync(metaPath, 'utf8')) : null });
-  }
-  fs.copyFileSync(path.join(base, 'beziehungen.json'), path.join(out, 'daten', 'beziehungen.json'));
-  fs.writeFileSync(path.join(out, 'daten', 'index.json'), JSON.stringify({ generated: new Date().toISOString(), commit: 'test', repository: '4m3projects/politik4m3Facktencheck', videos }));
-  /* Wissensverzeichnis wie im Workflow (node scripts/wissen.js export). */
-  require('node:child_process').execFileSync(process.execPath, [path.join(__dirname, '..', 'scripts', 'wissen.js'), 'export', path.join(out, 'daten', 'wissen.json')]);
-  /* Verlauf wie im Workflow (node scripts/verlauf.js export). */
-  require('node:child_process').execFileSync(process.execPath, [path.join(__dirname, '..', 'scripts', 'verlauf.js'), 'export', path.join(out, 'daten', 'verlauf.json')]);
+  require('../scripts/build-site.js').build(out, { commit: 'test', hidden: [], requireTopics: false /* ausgeblendete Videos haben keine Themen */ });
   return out;
 }
 

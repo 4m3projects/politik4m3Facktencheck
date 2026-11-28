@@ -27,7 +27,7 @@ const STATUS = [
 ];
 const VKEY = Object.fromEntries(VERDICTS.map(v => [v.name, v.key]));
 
-const state = { index: null, videos: new Map(), md: new Map(), tip: null, cleanup: null, relations: { relations: [] }, rel: null };
+const state = { index: null, videos: new Map(), md: new Map(), tip: null, cleanup: null, relations: { relations: [] }, rel: null, claimBodies: new Map() };
 
 /* ---------- Hilfsfunktionen ---------- */
 
@@ -442,6 +442,26 @@ async function loadVideo(id) {
   return v;
 }
 
+/* Übersichtsdaten aller Videos (daten/uebersicht.json, erzeugt von scripts/build-site.js): README-Kopf, Umfang,
+   Darstellungshinweise und je Aussage nur die Felder für Faktenindex, Ampel und Verteilung. Startseite, Methodik und
+   Rangliste brauchen nicht mehr; die vollständigen Daten lädt erst die Videoseite. Bereits vollständig geladene Videos
+   werden bevorzugt. Fehlt die Datei (ältere Aufbauten, Tests), werden wie früher alle Videos vollständig geladen. */
+async function loadOverview() {
+  if (!state.overview) {
+    state.overview = getJson('uebersicht.json').then(o => {
+      if (!o || !Array.isArray(o.videos) || (state.index.commit && o.commit && o.commit !== state.index.commit)) return null;
+      return new Map(o.videos.map(x => [x.id, x]));
+    }).catch(() => null);
+  }
+  const ov = await state.overview;
+  return Promise.all(state.index.videos.map(entry => {
+    if (state.videos.has(entry.id)) return state.videos.get(entry.id);
+    const o = ov?.get(entry.id);
+    if (!o) return loadVideo(entry.id).catch(() => ({ ...entry, meta: {}, data: null }));
+    return { ...entry, readme: '', meta: readmeMeta(o.readmeHead || ''), data: o.data, stats: null, rhet: o.rhet, intro: '', overview: true };
+  }));
+}
+
 /* ---------- YouTube-Vorschaubilder nur nach Zustimmung ---------- */
 /* Ohne Zustimmung lädt die Seite keine Bilder von YouTube. Die Wahl wird nur im eigenen Browser
    gespeichert und lässt sich in der Fußzeile jederzeit ändern. */
@@ -797,7 +817,7 @@ function ampelOverview(all) {
 }
 
 async function pageHome() {
-  const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
+  const all = await loadOverview();
   all.sort(FactRelations.compareVideoRecency);
   /* Hauptübersicht: alle Videos außer Reaktionen; Reaktionen erscheinen bei ihrem Original.
      Videos ohne video.json gelten hier als normale Faktenchecks. */
@@ -991,40 +1011,6 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
 
   const firstTime = (c.occurrences || []).find(o => videoAtHref(v, o.startSeconds));
   const firstHref = firstTime && videoAtHref(v, firstTime.startSeconds);
-  const occ = (c.occurrences || []).map(o => {
-    let who;
-    if (o.attributionStatus === 'Bestätigt') who = `<strong>${esc(spk(o.speakerId))}</strong> <span class="badge plain">Zuordnung bestätigt</span>`;
-    else if (o.attributionStatus === 'Plausibel') who = `vermutlich <strong>${esc(spk(o.candidateSpeakerId))}</strong> <span class="badge plain">Zuordnung plausibel, nicht bestätigt</span>`;
-    else who = `<span class="badge plain">Sprecher ungeklärt</span>`;
-    const here = videoAtHref(v, o.startSeconds);
-    const url = Number.isFinite(o.startSeconds) && o.startSeconds >= 0 ? videoTimeUrl(d.scope.videoUrl, o.startSeconds) : null;
-    const hist = (o.timeHistory || []).map(h => `<li>${hms(h.startSeconds)}–${hms(h.endSeconds)} (${esc(h.precision)}): ${esc(h.basis)}</li>`).join('');
-    return `<div class="occ">
-      <div class="occ-top">${here ? `<a class="time" href="${esc(here)}" aria-label="Fundstelle bei ${hms(o.startSeconds)} im Seitenplayer öffnen">▶ ${hms(o.startSeconds)}–${hms(o.endSeconds)}</a>` : (url ? `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>` : '<span class="time">Ohne Zeitmarke</span>')}
-        ${url ? extLink(url, 'Auf YouTube ansehen') : ''}
-        <span class="badge plain">Zeit ${esc(o.precision)}</span>${who}<span class="badge plain">${esc(o.role)} (${esc(o.roleStatus)})</span></div>
-      <dl class="kv">
-        ${o.note ? `<dt>Hinweis</dt><dd>${esc(o.note)}</dd>` : ''}
-        <dt>Sprecherzuordnung</dt><dd>${esc(o.attributionBasis)}</dd>
-        <dt>Aussagebezug</dt><dd>${esc(o.roleBasis)}</dd>
-        <dt>Zeitgrundlage</dt><dd>${esc(o.timeBasis)}</dd>
-        ${o.legacySpeaker ? `<dt>Frühere Angabe</dt><dd>${esc(o.legacySpeaker)}</dd>` : ''}
-        ${hist ? `<dt>Frühere Fundstellen</dt><dd><ul class="questions">${hist}</ul></dd>` : ''}
-      </dl></div>`;
-  }).join('');
-
-  const srcs = (c.sourceRefs || []).map(r => {
-    const s = sources[r.sourceId];
-    if (!s) return `<li><span class="src-title">${esc(r.sourceId)}</span><div class="src-note">${esc(r.note)}</div></li>`;
-    return `<li><div class="src-title">${extLink(s.url, esc(s.title))}</div>
-      <div class="src-meta">${esc(s.details)} · abgerufen ${esc(deDate(s.accessedOn))}</div>
-      <div class="src-meta">Zugriff: ${esc(s.accessBasis)}</div>
-      ${r.note ? `<div class="src-note">Bezug: ${esc(r.note)}</div>` : ''}</li>`;
-  }).join('');
-
-  const rel = (c.relations || []).map(r => `<li>${esc(r.type)} <a href="#/video/${esc(v.id)}/aussage/${esc(r.claimId)}">${esc(r.claimId.replace(v.id + '-', ''))}</a>: ${esc(r.note)}</li>`).join('');
-  const q = (c.openQuestions || []).map(x => `<li>${esc(x)}</li>`).join('');
-  const research = researchBlock(c);
   const chapter = chapterTitles[c.chapter];
   const xlinks = (state.rel?.byClaim.get(c.id) || []).map(({ relation: r, link: l }) => {
     const cmp = linkedVideos ? linkView(r, l, linkedVideos).cmp : { state: 'kein_vergleich' };
@@ -1034,6 +1020,60 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
     return { cmp, html: `<li>${stateBadge(cmp.state)} <a href="${esc(target)}">${esc(videoName(otherVideo))}${otherClaim ? ' · ' + esc(shortClaim(otherClaim, otherVideo)) : ''}</a> – ${esc(FactRelations.LINK_TYPES[l.type])}</li>` };
   });
   const hasConflict = xlinks.some(x => x.cmp.state === 'konflikt');
+
+  /* Inhalt der aufklappbaren Details erst beim Öffnen erzeugen (fillClaimBody): Lange Videos haben Hunderte Aussagen
+     mit je vielen Fundstellen und Quellen; zugeklappt würden sie nur Speicher und Aufbauzeit kosten. */
+  state.claimBodies.set(c.id, () => {
+    const occ = (c.occurrences || []).map(o => {
+      let who;
+      if (o.attributionStatus === 'Bestätigt') who = `<strong>${esc(spk(o.speakerId))}</strong> <span class="badge plain">Zuordnung bestätigt</span>`;
+      else if (o.attributionStatus === 'Plausibel') who = `vermutlich <strong>${esc(spk(o.candidateSpeakerId))}</strong> <span class="badge plain">Zuordnung plausibel, nicht bestätigt</span>`;
+      else who = `<span class="badge plain">Sprecher ungeklärt</span>`;
+      const here = videoAtHref(v, o.startSeconds);
+      const url = Number.isFinite(o.startSeconds) && o.startSeconds >= 0 ? videoTimeUrl(d.scope.videoUrl, o.startSeconds) : null;
+      const hist = (o.timeHistory || []).map(h => `<li>${hms(h.startSeconds)}–${hms(h.endSeconds)} (${esc(h.precision)}): ${esc(h.basis)}</li>`).join('');
+      return `<div class="occ">
+        <div class="occ-top">${here ? `<a class="time" href="${esc(here)}" aria-label="Fundstelle bei ${hms(o.startSeconds)} im Seitenplayer öffnen">▶ ${hms(o.startSeconds)}–${hms(o.endSeconds)}</a>` : (url ? `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>` : '<span class="time">Ohne Zeitmarke</span>')}
+          ${url ? extLink(url, 'Auf YouTube ansehen') : ''}
+          <span class="badge plain">Zeit ${esc(o.precision)}</span>${who}<span class="badge plain">${esc(o.role)} (${esc(o.roleStatus)})</span></div>
+        <dl class="kv">
+          ${o.note ? `<dt>Hinweis</dt><dd>${esc(o.note)}</dd>` : ''}
+          <dt>Sprecherzuordnung</dt><dd>${esc(o.attributionBasis)}</dd>
+          <dt>Aussagebezug</dt><dd>${esc(o.roleBasis)}</dd>
+          <dt>Zeitgrundlage</dt><dd>${esc(o.timeBasis)}</dd>
+          ${o.legacySpeaker ? `<dt>Frühere Angabe</dt><dd>${esc(o.legacySpeaker)}</dd>` : ''}
+          ${hist ? `<dt>Frühere Fundstellen</dt><dd><ul class="questions">${hist}</ul></dd>` : ''}
+        </dl></div>`;
+    }).join('');
+
+    const srcs = (c.sourceRefs || []).map(r => {
+      const s = sources[r.sourceId];
+      if (!s) return `<li><span class="src-title">${esc(r.sourceId)}</span><div class="src-note">${esc(r.note)}</div></li>`;
+      return `<li><div class="src-title">${extLink(s.url, esc(s.title))}</div>
+        <div class="src-meta">${esc(s.details)} · abgerufen ${esc(deDate(s.accessedOn))}</div>
+        <div class="src-meta">Zugriff: ${esc(s.accessBasis)}</div>
+        ${r.note ? `<div class="src-note">Bezug: ${esc(r.note)}</div>` : ''}</li>`;
+    }).join('');
+
+    const rel = (c.relations || []).map(r => `<li>${esc(r.type)} <a href="#/video/${esc(v.id)}/aussage/${esc(r.claimId)}">${esc(r.claimId.replace(v.id + '-', ''))}</a>: ${esc(r.note)}</li>`).join('');
+    const q = (c.openQuestions || []).map(x => `<li>${esc(x)}</li>`).join('');
+    const research = researchBlock(c);
+    return `      <div class="claim-body">
+        <div><h4>Grundlage der Bewertung</h4><p class="small" style="color:var(--text-2)">${esc(c.assessmentBasis)}</p></div>
+        <div><h4>Fundstellen im Video (${(c.occurrences || []).length})</h4>${occ}</div>
+        <div><h4>Quellen</h4>${srcs ? `<ul class="sources">${srcs}</ul>` : '<p class="small">Dieser Aussage sind keine Sachquellen zugeordnet.</p>'}</div>
+        ${q ? `<div><h4>${isUnverifiable(c) ? 'Was für eine Prüfung fehlt' : 'Offene Fragen'}</h4><ul class="questions">${q}</ul></div>` : ''}
+        ${fiClaimBlock(c, v)}
+        ${research}
+        ${rel ? `<div><h4>Beziehungen</h4><ul class="questions">${rel}</ul></div>` : ''}
+        ${xlinks.length ? `<div><h4>Verknüpfte Aussagen in anderen Videos</h4><ul class="questions">${xlinks.map(x => x.html).join('')}</ul></div>` : ''}
+        <div><h4>Herkunft</h4><dl class="kv">
+          <dt>Erfassung</dt><dd>${esc(c.migration?.changeType)}${c.legacyId ? ' · früherer Prüfpunkt ' + esc(c.legacyId) : ''}</dd>
+          <dt>Zuordnung</dt><dd>${esc(c.migration?.mapping)}</dd>
+          <dt>Bewertungsänderung</dt><dd>${esc(c.migration?.assessmentChange)}</dd>
+        </dl></div>
+      </div>`;
+  });
 
   return `<article class="claim" id="${esc(c.id)}">
     <div class="claim-head">
@@ -1055,25 +1095,27 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
         ${counterBlock(counters, false)}
       </div>
     </div>
-    <details>
+    <details data-claim-body="pending">
       <summary>Fundstellen, Quellen und Prüfgrundlage</summary>
-      <div class="claim-body">
-        <div><h4>Grundlage der Bewertung</h4><p class="small" style="color:var(--text-2)">${esc(c.assessmentBasis)}</p></div>
-        <div><h4>Fundstellen im Video (${(c.occurrences || []).length})</h4>${occ}</div>
-        <div><h4>Quellen</h4>${srcs ? `<ul class="sources">${srcs}</ul>` : '<p class="small">Dieser Aussage sind keine Sachquellen zugeordnet.</p>'}</div>
-        ${q ? `<div><h4>${isUnverifiable(c) ? 'Was für eine Prüfung fehlt' : 'Offene Fragen'}</h4><ul class="questions">${q}</ul></div>` : ''}
-        ${fiClaimBlock(c, v)}
-        ${research}
-        ${rel ? `<div><h4>Beziehungen</h4><ul class="questions">${rel}</ul></div>` : ''}
-        ${xlinks.length ? `<div><h4>Verknüpfte Aussagen in anderen Videos</h4><ul class="questions">${xlinks.map(x => x.html).join('')}</ul></div>` : ''}
-        <div><h4>Herkunft</h4><dl class="kv">
-          <dt>Erfassung</dt><dd>${esc(c.migration?.changeType)}${c.legacyId ? ' · früherer Prüfpunkt ' + esc(c.legacyId) : ''}</dd>
-          <dt>Zuordnung</dt><dd>${esc(c.migration?.mapping)}</dd>
-          <dt>Bewertungsänderung</dt><dd>${esc(c.migration?.assessmentChange)}</dd>
-        </dl></div>
-      </div>
     </details>
   </article>`;
+}
+
+/* Details einer Aussagekarte beim ersten Öffnen füllen. Gibt den Inhalt als HTML zurück (auch für die Textsuche). */
+function claimBodyHtml(id) {
+  const make = state.claimBodies.get(id);
+  return make ? make() : '';
+}
+function fillClaimBody(details) {
+  if (!details || details.dataset.claimBody !== 'pending') return;
+  details.dataset.claimBody = 'done';
+  details.insertAdjacentHTML('beforeend', claimBodyHtml(details.closest('.claim')?.id));
+}
+/* Text der zugeklappten Details für die Suche, ohne sie ins Dokument einzufügen. */
+function claimBodyText(id) {
+  const t = document.createElement('template');
+  t.innerHTML = claimBodyHtml(id);
+  return t.content.textContent;
 }
 
 /* Recherchedokumentation (optional, docs/AGENTEN_RECHERCHE.md): tatsächlich durchgeführte Durchgänge,
@@ -1205,7 +1247,9 @@ function videoHeader(v, tab) {
       ${playPath ? `<a class="btn" href="${playPath}" data-tip="${playbackTip}">▶ Video mit Faktencheck hier abspielen</a>` : ''}
       ${youtubeUrl ? extLink(youtubeUrl, `<span class="btn">${v.video?.playbackUrl ? 'Musikvideo' : v.video?.role === 'reaction' ? 'Video' : 'Originalvideo'} auf YouTube</span>`) : ''}
       <a class="btn ghost" href="${esc(blobUrl('faktenchecks/' + v.id))}" rel="noopener noreferrer" target="_blank">Daten auf GitHub</a>
+      <button type="button" class="btn ghost" data-share-video="${esc(v.id)}" data-tip="Kopiert einen Link mit Titel und Kurzbeschreibung für Messenger und soziale Netzwerke">Link teilen</button>
     </div>
+    <p class="small share-status" role="status" aria-live="polite"></p>
     ${playPath ? '<p class="small btn-note">„Hier abspielen“ lädt den YouTube-Player im erweiterten Datenschutzmodus; dabei werden Daten wie deine IP-Adresse an YouTube (Google) übertragen.</p>' : ''}
   </header>
   <nav class="tabs" aria-label="Ansicht">${tabs.map(t => `<a href="${esc(t[1])}"${t[0] === tab ? ' aria-current="page"' : ''}>${t[2]}</a>`).join('')}</nav>`;
@@ -1214,6 +1258,7 @@ function videoHeader(v, tab) {
 async function pageVideo(id, focusClaim) {
   const v = await loadVideo(id);
   if (!v.data) { location.replace(`#/video/${id}/bericht/README.md`); return; }
+  state.claimBodies.clear();
   const d = v.data, s = v.stats, scope = d.scope;
   const titles = chapterTitlesFor(v);
   await fillChapterTitles(v, titles);
@@ -1299,6 +1344,21 @@ async function pageVideo(id, focusClaim) {
   if (frs) frs.addEventListener('change', () => { setRhetShown(frs.checked); if (!frs.checked && fr) fr.value = ''; apply(); });
   const cards = [...document.querySelectorAll('#claims .claim')];
   const byId = Object.fromEntries(d.claims.map(c => [c.id, c]));
+  /* Die Suche findet auch Text aus noch nicht geöffneten Details (Quellen, Fundstellen, Prüfgrundlage). */
+  const searchText = new Map();
+  const textOf = el => {
+    if (!searchText.has(el.id)) {
+      const body = el.querySelector(':scope > details[data-claim-body="pending"]') ? claimBodyText(el.id) : '';
+      searchText.set(el.id, (el.textContent + ' ' + body).toLowerCase());
+    }
+    return searchText.get(el.id);
+  };
+  const claimsEl = document.getElementById('claims');
+  claimsEl.addEventListener('toggle', e => { if (e.target.open) fillClaimBody(e.target); }, true);
+  claimsEl.addEventListener('click', e => {
+    const sum = e.target.closest('summary');
+    if (sum && sum.parentElement?.dataset.claimBody === 'pending') fillClaimBody(sum.parentElement);
+  });
   const apply = () => {
     const term = q.value.trim().toLowerCase();
     let n = 0;
@@ -1307,7 +1367,7 @@ async function pageVideo(id, focusClaim) {
       const rl = rhetByClaim.get(c.id) || [];
       const okR = !fr || !fr.value || (fr.value === '*' ? rl.length > 0 : rl.some(a => a.feature === fr.value));
       const ok = (!fv.value || bucketOf(c) === fv.value) && (!fc.value || String(c.chapter) === fc.value) && okR &&
-        (!term || el.textContent.toLowerCase().includes(term));
+        (!term || textOf(el).includes(term));
       el.hidden = !ok; if (ok) n++;
     }
     document.getElementById('count').textContent = n === cards.length ? `${n} Aussagen` : `${n} von ${cards.length} Aussagen`;
@@ -1328,6 +1388,7 @@ async function pageVideo(id, focusClaim) {
     if (el) {
       el.classList.add('highlight');
       const details = el.querySelector(':scope > details');
+      fillClaimBody(details);
       details.open = true;
       requestAnimationFrame(() => {
         if (!el.isConnected) return;
@@ -1409,7 +1470,7 @@ async function pageRelations(id) {
 }
 
 async function pageMethod() {
-  const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
+  const all = await loadOverview();
   setPage(`<div class="wrap">
     <nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / Methodik</nav>
     <header class="video-head"><h1>So prüfen wir</h1>
@@ -1566,7 +1627,7 @@ async function pageVerlauf() {
 
 /* Rangliste: Videos nach ihrem berechneten Faktenindex, gute oben (site/rangliste.js, docs/RANGLISTE.md). */
 async function pageRangliste(view = 'videos', channel = '') {
-  const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
+  const all = await loadOverview();
   setPage(FactRanking.renderPage(all, {
     view, channel,
     roleKey: v => v.video?.role || '',
@@ -1645,13 +1706,31 @@ function showReportAnchor(anchor, jump) {
 
 async function route() {
   const hash = location.hash;
+  const first = !state.routed;
+  state.routed = true;
   const fresh = j => (j && Date.now() - j.at < 2000 ? j : null);
   const jump = fresh(state.tabJump), rjump = fresh(state.reportJump);
   state.tabJump = null; state.reportJump = null;
   const anchored = await routePage(hash, rjump);
+  /* Fertig gezeichnete Ansicht kennzeichnen (für Browsertests und Hilfsmittel; ohne Wirkung auf die Darstellung). */
+  if (hash === location.hash && document.documentElement) document.documentElement.dataset.route = hash;
   if (hash !== location.hash || anchored) return;
   if (jump) keepTabsInView(jump);
   else if (rjump) showReportStart(rjump);
+  else if (!first) focusNewPage();
+}
+
+/* Nach einem Seitenwechsel die Hauptüberschrift fokussieren, damit Screenreader und Tastatur auf der neuen Seite
+   beginnen. Nur wenn der Fokus nicht schon sinnvoll im Inhalt liegt (z. B. auf einer gezielt geöffneten Aussage oder
+   einem Filter) und nicht beim ersten Aufruf der Seite. Verschiebt die Scrollposition nicht. */
+function focusNewPage() {
+  const content = main();
+  const active = document.activeElement;
+  if (content && active && active !== document.body && active.isConnected && content.contains(active)) return;
+  const h1 = content?.querySelector('h1');
+  if (!h1) return;
+  if (!h1.hasAttribute('tabindex')) h1.setAttribute('tabindex', '-1');
+  h1.focus({ preventScroll: true });
 }
 
 async function routePage(hash = location.hash, rjump = null) {
@@ -1711,6 +1790,30 @@ async function routePage(hash = location.hash, rjump = null) {
     pageError(e);
   }
 }
+
+/* Link teilen: Die Einstiegsseite video/<ID>/ (scripts/build-site.js) trägt Titel und Beschreibung für die Vorschau in
+   Messengern und leitet zur Videoseite weiter. Auf dem Handy öffnet sich das Teilen-Menü, sonst wird der Link kopiert. */
+function shareUrl(id) {
+  return new URL('video/' + encodeURIComponent(id) + '/', location.href.split('#')[0]).href;
+}
+document.addEventListener('click', async e => {
+  const b = e.target.closest?.('[data-share-video]');
+  if (!b) return;
+  const id = b.dataset.shareVideo;
+  const url = shareUrl(id);
+  const status = b.closest('.video-head')?.querySelector('.share-status');
+  const say = html => { if (status) status.innerHTML = html; };
+  const title = entryOf(id)?.title || document.title;
+  if (navigator.share && matchMedia('(pointer: coarse)').matches) {
+    try { await navigator.share({ title, url }); return; } catch (err) { if (err?.name === 'AbortError') return; }
+  }
+  try {
+    await navigator.clipboard.writeText(url);
+    say(`Link kopiert: <a href="${esc(url)}">${esc(url)}</a>`);
+  } catch (_) {
+    say(`Diesen Link kannst du teilen: <a href="${esc(url)}">${esc(url)}</a>`);
+  }
+});
 
 /* Der Inhaltssprung darf den Hash der aktuellen Ansicht nicht überschreiben. */
 document.querySelector('a.skip[href="#inhalt"]')?.addEventListener('click', e => {

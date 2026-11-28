@@ -10,34 +10,15 @@ const os = require('node:os');
 const path = require('node:path');
 const http = require('node:http');
 const assert = require('node:assert/strict');
-const { execFileSync } = require('node:child_process');
 const { chromium } = require('playwright');
 
 const ROOT = path.join(__dirname, '..');
 
-/* Seite wie im Workflow zusammenstellen (vereinfachte Nachbildung, nur JSON-Daten). */
+/* Seite mit demselben Aufbau wie der Workflow (scripts/build-site.js), mit den ausgeblendeten Videos wie live. */
 function buildSite() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-wissen-'));
-  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
-  fs.mkdirSync(path.join(out, 'daten'));
-  const videos = [];
-  const base = path.join(ROOT, 'faktenchecks');
-  // Wie im Workflow: ausgeblendete ungeskriptet-Videos (siehe docs/WEBSEITE.md) erscheinen nicht.
-  const hidden = ['mdo14671BPE', 'mlxFA9T88I0'];
-  for (const id of fs.readdirSync(base).filter(x => /^[A-Za-z0-9_-]{11}$/.test(x) && !hidden.includes(x))) {
-    const dir = path.join(base, id);
-    const d = path.join(out, 'daten', id, 'strukturiert');
-    fs.mkdirSync(d, { recursive: true });
-    for (const f of ['aussagen.json', 'statistik.json']) if (fs.existsSync(path.join(dir, 'strukturiert', f))) fs.copyFileSync(path.join(dir, 'strukturiert', f), path.join(d, f));
-    fs.copyFileSync(path.join(dir, 'README.md'), path.join(out, 'daten', id, 'README.md'));
-    if (fs.existsSync(path.join(dir, 'rhetorik.json'))) fs.copyFileSync(path.join(dir, 'rhetorik.json'), path.join(out, 'daten', id, 'rhetorik.json'));
-    const title = (/^# (.+)$/m.exec(fs.readFileSync(path.join(dir, 'README.md'), 'utf8')) || [])[1] || id;
-    videos.push({ id, title, structured: true, rhetoric: fs.existsSync(path.join(dir, 'rhetorik.json')), files: ['README.md'], video: JSON.parse(fs.readFileSync(path.join(dir, 'video.json'), 'utf8')) });
-  }
-  fs.copyFileSync(path.join(base, 'beziehungen.json'), path.join(out, 'daten', 'beziehungen.json'));
-  fs.writeFileSync(path.join(out, 'daten', 'index.json'), JSON.stringify({ generated: new Date().toISOString(), commit: 'test', repository: '4m3projects/politik4m3Facktencheck', videos }));
+  require('../scripts/build-site.js').build(out, { commit: 'test' });
   const wf = path.join(out, 'daten', 'wissen.json');
-  execFileSync(process.execPath, [path.join(ROOT, 'scripts', 'wissen.js'), 'export', wf]);
   // Nur im Test: ein ausgedachter umgesetzter Korrekturvorgang, um das öffentliche Protokoll zu prüfen.
   const w = JSON.parse(fs.readFileSync(wf, 'utf8'));
   w.corrections = (w.corrections || []).concat({ id: 'UG-C9999', kind: 'Fehlbewertung', date: '2026-11-19', decidedBy: 'Test', basis: 'Testvorgang.', description: 'Testkorrektur für den Browsertest.',
@@ -103,7 +84,7 @@ async function step(name, fn) {
   });
   await step('Themenseite Selbstbestimmungsgesetz: Abschnitte, Herkunft, Empfehlungsbegründung', async () => {
     await page.goto(url + '#/thema/geschlecht/selbstbestimmungsgesetz');
-    await page.waitForSelector('h1');
+    await page.waitForFunction(h => document.documentElement.dataset.route === h, '#/thema/geschlecht/selbstbestimmungsgesetz');
     assert.equal(await page.locator('h1').innerText(), 'Selbstbestimmungsgesetz');
     assert.ok(await page.locator('#belegt .kb-item').count() > 0, 'belegte Tatsachen');
     assert.ok(await page.locator('#falsch .kb-item').count() > 0, 'widerlegte Behauptungen');
@@ -114,7 +95,7 @@ async function step(name, fn) {
   });
   await step('Themenseite: Faktenampel des ganzen Videos bei jeder Herkunft, berechnet wie auf der Videoseite', async () => {
     await page.goto(url + '#/thema/geschlecht/selbstbestimmungsgesetz');
-    await page.waitForSelector('h1');
+    await page.waitForFunction(h => document.documentElement.dataset.route === h, '#/thema/geschlecht/selbstbestimmungsgesetz');
     const items = page.locator('#belegt .kb-item, #falsch .kb-item, #teilweise .kb-item, #unbelegt .kb-item').filter({ has: page.locator('.kb-origin') });
     assert.ok(await items.count() > 0);
     assert.equal(await items.locator('.occ-ampel .ampel').count(), await items.count(), 'Video-Ampel je Aussage');
@@ -128,14 +109,14 @@ async function step(name, fn) {
   await step('Unbelegt steht nie unter „falsch“', async () => {
     for (const id of ['geschlecht', 'geschlecht/selbstbestimmungsgesetz', 'geschlecht/sport', 'corona', 'reaktanz']) {
       await page.goto(url + '#/thema/' + id);
-      await page.waitForSelector('h1');
+      await page.waitForFunction(h => document.documentElement.dataset.route === h, '#/thema/' + id);
       const txt = await page.locator('#falsch').innerText().catch(() => '');
       assert.ok(!txt.includes('Nicht ausreichend belegbar'), id);
     }
   });
   await step('Wissenseinträge erscheinen mit Herkunft, verknüpfte Aussagen nicht doppelt', async () => {
     await page.goto(url + '#/thema/geschlecht');
-    await page.waitForSelector('h1');
+    await page.waitForFunction(h => document.documentElement.dataset.route === h, '#/thema/geschlecht');
     const entries = page.locator('.kb-entry');
     if (!(await entries.count())) return; // Bestand ohne Einträge: nichts zu prüfen
     const txt = await page.locator('main').innerText();
@@ -147,7 +128,7 @@ async function step(name, fn) {
   });
   await step('Videos zu Aussagen: Vorschaubild nur nach Zustimmung, Videoliste bei Wissenseinträgen', async () => {
     await page.goto(url + '#/thema/geschlecht');
-    await page.waitForSelector('h1');
+    await page.waitForFunction(h => document.documentElement.dataset.route === h, '#/thema/geschlecht');
     assert.equal(await page.locator('img[src*="ytimg"]').count(), 0, 'ohne Zustimmung keine Vorschaubilder');
     assert.equal(await page.locator('.thumb-ask').count(), 1, 'Frage nach Vorschaubildern');
     await page.click('[data-thumbs="ja"]');
@@ -167,16 +148,18 @@ async function step(name, fn) {
     const t = await page.locator('#korrekturen').innerText();
     assert.match(t, /UG-C9999/);
     assert.match(t, /Belegt\s*→\s*Teilweise belegt/);
-    assert.match(await page.locator('#korrekturen .kb-changes a').first().getAttribute('href'), /^#\/video\/GbhI-p_ycJE\/aussage\/GbhI-p_ycJE-A0023$/);
+    /* Die Testkorrektur verlinkt die betroffene Aussage (echte Korrekturvorgänge stehen ebenfalls in der Liste). */
+    const hrefs = await page.locator('#korrekturen .kb-changes a').evaluateAll(a => a.map(x => x.getAttribute('href')));
+    assert.ok(hrefs.includes('#/video/GbhI-p_ycJE/aussage/GbhI-p_ycJE-A0023'), hrefs.join(', '));
     for (const [id, expect] of [['geschlecht', true], ['geschlecht/selbstbestimmungsgesetz', true], ['corona', false]]) {
       await page.goto(url + '#/thema/' + id);
-      await page.waitForSelector('h1');
+      await page.waitForFunction(h => document.documentElement.dataset.route === h, '#/thema/' + id);
       assert.equal(await page.locator('#korrekturen').count(), expect ? 1 : 0, id);
     }
   });
   await step('Internes Thema ist erreichbar und gekennzeichnet', async () => {
     await page.goto(url + '#/thema/waffenrecht');
-    await page.waitForSelector('h1');
+    await page.waitForFunction(h => document.documentElement.dataset.route === h, '#/thema/waffenrecht');
     assert.match(await page.locator('.video-head').innerText(), /noch keine eigene Kategorie/);
   });
   await step('Videoseite zeigt Themen-Chips', async () => {
@@ -194,7 +177,7 @@ async function step(name, fn) {
   await step('Schmale Ansicht ohne waagrechtes Scrollen', async () => {
     await page.setViewportSize({ width: 375, height: 800 });
     await page.goto(url + '#/thema/geschlecht');
-    await page.waitForSelector('h1');
+    await page.waitForFunction(h => document.documentElement.dataset.route === h, '#/thema/geschlecht');
     const over = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
     assert.ok(over <= 1, 'Überbreite ' + over);
     await shot('thema-geschlecht-mobil');

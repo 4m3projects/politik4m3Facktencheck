@@ -160,6 +160,18 @@ p { margin: 0 0 1em; }
 .mainnav a { color: var(--text-2); text-decoration: none; padding: 6px 10px; border-radius: 8px; font-size: .95rem; }
 .mainnav a:hover { background: var(--surface-2); color: var(--text); }
 .mainnav a[aria-current="page"] { background: var(--accent-soft); color: var(--accent-ink); }
+/* Schmale Bildschirme: Die Kopfzeile bleibt oben stehen. Die Navigation steht deshalb in einer einzigen, waagerecht
+   wischbaren Zeile statt in zwei Zeilen, damit die Kopfzeile nicht ein Fünftel des Bildschirms belegt. */
+@media (max-width: 719px) {
+  .topbar-inner { min-height: 52px; row-gap: 0; }
+  .mainnav {
+    flex-wrap: nowrap; width: calc(100% + 32px); margin: 0 -16px; padding: 0 28px 6px 16px;
+    overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch;
+    mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent);
+  }
+  .mainnav::-webkit-scrollbar { display: none; }
+  .mainnav a { flex: none; padding: 6px 9px; font-size: .92rem; }
+}
 
 main { padding: 0 0 64px; min-height: 60vh; }
 main:focus { outline: none; }
@@ -250,6 +262,8 @@ a.card:hover { transform: translateY(-2px); border-color: var(--line-strong); }
 .vc-item[tabindex="-1"]:focus-visible, .result-count[tabindex="-1"]:focus-visible {
   outline: 2px solid var(--accent); outline-offset: 2px;
 }
+/* Nach einem Seitenwechsel bekommt die Hauptüberschrift den Fokus (app.js focusNewPage); sie ist kein Bedienelement. */
+main h1[tabindex="-1"]:focus { outline: none; }
 @media (pointer: coarse) { .legend-filter { min-height: 44px; } }
 
 
@@ -578,6 +592,8 @@ body.vc-lock { overflow: hidden; }
 .cmp .sources { padding-left: 18px; overflow-wrap: anywhere; }
 @media (max-width: 700px) { .cmp-grid { grid-template-columns: 1fr; } }
 .btn-note { margin: 8px 0 0; color: var(--text-2); max-width: 70ch; }
+.share-status { margin: 6px 0 0; color: var(--text-2); overflow-wrap: anywhere; }
+.share-status:empty { display: none; }
 
 /* YouTube-Vorschaubilder (nur nach Zustimmung) */
 .thumb-ask { margin: 0 0 16px; }
