@@ -53,7 +53,19 @@ function deDate(iso) {
 function videoTimeUrl(url, sec) {
   const u = safeUrl(url);
   if (!u) return null;
-  return u + (u.includes('?') ? '&' : '?') + 't=' + Math.max(0, Math.floor(sec)) + 's';
+  try {
+    const target = new URL(u);
+    target.searchParams.set('t', Math.max(0, Math.floor(sec)) + 's');
+    return target.href;
+  } catch (_) { return null; }
+}
+function videoAtHref(v, sec) {
+  const scope = v.data?.scope;
+  const ytId = FactSync.youtubeId(scope?.videoUrl);
+  if (!ytId || (scope.videoId && scope.videoId !== ytId) ||
+      !Number.isFinite(sec) || sec < 0 ||
+      (Number.isFinite(scope.durationSeconds) && sec >= scope.durationSeconds)) return null;
+  return `#/video/${encodeURIComponent(v.id)}/video/zeit/${Math.floor(sec)}`;
 }
 function num(n) { return Number(n).toLocaleString('de-DE'); }
 function pct(n) { return n == null ? '–' : Number(n).toLocaleString('de-DE', { maximumFractionDigits: 1 }) + ' %'; }
@@ -110,19 +122,51 @@ function bucketOf(c) {
 }
 
 /* Verteilung aller strukturierten Aussagen: Endbewertungen plus offene/laufende Prüfungen. */
-function distribution(claims) {
+function distribution(claims, filterId = null) {
   const buckets = [...VERDICTS, ...STATUS].map(b => ({ ...b, name: FactIndex.CONFIG.legacyVerdicts.includes(b.name) ? b.name + ' (Altbewertung)' : b.name, n: 0 }));
   for (const c of claims) {
     const b = buckets.find(x => x.key === bucketOf(c));
     if (b) b.n++;
   }
   const total = claims.length || 1;
-  const bar = buckets.filter(b => b.n > 0).map(b =>
-    `<span class="fill-${b.key}" style="flex:${b.n}" data-tip="${esc(b.name)}: ${b.n} von ${claims.length} (${pct(b.n / total * 100)})"></span>`).join('');
-  const legend = buckets.filter(b => b.n > 0).map(b =>
-    `<li><i class="fill-${b.key}" aria-hidden="true"></i>${esc(b.name)} <b>${b.n}</b></li>`).join('');
+  const bar = buckets.filter(b => b.n > 0).map(b => {
+    const tip = esc(`${b.name}: ${b.n} von ${claims.length} (${pct(b.n / total * 100)})`);
+    const segment = `class="fill-${b.key}${filterId ? ' dist-filter' : ''}" style="flex:${b.n}" data-tip="${tip}"`;
+    return filterId
+      ? `<button type="button" ${segment} aria-label="${tip} – Aussagen filtern" data-verdict-filter="${esc(b.key)}" aria-controls="${esc(filterId)}" aria-pressed="false"></button>`
+      : `<span ${segment}></span>`;
+  }).join('');
+  const legend = buckets.filter(b => b.n > 0).map(b => {
+    const entry = `<i class="fill-${b.key}" aria-hidden="true"></i>${esc(b.name)} <b>${b.n}</b>`;
+    return filterId
+      ? `<li><button type="button" class="legend-filter" data-verdict-filter="${esc(b.key)}" aria-controls="${esc(filterId)}" aria-pressed="false">${entry}</button></li>`
+      : `<li>${entry}</li>`;
+  }).join('');
   const label = buckets.filter(b => b.n > 0).map(b => `${b.name}: ${b.n}`).join(', ');
-  return `<div class="dist" role="img" aria-label="Verteilung der ${claims.length} strukturierten Aussagen – ${esc(label)}">${bar}</div><ul class="legend">${legend}</ul>`;
+  return `<div class="dist${filterId ? ' dist-interactive' : ''}" role="${filterId ? 'group' : 'img'}" aria-label="Verteilung der ${claims.length} strukturierten Aussagen – ${esc(label)}">${bar}</div><ul class="legend">${legend}</ul>`;
+}
+
+/* Dieselbe Bewertungs-Auswahl wie das Dropdown, ohne weitere Filter zu verändern. */
+function bindVerdictLegend(root, select, cards, empty, onJump) {
+  const buttons = [...root.querySelectorAll('[data-verdict-filter]')];
+  const sync = () => {
+    for (const b of buttons) b.setAttribute('aria-pressed', String(b.dataset.verdictFilter === select.value));
+  };
+  select.addEventListener('input', sync);
+  sync();
+  for (const b of buttons) b.addEventListener('click', () => {
+    if (document.querySelector('.tip-panel:not([hidden])')) hideTip();
+    select.value = b.dataset.verdictFilter;
+    select.dispatchEvent(new Event('input', { bubbles: true }));
+    const target = cards.find(card => !card.hidden) || empty;
+    if (onJump) onJump();
+    target.setAttribute('tabindex', '-1');
+    target.focus({ preventScroll: true });
+    target.scrollIntoView({ block: 'start', behavior: 'instant' });
+    const barBottom = document.querySelector('.topbar')?.getBoundingClientRect().bottom || 0;
+    const overlap = barBottom + 8 - target.getBoundingClientRect().top;
+    if (overlap > 0) window.scrollBy({ top: -overlap, behavior: 'instant' });
+  });
 }
 
 /* ---------- Hinweistafeln (Tooltips) ----------
@@ -237,7 +281,16 @@ function unescapeMdText(s) {
 }
 
 function mdLink(text, href, ctx) {
-  if (/^https:\/\//i.test(href)) return `<a href="${esc(href)}" rel="noopener noreferrer" target="_blank">${text}</a>`;
+  if (/^https:\/\//i.test(href)) {
+    const external = extLink(href, text);
+    const scope = ctx.video?.data?.scope;
+    if (!scope || FactSync.youtubeId(href) !== FactSync.youtubeId(scope.videoUrl)) return external;
+    let t;
+    try { t = new URL(href).searchParams.get('t'); } catch (_) { return external; }
+    if (!/^\d{1,7}s?$/.test(t || '')) return external;
+    const sec = parseInt(t, 10), here = videoAtHref(ctx.video, sec);
+    return here ? `<a href="${esc(here)}" aria-label="Fundstelle bei ${hms(sec)} im Seitenplayer öffnen">${text}</a> <span class="report-time-alt">(${extLink(href, 'YouTube')})</span>` : external;
+  }
   if (/^[a-z]+:/i.test(href)) return text; // andere Schemata werden nicht verlinkt
   const [path, frag] = splitFragment(href);
   const anchor = decodeLinkPart(frag);
@@ -378,14 +431,15 @@ async function loadVideo(id) {
   if (state.videos.has(id)) return state.videos.get(id);
   const entry = state.index.videos.find(v => v.id === id);
   if (!entry) throw new Error('Unbekanntes Video: ' + id);
-  const [readme, data, stats, rhet] = await Promise.all([
+  const [readme, data, stats, rhet, intro] = await Promise.all([
     getText(id + '/README.md').catch(() => ''),
     entry.structured ? getJson(id + '/strukturiert/aussagen.json') : Promise.resolve(null),
     entry.structured ? getJson(id + '/strukturiert/statistik.json').catch(() => null) : Promise.resolve(null),
     /* Zweite Ebene (Rhetorik) ist optional; fehlt sie, gilt das Video als rhetorisch noch nicht geprüft. */
-    entry.rhetoric ? getJson(id + '/rhetorik.json').catch(() => null) : Promise.resolve(null)
+    entry.rhetoric ? getJson(id + '/rhetorik.json').catch(() => null) : Promise.resolve(null),
+    entry.files?.includes('01_kurz.md') ? getText(id + '/01_kurz.md').catch(() => '') : Promise.resolve('')
   ]);
-  const v = { ...entry, readme, meta: readmeMeta(readme), data, stats, rhet };
+  const v = { ...entry, readme, meta: readmeMeta(readme), data, stats, rhet, intro };
   state.videos.set(id, v);
   return v;
 }
@@ -937,15 +991,19 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
   const color = c.verdict ? `var(--v-${VKEY[c.verdict]})` : isUnverifiable(c) ? 'var(--s-nichtpruefbar)' : (c.status === 'In Bearbeitung' ? 'var(--s-bearbeitung)' : 'var(--s-offen)');
   const spk = id => (id && speakers[id] ? (speakers[id].name || 'Unbenannte Stimme ' + id) : id);
 
+  const firstTime = (c.occurrences || []).find(o => videoAtHref(v, o.startSeconds));
+  const firstHref = firstTime && videoAtHref(v, firstTime.startSeconds);
   const occ = (c.occurrences || []).map(o => {
     let who;
     if (o.attributionStatus === 'Bestätigt') who = `<strong>${esc(spk(o.speakerId))}</strong> <span class="badge plain">Zuordnung bestätigt</span>`;
     else if (o.attributionStatus === 'Plausibel') who = `vermutlich <strong>${esc(spk(o.candidateSpeakerId))}</strong> <span class="badge plain">Zuordnung plausibel, nicht bestätigt</span>`;
     else who = `<span class="badge plain">Sprecher ungeklärt</span>`;
-    const url = videoTimeUrl(d.scope.videoUrl, o.startSeconds);
+    const here = videoAtHref(v, o.startSeconds);
+    const url = Number.isFinite(o.startSeconds) && o.startSeconds >= 0 ? videoTimeUrl(d.scope.videoUrl, o.startSeconds) : null;
     const hist = (o.timeHistory || []).map(h => `<li>${hms(h.startSeconds)}–${hms(h.endSeconds)} (${esc(h.precision)}): ${esc(h.basis)}</li>`).join('');
     return `<div class="occ">
-      <div class="occ-top">${url ? extLink(url, `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`) : `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`}
+      <div class="occ-top">${here ? `<a class="time" href="${esc(here)}" aria-label="Fundstelle bei ${hms(o.startSeconds)} im Seitenplayer öffnen">▶ ${hms(o.startSeconds)}–${hms(o.endSeconds)}</a>` : (url ? `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>` : '<span class="time">Ohne Zeitmarke</span>')}
+        ${url ? extLink(url, 'Auf YouTube ansehen') : ''}
         <span class="badge plain">Zeit ${esc(o.precision)}</span>${who}<span class="badge plain">${esc(o.role)} (${esc(o.roleStatus)})</span></div>
       <dl class="kv">
         ${o.note ? `<dt>Hinweis</dt><dd>${esc(o.note)}</dd>` : ''}
@@ -993,6 +1051,7 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
         <div class="claim-desc-label">Prüfgegenstand – unsere Beschreibung, kein Zitat</div>
         <p class="claim-desc">${esc(c.description)}</p>
         <p class="claim-reason">${esc(c.reason)}</p>
+        ${firstHref ? `<a class="claim-watch" href="${esc(firstHref)}">▶ Im Seitenplayer ab ${shortTime(firstTime.startSeconds)}</a>` : ''}
         ${fiAttributionNotice(c)}
         ${rhetBlock(rhetList, v)}
         ${counterBlock(counters, false)}
@@ -1065,11 +1124,71 @@ function videoCrumbs(v) {
   return `<nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / ${origs.length ? origs.join(' · ') + ' / ' : ''}<span aria-current="page">${esc(crumbTitle(v.id, v))}</span></nav>`;
 }
 
+/* Editorial text is plain text, and featured items reference existing claims rather than copying verdicts. */
+function videoOverview(v) {
+  const claims = v.data?.claims || [];
+  const text = v.meta['Kurzüberblick'] || (v.intro || '').split(/\r?\n\s*\r?\n/)
+    .map(s => stripMd(s.replace(/\s+/g, ' ')).trim())
+    .find(s => s.length > 50 && !/^(?:[#*\[>-]|Stand\s*:|Status\s*:)/i.test(s));
+  const clean = String(text || '').trim();
+  const sentences = clean.match(/[^.!?]+[.!?](?=\s|$)/g) || [];
+  let intro = clean.length <= 380 ? clean : '';
+  if (!intro) for (const s of sentences) {
+    if ((intro + s).length > 380) break;
+    intro += s;
+  }
+  if (clean && !intro) intro = clean.slice(0, 377).replace(/\s+\S*$/, '') + '…';
+  const named = role => [...new Set((v.data?.speakers || []).filter(s => role.test(s.videoRole || '') && !/plausibel|vermutet|kandidat/i.test(s.videoRole) && s.name).map(s => s.name))].slice(0, 3).join(', ');
+  const host = v.meta.Moderation || named(/\b(?:Moderation|Moderator(?:in)?|Gastgeber(?:in)?|Host|Interviewer(?:in)?)\b/i);
+  const guest = v.meta.Gast || named(/^(?:Interviewgast|Gast)\b/i);
+  const explicit = (v.meta.Kernaussagen || '').split(',').map(x => x.trim()).filter(Boolean);
+  const distinct = list => [...new Map(list.map(c => [c.id, c])).values()];
+  let picks = distinct(explicit.map(key => claims.find(c => c.id === key || c.id === v.id + '-' + key)).filter(Boolean));
+  if (!picks.length) {
+    const eligible = claims.filter(c => c.description && c.verdict && c.verdict !== 'Meinung / Prognose' && c.sourceRefs?.length &&
+      !['Zitierte Person', 'Ungeklärt'].includes(c.attribution?.statementBy) && c.attribution?.creatorStance !== 'Distanziert');
+    const chapters = new Set();
+    picks = eligible.filter(c => {
+      if (chapters.has(c.chapter)) return false;
+      chapters.add(c.chapter);
+      return true;
+    }).slice(0, 3);
+    if (picks.length < 3) picks = distinct([...picks, ...eligible]);
+  }
+  if (!intro && !host && !guest && !picks.length) return '';
+  const items = picks.slice(0, 3).map(c => {
+    const desc = c.description.length > 170 ? c.description.slice(0, 167).replace(/\s+\S*$/, '') + '…' : c.description;
+    const first = (c.occurrences || []).find(o => videoAtHref(v, o.startSeconds));
+    const to = first && videoAtHref(v, first.startSeconds);
+    const label = 'overview-' + esc(c.id);
+    return `<li><p id="${label}-claim">${esc(desc)}</p><div class="video-overview-links">
+      <a id="${label}-proof" aria-labelledby="${label}-proof ${label}-claim" href="#/video/${esc(v.id)}/aussage/${esc(c.id)}">Prüfung und Belege</a>
+      ${to ? `<a href="${esc(to)}">▶ Stelle bei ${shortTime(first.startSeconds)}</a>` : ''}
+    </div></li>`;
+  }).join('');
+  return `<section class="video-overview" aria-labelledby="video-overview-title">
+    <h2 id="video-overview-title">Kurzüberblick</h2>
+    ${intro ? `<p class="video-overview-intro">${esc(intro)}</p>` : ''}
+    ${host || guest ? `<dl class="video-overview-roles">
+      ${host ? `<div><dt>Moderation</dt><dd>${esc(host)}</dd></div>` : ''}
+      ${guest ? `<div><dt>Gast</dt><dd>${esc(guest)}</dd></div>` : ''}
+    </dl>` : ''}
+    ${items ? `<h3>${explicit.length ? 'Zentrale Aussagen' : 'Ausgewählte Aussagen'}</h3><ul class="video-overview-claims">${items}</ul>` : ''}
+  </section>`;
+}
+
+function shortTime(sec) { return hms(sec).replace(/^00:/, ''); }
+
 function videoHeader(v, tab) {
   const scope = v.data?.scope;
+  const youtubeUrl = scope?.videoUrl || v.video?.videoUrl;
+  const playerPath = v.data && FactSync.youtubeId(youtubeUrl) ? `#/video/${esc(v.id)}/video` : null;
+  const playPath = playerPath && tab !== 'video' ? playerPath + '/start' : null;
+  const preview = playPath ? thumbImg(v.id, youtubeUrl, 'video-preview-img') : '';
+  const playbackTip = 'Startet den YouTube-Player (youtube-nocookie.com) direkt neben dem Faktencheck. Dabei werden Daten an YouTube übertragen.';
   const tabs = [
     v.data ? ['aussagen', `#/video/${v.id}`, 'Aussagen'] : null,
-    v.data && FactSync.youtubeId(scope?.videoUrl) ? ['video', `#/video/${v.id}/video`, 'Video mit Faktencheck'] : null,
+    playerPath ? ['video', playerPath, 'Video mit Faktencheck'] : null,
     ['berichte', `#/video/${v.id}/bericht/README.md`, 'Berichte'],
     v.video?.role === 'original' ? ['reaktionen', `#/video/${v.id}/reaktionen`, `Reaktionen (${(state.rel.byOriginal.get(v.id) || []).length})`] : null,
     v.video?.role === 'reaction' ? ['reaktionen', `#/video/${v.id}/reaktionen`, 'Bezug zum Original'] : null,
@@ -1077,17 +1196,19 @@ function videoHeader(v, tab) {
   return `${videoCrumbs(v)}
   <header class="video-head">
     <h1>${esc(v.title)}</h1>
+    ${tab !== 'video' ? videoOverview(v) : ''}
     ${roleLine(v)}
     ${typeof videoTopicLine === 'function' ? videoTopicLine(v.id) : ''}
     ${fiHeader(v)}
     ${v.video?.workStatus === 'Abgeschlossen' ? `<p class="meta"><strong>${esc(reviewLabel(v))}</strong> · Darstellung: ${esc(FactRhetoric.reviewState(v.rhet).status)}</p>` : ''}
     <ul class="facts">${videoFacts(v, true)}</ul>
+    ${preview ? `<a class="video-preview" href="${playPath}" aria-label="Video mit Faktencheck hier abspielen" data-tip="${playbackTip}">${preview}<span class="video-preview-play" aria-hidden="true">▶</span></a>` : ''}
     <div class="btn-row">
-      ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? `<a class="btn" href="#/video/${esc(v.id)}/video/start" data-tip="Startet den YouTube-Player (youtube-nocookie.com) direkt neben dem Faktencheck. Dabei werden Daten an YouTube übertragen.">▶ Video mit Faktencheck hier abspielen</a>` : ''}
-      ${(scope?.videoUrl || v.video?.videoUrl) ? extLink(scope?.videoUrl || v.video.videoUrl, `<span class="btn ghost">${v.video?.role === 'reaction' ? 'Video' : 'Originalvideo'} auf YouTube</span>`) : ''}
+      ${playPath ? `<a class="btn" href="${playPath}" data-tip="${playbackTip}">▶ Video mit Faktencheck hier abspielen</a>` : ''}
+      ${youtubeUrl ? extLink(youtubeUrl, `<span class="btn">${v.video?.playbackUrl ? 'Musikvideo' : v.video?.role === 'reaction' ? 'Video' : 'Originalvideo'} auf YouTube</span>`) : ''}
       <a class="btn ghost" href="${esc(blobUrl('faktenchecks/' + v.id))}" rel="noopener noreferrer" target="_blank">Daten auf GitHub</a>
     </div>
-    ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? '<p class="small btn-note">Der Knopf „hier abspielen“ lädt den YouTube-Player im erweiterten Datenschutzmodus; dabei werden Daten wie deine IP-Adresse an YouTube (Google) übertragen.</p>' : ''}
+    ${playPath ? '<p class="small btn-note">„Hier abspielen“ lädt den YouTube-Player im erweiterten Datenschutzmodus; dabei werden Daten wie deine IP-Adresse an YouTube (Google) übertragen.</p>' : ''}
   </header>
   <nav class="tabs" aria-label="Ansicht">${tabs.map(t => `<a href="${esc(t[1])}"${t[0] === tab ? ' aria-current="page"' : ''}>${t[2]}</a>`).join('')}</nav>`;
 }
@@ -1133,7 +1254,7 @@ async function pageVideo(id, focusClaim) {
           <div style="margin-top:16px">
             <h2>Verteilung aller erfassten Aussagen</h2>
             <p class="small">Hier zählen auch zitierte, hinterfragte und zurückgewiesene Aussagen mit.</p>
-            ${distribution(d.claims)}
+            ${distribution(d.claims, 'claims')}
           </div>
           <div style="margin-top:16px">${rhetSummary(v, true)}</div>
         </section>
@@ -1194,6 +1315,7 @@ async function pageVideo(id, focusClaim) {
     document.getElementById('count').textContent = n === cards.length ? `${n} Aussagen` : `${n} von ${cards.length} Aussagen`;
   };
   [q, fv, fc, fr].filter(Boolean).forEach(el => el.addEventListener('input', apply));
+  bindVerdictLegend(main(), fv, cards, document.getElementById('count'));
   document.querySelectorAll('[data-rhet-filter]').forEach(b => b.addEventListener('click', () => {
     if (!fr) return;
     fr.value = fr.value === b.dataset.rhetFilter ? '' : b.dataset.rhetFilter;
@@ -1207,8 +1329,13 @@ async function pageVideo(id, focusClaim) {
     const el = document.getElementById(focusClaim);
     if (el) {
       el.classList.add('highlight');
-      el.querySelector(':scope > details').open = true;
-      requestAnimationFrame(() => el.scrollIntoView({ block: 'start' }));
+      const details = el.querySelector(':scope > details');
+      details.open = true;
+      requestAnimationFrame(() => {
+        if (!el.isConnected) return;
+        details.querySelector(':scope > summary').focus({ preventScroll: true });
+        el.scrollIntoView({ block: 'start' });
+      });
     }
   } else {
     window.scrollTo(0, 0);
@@ -1251,7 +1378,7 @@ async function pageReport(id, file, anchor = '', hash = location.hash, rjump = n
 
   const src = await getText(v.id + '/' + file);
   if (hash !== location.hash) return false;
-  const html = renderMarkdown(src, { videoId: v.id, file, files: v.files });
+  const html = renderMarkdown(src, { videoId: v.id, video: v, file, files: v.files });
   setPage(`<div class="wrap">
     ${videoHeader(v, 'berichte')}
     <div class="report-layout">
@@ -1557,7 +1684,10 @@ async function routePage(hash = location.hash, rjump = null) {
     if (hash !== location.hash) return;
     if (report) return await pageReport(report.id, report.file, report.anchor, hash, rjump);
     if (parts[0] === 'video' && parts[1]) {
-      if (parts[2] === 'video') return await pageVideoSync(parts[1], { autostart: parts[3] === 'start' });
+      if (parts[2] === 'video') return await pageVideoSync(parts[1], {
+        autostart: parts[3] === 'start',
+        startAt: parts[3] === 'zeit' && /^\d{1,7}$/.test(parts[4] || '') && parts.length === 5 ? Number(parts[4]) : null
+      });
       if (parts[2] === 'reaktionen') return await pageRelations(parts[1]);
       if (parts[2] === 'aussage') return await pageVideo(parts[1], parts[3]);
       return await pageVideo(parts[1]);

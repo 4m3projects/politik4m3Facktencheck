@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "videoId": "CZEa85NHWog",
+  "basis": "Erstzuordnung anhand des sichtbaren Originalplayer-Transkripts. Bestehende Themen werden genutzt; kein Zusammenhang mit fremden Videos allein aus gemeinsamen Stichworten abgeleitet.",
+  "topics": [
+    {
+      "topic": "ki",
+      "relevance": "Schwerpunkt",
+      "basis": "KI-Modelle, Halbleiter, Nutzung und Risiken.",
+      "segments": [
+        {
+          "startSeconds": 476,
+          "endSeconds": 550,
+          "note": "Technologie und Standort."
+        },
+        {
+          "startSeconds": 714,
+          "endSeconds": 925,
+          "note": "KI-Einsatz, Regulierung und Risiken."
+        }
+      ]
+    },
+    {
+      "topic": "wirtschaft",
+      "relevance": "Schwerpunkt",
+      "basis": "Unternehmensführung, Börse und reale Wirtschaftsleistung.",
+      "segments": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 430,
+          "note": "Unternehmen, Politik und Halbleiterhandel."
+        },
+        {
+          "startSeconds": 442,
+          "endSeconds": 714,
+          "note": "Standort, BIP und Reformpolitik."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "CZEa85NHWog-A0001",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0002",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0003",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0004",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0005",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0006",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0007",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0008",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0009",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0010",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0011",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0012",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0013",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0014",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0015",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0016",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0017",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0018",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0019",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0020",
+      "topics": [
+        "ki"
+      ]
+    },
+    {
+      "claimId": "CZEa85NHWog-A0021",
+      "topics": [
+        "ki"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-27",
+      "agent": "Kai",
+      "change": "Erstzuordnung: KI und Wirtschaft."
+    },
+    {
+      "date": "2026-11-27",
+      "agent": "Kai",
+      "change": "Zweite Prüfung anhand von Originalfundstellen; fünf neue Tatsachenbehauptungen zu Wirtschaft und KI einschließlich Robotik."
+    }
+  ]
+}

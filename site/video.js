@@ -177,7 +177,7 @@ async function pageVideoSync(id, opts = {}) {
           <section class="vc-overview" aria-labelledby="vc-dist-h">
             <h2 class="vc-list-head" id="vc-dist-h">Verteilung aller erfassten Aussagen</h2>
             <p class="small">${num(d.claims.length)} Aussagen insgesamt. Wiederholungen werden hier nur einmal gezählt; die Liste zeigt alle Fundstellen.</p>
-            ${distribution(d.claims)}
+            ${distribution(d.claims, 'vc-scroll')}
           </section>
           <h2 class="vc-list-head" id="vc-list-h">Fundstellen im Zeitverlauf <span class="muted">(${timeline.entries.length})</span></h2>
           <div class="filters vc-filters" role="search" aria-label="Fundstellen filtern">
@@ -228,12 +228,13 @@ async function pageVideoSync(id, opts = {}) {
       : shown === total ? `${num(total)} Fundstellen` : `${num(shown)} von ${num(total)} Fundstellen`;
     clear.disabled = !(search.value || verdict.value || chapter.value);
   };
-  const resetFilters = () => { search.value = verdict.value = chapter.value = ''; applyFilters(); };
+  const resetFilters = () => { search.value = verdict.value = chapter.value = ''; verdict.dispatchEvent(new Event('input', { bubbles: true })); };
   [search, verdict, chapter].forEach(el => el.addEventListener('input', applyFilters));
   clear.addEventListener('click', () => { resetFilters(); search.focus(); });
   applyFilters();
 
   let player = null, ready = false, pendingSeek = null, controller = null, lastUserScroll = 0, destroyed = false, expanded = false, lastFocus = null, autoplay = false;
+  bindVerdictLegend(vc, verdict, Object.values(itemEls), $('vc-result'), () => { lastUserScroll = Date.now(); });
 
   /* ---------- Layout und Großansicht ---------- */
   const setLayout = layout => {
@@ -368,7 +369,7 @@ async function pageVideoSync(id, opts = {}) {
     frame.innerHTML = `<div class="vc-consent vc-error" role="alert">
       <h2>Video kann hier nicht abgespielt werden</h2>
       <p>${esc(message)}</p>
-      <div class="btn-row">${extUrl ? extLink(extUrl, '<span class="btn">Video auf YouTube öffnen</span>') : ''}
+      <div class="btn-row">${extUrl ? extLink(videoAtHref(v, opts.startAt) ? videoTimeUrl(extUrl, opts.startAt) : extUrl, '<span class="btn">Video auf YouTube öffnen</span>') : ''}
         <button type="button" class="btn ghost" id="vc-retry">Erneut versuchen</button></div>
       <p class="small">Die Zeitmarken in der Liste öffnen auf Wunsch die jeweilige Stelle direkt auf YouTube („Stelle auf YouTube öffnen“ in den Details).</p>
     </div>`;
@@ -455,6 +456,12 @@ async function pageVideoSync(id, opts = {}) {
   /* Knopf „Video mit Faktencheck hier abspielen“ auf der Detailseite: Der Klick dort ist die
      ausdrückliche Zustimmung (Hinweis steht am Knopf). Gilt nur für diesen Aufruf; die Adresse wird
      auf die normale Video-Ansicht zurückgesetzt, damit Neuladen nicht erneut automatisch startet. */
+  if (videoAtHref(v, opts.startAt)) {
+    seekTo({ start: opts.startAt });
+    // Auch im Alternativlink im Datenschutzhinweis dieselbe Fundstelle öffnen.
+    const fallback = $('vc-consent').querySelector('a');
+    if (fallback) fallback.href = videoTimeUrl(extUrl, opts.startAt);
+  }
   if (opts.autostart) {
     history.replaceState(null, '', `#/video/${id}/video`);
     autoplay = true;

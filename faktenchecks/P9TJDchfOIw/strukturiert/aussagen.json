@@ -334,6 +334,30 @@
       "details": "Wissenschaftliche Dienste des Bundestags, Steffi Menzenbach/Torsten Lämmerzahl, Aktueller Begriff 48/07, 19.09.2007.",
       "accessedOn": "2026-11-22",
       "accessBasis": "Zweiseitigen Text geöffnet und gelesen, insbesondere Beendigung und Normenliste. Historischer systematischer Ausgangspunkt, kein aktueller Einzigartigkeitsbeweis."
+    },
+    {
+      "id": "S041",
+      "title": "Verfassung des Landes Sachsen-Anhalt, 3. Auflage",
+      "url": "https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Broschueren/Verfassung_Grundgesetz_barrierefrei_261125.pdf",
+      "details": "Landtag Sachsen-Anhalt, 3. Auflage, November 2026, Art. 69 Abs. 2, S. 39.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Amtliche Broschüre geöffnet. Art. 69 Abs. 2 und Änderungsnachweis für das Gesetz vom 04.05.2026 gelesen. Belegt den geltenden Wortlaut; die Übergangsvorschrift steht in S038."
+    },
+    {
+      "id": "S042",
+      "title": "Bremer Verfassungsreform: Gesetzestext und Synopse",
+      "url": "https://sd.bremische-buergerschaft.de/sdnetrim/UGhVM0hpd2NXNFdFcExjZYQfdS_TFLLJcb59_mbFX7YeSKIcy0mIMa7bFYnkZ1UR/Gesetzestext_Synopse_21.09.2026.pdf",
+      "details": "Bremische Bürgerschaft, Entwurf vom 21.09.2026, Art. 1 Nr. 5 und Art. 2.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Amtliche Beratungsunterlage geöffnet und vorgeschlagene Kündigungsklausel in Art. 118 sowie geplantes Inkrafttreten gelesen. Belegt den Entwurf."
+    },
+    {
+      "id": "S043",
+      "title": "Parlamentarischer Vorgang zur Bremer Verfassungsreform",
+      "url": "https://sd.bremische-buergerschaft.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZcuVjYuQ7XIlbqC5C5SGisQ",
+      "details": "Bremische Bürgerschaft, Parlamentsdokumentation zur Reform der Landesverfassung 2026.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Vorgang geöffnet und die ausgewiesenen Beratungsstationen gelesen. Auf dieser Seite keine Verkündung oder Inkrafttretensbestätigung gefunden."
     }
   ],
   "speakers": [
@@ -884,11 +908,11 @@
       "status": "Abgeschlossen",
       "verdict": "Belegt",
       "reason": "Art. 69 Abs. 2 enthält inzwischen ausdrücklich einen Zustimmungsvorbehalt auch für Kündigungen. Die eigene Erstprüfung ergänzte dafür den Monat Mai; diese Datierung wird zurückgenommen. S005 nennt den 12.05.2026, S037 und S038 verweisen für Art. 1 Nr. 5 dagegen auf den Zusammentritt der neunten Wahlperiode. Dieser fand laut S039 am 06.10.2026 statt. Für den im November beschriebenen Zustimmungsvorbehalt besteht zwischen diesen Quellen kein Unterschied; der genaue historische Beginn wird erst nach Kontrolle der amtlichen Endverkündung abschließend festgelegt.",
-      "assessmentBasis": "Nachprüfung 22.11.2026 (Codex): Normtext, Gesetzgebungsunterlage, Gesetzeswiedergabe und Sitzungstermin gelesen. Die Monatsangabe war ein eigener Zusatz der Erstprüfung. HP-C0002 dokumentiert dessen Rücknahme.",
+      "assessmentBasis": "Nachprüfung 22.11.2026 (Codex): Normtext, Gesetzgebungsunterlage, Gesetzeswiedergabe und Sitzungstermin gelesen. Die Monatsangabe war ein eigener Zusatz der Erstprüfung. HP-C0002 dokumentiert dessen Rücknahme. Nachtrag 27.11.2026 (Codex): Amtliche Verfassungsausgabe und Herleitung des 06.10.2026 ergänzt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung ohne Altprüfpunkt.",
-        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026. Nachprüfung 22.11.2026 (Codex), HP-C0002: eigene Ergänzung seit Mai 2026 zurückgenommen; Zustimmungsvorbehalt zum Videozeitpunkt und Urteil Belegt erhalten. Vorheriger Prüfgegenstand: Die Kündigung eines Staatsvertrags benötigt in Sachsen-Anhalt seit Mai 2026 die Zustimmung des Landtags."
+        "assessmentChange": "Ersterfassung und Erstbewertung durch ChatGPT am 21.11.2026. Nachprüfung 22.11.2026 (Codex), HP-C0002: eigene Ergänzung seit Mai 2026 zurückgenommen; Zustimmungsvorbehalt zum Videozeitpunkt und Urteil Belegt erhalten. Vorheriger Prüfgegenstand: Die Kündigung eines Staatsvertrags benötigt in Sachsen-Anhalt seit Mai 2026 die Zustimmung des Landtags. Nachtrag 27.11.2026 (Codex): Datum aus Übergangsvorschrift und belegtem Sitzungstermin hergeleitet; Quellenstatus offengelegt."
       },
       "sourceRefs": [
         {
@@ -897,7 +921,7 @@
         },
         {
           "sourceId": "S005",
-          "note": "Sachbeleg bzw. dokumentierte politische Ankündigung; Grenzen und Konditionalität in reason benannt."
+          "note": "Sekundäre Normwiedergabe. Die pauschale Mai-Datierung berücksichtigt die besondere Übergangsvorschrift der Kündigungsregel nicht."
         },
         {
           "sourceId": "S019",
@@ -914,6 +938,10 @@
         {
           "sourceId": "S039",
           "note": "Sitzungstermin 06.10.2026, kein eigener Beweis des rechtlichen Beginns."
+        },
+        {
+          "sourceId": "S041",
+          "note": "Amtliche Verfassungsbroschüre, Art. 69 Abs. 2. Bestätigt den geltenden Wortlaut. Aus der Übergangsvorschrift in S038 und dem Sitzungstermin in S039 ergibt sich der 06.10.2026 als Beginn der Regel. Die Originalausgabe des Gesetz- und Verordnungsblatts lag nicht vor."
         }
       ],
       "openQuestions": [
@@ -965,7 +993,7 @@
       "description": "Sachsen-Anhalt sei das einzige Bundesland, in dem der Landtag einer Kündigung von Staatsverträgen zustimmen müsse.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – abschließend fehlen die Absicherung der zum Videodatum geltenden Fassungen und die Unterscheidung zwischen ausdrücklicher Verfassungsklausel und weitergehenden Zustimmungspflichten. In den gelesenen einschlägigen Artikeln der 15 anderen Länder wurde keine ausdrückliche allgemeine Kündigungsklausel gefunden; mehrere Texte sind ältere amtliche Broschüren. Das belegt noch keine aktuelle bundesweite Einzigartigkeit. Das BVerwG lehnte 1980 für Schleswig-Holstein eine Ausdehnung der Vertragszustimmung auf die Kündigung ab. Gersdorf vertritt 2026 für Medienstaatsverträge einen weiteren Vorbehalt aus der Rundfunkfreiheit. Diese wissenschaftliche Gegenposition ist keine gerichtliche Feststellung. Ohne Klärung dieser Reichweite wird die Aussage weder bestätigt noch widerlegt.",
+      "reason": "Noch nicht geprüft – abschließend fehlen die Absicherung der zum Videodatum geltenden Fassungen und die Unterscheidung zwischen ausdrücklicher Verfassungsklausel und weitergehenden Zustimmungspflichten. In den gelesenen einschlägigen Artikeln der 15 anderen Länder wurde keine ausdrückliche allgemeine Kündigungsklausel gefunden; mehrere Texte sind ältere amtliche Broschüren. Das belegt noch keine aktuelle bundesweite Einzigartigkeit. Das BVerwG lehnte 1980 für Schleswig-Holstein eine Ausdehnung der Vertragszustimmung auf die Kündigung ab. Gersdorf vertritt 2026 für Medienstaatsverträge einen weiteren Vorbehalt aus der Rundfunkfreiheit. Diese wissenschaftliche Gegenposition ist keine gerichtliche Feststellung. Ohne Klärung dieser Reichweite wird die Aussage weder bestätigt noch widerlegt. Ein Bremer Entwurf vom 21.09.2026 sieht eine ausdrückliche Zustimmungspflicht auch für Kündigungen vor (S042). Die eingesehene Vorgangsseite belegt den parlamentarischen Vorgang (S043). Für den Stichtag fehlt aus diesen Unterlagen ein Nachweis, ob die Klausel bereits verkündet und in Kraft war.",
       "assessmentBasis": "Eigene Normrecherche und vollständige Durchsicht des Originalplayer-Transkripts am 22.11.2026; eigener Prüfbericht 04_nachpruefung.md. Kein Bild-/Tonabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1060,10 +1088,18 @@
         {
           "sourceId": "S040",
           "note": "Historischer Vergleichsrahmen; Stand 2007, kein Aktualitätsbeweis."
+        },
+        {
+          "sourceId": "S042",
+          "note": "Vorgeschlagene Klausel in Art. 118, Entwurfsstand."
+        },
+        {
+          "sourceId": "S043",
+          "note": "Parlamentarische Vorgangsseite. Kein Beleg für den Geltungsbeginn."
         }
       ],
       "openQuestions": [
-        "Aktuelle konsolidierte Verfassungsfassungen einschließlich aller Änderungen bis 20.11.2026 statt bloßer älterer Broschüren absichern; besonders Bremer Reform 2026 abgleichen.",
+        "Aktuelle Verfassungsfassungen bis zum 20.11.2026 absichern. Für Bremen insbesondere prüfen, ob und wann die Änderung beschlossen, verkündet und wirksam wurde.",
         "Ausdrückliche allgemeine Klauseln von besonderen medienrechtlichen Zustimmungspflichten und Informationsrechten unterscheiden; aktuelle Rechtsprechung zur Gegenposition Gersdorfs prüfen."
       ],
       "occurrences": [
@@ -1143,6 +1179,16 @@
               "S036"
             ],
             "result": "Gerichtlichen Maßstab und weitergehende rundfunkrechtliche These unterscheiden; keine pauschale Aussage über fehlende Rechte aller anderen Parlamente."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Codex",
+            "strategy": "Bremer Reform anhand der amtlichen Synopse und der parlamentarischen Vorgangsseite abgleichen.",
+            "sourceIds": [
+              "S042",
+              "S043"
+            ],
+            "result": "Entwurf enthält eine Kündigungsklausel. Die eingesehenen Unterlagen belegen keine Geltung am Stichtag."
           }
         ],
         "missingInformation": "Lückenlos aktueller Normstand und Reichweite weiterer medienrechtlicher Vorbehalte.",
